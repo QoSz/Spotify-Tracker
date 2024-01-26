@@ -1,5 +1,21 @@
 [
     {
+        "song_name": "Love & Reggae",
+        "artists": [
+            "Collie Buddz"
+        ],
+        "album": "Hybrid",
+        "played_at": "26/01/2024 - 17:20:33"
+    },
+    {
+        "song_name": "Baby, I Love Your Way",
+        "artists": [
+            "Big Mountain"
+        ],
+        "album": "The Best of Big Mountain",
+        "played_at": "26/01/2024 - 15:48:25"
+    },
+    {
         "song_name": "Hot (Remix) [feat. Gunna and Travis Scott]",
         "artists": [
             "Young Thug",
@@ -50,6 +66,15 @@
         ],
         "album": "Her Loss",
         "played_at": "26/01/2024 - 09:17:13"
+    },
+    {
+        "song_name": "Circo Loco",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "25/01/2024 - 22:44:33"
     },
     {
         "song_name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
@@ -409,30 +434,5 @@
         ],
         "album": "PARTYMOBILE",
         "played_at": "25/01/2024 - 14:05:29"
-    },
-    {
-        "song_name": "Go Crazy",
-        "artists": [
-            "Chris Brown",
-            "Young Thug"
-        ],
-        "album": "Slime & B",
-        "played_at": "25/01/2024 - 14:02:17"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "25/01/2024 - 13:59:23"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "25/01/2024 - 13:56:00"
     }
 ]
