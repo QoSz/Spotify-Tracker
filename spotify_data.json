@@ -1,5 +1,202 @@
 [
     {
+        "song_name": "sdp interlude",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "Birds In The Trap Sing McKnight",
+        "played_at": "26/01/2024 - 09:29:54"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "26/01/2024 - 09:26:43"
+    },
+    {
+        "song_name": "Motley Crew",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "Motley Crew",
+        "played_at": "26/01/2024 - 09:22:39"
+    },
+    {
+        "song_name": "Yes Indeed",
+        "artists": [
+            "Lil Baby",
+            "Drake"
+        ],
+        "album": "Harder Than Ever",
+        "played_at": "26/01/2024 - 09:19:35"
+    },
+    {
+        "song_name": "Circo Loco",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "26/01/2024 - 09:17:13"
+    },
+    {
+        "song_name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+        "artists": [
+            "Internet Money",
+            "Gunna",
+            "Don Toliver",
+            "Lil Uzi Vert"
+        ],
+        "album": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+        "played_at": "25/01/2024 - 22:31:37"
+    },
+    {
+        "song_name": "m y . l i f e (with 21 Savage & Morray)",
+        "artists": [
+            "J. Cole",
+            "21 Savage",
+            "Morray"
+        ],
+        "album": "The Off-Season",
+        "played_at": "25/01/2024 - 22:27:51"
+    },
+    {
+        "song_name": "CAN'T SAY",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "25/01/2024 - 22:24:13"
+    },
+    {
+        "song_name": "Turks & Caicos (feat. 21 Savage)",
+        "artists": [
+            "Rod Wave",
+            "21 Savage"
+        ],
+        "album": "Nostalgia",
+        "played_at": "25/01/2024 - 22:20:07"
+    },
+    {
+        "song_name": "Pull Up (feat. 21 Savage)",
+        "artists": [
+            "Toosii",
+            "21 Savage"
+        ],
+        "album": "NAUJOUR",
+        "played_at": "25/01/2024 - 22:16:43"
+    },
+    {
+        "song_name": "Fair Trade (with Travis Scott)",
+        "artists": [
+            "Drake",
+            "Travis Scott"
+        ],
+        "album": "Certified Lover Boy",
+        "played_at": "25/01/2024 - 22:14:30"
+    },
+    {
+        "song_name": "Love Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "25/01/2024 - 22:09:38"
+    },
+    {
+        "song_name": "2055",
+        "artists": [
+            "Sleepy Hallow"
+        ],
+        "album": "Still Sleep?",
+        "played_at": "25/01/2024 - 22:07:40"
+    },
+    {
+        "song_name": "All My Life (feat. J. Cole)",
+        "artists": [
+            "Lil Durk",
+            "J. Cole"
+        ],
+        "album": "Almost Healed",
+        "played_at": "25/01/2024 - 22:05:36"
+    },
+    {
+        "song_name": "Wet Dreamz",
+        "artists": [
+            "J. Cole"
+        ],
+        "album": "2014 Forest Hills Drive",
+        "played_at": "25/01/2024 - 22:01:52"
+    },
+    {
+        "song_name": "RAPSTAR",
+        "artists": [
+            "Polo G"
+        ],
+        "album": "Hall of Fame",
+        "played_at": "25/01/2024 - 21:57:13"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "25/01/2024 - 21:54:27"
+    },
+    {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "25/01/2024 - 20:28:01"
+    },
+    {
+        "song_name": "Heartless",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "808s & Heartbreak",
+        "played_at": "25/01/2024 - 20:08:25"
+    },
+    {
+        "song_name": "Caught in a Dream",
+        "artists": [
+            "PALASTIC",
+            "LissA"
+        ],
+        "album": "Caught in a Dream",
+        "played_at": "25/01/2024 - 20:04:56"
+    },
+    {
+        "song_name": "Lovin On Me",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Lovin On Me",
+        "played_at": "25/01/2024 - 20:02:13"
+    },
+    {
+        "song_name": "4th Dimension",
+        "artists": [
+            "KIDS SEE GHOSTS",
+            "Louis Prima"
+        ],
+        "album": "KIDS SEE GHOSTS",
+        "played_at": "25/01/2024 - 19:56:36"
+    },
+    {
+        "song_name": "Milkshake",
+        "artists": [
+            "PLÜM"
+        ],
+        "album": "Milkshake",
+        "played_at": "25/01/2024 - 16:09:10"
+    },
+    {
         "song_name": "Heartless",
         "artists": [
             "Kanye West"
@@ -235,207 +432,5 @@
         ],
         "album": "Love Sick",
         "played_at": "25/01/2024 - 13:51:50"
-    },
-    {
-        "song_name": "Ta Ta Ta",
-        "artists": [
-            "Bayanni"
-        ],
-        "album": "Bayanni",
-        "played_at": "25/01/2024 - 11:09:17"
-    },
-    {
-        "song_name": "Asiwaju",
-        "artists": [
-            "Ruger"
-        ],
-        "album": "RU The World",
-        "played_at": "25/01/2024 - 11:02:51"
-    },
-    {
-        "song_name": "Finesse",
-        "artists": [
-            "Pheelz",
-            "Bnxn"
-        ],
-        "album": "Pheelz Good",
-        "played_at": "25/01/2024 - 10:59:14"
-    },
-    {
-        "song_name": "Infinity (feat. Omah Lay)",
-        "artists": [
-            "Olamide",
-            "Omah Lay"
-        ],
-        "album": "Carpe Diem",
-        "played_at": "25/01/2024 - 10:56:42"
-    },
-    {
-        "song_name": "Bandana",
-        "artists": [
-            "Fireboy DML",
-            "Asake"
-        ],
-        "album": "Playboy",
-        "played_at": "25/01/2024 - 10:53:50"
-    },
-    {
-        "song_name": "Rush",
-        "artists": [
-            "Ayra Starr"
-        ],
-        "album": "19 & Dangerous (Deluxe)",
-        "played_at": "25/01/2024 - 10:50:50"
-    },
-    {
-        "song_name": "Cheat On Me (feat. Dave)",
-        "artists": [
-            "Burna Boy",
-            "Dave"
-        ],
-        "album": "Cheat On Me (feat. Dave)",
-        "played_at": "25/01/2024 - 10:47:45"
-    },
-    {
-        "song_name": "INTOXYCATED (feat. Dave)",
-        "artists": [
-            "Oxlade",
-            "Dave"
-        ],
-        "album": "INTOXYCATED (feat. Dave)",
-        "played_at": "25/01/2024 - 10:44:03"
-    },
-    {
-        "song_name": "Slow Motion (feat. Wizkid)",
-        "artists": [
-            "Don Toliver",
-            "Wizkid"
-        ],
-        "album": "Love Sick",
-        "played_at": "25/01/2024 - 10:40:30"
-    },
-    {
-        "song_name": "Dull",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "25/01/2024 - 10:37:41"
-    },
-    {
-        "song_name": "reason",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone (Deluxe Edition)",
-        "played_at": "25/01/2024 - 10:36:00"
-    },
-    {
-        "song_name": "emiliana",
-        "artists": [
-            "CKay"
-        ],
-        "album": "Sad Romance",
-        "played_at": "25/01/2024 - 10:33:33"
-    },
-    {
-        "song_name": "Overloading (OVERDOSE)",
-        "artists": [
-            "Mavins",
-            "Crayon",
-            "Ayra Starr",
-            "LADIPOE",
-            "Magixx",
-            "Boy Spyce"
-        ],
-        "album": "Chapter X",
-        "played_at": "25/01/2024 - 10:30:45"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "25/01/2024 - 10:27:20"
-    },
-    {
-        "song_name": "Location (feat. Burna Boy)",
-        "artists": [
-            "Dave",
-            "Burna Boy"
-        ],
-        "album": "PSYCHODRAMA",
-        "played_at": "25/01/2024 - 10:23:50"
-    },
-    {
-        "song_name": "Sip (Alcohol)",
-        "artists": [
-            "Joeboy"
-        ],
-        "album": "Body & Soul",
-        "played_at": "25/01/2024 - 10:19:48"
-    },
-    {
-        "song_name": "2:30",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Work Of Art",
-        "played_at": "25/01/2024 - 10:17:10"
-    },
-    {
-        "song_name": "Last Last",
-        "artists": [
-            "Burna Boy"
-        ],
-        "album": "Love, Damini",
-        "played_at": "25/01/2024 - 10:14:51"
-    },
-    {
-        "song_name": "Bad Influence",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Get Layd",
-        "played_at": "25/01/2024 - 10:11:58"
-    },
-    {
-        "song_name": "Love Don't Cost A Dime (Re-Up)",
-        "artists": [
-            "Magixx",
-            "Ayra Starr"
-        ],
-        "album": "Love Don't Cost A Dime (Re-Up)",
-        "played_at": "25/01/2024 - 10:09:38"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "25/01/2024 - 10:07:10"
-    },
-    {
-        "song_name": "System (feat. WizKid)",
-        "artists": [
-            "Dave",
-            "Wizkid"
-        ],
-        "album": "We're All Alone In This Together",
-        "played_at": "25/01/2024 - 10:03:45"
-    },
-    {
-        "song_name": "2 Sugar (feat. Ayra Starr)",
-        "artists": [
-            "Wizkid",
-            "Ayra Starr"
-        ],
-        "album": "More Love, Less Ego",
-        "played_at": "25/01/2024 - 10:00:44"
     }
 ]
