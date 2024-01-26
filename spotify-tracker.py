@@ -14,7 +14,6 @@ def fetch_spotify_data():
     results = sp.current_user_recently_played(limit=50)  # Adjust the limit as needed
     return results
 
-from datetime import datetime
 
 def save_to_json(data, filename='spotify_data.json'):
     simplified_data = []
