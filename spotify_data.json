@@ -1,5 +1,389 @@
 [
     {
+        "song_name": "Massive",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "29/01/2024 - 09:24:53"
+    },
+    {
+        "song_name": "Signals",
+        "artists": [
+            "Regard",
+            "Kwabs"
+        ],
+        "album": "Signals",
+        "played_at": "29/01/2024 - 09:19:22"
+    },
+    {
+        "song_name": "ten",
+        "artists": [
+            "Fred again..",
+            "Jozzy"
+        ],
+        "album": "ten",
+        "played_at": "29/01/2024 - 09:16:34"
+    },
+    {
+        "song_name": "Money Trees",
+        "artists": [
+            "Phil Soda",
+            "Lucas Ariel"
+        ],
+        "album": "Money Trees",
+        "played_at": "29/01/2024 - 09:13:32"
+    },
+    {
+        "song_name": "Chills (LA Hills)",
+        "artists": [
+            "Tiësto",
+            "A Boogie Wit da Hoodie"
+        ],
+        "album": "DRIVE",
+        "played_at": "29/01/2024 - 09:10:46"
+    },
+    {
+        "song_name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "artists": [
+            "Tyler ICU",
+            "Tumelo_za",
+            "DJ Maphorisa",
+            "Nandipha808",
+            "Ceeka RSA",
+            "Tyrondee"
+        ],
+        "album": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "played_at": "29/01/2024 - 09:07:42"
+    },
+    {
+        "song_name": "Fever (feat. Lukas Graham)",
+        "artists": [
+            "Kygo",
+            "Lukas Graham"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "29/01/2024 - 09:01:10"
+    },
+    {
+        "song_name": "California Dreamin' (feat. High Jinx)",
+        "artists": [
+            "Chris Lorenzo",
+            "High Jinx"
+        ],
+        "album": "California Dreamin' (feat. High Jinx)",
+        "played_at": "29/01/2024 - 08:57:57"
+    },
+    {
+        "song_name": "I'm Good (Blue)",
+        "artists": [
+            "David Guetta",
+            "Bebe Rexha"
+        ],
+        "album": "I'm Good (Blue)",
+        "played_at": "29/01/2024 - 08:54:41"
+    },
+    {
+        "song_name": "Lost",
+        "artists": [
+            "RSCL",
+            "it's murph",
+            "Twin Diplomacy",
+            "Jack August"
+        ],
+        "album": "Lost",
+        "played_at": "29/01/2024 - 08:51:45"
+    },
+    {
+        "song_name": "I Go Dancing (feat. Ella Henderson)",
+        "artists": [
+            "Frank Walker",
+            "Ella Henderson"
+        ],
+        "album": "I Go Dancing (feat. Ella Henderson)",
+        "played_at": "29/01/2024 - 08:49:12"
+    },
+    {
+        "song_name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "artists": [
+            "Kygo",
+            "Paul McCartney",
+            "Michael Jackson"
+        ],
+        "album": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "played_at": "29/01/2024 - 08:46:29"
+    },
+    {
+        "song_name": "(It Goes Like) Nanana - Edit",
+        "artists": [
+            "Peggy Gou"
+        ],
+        "album": "(It Goes Like) Nanana [Edit]",
+        "played_at": "29/01/2024 - 08:43:34"
+    },
+    {
+        "song_name": "Drifting",
+        "artists": [
+            "Tiësto"
+        ],
+        "album": "Drifting",
+        "played_at": "29/01/2024 - 08:39:43"
+    },
+    {
+        "song_name": "Another Love - Tiësto Remix",
+        "artists": [
+            "Tom Odell",
+            "Tiësto"
+        ],
+        "album": "Another Love (Tiësto Remix)",
+        "played_at": "29/01/2024 - 08:37:15"
+    },
+    {
+        "song_name": "Where Are You Now",
+        "artists": [
+            "Lost Frequencies",
+            "Calum Scott"
+        ],
+        "album": "All Stand Together",
+        "played_at": "29/01/2024 - 08:34:10"
+    },
+    {
+        "song_name": "Prada",
+        "artists": [
+            "cassö",
+            "RAYE",
+            "D-Block Europe"
+        ],
+        "album": "Prada",
+        "played_at": "29/01/2024 - 08:31:40"
+    },
+    {
+        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
+        "artists": [
+            "Swedish House Mafia",
+            "Connie Constance"
+        ],
+        "album": "Paradise Again",
+        "played_at": "29/01/2024 - 08:29:28"
+    },
+    {
+        "song_name": "Asking",
+        "artists": [
+            "Sonny Fodera",
+            "MK",
+            "Clementine Douglas"
+        ],
+        "album": "Asking",
+        "played_at": "29/01/2024 - 08:25:54"
+    },
+    {
+        "song_name": "Thunder",
+        "artists": [
+            "Lucas Estrada",
+            "Brendan Mills",
+            "BELLA X",
+            "LRMEO"
+        ],
+        "album": "Thunder",
+        "played_at": "29/01/2024 - 08:22:42"
+    },
+    {
+        "song_name": "Never say no",
+        "artists": [
+            "Roman Müller"
+        ],
+        "album": "Never say no",
+        "played_at": "29/01/2024 - 08:20:05"
+    },
+    {
+        "song_name": "Let Me Go",
+        "artists": [
+            "Plivi",
+            "Emund"
+        ],
+        "album": "Let Me Go",
+        "played_at": "29/01/2024 - 08:17:48"
+    },
+    {
+        "song_name": "Jolene",
+        "artists": [
+            "Victony",
+            "KTIZO"
+        ],
+        "album": "Outlaw",
+        "played_at": "28/01/2024 - 17:35:32"
+    },
+    {
+        "song_name": "Gobe",
+        "artists": [
+            "Pheelz",
+            "Olamide",
+            "Naira Marley"
+        ],
+        "album": "Gobe",
+        "played_at": "28/01/2024 - 13:36:47"
+    },
+    {
+        "song_name": "Gobe",
+        "artists": [
+            "Pheelz",
+            "Olamide",
+            "Naira Marley"
+        ],
+        "album": "Gobe",
+        "played_at": "28/01/2024 - 13:11:22"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "27/01/2024 - 22:35:13"
+    },
+    {
+        "song_name": "Replay",
+        "artists": [
+            "Tems"
+        ],
+        "album": "If Orange Was A Place",
+        "played_at": "27/01/2024 - 22:17:40"
+    },
+    {
+        "song_name": "Do It Right",
+        "artists": [
+            "Don Toliver"
+        ],
+        "album": "Love Sick",
+        "played_at": "27/01/2024 - 22:14:42"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "27/01/2024 - 22:11:52"
+    },
+    {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "27/01/2024 - 20:29:27"
+    },
+    {
+        "song_name": "heart on my sleeve",
+        "artists": [
+            "ghostwriter"
+        ],
+        "album": "heart on my sleeve",
+        "played_at": "27/01/2024 - 20:26:27"
+    },
+    {
+        "song_name": "HITTIN MY SHOULDER",
+        "artists": [
+            "Lil Uzi Vert"
+        ],
+        "album": "RED & WHITE",
+        "played_at": "27/01/2024 - 20:24:14"
+    },
+    {
+        "song_name": "16",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "The Melodic Blue",
+        "played_at": "27/01/2024 - 20:21:50"
+    },
+    {
+        "song_name": "Did It Again",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "27/01/2024 - 20:19:18"
+    },
+    {
+        "song_name": "Way down We Go",
+        "artists": [
+            "KALEO"
+        ],
+        "album": "A/B",
+        "played_at": "27/01/2024 - 20:17:24"
+    },
+    {
+        "song_name": "Lose It All (I Don't Wanna)",
+        "artists": [
+            "BUNT."
+        ],
+        "album": "Lose It All (I Don't Wanna)",
+        "played_at": "27/01/2024 - 20:13:53"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "27/01/2024 - 20:11:38"
+    },
+    {
+        "song_name": "Go Crazy",
+        "artists": [
+            "Chris Brown",
+            "Young Thug"
+        ],
+        "album": "Slime & B",
+        "played_at": "27/01/2024 - 20:08:23"
+    },
+    {
+        "song_name": "Replay",
+        "artists": [
+            "Tems"
+        ],
+        "album": "If Orange Was A Place",
+        "played_at": "27/01/2024 - 20:05:28"
+    },
+    {
+        "song_name": "Do It Right",
+        "artists": [
+            "Don Toliver"
+        ],
+        "album": "Love Sick",
+        "played_at": "27/01/2024 - 20:02:31"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "27/01/2024 - 19:59:40"
+    },
+    {
+        "song_name": "Running Wild (Tumblr Girls 2) (feat. Kossisko)",
+        "artists": [
+            "G-Eazy",
+            "Kossisko"
+        ],
+        "album": "These Things Happen Too",
+        "played_at": "27/01/2024 - 19:56:03"
+    },
+    {
+        "song_name": "Making Shapes - Scott Diaz Remix",
+        "artists": [
+            "Saison",
+            "Miss Yankey",
+            "Scott Diaz"
+        ],
+        "album": "Making Shapes (Scott Diaz Remix)",
+        "played_at": "26/01/2024 - 19:23:56"
+    },
+    {
         "song_name": "Love & Reggae",
         "artists": [
             "Collie Buddz"
@@ -57,382 +441,5 @@
         ],
         "album": "Harder Than Ever",
         "played_at": "26/01/2024 - 09:19:35"
-    },
-    {
-        "song_name": "Circo Loco",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "26/01/2024 - 09:17:13"
-    },
-    {
-        "song_name": "Circo Loco",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "25/01/2024 - 22:44:33"
-    },
-    {
-        "song_name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-        "artists": [
-            "Internet Money",
-            "Gunna",
-            "Don Toliver",
-            "Lil Uzi Vert"
-        ],
-        "album": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-        "played_at": "25/01/2024 - 22:31:37"
-    },
-    {
-        "song_name": "m y . l i f e (with 21 Savage & Morray)",
-        "artists": [
-            "J. Cole",
-            "21 Savage",
-            "Morray"
-        ],
-        "album": "The Off-Season",
-        "played_at": "25/01/2024 - 22:27:51"
-    },
-    {
-        "song_name": "CAN'T SAY",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "25/01/2024 - 22:24:13"
-    },
-    {
-        "song_name": "Turks & Caicos (feat. 21 Savage)",
-        "artists": [
-            "Rod Wave",
-            "21 Savage"
-        ],
-        "album": "Nostalgia",
-        "played_at": "25/01/2024 - 22:20:07"
-    },
-    {
-        "song_name": "Pull Up (feat. 21 Savage)",
-        "artists": [
-            "Toosii",
-            "21 Savage"
-        ],
-        "album": "NAUJOUR",
-        "played_at": "25/01/2024 - 22:16:43"
-    },
-    {
-        "song_name": "Fair Trade (with Travis Scott)",
-        "artists": [
-            "Drake",
-            "Travis Scott"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "25/01/2024 - 22:14:30"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "25/01/2024 - 22:09:38"
-    },
-    {
-        "song_name": "2055",
-        "artists": [
-            "Sleepy Hallow"
-        ],
-        "album": "Still Sleep?",
-        "played_at": "25/01/2024 - 22:07:40"
-    },
-    {
-        "song_name": "All My Life (feat. J. Cole)",
-        "artists": [
-            "Lil Durk",
-            "J. Cole"
-        ],
-        "album": "Almost Healed",
-        "played_at": "25/01/2024 - 22:05:36"
-    },
-    {
-        "song_name": "Wet Dreamz",
-        "artists": [
-            "J. Cole"
-        ],
-        "album": "2014 Forest Hills Drive",
-        "played_at": "25/01/2024 - 22:01:52"
-    },
-    {
-        "song_name": "RAPSTAR",
-        "artists": [
-            "Polo G"
-        ],
-        "album": "Hall of Fame",
-        "played_at": "25/01/2024 - 21:57:13"
-    },
-    {
-        "song_name": "BUTTERFLY EFFECT",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "25/01/2024 - 21:54:27"
-    },
-    {
-        "song_name": "Solo",
-        "artists": [
-            "Future"
-        ],
-        "album": "HNDRXX",
-        "played_at": "25/01/2024 - 20:28:01"
-    },
-    {
-        "song_name": "Heartless",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "808s & Heartbreak",
-        "played_at": "25/01/2024 - 20:08:25"
-    },
-    {
-        "song_name": "Caught in a Dream",
-        "artists": [
-            "PALASTIC",
-            "LissA"
-        ],
-        "album": "Caught in a Dream",
-        "played_at": "25/01/2024 - 20:04:56"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "25/01/2024 - 20:02:13"
-    },
-    {
-        "song_name": "4th Dimension",
-        "artists": [
-            "KIDS SEE GHOSTS",
-            "Louis Prima"
-        ],
-        "album": "KIDS SEE GHOSTS",
-        "played_at": "25/01/2024 - 19:56:36"
-    },
-    {
-        "song_name": "Milkshake",
-        "artists": [
-            "PLÜM"
-        ],
-        "album": "Milkshake",
-        "played_at": "25/01/2024 - 16:09:10"
-    },
-    {
-        "song_name": "Heartless",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "808s & Heartbreak",
-        "played_at": "25/01/2024 - 15:57:37"
-    },
-    {
-        "song_name": "Caught in a Dream",
-        "artists": [
-            "PALASTIC",
-            "LissA"
-        ],
-        "album": "Caught in a Dream",
-        "played_at": "25/01/2024 - 15:54:09"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "25/01/2024 - 15:51:27"
-    },
-    {
-        "song_name": "Sdp Interlude",
-        "artists": [
-            "Charuss",
-            "isolxrd",
-            "Furkan Duran"
-        ],
-        "album": "BUZZ",
-        "played_at": "25/01/2024 - 15:49:11"
-    },
-    {
-        "song_name": "4th Dimension",
-        "artists": [
-            "KIDS SEE GHOSTS",
-            "Louis Prima"
-        ],
-        "album": "KIDS SEE GHOSTS",
-        "played_at": "25/01/2024 - 15:43:46"
-    },
-    {
-        "song_name": "Barking",
-        "artists": [
-            "Ramz"
-        ],
-        "album": "Barking",
-        "played_at": "25/01/2024 - 15:41:16"
-    },
-    {
-        "song_name": "Riptide",
-        "artists": [
-            "TWOPILOTS"
-        ],
-        "album": "Riptide",
-        "played_at": "25/01/2024 - 15:37:56"
-    },
-    {
-        "song_name": "On The Radar Freestyle",
-        "artists": [
-            "Drake",
-            "Central Cee"
-        ],
-        "album": "On The Radar Freestyle",
-        "played_at": "25/01/2024 - 15:35:24"
-    },
-    {
-        "song_name": "Water - Remix",
-        "artists": [
-            "Tyla",
-            "Travis Scott"
-        ],
-        "album": "Water (Remix)",
-        "played_at": "25/01/2024 - 15:30:52"
-    },
-    {
-        "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-        "artists": [
-            "A$AP Mob",
-            "A$AP Rocky",
-            "Playboi Carti",
-            "Quavo",
-            "Lil Uzi Vert",
-            "Frank Ocean"
-        ],
-        "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-        "played_at": "25/01/2024 - 15:27:34"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Wayne",
-            "Drake",
-            "Future"
-        ],
-        "album": "I Am Not A Human Being II (Deluxe)",
-        "played_at": "25/01/2024 - 15:23:22"
-    },
-    {
-        "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-        "artists": [
-            "JID",
-            "21 Savage",
-            "Baby Tate"
-        ],
-        "album": "The Forever Story (Extended Version)",
-        "played_at": "25/01/2024 - 15:16:43"
-    },
-    {
-        "song_name": "ball w/o you",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "25/01/2024 - 15:12:47"
-    },
-    {
-        "song_name": "Solo",
-        "artists": [
-            "Future"
-        ],
-        "album": "HNDRXX",
-        "played_at": "25/01/2024 - 15:09:34"
-    },
-    {
-        "song_name": "heart on my sleeve",
-        "artists": [
-            "ghostwriter"
-        ],
-        "album": "heart on my sleeve",
-        "played_at": "25/01/2024 - 15:05:12"
-    },
-    {
-        "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-        "artists": [
-            "JID",
-            "21 Savage",
-            "Baby Tate"
-        ],
-        "album": "The Forever Story (Extended Version)",
-        "played_at": "25/01/2024 - 14:29:33"
-    },
-    {
-        "song_name": "Chasing (feat. NEIMY)",
-        "artists": [
-            "Solar State",
-            "NSH",
-            "NEIMY"
-        ],
-        "album": "Chasing (feat. NEIMY)",
-        "played_at": "25/01/2024 - 14:27:59"
-    },
-    {
-        "song_name": "ball w/o you",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "25/01/2024 - 14:25:33"
-    },
-    {
-        "song_name": "Solo",
-        "artists": [
-            "Future"
-        ],
-        "album": "HNDRXX",
-        "played_at": "25/01/2024 - 14:22:21"
-    },
-    {
-        "song_name": "heart on my sleeve",
-        "artists": [
-            "ghostwriter"
-        ],
-        "album": "heart on my sleeve",
-        "played_at": "25/01/2024 - 14:17:58"
-    },
-    {
-        "song_name": "HITTIN MY SHOULDER",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "RED & WHITE",
-        "played_at": "25/01/2024 - 14:15:45"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "25/01/2024 - 14:11:43"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "25/01/2024 - 14:05:29"
     }
 ]
