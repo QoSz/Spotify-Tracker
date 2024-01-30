@@ -1,5 +1,213 @@
 [
     {
+        "song_name": "cross my heart",
+        "artists": [
+            "Artemas"
+        ],
+        "album": "cross my heart",
+        "played_at": "30/01/2024 - 15:56:32"
+    },
+    {
+        "song_name": "Present",
+        "artists": [
+            "Khalid"
+        ],
+        "album": "Scenic Drive (The Tape)",
+        "played_at": "30/01/2024 - 15:54:05"
+    },
+    {
+        "song_name": "First Time Thing",
+        "artists": [
+            "Calabasas"
+        ],
+        "album": "First Time Thing",
+        "played_at": "30/01/2024 - 15:51:29"
+    },
+    {
+        "song_name": "Go Crazy",
+        "artists": [
+            "Chris Brown",
+            "Young Thug"
+        ],
+        "album": "Slime & B",
+        "played_at": "30/01/2024 - 15:49:18"
+    },
+    {
+        "song_name": "Give You What You Want",
+        "artists": [
+            "Lil Tjay"
+        ],
+        "album": "Give You What You Want",
+        "played_at": "30/01/2024 - 15:46:20"
+    },
+    {
+        "song_name": "16",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "The Melodic Blue",
+        "played_at": "30/01/2024 - 15:43:40"
+    },
+    {
+        "song_name": "Work Out",
+        "artists": [
+            "J. Cole"
+        ],
+        "album": "Cole World: The Sideline Story",
+        "played_at": "30/01/2024 - 15:39:28"
+    },
+    {
+        "song_name": "I LIKE",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "I LIKE",
+        "played_at": "30/01/2024 - 15:35:32"
+    },
+    {
+        "song_name": "Chicago Freestyle (feat. Giveon)",
+        "artists": [
+            "Drake",
+            "Giveon"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "30/01/2024 - 15:20:22"
+    },
+    {
+        "song_name": "Who Do You Blame",
+        "artists": [
+            "SAINt JHN"
+        ],
+        "album": "Ghetto Lenny's Love Songs",
+        "played_at": "30/01/2024 - 15:16:42"
+    },
+    {
+        "song_name": "Heartless",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "808s & Heartbreak",
+        "played_at": "30/01/2024 - 15:13:49"
+    },
+    {
+        "song_name": "WAIT FOR U (feat. Drake & Tems)",
+        "artists": [
+            "Future",
+            "Drake",
+            "Tems"
+        ],
+        "album": "I NEVER LIKED YOU",
+        "played_at": "30/01/2024 - 15:10:17"
+    },
+    {
+        "song_name": "Break from Toronto",
+        "artists": [
+            "PARTYNEXTDOOR"
+        ],
+        "album": "PARTYNEXTDOOR",
+        "played_at": "30/01/2024 - 15:07:07"
+    },
+    {
+        "song_name": "Reminder",
+        "artists": [
+            "The Weeknd"
+        ],
+        "album": "Starboy",
+        "played_at": "30/01/2024 - 15:05:27"
+    },
+    {
+        "song_name": "‘87 Stingray",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "30/01/2024 - 15:01:48"
+    },
+    {
+        "song_name": "Feel No Ways",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Views",
+        "played_at": "30/01/2024 - 14:59:26"
+    },
+    {
+        "song_name": "Sure Thing",
+        "artists": [
+            "Miguel"
+        ],
+        "album": "All I Want Is You",
+        "played_at": "30/01/2024 - 14:55:25"
+    },
+    {
+        "song_name": "Pretty Little Fears (feat. J. Cole)",
+        "artists": [
+            "6LACK",
+            "J. Cole"
+        ],
+        "album": "East Atlanta Love Letter",
+        "played_at": "30/01/2024 - 14:52:09"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "30/01/2024 - 14:48:08"
+    },
+    {
+        "song_name": "Fantasy (feat. Don Toliver)",
+        "artists": [
+            "Kali Uchis",
+            "Don Toliver"
+        ],
+        "album": "Red Moon In Venus",
+        "played_at": "30/01/2024 - 14:46:06"
+    },
+    {
+        "song_name": "Clouded",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Fuck The World",
+        "played_at": "30/01/2024 - 14:43:08"
+    },
+    {
+        "song_name": "Lavender Sunflower",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "30/01/2024 - 14:41:17"
+    },
+    {
+        "song_name": "Passionfruit",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "30/01/2024 - 14:38:44"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "30/01/2024 - 14:33:45"
+    },
+    {
+        "song_name": "Die For You",
+        "artists": [
+            "The Weeknd"
+        ],
+        "album": "Starboy",
+        "played_at": "30/01/2024 - 14:30:27"
+    },
+    {
         "song_name": "Slow Motion (feat. Wizkid)",
         "artists": [
             "Don Toliver",
@@ -229,220 +437,5 @@
         ],
         "album": "Let Me Go",
         "played_at": "29/01/2024 - 08:17:48"
-    },
-    {
-        "song_name": "Jolene",
-        "artists": [
-            "Victony",
-            "KTIZO"
-        ],
-        "album": "Outlaw",
-        "played_at": "28/01/2024 - 17:35:32"
-    },
-    {
-        "song_name": "Gobe",
-        "artists": [
-            "Pheelz",
-            "Olamide",
-            "Naira Marley"
-        ],
-        "album": "Gobe",
-        "played_at": "28/01/2024 - 13:36:47"
-    },
-    {
-        "song_name": "Gobe",
-        "artists": [
-            "Pheelz",
-            "Olamide",
-            "Naira Marley"
-        ],
-        "album": "Gobe",
-        "played_at": "28/01/2024 - 13:11:22"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "27/01/2024 - 22:35:13"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "27/01/2024 - 22:17:40"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "27/01/2024 - 22:14:42"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "27/01/2024 - 22:11:52"
-    },
-    {
-        "song_name": "Solo",
-        "artists": [
-            "Future"
-        ],
-        "album": "HNDRXX",
-        "played_at": "27/01/2024 - 20:29:27"
-    },
-    {
-        "song_name": "heart on my sleeve",
-        "artists": [
-            "ghostwriter"
-        ],
-        "album": "heart on my sleeve",
-        "played_at": "27/01/2024 - 20:26:27"
-    },
-    {
-        "song_name": "HITTIN MY SHOULDER",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "RED & WHITE",
-        "played_at": "27/01/2024 - 20:24:14"
-    },
-    {
-        "song_name": "16",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue",
-        "played_at": "27/01/2024 - 20:21:50"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "27/01/2024 - 20:19:18"
-    },
-    {
-        "song_name": "Way down We Go",
-        "artists": [
-            "KALEO"
-        ],
-        "album": "A/B",
-        "played_at": "27/01/2024 - 20:17:24"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Lose It All (I Don't Wanna)",
-        "played_at": "27/01/2024 - 20:13:53"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "27/01/2024 - 20:11:38"
-    },
-    {
-        "song_name": "Go Crazy",
-        "artists": [
-            "Chris Brown",
-            "Young Thug"
-        ],
-        "album": "Slime & B",
-        "played_at": "27/01/2024 - 20:08:23"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "27/01/2024 - 20:05:28"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "27/01/2024 - 20:02:31"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "27/01/2024 - 19:59:40"
-    },
-    {
-        "song_name": "Running Wild (Tumblr Girls 2) (feat. Kossisko)",
-        "artists": [
-            "G-Eazy",
-            "Kossisko"
-        ],
-        "album": "These Things Happen Too",
-        "played_at": "27/01/2024 - 19:56:03"
-    },
-    {
-        "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
-        "artists": [
-            "Brent Faiyaz",
-            "N3WYRKLA",
-            "A$AP Rocky"
-        ],
-        "album": "Larger Than Life",
-        "played_at": "26/01/2024 - 21:40:48"
-    },
-    {
-        "song_name": "Making Shapes - Scott Diaz Remix",
-        "artists": [
-            "Saison",
-            "Miss Yankey",
-            "Scott Diaz"
-        ],
-        "album": "Making Shapes (Scott Diaz Remix)",
-        "played_at": "26/01/2024 - 19:23:56"
-    },
-    {
-        "song_name": "Love & Reggae",
-        "artists": [
-            "Collie Buddz"
-        ],
-        "album": "Hybrid",
-        "played_at": "26/01/2024 - 17:20:33"
-    },
-    {
-        "song_name": "Baby, I Love Your Way",
-        "artists": [
-            "Big Mountain"
-        ],
-        "album": "The Best of Big Mountain",
-        "played_at": "26/01/2024 - 15:48:25"
-    },
-    {
-        "song_name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-        "artists": [
-            "Young Thug",
-            "Travis Scott",
-            "Gunna"
-        ],
-        "album": "So Much Fun (Deluxe)",
-        "played_at": "26/01/2024 - 09:30:49"
     }
 ]
