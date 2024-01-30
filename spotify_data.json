@@ -1,5 +1,22 @@
 [
     {
+        "song_name": "Slow Motion (feat. Wizkid)",
+        "artists": [
+            "Don Toliver",
+            "Wizkid"
+        ],
+        "album": "Love Sick",
+        "played_at": "30/01/2024 - 14:26:06"
+    },
+    {
+        "song_name": "Die For You",
+        "artists": [
+            "The Weeknd"
+        ],
+        "album": "Starboy",
+        "played_at": "30/01/2024 - 14:22:29"
+    },
+    {
         "song_name": "The Color Violet",
         "artists": [
             "Tory Lanez"
@@ -427,21 +444,5 @@
         ],
         "album": "So Much Fun (Deluxe)",
         "played_at": "26/01/2024 - 09:30:49"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "26/01/2024 - 09:29:54"
-    },
-    {
-        "song_name": "I Wonder",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "26/01/2024 - 09:26:43"
     }
 ]
