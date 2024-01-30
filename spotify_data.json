@@ -20,7 +20,8 @@
         "song_name": "ten",
         "artists": [
             "Fred again..",
-            "Jozzy"
+            "Jozzy",
+            "Jim Legxacy"
         ],
         "album": "ten",
         "played_at": "29/01/2024 - 09:16:34"
@@ -374,6 +375,16 @@
         "played_at": "27/01/2024 - 19:56:03"
     },
     {
+        "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+        "artists": [
+            "Brent Faiyaz",
+            "N3WYRKLA",
+            "A$AP Rocky"
+        ],
+        "album": "Larger Than Life",
+        "played_at": "26/01/2024 - 21:40:48"
+    },
+    {
         "song_name": "Making Shapes - Scott Diaz Remix",
         "artists": [
             "Saison",
@@ -432,14 +443,5 @@
         ],
         "album": "Motley Crew",
         "played_at": "26/01/2024 - 09:22:39"
-    },
-    {
-        "song_name": "Yes Indeed",
-        "artists": [
-            "Lil Baby",
-            "Drake"
-        ],
-        "album": "Harder Than Ever",
-        "played_at": "26/01/2024 - 09:19:35"
     }
 ]
