@@ -1,5 +1,68 @@
 [
     {
+        "song_name": "Monalisa",
+        "artists": [
+            "Lojay",
+            "Sarz",
+            "Chris Brown"
+        ],
+        "album": "Monalisa",
+        "played_at": "31/01/2024 - 09:20:59"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "31/01/2024 - 09:17:26"
+    },
+    {
+        "song_name": "Finesse",
+        "artists": [
+            "Pheelz",
+            "Bnxn"
+        ],
+        "album": "Pheelz Good",
+        "played_at": "31/01/2024 - 09:13:46"
+    },
+    {
+        "song_name": "Dior",
+        "artists": [
+            "Ruger"
+        ],
+        "album": "The Second Wave (Deluxe)",
+        "played_at": "31/01/2024 - 09:11:13"
+    },
+    {
+        "song_name": "Mr Man",
+        "artists": [
+            "Fave"
+        ],
+        "album": "Riddim 5",
+        "played_at": "31/01/2024 - 09:04:53"
+    },
+    {
+        "song_name": "Location (feat. Burna Boy)",
+        "artists": [
+            "Dave",
+            "Burna Boy"
+        ],
+        "album": "PSYCHODRAMA",
+        "played_at": "31/01/2024 - 09:02:08"
+    },
+    {
+        "song_name": "Beautifully",
+        "artists": [
+            "Fave"
+        ],
+        "album": "Beautifully",
+        "played_at": "31/01/2024 - 08:58:06"
+    },
+    {
         "song_name": "Outside",
         "artists": [
             "Bryson Tiller"
@@ -367,69 +430,5 @@
         ],
         "album": "Thrill Of The Chase",
         "played_at": "29/01/2024 - 09:01:10"
-    },
-    {
-        "song_name": "California Dreamin' (feat. High Jinx)",
-        "artists": [
-            "Chris Lorenzo",
-            "High Jinx"
-        ],
-        "album": "California Dreamin' (feat. High Jinx)",
-        "played_at": "29/01/2024 - 08:57:57"
-    },
-    {
-        "song_name": "I'm Good (Blue)",
-        "artists": [
-            "David Guetta",
-            "Bebe Rexha"
-        ],
-        "album": "I'm Good (Blue)",
-        "played_at": "29/01/2024 - 08:54:41"
-    },
-    {
-        "song_name": "Lost",
-        "artists": [
-            "RSCL",
-            "it's murph",
-            "Twin Diplomacy",
-            "Jack August"
-        ],
-        "album": "Lost",
-        "played_at": "29/01/2024 - 08:51:45"
-    },
-    {
-        "song_name": "I Go Dancing (feat. Ella Henderson)",
-        "artists": [
-            "Frank Walker",
-            "Ella Henderson"
-        ],
-        "album": "I Go Dancing (feat. Ella Henderson)",
-        "played_at": "29/01/2024 - 08:49:12"
-    },
-    {
-        "song_name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-        "artists": [
-            "Kygo",
-            "Paul McCartney",
-            "Michael Jackson"
-        ],
-        "album": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-        "played_at": "29/01/2024 - 08:46:29"
-    },
-    {
-        "song_name": "(It Goes Like) Nanana - Edit",
-        "artists": [
-            "Peggy Gou"
-        ],
-        "album": "(It Goes Like) Nanana [Edit]",
-        "played_at": "29/01/2024 - 08:43:34"
-    },
-    {
-        "song_name": "Drifting",
-        "artists": [
-            "Tiësto"
-        ],
-        "album": "Drifting",
-        "played_at": "29/01/2024 - 08:39:43"
     }
 ]
