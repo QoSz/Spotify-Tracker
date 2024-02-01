@@ -1,5 +1,90 @@
 [
     {
+        "song_name": "Down In Atlanta",
+        "artists": [
+            "Pharrell Williams",
+            "Travis Scott"
+        ],
+        "album": "Down In Atlanta",
+        "played_at": "01/02/2024 - 10:59:14"
+    },
+    {
+        "song_name": "Passionfruit",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "01/02/2024 - 10:56:29"
+    },
+    {
+        "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+        "artists": [
+            "Lyrical Lemonade",
+            "Lil Tecca",
+            "The Kid LAROI",
+            "Lil Skies"
+        ],
+        "album": "All Is Yellow",
+        "played_at": "01/02/2024 - 10:50:17"
+    },
+    {
+        "song_name": "HIDDEN VOICES",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
+        "played_at": "01/02/2024 - 10:47:26"
+    },
+    {
+        "song_name": "Down With Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC (Bonus)",
+        "played_at": "01/02/2024 - 10:44:56"
+    },
+    {
+        "song_name": "Lavender Sunflower",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "01/02/2024 - 10:42:55"
+    },
+    {
+        "song_name": "Drama (feat. Drake)",
+        "artists": [
+            "Roy Woods",
+            "Drake"
+        ],
+        "album": "Drama (feat. Drake) [Sped Up]",
+        "played_at": "01/02/2024 - 10:40:22"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "01/02/2024 - 10:36:10"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "01/02/2024 - 10:01:27"
+    },
+    {
+        "song_name": "That Way - Bonus Track",
+        "artists": [
+            "Lil Uzi Vert"
+        ],
+        "album": "Eternal Atake",
+        "played_at": "01/02/2024 - 09:58:26"
+    },
+    {
         "song_name": "Where Are You Now",
         "artists": [
             "Lost Frequencies",
@@ -337,94 +422,5 @@
         ],
         "album": "PARTYNEXTDOOR",
         "played_at": "31/01/2024 - 15:46:32"
-    },
-    {
-        "song_name": "JACKIE BROWN",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "WASTELAND",
-        "played_at": "31/01/2024 - 15:44:51"
-    },
-    {
-        "song_name": "Calling My Phone",
-        "artists": [
-            "Lil Tjay",
-            "6LACK"
-        ],
-        "album": "Destined 2 Win",
-        "played_at": "31/01/2024 - 15:42:02"
-    },
-    {
-        "song_name": "Creepin' (with The Weeknd & 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "The Weeknd",
-            "21 Savage"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "31/01/2024 - 15:38:36"
-    },
-    {
-        "song_name": "Weekend (feat. Miguel)",
-        "artists": [
-            "Mac Miller",
-            "Miguel"
-        ],
-        "album": "GO:OD AM",
-        "played_at": "31/01/2024 - 15:34:54"
-    },
-    {
-        "song_name": "Hurts Me",
-        "artists": [
-            "Tory Lanez",
-            "Trippie Redd",
-            "Yoko Gold"
-        ],
-        "album": "Hurts Me",
-        "played_at": "31/01/2024 - 15:31:25"
-    },
-    {
-        "song_name": "Potato Salad",
-        "artists": [
-            "Tyler, The Creator",
-            "A$AP Rocky"
-        ],
-        "album": "Potato Salad",
-        "played_at": "31/01/2024 - 15:29:04"
-    },
-    {
-        "song_name": "DUI",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "31/01/2024 - 15:26:01"
-    },
-    {
-        "song_name": "Chicago Freestyle (feat. Giveon)",
-        "artists": [
-            "Drake",
-            "Giveon"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "31/01/2024 - 15:23:46"
-    },
-    {
-        "song_name": "The Percocet & Stripper Joint",
-        "artists": [
-            "Future"
-        ],
-        "album": "DS2 (Deluxe)",
-        "played_at": "31/01/2024 - 15:20:05"
-    },
-    {
-        "song_name": "Churchill Downs (feat. Drake)",
-        "artists": [
-            "Jack Harlow",
-            "Drake"
-        ],
-        "album": "Come Home The Kids Miss You",
-        "played_at": "31/01/2024 - 15:17:37"
     }
 ]
