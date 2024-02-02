@@ -1,5 +1,75 @@
 [
     {
+        "song_name": "Bloom",
+        "artists": [
+            "Lucas Estrada",
+            "TWOPILOTS"
+        ],
+        "album": "Bloom",
+        "played_at": "02/02/2024 - 11:56:58"
+    },
+    {
+        "song_name": "Evening Walk",
+        "artists": [
+            "Matt Bleu"
+        ],
+        "album": "Evening Walk",
+        "played_at": "02/02/2024 - 11:53:59"
+    },
+    {
+        "song_name": "City Of Love",
+        "artists": [
+            "Surf Mesa",
+            "Selah Sol"
+        ],
+        "album": "City Of Love",
+        "played_at": "02/02/2024 - 11:51:47"
+    },
+    {
+        "song_name": "Sunrise",
+        "artists": [
+            "Tungevaag"
+        ],
+        "album": "Sunrise",
+        "played_at": "02/02/2024 - 11:49:01"
+    },
+    {
+        "song_name": "Never Really Loved Me (with Dean Lewis)",
+        "artists": [
+            "Kygo",
+            "Dean Lewis"
+        ],
+        "album": "Never Really Loved Me (with Dean Lewis)",
+        "played_at": "02/02/2024 - 11:46:42"
+    },
+    {
+        "song_name": "Creep",
+        "artists": [
+            "GAMPER & DADONI"
+        ],
+        "album": "Creep",
+        "played_at": "02/02/2024 - 11:43:20"
+    },
+    {
+        "song_name": "Show Me Love - EDX Remix / Radio Edit",
+        "artists": [
+            "Sam Feldt",
+            "Kimberly Anne",
+            "EDX"
+        ],
+        "album": "Show Me Love (Remixes 2)",
+        "played_at": "02/02/2024 - 11:40:25"
+    },
+    {
+        "song_name": "Emorio",
+        "artists": [
+            "Trinix",
+            "Fafá de Belém"
+        ],
+        "album": "Emorio",
+        "played_at": "02/02/2024 - 11:37:25"
+    },
+    {
         "song_name": "Are You With Me",
         "artists": [
             "Lost Frequencies"
@@ -370,73 +440,5 @@
         ],
         "album": "Kyoto",
         "played_at": "01/02/2024 - 14:36:51"
-    },
-    {
-        "song_name": "Are You With Me",
-        "artists": [
-            "Lost Frequencies"
-        ],
-        "album": "Are You With Me",
-        "played_at": "01/02/2024 - 14:33:48"
-    },
-    {
-        "song_name": "Hold This Memory",
-        "artists": [
-            "Deepend",
-            "Madism"
-        ],
-        "album": "Hold This Memory",
-        "played_at": "01/02/2024 - 14:31:56"
-    },
-    {
-        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
-        "artists": [
-            "Mike Posner",
-            "Seeb"
-        ],
-        "album": "At Night, Alone.",
-        "played_at": "01/02/2024 - 14:29:33"
-    },
-    {
-        "song_name": "Baianá",
-        "artists": [
-            "Bakermat"
-        ],
-        "album": "The Ringmaster",
-        "played_at": "01/02/2024 - 14:26:25"
-    },
-    {
-        "song_name": "Sex On Me - Re-Edit",
-        "artists": [
-            "GOLDHOUSE"
-        ],
-        "album": "Sex On Me (Re-Edit)",
-        "played_at": "01/02/2024 - 14:23:30"
-    },
-    {
-        "song_name": "redrum",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "american dream",
-        "played_at": "01/02/2024 - 14:10:25"
-    },
-    {
-        "song_name": "ON THE RIVER",
-        "artists": [
-            "Offset"
-        ],
-        "album": "SET IT OFF",
-        "played_at": "01/02/2024 - 14:05:55"
-    },
-    {
-        "song_name": "WAIT FOR U (feat. Drake & Tems)",
-        "artists": [
-            "Future",
-            "Drake",
-            "Tems"
-        ],
-        "album": "I NEVER LIKED YOU",
-        "played_at": "01/02/2024 - 14:04:31"
     }
 ]
