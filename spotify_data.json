@@ -1,5 +1,74 @@
 [
     {
+        "song_name": "Are You With Me",
+        "artists": [
+            "Lost Frequencies"
+        ],
+        "album": "Are You With Me",
+        "played_at": "02/02/2024 - 11:34:41"
+    },
+    {
+        "song_name": "Matter of Time - Deepend Remix",
+        "artists": [
+            "Vandelux",
+            "Deepend",
+            "Alex Maher"
+        ],
+        "album": "Matter of Time (Deepend Remix)",
+        "played_at": "02/02/2024 - 11:32:23"
+    },
+    {
+        "song_name": "Kyoto",
+        "artists": [
+            "Innocent Panda"
+        ],
+        "album": "Kyoto",
+        "played_at": "02/02/2024 - 11:29:12"
+    },
+    {
+        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+        "artists": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "album": "At Night, Alone.",
+        "played_at": "02/02/2024 - 11:25:31"
+    },
+    {
+        "song_name": "Hold This Memory",
+        "artists": [
+            "Deepend",
+            "Madism"
+        ],
+        "album": "Hold This Memory",
+        "played_at": "02/02/2024 - 11:22:13"
+    },
+    {
+        "song_name": "Baianá",
+        "artists": [
+            "Bakermat"
+        ],
+        "album": "The Ringmaster",
+        "played_at": "02/02/2024 - 11:19:33"
+    },
+    {
+        "song_name": "Hold Me",
+        "artists": [
+            "Lavern"
+        ],
+        "album": "Hold Me",
+        "played_at": "02/02/2024 - 11:16:32"
+    },
+    {
+        "song_name": "Whatever",
+        "artists": [
+            "Kygo",
+            "Ava Max"
+        ],
+        "album": "Whatever",
+        "played_at": "02/02/2024 - 11:14:12"
+    },
+    {
         "song_name": "Ric Flair Drip (with Metro Boomin)",
         "artists": [
             "Offset",
@@ -369,69 +438,5 @@
         ],
         "album": "I NEVER LIKED YOU",
         "played_at": "01/02/2024 - 14:04:31"
-    },
-    {
-        "song_name": "Overrated",
-        "artists": [
-            "Blxst"
-        ],
-        "album": "No Love Lost",
-        "played_at": "01/02/2024 - 14:01:21"
-    },
-    {
-        "song_name": "Used To",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Goodbye & Good Riddance",
-        "played_at": "01/02/2024 - 13:58:54"
-    },
-    {
-        "song_name": "Things I Should Of Said",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "DAYSTAR",
-        "played_at": "01/02/2024 - 13:55:57"
-    },
-    {
-        "song_name": "Why Am I Waiting",
-        "artists": [
-            "Papithbk"
-        ],
-        "album": "Thbk.",
-        "played_at": "01/02/2024 - 13:53:17"
-    },
-    {
-        "song_name": "Imperfections (Interlude)",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "played_at": "01/02/2024 - 13:51:41"
-    },
-    {
-        "song_name": "I Don't Wanna Do This Anymore",
-        "artists": [
-            "XXXTENTACION"
-        ],
-        "album": "Revenge",
-        "played_at": "01/02/2024 - 13:49:52"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "01/02/2024 - 13:48:24"
-    },
-    {
-        "song_name": "Forever Yours",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "Larger Than Life",
-        "played_at": "01/02/2024 - 13:46:27"
     }
 ]
