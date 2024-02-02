@@ -1,5 +1,74 @@
 [
     {
+        "song_name": "Tear Me Down (feat. Philip Rustad)",
+        "artists": [
+            "Davai",
+            "Philip Rustad"
+        ],
+        "album": "Tear Me Down (feat. Philip Rustad)",
+        "played_at": "02/02/2024 - 12:20:25"
+    },
+    {
+        "song_name": "ocean breeze",
+        "artists": [
+            "rayn"
+        ],
+        "album": "ocean breeze",
+        "played_at": "02/02/2024 - 12:17:21"
+    },
+    {
+        "song_name": "Sunbeams",
+        "artists": [
+            "NSH"
+        ],
+        "album": "Sunbeams",
+        "played_at": "02/02/2024 - 12:15:24"
+    },
+    {
+        "song_name": "Matter of Time - Lonely in the Rain Remix",
+        "artists": [
+            "Vandelux",
+            "Alex Maher",
+            "Lonely in the Rain"
+        ],
+        "album": "Matter of Time (Lonely In The Rain Remix)",
+        "played_at": "02/02/2024 - 12:12:56"
+    },
+    {
+        "song_name": "Ocean Drive",
+        "artists": [
+            "Duke Dumont"
+        ],
+        "album": "Duality",
+        "played_at": "02/02/2024 - 12:10:13"
+    },
+    {
+        "song_name": "King",
+        "artists": [
+            "TWOPILOTS"
+        ],
+        "album": "King",
+        "played_at": "02/02/2024 - 12:06:47"
+    },
+    {
+        "song_name": "Stumblin' In",
+        "artists": [
+            "CYRIL"
+        ],
+        "album": "Stumblin' In",
+        "played_at": "02/02/2024 - 12:03:17"
+    },
+    {
+        "song_name": "In Too Deep",
+        "artists": [
+            "WEEKLESS",
+            "WEDONT",
+            "ROBINS"
+        ],
+        "album": "In Too Deep",
+        "played_at": "02/02/2024 - 11:59:44"
+    },
+    {
         "song_name": "Bloom",
         "artists": [
             "Lucas Estrada",
@@ -369,76 +438,5 @@
         ],
         "album": "Bloom",
         "played_at": "01/02/2024 - 14:58:27"
-    },
-    {
-        "song_name": "Sunrise",
-        "artists": [
-            "Tungevaag"
-        ],
-        "album": "Sunrise",
-        "played_at": "01/02/2024 - 14:55:32"
-    },
-    {
-        "song_name": "Never Really Loved Me (with Dean Lewis)",
-        "artists": [
-            "Kygo",
-            "Dean Lewis"
-        ],
-        "album": "Never Really Loved Me (with Dean Lewis)",
-        "played_at": "01/02/2024 - 14:53:17"
-    },
-    {
-        "song_name": "Creep",
-        "artists": [
-            "GAMPER & DADONI"
-        ],
-        "album": "Creep",
-        "played_at": "01/02/2024 - 14:50:06"
-    },
-    {
-        "song_name": "Show Me Love - EDX Remix / Radio Edit",
-        "artists": [
-            "Sam Feldt",
-            "Kimberly Anne",
-            "EDX"
-        ],
-        "album": "Show Me Love (Remixes 2)",
-        "played_at": "01/02/2024 - 14:47:32"
-    },
-    {
-        "song_name": "Emorio",
-        "artists": [
-            "Trinix",
-            "Fafá de Belém"
-        ],
-        "album": "Emorio",
-        "played_at": "01/02/2024 - 14:44:52"
-    },
-    {
-        "song_name": "City Of Love",
-        "artists": [
-            "Surf Mesa",
-            "Selah Sol"
-        ],
-        "album": "City Of Love",
-        "played_at": "01/02/2024 - 14:42:30"
-    },
-    {
-        "song_name": "Matter of Time - Deepend Remix",
-        "artists": [
-            "Vandelux",
-            "Deepend",
-            "Alex Maher"
-        ],
-        "album": "Matter of Time (Deepend Remix)",
-        "played_at": "01/02/2024 - 14:39:55"
-    },
-    {
-        "song_name": "Kyoto",
-        "artists": [
-            "Innocent Panda"
-        ],
-        "album": "Kyoto",
-        "played_at": "01/02/2024 - 14:36:51"
     }
 ]
