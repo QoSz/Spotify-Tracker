@@ -1,5 +1,14 @@
 [
     {
+        "song_name": "Waves",
+        "artists": [
+            "Gabriel Morais Jr",
+            "Ayla Nova"
+        ],
+        "album": "Waves",
+        "played_at": "02/02/2024 - 12:21:35"
+    },
+    {
         "song_name": "Tear Me Down (feat. Philip Rustad)",
         "artists": [
             "Davai",
@@ -429,14 +438,5 @@
         ],
         "album": "Evening Walk",
         "played_at": "01/02/2024 - 15:00:12"
-    },
-    {
-        "song_name": "Bloom",
-        "artists": [
-            "Lucas Estrada",
-            "TWOPILOTS"
-        ],
-        "album": "Bloom",
-        "played_at": "01/02/2024 - 14:58:27"
     }
 ]
