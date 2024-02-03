@@ -1,5 +1,87 @@
 [
     {
+        "song_name": "Who Told You (feat. Drake)",
+        "artists": [
+            "J Hus",
+            "Drake"
+        ],
+        "album": "Beautiful And Brutal Yard",
+        "played_at": "03/02/2024 - 13:33:34"
+    },
+    {
+        "song_name": "Cough (Odo)",
+        "artists": [
+            "Kizz Daniel"
+        ],
+        "album": "Maverick",
+        "played_at": "03/02/2024 - 13:30:04"
+    },
+    {
+        "song_name": "Vibration",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Laughter, Tears & Goosebumps",
+        "played_at": "03/02/2024 - 13:27:07"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "03/02/2024 - 13:23:48"
+    },
+    {
+        "song_name": "2 Sugar (feat. Ayra Starr)",
+        "artists": [
+            "Wizkid",
+            "Ayra Starr"
+        ],
+        "album": "More Love, Less Ego",
+        "played_at": "03/02/2024 - 13:20:08"
+    },
+    {
+        "song_name": "UNAVAILABLE (feat. Musa Keys)",
+        "artists": [
+            "Davido",
+            "Musa Keys"
+        ],
+        "album": "Timeless",
+        "played_at": "03/02/2024 - 13:17:01"
+    },
+    {
+        "song_name": "Calm Down",
+        "artists": [
+            "Rema"
+        ],
+        "album": "Rave & Roses",
+        "played_at": "03/02/2024 - 13:14:09"
+    },
+    {
+        "song_name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
+        "artists": [
+            "Robinson",
+            "Jason Derulo",
+            "Rema"
+        ],
+        "album": "Ayo Girl (Fayahh Beat) [feat. Rema]",
+        "played_at": "03/02/2024 - 13:10:30"
+    },
+    {
+        "song_name": "Propeller (feat. Dave & BNXN)",
+        "artists": [
+            "JAE5",
+            "Dave",
+            "Bnxn"
+        ],
+        "album": "Propeller (feat. Dave & BNXN)",
+        "played_at": "03/02/2024 - 13:07:44"
+    },
+    {
         "song_name": "Memories - Remix",
         "artists": [
             "Sigag Lauren",
@@ -356,81 +438,5 @@
         ],
         "album": "At Night, Alone.",
         "played_at": "02/02/2024 - 17:11:24"
-    },
-    {
-        "song_name": "Hold This Memory",
-        "artists": [
-            "Deepend",
-            "Madism"
-        ],
-        "album": "Hold This Memory",
-        "played_at": "02/02/2024 - 17:08:06"
-    },
-    {
-        "song_name": "Baianá",
-        "artists": [
-            "Bakermat"
-        ],
-        "album": "The Ringmaster",
-        "played_at": "02/02/2024 - 17:05:26"
-    },
-    {
-        "song_name": "Hold Me",
-        "artists": [
-            "Lavern"
-        ],
-        "album": "Hold Me",
-        "played_at": "02/02/2024 - 17:02:25"
-    },
-    {
-        "song_name": "Whatever",
-        "artists": [
-            "Kygo",
-            "Ava Max"
-        ],
-        "album": "Whatever",
-        "played_at": "02/02/2024 - 17:00:05"
-    },
-    {
-        "song_name": "Bandit",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Bandit",
-        "played_at": "02/02/2024 - 16:54:37"
-    },
-    {
-        "song_name": "Waves",
-        "artists": [
-            "Gabriel Morais Jr",
-            "Ayla Nova"
-        ],
-        "album": "Waves",
-        "played_at": "02/02/2024 - 12:21:35"
-    },
-    {
-        "song_name": "Tear Me Down (feat. Philip Rustad)",
-        "artists": [
-            "Davai",
-            "Philip Rustad"
-        ],
-        "album": "Tear Me Down (feat. Philip Rustad)",
-        "played_at": "02/02/2024 - 12:20:25"
-    },
-    {
-        "song_name": "ocean breeze",
-        "artists": [
-            "rayn"
-        ],
-        "album": "ocean breeze",
-        "played_at": "02/02/2024 - 12:17:21"
-    },
-    {
-        "song_name": "Sunbeams",
-        "artists": [
-            "NSH"
-        ],
-        "album": "Sunbeams",
-        "played_at": "02/02/2024 - 12:15:24"
     }
 ]
