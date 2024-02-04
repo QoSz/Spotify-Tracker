@@ -1,5 +1,349 @@
 [
     {
+        "song_name": "Mockingbird Valley",
+        "artists": [
+            "DJ Drama",
+            "Jack Harlow"
+        ],
+        "album": "I'M REALLY LIKE THAT",
+        "played_at": "04/02/2024 - 17:43:35"
+    },
+    {
+        "song_name": "Lovin On Me",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Lovin On Me",
+        "played_at": "04/02/2024 - 17:41:28"
+    },
+    {
+        "song_name": "Are You With Me",
+        "artists": [
+            "Lost Frequencies"
+        ],
+        "album": "Less Is More",
+        "played_at": "04/02/2024 - 17:39:10"
+    },
+    {
+        "song_name": "Baianá",
+        "artists": [
+            "Bakermat"
+        ],
+        "album": "The Ringmaster",
+        "played_at": "04/02/2024 - 17:36:52"
+    },
+    {
+        "song_name": "Numb",
+        "artists": [
+            "Marshmello",
+            "Khalid"
+        ],
+        "album": "Numb",
+        "played_at": "04/02/2024 - 17:33:51"
+    },
+    {
+        "song_name": "Asking",
+        "artists": [
+            "Sonny Fodera",
+            "MK",
+            "Clementine Douglas"
+        ],
+        "album": "Asking",
+        "played_at": "04/02/2024 - 17:31:15"
+    },
+    {
+        "song_name": "Summer Feeling",
+        "artists": [
+            "Matoma",
+            "Jonah Kagen"
+        ],
+        "album": "Summer Feeling",
+        "played_at": "04/02/2024 - 17:28:04"
+    },
+    {
+        "song_name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "artists": [
+            "Kygo",
+            "Paul McCartney",
+            "Michael Jackson"
+        ],
+        "album": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "played_at": "04/02/2024 - 17:25:03"
+    },
+    {
+        "song_name": "REACT",
+        "artists": [
+            "Switch Disco",
+            "Ella Henderson",
+            "Robert Miles"
+        ],
+        "album": "REACT",
+        "played_at": "04/02/2024 - 17:22:08"
+    },
+    {
+        "song_name": "By Your Side (feat. Tom Grennan)",
+        "artists": [
+            "Calvin Harris",
+            "Tom Grennan"
+        ],
+        "album": "By Your Side (feat. Tom Grennan)",
+        "played_at": "04/02/2024 - 17:18:47"
+    },
+    {
+        "song_name": "Chills (LA Hills)",
+        "artists": [
+            "Tiësto",
+            "A Boogie Wit da Hoodie"
+        ],
+        "album": "DRIVE",
+        "played_at": "04/02/2024 - 17:15:37"
+    },
+    {
+        "song_name": "Emorio",
+        "artists": [
+            "Trinix",
+            "Fafá de Belém"
+        ],
+        "album": "Emorio",
+        "played_at": "04/02/2024 - 17:12:33"
+    },
+    {
+        "song_name": "Cooped Up / Return Of The Mack",
+        "artists": [
+            "Post Malone",
+            "Mark Morrison",
+            "Sickick"
+        ],
+        "album": "Cooped Up / Return Of The Mack",
+        "played_at": "04/02/2024 - 17:09:49"
+    },
+    {
+        "song_name": "(It Goes Like) Nanana - Edit",
+        "artists": [
+            "Peggy Gou"
+        ],
+        "album": "(It Goes Like) Nanana [Edit]",
+        "played_at": "04/02/2024 - 17:07:42"
+    },
+    {
+        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
+        "artists": [
+            "Swedish House Mafia",
+            "Connie Constance"
+        ],
+        "album": "Paradise Again",
+        "played_at": "04/02/2024 - 17:03:51"
+    },
+    {
+        "song_name": "Woke Up in Love",
+        "artists": [
+            "Kygo",
+            "Gryffin",
+            "Calum Scott"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "04/02/2024 - 17:00:16"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "04/02/2024 - 16:56:40"
+    },
+    {
+        "song_name": "Massive",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "04/02/2024 - 16:54:38"
+    },
+    {
+        "song_name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+        "artists": [
+            "The Weeknd",
+            "Playboi Carti",
+            "Madonna"
+        ],
+        "album": "Popular (Music from the HBO Original Series)",
+        "played_at": "04/02/2024 - 16:49:01"
+    },
+    {
+        "song_name": "Another Love - Tiësto Remix",
+        "artists": [
+            "Tom Odell",
+            "Tiësto"
+        ],
+        "album": "Another Love (Tiësto Remix)",
+        "played_at": "04/02/2024 - 16:45:26"
+    },
+    {
+        "song_name": "‘87 Stingray",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "04/02/2024 - 16:42:20"
+    },
+    {
+        "song_name": "I Ain't Worried",
+        "artists": [
+            "OneRepublic"
+        ],
+        "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "played_at": "04/02/2024 - 16:39:59"
+    },
+    {
+        "song_name": "Somewhere to Fly (with Don Toliver)",
+        "artists": [
+            "Kid Cudi",
+            "Don Toliver"
+        ],
+        "album": "Entergalactic",
+        "played_at": "04/02/2024 - 16:37:31"
+    },
+    {
+        "song_name": "My Love",
+        "artists": [
+            "Route 94",
+            "Jess Glynne"
+        ],
+        "album": "My Love",
+        "played_at": "04/02/2024 - 16:34:34"
+    },
+    {
+        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+        "artists": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "album": "At Night, Alone.",
+        "played_at": "04/02/2024 - 16:30:14"
+    },
+    {
+        "song_name": "Never Really Loved Me (with Dean Lewis)",
+        "artists": [
+            "Kygo",
+            "Dean Lewis"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "04/02/2024 - 16:26:56"
+    },
+    {
+        "song_name": "I Go Dancing (feat. Ella Henderson)",
+        "artists": [
+            "Frank Walker",
+            "Ella Henderson"
+        ],
+        "album": "I Go Dancing (feat. Ella Henderson)",
+        "played_at": "04/02/2024 - 16:23:34"
+    },
+    {
+        "song_name": "Where Are You Now",
+        "artists": [
+            "Lost Frequencies",
+            "Calum Scott"
+        ],
+        "album": "All Stand Together",
+        "played_at": "04/02/2024 - 16:20:51"
+    },
+    {
+        "song_name": "reason",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Boy Alone (Deluxe Edition)",
+        "played_at": "04/02/2024 - 12:56:08"
+    },
+    {
+        "song_name": "Energy (Stay Far Away)",
+        "artists": [
+            "Skepta",
+            "Wizkid"
+        ],
+        "album": "Energy (Stay Far Away)",
+        "played_at": "04/02/2024 - 12:07:25"
+    },
+    {
+        "song_name": "Amapiano",
+        "artists": [
+            "Asake",
+            "Olamide"
+        ],
+        "album": "Work Of Art",
+        "played_at": "04/02/2024 - 12:04:05"
+    },
+    {
+        "song_name": "People",
+        "artists": [
+            "Libianca"
+        ],
+        "album": "People",
+        "played_at": "04/02/2024 - 12:01:20"
+    },
+    {
+        "song_name": "Mood (feat. BNXN)",
+        "artists": [
+            "Wizkid",
+            "Bnxn"
+        ],
+        "album": "Made In Lagos: Deluxe Edition",
+        "played_at": "04/02/2024 - 11:58:14"
+    },
+    {
+        "song_name": "Overloading (OVERDOSE)",
+        "artists": [
+            "Mavins",
+            "Crayon",
+            "Ayra Starr",
+            "LADIPOE",
+            "Magixx",
+            "Boy Spyce"
+        ],
+        "album": "Chapter X",
+        "played_at": "04/02/2024 - 11:54:44"
+    },
+    {
+        "song_name": "No Wahala",
+        "artists": [
+            "1da Banton"
+        ],
+        "album": "Original Vibe Machine",
+        "played_at": "04/02/2024 - 11:51:19"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "04/02/2024 - 11:48:36"
+    },
+    {
+        "song_name": "Love Don't Cost A Dime (Re-Up)",
+        "artists": [
+            "Magixx",
+            "Ayra Starr"
+        ],
+        "album": "Love Don't Cost A Dime (Re-Up)",
+        "played_at": "04/02/2024 - 11:44:56"
+    },
+    {
+        "song_name": "Who Told You (feat. Drake)",
+        "artists": [
+            "J Hus",
+            "Drake"
+        ],
+        "album": "Beautiful And Brutal Yard",
+        "played_at": "04/02/2024 - 11:42:29"
+    },
+    {
         "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
         "artists": [
             "Lyrical Lemonade",
@@ -72,6 +416,15 @@
         "played_at": "03/02/2024 - 22:59:35"
     },
     {
+        "song_name": "Who Told You (feat. Drake)",
+        "artists": [
+            "J Hus",
+            "Drake"
+        ],
+        "album": "Beautiful And Brutal Yard",
+        "played_at": "03/02/2024 - 17:36:46"
+    },
+    {
         "song_name": "Come Closer (feat. Drake)",
         "artists": [
             "Wizkid",
@@ -96,346 +449,5 @@
         ],
         "album": "Water (Remix)",
         "played_at": "03/02/2024 - 17:15:11"
-    },
-    {
-        "song_name": "Sip (Alcohol)",
-        "artists": [
-            "Joeboy"
-        ],
-        "album": "Body & Soul",
-        "played_at": "03/02/2024 - 17:11:51"
-    },
-    {
-        "song_name": "Playboy",
-        "artists": [
-            "Fireboy DML"
-        ],
-        "album": "Playboy",
-        "played_at": "03/02/2024 - 17:09:12"
-    },
-    {
-        "song_name": "Vibration",
-        "artists": [
-            "Fireboy DML"
-        ],
-        "album": "Laughter, Tears & Goosebumps",
-        "played_at": "03/02/2024 - 17:05:44"
-    },
-    {
-        "song_name": "Monalisa",
-        "artists": [
-            "Lojay",
-            "Sarz",
-            "Chris Brown"
-        ],
-        "album": "Monalisa",
-        "played_at": "03/02/2024 - 17:02:25"
-    },
-    {
-        "song_name": "emiliana",
-        "artists": [
-            "CKay"
-        ],
-        "album": "Sad Romance",
-        "played_at": "03/02/2024 - 16:58:52"
-    },
-    {
-        "song_name": "emiliana",
-        "artists": [
-            "CKay"
-        ],
-        "album": "Sad Romance",
-        "played_at": "03/02/2024 - 13:46:14"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "03/02/2024 - 13:33:34"
-    },
-    {
-        "song_name": "Cough (Odo)",
-        "artists": [
-            "Kizz Daniel"
-        ],
-        "album": "Maverick",
-        "played_at": "03/02/2024 - 13:30:04"
-    },
-    {
-        "song_name": "Vibration",
-        "artists": [
-            "Fireboy DML"
-        ],
-        "album": "Laughter, Tears & Goosebumps",
-        "played_at": "03/02/2024 - 13:27:07"
-    },
-    {
-        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-        "artists": [
-            "Victony",
-            "Rema",
-            "Tempoe",
-            "Don Toliver"
-        ],
-        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "played_at": "03/02/2024 - 13:23:48"
-    },
-    {
-        "song_name": "2 Sugar (feat. Ayra Starr)",
-        "artists": [
-            "Wizkid",
-            "Ayra Starr"
-        ],
-        "album": "More Love, Less Ego",
-        "played_at": "03/02/2024 - 13:20:08"
-    },
-    {
-        "song_name": "UNAVAILABLE (feat. Musa Keys)",
-        "artists": [
-            "Davido",
-            "Musa Keys"
-        ],
-        "album": "Timeless",
-        "played_at": "03/02/2024 - 13:17:01"
-    },
-    {
-        "song_name": "Calm Down",
-        "artists": [
-            "Rema"
-        ],
-        "album": "Rave & Roses",
-        "played_at": "03/02/2024 - 13:14:09"
-    },
-    {
-        "song_name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "artists": [
-            "Robinson",
-            "Jason Derulo",
-            "Rema"
-        ],
-        "album": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "played_at": "03/02/2024 - 13:10:30"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "03/02/2024 - 13:07:44"
-    },
-    {
-        "song_name": "Memories - Remix",
-        "artists": [
-            "Sigag Lauren",
-            "Ayra Starr"
-        ],
-        "album": "Remix Tape",
-        "played_at": "02/02/2024 - 19:08:04"
-    },
-    {
-        "song_name": "Sun Kissed",
-        "artists": [
-            "Ehrling"
-        ],
-        "album": "Sun Kissed",
-        "played_at": "02/02/2024 - 19:07:59"
-    },
-    {
-        "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-        "artists": [
-            "Quarry",
-            "SUPER-Hi"
-        ],
-        "album": "Sound of Your Summer",
-        "played_at": "02/02/2024 - 19:04:24"
-    },
-    {
-        "song_name": "Malibu",
-        "artists": [
-            "Mauve",
-            "kaii"
-        ],
-        "album": "Malibu",
-        "played_at": "02/02/2024 - 19:01:16"
-    },
-    {
-        "song_name": "Lucky Star",
-        "artists": [
-            "Sol Novaro",
-            "ROBINS"
-        ],
-        "album": "Lucky Star",
-        "played_at": "02/02/2024 - 18:58:48"
-    },
-    {
-        "song_name": "I Got U",
-        "artists": [
-            "Duke Dumont",
-            "Jax Jones"
-        ],
-        "album": "I Got U",
-        "played_at": "02/02/2024 - 18:55:35"
-    },
-    {
-        "song_name": "Like a Mystery",
-        "artists": [
-            "Eneko Artola"
-        ],
-        "album": "Like a Mystery",
-        "played_at": "02/02/2024 - 18:50:49"
-    },
-    {
-        "song_name": "Nothing Better",
-        "artists": [
-            "Mizmo"
-        ],
-        "album": "Nothing Better",
-        "played_at": "02/02/2024 - 18:48:31"
-    },
-    {
-        "song_name": "Tear Me Down (feat. Philip Rustad)",
-        "artists": [
-            "Davai",
-            "Philip Rustad"
-        ],
-        "album": "Tear Me Down (feat. Philip Rustad)",
-        "played_at": "02/02/2024 - 18:45:42"
-    },
-    {
-        "song_name": "Ocean Quiet",
-        "artists": [
-            "Lucas Estrada",
-            "NEIMY"
-        ],
-        "album": "Ocean Quiet",
-        "played_at": "02/02/2024 - 18:42:37"
-    },
-    {
-        "song_name": "Feels Like Paradise",
-        "artists": [
-            "Lonely in the Rain",
-            "Madeline Megery"
-        ],
-        "album": "Feels Like Paradise",
-        "played_at": "02/02/2024 - 18:39:50"
-    },
-    {
-        "song_name": "Would You Lie",
-        "artists": [
-            "Seeb",
-            "Alexander Stewart"
-        ],
-        "album": "Would You Lie",
-        "played_at": "02/02/2024 - 18:36:36"
-    },
-    {
-        "song_name": "just like this",
-        "artists": [
-            "rayn",
-            "imallryt"
-        ],
-        "album": "just like this",
-        "played_at": "02/02/2024 - 18:33:01"
-    },
-    {
-        "song_name": "Like This",
-        "artists": [
-            "Syn Cole"
-        ],
-        "album": "Like This",
-        "played_at": "02/02/2024 - 18:30:47"
-    },
-    {
-        "song_name": "Time After Time",
-        "artists": [
-            "Paratone"
-        ],
-        "album": "Time After Time",
-        "played_at": "02/02/2024 - 18:28:00"
-    },
-    {
-        "song_name": "Often - Kygo Remix",
-        "artists": [
-            "The Weeknd",
-            "Kygo"
-        ],
-        "album": "Often (Kygo Remix)",
-        "played_at": "02/02/2024 - 18:25:19"
-    },
-    {
-        "song_name": "Glowing State",
-        "artists": [
-            "Maiwan"
-        ],
-        "album": "Always Me",
-        "played_at": "02/02/2024 - 18:21:25"
-    },
-    {
-        "song_name": "Alright",
-        "artists": [
-            "Junerule",
-            "Weisser Quiff"
-        ],
-        "album": "Alright",
-        "played_at": "02/02/2024 - 18:16:35"
-    },
-    {
-        "song_name": "Tomorrow Never Comes",
-        "artists": [
-            "Vicetone"
-        ],
-        "album": "Tomorrow Never Comes",
-        "played_at": "02/02/2024 - 18:14:06"
-    },
-    {
-        "song_name": "House Of Cards",
-        "artists": [
-            "Lucas Estrada",
-            "Deepend",
-            "Dan Caplen"
-        ],
-        "album": "House Of Cards",
-        "played_at": "02/02/2024 - 18:11:08"
-    },
-    {
-        "song_name": "Waves",
-        "artists": [
-            "Gabriel Morais Jr",
-            "Ayla Nova"
-        ],
-        "album": "Waves",
-        "played_at": "02/02/2024 - 18:08:31"
-    },
-    {
-        "song_name": "Unwanted (feat. Conor Maynard)",
-        "artists": [
-            "Martin Jensen",
-            "Sam Feldt",
-            "Conor Maynard"
-        ],
-        "album": "Unwanted (feat. Conor Maynard)",
-        "played_at": "02/02/2024 - 18:06:00"
-    },
-    {
-        "song_name": "Sunbeams",
-        "artists": [
-            "NSH"
-        ],
-        "album": "Sunbeams",
-        "played_at": "02/02/2024 - 18:03:14"
-    },
-    {
-        "song_name": "ocean breeze",
-        "artists": [
-            "rayn"
-        ],
-        "album": "ocean breeze",
-        "played_at": "02/02/2024 - 18:00:47"
     }
 ]
