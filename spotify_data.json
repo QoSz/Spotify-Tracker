@@ -1,5 +1,61 @@
 [
     {
+        "song_name": "All My Life (feat. J. Cole)",
+        "artists": [
+            "Lil Durk",
+            "J. Cole"
+        ],
+        "album": "Almost Healed",
+        "played_at": "05/02/2024 - 17:58:55"
+    },
+    {
+        "song_name": "Pussy & Millions (feat. Travis Scott)",
+        "artists": [
+            "Drake",
+            "21 Savage",
+            "Travis Scott"
+        ],
+        "album": "Her Loss",
+        "played_at": "05/02/2024 - 17:55:12"
+    },
+    {
+        "song_name": "Freestyle",
+        "artists": [
+            "Lil Baby"
+        ],
+        "album": "Too Hard",
+        "played_at": "05/02/2024 - 17:51:08"
+    },
+    {
+        "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott",
+            "21 Savage"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "05/02/2024 - 17:09:13"
+    },
+    {
+        "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+        "artists": [
+            "JID",
+            "21 Savage",
+            "Baby Tate"
+        ],
+        "album": "The Forever Story (Extended Version)",
+        "played_at": "05/02/2024 - 17:05:45"
+    },
+    {
+        "song_name": "FE!N (feat. Playboi Carti)",
+        "artists": [
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "album": "UTOPIA",
+        "played_at": "05/02/2024 - 17:01:54"
+    },
+    {
         "song_name": "Demon High",
         "artists": [
             "Lil Uzi Vert"
@@ -395,58 +451,5 @@
         ],
         "album": "48 Hours",
         "played_at": "03/02/2024 - 23:18:16"
-    },
-    {
-        "song_name": "Shut up My Moms Calling",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Shut up My Moms Calling",
-        "played_at": "03/02/2024 - 23:15:36"
-    },
-    {
-        "song_name": "Superstar Sh*t",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "What Could Possibly Go Wrong",
-        "played_at": "03/02/2024 - 23:12:51"
-    },
-    {
-        "song_name": "Vultures",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign",
-            "Bump J",
-            "Lil Durk"
-        ],
-        "album": "Vultures",
-        "played_at": "03/02/2024 - 23:10:44"
-    },
-    {
-        "song_name": "Bandit",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Bandit",
-        "played_at": "03/02/2024 - 23:02:06"
-    },
-    {
-        "song_name": "Lady Of Namek",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "03/02/2024 - 23:00:34"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "03/02/2024 - 22:59:35"
     }
 ]
