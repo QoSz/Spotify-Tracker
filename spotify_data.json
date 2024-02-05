@@ -1,5 +1,118 @@
 [
     {
+        "song_name": "‘87 Stingray",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "05/02/2024 - 18:59:55"
+    },
+    {
+        "song_name": "Outside",
+        "artists": [
+            "Bryson Tiller"
+        ],
+        "album": "Outside",
+        "played_at": "05/02/2024 - 18:57:34"
+    },
+    {
+        "song_name": "Lovin On Me",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Lovin On Me",
+        "played_at": "05/02/2024 - 18:54:24"
+    },
+    {
+        "song_name": "Madness",
+        "artists": [
+            "Frank Walker",
+            "Sam Feldt",
+            "Zak Abel"
+        ],
+        "album": "Madness",
+        "played_at": "05/02/2024 - 18:52:06"
+    },
+    {
+        "song_name": "Massive",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "05/02/2024 - 18:49:06"
+    },
+    {
+        "song_name": "Shoota (feat. Lil Uzi Vert)",
+        "artists": [
+            "Playboi Carti",
+            "Lil Uzi Vert"
+        ],
+        "album": "Die Lit",
+        "played_at": "05/02/2024 - 18:42:24"
+    },
+    {
+        "song_name": "Casper",
+        "artists": [
+            "Takeoff"
+        ],
+        "album": "The Last Rocket",
+        "played_at": "05/02/2024 - 18:23:11"
+    },
+    {
+        "song_name": "Spin Bout U",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "05/02/2024 - 18:19:53"
+    },
+    {
+        "song_name": "Sprinter",
+        "artists": [
+            "Dave",
+            "Central Cee"
+        ],
+        "album": "Sprinter",
+        "played_at": "05/02/2024 - 18:16:18"
+    },
+    {
+        "song_name": "Space Cadet (feat. Gunna)",
+        "artists": [
+            "Metro Boomin",
+            "Gunna"
+        ],
+        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "played_at": "05/02/2024 - 18:12:28"
+    },
+    {
+        "song_name": "Life Goes On",
+        "artists": [
+            "Lil Baby",
+            "Gunna",
+            "Lil Uzi Vert"
+        ],
+        "album": "Harder Than Ever",
+        "played_at": "05/02/2024 - 18:09:05"
+    },
+    {
+        "song_name": "Tyler Herro",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Thats What They All Say",
+        "played_at": "05/02/2024 - 18:04:57"
+    },
+    {
+        "song_name": "Homecoming",
+        "artists": [
+            "Kanye West",
+            "Chris Martin"
+        ],
+        "album": "Graduation",
+        "played_at": "05/02/2024 - 18:02:20"
+    },
+    {
         "song_name": "All My Life (feat. J. Cole)",
         "artists": [
             "Lil Durk",
@@ -79,6 +192,14 @@
         ],
         "album": "Grey",
         "played_at": "05/02/2024 - 16:52:08"
+    },
+    {
+        "song_name": "Hold Me",
+        "artists": [
+            "Lavern"
+        ],
+        "album": "Hold Me",
+        "played_at": "05/02/2024 - 14:47:54"
     },
     {
         "song_name": "Whatever",
@@ -321,135 +442,5 @@
         ],
         "album": "Thrill Of The Chase",
         "played_at": "04/02/2024 - 16:26:56"
-    },
-    {
-        "song_name": "I Go Dancing (feat. Ella Henderson)",
-        "artists": [
-            "Frank Walker",
-            "Ella Henderson"
-        ],
-        "album": "I Go Dancing (feat. Ella Henderson)",
-        "played_at": "04/02/2024 - 16:23:34"
-    },
-    {
-        "song_name": "Where Are You Now",
-        "artists": [
-            "Lost Frequencies",
-            "Calum Scott"
-        ],
-        "album": "All Stand Together",
-        "played_at": "04/02/2024 - 16:20:51"
-    },
-    {
-        "song_name": "reason",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone (Deluxe Edition)",
-        "played_at": "04/02/2024 - 12:56:08"
-    },
-    {
-        "song_name": "Energy (Stay Far Away)",
-        "artists": [
-            "Skepta",
-            "Wizkid"
-        ],
-        "album": "Energy (Stay Far Away)",
-        "played_at": "04/02/2024 - 12:07:25"
-    },
-    {
-        "song_name": "Amapiano",
-        "artists": [
-            "Asake",
-            "Olamide"
-        ],
-        "album": "Work Of Art",
-        "played_at": "04/02/2024 - 12:04:05"
-    },
-    {
-        "song_name": "People",
-        "artists": [
-            "Libianca"
-        ],
-        "album": "People",
-        "played_at": "04/02/2024 - 12:01:20"
-    },
-    {
-        "song_name": "Mood (feat. BNXN)",
-        "artists": [
-            "Wizkid",
-            "Bnxn"
-        ],
-        "album": "Made In Lagos: Deluxe Edition",
-        "played_at": "04/02/2024 - 11:58:14"
-    },
-    {
-        "song_name": "Overloading (OVERDOSE)",
-        "artists": [
-            "Mavins",
-            "Crayon",
-            "Ayra Starr",
-            "LADIPOE",
-            "Magixx",
-            "Boy Spyce"
-        ],
-        "album": "Chapter X",
-        "played_at": "04/02/2024 - 11:54:44"
-    },
-    {
-        "song_name": "No Wahala",
-        "artists": [
-            "1da Banton"
-        ],
-        "album": "Original Vibe Machine",
-        "played_at": "04/02/2024 - 11:51:19"
-    },
-    {
-        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-        "artists": [
-            "Victony",
-            "Rema",
-            "Tempoe",
-            "Don Toliver"
-        ],
-        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "played_at": "04/02/2024 - 11:48:36"
-    },
-    {
-        "song_name": "Love Don't Cost A Dime (Re-Up)",
-        "artists": [
-            "Magixx",
-            "Ayra Starr"
-        ],
-        "album": "Love Don't Cost A Dime (Re-Up)",
-        "played_at": "04/02/2024 - 11:44:56"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "04/02/2024 - 11:42:29"
-    },
-    {
-        "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-        "artists": [
-            "Lyrical Lemonade",
-            "Jack Harlow",
-            "Dave"
-        ],
-        "album": "Stop Giving Me Advice",
-        "played_at": "03/02/2024 - 23:28:16"
-    },
-    {
-        "song_name": "#skeptacore pt.3",
-        "artists": [
-            "Ryder",
-            "Skepta"
-        ],
-        "album": "48 Hours",
-        "played_at": "03/02/2024 - 23:18:16"
     }
 ]
