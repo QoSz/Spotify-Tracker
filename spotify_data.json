@@ -1,5 +1,14 @@
 [
     {
+        "song_name": "Whatever",
+        "artists": [
+            "Kygo",
+            "Ava Max"
+        ],
+        "album": "Whatever",
+        "played_at": "05/02/2024 - 14:37:13"
+    },
+    {
         "song_name": "Mockingbird Valley",
         "artists": [
             "DJ Drama",
@@ -440,14 +449,5 @@
         ],
         "album": "Maverick",
         "played_at": "03/02/2024 - 17:18:09"
-    },
-    {
-        "song_name": "Water - Remix",
-        "artists": [
-            "Tyla",
-            "Travis Scott"
-        ],
-        "album": "Water (Remix)",
-        "played_at": "03/02/2024 - 17:15:11"
     }
 ]
