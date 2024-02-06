@@ -1,5 +1,82 @@
 [
     {
+        "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+        "artists": [
+            "JID",
+            "21 Savage",
+            "Baby Tate"
+        ],
+        "album": "The Forever Story (Extended Version)",
+        "played_at": "06/02/2024 - 21:17:31"
+    },
+    {
+        "song_name": "Chasing (feat. NEIMY)",
+        "artists": [
+            "Solar State",
+            "NSH",
+            "NEIMY"
+        ],
+        "album": "Chasing (feat. NEIMY)",
+        "played_at": "06/02/2024 - 21:13:44"
+    },
+    {
+        "song_name": "ball w/o you",
+        "artists": [
+            "21 Savage"
+        ],
+        "album": "i am > i was",
+        "played_at": "06/02/2024 - 21:11:19"
+    },
+    {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "06/02/2024 - 21:08:07"
+    },
+    {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "06/02/2024 - 14:47:39"
+    },
+    {
+        "song_name": "heart on my sleeve",
+        "artists": [
+            "ghostwriter"
+        ],
+        "album": "heart on my sleeve",
+        "played_at": "06/02/2024 - 14:29:14"
+    },
+    {
+        "song_name": "HITTIN MY SHOULDER",
+        "artists": [
+            "Lil Uzi Vert"
+        ],
+        "album": "RED & WHITE",
+        "played_at": "06/02/2024 - 14:27:02"
+    },
+    {
+        "song_name": "Lose It All (I Don't Wanna)",
+        "artists": [
+            "BUNT."
+        ],
+        "album": "Lose It All (I Don't Wanna)",
+        "played_at": "06/02/2024 - 14:23:56"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "06/02/2024 - 14:21:41"
+    },
+    {
         "song_name": "Go Crazy",
         "artists": [
             "Chris Brown",
@@ -360,86 +437,5 @@
         ],
         "album": "Emorio",
         "played_at": "04/02/2024 - 17:12:33"
-    },
-    {
-        "song_name": "Cooped Up / Return Of The Mack",
-        "artists": [
-            "Post Malone",
-            "Mark Morrison",
-            "Sickick"
-        ],
-        "album": "Cooped Up / Return Of The Mack",
-        "played_at": "04/02/2024 - 17:09:49"
-    },
-    {
-        "song_name": "(It Goes Like) Nanana - Edit",
-        "artists": [
-            "Peggy Gou"
-        ],
-        "album": "(It Goes Like) Nanana [Edit]",
-        "played_at": "04/02/2024 - 17:07:42"
-    },
-    {
-        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
-        "artists": [
-            "Swedish House Mafia",
-            "Connie Constance"
-        ],
-        "album": "Paradise Again",
-        "played_at": "04/02/2024 - 17:03:51"
-    },
-    {
-        "song_name": "Woke Up in Love",
-        "artists": [
-            "Kygo",
-            "Gryffin",
-            "Calum Scott"
-        ],
-        "album": "Thrill Of The Chase",
-        "played_at": "04/02/2024 - 17:00:16"
-    },
-    {
-        "song_name": "Fell In Love",
-        "artists": [
-            "Marshmello",
-            "Brent Faiyaz"
-        ],
-        "album": "Fell In Love",
-        "played_at": "04/02/2024 - 16:56:40"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "04/02/2024 - 16:54:38"
-    },
-    {
-        "song_name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-        "artists": [
-            "The Weeknd",
-            "Playboi Carti",
-            "Madonna"
-        ],
-        "album": "Popular (Music from the HBO Original Series)",
-        "played_at": "04/02/2024 - 16:49:01"
-    },
-    {
-        "song_name": "Another Love - Tiësto Remix",
-        "artists": [
-            "Tom Odell",
-            "Tiësto"
-        ],
-        "album": "Another Love (Tiësto Remix)",
-        "played_at": "04/02/2024 - 16:45:26"
-    },
-    {
-        "song_name": "‘87 Stingray",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "04/02/2024 - 16:42:20"
     }
 ]
