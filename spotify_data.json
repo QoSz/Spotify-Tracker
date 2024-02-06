@@ -1,5 +1,48 @@
 [
     {
+        "song_name": "Go Crazy",
+        "artists": [
+            "Chris Brown",
+            "Young Thug"
+        ],
+        "album": "Slime & B",
+        "played_at": "06/02/2024 - 14:18:25"
+    },
+    {
+        "song_name": "‘87 Stingray",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "06/02/2024 - 14:15:32"
+    },
+    {
+        "song_name": "Lovin On Me",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Lovin On Me",
+        "played_at": "06/02/2024 - 13:38:30"
+    },
+    {
+        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+        "artists": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "album": "At Night, Alone.",
+        "played_at": "06/02/2024 - 13:36:11"
+    },
+    {
+        "song_name": "Never Need",
+        "artists": [
+            "Hogland",
+            "Charlie South"
+        ],
+        "album": "Never Need",
+        "played_at": "06/02/2024 - 13:32:53"
+    },
+    {
         "song_name": "‘87 Stingray",
         "artists": [
             "Tory Lanez"
@@ -398,49 +441,5 @@
         ],
         "album": "Alone At Prom",
         "played_at": "04/02/2024 - 16:42:20"
-    },
-    {
-        "song_name": "I Ain't Worried",
-        "artists": [
-            "OneRepublic"
-        ],
-        "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "played_at": "04/02/2024 - 16:39:59"
-    },
-    {
-        "song_name": "Somewhere to Fly (with Don Toliver)",
-        "artists": [
-            "Kid Cudi",
-            "Don Toliver"
-        ],
-        "album": "Entergalactic",
-        "played_at": "04/02/2024 - 16:37:31"
-    },
-    {
-        "song_name": "My Love",
-        "artists": [
-            "Route 94",
-            "Jess Glynne"
-        ],
-        "album": "My Love",
-        "played_at": "04/02/2024 - 16:34:34"
-    },
-    {
-        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
-        "artists": [
-            "Mike Posner",
-            "Seeb"
-        ],
-        "album": "At Night, Alone.",
-        "played_at": "04/02/2024 - 16:30:14"
-    },
-    {
-        "song_name": "Never Really Loved Me (with Dean Lewis)",
-        "artists": [
-            "Kygo",
-            "Dean Lewis"
-        ],
-        "album": "Thrill Of The Chase",
-        "played_at": "04/02/2024 - 16:26:56"
     }
 ]
