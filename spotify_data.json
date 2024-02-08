@@ -1,5 +1,16 @@
 [
     {
+        "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+        "artists": [
+            "Lyrical Lemonade",
+            "Lil Tecca",
+            "The Kid LAROI",
+            "Lil Skies"
+        ],
+        "album": "All Is Yellow",
+        "played_at": "06/02/2024 - 22:09:54"
+    },
+    {
         "song_name": "Bandit",
         "artists": [
             "Don Toliver"
@@ -419,13 +430,5 @@
         ],
         "album": "I'M REALLY LIKE THAT",
         "played_at": "04/02/2024 - 17:43:35"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "04/02/2024 - 17:41:28"
     }
 ]
