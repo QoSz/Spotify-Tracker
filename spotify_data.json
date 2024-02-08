@@ -1,5 +1,271 @@
 [
     {
+        "song_name": "Around Me (feat. Don Toliver)",
+        "artists": [
+            "Metro Boomin",
+            "Don Toliver"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "08/02/2024 - 17:28:45"
+    },
+    {
+        "song_name": "Poison",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Poison",
+        "played_at": "08/02/2024 - 17:25:33"
+    },
+    {
+        "song_name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+        "artists": [
+            "Pusha T",
+            "Lil Uzi Vert",
+            "Don Toliver"
+        ],
+        "album": "It's Almost Dry",
+        "played_at": "08/02/2024 - 17:21:59"
+    },
+    {
+        "song_name": "Lavender Sunflower",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "08/02/2024 - 17:19:27"
+    },
+    {
+        "song_name": "Do It Right",
+        "artists": [
+            "Don Toliver"
+        ],
+        "album": "Love Sick",
+        "played_at": "08/02/2024 - 17:16:54"
+    },
+    {
+        "song_name": "REPEAT IT (with Gunna)",
+        "artists": [
+            "Lil Tecca",
+            "Gunna"
+        ],
+        "album": "We Love You Tecca 2",
+        "played_at": "08/02/2024 - 17:13:59"
+    },
+    {
+        "song_name": "Don’t Matter To Me (with Michael Jackson)",
+        "artists": [
+            "Drake",
+            "Michael Jackson"
+        ],
+        "album": "Scorpion",
+        "played_at": "08/02/2024 - 17:10:48"
+    },
+    {
+        "song_name": "ESCAPE PLAN",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ESCAPE PLAN / MAFIA",
+        "played_at": "08/02/2024 - 17:06:42"
+    },
+    {
+        "song_name": "Raindrops (Insane) [with Travis Scott]",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "08/02/2024 - 17:04:12"
+    },
+    {
+        "song_name": "And This is Just The Intro",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "PLAYBOY",
+        "played_at": "08/02/2024 - 17:01:03"
+    },
+    {
+        "song_name": "née-nah",
+        "artists": [
+            "21 Savage",
+            "Travis Scott",
+            "Metro Boomin"
+        ],
+        "album": "american dream",
+        "played_at": "08/02/2024 - 16:55:35"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "08/02/2024 - 16:51:54"
+    },
+    {
+        "song_name": "Hurts Me",
+        "artists": [
+            "Tory Lanez",
+            "Trippie Redd",
+            "Yoko Gold"
+        ],
+        "album": "Hurts Me",
+        "played_at": "08/02/2024 - 16:47:52"
+    },
+    {
+        "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+        "artists": [
+            "Lyrical Lemonade",
+            "Lil Tecca",
+            "The Kid LAROI",
+            "Lil Skies"
+        ],
+        "album": "All Is Yellow",
+        "played_at": "08/02/2024 - 16:45:32"
+    },
+    {
+        "song_name": "I KNOW ?",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "UTOPIA",
+        "played_at": "08/02/2024 - 16:42:42"
+    },
+    {
+        "song_name": "Flight's Booked",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "08/02/2024 - 16:39:10"
+    },
+    {
+        "song_name": "Overdue (with Travis Scott)",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "played_at": "08/02/2024 - 16:34:51"
+    },
+    {
+        "song_name": "Grey",
+        "artists": [
+            "Yung Filly"
+        ],
+        "album": "Grey",
+        "played_at": "08/02/2024 - 16:24:44"
+    },
+    {
+        "song_name": "Lady Of Namek",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "08/02/2024 - 16:21:57"
+    },
+    {
+        "song_name": "Time Flies",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "08/02/2024 - 16:18:46"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "08/02/2024 - 16:15:36"
+    },
+    {
+        "song_name": "I KNOW ?",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "UTOPIA",
+        "played_at": "08/02/2024 - 16:12:00"
+    },
+    {
+        "song_name": "Around Me (feat. Don Toliver)",
+        "artists": [
+            "Metro Boomin",
+            "Don Toliver"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "08/02/2024 - 16:08:31"
+    },
+    {
+        "song_name": "Bandit",
+        "artists": [
+            "Don Toliver"
+        ],
+        "album": "Bandit",
+        "played_at": "08/02/2024 - 16:05:23"
+    },
+    {
+        "song_name": "‘87 Stingray",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "08/02/2024 - 16:02:58"
+    },
+    {
+        "song_name": "Shut up My Moms Calling",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling",
+        "played_at": "08/02/2024 - 16:00:37"
+    },
+    {
+        "song_name": "Break from Toronto",
+        "artists": [
+            "PARTYNEXTDOOR"
+        ],
+        "album": "PARTYNEXTDOOR",
+        "played_at": "08/02/2024 - 15:57:54"
+    },
+    {
+        "song_name": "Codeine Crazy",
+        "artists": [
+            "Future"
+        ],
+        "album": "Monster",
+        "played_at": "08/02/2024 - 15:56:18"
+    },
+    {
+        "song_name": "The Color Violet",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "08/02/2024 - 15:50:34"
+    },
+    {
+        "song_name": "fukumean",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "08/02/2024 - 15:46:51"
+    },
+    {
+        "song_name": "Shut up My Moms Calling",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling",
+        "played_at": "08/02/2024 - 15:42:40"
+    },
+    {
         "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
         "artists": [
             "Lyrical Lemonade",
@@ -158,277 +424,5 @@
         ],
         "album": "Lose It All (I Don't Wanna)",
         "played_at": "06/02/2024 - 14:23:56"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "06/02/2024 - 14:21:41"
-    },
-    {
-        "song_name": "Go Crazy",
-        "artists": [
-            "Chris Brown",
-            "Young Thug"
-        ],
-        "album": "Slime & B",
-        "played_at": "06/02/2024 - 14:18:25"
-    },
-    {
-        "song_name": "‘87 Stingray",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "06/02/2024 - 14:15:32"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "06/02/2024 - 13:38:30"
-    },
-    {
-        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
-        "artists": [
-            "Mike Posner",
-            "Seeb"
-        ],
-        "album": "At Night, Alone.",
-        "played_at": "06/02/2024 - 13:36:11"
-    },
-    {
-        "song_name": "Never Need",
-        "artists": [
-            "Hogland",
-            "Charlie South"
-        ],
-        "album": "Never Need",
-        "played_at": "06/02/2024 - 13:32:53"
-    },
-    {
-        "song_name": "‘87 Stingray",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "05/02/2024 - 18:59:55"
-    },
-    {
-        "song_name": "Outside",
-        "artists": [
-            "Bryson Tiller"
-        ],
-        "album": "Outside",
-        "played_at": "05/02/2024 - 18:57:34"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "05/02/2024 - 18:54:24"
-    },
-    {
-        "song_name": "Madness",
-        "artists": [
-            "Frank Walker",
-            "Sam Feldt",
-            "Zak Abel"
-        ],
-        "album": "Madness",
-        "played_at": "05/02/2024 - 18:52:06"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "05/02/2024 - 18:49:06"
-    },
-    {
-        "song_name": "Shoota (feat. Lil Uzi Vert)",
-        "artists": [
-            "Playboi Carti",
-            "Lil Uzi Vert"
-        ],
-        "album": "Die Lit",
-        "played_at": "05/02/2024 - 18:42:24"
-    },
-    {
-        "song_name": "Casper",
-        "artists": [
-            "Takeoff"
-        ],
-        "album": "The Last Rocket",
-        "played_at": "05/02/2024 - 18:23:11"
-    },
-    {
-        "song_name": "Spin Bout U",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "05/02/2024 - 18:19:53"
-    },
-    {
-        "song_name": "Sprinter",
-        "artists": [
-            "Dave",
-            "Central Cee"
-        ],
-        "album": "Sprinter",
-        "played_at": "05/02/2024 - 18:16:18"
-    },
-    {
-        "song_name": "Space Cadet (feat. Gunna)",
-        "artists": [
-            "Metro Boomin",
-            "Gunna"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "05/02/2024 - 18:12:28"
-    },
-    {
-        "song_name": "Life Goes On",
-        "artists": [
-            "Lil Baby",
-            "Gunna",
-            "Lil Uzi Vert"
-        ],
-        "album": "Harder Than Ever",
-        "played_at": "05/02/2024 - 18:09:05"
-    },
-    {
-        "song_name": "Tyler Herro",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Thats What They All Say",
-        "played_at": "05/02/2024 - 18:04:57"
-    },
-    {
-        "song_name": "Homecoming",
-        "artists": [
-            "Kanye West",
-            "Chris Martin"
-        ],
-        "album": "Graduation",
-        "played_at": "05/02/2024 - 18:02:20"
-    },
-    {
-        "song_name": "All My Life (feat. J. Cole)",
-        "artists": [
-            "Lil Durk",
-            "J. Cole"
-        ],
-        "album": "Almost Healed",
-        "played_at": "05/02/2024 - 17:58:55"
-    },
-    {
-        "song_name": "Pussy & Millions (feat. Travis Scott)",
-        "artists": [
-            "Drake",
-            "21 Savage",
-            "Travis Scott"
-        ],
-        "album": "Her Loss",
-        "played_at": "05/02/2024 - 17:55:12"
-    },
-    {
-        "song_name": "Freestyle",
-        "artists": [
-            "Lil Baby"
-        ],
-        "album": "Too Hard",
-        "played_at": "05/02/2024 - 17:51:08"
-    },
-    {
-        "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-        "artists": [
-            "Metro Boomin",
-            "Travis Scott",
-            "21 Savage"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "05/02/2024 - 17:09:13"
-    },
-    {
-        "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-        "artists": [
-            "JID",
-            "21 Savage",
-            "Baby Tate"
-        ],
-        "album": "The Forever Story (Extended Version)",
-        "played_at": "05/02/2024 - 17:05:45"
-    },
-    {
-        "song_name": "FE!N (feat. Playboi Carti)",
-        "artists": [
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "UTOPIA",
-        "played_at": "05/02/2024 - 17:01:54"
-    },
-    {
-        "song_name": "Demon High",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Demon High",
-        "played_at": "05/02/2024 - 16:58:43"
-    },
-    {
-        "song_name": "Vino Bandit",
-        "artists": [
-            "K Motionz",
-            "Songer"
-        ],
-        "album": "Vino Bandit",
-        "played_at": "05/02/2024 - 16:54:38"
-    },
-    {
-        "song_name": "Grey",
-        "artists": [
-            "Yung Filly"
-        ],
-        "album": "Grey",
-        "played_at": "05/02/2024 - 16:52:08"
-    },
-    {
-        "song_name": "Hold Me",
-        "artists": [
-            "Lavern"
-        ],
-        "album": "Hold Me",
-        "played_at": "05/02/2024 - 14:47:54"
-    },
-    {
-        "song_name": "Whatever",
-        "artists": [
-            "Kygo",
-            "Ava Max"
-        ],
-        "album": "Whatever",
-        "played_at": "05/02/2024 - 14:37:13"
-    },
-    {
-        "song_name": "Mockingbird Valley",
-        "artists": [
-            "DJ Drama",
-            "Jack Harlow"
-        ],
-        "album": "I'M REALLY LIKE THAT",
-        "played_at": "04/02/2024 - 17:43:35"
     }
 ]
