@@ -1,5 +1,29 @@
 [
     {
+        "song_name": "Ride",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "Ride",
+        "played_at": "10/02/2024 - 14:33:06"
+    },
+    {
+        "song_name": "First Time Thing",
+        "artists": [
+            "Calabasas"
+        ],
+        "album": "First Time Thing",
+        "played_at": "10/02/2024 - 14:29:55"
+    },
+    {
+        "song_name": "ball w/o you",
+        "artists": [
+            "21 Savage"
+        ],
+        "album": "i am > i was",
+        "played_at": "10/02/2024 - 14:27:43"
+    },
+    {
         "song_name": "Who Told You (feat. Drake)",
         "artists": [
             "J Hus",
@@ -17,6 +41,17 @@
         ],
         "album": "Mr. Morale & The Big Steppers",
         "played_at": "09/02/2024 - 17:56:57"
+    },
+    {
+        "song_name": "Talking / Once Again",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "North West"
+        ],
+        "album": "Talking / Once Again",
+        "played_at": "09/02/2024 - 17:53:22"
     },
     {
         "song_name": "Feel No Ways",
@@ -394,39 +429,5 @@
         ],
         "album": "Shut up My Moms Calling",
         "played_at": "08/02/2024 - 18:29:42"
-    },
-    {
-        "song_name": "Too Fast",
-        "artists": [
-            "Sonder"
-        ],
-        "album": "Into",
-        "played_at": "08/02/2024 - 18:26:57"
-    },
-    {
-        "song_name": "Fell In Love",
-        "artists": [
-            "Marshmello",
-            "Brent Faiyaz"
-        ],
-        "album": "Fell In Love",
-        "played_at": "08/02/2024 - 18:22:01"
-    },
-    {
-        "song_name": "Let Go",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "08/02/2024 - 18:19:21"
-    },
-    {
-        "song_name": "Don't Come Out The House (with 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "21 Savage"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "08/02/2024 - 18:18:37"
     }
 ]
