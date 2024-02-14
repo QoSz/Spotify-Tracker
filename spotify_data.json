@@ -1,5 +1,13 @@
 [
     {
+        "song_name": "Lost",
+        "artists": [
+            "Blake Rose"
+        ],
+        "album": "Lost",
+        "played_at": "13/02/2024 - 21:11:58"
+    },
+    {
         "song_name": "Long Story Short (with Lil Wayne)",
         "artists": [
             "2 Chainz",
@@ -419,14 +427,5 @@
         ],
         "album": "Alone At Prom",
         "played_at": "13/02/2024 - 13:22:43"
-    },
-    {
-        "song_name": "Pink Dolphin Sunset (feat. Tee)",
-        "artists": [
-            "Tory Lanez",
-            "Tee"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "13/02/2024 - 13:20:47"
     }
 ]
