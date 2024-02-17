@@ -1,80 +1,240 @@
 [
     {
-        "song_name": "Shut up My Moms Calling",
+        "song_name": "The Color Violet",
         "artists": [
-            "Hotel Ugly"
+            "Tory Lanez"
         ],
-        "album": "Shut up My Moms Calling",
-        "played_at": "15/02/2024 - 11:54:10"
+        "album": "Alone At Prom",
+        "played_at": "16/02/2024 - 16:46:52"
     },
     {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
+        "song_name": "Ride for Me",
         "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
+            "JackZick",
+            "916frosty"
         ],
-        "album": "UTOPIA",
-        "played_at": "15/02/2024 - 11:47:52"
+        "album": "Sad Boy Hours",
+        "played_at": "16/02/2024 - 16:33:56"
     },
     {
-        "song_name": "Drama (feat. Drake)",
+        "song_name": "giannis",
         "artists": [
-            "Roy Woods",
-            "Drake"
+            "Zavon"
         ],
-        "album": "Drama (feat. Drake) [Sped Up]",
-        "played_at": "15/02/2024 - 11:41:58"
+        "album": "Gemini",
+        "played_at": "16/02/2024 - 16:29:56"
     },
     {
-        "song_name": "Finesse",
+        "song_name": "2step",
         "artists": [
-            "Drake"
+            "Ed Sheeran"
         ],
-        "album": "Scorpion",
-        "played_at": "15/02/2024 - 11:37:45"
+        "album": "=",
+        "played_at": "16/02/2024 - 16:27:20"
     },
     {
-        "song_name": "Churchill Downs (feat. Drake)",
+        "song_name": "Way Of Life",
         "artists": [
-            "Jack Harlow",
-            "Drake"
+            "Oren Major",
+            "Mama Only Son"
         ],
-        "album": "Come Home The Kids Miss You",
-        "played_at": "15/02/2024 - 11:34:42"
+        "album": "Way Of Life",
+        "played_at": "16/02/2024 - 16:24:45"
     },
     {
-        "song_name": "Let Go",
+        "song_name": "Get That All The Time",
         "artists": [
-            "Aaron May"
+            "RaeLynn",
+            "Mitchell Tenpenny"
         ],
-        "album": "CHASE",
-        "played_at": "15/02/2024 - 11:29:11"
+        "album": "Baytown",
+        "played_at": "16/02/2024 - 16:21:23"
     },
     {
-        "song_name": "Never say no",
+        "song_name": "Lose You Too",
         "artists": [
-            "Roman Müller"
+            "Harley Alaska"
         ],
-        "album": "Never say no",
-        "played_at": "15/02/2024 - 11:26:14"
+        "album": "Lose You Too",
+        "played_at": "16/02/2024 - 16:18:25"
     },
     {
-        "song_name": "Presha (with Lil Wayne)",
+        "song_name": "Signals",
         "artists": [
-            "2 Chainz",
-            "Lil Wayne"
+            "Regard",
+            "Kwabs"
         ],
-        "album": "Presha",
-        "played_at": "15/02/2024 - 11:20:30"
+        "album": "Signals",
+        "played_at": "16/02/2024 - 16:15:31"
     },
     {
-        "song_name": "sdp interlude",
+        "song_name": "Shivers",
         "artists": [
-            "Travis Scott"
+            "Ed Sheeran"
         ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "15/02/2024 - 11:17:59"
+        "album": "=",
+        "played_at": "16/02/2024 - 16:12:43"
+    },
+    {
+        "song_name": "Satellite",
+        "artists": [
+            "Khalid"
+        ],
+        "album": "Satellite",
+        "played_at": "16/02/2024 - 16:09:14"
+    },
+    {
+        "song_name": "Grow Up - Martin Jensen Remix",
+        "artists": [
+            "Olly Murs",
+            "Martin Jensen"
+        ],
+        "album": "Remixes 1",
+        "played_at": "16/02/2024 - 16:06:06"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "16/02/2024 - 16:02:40"
+    },
+    {
+        "song_name": "Icee Pop",
+        "artists": [
+            "Nic D"
+        ],
+        "album": "Icee Pop",
+        "played_at": "16/02/2024 - 15:58:35"
+    },
+    {
+        "song_name": "Face the Truth",
+        "artists": [
+            "Lucidious",
+            "Xavier Frye"
+        ],
+        "album": "Torn Between Pages",
+        "played_at": "16/02/2024 - 15:56:08"
+    },
+    {
+        "song_name": "Jericho",
+        "artists": [
+            "Iniko"
+        ],
+        "album": "Jericho",
+        "played_at": "16/02/2024 - 15:52:31"
+    },
+    {
+        "song_name": "3AM",
+        "artists": [
+            "Chris Patrick"
+        ],
+        "album": "From The Heart, Vol. 2",
+        "played_at": "16/02/2024 - 15:49:52"
+    },
+    {
+        "song_name": "Vibes (feat. Tyla Yaweh)",
+        "artists": [
+            "RMR",
+            "Tyla Yaweh"
+        ],
+        "album": "Vibes (feat. Tyla Yaweh)",
+        "played_at": "16/02/2024 - 15:46:06"
+    },
+    {
+        "song_name": "Enemies (feat. DaBaby)",
+        "artists": [
+            "Post Malone",
+            "DaBaby"
+        ],
+        "album": "Hollywood's Bleeding",
+        "played_at": "16/02/2024 - 15:43:22"
+    },
+    {
+        "song_name": "MOB TIES",
+        "artists": [
+            "KOJO"
+        ],
+        "album": "MOB TIES",
+        "played_at": "16/02/2024 - 15:40:05"
+    },
+    {
+        "song_name": "State of Mind",
+        "artists": [
+            "Kansh"
+        ],
+        "album": "State of Mind",
+        "played_at": "16/02/2024 - 15:37:29"
+    },
+    {
+        "song_name": "The One",
+        "artists": [
+            "Jane Good",
+            "Samuel Miller"
+        ],
+        "album": "The One",
+        "played_at": "16/02/2024 - 13:54:41"
+    },
+    {
+        "song_name": "Sunshine",
+        "artists": [
+            "Lavern"
+        ],
+        "album": "Sunshine",
+        "played_at": "16/02/2024 - 13:44:04"
+    },
+    {
+        "song_name": "Lady Of Namek",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "16/02/2024 - 13:41:41"
+    },
+    {
+        "song_name": "BACK TO ME",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
+        ],
+        "album": "VULTURES 1",
+        "played_at": "16/02/2024 - 13:38:27"
+    },
+    {
+        "song_name": "Vultures",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
+        ],
+        "album": "Vultures",
+        "played_at": "16/02/2024 - 13:33:31"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "16/02/2024 - 13:28:54"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "16/02/2024 - 13:25:24"
     },
     {
         "song_name": "Break from Toronto",
@@ -82,80 +242,23 @@
             "PARTYNEXTDOOR"
         ],
         "album": "PARTYNEXTDOOR",
-        "played_at": "15/02/2024 - 11:14:45"
+        "played_at": "16/02/2024 - 13:22:47"
     },
     {
-        "song_name": "So Fine",
+        "song_name": "Shut up My Moms Calling",
         "artists": [
-            "KiDi"
+            "Hotel Ugly"
         ],
-        "album": "The Golden Boy",
-        "played_at": "15/02/2024 - 11:12:13"
+        "album": "Shut up My Moms Calling",
+        "played_at": "16/02/2024 - 13:21:07"
     },
     {
-        "song_name": "I KNOW ?",
+        "song_name": "Too Fast",
         "artists": [
-            "Travis Scott"
+            "Sonder"
         ],
-        "album": "UTOPIA",
-        "played_at": "15/02/2024 - 11:09:31"
-    },
-    {
-        "song_name": "recognize",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone",
-        "played_at": "15/02/2024 - 11:05:46"
-    },
-    {
-        "song_name": "HALLELUJAH (feat. Blaqbonez)",
-        "artists": [
-            "CKay",
-            "Blaqbonez"
-        ],
-        "album": "Sad Romance (Deluxe)",
-        "played_at": "15/02/2024 - 11:04:22"
-    },
-    {
-        "song_name": "Kontrol",
-        "artists": [
-            "Maleek Berry"
-        ],
-        "album": "Kontrol",
-        "played_at": "15/02/2024 - 11:02:04"
-    },
-    {
-        "song_name": "Wetin",
-        "artists": [
-            "Yarden"
-        ],
-        "album": "Wetin",
-        "played_at": "15/02/2024 - 10:58:38"
-    },
-    {
-        "song_name": "I Believe",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Work Of Art",
-        "played_at": "15/02/2024 - 10:57:18"
-    },
-    {
-        "song_name": "City Boys",
-        "artists": [
-            "Burna Boy"
-        ],
-        "album": "I Told Them...",
-        "played_at": "15/02/2024 - 10:54:52"
-    },
-    {
-        "song_name": "Eh God (Barnabas)",
-        "artists": [
-            "Kizz Daniel"
-        ],
-        "album": "Barnabas",
-        "played_at": "15/02/2024 - 10:52:18"
+        "album": "Into",
+        "played_at": "16/02/2024 - 13:17:03"
     },
     {
         "song_name": "Fell In Love",
@@ -164,273 +267,177 @@
             "Brent Faiyaz"
         ],
         "album": "Fell In Love",
-        "played_at": "15/02/2024 - 10:49:13"
+        "played_at": "16/02/2024 - 13:12:07"
     },
     {
-        "song_name": "Make You Say",
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
         "artists": [
-            "Rotimi",
-            "Nektunez"
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
         ],
-        "album": "Make You Say",
-        "played_at": "15/02/2024 - 10:47:12"
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "16/02/2024 - 13:10:05"
     },
     {
-        "song_name": "Soweto (Sped Up)",
+        "song_name": "Vultures",
         "artists": [
-            "Victony",
-            "Tempoe"
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
         ],
-        "album": "Soweto (Sped Up)",
-        "played_at": "15/02/2024 - 10:44:24"
+        "album": "Vultures",
+        "played_at": "16/02/2024 - 13:06:36"
     },
     {
-        "song_name": "WO WO (Remix)",
+        "song_name": "BACK TO ME",
         "artists": [
-            "Minz",
-            "Bnxn",
-            "Blaqbonez"
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
         ],
-        "album": "WO WO (Remix)",
-        "played_at": "15/02/2024 - 10:42:20"
+        "album": "VULTURES 1",
+        "played_at": "16/02/2024 - 13:01:58"
     },
     {
-        "song_name": "JELO",
+        "song_name": "BACK TO ME",
         "artists": [
-            "Pheelz",
-            "Young Jonn"
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
         ],
-        "album": "JELO",
-        "played_at": "15/02/2024 - 10:38:34"
+        "album": "VULTURES 1",
+        "played_at": "16/02/2024 - 12:32:33"
     },
     {
-        "song_name": "Shu-Peru",
+        "song_name": "Who Knows",
         "artists": [
-            "Kizz Daniel"
+            "Protoje",
+            "Chronixx"
         ],
-        "album": "Maverick",
-        "played_at": "15/02/2024 - 10:36:09"
+        "album": "Ancient Future",
+        "played_at": "15/02/2024 - 23:37:36"
     },
     {
-        "song_name": "Shu-Peru",
+        "song_name": "Three Little Birds",
         "artists": [
-            "Kizz Daniel"
+            "Bob Marley & The Wailers"
         ],
-        "album": "Maverick",
-        "played_at": "15/02/2024 - 10:11:01"
+        "album": "Exodus",
+        "played_at": "15/02/2024 - 23:25:24"
     },
     {
-        "song_name": "Dull",
+        "song_name": "State of Mind",
         "artists": [
-            "Asake"
+            "Kansh"
         ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "15/02/2024 - 09:59:22"
+        "album": "State of Mind",
+        "played_at": "15/02/2024 - 22:11:57"
     },
     {
-        "song_name": "née-nah",
+        "song_name": "I LIKE IT",
         "artists": [
-            "21 Savage",
-            "Travis Scott",
-            "Metro Boomin"
+            "Jarom Su'a",
+            "Nic D"
         ],
-        "album": "american dream",
-        "played_at": "15/02/2024 - 09:57:43"
+        "album": "I LIKE IT",
+        "played_at": "15/02/2024 - 21:47:52"
     },
     {
-        "song_name": "née-nah",
+        "song_name": "Kenji's Choir",
         "artists": [
-            "21 Savage",
-            "Travis Scott",
-            "Metro Boomin"
+            "Oscar the King"
         ],
-        "album": "american dream",
-        "played_at": "15/02/2024 - 09:41:08"
+        "album": "Kenji's Choir",
+        "played_at": "15/02/2024 - 21:45:39"
     },
     {
-        "song_name": "Somebody",
+        "song_name": "Two Face",
         "artists": [
-            "Praiz",
-            "King"
+            "CHIBI LOL",
+            "Scorey"
         ],
-        "album": "King",
-        "played_at": "15/02/2024 - 09:30:50"
+        "album": "IF I STILL HAD A HEART",
+        "played_at": "15/02/2024 - 21:43:04"
     },
     {
-        "song_name": "Colours",
+        "song_name": "missed takes",
         "artists": [
-            "Kid AlpHa"
+            "Hoosh"
         ],
-        "album": "Colours",
-        "played_at": "15/02/2024 - 09:27:42"
+        "album": "missed takes",
+        "played_at": "15/02/2024 - 21:39:18"
     },
     {
-        "song_name": "Fever",
+        "song_name": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds) (feat. Kyle Reynolds)",
         "artists": [
-            "Soundz",
-            "Fave"
+            "DVBBS",
+            "Benny Benassi",
+            "Kyle Reynolds"
         ],
-        "album": "Fever",
-        "played_at": "15/02/2024 - 09:24:37"
+        "album": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds) (feat. Kyle Reynolds)",
+        "played_at": "15/02/2024 - 21:36:36"
     },
     {
-        "song_name": "𝘠𝘚𝘓",
+        "song_name": "argyle",
         "artists": [
-            "June Freedom",
-            "Elji Beatzkilla"
+            "brakence"
         ],
-        "album": "Anchor Baby",
-        "played_at": "15/02/2024 - 09:21:30"
+        "album": "argyle",
+        "played_at": "15/02/2024 - 21:34:34"
     },
     {
-        "song_name": "Yanna",
+        "song_name": "Dancing in Atlantis",
         "artists": [
-            "Chop Daily",
-            "Deyon Agoi"
+            "Jaiden Stylez"
         ],
-        "album": "Yanna",
-        "played_at": "15/02/2024 - 09:18:36"
+        "album": "Dancing in Atlantis",
+        "played_at": "15/02/2024 - 21:31:48"
     },
     {
-        "song_name": "Commas",
+        "song_name": "N95",
         "artists": [
-            "Ayra Starr"
+            "Kendrick Lamar"
         ],
-        "album": "Commas",
-        "played_at": "15/02/2024 - 09:16:23"
+        "album": "Mr. Morale & The Big Steppers",
+        "played_at": "15/02/2024 - 21:28:09"
     },
     {
-        "song_name": "Finesse",
+        "song_name": "Glory",
         "artists": [
-            "Pheelz",
-            "Bnxn"
+            "The Score"
         ],
-        "album": "Pheelz Good",
-        "played_at": "15/02/2024 - 09:13:45"
+        "album": "Carry On",
+        "played_at": "15/02/2024 - 21:24:52"
     },
     {
-        "song_name": "Sere",
+        "song_name": "Numb",
         "artists": [
-            "SPINALL",
-            "Fireboy DML"
+            "Marshmello",
+            "Khalid"
         ],
-        "album": "Grace",
-        "played_at": "15/02/2024 - 09:11:12"
+        "album": "Numb",
+        "played_at": "15/02/2024 - 21:22:04"
     },
     {
-        "song_name": "No Wahala",
+        "song_name": "Deja Vu",
         "artists": [
-            "1da Banton"
+            "James Arthur"
         ],
-        "album": "Original Vibe Machine",
-        "played_at": "15/02/2024 - 09:08:07"
+        "album": "It'll All Make Sense In The End",
+        "played_at": "15/02/2024 - 21:19:28"
     },
     {
-        "song_name": "Cough (Odo)",
+        "song_name": "LAST",
         "artists": [
-            "Kizz Daniel"
+            "Kyle Beats Collective",
+            "Matt Corman",
+            "TMRWNITE"
         ],
-        "album": "Maverick",
-        "played_at": "15/02/2024 - 09:05:24"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "15/02/2024 - 09:02:27"
-    },
-    {
-        "song_name": "Understand",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone",
-        "played_at": "15/02/2024 - 08:59:01"
-    },
-    {
-        "song_name": "Essence (feat. Tems)",
-        "artists": [
-            "Wizkid",
-            "Tems"
-        ],
-        "album": "Made In Lagos",
-        "played_at": "15/02/2024 - 08:56:07"
-    },
-    {
-        "song_name": "Buga (Lo Lo Lo)",
-        "artists": [
-            "Kizz Daniel",
-            "Tekno"
-        ],
-        "album": "Maverick",
-        "played_at": "15/02/2024 - 08:51:59"
-    },
-    {
-        "song_name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "artists": [
-            "Robinson",
-            "Jason Derulo",
-            "Rema"
-        ],
-        "album": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "played_at": "15/02/2024 - 08:48:55"
-    },
-    {
-        "song_name": "People",
-        "artists": [
-            "Libianca"
-        ],
-        "album": "People",
-        "played_at": "15/02/2024 - 08:46:10"
-    },
-    {
-        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-        "artists": [
-            "Victony",
-            "Rema",
-            "Tempoe",
-            "Don Toliver"
-        ],
-        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "played_at": "15/02/2024 - 08:43:04"
-    },
-    {
-        "song_name": "Organise",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "15/02/2024 - 08:39:24"
-    },
-    {
-        "song_name": "2 Sugar (feat. Ayra Starr)",
-        "artists": [
-            "Wizkid",
-            "Ayra Starr"
-        ],
-        "album": "More Love, Less Ego",
-        "played_at": "15/02/2024 - 08:37:20"
-    },
-    {
-        "song_name": "Infinity (feat. Omah Lay)",
-        "artists": [
-            "Olamide",
-            "Omah Lay"
-        ],
-        "album": "Carpe Diem",
-        "played_at": "15/02/2024 - 08:34:11"
-    },
-    {
-        "song_name": "Location (feat. Burna Boy)",
-        "artists": [
-            "Dave",
-            "Burna Boy"
-        ],
-        "album": "PSYCHODRAMA",
-        "played_at": "15/02/2024 - 08:31:19"
+        "album": "LAST",
+        "played_at": "15/02/2024 - 21:16:16"
     }
 ]
