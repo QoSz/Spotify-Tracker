@@ -1,5 +1,243 @@
 [
     {
+        "song_name": "Creepin' (with The Weeknd & 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "The Weeknd",
+            "21 Savage"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "20/02/2024 - 23:28:01"
+    },
+    {
+        "song_name": "3AM",
+        "artists": [
+            "Chris Patrick"
+        ],
+        "album": "From The Heart, Vol. 2",
+        "played_at": "20/02/2024 - 23:24:20"
+    },
+    {
+        "song_name": "DEAD MAN WALKING",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "WASTELAND",
+        "played_at": "20/02/2024 - 23:20:34"
+    },
+    {
+        "song_name": "Spin Bout U",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "20/02/2024 - 23:16:26"
+    },
+    {
+        "song_name": "Homecoming",
+        "artists": [
+            "Kanye West",
+            "Chris Martin"
+        ],
+        "album": "Graduation",
+        "played_at": "20/02/2024 - 23:12:51"
+    },
+    {
+        "song_name": "Lovin On Me",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Lovin On Me",
+        "played_at": "20/02/2024 - 23:09:27"
+    },
+    {
+        "song_name": "ASTROTHUNDER",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "20/02/2024 - 23:07:08"
+    },
+    {
+        "song_name": "Raindrops (Insane) [with Travis Scott]",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "20/02/2024 - 23:04:45"
+    },
+    {
+        "song_name": "I'm Geekin",
+        "artists": [
+            "DDG"
+        ],
+        "album": "Maybe It's Me...",
+        "played_at": "20/02/2024 - 23:01:35"
+    },
+    {
+        "song_name": "Transportin'",
+        "artists": [
+            "Kodak Black"
+        ],
+        "album": "Project Baby 2: All Grown Up",
+        "played_at": "20/02/2024 - 22:59:54"
+    },
+    {
+        "song_name": "Feel No Ways",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Views",
+        "played_at": "20/02/2024 - 22:57:03"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "20/02/2024 - 22:53:03"
+    },
+    {
+        "song_name": "Mmhmm",
+        "artists": [
+            "BigXthaPlug"
+        ],
+        "album": "Mmhmm",
+        "played_at": "20/02/2024 - 22:48:58"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "20/02/2024 - 22:46:59"
+    },
+    {
+        "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
+        "artists": [
+            "Metro Boomin",
+            "Future",
+            "Don Toliver"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "20/02/2024 - 22:43:48"
+    },
+    {
+        "song_name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+        "artists": [
+            "GoldLink",
+            "Brent Faiyaz",
+            "Shy Glizzy"
+        ],
+        "album": "At What Cost",
+        "played_at": "20/02/2024 - 22:40:27"
+    },
+    {
+        "song_name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
+        "artists": [
+            "A$AP Ferg",
+            "Brent Faiyaz",
+            "Salaam Remi"
+        ],
+        "album": "Floor Seats",
+        "played_at": "20/02/2024 - 22:37:30"
+    },
+    {
+        "song_name": "VULTURES",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
+        ],
+        "album": "VULTURES",
+        "played_at": "20/02/2024 - 22:33:46"
+    },
+    {
+        "song_name": "Heartless",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "808s & Heartbreak",
+        "played_at": "20/02/2024 - 22:29:09"
+    },
+    {
+        "song_name": "Drip Too Hard (Lil Baby & Gunna)",
+        "artists": [
+            "Lil Baby",
+            "Gunna"
+        ],
+        "album": "Drip Harder",
+        "played_at": "20/02/2024 - 22:25:38"
+    },
+    {
+        "song_name": "sdp interlude",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "Birds In The Trap Sing McKnight",
+        "played_at": "20/02/2024 - 22:23:12"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "20/02/2024 - 22:20:00"
+    },
+    {
+        "song_name": "Circles",
+        "artists": [
+            "Mac Miller"
+        ],
+        "album": "Circles",
+        "played_at": "20/02/2024 - 22:16:30"
+    },
+    {
+        "song_name": "Trust",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Lost",
+        "played_at": "20/02/2024 - 22:13:39"
+    },
+    {
+        "song_name": "BACK TO ME",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
+        ],
+        "album": "VULTURES 1",
+        "played_at": "20/02/2024 - 22:11:00"
+    },
+    {
+        "song_name": "Often - Kygo Remix",
+        "artists": [
+            "The Weeknd",
+            "Kygo"
+        ],
+        "album": "Often (Kygo Remix)",
+        "played_at": "20/02/2024 - 22:06:04"
+    },
+    {
+        "song_name": "Finesse",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scorpion",
+        "played_at": "20/02/2024 - 22:02:08"
+    },
+    {
         "song_name": "I KNOW ?",
         "artists": [
             "Travis Scott"
@@ -194,229 +432,5 @@
         ],
         "album": "Timeless",
         "played_at": "19/02/2024 - 08:53:55"
-    },
-    {
-        "song_name": "Essence (feat. Tems)",
-        "artists": [
-            "Wizkid",
-            "Tems"
-        ],
-        "album": "Made In Lagos",
-        "played_at": "19/02/2024 - 08:51:06"
-    },
-    {
-        "song_name": "City Boys",
-        "artists": [
-            "Burna Boy"
-        ],
-        "album": "I Told Them...",
-        "played_at": "19/02/2024 - 08:46:57"
-    },
-    {
-        "song_name": "No Wahala",
-        "artists": [
-            "1da Banton"
-        ],
-        "album": "Original Vibe Machine",
-        "played_at": "19/02/2024 - 08:44:23"
-    },
-    {
-        "song_name": "HITTIN MY SHOULDER",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "RED & WHITE",
-        "played_at": "18/02/2024 - 17:41:36"
-    },
-    {
-        "song_name": "16",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue",
-        "played_at": "18/02/2024 - 17:41:00"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "18/02/2024 - 17:38:24"
-    },
-    {
-        "song_name": "Way down We Go",
-        "artists": [
-            "KALEO"
-        ],
-        "album": "A/B",
-        "played_at": "18/02/2024 - 17:36:27"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Lose It All (I Don't Wanna)",
-        "played_at": "18/02/2024 - 17:32:54"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "18/02/2024 - 17:30:34"
-    },
-    {
-        "song_name": "Go Crazy",
-        "artists": [
-            "Chris Brown",
-            "Young Thug"
-        ],
-        "album": "Slime & B",
-        "played_at": "18/02/2024 - 17:27:16"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "18/02/2024 - 17:24:19"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "18/02/2024 - 17:21:19"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "18/02/2024 - 16:48:18"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "18/02/2024 - 16:47:05"
-    },
-    {
-        "song_name": "Lady Of Namek",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "18/02/2024 - 16:43:25"
-    },
-    {
-        "song_name": "The Color Violet",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "16/02/2024 - 16:46:52"
-    },
-    {
-        "song_name": "Ride for Me",
-        "artists": [
-            "JackZick",
-            "916frosty"
-        ],
-        "album": "Sad Boy Hours",
-        "played_at": "16/02/2024 - 16:33:56"
-    },
-    {
-        "song_name": "giannis",
-        "artists": [
-            "Zavon"
-        ],
-        "album": "Gemini",
-        "played_at": "16/02/2024 - 16:29:56"
-    },
-    {
-        "song_name": "2step",
-        "artists": [
-            "Ed Sheeran"
-        ],
-        "album": "=",
-        "played_at": "16/02/2024 - 16:27:20"
-    },
-    {
-        "song_name": "Way Of Life",
-        "artists": [
-            "Oren Major",
-            "Mama Only Son"
-        ],
-        "album": "Way Of Life",
-        "played_at": "16/02/2024 - 16:24:45"
-    },
-    {
-        "song_name": "Get That All The Time",
-        "artists": [
-            "RaeLynn",
-            "Mitchell Tenpenny"
-        ],
-        "album": "Baytown",
-        "played_at": "16/02/2024 - 16:21:23"
-    },
-    {
-        "song_name": "Lose You Too",
-        "artists": [
-            "Harley Alaska"
-        ],
-        "album": "Lose You Too",
-        "played_at": "16/02/2024 - 16:18:25"
-    },
-    {
-        "song_name": "Signals",
-        "artists": [
-            "Regard",
-            "Kwabs"
-        ],
-        "album": "Signals",
-        "played_at": "16/02/2024 - 16:15:31"
-    },
-    {
-        "song_name": "Shivers",
-        "artists": [
-            "Ed Sheeran"
-        ],
-        "album": "=",
-        "played_at": "16/02/2024 - 16:12:43"
-    },
-    {
-        "song_name": "Satellite",
-        "artists": [
-            "Khalid"
-        ],
-        "album": "Satellite",
-        "played_at": "16/02/2024 - 16:09:14"
-    },
-    {
-        "song_name": "Grow Up - Martin Jensen Remix",
-        "artists": [
-            "Olly Murs",
-            "Martin Jensen"
-        ],
-        "album": "Remixes 1",
-        "played_at": "16/02/2024 - 16:06:06"
-    },
-    {
-        "song_name": "I Wonder",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "16/02/2024 - 16:02:40"
     }
 ]
