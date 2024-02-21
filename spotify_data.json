@@ -1,5 +1,254 @@
 [
     {
+        "song_name": "ORANGE SODA",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "DIE FOR MY BITCH",
+        "played_at": "21/02/2024 - 15:52:56"
+    },
+    {
+        "song_name": "Count Me Out",
+        "artists": [
+            "Kendrick Lamar"
+        ],
+        "album": "Mr. Morale & The Big Steppers",
+        "played_at": "21/02/2024 - 15:50:22"
+    },
+    {
+        "song_name": "Father Stretch My Hands Pt. 1",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "The Life Of Pablo",
+        "played_at": "21/02/2024 - 15:45:18"
+    },
+    {
+        "song_name": "98 baby",
+        "artists": [
+            "Noah North"
+        ],
+        "album": "Love is a drug",
+        "played_at": "21/02/2024 - 15:43:10"
+    },
+    {
+        "song_name": "Pink Dolphin Sunset (feat. Tee)",
+        "artists": [
+            "Tory Lanez",
+            "Tee"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "21/02/2024 - 15:40:58"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "21/02/2024 - 15:37:25"
+    },
+    {
+        "song_name": "south to west",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "DS4EVER",
+        "played_at": "21/02/2024 - 15:33:44"
+    },
+    {
+        "song_name": "Down With Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC (Bonus)",
+        "played_at": "21/02/2024 - 15:31:42"
+    },
+    {
+        "song_name": "ESCAPE PLAN",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ESCAPE PLAN / MAFIA",
+        "played_at": "21/02/2024 - 15:29:41"
+    },
+    {
+        "song_name": "Champion (feat. Travis Scott)",
+        "artists": [
+            "NAV",
+            "Travis Scott"
+        ],
+        "album": "RECKLESS",
+        "played_at": "21/02/2024 - 15:27:11"
+    },
+    {
+        "song_name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "artists": [
+            "CHASE B",
+            "Travis Scott",
+            "Don Toliver",
+            "Quavo",
+            "Ty Dolla $ign"
+        ],
+        "album": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "played_at": "21/02/2024 - 15:01:40"
+    },
+    {
+        "song_name": "Lavender Sunflower",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "21/02/2024 - 14:58:33"
+    },
+    {
+        "song_name": "Massive",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "21/02/2024 - 14:56:01"
+    },
+    {
+        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+        "artists": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "album": "At Night, Alone.",
+        "played_at": "21/02/2024 - 14:50:23"
+    },
+    {
+        "song_name": "Love Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "21/02/2024 - 14:47:05"
+    },
+    {
+        "song_name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+        "artists": [
+            "Travis Scott",
+            "Rob49",
+            "21 Savage"
+        ],
+        "album": "UTOPIA",
+        "played_at": "21/02/2024 - 14:45:08"
+    },
+    {
+        "song_name": "Mr. Right Now (feat. Drake)",
+        "artists": [
+            "21 Savage",
+            "Metro Boomin",
+            "Drake"
+        ],
+        "album": "SAVAGE MODE II",
+        "played_at": "21/02/2024 - 14:41:23"
+    },
+    {
+        "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+        "artists": [
+            "XXXTENTACION",
+            "PnB Rock",
+            "Trippie Redd"
+        ],
+        "album": "Bad Vibes Forever",
+        "played_at": "21/02/2024 - 14:38:09"
+    },
+    {
+        "song_name": "The Color Violet",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "21/02/2024 - 14:35:38"
+    },
+    {
+        "song_name": "fukumean",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "21/02/2024 - 14:31:51"
+    },
+    {
+        "song_name": "HIDDEN VOICES",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
+        "played_at": "21/02/2024 - 14:29:46"
+    },
+    {
+        "song_name": "Shots",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "21/02/2024 - 14:27:14"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "21/02/2024 - 14:25:25"
+    },
+    {
+        "song_name": "Took Her To The O",
+        "artists": [
+            "King Von"
+        ],
+        "album": "Levon James",
+        "played_at": "21/02/2024 - 14:22:08"
+    },
+    {
+        "song_name": "missed takes",
+        "artists": [
+            "Hoosh"
+        ],
+        "album": "missed takes",
+        "played_at": "21/02/2024 - 14:18:51"
+    },
+    {
+        "song_name": "Hurts Me",
+        "artists": [
+            "Tory Lanez",
+            "Trippie Redd",
+            "Yoko Gold"
+        ],
+        "album": "Hurts Me",
+        "played_at": "21/02/2024 - 14:16:08"
+    },
+    {
+        "song_name": "The Way Life Goes (feat. Oh Wonder)",
+        "artists": [
+            "Lil Uzi Vert",
+            "Oh Wonder"
+        ],
+        "album": "Luv Is Rage 2",
+        "played_at": "21/02/2024 - 14:13:47"
+    },
+    {
+        "song_name": "BackOutsideBoyz",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Her Loss",
+        "played_at": "21/02/2024 - 14:10:05"
+    },
+    {
+        "song_name": "FE!N (feat. Playboi Carti)",
+        "artists": [
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "album": "UTOPIA",
+        "played_at": "21/02/2024 - 14:07:15"
+    },
+    {
         "song_name": "Creepin' (with The Weeknd & 21 Savage)",
         "artists": [
             "Metro Boomin",
@@ -182,255 +431,5 @@
         ],
         "album": "Birds In The Trap Sing McKnight",
         "played_at": "20/02/2024 - 22:23:12"
-    },
-    {
-        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "James Blake",
-            "A$AP Rocky",
-            "21 Savage"
-        ],
-        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "played_at": "20/02/2024 - 22:20:00"
-    },
-    {
-        "song_name": "Circles",
-        "artists": [
-            "Mac Miller"
-        ],
-        "album": "Circles",
-        "played_at": "20/02/2024 - 22:16:30"
-    },
-    {
-        "song_name": "Trust",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "Lost",
-        "played_at": "20/02/2024 - 22:13:39"
-    },
-    {
-        "song_name": "BACK TO ME",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign"
-        ],
-        "album": "VULTURES 1",
-        "played_at": "20/02/2024 - 22:11:00"
-    },
-    {
-        "song_name": "Often - Kygo Remix",
-        "artists": [
-            "The Weeknd",
-            "Kygo"
-        ],
-        "album": "Often (Kygo Remix)",
-        "played_at": "20/02/2024 - 22:06:04"
-    },
-    {
-        "song_name": "Finesse",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "20/02/2024 - 22:02:08"
-    },
-    {
-        "song_name": "I KNOW ?",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "UTOPIA",
-        "played_at": "20/02/2024 - 21:59:06"
-    },
-    {
-        "song_name": "Break from Toronto",
-        "artists": [
-            "PARTYNEXTDOOR"
-        ],
-        "album": "PARTYNEXTDOOR",
-        "played_at": "20/02/2024 - 21:55:34"
-    },
-    {
-        "song_name": "Faucet Failure",
-        "artists": [
-            "Ski Mask The Slump God"
-        ],
-        "album": "STOKELEY",
-        "played_at": "20/02/2024 - 21:53:54"
-    },
-    {
-        "song_name": "Around Me (feat. Don Toliver)",
-        "artists": [
-            "Metro Boomin",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/02/2024 - 14:21:08"
-    },
-    {
-        "song_name": "HITTIN MY SHOULDER",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "RED & WHITE",
-        "played_at": "20/02/2024 - 14:17:56"
-    },
-    {
-        "song_name": "Headlines",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Headlines",
-        "played_at": "20/02/2024 - 14:15:29"
-    },
-    {
-        "song_name": "Circles",
-        "artists": [
-            "Mac Miller"
-        ],
-        "album": "Circles",
-        "played_at": "19/02/2024 - 21:58:30"
-    },
-    {
-        "song_name": "Imperfections (Interlude)",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "played_at": "19/02/2024 - 10:15:14"
-    },
-    {
-        "song_name": "Drama (feat. Drake)",
-        "artists": [
-            "Roy Woods",
-            "Drake"
-        ],
-        "album": "Drama (feat. Drake) [Sped Up]",
-        "played_at": "19/02/2024 - 10:03:49"
-    },
-    {
-        "song_name": "Finesse",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "19/02/2024 - 09:59:38"
-    },
-    {
-        "song_name": "I Wonder",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "19/02/2024 - 09:56:35"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "19/02/2024 - 09:52:31"
-    },
-    {
-        "song_name": "Fell In Love",
-        "artists": [
-            "Marshmello",
-            "Brent Faiyaz"
-        ],
-        "album": "Fell In Love",
-        "played_at": "19/02/2024 - 09:49:19"
-    },
-    {
-        "song_name": "Fell In Love",
-        "artists": [
-            "Marshmello",
-            "Brent Faiyaz"
-        ],
-        "album": "Fell In Love",
-        "played_at": "19/02/2024 - 09:30:34"
-    },
-    {
-        "song_name": "Sex, Drugs, Etc.",
-        "artists": [
-            "Beach Weather"
-        ],
-        "album": "Pineapple Sunrise",
-        "played_at": "19/02/2024 - 09:18:42"
-    },
-    {
-        "song_name": "Shut up My Moms Calling",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Shut up My Moms Calling",
-        "played_at": "19/02/2024 - 09:15:24"
-    },
-    {
-        "song_name": "i’m a mess",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone",
-        "played_at": "19/02/2024 - 09:11:23"
-    },
-    {
-        "song_name": "emiliana",
-        "artists": [
-            "CKay"
-        ],
-        "album": "Sad Romance",
-        "played_at": "19/02/2024 - 09:08:50"
-    },
-    {
-        "song_name": "Kontrol",
-        "artists": [
-            "Maleek Berry"
-        ],
-        "album": "Kontrol",
-        "played_at": "19/02/2024 - 09:06:02"
-    },
-    {
-        "song_name": "Overloading (OVERDOSE)",
-        "artists": [
-            "Mavins",
-            "Crayon",
-            "Ayra Starr",
-            "LADIPOE",
-            "Magixx",
-            "Boy Spyce"
-        ],
-        "album": "Chapter X",
-        "played_at": "19/02/2024 - 09:02:35"
-    },
-    {
-        "song_name": "KU LO SA - A COLORS SHOW",
-        "artists": [
-            "Oxlade"
-        ],
-        "album": "KU LO SA - A COLORS SHOW",
-        "played_at": "19/02/2024 - 08:59:09"
-    },
-    {
-        "song_name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "artists": [
-            "Robinson",
-            "Jason Derulo",
-            "Rema"
-        ],
-        "album": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "played_at": "19/02/2024 - 08:56:42"
-    },
-    {
-        "song_name": "UNAVAILABLE (feat. Musa Keys)",
-        "artists": [
-            "Davido",
-            "Musa Keys"
-        ],
-        "album": "Timeless",
-        "played_at": "19/02/2024 - 08:53:55"
     }
 ]
