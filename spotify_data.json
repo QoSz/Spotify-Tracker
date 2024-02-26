@@ -1,5 +1,123 @@
 [
     {
+        "song_name": "Trust",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Lost",
+        "played_at": "24/02/2024 - 23:36:24"
+    },
+    {
+        "song_name": "90210 (feat. Kacy Hill)",
+        "artists": [
+            "Travis Scott",
+            "Kacy Hill"
+        ],
+        "album": "Rodeo",
+        "played_at": "23/02/2024 - 12:06:51"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "23/02/2024 - 12:03:11"
+    },
+    {
+        "song_name": "Propeller (feat. Dave & BNXN)",
+        "artists": [
+            "JAE5",
+            "Dave",
+            "Bnxn"
+        ],
+        "album": "Propeller (feat. Dave & BNXN)",
+        "played_at": "23/02/2024 - 12:00:56"
+    },
+    {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "23/02/2024 - 11:57:32"
+    },
+    {
+        "song_name": "emiliana",
+        "artists": [
+            "CKay"
+        ],
+        "album": "Sad Romance",
+        "played_at": "23/02/2024 - 11:55:27"
+    },
+    {
+        "song_name": "Finesse",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scorpion",
+        "played_at": "23/02/2024 - 11:52:41"
+    },
+    {
+        "song_name": "Imperfections (Interlude)",
+        "artists": [
+            "Pop Smoke"
+        ],
+        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "played_at": "23/02/2024 - 11:49:38"
+    },
+    {
+        "song_name": "INTOXYCATED (feat. Dave)",
+        "artists": [
+            "Oxlade",
+            "Dave"
+        ],
+        "album": "INTOXYCATED (feat. Dave)",
+        "played_at": "23/02/2024 - 11:47:51"
+    },
+    {
+        "song_name": "highway 95",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "The Melodic Blue (Deluxe)",
+        "played_at": "23/02/2024 - 11:44:18"
+    },
+    {
+        "song_name": "ASTROTHUNDER",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "23/02/2024 - 11:42:46"
+    },
+    {
+        "song_name": "Do Not Disturb",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "23/02/2024 - 11:40:24"
+    },
+    {
+        "song_name": "Weekend (feat. Miguel)",
+        "artists": [
+            "Mac Miller",
+            "Miguel"
+        ],
+        "album": "GO:OD AM",
+        "played_at": "23/02/2024 - 11:35:40"
+    },
+    {
+        "song_name": "Weekend (feat. Miguel)",
+        "artists": [
+            "Mac Miller",
+            "Miguel"
+        ],
+        "album": "GO:OD AM",
+        "played_at": "22/02/2024 - 13:14:20"
+    },
+    {
         "song_name": "Feel No Ways",
         "artists": [
             "Drake"
@@ -303,125 +421,5 @@
         ],
         "album": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
         "played_at": "21/02/2024 - 14:29:46"
-    },
-    {
-        "song_name": "Shots",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "21/02/2024 - 14:27:14"
-    },
-    {
-        "song_name": "5% TINT",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "21/02/2024 - 14:25:25"
-    },
-    {
-        "song_name": "Took Her To The O",
-        "artists": [
-            "King Von"
-        ],
-        "album": "Levon James",
-        "played_at": "21/02/2024 - 14:22:08"
-    },
-    {
-        "song_name": "missed takes",
-        "artists": [
-            "Hoosh"
-        ],
-        "album": "missed takes",
-        "played_at": "21/02/2024 - 14:18:51"
-    },
-    {
-        "song_name": "Hurts Me",
-        "artists": [
-            "Tory Lanez",
-            "Trippie Redd",
-            "Yoko Gold"
-        ],
-        "album": "Hurts Me",
-        "played_at": "21/02/2024 - 14:16:08"
-    },
-    {
-        "song_name": "The Way Life Goes (feat. Oh Wonder)",
-        "artists": [
-            "Lil Uzi Vert",
-            "Oh Wonder"
-        ],
-        "album": "Luv Is Rage 2",
-        "played_at": "21/02/2024 - 14:13:47"
-    },
-    {
-        "song_name": "BackOutsideBoyz",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Her Loss",
-        "played_at": "21/02/2024 - 14:10:05"
-    },
-    {
-        "song_name": "FE!N (feat. Playboi Carti)",
-        "artists": [
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "UTOPIA",
-        "played_at": "21/02/2024 - 14:07:15"
-    },
-    {
-        "song_name": "Pretty Little Poison",
-        "artists": [
-            "Warren Zeiders"
-        ],
-        "album": "Pretty Little Poison",
-        "played_at": "21/02/2024 - 01:07:54"
-    },
-    {
-        "song_name": "Creepin' (with The Weeknd & 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "The Weeknd",
-            "21 Savage"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/02/2024 - 23:28:01"
-    },
-    {
-        "song_name": "3AM",
-        "artists": [
-            "Chris Patrick"
-        ],
-        "album": "From The Heart, Vol. 2",
-        "played_at": "20/02/2024 - 23:24:20"
-    },
-    {
-        "song_name": "DEAD MAN WALKING",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "WASTELAND",
-        "played_at": "20/02/2024 - 23:20:34"
-    },
-    {
-        "song_name": "Spin Bout U",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "20/02/2024 - 23:16:26"
-    },
-    {
-        "song_name": "Homecoming",
-        "artists": [
-            "Kanye West",
-            "Chris Martin"
-        ],
-        "album": "Graduation",
-        "played_at": "20/02/2024 - 23:12:51"
     }
 ]
