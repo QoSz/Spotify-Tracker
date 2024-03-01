@@ -1,5 +1,79 @@
 [
     {
+        "song_name": "Lose It All (I Don't Wanna)",
+        "artists": [
+            "BUNT."
+        ],
+        "album": "Lose It All (I Don't Wanna)",
+        "played_at": "29/02/2024 - 22:50:14"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "29/02/2024 - 22:47:55"
+    },
+    {
+        "song_name": "Go Crazy",
+        "artists": [
+            "Chris Brown",
+            "Young Thug"
+        ],
+        "album": "Slime & B",
+        "played_at": "29/02/2024 - 22:44:37"
+    },
+    {
+        "song_name": "Replay",
+        "artists": [
+            "Tems"
+        ],
+        "album": "If Orange Was A Place",
+        "played_at": "29/02/2024 - 22:41:39"
+    },
+    {
+        "song_name": "Do It Right",
+        "artists": [
+            "Don Toliver"
+        ],
+        "album": "Love Sick",
+        "played_at": "29/02/2024 - 22:38:39"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "29/02/2024 - 22:35:11"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "29/02/2024 - 22:30:23"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "29/02/2024 - 22:25:37"
+    },
+    {
+        "song_name": "Lady Of Namek",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "29/02/2024 - 22:09:28"
+    },
+    {
         "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
         "artists": [
             "Metro Boomin",
@@ -188,6 +262,15 @@
         "played_at": "29/02/2024 - 18:15:55"
     },
     {
+        "song_name": "Turn Yo Clic Up (feat. Future)",
+        "artists": [
+            "Quavo",
+            "Future"
+        ],
+        "album": "Rocket Power",
+        "played_at": "29/02/2024 - 14:12:42"
+    },
+    {
         "song_name": "Tyler Herro",
         "artists": [
             "Jack Harlow"
@@ -346,90 +429,5 @@
         ],
         "album": "Certified Lover Boy",
         "played_at": "29/02/2024 - 13:03:58"
-    },
-    {
-        "song_name": "Homecoming",
-        "artists": [
-            "Kanye West",
-            "Chris Martin"
-        ],
-        "album": "Graduation",
-        "played_at": "29/02/2024 - 12:59:06"
-    },
-    {
-        "song_name": "Used To",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Goodbye & Good Riddance",
-        "played_at": "29/02/2024 - 11:59:09"
-    },
-    {
-        "song_name": "Feel No Ways",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Views",
-        "played_at": "29/02/2024 - 11:48:05"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "29/02/2024 - 11:43:19"
-    },
-    {
-        "song_name": "Die Hard",
-        "artists": [
-            "Kendrick Lamar",
-            "Blxst",
-            "Amanda Reifer"
-        ],
-        "album": "Mr. Morale & The Big Steppers",
-        "played_at": "29/02/2024 - 11:41:03"
-    },
-    {
-        "song_name": "Out Of Love (feat. Internet Money)",
-        "artists": [
-            "Lil Tecca",
-            "Internet Money"
-        ],
-        "album": "Virgo World",
-        "played_at": "29/02/2024 - 11:37:04"
-    },
-    {
-        "song_name": "SKELETONS",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "29/02/2024 - 11:34:29"
-    },
-    {
-        "song_name": "TSU",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "29/02/2024 - 11:32:03"
-    },
-    {
-        "song_name": "No Wahala",
-        "artists": [
-            "1da Banton"
-        ],
-        "album": "Original Vibe Machine",
-        "played_at": "29/02/2024 - 11:26:54"
-    },
-    {
-        "song_name": "INTOXYCATED (feat. Dave)",
-        "artists": [
-            "Oxlade",
-            "Dave"
-        ],
-        "album": "INTOXYCATED (feat. Dave)",
-        "played_at": "29/02/2024 - 11:24:11"
     }
 ]
