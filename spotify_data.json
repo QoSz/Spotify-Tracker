@@ -1,5 +1,88 @@
 [
     {
+        "song_name": "Finesse",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scorpion",
+        "played_at": "01/03/2024 - 18:24:46"
+    },
+    {
+        "song_name": "Love Yourz",
+        "artists": [
+            "J. Cole"
+        ],
+        "album": "2014 Forest Hills Drive",
+        "played_at": "01/03/2024 - 18:19:05"
+    },
+    {
+        "song_name": "Money Trees",
+        "artists": [
+            "Kendrick Lamar",
+            "Jay Rock"
+        ],
+        "album": "good kid, m.A.A.d city",
+        "played_at": "01/03/2024 - 18:15:34"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "01/03/2024 - 18:09:06"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "01/03/2024 - 18:07:28"
+    },
+    {
+        "song_name": "Shut up My Moms Calling",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling",
+        "played_at": "01/03/2024 - 18:05:13"
+    },
+    {
+        "song_name": "Hurts Me",
+        "artists": [
+            "Tory Lanez",
+            "Trippie Redd",
+            "Yoko Gold"
+        ],
+        "album": "Hurts Me",
+        "played_at": "01/03/2024 - 18:02:29"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "01/03/2024 - 18:00:08"
+    },
+    {
+        "song_name": "Forever Yours",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Larger Than Life",
+        "played_at": "01/03/2024 - 17:56:04"
+    },
+    {
+        "song_name": "Down With Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC (Bonus)",
+        "played_at": "01/03/2024 - 17:54:28"
+    },
+    {
         "song_name": "Lose It All (I Don't Wanna)",
         "artists": [
             "BUNT."
@@ -344,90 +427,5 @@
         ],
         "album": "Search & Rescue",
         "played_at": "29/02/2024 - 13:32:56"
-    },
-    {
-        "song_name": "Cardigan",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Heaven Or Hell",
-        "played_at": "29/02/2024 - 13:28:22"
-    },
-    {
-        "song_name": "Shoota (feat. Lil Uzi Vert)",
-        "artists": [
-            "Playboi Carti",
-            "Lil Uzi Vert"
-        ],
-        "album": "Die Lit",
-        "played_at": "29/02/2024 - 13:25:43"
-    },
-    {
-        "song_name": "ESCAPE PLAN",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ESCAPE PLAN / MAFIA",
-        "played_at": "29/02/2024 - 13:23:09"
-    },
-    {
-        "song_name": "They Don't Love It",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Jackman.",
-        "played_at": "29/02/2024 - 13:20:39"
-    },
-    {
-        "song_name": "Circo Loco",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "29/02/2024 - 13:18:45"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "29/02/2024 - 13:14:48"
-    },
-    {
-        "song_name": "Sprinter",
-        "artists": [
-            "Dave",
-            "Central Cee"
-        ],
-        "album": "Sprinter",
-        "played_at": "29/02/2024 - 13:12:52"
-    },
-    {
-        "song_name": "Ambition For Cash",
-        "artists": [
-            "Key Glock"
-        ],
-        "album": "Yellow Tape 2",
-        "played_at": "29/02/2024 - 13:09:02"
-    },
-    {
-        "song_name": "Yes Indeed",
-        "artists": [
-            "Lil Baby",
-            "Drake"
-        ],
-        "album": "Harder Than Ever",
-        "played_at": "29/02/2024 - 13:06:21"
-    },
-    {
-        "song_name": "Fair Trade (with Travis Scott)",
-        "artists": [
-            "Drake",
-            "Travis Scott"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "29/02/2024 - 13:03:58"
     }
 ]
