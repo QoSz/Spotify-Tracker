@@ -1,5 +1,145 @@
 [
     {
+        "song_name": "home",
+        "artists": [
+            "Deyaz"
+        ],
+        "album": "TRANSPARENCY",
+        "played_at": "02/03/2024 - 02:31:26"
+    },
+    {
+        "song_name": "Re: Stacks",
+        "artists": [
+            "Bon Iver"
+        ],
+        "album": "For Emma, Forever Ago",
+        "played_at": "02/03/2024 - 02:20:53"
+    },
+    {
+        "song_name": "Banana Pancakes",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "02/03/2024 - 02:14:11"
+    },
+    {
+        "song_name": "hangover cure",
+        "artists": [
+            "NELLO"
+        ],
+        "album": "hangover cure",
+        "played_at": "02/03/2024 - 02:10:59"
+    },
+    {
+        "song_name": "The Bug Collector",
+        "artists": [
+            "Haley Heynderickx"
+        ],
+        "album": "I Need to Start a Garden",
+        "played_at": "02/03/2024 - 02:09:07"
+    },
+    {
+        "song_name": "Green Thumb",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "AUSTIN",
+        "played_at": "02/03/2024 - 02:05:18"
+    },
+    {
+        "song_name": "Cerca De Ti",
+        "artists": [
+            "Hermanos Gutiérrez"
+        ],
+        "album": "Hoy Como Ayer",
+        "played_at": "02/03/2024 - 02:02:37"
+    },
+    {
+        "song_name": "Lake Missoula",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "02/03/2024 - 02:00:49"
+    },
+    {
+        "song_name": "Charmed",
+        "artists": [
+            "Σtella",
+            "Redinho"
+        ],
+        "album": "Up and Away",
+        "played_at": "02/03/2024 - 01:59:02"
+    },
+    {
+        "song_name": "Please Don't Be",
+        "artists": [
+            "Hazlett"
+        ],
+        "album": "Bloom Mountain",
+        "played_at": "02/03/2024 - 01:56:23"
+    },
+    {
+        "song_name": "Run Away to Mars",
+        "artists": [
+            "TALK"
+        ],
+        "album": "Lord of the Flies & Birds & Bees",
+        "played_at": "02/03/2024 - 01:53:27"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "02/03/2024 - 01:49:53"
+    },
+    {
+        "song_name": "Big Black Car",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "This Empty Northern Hemisphere",
+        "played_at": "02/03/2024 - 01:46:41"
+    },
+    {
+        "song_name": "i am not who i was",
+        "artists": [
+            "Chance Peña"
+        ],
+        "album": "i am not who i was",
+        "played_at": "02/03/2024 - 01:42:35"
+    },
+    {
+        "song_name": "Waves",
+        "artists": [
+            "Mount Eminest",
+            "MOYN",
+            "lofi.dealer"
+        ],
+        "album": "lofi chillout music",
+        "played_at": "02/03/2024 - 01:33:00"
+    },
+    {
+        "song_name": "Days in the Sun",
+        "artists": [
+            "Ziggy Alberts"
+        ],
+        "album": "Land & Sea",
+        "played_at": "02/03/2024 - 01:30:45"
+    },
+    {
+        "song_name": "Mariella",
+        "artists": [
+            "Khruangbin",
+            "Leon Bridges"
+        ],
+        "album": "Texas Moon",
+        "played_at": "02/03/2024 - 01:27:10"
+    },
+    {
         "song_name": "On My Love",
         "artists": [
             "Zara Larsson",
@@ -141,6 +281,14 @@
         "played_at": "01/03/2024 - 17:54:28"
     },
     {
+        "song_name": "Faucet Failure",
+        "artists": [
+            "Ski Mask The Slump God"
+        ],
+        "album": "STOKELEY",
+        "played_at": "29/02/2024 - 23:03:59"
+    },
+    {
         "song_name": "Lose It All (I Don't Wanna)",
         "artists": [
             "BUNT."
@@ -272,160 +420,5 @@
         ],
         "album": "Demons Protected By Angels",
         "played_at": "29/02/2024 - 19:08:13"
-    },
-    {
-        "song_name": "Did Me Wrong",
-        "artists": [
-            "A Boogie Wit da Hoodie"
-        ],
-        "album": "Did Me Wrong",
-        "played_at": "29/02/2024 - 19:05:07"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "29/02/2024 - 19:02:09"
-    },
-    {
-        "song_name": "Run It Up (feat. Offset & Moneybagg Yo)",
-        "artists": [
-            "Lil Tjay",
-            "Offset",
-            "Moneybagg Yo"
-        ],
-        "album": "Destined 2 Win",
-        "played_at": "29/02/2024 - 18:58:57"
-    },
-    {
-        "song_name": "The Percocet & Stripper Joint",
-        "artists": [
-            "Future"
-        ],
-        "album": "DS2 (Deluxe)",
-        "played_at": "29/02/2024 - 18:55:05"
-    },
-    {
-        "song_name": "Ric Flair Drip (with Metro Boomin)",
-        "artists": [
-            "Offset",
-            "Metro Boomin"
-        ],
-        "album": "Without Warning",
-        "played_at": "29/02/2024 - 18:52:37"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "29/02/2024 - 18:49:44"
-    },
-    {
-        "song_name": "Super Gremlin",
-        "artists": [
-            "Kodak Black"
-        ],
-        "album": "Back For Everything",
-        "played_at": "29/02/2024 - 18:47:47"
-    },
-    {
-        "song_name": "20 Min",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Luv Is Rage 2 (Deluxe)",
-        "played_at": "29/02/2024 - 18:44:26"
-    },
-    {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
-        "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
-        ],
-        "album": "UTOPIA",
-        "played_at": "29/02/2024 - 18:40:46"
-    },
-    {
-        "song_name": "back to the moon",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "29/02/2024 - 18:34:52"
-    },
-    {
-        "song_name": "Money Trees",
-        "artists": [
-            "Kendrick Lamar",
-            "Jay Rock"
-        ],
-        "album": "good kid, m.A.A.d city",
-        "played_at": "29/02/2024 - 18:31:38"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "29/02/2024 - 18:25:12"
-    },
-    {
-        "song_name": "Drowning (feat. Kodak Black)",
-        "artists": [
-            "A Boogie Wit da Hoodie",
-            "Kodak Black"
-        ],
-        "album": "The Bigger Artist",
-        "played_at": "29/02/2024 - 18:21:58"
-    },
-    {
-        "song_name": "Sorry 4 What? // LV BELT",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Sorry 4 What",
-        "played_at": "29/02/2024 - 18:18:29"
-    },
-    {
-        "song_name": "Turn Yo Clic Up (feat. Future)",
-        "artists": [
-            "Quavo",
-            "Future"
-        ],
-        "album": "Rocket Power",
-        "played_at": "29/02/2024 - 18:15:55"
-    },
-    {
-        "song_name": "Turn Yo Clic Up (feat. Future)",
-        "artists": [
-            "Quavo",
-            "Future"
-        ],
-        "album": "Rocket Power",
-        "played_at": "29/02/2024 - 14:12:42"
-    },
-    {
-        "song_name": "Tyler Herro",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Thats What They All Say",
-        "played_at": "29/02/2024 - 14:00:49"
-    },
-    {
-        "song_name": "Out Of Love (feat. Internet Money)",
-        "artists": [
-            "Lil Tecca",
-            "Internet Money"
-        ],
-        "album": "Virgo World",
-        "played_at": "29/02/2024 - 13:58:11"
     }
 ]
