@@ -1,5 +1,73 @@
 [
     {
+        "song_name": "Living In A Haze - Acoustic Version",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Living In A Haze (Acoustic Version)",
+        "played_at": "02/03/2024 - 14:35:48"
+    },
+    {
+        "song_name": "Gods creation",
+        "artists": [
+            "daniel.mp3"
+        ],
+        "album": "Gods creation",
+        "played_at": "02/03/2024 - 14:24:05"
+    },
+    {
+        "song_name": "Got Caught in Amsterdam",
+        "artists": [
+            "Arc De Soleil"
+        ],
+        "album": "The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape",
+        "played_at": "02/03/2024 - 14:22:05"
+    },
+    {
+        "song_name": "Daughter of the Sun",
+        "artists": [
+            "vbnd",
+            "Katie Tupper",
+            "Justice Der"
+        ],
+        "album": "Daughter of the Sun",
+        "played_at": "02/03/2024 - 14:18:12"
+    },
+    {
+        "song_name": "San Luis",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "Evening Machines",
+        "played_at": "02/03/2024 - 14:12:34"
+    },
+    {
+        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
+        "artists": [
+            "benny blanco",
+            "Halsey",
+            "Khalid"
+        ],
+        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+        "played_at": "02/03/2024 - 14:08:01"
+    },
+    {
+        "song_name": "The Beginning",
+        "artists": [
+            "Flawed Mangoes"
+        ],
+        "album": "Killswitch Melodies",
+        "played_at": "02/03/2024 - 14:05:07"
+    },
+    {
+        "song_name": "Re: Stacks",
+        "artists": [
+            "Bon Iver"
+        ],
+        "album": "For Emma, Forever Ago",
+        "played_at": "02/03/2024 - 14:00:29"
+    },
+    {
         "song_name": "Banana Pancakes",
         "artists": [
             "Jack Johnson"
@@ -345,71 +413,5 @@
         ],
         "album": "good kid, m.A.A.d city",
         "played_at": "01/03/2024 - 18:15:34"
-    },
-    {
-        "song_name": "Our Time",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Virgo World",
-        "played_at": "01/03/2024 - 18:09:06"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "01/03/2024 - 18:07:28"
-    },
-    {
-        "song_name": "Shut up My Moms Calling",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Shut up My Moms Calling",
-        "played_at": "01/03/2024 - 18:05:13"
-    },
-    {
-        "song_name": "Hurts Me",
-        "artists": [
-            "Tory Lanez",
-            "Trippie Redd",
-            "Yoko Gold"
-        ],
-        "album": "Hurts Me",
-        "played_at": "01/03/2024 - 18:02:29"
-    },
-    {
-        "song_name": "I Wonder",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "01/03/2024 - 18:00:08"
-    },
-    {
-        "song_name": "Forever Yours",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "Larger Than Life",
-        "played_at": "01/03/2024 - 17:56:04"
-    },
-    {
-        "song_name": "Down With Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC (Bonus)",
-        "played_at": "01/03/2024 - 17:54:28"
-    },
-    {
-        "song_name": "Faucet Failure",
-        "artists": [
-            "Ski Mask The Slump God"
-        ],
-        "album": "STOKELEY",
-        "played_at": "29/02/2024 - 23:03:59"
     }
 ]
