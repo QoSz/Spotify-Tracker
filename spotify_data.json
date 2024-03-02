@@ -1,5 +1,129 @@
 [
     {
+        "song_name": "Banana Pancakes",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "02/03/2024 - 13:53:47"
+    },
+    {
+        "song_name": "hangover cure",
+        "artists": [
+            "NELLO"
+        ],
+        "album": "hangover cure",
+        "played_at": "02/03/2024 - 13:50:35"
+    },
+    {
+        "song_name": "The Bug Collector",
+        "artists": [
+            "Haley Heynderickx"
+        ],
+        "album": "I Need to Start a Garden",
+        "played_at": "02/03/2024 - 13:48:43"
+    },
+    {
+        "song_name": "Green Thumb",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "AUSTIN",
+        "played_at": "02/03/2024 - 13:44:54"
+    },
+    {
+        "song_name": "Cerca De Ti",
+        "artists": [
+            "Hermanos Gutiérrez"
+        ],
+        "album": "Hoy Como Ayer",
+        "played_at": "02/03/2024 - 13:42:15"
+    },
+    {
+        "song_name": "Lake Missoula",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "02/03/2024 - 13:40:25"
+    },
+    {
+        "song_name": "Charmed",
+        "artists": [
+            "Σtella",
+            "Redinho"
+        ],
+        "album": "Up and Away",
+        "played_at": "02/03/2024 - 13:38:38"
+    },
+    {
+        "song_name": "Please Don't Be",
+        "artists": [
+            "Hazlett"
+        ],
+        "album": "Bloom Mountain",
+        "played_at": "02/03/2024 - 13:36:00"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "02/03/2024 - 13:30:44"
+    },
+    {
+        "song_name": "Big Black Car",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "This Empty Northern Hemisphere",
+        "played_at": "02/03/2024 - 13:27:31"
+    },
+    {
+        "song_name": "i am not who i was",
+        "artists": [
+            "Chance Peña"
+        ],
+        "album": "i am not who i was",
+        "played_at": "02/03/2024 - 13:23:53"
+    },
+    {
+        "song_name": "Bloom (Online Bonus Track)",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Woodland",
+        "played_at": "02/03/2024 - 13:21:28"
+    },
+    {
+        "song_name": "Waves",
+        "artists": [
+            "Mount Eminest",
+            "MOYN",
+            "lofi.dealer"
+        ],
+        "album": "lofi chillout music",
+        "played_at": "02/03/2024 - 13:17:57"
+    },
+    {
+        "song_name": "Days in the Sun",
+        "artists": [
+            "Ziggy Alberts"
+        ],
+        "album": "Land & Sea",
+        "played_at": "02/03/2024 - 13:15:43"
+    },
+    {
+        "song_name": "Mariella",
+        "artists": [
+            "Khruangbin",
+            "Leon Bridges"
+        ],
+        "album": "Texas Moon",
+        "played_at": "02/03/2024 - 13:12:07"
+    },
+    {
         "song_name": "home",
         "artists": [
             "Deyaz"
@@ -287,138 +411,5 @@
         ],
         "album": "STOKELEY",
         "played_at": "29/02/2024 - 23:03:59"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Lose It All (I Don't Wanna)",
-        "played_at": "29/02/2024 - 22:50:14"
-    },
-    {
-        "song_name": "LOYAL (feat. Drake)",
-        "artists": [
-            "PARTYNEXTDOOR",
-            "Drake"
-        ],
-        "album": "PARTYMOBILE",
-        "played_at": "29/02/2024 - 22:47:55"
-    },
-    {
-        "song_name": "Go Crazy",
-        "artists": [
-            "Chris Brown",
-            "Young Thug"
-        ],
-        "album": "Slime & B",
-        "played_at": "29/02/2024 - 22:44:37"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "29/02/2024 - 22:41:39"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "29/02/2024 - 22:38:39"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "29/02/2024 - 22:35:11"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "29/02/2024 - 22:30:23"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "29/02/2024 - 22:25:37"
-    },
-    {
-        "song_name": "Lady Of Namek",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "29/02/2024 - 22:09:28"
-    },
-    {
-        "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-        "artists": [
-            "Metro Boomin",
-            "Future",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "29/02/2024 - 19:20:08"
-    },
-    {
-        "song_name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
-        "artists": [
-            "CHASE B",
-            "Travis Scott",
-            "Don Toliver",
-            "Quavo",
-            "Ty Dolla $ign"
-        ],
-        "album": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
-        "played_at": "29/02/2024 - 19:19:36"
-    },
-    {
-        "song_name": "m y . l i f e (with 21 Savage & Morray)",
-        "artists": [
-            "J. Cole",
-            "21 Savage",
-            "Morray"
-        ],
-        "album": "The Off-Season",
-        "played_at": "29/02/2024 - 19:16:29"
-    },
-    {
-        "song_name": "Low Down",
-        "artists": [
-            "Lil Baby"
-        ],
-        "album": "My Turn (Deluxe)",
-        "played_at": "29/02/2024 - 19:12:50"
-    },
-    {
-        "song_name": "Pull Up (feat. 21 Savage)",
-        "artists": [
-            "Toosii",
-            "21 Savage"
-        ],
-        "album": "NAUJOUR",
-        "played_at": "29/02/2024 - 19:10:26"
-    },
-    {
-        "song_name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-        "artists": [
-            "NAV",
-            "Lil Baby",
-            "Travis Scott"
-        ],
-        "album": "Demons Protected By Angels",
-        "played_at": "29/02/2024 - 19:08:13"
     }
 ]
