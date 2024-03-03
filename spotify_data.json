@@ -1,5 +1,13 @@
 [
     {
+        "song_name": "Better Together",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "03/03/2024 - 15:28:22"
+    },
+    {
         "song_name": "Mary",
         "artists": [
             "Alex G"
@@ -412,13 +420,5 @@
         ],
         "album": "Everything So Far",
         "played_at": "02/03/2024 - 13:30:44"
-    },
-    {
-        "song_name": "Big Black Car",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "This Empty Northern Hemisphere",
-        "played_at": "02/03/2024 - 13:27:31"
     }
 ]
