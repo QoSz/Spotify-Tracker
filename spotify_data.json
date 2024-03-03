@@ -1,5 +1,278 @@
 [
     {
+        "song_name": "Mary",
+        "artists": [
+            "Alex G"
+        ],
+        "album": "Trick",
+        "played_at": "03/03/2024 - 10:32:03"
+    },
+    {
+        "song_name": "Better Together",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "03/03/2024 - 10:31:33"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "Myles Smith"
+        ],
+        "album": "Sweater Weather",
+        "played_at": "02/03/2024 - 23:03:41"
+    },
+    {
+        "song_name": "Golden",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Living In A Haze",
+        "played_at": "02/03/2024 - 23:00:14"
+    },
+    {
+        "song_name": "Next to You",
+        "artists": [
+            "John Vincent III"
+        ],
+        "album": "Songs from the Valley",
+        "played_at": "02/03/2024 - 22:57:11"
+    },
+    {
+        "song_name": "theres this girl",
+        "artists": [
+            "sign crushes motorist"
+        ],
+        "album": "i'll be okay",
+        "played_at": "02/03/2024 - 22:52:54"
+    },
+    {
+        "song_name": "Thinking About You",
+        "artists": [
+            "Edwin Raphael"
+        ],
+        "album": "Ocean Walk",
+        "played_at": "02/03/2024 - 22:47:55"
+    },
+    {
+        "song_name": "Heartbeats",
+        "artists": [
+            "José González"
+        ],
+        "album": "Veneer",
+        "played_at": "02/03/2024 - 22:46:47"
+    },
+    {
+        "song_name": "Georgia",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Dream Your Life Away",
+        "played_at": "02/03/2024 - 22:44:07"
+    },
+    {
+        "song_name": "Another Love - Tiësto Remix",
+        "artists": [
+            "Tom Odell",
+            "Tiësto"
+        ],
+        "album": "Another Love (Tiësto Remix)",
+        "played_at": "02/03/2024 - 22:39:49"
+    },
+    {
+        "song_name": "Whatever",
+        "artists": [
+            "Kygo",
+            "Ava Max"
+        ],
+        "album": "Whatever",
+        "played_at": "02/03/2024 - 22:36:40"
+    },
+    {
+        "song_name": "Where Are You Now",
+        "artists": [
+            "Lost Frequencies",
+            "Calum Scott"
+        ],
+        "album": "All Stand Together",
+        "played_at": "02/03/2024 - 22:33:41"
+    },
+    {
+        "song_name": "Baianá",
+        "artists": [
+            "Bakermat"
+        ],
+        "album": "The Ringmaster",
+        "played_at": "02/03/2024 - 22:31:12"
+    },
+    {
+        "song_name": "Asking",
+        "artists": [
+            "Sonny Fodera",
+            "MK",
+            "Clementine Douglas"
+        ],
+        "album": "Asking",
+        "played_at": "02/03/2024 - 22:28:10"
+    },
+    {
+        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
+        "artists": [
+            "Swedish House Mafia",
+            "Connie Constance"
+        ],
+        "album": "Paradise Again",
+        "played_at": "02/03/2024 - 22:24:58"
+    },
+    {
+        "song_name": "Atmosphere",
+        "artists": [
+            "FISHER",
+            "Kita Alexander"
+        ],
+        "album": "Atmosphere",
+        "played_at": "02/03/2024 - 22:21:24"
+    },
+    {
+        "song_name": "Relax My Eyes",
+        "artists": [
+            "ANOTR",
+            "Abel Balder"
+        ],
+        "album": "Relax My Eyes",
+        "played_at": "02/03/2024 - 22:17:42"
+    },
+    {
+        "song_name": "Ocean Drive",
+        "artists": [
+            "Duke Dumont"
+        ],
+        "album": "Duality",
+        "played_at": "02/03/2024 - 22:14:29"
+    },
+    {
+        "song_name": "Chills (LA Hills)",
+        "artists": [
+            "Tiësto",
+            "A Boogie Wit da Hoodie"
+        ],
+        "album": "DRIVE",
+        "played_at": "02/03/2024 - 22:11:02"
+    },
+    {
+        "song_name": "Lost",
+        "artists": [
+            "RSCL",
+            "it's murph",
+            "Twin Diplomacy",
+            "Jack August"
+        ],
+        "album": "Lost",
+        "played_at": "02/03/2024 - 22:07:58"
+    },
+    {
+        "song_name": "Prada",
+        "artists": [
+            "cassö",
+            "RAYE",
+            "D-Block Europe"
+        ],
+        "album": "Prada",
+        "played_at": "02/03/2024 - 22:02:12"
+    },
+    {
+        "song_name": "Let Me Go",
+        "artists": [
+            "Plivi",
+            "Emund"
+        ],
+        "album": "Let Me Go",
+        "played_at": "02/03/2024 - 22:00:00"
+    },
+    {
+        "song_name": "Unwanted (feat. Conor Maynard)",
+        "artists": [
+            "Martin Jensen",
+            "Sam Feldt",
+            "Conor Maynard"
+        ],
+        "album": "Unwanted (feat. Conor Maynard)",
+        "played_at": "02/03/2024 - 21:57:04"
+    },
+    {
+        "song_name": "Next to You",
+        "artists": [
+            "John Vincent III"
+        ],
+        "album": "Songs from the Valley",
+        "played_at": "02/03/2024 - 18:03:51"
+    },
+    {
+        "song_name": "theres this girl",
+        "artists": [
+            "sign crushes motorist"
+        ],
+        "album": "i'll be okay",
+        "played_at": "02/03/2024 - 17:43:47"
+    },
+    {
+        "song_name": "Thinking About You",
+        "artists": [
+            "Edwin Raphael"
+        ],
+        "album": "Ocean Walk",
+        "played_at": "02/03/2024 - 17:38:48"
+    },
+    {
+        "song_name": "Heartbeats",
+        "artists": [
+            "José González"
+        ],
+        "album": "Veneer",
+        "played_at": "02/03/2024 - 17:37:40"
+    },
+    {
+        "song_name": "Georgia",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Dream Your Life Away",
+        "played_at": "02/03/2024 - 17:35:00"
+    },
+    {
+        "song_name": "Holocene",
+        "artists": [
+            "Bon Iver"
+        ],
+        "album": "Bon Iver (10th Anniversary Edition)",
+        "played_at": "02/03/2024 - 17:31:09"
+    },
+    {
+        "song_name": "Paint",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Young North",
+        "played_at": "02/03/2024 - 17:25:25"
+    },
+    {
+        "song_name": "Swimming",
+        "artists": [
+            "Flawed Mangoes"
+        ],
+        "album": "Swimming",
+        "played_at": "02/03/2024 - 17:22:13"
+    },
+    {
+        "song_name": "Better Together",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "02/03/2024 - 17:19:04"
+    },
+    {
         "song_name": "Living In A Haze - Acoustic Version",
         "artists": [
             "Milky Chance"
@@ -147,271 +420,5 @@
         ],
         "album": "This Empty Northern Hemisphere",
         "played_at": "02/03/2024 - 13:27:31"
-    },
-    {
-        "song_name": "i am not who i was",
-        "artists": [
-            "Chance Peña"
-        ],
-        "album": "i am not who i was",
-        "played_at": "02/03/2024 - 13:23:53"
-    },
-    {
-        "song_name": "Bloom (Online Bonus Track)",
-        "artists": [
-            "The Paper Kites"
-        ],
-        "album": "Woodland",
-        "played_at": "02/03/2024 - 13:21:28"
-    },
-    {
-        "song_name": "Waves",
-        "artists": [
-            "Mount Eminest",
-            "MOYN",
-            "lofi.dealer"
-        ],
-        "album": "lofi chillout music",
-        "played_at": "02/03/2024 - 13:17:57"
-    },
-    {
-        "song_name": "Days in the Sun",
-        "artists": [
-            "Ziggy Alberts"
-        ],
-        "album": "Land & Sea",
-        "played_at": "02/03/2024 - 13:15:43"
-    },
-    {
-        "song_name": "Mariella",
-        "artists": [
-            "Khruangbin",
-            "Leon Bridges"
-        ],
-        "album": "Texas Moon",
-        "played_at": "02/03/2024 - 13:12:07"
-    },
-    {
-        "song_name": "home",
-        "artists": [
-            "Deyaz"
-        ],
-        "album": "TRANSPARENCY",
-        "played_at": "02/03/2024 - 02:31:26"
-    },
-    {
-        "song_name": "Re: Stacks",
-        "artists": [
-            "Bon Iver"
-        ],
-        "album": "For Emma, Forever Ago",
-        "played_at": "02/03/2024 - 02:20:53"
-    },
-    {
-        "song_name": "Banana Pancakes",
-        "artists": [
-            "Jack Johnson"
-        ],
-        "album": "In Between Dreams",
-        "played_at": "02/03/2024 - 02:14:11"
-    },
-    {
-        "song_name": "hangover cure",
-        "artists": [
-            "NELLO"
-        ],
-        "album": "hangover cure",
-        "played_at": "02/03/2024 - 02:10:59"
-    },
-    {
-        "song_name": "The Bug Collector",
-        "artists": [
-            "Haley Heynderickx"
-        ],
-        "album": "I Need to Start a Garden",
-        "played_at": "02/03/2024 - 02:09:07"
-    },
-    {
-        "song_name": "Green Thumb",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "AUSTIN",
-        "played_at": "02/03/2024 - 02:05:18"
-    },
-    {
-        "song_name": "Cerca De Ti",
-        "artists": [
-            "Hermanos Gutiérrez"
-        ],
-        "album": "Hoy Como Ayer",
-        "played_at": "02/03/2024 - 02:02:37"
-    },
-    {
-        "song_name": "Lake Missoula",
-        "artists": [
-            "Richy Mitch & The Coal Miners"
-        ],
-        "album": "RMCM",
-        "played_at": "02/03/2024 - 02:00:49"
-    },
-    {
-        "song_name": "Charmed",
-        "artists": [
-            "Σtella",
-            "Redinho"
-        ],
-        "album": "Up and Away",
-        "played_at": "02/03/2024 - 01:59:02"
-    },
-    {
-        "song_name": "Please Don't Be",
-        "artists": [
-            "Hazlett"
-        ],
-        "album": "Bloom Mountain",
-        "played_at": "02/03/2024 - 01:56:23"
-    },
-    {
-        "song_name": "Run Away to Mars",
-        "artists": [
-            "TALK"
-        ],
-        "album": "Lord of the Flies & Birds & Bees",
-        "played_at": "02/03/2024 - 01:53:27"
-    },
-    {
-        "song_name": "Need 2",
-        "artists": [
-            "Pinegrove"
-        ],
-        "album": "Everything So Far",
-        "played_at": "02/03/2024 - 01:49:53"
-    },
-    {
-        "song_name": "Big Black Car",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "This Empty Northern Hemisphere",
-        "played_at": "02/03/2024 - 01:46:41"
-    },
-    {
-        "song_name": "i am not who i was",
-        "artists": [
-            "Chance Peña"
-        ],
-        "album": "i am not who i was",
-        "played_at": "02/03/2024 - 01:42:35"
-    },
-    {
-        "song_name": "Waves",
-        "artists": [
-            "Mount Eminest",
-            "MOYN",
-            "lofi.dealer"
-        ],
-        "album": "lofi chillout music",
-        "played_at": "02/03/2024 - 01:33:00"
-    },
-    {
-        "song_name": "Days in the Sun",
-        "artists": [
-            "Ziggy Alberts"
-        ],
-        "album": "Land & Sea",
-        "played_at": "02/03/2024 - 01:30:45"
-    },
-    {
-        "song_name": "Mariella",
-        "artists": [
-            "Khruangbin",
-            "Leon Bridges"
-        ],
-        "album": "Texas Moon",
-        "played_at": "02/03/2024 - 01:27:10"
-    },
-    {
-        "song_name": "On My Love",
-        "artists": [
-            "Zara Larsson",
-            "David Guetta"
-        ],
-        "album": "On My Love",
-        "played_at": "01/03/2024 - 18:47:49"
-    },
-    {
-        "song_name": "Lose Control",
-        "artists": [
-            "Teddy Swims"
-        ],
-        "album": "Lose Control",
-        "played_at": "01/03/2024 - 18:45:32"
-    },
-    {
-        "song_name": "yes, and?",
-        "artists": [
-            "Ariana Grande"
-        ],
-        "album": "yes, and?",
-        "played_at": "01/03/2024 - 18:42:01"
-    },
-    {
-        "song_name": "Alibi (feat. Rudimental)",
-        "artists": [
-            "Ella Henderson",
-            "Rudimental"
-        ],
-        "album": "Alibi (feat. Rudimental)",
-        "played_at": "01/03/2024 - 18:38:26"
-    },
-    {
-        "song_name": "TEXAS HOLD 'EM",
-        "artists": [
-            "Beyoncé"
-        ],
-        "album": "TEXAS HOLD 'EM",
-        "played_at": "01/03/2024 - 18:35:21"
-    },
-    {
-        "song_name": "Beautiful Things",
-        "artists": [
-            "Benson Boone"
-        ],
-        "album": "Beautiful Things",
-        "played_at": "01/03/2024 - 18:31:26"
-    },
-    {
-        "song_name": "Training Season",
-        "artists": [
-            "Dua Lipa"
-        ],
-        "album": "Training Season",
-        "played_at": "01/03/2024 - 18:28:25"
-    },
-    {
-        "song_name": "Finesse",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "01/03/2024 - 18:24:46"
-    },
-    {
-        "song_name": "Love Yourz",
-        "artists": [
-            "J. Cole"
-        ],
-        "album": "2014 Forest Hills Drive",
-        "played_at": "01/03/2024 - 18:19:05"
-    },
-    {
-        "song_name": "Money Trees",
-        "artists": [
-            "Kendrick Lamar",
-            "Jay Rock"
-        ],
-        "album": "good kid, m.A.A.d city",
-        "played_at": "01/03/2024 - 18:15:34"
     }
 ]
