@@ -1,5 +1,387 @@
 [
     {
+        "song_name": "Virginia May",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "This Empty Northern Hemisphere",
+        "played_at": "04/03/2024 - 13:58:39"
+    },
+    {
+        "song_name": "Upside Down",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "Upside Down",
+        "played_at": "04/03/2024 - 13:55:40"
+    },
+    {
+        "song_name": "The Beginning",
+        "artists": [
+            "Flawed Mangoes"
+        ],
+        "album": "Killswitch Melodies",
+        "played_at": "04/03/2024 - 13:52:10"
+    },
+    {
+        "song_name": "Lake Missoula",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "04/03/2024 - 13:49:15"
+    },
+    {
+        "song_name": "Cigarettes",
+        "artists": [
+            "David Kushner"
+        ],
+        "album": "Footprints I Found",
+        "played_at": "04/03/2024 - 13:47:28"
+    },
+    {
+        "song_name": "Saturday Sun",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Nation of Two",
+        "played_at": "04/03/2024 - 13:41:59"
+    },
+    {
+        "song_name": "life, on hold",
+        "artists": [
+            "my head is empty"
+        ],
+        "album": "life, on hold",
+        "played_at": "04/03/2024 - 13:38:24"
+    },
+    {
+        "song_name": "Dancing In The Courthouse",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Sunburn",
+        "played_at": "04/03/2024 - 13:36:55"
+    },
+    {
+        "song_name": "San Luis",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "Evening Machines",
+        "played_at": "04/03/2024 - 13:34:17"
+    },
+    {
+        "song_name": "Gods creation",
+        "artists": [
+            "daniel.mp3"
+        ],
+        "album": "Gods creation",
+        "played_at": "04/03/2024 - 13:29:44"
+    },
+    {
+        "song_name": "Midnight Moon",
+        "artists": [
+            "vbnd",
+            "Justice Der",
+            "Connor Newton"
+        ],
+        "album": "Daughter of the Sun",
+        "played_at": "04/03/2024 - 13:27:45"
+    },
+    {
+        "song_name": "Sarah's Place (feat. Noah Kahan)",
+        "artists": [
+            "Zach Bryan",
+            "Noah Kahan"
+        ],
+        "album": "Sarah's Place (feat. Noah Kahan)",
+        "played_at": "04/03/2024 - 13:23:30"
+    },
+    {
+        "song_name": "drive",
+        "artists": [
+            "Current Blue"
+        ],
+        "album": "drive",
+        "played_at": "04/03/2024 - 13:19:55"
+    },
+    {
+        "song_name": "Socialite",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "AUSTIN",
+        "played_at": "04/03/2024 - 13:18:13"
+    },
+    {
+        "song_name": "Babydoll",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "played_at": "04/03/2024 - 13:14:54"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "04/03/2024 - 13:13:15"
+    },
+    {
+        "song_name": "Paint",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Young North",
+        "played_at": "04/03/2024 - 13:10:03"
+    },
+    {
+        "song_name": "Sweet Jane",
+        "artists": [
+            "Playyard"
+        ],
+        "album": "Sweet Jane",
+        "played_at": "04/03/2024 - 13:06:51"
+    },
+    {
+        "song_name": "Look Back & Laugh",
+        "artists": [
+            "David Kushner"
+        ],
+        "album": "Footprints I Found",
+        "played_at": "04/03/2024 - 13:04:36"
+    },
+    {
+        "song_name": "evenfall",
+        "artists": [
+            "daniel.mp3"
+        ],
+        "album": "evenfall",
+        "played_at": "04/03/2024 - 13:01:25"
+    },
+    {
+        "song_name": "Audio 002",
+        "artists": [
+            "Next To Blue"
+        ],
+        "album": "Audio 002",
+        "played_at": "04/03/2024 - 12:59:24"
+    },
+    {
+        "song_name": "Ww",
+        "artists": [
+            "Other Nothing"
+        ],
+        "album": "Not Songs",
+        "played_at": "04/03/2024 - 12:58:17"
+    },
+    {
+        "song_name": "Thinking About You",
+        "artists": [
+            "Edwin Raphael"
+        ],
+        "album": "Ocean Walk",
+        "played_at": "04/03/2024 - 12:56:44"
+    },
+    {
+        "song_name": "Audio 002",
+        "artists": [
+            "Next To Blue"
+        ],
+        "album": "Audio 002",
+        "played_at": "04/03/2024 - 12:54:06"
+    },
+    {
+        "song_name": "Ww",
+        "artists": [
+            "Other Nothing"
+        ],
+        "album": "Not Songs",
+        "played_at": "04/03/2024 - 12:52:59"
+    },
+    {
+        "song_name": "Thinking About You",
+        "artists": [
+            "Edwin Raphael"
+        ],
+        "album": "Ocean Walk",
+        "played_at": "04/03/2024 - 12:51:26"
+    },
+    {
+        "song_name": "Bloom (Online Bonus Track)",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Woodland",
+        "played_at": "04/03/2024 - 12:50:18"
+    },
+    {
+        "song_name": "Just Give Me One More Day",
+        "artists": [
+            "Alejandro Vargas",
+            "Alej"
+        ],
+        "album": "Just Give Me One More Day",
+        "played_at": "04/03/2024 - 12:46:47"
+    },
+    {
+        "song_name": "overthinking - Demo",
+        "artists": [
+            "daniel.mp3"
+        ],
+        "album": "overthinking (Demo)",
+        "played_at": "04/03/2024 - 12:44:36"
+    },
+    {
+        "song_name": "Ethereal",
+        "artists": [
+            "Txmy"
+        ],
+        "album": "Ethereal",
+        "played_at": "04/03/2024 - 12:42:25"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "Myles Smith"
+        ],
+        "album": "Sweater Weather",
+        "played_at": "04/03/2024 - 12:39:36"
+    },
+    {
+        "song_name": "Burn",
+        "artists": [
+            "David Kushner"
+        ],
+        "album": "Footprints I Found",
+        "played_at": "04/03/2024 - 12:37:00"
+    },
+    {
+        "song_name": "Georgia",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Dream Your Life Away",
+        "played_at": "04/03/2024 - 12:34:01"
+    },
+    {
+        "song_name": "Please Don't Be",
+        "artists": [
+            "Hazlett"
+        ],
+        "album": "Bloom Mountain",
+        "played_at": "04/03/2024 - 12:30:10"
+    },
+    {
+        "song_name": "War",
+        "artists": [
+            "Chance Peña"
+        ],
+        "album": "War",
+        "played_at": "04/03/2024 - 12:27:14"
+    },
+    {
+        "song_name": "Mona Lisa",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Sunburn",
+        "played_at": "04/03/2024 - 12:24:36"
+    },
+    {
+        "song_name": "Present",
+        "artists": [
+            "Lloyd Vaan"
+        ],
+        "album": "Lens Flare",
+        "played_at": "04/03/2024 - 12:21:29"
+    },
+    {
+        "song_name": "as the light fades",
+        "artists": [
+            "a vow"
+        ],
+        "album": "as the light fades",
+        "played_at": "04/03/2024 - 12:19:03"
+    },
+    {
+        "song_name": "King of The World",
+        "artists": [
+            "Playyard"
+        ],
+        "album": "King of The World",
+        "played_at": "04/03/2024 - 12:16:44"
+    },
+    {
+        "song_name": "Charmed",
+        "artists": [
+            "Σtella",
+            "Redinho"
+        ],
+        "album": "Up and Away",
+        "played_at": "04/03/2024 - 12:14:59"
+    },
+    {
+        "song_name": "Overdrive",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "AUSTIN",
+        "played_at": "04/03/2024 - 12:12:20"
+    },
+    {
+        "song_name": "braincells",
+        "artists": [
+            "tomcbumpz"
+        ],
+        "album": "comfortable silence",
+        "played_at": "04/03/2024 - 12:09:52"
+    },
+    {
+        "song_name": "hospital beach",
+        "artists": [
+            "Cottonwood Firing Squad"
+        ],
+        "album": "you missed the best part",
+        "played_at": "04/03/2024 - 12:08:52"
+    },
+    {
+        "song_name": "numb",
+        "artists": [
+            "my head is empty"
+        ],
+        "album": "ambient vol 3",
+        "played_at": "04/03/2024 - 12:06:47"
+    },
+    {
+        "song_name": "The One That You Call",
+        "artists": [
+            "Mackenzy Mackay"
+        ],
+        "album": "The One That You Call",
+        "played_at": "04/03/2024 - 12:05:05"
+    },
+    {
+        "song_name": "Ms. Poli Sci",
+        "artists": [
+            "Paul Russell",
+            "Khary"
+        ],
+        "album": "Ms. Poli Sci",
+        "played_at": "04/03/2024 - 12:03:13"
+    },
+    {
+        "song_name": "i am not who i was",
+        "artists": [
+            "Chance Peña"
+        ],
+        "album": "i am not who i was",
+        "played_at": "04/03/2024 - 12:01:04"
+    },
+    {
         "song_name": "Dial Drunk (with Post Malone)",
         "artists": [
             "Noah Kahan",
@@ -23,391 +405,5 @@
         ],
         "album": "What Could Possibly Go Wrong",
         "played_at": "04/03/2024 - 11:53:25"
-    },
-    {
-        "song_name": "i was only temporary",
-        "artists": [
-            "my head is empty"
-        ],
-        "album": "i was only temporary",
-        "played_at": "04/03/2024 - 11:52:09"
-    },
-    {
-        "song_name": "Evergreen",
-        "artists": [
-            "Richy Mitch & The Coal Miners"
-        ],
-        "album": "RMCM",
-        "played_at": "04/03/2024 - 11:50:30"
-    },
-    {
-        "song_name": "Don't Understand",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "AUSTIN",
-        "played_at": "04/03/2024 - 11:49:03"
-    },
-    {
-        "song_name": "Mariella",
-        "artists": [
-            "Khruangbin",
-            "Leon Bridges"
-        ],
-        "album": "Texas Moon",
-        "played_at": "04/03/2024 - 11:45:59"
-    },
-    {
-        "song_name": "Daughter of the Sun",
-        "artists": [
-            "vbnd",
-            "Katie Tupper",
-            "Justice Der"
-        ],
-        "album": "Daughter of the Sun",
-        "played_at": "04/03/2024 - 11:40:49"
-    },
-    {
-        "song_name": "Sweet Disposition",
-        "artists": [
-            "Feeling Blew"
-        ],
-        "album": "Sweet Disposition",
-        "played_at": "04/03/2024 - 11:37:16"
-    },
-    {
-        "song_name": "Checklist",
-        "artists": [
-            "Hans Williams"
-        ],
-        "album": "Checklist",
-        "played_at": "04/03/2024 - 11:33:07"
-    },
-    {
-        "song_name": "Feeling You",
-        "artists": [
-            "Harrison Storm"
-        ],
-        "album": "Feeling You",
-        "played_at": "04/03/2024 - 11:29:55"
-    },
-    {
-        "song_name": "Ocean View",
-        "artists": [
-            "Pacific"
-        ],
-        "album": "Ocean View",
-        "played_at": "04/03/2024 - 11:26:33"
-    },
-    {
-        "song_name": "Mess Is Mine",
-        "artists": [
-            "Vance Joy"
-        ],
-        "album": "Dream Your Life Away",
-        "played_at": "04/03/2024 - 11:23:47"
-    },
-    {
-        "song_name": "Re: Stacks",
-        "artists": [
-            "Bon Iver"
-        ],
-        "album": "For Emma, Forever Ago",
-        "played_at": "04/03/2024 - 11:20:03"
-    },
-    {
-        "song_name": "Cyclone (The Village Sessions)",
-        "artists": [
-            "Sticky Fingers"
-        ],
-        "album": "Cyclone (The Village Sessions)",
-        "played_at": "04/03/2024 - 11:09:35"
-    },
-    {
-        "song_name": "Big Black Car",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "This Empty Northern Hemisphere",
-        "played_at": "04/03/2024 - 11:05:04"
-    },
-    {
-        "song_name": "Better Together",
-        "artists": [
-            "Jack Johnson"
-        ],
-        "album": "In Between Dreams",
-        "played_at": "04/03/2024 - 11:01:15"
-    },
-    {
-        "song_name": "Cry Me A River",
-        "artists": [
-            "Peaceful Melody",
-            "soave lofi"
-        ],
-        "album": "Cry Me A River",
-        "played_at": "04/03/2024 - 10:57:47"
-    },
-    {
-        "song_name": "Pasture Child",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "Sunburn",
-        "played_at": "04/03/2024 - 10:55:17"
-    },
-    {
-        "song_name": "Tommy's Party",
-        "artists": [
-            "Peach Pit"
-        ],
-        "album": "Being So Normal",
-        "played_at": "04/03/2024 - 10:52:23"
-    },
-    {
-        "song_name": "Mary",
-        "artists": [
-            "Alex G"
-        ],
-        "album": "Trick",
-        "played_at": "04/03/2024 - 10:46:21"
-    },
-    {
-        "song_name": "Live Well",
-        "artists": [
-            "Palace"
-        ],
-        "album": "So Long Forever",
-        "played_at": "04/03/2024 - 10:43:03"
-    },
-    {
-        "song_name": "Swimming",
-        "artists": [
-            "Flawed Mangoes"
-        ],
-        "album": "Swimming",
-        "played_at": "04/03/2024 - 10:38:52"
-    },
-    {
-        "song_name": "Swimming",
-        "artists": [
-            "Flawed Mangoes"
-        ],
-        "album": "Swimming",
-        "played_at": "04/03/2024 - 10:36:10"
-    },
-    {
-        "song_name": "Golden",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Living In A Haze",
-        "played_at": "04/03/2024 - 01:46:45"
-    },
-    {
-        "song_name": "Lake Missoula",
-        "artists": [
-            "Richy Mitch & The Coal Miners"
-        ],
-        "album": "RMCM",
-        "played_at": "04/03/2024 - 01:41:59"
-    },
-    {
-        "song_name": "Waves",
-        "artists": [
-            "Mount Eminest",
-            "MOYN",
-            "lofi.dealer"
-        ],
-        "album": "lofi chillout music",
-        "played_at": "04/03/2024 - 01:40:14"
-    },
-    {
-        "song_name": "Heartbeats",
-        "artists": [
-            "José González"
-        ],
-        "album": "Veneer",
-        "played_at": "04/03/2024 - 01:38:09"
-    },
-    {
-        "song_name": "Don't Want A Love Song",
-        "artists": [
-            "Bryant Barnes"
-        ],
-        "album": "Don't Want A Love Song",
-        "played_at": "04/03/2024 - 01:35:28"
-    },
-    {
-        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
-        "artists": [
-            "benny blanco",
-            "Halsey",
-            "Khalid"
-        ],
-        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
-        "played_at": "04/03/2024 - 01:32:25"
-    },
-    {
-        "song_name": "Checklist",
-        "artists": [
-            "Hans Williams"
-        ],
-        "album": "Checklist",
-        "played_at": "04/03/2024 - 01:29:31"
-    },
-    {
-        "song_name": "July",
-        "artists": [
-            "Micky"
-        ],
-        "album": "July",
-        "played_at": "04/03/2024 - 01:21:21"
-    },
-    {
-        "song_name": "Georgia",
-        "artists": [
-            "Vance Joy"
-        ],
-        "album": "Dream Your Life Away",
-        "played_at": "04/03/2024 - 01:19:04"
-    },
-    {
-        "song_name": "Ocean View",
-        "artists": [
-            "Pacific"
-        ],
-        "album": "Ocean View",
-        "played_at": "04/03/2024 - 01:08:49"
-    },
-    {
-        "song_name": "Sitting, Waiting, Wishing",
-        "artists": [
-            "Jack Johnson"
-        ],
-        "album": "In Between Dreams",
-        "played_at": "04/03/2024 - 01:05:17"
-    },
-    {
-        "song_name": "Next to You",
-        "artists": [
-            "John Vincent III"
-        ],
-        "album": "Songs from the Valley",
-        "played_at": "04/03/2024 - 01:02:14"
-    },
-    {
-        "song_name": "Pasture Child",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "Sunburn",
-        "played_at": "04/03/2024 - 00:58:10"
-    },
-    {
-        "song_name": "San Luis",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "Evening Machines",
-        "played_at": "04/03/2024 - 00:55:16"
-    },
-    {
-        "song_name": "Feeling You",
-        "artists": [
-            "Harrison Storm"
-        ],
-        "album": "Feeling You",
-        "played_at": "04/03/2024 - 00:50:44"
-    },
-    {
-        "song_name": "Gods creation",
-        "artists": [
-            "daniel.mp3"
-        ],
-        "album": "Gods creation",
-        "played_at": "04/03/2024 - 00:47:22"
-    },
-    {
-        "song_name": "Feeling For You",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Living In A Haze",
-        "played_at": "04/03/2024 - 00:42:55"
-    },
-    {
-        "song_name": "Feeling For You",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Living In A Haze",
-        "played_at": "04/03/2024 - 00:40:55"
-    },
-    {
-        "song_name": "Mary",
-        "artists": [
-            "Alex G"
-        ],
-        "album": "Trick",
-        "played_at": "03/03/2024 - 19:58:34"
-    },
-    {
-        "song_name": "The Roads",
-        "artists": [
-            "Jonah Kagen"
-        ],
-        "album": "The Roads",
-        "played_at": "03/03/2024 - 19:48:21"
-    },
-    {
-        "song_name": "i am not who i was",
-        "artists": [
-            "Chance Peña"
-        ],
-        "album": "i am not who i was",
-        "played_at": "03/03/2024 - 19:44:10"
-    },
-    {
-        "song_name": "Jungle",
-        "artists": [
-            "Tash Sultana"
-        ],
-        "album": "Notion",
-        "played_at": "03/03/2024 - 19:41:45"
-    },
-    {
-        "song_name": "Daughter of the Sun",
-        "artists": [
-            "vbnd",
-            "Katie Tupper",
-            "Justice Der"
-        ],
-        "album": "Daughter of the Sun",
-        "played_at": "03/03/2024 - 19:36:29"
-    },
-    {
-        "song_name": "The A Team",
-        "artists": [
-            "Ed Sheeran"
-        ],
-        "album": "+",
-        "played_at": "03/03/2024 - 19:32:56"
-    },
-    {
-        "song_name": "The Beginning",
-        "artists": [
-            "Flawed Mangoes"
-        ],
-        "album": "Killswitch Melodies",
-        "played_at": "03/03/2024 - 19:28:37"
-    },
-    {
-        "song_name": "Got Caught in Amsterdam",
-        "artists": [
-            "Arc De Soleil"
-        ],
-        "album": "The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape",
-        "played_at": "03/03/2024 - 19:19:35"
     }
 ]
