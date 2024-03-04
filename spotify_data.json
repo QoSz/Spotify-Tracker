@@ -6,6 +6,153 @@
             "Ava Max"
         ],
         "album": "Whatever",
+        "played_at": "04/03/2024 - 17:12:03"
+    },
+    {
+        "song_name": "Relax My Eyes",
+        "artists": [
+            "ANOTR",
+            "Abel Balder"
+        ],
+        "album": "Relax My Eyes",
+        "played_at": "04/03/2024 - 17:00:21"
+    },
+    {
+        "song_name": "Where Are You Now",
+        "artists": [
+            "Lost Frequencies",
+            "Calum Scott"
+        ],
+        "album": "All Stand Together",
+        "played_at": "04/03/2024 - 16:57:09"
+    },
+    {
+        "song_name": "Asking",
+        "artists": [
+            "Sonny Fodera",
+            "MK",
+            "Clementine Douglas"
+        ],
+        "album": "Asking",
+        "played_at": "04/03/2024 - 16:54:39"
+    },
+    {
+        "song_name": "Baianá",
+        "artists": [
+            "Bakermat"
+        ],
+        "album": "The Ringmaster",
+        "played_at": "04/03/2024 - 16:51:27"
+    },
+    {
+        "song_name": "Stumblin' In",
+        "artists": [
+            "CYRIL"
+        ],
+        "album": "Stumblin' In",
+        "played_at": "04/03/2024 - 16:48:26"
+    },
+    {
+        "song_name": "COULD BE WRONG",
+        "artists": [
+            "LOSTBOYJAY"
+        ],
+        "album": "COULD BE WRONG",
+        "played_at": "04/03/2024 - 16:42:12"
+    },
+    {
+        "song_name": "Drifting",
+        "artists": [
+            "Tiësto"
+        ],
+        "album": "Drifting",
+        "played_at": "04/03/2024 - 16:39:05"
+    },
+    {
+        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
+        "artists": [
+            "Swedish House Mafia",
+            "Connie Constance"
+        ],
+        "album": "Paradise Again",
+        "played_at": "04/03/2024 - 16:36:37"
+    },
+    {
+        "song_name": "Live Well",
+        "artists": [
+            "Palace"
+        ],
+        "album": "So Long Forever",
+        "played_at": "04/03/2024 - 16:32:19"
+    },
+    {
+        "song_name": "Swimming",
+        "artists": [
+            "Flawed Mangoes"
+        ],
+        "album": "Swimming",
+        "played_at": "04/03/2024 - 16:28:09"
+    },
+    {
+        "song_name": "Swimming",
+        "artists": [
+            "Flawed Mangoes"
+        ],
+        "album": "Swimming",
+        "played_at": "04/03/2024 - 16:25:11"
+    },
+    {
+        "song_name": "Often - Kygo Remix",
+        "artists": [
+            "The Weeknd",
+            "Kygo"
+        ],
+        "album": "Often (Kygo Remix)",
+        "played_at": "04/03/2024 - 16:23:01"
+    },
+    {
+        "song_name": "Another Love - Tiësto Remix",
+        "artists": [
+            "Tom Odell",
+            "Tiësto"
+        ],
+        "album": "Another Love (Tiësto Remix)",
+        "played_at": "04/03/2024 - 16:11:02"
+    },
+    {
+        "song_name": "Beggin'",
+        "artists": [
+            "Chris Lake",
+            "Aluna"
+        ],
+        "album": "Beggin'",
+        "played_at": "04/03/2024 - 16:07:56"
+    },
+    {
+        "song_name": "I Go Dancing (feat. Ella Henderson)",
+        "artists": [
+            "Frank Walker",
+            "Ella Henderson"
+        ],
+        "album": "I Go Dancing (feat. Ella Henderson)",
+        "played_at": "04/03/2024 - 16:04:53"
+    },
+    {
+        "song_name": "Chills (LA Hills)",
+        "artists": [
+            "Tiësto",
+            "A Boogie Wit da Hoodie"
+        ],
+        "album": "DRIVE",
+        "played_at": "04/03/2024 - 16:02:10"
+    },
+    {
+        "song_name": "Whatever",
+        "artists": [
+            "Kygo",
+            "Ava Max"
+        ],
+        "album": "Whatever",
         "played_at": "04/03/2024 - 15:59:06"
     },
     {
@@ -279,144 +426,5 @@
         ],
         "album": "Nation of Two",
         "played_at": "04/03/2024 - 13:41:59"
-    },
-    {
-        "song_name": "life, on hold",
-        "artists": [
-            "my head is empty"
-        ],
-        "album": "life, on hold",
-        "played_at": "04/03/2024 - 13:38:24"
-    },
-    {
-        "song_name": "Dancing In The Courthouse",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "Sunburn",
-        "played_at": "04/03/2024 - 13:36:55"
-    },
-    {
-        "song_name": "San Luis",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "Evening Machines",
-        "played_at": "04/03/2024 - 13:34:17"
-    },
-    {
-        "song_name": "Gods creation",
-        "artists": [
-            "daniel.mp3"
-        ],
-        "album": "Gods creation",
-        "played_at": "04/03/2024 - 13:29:44"
-    },
-    {
-        "song_name": "Midnight Moon",
-        "artists": [
-            "vbnd",
-            "Justice Der",
-            "Connor Newton"
-        ],
-        "album": "Daughter of the Sun",
-        "played_at": "04/03/2024 - 13:27:45"
-    },
-    {
-        "song_name": "Sarah's Place (feat. Noah Kahan)",
-        "artists": [
-            "Zach Bryan",
-            "Noah Kahan"
-        ],
-        "album": "Sarah's Place (feat. Noah Kahan)",
-        "played_at": "04/03/2024 - 13:23:30"
-    },
-    {
-        "song_name": "drive",
-        "artists": [
-            "Current Blue"
-        ],
-        "album": "drive",
-        "played_at": "04/03/2024 - 13:19:55"
-    },
-    {
-        "song_name": "Socialite",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "AUSTIN",
-        "played_at": "04/03/2024 - 13:18:13"
-    },
-    {
-        "song_name": "Babydoll",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "Don't Forget About Me, Demos",
-        "played_at": "04/03/2024 - 13:14:54"
-    },
-    {
-        "song_name": "Need 2",
-        "artists": [
-            "Pinegrove"
-        ],
-        "album": "Everything So Far",
-        "played_at": "04/03/2024 - 13:13:15"
-    },
-    {
-        "song_name": "Paint",
-        "artists": [
-            "The Paper Kites"
-        ],
-        "album": "Young North",
-        "played_at": "04/03/2024 - 13:10:03"
-    },
-    {
-        "song_name": "Sweet Jane",
-        "artists": [
-            "Playyard"
-        ],
-        "album": "Sweet Jane",
-        "played_at": "04/03/2024 - 13:06:51"
-    },
-    {
-        "song_name": "Look Back & Laugh",
-        "artists": [
-            "David Kushner"
-        ],
-        "album": "Footprints I Found",
-        "played_at": "04/03/2024 - 13:04:36"
-    },
-    {
-        "song_name": "evenfall",
-        "artists": [
-            "daniel.mp3"
-        ],
-        "album": "evenfall",
-        "played_at": "04/03/2024 - 13:01:25"
-    },
-    {
-        "song_name": "Audio 002",
-        "artists": [
-            "Next To Blue"
-        ],
-        "album": "Audio 002",
-        "played_at": "04/03/2024 - 12:59:24"
-    },
-    {
-        "song_name": "Ww",
-        "artists": [
-            "Other Nothing"
-        ],
-        "album": "Not Songs",
-        "played_at": "04/03/2024 - 12:58:17"
-    },
-    {
-        "song_name": "Thinking About You",
-        "artists": [
-            "Edwin Raphael"
-        ],
-        "album": "Ocean Walk",
-        "played_at": "04/03/2024 - 12:56:44"
     }
 ]
