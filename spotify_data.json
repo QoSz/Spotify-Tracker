@@ -1,11 +1,87 @@
 [
     {
+        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "artists": [
+            "A$AP Rocky",
+            "Skepta"
+        ],
+        "album": "TESTING",
+        "played_at": "06/03/2024 - 16:17:58"
+    },
+    {
+        "song_name": "Ride",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "Ride",
+        "played_at": "06/03/2024 - 16:03:37"
+    },
+    {
+        "song_name": "FE!N (feat. Playboi Carti)",
+        "artists": [
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "album": "UTOPIA",
+        "played_at": "06/03/2024 - 16:00:26"
+    },
+    {
+        "song_name": "fukumean",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "06/03/2024 - 15:57:14"
+    },
+    {
+        "song_name": "Feel No Ways",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Views",
+        "played_at": "06/03/2024 - 15:55:08"
+    },
+    {
+        "song_name": "Hurts Me",
+        "artists": [
+            "Tory Lanez",
+            "Trippie Redd",
+            "Yoko Gold"
+        ],
+        "album": "Hurts Me",
+        "played_at": "06/03/2024 - 15:51:07"
+    },
+    {
+        "song_name": "Did It Again",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "06/03/2024 - 15:48:46"
+    },
+    {
         "song_name": "First Time Thing",
         "artists": [
             "Calabasas"
         ],
         "album": "First Time Thing",
         "played_at": "06/03/2024 - 15:46:48"
+    },
+    {
+        "song_name": "Let Go",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "06/03/2024 - 15:44:37"
+    },
+    {
+        "song_name": "CAN'T SAY",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "06/03/2024 - 15:41:40"
     },
     {
         "song_name": "Wildflower",
@@ -56,6 +132,39 @@
         ],
         "album": "The Melodic Blue",
         "played_at": "06/03/2024 - 15:23:37"
+    },
+    {
+        "song_name": "HIGHEST IN THE ROOM",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "HIGHEST IN THE ROOM",
+        "played_at": "06/03/2024 - 15:21:02"
+    },
+    {
+        "song_name": "24 (feat. Lil Baby)",
+        "artists": [
+            "Money Man",
+            "Lil Baby"
+        ],
+        "album": "Epidemic (Deluxe)",
+        "played_at": "06/03/2024 - 15:18:04"
+    },
+    {
+        "song_name": "Teenage Fever",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "06/03/2024 - 15:15:00"
+    },
+    {
+        "song_name": "Lady Of Namek",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "06/03/2024 - 15:11:21"
     },
     {
         "song_name": "Baianá",
@@ -326,121 +435,5 @@
         ],
         "album": "Thunder",
         "played_at": "06/03/2024 - 13:08:49"
-    },
-    {
-        "song_name": "Would You Lie",
-        "artists": [
-            "Seeb",
-            "Alexander Stewart"
-        ],
-        "album": "Would You Lie",
-        "played_at": "06/03/2024 - 13:06:11"
-    },
-    {
-        "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-        "artists": [
-            "VAVO",
-            "Tyler Mann",
-            "DJ PRESS PLAY"
-        ],
-        "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-        "played_at": "06/03/2024 - 13:02:36"
-    },
-    {
-        "song_name": "Champion",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "06/03/2024 - 12:59:56"
-    },
-    {
-        "song_name": "Like This",
-        "artists": [
-            "Syn Cole"
-        ],
-        "album": "Like This",
-        "played_at": "06/03/2024 - 12:57:08"
-    },
-    {
-        "song_name": "Woke Up in Love",
-        "artists": [
-            "Kygo",
-            "Gryffin",
-            "Calum Scott"
-        ],
-        "album": "Thrill Of The Chase",
-        "played_at": "06/03/2024 - 12:54:20"
-    },
-    {
-        "song_name": "Summer Feeling",
-        "artists": [
-            "Matoma",
-            "Jonah Kagen"
-        ],
-        "album": "Summer Feeling",
-        "played_at": "06/03/2024 - 12:50:43"
-    },
-    {
-        "song_name": "Sunrise",
-        "artists": [
-            "Tungevaag"
-        ],
-        "album": "Sunrise",
-        "played_at": "06/03/2024 - 12:47:42"
-    },
-    {
-        "song_name": "Feeling For You",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Living In A Haze",
-        "played_at": "06/03/2024 - 12:45:23"
-    },
-    {
-        "song_name": "City Of Love",
-        "artists": [
-            "Surf Mesa",
-            "Selah Sol"
-        ],
-        "album": "City Of Love",
-        "played_at": "06/03/2024 - 12:41:42"
-    },
-    {
-        "song_name": "Mockingbird Valley",
-        "artists": [
-            "DJ Drama",
-            "Jack Harlow"
-        ],
-        "album": "I'M REALLY LIKE THAT",
-        "played_at": "06/03/2024 - 12:38:55"
-    },
-    {
-        "song_name": "Undeniable (feat. X Ambassadors)",
-        "artists": [
-            "Kygo",
-            "X Ambassadors"
-        ],
-        "album": "Thrill Of The Chase",
-        "played_at": "06/03/2024 - 12:36:20"
-    },
-    {
-        "song_name": "Asking",
-        "artists": [
-            "Sonny Fodera",
-            "MK",
-            "Clementine Douglas"
-        ],
-        "album": "Asking",
-        "played_at": "05/03/2024 - 17:12:31"
-    },
-    {
-        "song_name": "Stay the Night",
-        "artists": [
-            "Sigala",
-            "Talia Mar"
-        ],
-        "album": "Every Cloud - Silver Linings",
-        "played_at": "05/03/2024 - 17:09:19"
     }
 ]
