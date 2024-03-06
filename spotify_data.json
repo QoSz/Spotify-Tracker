@@ -1,5 +1,302 @@
 [
     {
+        "song_name": "yes, and?",
+        "artists": [
+            "Ariana Grande"
+        ],
+        "album": "yes, and?",
+        "played_at": "06/03/2024 - 14:39:44"
+    },
+    {
+        "song_name": "Where Are You Now",
+        "artists": [
+            "Lost Frequencies",
+            "Calum Scott"
+        ],
+        "album": "All Stand Together",
+        "played_at": "06/03/2024 - 14:39:14"
+    },
+    {
+        "song_name": "Cooped Up / Return Of The Mack",
+        "artists": [
+            "Post Malone",
+            "Mark Morrison",
+            "Sickick"
+        ],
+        "album": "Cooped Up / Return Of The Mack",
+        "played_at": "06/03/2024 - 14:36:44"
+    },
+    {
+        "song_name": "Numb",
+        "artists": [
+            "Marshmello",
+            "Khalid"
+        ],
+        "album": "Numb",
+        "played_at": "06/03/2024 - 14:34:42"
+    },
+    {
+        "song_name": "I Go Dancing (feat. Ella Henderson)",
+        "artists": [
+            "Frank Walker",
+            "Ella Henderson"
+        ],
+        "album": "I Go Dancing (feat. Ella Henderson)",
+        "played_at": "06/03/2024 - 14:32:06"
+    },
+    {
+        "song_name": "Massive",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Honestly, Nevermind",
+        "played_at": "06/03/2024 - 14:29:23"
+    },
+    {
+        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
+        "artists": [
+            "benny blanco",
+            "Halsey",
+            "Khalid"
+        ],
+        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+        "played_at": "06/03/2024 - 14:20:32"
+    },
+    {
+        "song_name": "Coastline",
+        "artists": [
+            "Hollow Coves"
+        ],
+        "album": "Wanderlust",
+        "played_at": "06/03/2024 - 14:14:51"
+    },
+    {
+        "song_name": "Charmed",
+        "artists": [
+            "Σtella",
+            "Redinho"
+        ],
+        "album": "Up and Away",
+        "played_at": "06/03/2024 - 14:10:57"
+    },
+    {
+        "song_name": "Won't Let Go",
+        "artists": [
+            "leisse",
+            "johnny joined"
+        ],
+        "album": "Won't Let Go",
+        "played_at": "06/03/2024 - 14:08:12"
+    },
+    {
+        "song_name": "Motion",
+        "artists": [
+            "Vandelux"
+        ],
+        "album": "When The Light Breaks",
+        "played_at": "06/03/2024 - 13:42:57"
+    },
+    {
+        "song_name": "Lost",
+        "artists": [
+            "RSCL",
+            "it's murph",
+            "Twin Diplomacy",
+            "Jack August"
+        ],
+        "album": "Lost",
+        "played_at": "06/03/2024 - 13:39:48"
+    },
+    {
+        "song_name": "Sleepless",
+        "artists": [
+            "AVAION",
+            "PaulWetz",
+            "Nu Aspect",
+            "YUMA"
+        ],
+        "album": "Sleepless",
+        "played_at": "06/03/2024 - 13:37:15"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "06/03/2024 - 13:34:29"
+    },
+    {
+        "song_name": "Legit",
+        "artists": [
+            "Erlandsson",
+            "The High"
+        ],
+        "album": "Legit",
+        "played_at": "06/03/2024 - 13:32:27"
+    },
+    {
+        "song_name": "No Fear",
+        "artists": [
+            "DeJ Loaf"
+        ],
+        "album": "No Fear",
+        "played_at": "06/03/2024 - 13:29:27"
+    },
+    {
+        "song_name": "Good Enough",
+        "artists": [
+            "Marcus James",
+            "RUNN"
+        ],
+        "album": "Good Enough",
+        "played_at": "06/03/2024 - 13:26:37"
+    },
+    {
+        "song_name": "Perfect Stranger",
+        "artists": [
+            "Hogland",
+            "Mark Klaver"
+        ],
+        "album": "Perfect Stranger",
+        "played_at": "06/03/2024 - 13:23:56"
+    },
+    {
+        "song_name": "Sex On Me - Re-Edit",
+        "artists": [
+            "GOLDHOUSE"
+        ],
+        "album": "Sex On Me (Re-Edit)",
+        "played_at": "06/03/2024 - 13:21:26"
+    },
+    {
+        "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+        "artists": [
+            "Quarry",
+            "SUPER-Hi"
+        ],
+        "album": "Sound of Your Summer",
+        "played_at": "06/03/2024 - 13:18:10"
+    },
+    {
+        "song_name": "Fever (feat. Lukas Graham)",
+        "artists": [
+            "Kygo",
+            "Lukas Graham"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "06/03/2024 - 13:12:02"
+    },
+    {
+        "song_name": "Thunder",
+        "artists": [
+            "Lucas Estrada",
+            "Brendan Mills",
+            "BELLA X",
+            "LRMEO"
+        ],
+        "album": "Thunder",
+        "played_at": "06/03/2024 - 13:08:49"
+    },
+    {
+        "song_name": "Would You Lie",
+        "artists": [
+            "Seeb",
+            "Alexander Stewart"
+        ],
+        "album": "Would You Lie",
+        "played_at": "06/03/2024 - 13:06:11"
+    },
+    {
+        "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+        "artists": [
+            "VAVO",
+            "Tyler Mann",
+            "DJ PRESS PLAY"
+        ],
+        "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+        "played_at": "06/03/2024 - 13:02:36"
+    },
+    {
+        "song_name": "Champion",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "06/03/2024 - 12:59:56"
+    },
+    {
+        "song_name": "Like This",
+        "artists": [
+            "Syn Cole"
+        ],
+        "album": "Like This",
+        "played_at": "06/03/2024 - 12:57:08"
+    },
+    {
+        "song_name": "Woke Up in Love",
+        "artists": [
+            "Kygo",
+            "Gryffin",
+            "Calum Scott"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "06/03/2024 - 12:54:20"
+    },
+    {
+        "song_name": "Summer Feeling",
+        "artists": [
+            "Matoma",
+            "Jonah Kagen"
+        ],
+        "album": "Summer Feeling",
+        "played_at": "06/03/2024 - 12:50:43"
+    },
+    {
+        "song_name": "Sunrise",
+        "artists": [
+            "Tungevaag"
+        ],
+        "album": "Sunrise",
+        "played_at": "06/03/2024 - 12:47:42"
+    },
+    {
+        "song_name": "Feeling For You",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Living In A Haze",
+        "played_at": "06/03/2024 - 12:45:23"
+    },
+    {
+        "song_name": "City Of Love",
+        "artists": [
+            "Surf Mesa",
+            "Selah Sol"
+        ],
+        "album": "City Of Love",
+        "played_at": "06/03/2024 - 12:41:42"
+    },
+    {
+        "song_name": "Mockingbird Valley",
+        "artists": [
+            "DJ Drama",
+            "Jack Harlow"
+        ],
+        "album": "I'M REALLY LIKE THAT",
+        "played_at": "06/03/2024 - 12:38:55"
+    },
+    {
+        "song_name": "Undeniable (feat. X Ambassadors)",
+        "artists": [
+            "Kygo",
+            "X Ambassadors"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "06/03/2024 - 12:36:20"
+    },
+    {
         "song_name": "Asking",
         "artists": [
             "Sonny Fodera",
@@ -151,300 +448,5 @@
         ],
         "album": "Lost",
         "played_at": "05/03/2024 - 15:45:24"
-    },
-    {
-        "song_name": "Bus Stop (feat. Brent Faiyaz)",
-        "artists": [
-            "Don Toliver",
-            "Brent Faiyaz"
-        ],
-        "album": "Love Sick",
-        "played_at": "05/03/2024 - 15:42:50"
-    },
-    {
-        "song_name": "Where Are You Now",
-        "artists": [
-            "Lost Frequencies",
-            "Calum Scott"
-        ],
-        "album": "All Stand Together",
-        "played_at": "05/03/2024 - 15:38:53"
-    },
-    {
-        "song_name": "Whatever",
-        "artists": [
-            "Kygo",
-            "Ava Max"
-        ],
-        "album": "Whatever",
-        "played_at": "05/03/2024 - 15:36:24"
-    },
-    {
-        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
-        "artists": [
-            "Swedish House Mafia",
-            "Connie Constance"
-        ],
-        "album": "Paradise Again",
-        "played_at": "05/03/2024 - 15:33:26"
-    },
-    {
-        "song_name": "Prada",
-        "artists": [
-            "cassö",
-            "RAYE",
-            "D-Block Europe"
-        ],
-        "album": "Prada",
-        "played_at": "05/03/2024 - 15:29:51"
-    },
-    {
-        "song_name": "One Dance",
-        "artists": [
-            "Drake",
-            "Wizkid",
-            "Kyla"
-        ],
-        "album": "Views",
-        "played_at": "05/03/2024 - 15:27:38"
-    },
-    {
-        "song_name": "I'm Good (Blue)",
-        "artists": [
-            "David Guetta",
-            "Bebe Rexha"
-        ],
-        "album": "I'm Good (Blue)",
-        "played_at": "05/03/2024 - 15:24:43"
-    },
-    {
-        "song_name": "Madness",
-        "artists": [
-            "Frank Walker",
-            "Sam Feldt",
-            "Zak Abel"
-        ],
-        "album": "Madness",
-        "played_at": "05/03/2024 - 15:21:47"
-    },
-    {
-        "song_name": "can't leave without it",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "05/03/2024 - 15:18:36"
-    },
-    {
-        "song_name": "I'm Good (Blue)",
-        "artists": [
-            "David Guetta",
-            "Bebe Rexha"
-        ],
-        "album": "I'm Good (Blue)",
-        "played_at": "05/03/2024 - 15:16:03"
-    },
-    {
-        "song_name": "All My Life (feat. J. Cole)",
-        "artists": [
-            "Lil Durk",
-            "J. Cole"
-        ],
-        "album": "Almost Healed",
-        "played_at": "05/03/2024 - 15:16:02"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "05/03/2024 - 15:15:39"
-    },
-    {
-        "song_name": "Madness",
-        "artists": [
-            "Frank Walker",
-            "Sam Feldt",
-            "Zak Abel"
-        ],
-        "album": "Madness",
-        "played_at": "05/03/2024 - 15:13:08"
-    },
-    {
-        "song_name": "Excuse Me",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "AT.LONG.LAST.A$AP",
-        "played_at": "05/03/2024 - 15:12:27"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "05/03/2024 - 15:10:09"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Wayne",
-            "Drake",
-            "Future"
-        ],
-        "album": "I Am Not A Human Being II (Deluxe)",
-        "played_at": "05/03/2024 - 15:08:29"
-    },
-    {
-        "song_name": "Used To",
-        "artists": [
-            "Hogland",
-            "EEVA"
-        ],
-        "album": "Used To",
-        "played_at": "05/03/2024 - 15:07:50"
-    },
-    {
-        "song_name": "Scott and Ramona",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Lil Uzi Vert vs. The World",
-        "played_at": "05/03/2024 - 15:04:13"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "05/03/2024 - 15:00:32"
-    },
-    {
-        "song_name": "Whatever",
-        "artists": [
-            "Kygo",
-            "Ava Max"
-        ],
-        "album": "Whatever",
-        "played_at": "05/03/2024 - 14:58:35"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "05/03/2024 - 13:30:23"
-    },
-    {
-        "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
-        "artists": [
-            "Lil Baby",
-            "Gunna",
-            "Drake"
-        ],
-        "album": "Drip Harder",
-        "played_at": "05/03/2024 - 13:27:20"
-    },
-    {
-        "song_name": "712PM",
-        "artists": [
-            "Future"
-        ],
-        "album": "I NEVER LIKED YOU",
-        "played_at": "05/03/2024 - 13:24:05"
-    },
-    {
-        "song_name": "Rich Spirit",
-        "artists": [
-            "Kendrick Lamar"
-        ],
-        "album": "Mr. Morale & The Big Steppers",
-        "played_at": "05/03/2024 - 13:21:12"
-    },
-    {
-        "song_name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "artists": [
-            "DJ Khaled",
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "GOD DID",
-        "played_at": "05/03/2024 - 13:17:49"
-    },
-    {
-        "song_name": "all of me",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "american dream",
-        "played_at": "05/03/2024 - 13:14:50"
-    },
-    {
-        "song_name": "Turn Yo Clic Up (feat. Future)",
-        "artists": [
-            "Quavo",
-            "Future"
-        ],
-        "album": "Rocket Power",
-        "played_at": "05/03/2024 - 13:11:32"
-    },
-    {
-        "song_name": "Whatever",
-        "artists": [
-            "Kygo",
-            "Ava Max"
-        ],
-        "album": "Whatever",
-        "played_at": "04/03/2024 - 17:12:03"
-    },
-    {
-        "song_name": "Relax My Eyes",
-        "artists": [
-            "ANOTR",
-            "Abel Balder"
-        ],
-        "album": "Relax My Eyes",
-        "played_at": "04/03/2024 - 17:00:21"
-    },
-    {
-        "song_name": "Where Are You Now",
-        "artists": [
-            "Lost Frequencies",
-            "Calum Scott"
-        ],
-        "album": "All Stand Together",
-        "played_at": "04/03/2024 - 16:57:09"
-    },
-    {
-        "song_name": "Asking",
-        "artists": [
-            "Sonny Fodera",
-            "MK",
-            "Clementine Douglas"
-        ],
-        "album": "Asking",
-        "played_at": "04/03/2024 - 16:54:39"
-    },
-    {
-        "song_name": "Baianá",
-        "artists": [
-            "Bakermat"
-        ],
-        "album": "The Ringmaster",
-        "played_at": "04/03/2024 - 16:51:27"
-    },
-    {
-        "song_name": "Stumblin' In",
-        "artists": [
-            "CYRIL"
-        ],
-        "album": "Stumblin' In",
-        "played_at": "04/03/2024 - 16:48:26"
     }
 ]
