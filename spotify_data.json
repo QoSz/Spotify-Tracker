@@ -1,5 +1,22 @@
 [
     {
+        "song_name": "emiliana",
+        "artists": [
+            "CKay"
+        ],
+        "album": "Sad Romance",
+        "played_at": "07/03/2024 - 16:38:52"
+    },
+    {
+        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "artists": [
+            "A$AP Rocky",
+            "Skepta"
+        ],
+        "album": "TESTING",
+        "played_at": "07/03/2024 - 16:38:26"
+    },
+    {
         "song_name": "Bloom (Online Bonus Track)",
         "artists": [
             "The Paper Kites"
@@ -395,23 +412,5 @@
         ],
         "album": "PARTYNEXTDOOR",
         "played_at": "06/03/2024 - 15:35:51"
-    },
-    {
-        "song_name": "‘87 Stingray",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "06/03/2024 - 15:34:11"
-    },
-    {
-        "song_name": "BACK TO ME",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign"
-        ],
-        "album": "VULTURES 1",
-        "played_at": "06/03/2024 - 15:31:49"
     }
 ]
