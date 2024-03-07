@@ -1,5 +1,194 @@
 [
     {
+        "song_name": "Bloom (Online Bonus Track)",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Woodland",
+        "played_at": "07/03/2024 - 15:13:16"
+    },
+    {
+        "song_name": "Banana Pancakes",
+        "artists": [
+            "Jack Johnson"
+        ],
+        "album": "In Between Dreams",
+        "played_at": "07/03/2024 - 15:02:53"
+    },
+    {
+        "song_name": "Cerca De Ti",
+        "artists": [
+            "Hermanos Gutiérrez"
+        ],
+        "album": "Hoy Como Ayer",
+        "played_at": "07/03/2024 - 14:59:41"
+    },
+    {
+        "song_name": "Time Flies",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "07/03/2024 - 14:57:26"
+    },
+    {
+        "song_name": "Time Flies",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "07/03/2024 - 14:55:40"
+    },
+    {
+        "song_name": "Time Flies",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "07/03/2024 - 14:54:46"
+    },
+    {
+        "song_name": "Down With Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC (Bonus)",
+        "played_at": "07/03/2024 - 14:51:44"
+    },
+    {
+        "song_name": "Sorry 4 What? // LV BELT",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Sorry 4 What",
+        "played_at": "07/03/2024 - 14:49:44"
+    },
+    {
+        "song_name": "highway 95",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "The Melodic Blue (Deluxe)",
+        "played_at": "07/03/2024 - 14:47:09"
+    },
+    {
+        "song_name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+        "artists": [
+            "GoldLink",
+            "Brent Faiyaz",
+            "Shy Glizzy"
+        ],
+        "album": "At What Cost",
+        "played_at": "07/03/2024 - 14:45:37"
+    },
+    {
+        "song_name": "Flaws And Sins",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Death Race For Love (Bonus Track Version)",
+        "played_at": "07/03/2024 - 14:42:40"
+    },
+    {
+        "song_name": "ESCAPE PLAN",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ESCAPE PLAN / MAFIA",
+        "played_at": "07/03/2024 - 14:39:02"
+    },
+    {
+        "song_name": "Circo Loco",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "07/03/2024 - 14:36:32"
+    },
+    {
+        "song_name": "Out Of Love (feat. Internet Money)",
+        "artists": [
+            "Lil Tecca",
+            "Internet Money"
+        ],
+        "album": "Virgo World",
+        "played_at": "07/03/2024 - 14:32:36"
+    },
+    {
+        "song_name": "I LIKE",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "I LIKE",
+        "played_at": "07/03/2024 - 14:30:02"
+    },
+    {
+        "song_name": "Sundress",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "Sundress",
+        "played_at": "07/03/2024 - 14:27:48"
+    },
+    {
+        "song_name": "Forever Yours",
+        "artists": [
+            "Brent Faiyaz"
+        ],
+        "album": "Larger Than Life",
+        "played_at": "07/03/2024 - 14:25:10"
+    },
+    {
+        "song_name": "Ambition For Cash",
+        "artists": [
+            "Key Glock"
+        ],
+        "album": "Yellow Tape 2",
+        "played_at": "07/03/2024 - 14:23:34"
+    },
+    {
+        "song_name": "ASTROTHUNDER",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "07/03/2024 - 14:21:10"
+    },
+    {
+        "song_name": "Passionfruit",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "07/03/2024 - 14:18:47"
+    },
+    {
+        "song_name": "Love Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "07/03/2024 - 14:13:48"
+    },
+    {
+        "song_name": "Pink Dolphin Sunset (feat. Tee)",
+        "artists": [
+            "Tory Lanez",
+            "Tee"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "07/03/2024 - 14:11:51"
+    },
+    {
+        "song_name": "Rich Spirit",
+        "artists": [
+            "Kendrick Lamar"
+        ],
+        "album": "Mr. Morale & The Big Steppers",
+        "played_at": "07/03/2024 - 14:08:19"
+    },
+    {
         "song_name": "HIDDEN VOICES",
         "artists": [
             "Aaron May"
@@ -224,203 +413,5 @@
         ],
         "album": "VULTURES 1",
         "played_at": "06/03/2024 - 15:31:49"
-    },
-    {
-        "song_name": "ball w/o you",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "06/03/2024 - 15:26:53"
-    },
-    {
-        "song_name": "16",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue",
-        "played_at": "06/03/2024 - 15:23:37"
-    },
-    {
-        "song_name": "HIGHEST IN THE ROOM",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "HIGHEST IN THE ROOM",
-        "played_at": "06/03/2024 - 15:21:02"
-    },
-    {
-        "song_name": "24 (feat. Lil Baby)",
-        "artists": [
-            "Money Man",
-            "Lil Baby"
-        ],
-        "album": "Epidemic (Deluxe)",
-        "played_at": "06/03/2024 - 15:18:04"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "06/03/2024 - 15:15:00"
-    },
-    {
-        "song_name": "Lady Of Namek",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "06/03/2024 - 15:11:21"
-    },
-    {
-        "song_name": "Baianá",
-        "artists": [
-            "Bakermat"
-        ],
-        "album": "The Ringmaster",
-        "played_at": "06/03/2024 - 15:08:02"
-    },
-    {
-        "song_name": "Stumblin' In",
-        "artists": [
-            "CYRIL"
-        ],
-        "album": "Stumblin' In",
-        "played_at": "06/03/2024 - 15:03:07"
-    },
-    {
-        "song_name": "On My Love",
-        "artists": [
-            "Zara Larsson",
-            "David Guetta"
-        ],
-        "album": "VENUS",
-        "played_at": "06/03/2024 - 14:59:33"
-    },
-    {
-        "song_name": "Heaven Takes You Home (feat. Connie Constance)",
-        "artists": [
-            "Swedish House Mafia",
-            "Connie Constance"
-        ],
-        "album": "Paradise Again",
-        "played_at": "06/03/2024 - 14:54:51"
-    },
-    {
-        "song_name": "Another Love - Tiësto Remix",
-        "artists": [
-            "Tom Odell",
-            "Tiësto"
-        ],
-        "album": "Another Love (Tiësto Remix)",
-        "played_at": "06/03/2024 - 14:51:16"
-    },
-    {
-        "song_name": "Bus Stop (feat. Brent Faiyaz)",
-        "artists": [
-            "Don Toliver",
-            "Brent Faiyaz"
-        ],
-        "album": "Love Sick",
-        "played_at": "06/03/2024 - 14:48:10"
-    },
-    {
-        "song_name": "yes, and?",
-        "artists": [
-            "Ariana Grande"
-        ],
-        "album": "yes, and?",
-        "played_at": "06/03/2024 - 14:39:44"
-    },
-    {
-        "song_name": "Where Are You Now",
-        "artists": [
-            "Lost Frequencies",
-            "Calum Scott"
-        ],
-        "album": "All Stand Together",
-        "played_at": "06/03/2024 - 14:39:14"
-    },
-    {
-        "song_name": "Cooped Up / Return Of The Mack",
-        "artists": [
-            "Post Malone",
-            "Mark Morrison",
-            "Sickick"
-        ],
-        "album": "Cooped Up / Return Of The Mack",
-        "played_at": "06/03/2024 - 14:36:44"
-    },
-    {
-        "song_name": "Numb",
-        "artists": [
-            "Marshmello",
-            "Khalid"
-        ],
-        "album": "Numb",
-        "played_at": "06/03/2024 - 14:34:42"
-    },
-    {
-        "song_name": "I Go Dancing (feat. Ella Henderson)",
-        "artists": [
-            "Frank Walker",
-            "Ella Henderson"
-        ],
-        "album": "I Go Dancing (feat. Ella Henderson)",
-        "played_at": "06/03/2024 - 14:32:06"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "06/03/2024 - 14:29:23"
-    },
-    {
-        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
-        "artists": [
-            "benny blanco",
-            "Halsey",
-            "Khalid"
-        ],
-        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
-        "played_at": "06/03/2024 - 14:20:32"
-    },
-    {
-        "song_name": "home",
-        "artists": [
-            "Deyaz"
-        ],
-        "album": "TRANSPARENCY",
-        "played_at": "06/03/2024 - 14:17:39"
-    },
-    {
-        "song_name": "Coastline",
-        "artists": [
-            "Hollow Coves"
-        ],
-        "album": "Wanderlust",
-        "played_at": "06/03/2024 - 14:14:51"
-    },
-    {
-        "song_name": "Charmed",
-        "artists": [
-            "Σtella",
-            "Redinho"
-        ],
-        "album": "Up and Away",
-        "played_at": "06/03/2024 - 14:10:57"
-    },
-    {
-        "song_name": "Won't Let Go",
-        "artists": [
-            "leisse",
-            "johnny joined"
-        ],
-        "album": "Won't Let Go",
-        "played_at": "06/03/2024 - 14:08:12"
     }
 ]
