@@ -1,5 +1,252 @@
 [
     {
+        "song_name": "Too Fast",
+        "artists": [
+            "Sonder"
+        ],
+        "album": "Into",
+        "played_at": "08/03/2024 - 16:30:57"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "08/03/2024 - 16:26:01"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "08/03/2024 - 16:23:59"
+    },
+    {
+        "song_name": "VULTURES",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
+        ],
+        "album": "VULTURES",
+        "played_at": "08/03/2024 - 16:19:07"
+    },
+    {
+        "song_name": "BACK TO ME",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
+        ],
+        "album": "VULTURES 1",
+        "played_at": "08/03/2024 - 16:14:30"
+    },
+    {
+        "song_name": "Faucet Failure",
+        "artists": [
+            "Ski Mask The Slump God"
+        ],
+        "album": "STOKELEY",
+        "played_at": "08/03/2024 - 16:00:33"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "08/03/2024 - 15:53:10"
+    },
+    {
+        "song_name": "Gas Me Up (Diligent)",
+        "artists": [
+            "Skepta"
+        ],
+        "album": "Gas Me Up (Diligent)",
+        "played_at": "08/03/2024 - 15:49:58"
+    },
+    {
+        "song_name": "Gas Me Up (Diligent)",
+        "artists": [
+            "Skepta"
+        ],
+        "album": "Gas Me Up (Diligent)",
+        "played_at": "08/03/2024 - 15:46:14"
+    },
+    {
+        "song_name": "Mary",
+        "artists": [
+            "Alex G"
+        ],
+        "album": "Trick",
+        "played_at": "08/03/2024 - 15:43:22"
+    },
+    {
+        "song_name": "San Luis",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "Evening Machines",
+        "played_at": "08/03/2024 - 15:39:14"
+    },
+    {
+        "song_name": "Scott and Ramona",
+        "artists": [
+            "Lil Uzi Vert"
+        ],
+        "album": "Lil Uzi Vert vs. The World",
+        "played_at": "08/03/2024 - 15:34:41"
+    },
+    {
+        "song_name": "...The Make Up",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "PLAYBOY",
+        "played_at": "08/03/2024 - 15:03:09"
+    },
+    {
+        "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+        "artists": [
+            "XXXTENTACION",
+            "PnB Rock",
+            "Trippie Redd"
+        ],
+        "album": "Bad Vibes Forever",
+        "played_at": "08/03/2024 - 14:43:29"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "08/03/2024 - 14:40:58"
+    },
+    {
+        "song_name": "cross my heart",
+        "artists": [
+            "Artemas"
+        ],
+        "album": "cross my heart",
+        "played_at": "08/03/2024 - 14:37:41"
+    },
+    {
+        "song_name": "Around Me (feat. Don Toliver)",
+        "artists": [
+            "Metro Boomin",
+            "Don Toliver"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "08/03/2024 - 14:35:14"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "08/03/2024 - 14:32:02"
+    },
+    {
+        "song_name": "Fair Trade (with Travis Scott)",
+        "artists": [
+            "Drake",
+            "Travis Scott"
+        ],
+        "album": "Certified Lover Boy",
+        "played_at": "08/03/2024 - 14:30:23"
+    },
+    {
+        "song_name": "Hurting Me",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Sorry 4 What",
+        "played_at": "08/03/2024 - 14:25:32"
+    },
+    {
+        "song_name": "2055",
+        "artists": [
+            "Sleepy Hallow"
+        ],
+        "album": "Still Sleep?",
+        "played_at": "08/03/2024 - 14:22:47"
+    },
+    {
+        "song_name": "TELEKINESIS (feat. SZA & Future)",
+        "artists": [
+            "Travis Scott",
+            "SZA",
+            "Future"
+        ],
+        "album": "UTOPIA",
+        "played_at": "08/03/2024 - 14:19:13"
+    },
+    {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "08/03/2024 - 14:11:57"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "08/03/2024 - 14:09:52"
+    },
+    {
+        "song_name": "Mmhmm",
+        "artists": [
+            "BigXthaPlug"
+        ],
+        "album": "Mmhmm",
+        "played_at": "08/03/2024 - 14:06:23"
+    },
+    {
+        "song_name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "artists": [
+            "CHASE B",
+            "Travis Scott",
+            "Don Toliver",
+            "Quavo",
+            "Ty Dolla $ign"
+        ],
+        "album": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "played_at": "08/03/2024 - 14:04:23"
+    },
+    {
+        "song_name": "Loner at Sunset",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone at Prom (Deluxe)",
+        "played_at": "08/03/2024 - 14:01:15"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "08/03/2024 - 13:59:44"
+    },
+    {
         "song_name": "BUTTERFLY EFFECT",
         "artists": [
             "Travis Scott"
@@ -189,236 +436,5 @@
         ],
         "album": "In Between Dreams",
         "played_at": "07/03/2024 - 15:02:53"
-    },
-    {
-        "song_name": "Cerca De Ti",
-        "artists": [
-            "Hermanos Gutiérrez"
-        ],
-        "album": "Hoy Como Ayer",
-        "played_at": "07/03/2024 - 14:59:41"
-    },
-    {
-        "song_name": "Time Flies",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "07/03/2024 - 14:57:26"
-    },
-    {
-        "song_name": "Time Flies",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "07/03/2024 - 14:55:40"
-    },
-    {
-        "song_name": "Time Flies",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "07/03/2024 - 14:54:46"
-    },
-    {
-        "song_name": "Down With Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC (Bonus)",
-        "played_at": "07/03/2024 - 14:51:44"
-    },
-    {
-        "song_name": "Sorry 4 What? // LV BELT",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Sorry 4 What",
-        "played_at": "07/03/2024 - 14:49:44"
-    },
-    {
-        "song_name": "highway 95",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue (Deluxe)",
-        "played_at": "07/03/2024 - 14:47:09"
-    },
-    {
-        "song_name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
-        "artists": [
-            "GoldLink",
-            "Brent Faiyaz",
-            "Shy Glizzy"
-        ],
-        "album": "At What Cost",
-        "played_at": "07/03/2024 - 14:45:37"
-    },
-    {
-        "song_name": "Flaws And Sins",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Death Race For Love (Bonus Track Version)",
-        "played_at": "07/03/2024 - 14:42:40"
-    },
-    {
-        "song_name": "ESCAPE PLAN",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ESCAPE PLAN / MAFIA",
-        "played_at": "07/03/2024 - 14:39:02"
-    },
-    {
-        "song_name": "Circo Loco",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "07/03/2024 - 14:36:32"
-    },
-    {
-        "song_name": "Out Of Love (feat. Internet Money)",
-        "artists": [
-            "Lil Tecca",
-            "Internet Money"
-        ],
-        "album": "Virgo World",
-        "played_at": "07/03/2024 - 14:32:36"
-    },
-    {
-        "song_name": "I LIKE",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "I LIKE",
-        "played_at": "07/03/2024 - 14:30:02"
-    },
-    {
-        "song_name": "Sundress",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "Sundress",
-        "played_at": "07/03/2024 - 14:27:48"
-    },
-    {
-        "song_name": "Forever Yours",
-        "artists": [
-            "Brent Faiyaz"
-        ],
-        "album": "Larger Than Life",
-        "played_at": "07/03/2024 - 14:25:10"
-    },
-    {
-        "song_name": "Ambition For Cash",
-        "artists": [
-            "Key Glock"
-        ],
-        "album": "Yellow Tape 2",
-        "played_at": "07/03/2024 - 14:23:34"
-    },
-    {
-        "song_name": "ASTROTHUNDER",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "07/03/2024 - 14:21:10"
-    },
-    {
-        "song_name": "Passionfruit",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "07/03/2024 - 14:18:47"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "07/03/2024 - 14:13:48"
-    },
-    {
-        "song_name": "Pink Dolphin Sunset (feat. Tee)",
-        "artists": [
-            "Tory Lanez",
-            "Tee"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "07/03/2024 - 14:11:51"
-    },
-    {
-        "song_name": "Rich Spirit",
-        "artists": [
-            "Kendrick Lamar"
-        ],
-        "album": "Mr. Morale & The Big Steppers",
-        "played_at": "07/03/2024 - 14:08:19"
-    },
-    {
-        "song_name": "HIDDEN VOICES",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
-        "played_at": "07/03/2024 - 13:34:09"
-    },
-    {
-        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-        "artists": [
-            "Gunna",
-            "Young Thug"
-        ],
-        "album": "WUNNA",
-        "played_at": "07/03/2024 - 13:31:38"
-    },
-    {
-        "song_name": "I KNOW ?",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "UTOPIA",
-        "played_at": "07/03/2024 - 13:28:20"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "07/03/2024 - 13:24:48"
-    },
-    {
-        "song_name": "Do It Right",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Love Sick",
-        "played_at": "07/03/2024 - 13:21:35"
-    },
-    {
-        "song_name": "Lavender Sunflower",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "07/03/2024 - 13:18:41"
-    },
-    {
-        "song_name": "Shots",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "07/03/2024 - 13:16:09"
     }
 ]
