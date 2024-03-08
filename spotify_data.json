@@ -1,5 +1,110 @@
 [
     {
+        "song_name": "Break from Toronto",
+        "artists": [
+            "PARTYNEXTDOOR"
+        ],
+        "album": "PARTYNEXTDOOR",
+        "played_at": "08/03/2024 - 02:07:34"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "08/03/2024 - 02:02:47"
+    },
+    {
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
+        ],
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "08/03/2024 - 02:00:45"
+    },
+    {
+        "song_name": "i don't like it, you're not the same - Sped Up Version",
+        "artists": [
+            "meynus"
+        ],
+        "album": "i don't like it, you're not the same (full collection)",
+        "played_at": "08/03/2024 - 01:49:11"
+    },
+    {
+        "song_name": "Greedy (Slowed + Reverb) - It's Obvious That You Want Me, I Would Want Myself",
+        "artists": [
+            "3slow2"
+        ],
+        "album": "Greedy (Slowed + Reverb) - It's Obvious That You Want Me, I Would Want Myself",
+        "played_at": "08/03/2024 - 01:40:15"
+    },
+    {
+        "song_name": "Fireflies (Slowed + Reverb) - I'd Like to Make Myself Believe",
+        "artists": [
+            "3slow2"
+        ],
+        "album": "Fireflies (Slowed + Reverb) - I'd Like to Make Myself Believe",
+        "played_at": "08/03/2024 - 01:37:52"
+    },
+    {
+        "song_name": "BACK TO ME",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
+        ],
+        "album": "VULTURES 1",
+        "played_at": "08/03/2024 - 01:09:24"
+    },
+    {
+        "song_name": "Faucet Failure",
+        "artists": [
+            "Ski Mask The Slump God"
+        ],
+        "album": "STOKELEY",
+        "played_at": "08/03/2024 - 01:04:28"
+    },
+    {
+        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
+        "artists": [
+            "benny blanco",
+            "Halsey",
+            "Khalid"
+        ],
+        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+        "played_at": "08/03/2024 - 01:02:02"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "08/03/2024 - 00:42:47"
+    },
+    {
+        "song_name": "San Luis",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "Evening Machines",
+        "played_at": "08/03/2024 - 00:33:44"
+    },
+    {
+        "song_name": "Trouble",
+        "artists": [
+            "melvitto",
+            "Gabzy"
+        ],
+        "album": "Trouble",
+        "played_at": "07/03/2024 - 19:19:16"
+    },
+    {
         "song_name": "emiliana",
         "artists": [
             "CKay"
@@ -312,105 +417,5 @@
         ],
         "album": "Alone At Prom",
         "played_at": "07/03/2024 - 12:58:54"
-    },
-    {
-        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-        "artists": [
-            "A$AP Rocky",
-            "Skepta"
-        ],
-        "album": "TESTING",
-        "played_at": "06/03/2024 - 16:17:58"
-    },
-    {
-        "song_name": "Ride",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "Ride",
-        "played_at": "06/03/2024 - 16:03:37"
-    },
-    {
-        "song_name": "FE!N (feat. Playboi Carti)",
-        "artists": [
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "UTOPIA",
-        "played_at": "06/03/2024 - 16:00:26"
-    },
-    {
-        "song_name": "fukumean",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "06/03/2024 - 15:57:14"
-    },
-    {
-        "song_name": "Feel No Ways",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Views",
-        "played_at": "06/03/2024 - 15:55:08"
-    },
-    {
-        "song_name": "Hurts Me",
-        "artists": [
-            "Tory Lanez",
-            "Trippie Redd",
-            "Yoko Gold"
-        ],
-        "album": "Hurts Me",
-        "played_at": "06/03/2024 - 15:51:07"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "06/03/2024 - 15:48:46"
-    },
-    {
-        "song_name": "First Time Thing",
-        "artists": [
-            "Calabasas"
-        ],
-        "album": "First Time Thing",
-        "played_at": "06/03/2024 - 15:46:48"
-    },
-    {
-        "song_name": "Let Go",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "06/03/2024 - 15:44:37"
-    },
-    {
-        "song_name": "CAN'T SAY",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "06/03/2024 - 15:41:40"
-    },
-    {
-        "song_name": "Wildflower",
-        "artists": [
-            "MDMA"
-        ],
-        "album": "Peak Of Molly",
-        "played_at": "06/03/2024 - 15:38:21"
-    },
-    {
-        "song_name": "Break from Toronto",
-        "artists": [
-            "PARTYNEXTDOOR"
-        ],
-        "album": "PARTYNEXTDOOR",
-        "played_at": "06/03/2024 - 15:35:51"
     }
 ]
