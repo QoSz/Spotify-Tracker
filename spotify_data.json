@@ -1,5 +1,125 @@
 [
     {
+        "song_name": "DEVASTATED",
+        "artists": [
+            "Joey Bada$$"
+        ],
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "played_at": "11/03/2024 - 21:43:33"
+    },
+    {
+        "song_name": "all the kids are depressed",
+        "artists": [
+            "Jeremy Zucker"
+        ],
+        "album": "glisten",
+        "played_at": "11/03/2024 - 21:40:06"
+    },
+    {
+        "song_name": "My Lil' Baby",
+        "artists": [
+            "Rye Balla"
+        ],
+        "album": "My Lil' Baby",
+        "played_at": "11/03/2024 - 21:37:15"
+    },
+    {
+        "song_name": "Memory - Feather Remix",
+        "artists": [
+            "Kane Brown",
+            "blackbear",
+            "Feather"
+        ],
+        "album": "Memory Remixes",
+        "played_at": "11/03/2024 - 21:34:44"
+    },
+    {
+        "song_name": "Spaceship",
+        "artists": [
+            "Drakeo the Ruler",
+            "24kGoldn"
+        ],
+        "album": "Spaceship",
+        "played_at": "11/03/2024 - 21:31:37"
+    },
+    {
+        "song_name": "LAST",
+        "artists": [
+            "Kyle Beats Collective",
+            "Matt Corman",
+            "TMRWNITE"
+        ],
+        "album": "LAST",
+        "played_at": "11/03/2024 - 21:29:38"
+    },
+    {
+        "song_name": "Love (feat. Lil Uzi Vert)",
+        "artists": [
+            "Felix Snow",
+            "Lil Uzi Vert"
+        ],
+        "album": "Love (feat. Lil Uzi Vert)",
+        "played_at": "11/03/2024 - 21:27:43"
+    },
+    {
+        "song_name": "Many Men (Curtis)",
+        "artists": [
+            "Katori Walker"
+        ],
+        "album": "Idols",
+        "played_at": "11/03/2024 - 21:25:48"
+    },
+    {
+        "song_name": "AOK",
+        "artists": [
+            "Tai Verdes"
+        ],
+        "album": "TV",
+        "played_at": "11/03/2024 - 21:23:29"
+    },
+    {
+        "song_name": "Time Machine",
+        "artists": [
+            "AREA21"
+        ],
+        "album": "Greatest Hits Vol. 1",
+        "played_at": "11/03/2024 - 21:20:35"
+    },
+    {
+        "song_name": "2055",
+        "artists": [
+            "Sleepy Hallow"
+        ],
+        "album": "Still Sleep?",
+        "played_at": "11/03/2024 - 21:17:48"
+    },
+    {
+        "song_name": "Losing My Mind",
+        "artists": [
+            "Majestic",
+            "Nightcrawlers"
+        ],
+        "album": "Losing My Mind",
+        "played_at": "11/03/2024 - 21:15:44"
+    },
+    {
+        "song_name": "Signals",
+        "artists": [
+            "Regard",
+            "Kwabs"
+        ],
+        "album": "Signals",
+        "played_at": "11/03/2024 - 21:12:19"
+    },
+    {
+        "song_name": "State of Mind",
+        "artists": [
+            "Kansh"
+        ],
+        "album": "State of Mind",
+        "played_at": "11/03/2024 - 21:09:30"
+    },
+    {
         "song_name": "Do It Over",
         "artists": [
             "WizTheMc"
@@ -299,126 +419,5 @@
         ],
         "album": "THENIGHTISYOUNG.",
         "played_at": "11/03/2024 - 15:10:38"
-    },
-    {
-        "song_name": "System (feat. WizKid)",
-        "artists": [
-            "Dave",
-            "Wizkid"
-        ],
-        "album": "We're All Alone In This Together",
-        "played_at": "11/03/2024 - 15:07:47"
-    },
-    {
-        "song_name": "reason",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone (Deluxe Edition)",
-        "played_at": "11/03/2024 - 15:04:45"
-    },
-    {
-        "song_name": "Essence (feat. Tems)",
-        "artists": [
-            "Wizkid",
-            "Tems"
-        ],
-        "album": "Made In Lagos",
-        "played_at": "11/03/2024 - 15:02:17"
-    },
-    {
-        "song_name": "Boys Are Bad",
-        "artists": [
-            "Kizz Daniel"
-        ],
-        "album": "King Of Love",
-        "played_at": "11/03/2024 - 14:58:09"
-    },
-    {
-        "song_name": "Organise",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "11/03/2024 - 14:55:51"
-    },
-    {
-        "song_name": "𝘠𝘚𝘓",
-        "artists": [
-            "June Freedom",
-            "Elji Beatzkilla"
-        ],
-        "album": "Anchor Baby",
-        "played_at": "11/03/2024 - 14:53:47"
-    },
-    {
-        "song_name": "Yanna",
-        "artists": [
-            "Chop Daily",
-            "Deyon Agoi"
-        ],
-        "album": "Yanna",
-        "played_at": "11/03/2024 - 14:50:53"
-    },
-    {
-        "song_name": "2 Sugar (feat. Ayra Starr)",
-        "artists": [
-            "Wizkid",
-            "Ayra Starr"
-        ],
-        "album": "More Love, Less Ego",
-        "played_at": "11/03/2024 - 14:48:39"
-    },
-    {
-        "song_name": "Big 7",
-        "artists": [
-            "Burna Boy"
-        ],
-        "album": "I Told Them...",
-        "played_at": "11/03/2024 - 14:43:46"
-    },
-    {
-        "song_name": "Mood (feat. BNXN)",
-        "artists": [
-            "Wizkid",
-            "Bnxn"
-        ],
-        "album": "Made In Lagos: Deluxe Edition",
-        "played_at": "11/03/2024 - 14:38:40"
-    },
-    {
-        "song_name": "Alone",
-        "artists": [
-            "Burna Boy"
-        ],
-        "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "played_at": "11/03/2024 - 14:32:23"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "11/03/2024 - 14:28:41"
-    },
-    {
-        "song_name": "FEEL",
-        "artists": [
-            "Davido"
-        ],
-        "album": "Timeless",
-        "played_at": "11/03/2024 - 14:10:14"
-    },
-    {
-        "song_name": "UNAVAILABLE (feat. Musa Keys)",
-        "artists": [
-            "Davido",
-            "Musa Keys"
-        ],
-        "album": "Timeless",
-        "played_at": "11/03/2024 - 13:59:31"
     }
 ]
