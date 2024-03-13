@@ -1,5 +1,143 @@
 [
     {
+        "song_name": "Party No Dey Stop (with Zinoleesky)",
+        "artists": [
+            "Adekunle Gold",
+            "Zinoleesky"
+        ],
+        "album": "Tequila Ever After",
+        "played_at": "13/03/2024 - 17:57:21"
+    },
+    {
+        "song_name": "Fever",
+        "artists": [
+            "Soundz",
+            "Fave"
+        ],
+        "album": "Fever",
+        "played_at": "13/03/2024 - 17:54:32"
+    },
+    {
+        "song_name": "No Wahala - Remix",
+        "artists": [
+            "1da Banton",
+            "Kizz Daniel",
+            "Tiwa Savage"
+        ],
+        "album": "No Wahala (Remix)",
+        "played_at": "13/03/2024 - 17:51:25"
+    },
+    {
+        "song_name": "Playboy",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Playboy",
+        "played_at": "13/03/2024 - 17:48:27"
+    },
+    {
+        "song_name": "Romeo Must Die (RMD)",
+        "artists": [
+            "Ruger",
+            "Bnxn"
+        ],
+        "album": "Romeo Must Die (RMD)",
+        "played_at": "13/03/2024 - 17:43:43"
+    },
+    {
+        "song_name": "Someone",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Someone",
+        "played_at": "13/03/2024 - 17:41:02"
+    },
+    {
+        "song_name": "Asiwaju",
+        "artists": [
+            "Ruger"
+        ],
+        "album": "RU The World",
+        "played_at": "13/03/2024 - 17:38:24"
+    },
+    {
+        "song_name": "Alone",
+        "artists": [
+            "Burna Boy"
+        ],
+        "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "played_at": "13/03/2024 - 17:34:27"
+    },
+    {
+        "song_name": "No Wahala",
+        "artists": [
+            "1da Banton"
+        ],
+        "album": "Original Vibe Machine",
+        "played_at": "13/03/2024 - 17:30:35"
+    },
+    {
+        "song_name": "Kolomental",
+        "artists": [
+            "Victony"
+        ],
+        "album": "Outlaw",
+        "played_at": "13/03/2024 - 17:27:52"
+    },
+    {
+        "song_name": "𝘠𝘚𝘓",
+        "artists": [
+            "June Freedom",
+            "Elji Beatzkilla"
+        ],
+        "album": "Anchor Baby",
+        "played_at": "13/03/2024 - 17:24:16"
+    },
+    {
+        "song_name": "Trouble",
+        "artists": [
+            "melvitto",
+            "Gabzy"
+        ],
+        "album": "Trouble",
+        "played_at": "13/03/2024 - 17:21:22"
+    },
+    {
+        "song_name": "Yanna",
+        "artists": [
+            "Chop Daily",
+            "Deyon Agoi"
+        ],
+        "album": "Yanna",
+        "played_at": "13/03/2024 - 17:17:38"
+    },
+    {
+        "song_name": "Reason (feat. Russ)",
+        "artists": [
+            "Asake",
+            "Russ"
+        ],
+        "album": "Mr. Money With The Vibe",
+        "played_at": "13/03/2024 - 17:15:24"
+    },
+    {
+        "song_name": "Bad Influence",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Get Layd",
+        "played_at": "13/03/2024 - 17:13:12"
+    },
+    {
+        "song_name": "Just the Two of Us (feat. Bill Withers)",
+        "artists": [
+            "Grover Washington, Jr.",
+            "Bill Withers"
+        ],
+        "album": "Anthology",
+        "played_at": "12/03/2024 - 22:49:45"
+    },
+    {
         "song_name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
         "artists": [
             "Travis Scott",
@@ -289,144 +427,5 @@
         ],
         "album": "Fell In Love",
         "played_at": "12/03/2024 - 09:10:27"
-    },
-    {
-        "song_name": "VULTURES",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign",
-            "Bump J",
-            "Lil Durk"
-        ],
-        "album": "VULTURES",
-        "played_at": "12/03/2024 - 08:59:32"
-    },
-    {
-        "song_name": "BACK TO ME",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign"
-        ],
-        "album": "VULTURES 1",
-        "played_at": "12/03/2024 - 08:54:54"
-    },
-    {
-        "song_name": "Faucet Failure",
-        "artists": [
-            "Ski Mask The Slump God"
-        ],
-        "album": "STOKELEY",
-        "played_at": "12/03/2024 - 08:49:58"
-    },
-    {
-        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
-        "artists": [
-            "benny blanco",
-            "Halsey",
-            "Khalid"
-        ],
-        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
-        "played_at": "12/03/2024 - 08:47:32"
-    },
-    {
-        "song_name": "Need 2",
-        "artists": [
-            "Pinegrove"
-        ],
-        "album": "Everything So Far",
-        "played_at": "12/03/2024 - 08:44:39"
-    },
-    {
-        "song_name": "Gas Me Up (Diligent)",
-        "artists": [
-            "Skepta"
-        ],
-        "album": "Gas Me Up (Diligent)",
-        "played_at": "12/03/2024 - 08:41:26"
-    },
-    {
-        "song_name": "Mary",
-        "artists": [
-            "Alex G"
-        ],
-        "album": "Trick",
-        "played_at": "12/03/2024 - 08:38:35"
-    },
-    {
-        "song_name": "San Luis",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "Evening Machines",
-        "played_at": "12/03/2024 - 08:35:17"
-    },
-    {
-        "song_name": "Scott and Ramona",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Lil Uzi Vert vs. The World",
-        "played_at": "12/03/2024 - 08:30:44"
-    },
-    {
-        "song_name": "MY EYES",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "UTOPIA",
-        "played_at": "12/03/2024 - 08:27:02"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "12/03/2024 - 08:22:50"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "12/03/2024 - 00:38:59"
-    },
-    {
-        "song_name": "MAFIA",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ESCAPE PLAN / MAFIA",
-        "played_at": "12/03/2024 - 00:36:54"
-    },
-    {
-        "song_name": "Maria",
-        "artists": [
-            "22 WVY"
-        ],
-        "album": "Enter The Void",
-        "played_at": "12/03/2024 - 00:32:44"
-    },
-    {
-        "song_name": "Enough",
-        "artists": [
-            "Lil Mosey"
-        ],
-        "album": "Enough",
-        "played_at": "12/03/2024 - 00:28:23"
-    },
-    {
-        "song_name": "Endless Fashion (feat. Nicki Minaj)",
-        "artists": [
-            "Lil Uzi Vert",
-            "Nicki Minaj"
-        ],
-        "album": "Endless Fashion (feat. Nicki Minaj)",
-        "played_at": "12/03/2024 - 00:25:43"
     }
 ]
