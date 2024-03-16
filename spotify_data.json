@@ -1,5 +1,336 @@
 [
     {
+        "song_name": "Shu-Peru",
+        "artists": [
+            "Kizz Daniel"
+        ],
+        "album": "Maverick",
+        "played_at": "16/03/2024 - 17:59:05"
+    },
+    {
+        "song_name": "UNAVAILABLE (feat. Musa Keys)",
+        "artists": [
+            "Davido",
+            "Musa Keys"
+        ],
+        "album": "Timeless",
+        "played_at": "16/03/2024 - 17:56:44"
+    },
+    {
+        "song_name": "Santorini Coffee",
+        "artists": [
+            "melvitto"
+        ],
+        "album": "THENIGHTISYOUNG.",
+        "played_at": "16/03/2024 - 17:53:54"
+    },
+    {
+        "song_name": "Essence (feat. Tems)",
+        "artists": [
+            "Wizkid",
+            "Tems"
+        ],
+        "album": "Made In Lagos",
+        "played_at": "16/03/2024 - 17:51:39"
+    },
+    {
+        "song_name": "Bad Influence",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Get Layd",
+        "played_at": "16/03/2024 - 17:47:31"
+    },
+    {
+        "song_name": "In Fact (feat. Gabzy)",
+        "artists": [
+            "melvitto",
+            "Gabzy"
+        ],
+        "album": "THENIGHTISYOUNG.",
+        "played_at": "16/03/2024 - 17:45:12"
+    },
+    {
+        "song_name": "Colours",
+        "artists": [
+            "Kid AlpHa"
+        ],
+        "album": "Colours",
+        "played_at": "16/03/2024 - 17:41:26"
+    },
+    {
+        "song_name": "Feel",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Laughter, Tears & Goosebumps",
+        "played_at": "16/03/2024 - 17:38:21"
+    },
+    {
+        "song_name": "Kolomental",
+        "artists": [
+            "Victony"
+        ],
+        "album": "Outlaw",
+        "played_at": "16/03/2024 - 17:35:06"
+    },
+    {
+        "song_name": "Who Told You (feat. Drake)",
+        "artists": [
+            "J Hus",
+            "Drake"
+        ],
+        "album": "Beautiful And Brutal Yard",
+        "played_at": "16/03/2024 - 17:31:49"
+    },
+    {
+        "song_name": "Signs",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Signs",
+        "played_at": "16/03/2024 - 16:16:34"
+    },
+    {
+        "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+        "artists": [
+            "XXXTENTACION",
+            "PnB Rock",
+            "Trippie Redd"
+        ],
+        "album": "Bad Vibes Forever",
+        "played_at": "16/03/2024 - 16:15:07"
+    },
+    {
+        "song_name": "Gory Love",
+        "artists": [
+            "Calabasas"
+        ],
+        "album": "Gory Love",
+        "played_at": "16/03/2024 - 16:12:36"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "16/03/2024 - 16:10:20"
+    },
+    {
+        "song_name": "Relax My Eyes",
+        "artists": [
+            "ANOTR",
+            "Abel Balder"
+        ],
+        "album": "Relax My Eyes",
+        "played_at": "16/03/2024 - 16:06:40"
+    },
+    {
+        "song_name": "I LIKE",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "I LIKE",
+        "played_at": "16/03/2024 - 16:01:55"
+    },
+    {
+        "song_name": "TELEKINESIS (feat. SZA & Future)",
+        "artists": [
+            "Travis Scott",
+            "SZA",
+            "Future"
+        ],
+        "album": "UTOPIA",
+        "played_at": "16/03/2024 - 15:58:53"
+    },
+    {
+        "song_name": "Somewhere to Fly (with Don Toliver)",
+        "artists": [
+            "Kid Cudi",
+            "Don Toliver"
+        ],
+        "album": "Entergalactic",
+        "played_at": "16/03/2024 - 15:52:59"
+    },
+    {
+        "song_name": "For My Hand (feat. Ed Sheeran)",
+        "artists": [
+            "Burna Boy",
+            "Ed Sheeran"
+        ],
+        "album": "Love, Damini",
+        "played_at": "16/03/2024 - 15:48:31"
+    },
+    {
+        "song_name": "KANTE (feat. Fave)",
+        "artists": [
+            "Davido",
+            "Fave"
+        ],
+        "album": "Timeless",
+        "played_at": "16/03/2024 - 15:45:52"
+    },
+    {
+        "song_name": "KANTE (feat. Fave)",
+        "artists": [
+            "Davido",
+            "Fave"
+        ],
+        "album": "Timeless",
+        "played_at": "16/03/2024 - 12:12:31"
+    },
+    {
+        "song_name": "Hold On, We're Going Home",
+        "artists": [
+            "Drake",
+            "Majid Jordan"
+        ],
+        "album": "Nothing Was The Same (Deluxe)",
+        "played_at": "16/03/2024 - 11:27:38"
+    },
+    {
+        "song_name": "Lake Missoula",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "16/03/2024 - 11:23:50"
+    },
+    {
+        "song_name": "Hide & Seek",
+        "artists": [
+            "Stormzy"
+        ],
+        "album": "This Is What I Mean",
+        "played_at": "16/03/2024 - 11:22:04"
+    },
+    {
+        "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
+        "artists": [
+            "Metro Boomin",
+            "Swae Lee",
+            "Wizkid"
+        ],
+        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "played_at": "16/03/2024 - 11:18:35"
+    },
+    {
+        "song_name": "3AM",
+        "artists": [
+            "Chris Patrick"
+        ],
+        "album": "From The Heart, Vol. 2",
+        "played_at": "16/03/2024 - 11:14:45"
+    },
+    {
+        "song_name": "Sundress",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "Sundress",
+        "played_at": "16/03/2024 - 11:10:59"
+    },
+    {
+        "song_name": "Trouble",
+        "artists": [
+            "melvitto",
+            "Gabzy"
+        ],
+        "album": "Trouble",
+        "played_at": "16/03/2024 - 11:08:20"
+    },
+    {
+        "song_name": "Everybody Dies In Their Nightmares",
+        "artists": [
+            "XXXTENTACION"
+        ],
+        "album": "17",
+        "played_at": "16/03/2024 - 11:04:36"
+    },
+    {
+        "song_name": "Imperfections (Interlude)",
+        "artists": [
+            "Pop Smoke"
+        ],
+        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "played_at": "16/03/2024 - 11:02:59"
+    },
+    {
+        "song_name": "INTOXYCATED (feat. Dave)",
+        "artists": [
+            "Oxlade",
+            "Dave"
+        ],
+        "album": "INTOXYCATED (feat. Dave)",
+        "played_at": "16/03/2024 - 11:01:12"
+    },
+    {
+        "song_name": "...The Make Up",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "PLAYBOY",
+        "played_at": "16/03/2024 - 10:57:39"
+    },
+    {
+        "song_name": "Propeller (feat. Dave & BNXN)",
+        "artists": [
+            "JAE5",
+            "Dave",
+            "Bnxn"
+        ],
+        "album": "Propeller (feat. Dave & BNXN)",
+        "played_at": "16/03/2024 - 10:56:02"
+    },
+    {
+        "song_name": "Feel No Ways",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Views",
+        "played_at": "16/03/2024 - 10:52:37"
+    },
+    {
+        "song_name": "Passionfruit",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "16/03/2024 - 10:48:35"
+    },
+    {
+        "song_name": "Creepin' (with The Weeknd & 21 Savage)",
+        "artists": [
+            "Metro Boomin",
+            "The Weeknd",
+            "21 Savage"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "16/03/2024 - 10:34:40"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "16/03/2024 - 10:30:58"
+    },
+    {
+        "song_name": "Essence (feat. Tems)",
+        "artists": [
+            "Wizkid",
+            "Tems"
+        ],
+        "album": "Made In Lagos",
+        "played_at": "16/03/2024 - 10:27:26"
+    },
+    {
         "song_name": "Middle of the Ocean",
         "artists": [
             "Drake"
@@ -101,326 +432,5 @@
         ],
         "album": "Black Panther The Album Music From And Inspired By",
         "played_at": "15/03/2024 - 17:49:29"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "15/03/2024 - 17:45:37"
-    },
-    {
-        "song_name": "infinity (888) - feat. Joey Bada$$",
-        "artists": [
-            "XXXTENTACION",
-            "Joey Bada$$"
-        ],
-        "album": "?",
-        "played_at": "15/03/2024 - 17:43:07"
-    },
-    {
-        "song_name": "Feel No Ways",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Views",
-        "played_at": "15/03/2024 - 17:40:10"
-    },
-    {
-        "song_name": "Down With Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC (Bonus)",
-        "played_at": "15/03/2024 - 17:36:09"
-    },
-    {
-        "song_name": "Search & Rescue",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Search & Rescue",
-        "played_at": "15/03/2024 - 17:34:09"
-    },
-    {
-        "song_name": "Money Trees",
-        "artists": [
-            "Kendrick Lamar",
-            "Jay Rock"
-        ],
-        "album": "good kid, m.A.A.d city",
-        "played_at": "15/03/2024 - 17:29:36"
-    },
-    {
-        "song_name": "Don’t Matter To Me (with Michael Jackson)",
-        "artists": [
-            "Drake",
-            "Michael Jackson"
-        ],
-        "album": "Scorpion",
-        "played_at": "15/03/2024 - 17:23:09"
-    },
-    {
-        "song_name": "N95",
-        "artists": [
-            "Kendrick Lamar"
-        ],
-        "album": "Mr. Morale & The Big Steppers",
-        "played_at": "15/03/2024 - 17:19:03"
-    },
-    {
-        "song_name": "MELTDOWN (feat. Drake)",
-        "artists": [
-            "Travis Scott",
-            "Drake"
-        ],
-        "album": "UTOPIA",
-        "played_at": "15/03/2024 - 17:15:47"
-    },
-    {
-        "song_name": "Codeine Crazy",
-        "artists": [
-            "Future"
-        ],
-        "album": "Monster",
-        "played_at": "15/03/2024 - 17:11:40"
-    },
-    {
-        "song_name": "Jimmy Cooks (feat. 21 Savage)",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "15/03/2024 - 17:05:53"
-    },
-    {
-        "song_name": "Imperfections (Interlude)",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "played_at": "15/03/2024 - 17:02:14"
-    },
-    {
-        "song_name": "War",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "15/03/2024 - 17:00:26"
-    },
-    {
-        "song_name": "Ambition For Cash",
-        "artists": [
-            "Key Glock"
-        ],
-        "album": "Yellow Tape 2",
-        "played_at": "15/03/2024 - 16:57:25"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "15/03/2024 - 16:55:01"
-    },
-    {
-        "song_name": "500lbs",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC",
-        "played_at": "15/03/2024 - 16:51:32"
-    },
-    {
-        "song_name": "Finesse",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "15/03/2024 - 16:49:07"
-    },
-    {
-        "song_name": "Rich Spirit",
-        "artists": [
-            "Kendrick Lamar"
-        ],
-        "album": "Mr. Morale & The Big Steppers",
-        "played_at": "15/03/2024 - 16:46:05"
-    },
-    {
-        "song_name": "Slime You Out (feat. SZA)",
-        "artists": [
-            "Drake",
-            "SZA"
-        ],
-        "album": "For All The Dogs",
-        "played_at": "15/03/2024 - 16:42:42"
-    },
-    {
-        "song_name": "16",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue",
-        "played_at": "15/03/2024 - 16:37:31"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "15/03/2024 - 16:34:55"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "15/03/2024 - 16:31:42"
-    },
-    {
-        "song_name": "On The Radar Freestyle",
-        "artists": [
-            "Drake",
-            "Central Cee"
-        ],
-        "album": "On The Radar Freestyle",
-        "played_at": "15/03/2024 - 16:29:45"
-    },
-    {
-        "song_name": "Solo",
-        "artists": [
-            "Future"
-        ],
-        "album": "HNDRXX",
-        "played_at": "15/03/2024 - 16:25:09"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "15/03/2024 - 16:20:42"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "15/03/2024 - 16:15:05"
-    },
-    {
-        "song_name": "Passionfruit",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "15/03/2024 - 16:13:08"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "15/03/2024 - 16:07:26"
-    },
-    {
-        "song_name": "Teenage Fever",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "15/03/2024 - 16:03:44"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "15/03/2024 - 12:57:41"
-    },
-    {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
-        "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
-        ],
-        "album": "UTOPIA",
-        "played_at": "15/03/2024 - 12:46:14"
-    },
-    {
-        "song_name": "Passionfruit",
-        "artists": [
-            "Drake"
-        ],
-        "album": "More Life",
-        "played_at": "15/03/2024 - 12:38:59"
-    },
-    {
-        "song_name": "Excuse Me",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "AT.LONG.LAST.A$AP",
-        "played_at": "15/03/2024 - 12:33:57"
-    },
-    {
-        "song_name": "‘87 Stingray",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Alone At Prom",
-        "played_at": "15/03/2024 - 12:29:58"
-    },
-    {
-        "song_name": "Time Flies",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "15/03/2024 - 12:27:36"
-    },
-    {
-        "song_name": "Sundress",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "Sundress",
-        "played_at": "15/03/2024 - 12:24:23"
-    },
-    {
-        "song_name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
-        "artists": [
-            "CHASE B",
-            "Travis Scott",
-            "Don Toliver",
-            "Quavo",
-            "Ty Dolla $ign"
-        ],
-        "album": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
-        "played_at": "15/03/2024 - 12:21:44"
-    },
-    {
-        "song_name": "BUTTERFLY EFFECT",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "15/03/2024 - 12:18:37"
     }
 ]
