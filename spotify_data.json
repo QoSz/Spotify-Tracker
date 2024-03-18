@@ -1,5 +1,190 @@
 [
     {
+        "song_name": "Bad Bitches Wrk @ Taboo",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Sorry 4 What",
+        "played_at": "17/03/2024 - 21:32:29"
+    },
+    {
+        "song_name": "Live This Wild",
+        "artists": [
+            "Lil Mosey"
+        ],
+        "album": "Certified Hitmaker",
+        "played_at": "17/03/2024 - 21:22:35"
+    },
+    {
+        "song_name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+        "artists": [
+            "Metro Boomin",
+            "A$AP Rocky",
+            "Takeoff"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "17/03/2024 - 21:20:32"
+    },
+    {
+        "song_name": "HOTEL LOBBY (Unc & Phew)",
+        "artists": [
+            "Quavo",
+            "Takeoff"
+        ],
+        "album": "Only Built For Infinity Links",
+        "played_at": "17/03/2024 - 21:17:22"
+    },
+    {
+        "song_name": "Yes Indeed",
+        "artists": [
+            "Lil Baby",
+            "Drake"
+        ],
+        "album": "Harder Than Ever",
+        "played_at": "17/03/2024 - 21:14:59"
+    },
+    {
+        "song_name": "south to west",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "DS4EVER",
+        "played_at": "17/03/2024 - 21:12:36"
+    },
+    {
+        "song_name": "500lbs",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "17/03/2024 - 21:10:33"
+    },
+    {
+        "song_name": "Why Did I",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Sorry 4 What",
+        "played_at": "17/03/2024 - 21:08:08"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "17/03/2024 - 21:05:42"
+    },
+    {
+        "song_name": "Around Me (feat. Don Toliver)",
+        "artists": [
+            "Metro Boomin",
+            "Don Toliver"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "17/03/2024 - 20:52:31"
+    },
+    {
+        "song_name": "10 Feet",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Death Race For Love (Bonus Track Version)",
+        "played_at": "17/03/2024 - 20:49:19"
+    },
+    {
+        "song_name": "What You Know Bout Love",
+        "artists": [
+            "Pop Smoke"
+        ],
+        "album": "Shoot For The Stars Aim For The Moon",
+        "played_at": "17/03/2024 - 20:45:47"
+    },
+    {
+        "song_name": "CAN'T SAY",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "17/03/2024 - 20:43:06"
+    },
+    {
+        "song_name": "Love Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "17/03/2024 - 20:39:48"
+    },
+    {
+        "song_name": "Wildflower",
+        "artists": [
+            "MDMA"
+        ],
+        "album": "Peak Of Molly",
+        "played_at": "17/03/2024 - 20:35:21"
+    },
+    {
+        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+        "artists": [
+            "Gunna",
+            "Young Thug"
+        ],
+        "album": "WUNNA",
+        "played_at": "17/03/2024 - 20:32:51"
+    },
+    {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "17/03/2024 - 20:29:33"
+    },
+    {
+        "song_name": "Die Young (feat. 347aidan)",
+        "artists": [
+            "Sleepy Hallow",
+            "347aidan"
+        ],
+        "album": "Die Young (feat. 347aidan)",
+        "played_at": "17/03/2024 - 20:27:28"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "17/03/2024 - 20:24:59"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "17/03/2024 - 20:21:42"
+    },
+    {
+        "song_name": "Midnight's Interlude",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "17/03/2024 - 20:20:03"
+    },
+    {
+        "song_name": "Cooped Up (with Roddy Ricch)",
+        "artists": [
+            "Post Malone",
+            "Roddy Ricch"
+        ],
+        "album": "Cooped Up",
+        "played_at": "17/03/2024 - 20:18:07"
+    },
+    {
         "song_name": "2055",
         "artists": [
             "Sleepy Hallow"
@@ -236,198 +421,5 @@
         ],
         "album": "Laughter, Tears & Goosebumps",
         "played_at": "16/03/2024 - 17:38:21"
-    },
-    {
-        "song_name": "Kolomental",
-        "artists": [
-            "Victony"
-        ],
-        "album": "Outlaw",
-        "played_at": "16/03/2024 - 17:35:06"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "16/03/2024 - 17:31:49"
-    },
-    {
-        "song_name": "Signs",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Signs",
-        "played_at": "16/03/2024 - 16:16:34"
-    },
-    {
-        "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
-        "artists": [
-            "XXXTENTACION",
-            "PnB Rock",
-            "Trippie Redd"
-        ],
-        "album": "Bad Vibes Forever",
-        "played_at": "16/03/2024 - 16:15:07"
-    },
-    {
-        "song_name": "Gory Love",
-        "artists": [
-            "Calabasas"
-        ],
-        "album": "Gory Love",
-        "played_at": "16/03/2024 - 16:12:36"
-    },
-    {
-        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-        "artists": [
-            "Victony",
-            "Rema",
-            "Tempoe",
-            "Don Toliver"
-        ],
-        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "played_at": "16/03/2024 - 16:10:20"
-    },
-    {
-        "song_name": "Relax My Eyes",
-        "artists": [
-            "ANOTR",
-            "Abel Balder"
-        ],
-        "album": "Relax My Eyes",
-        "played_at": "16/03/2024 - 16:06:40"
-    },
-    {
-        "song_name": "I LIKE",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "I LIKE",
-        "played_at": "16/03/2024 - 16:01:55"
-    },
-    {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
-        "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
-        ],
-        "album": "UTOPIA",
-        "played_at": "16/03/2024 - 15:58:53"
-    },
-    {
-        "song_name": "Somewhere to Fly (with Don Toliver)",
-        "artists": [
-            "Kid Cudi",
-            "Don Toliver"
-        ],
-        "album": "Entergalactic",
-        "played_at": "16/03/2024 - 15:52:59"
-    },
-    {
-        "song_name": "For My Hand (feat. Ed Sheeran)",
-        "artists": [
-            "Burna Boy",
-            "Ed Sheeran"
-        ],
-        "album": "Love, Damini",
-        "played_at": "16/03/2024 - 15:48:31"
-    },
-    {
-        "song_name": "KANTE (feat. Fave)",
-        "artists": [
-            "Davido",
-            "Fave"
-        ],
-        "album": "Timeless",
-        "played_at": "16/03/2024 - 15:45:52"
-    },
-    {
-        "song_name": "KANTE (feat. Fave)",
-        "artists": [
-            "Davido",
-            "Fave"
-        ],
-        "album": "Timeless",
-        "played_at": "16/03/2024 - 12:12:31"
-    },
-    {
-        "song_name": "Hold On, We're Going Home",
-        "artists": [
-            "Drake",
-            "Majid Jordan"
-        ],
-        "album": "Nothing Was The Same (Deluxe)",
-        "played_at": "16/03/2024 - 11:27:38"
-    },
-    {
-        "song_name": "Lake Missoula",
-        "artists": [
-            "Richy Mitch & The Coal Miners"
-        ],
-        "album": "RMCM",
-        "played_at": "16/03/2024 - 11:23:50"
-    },
-    {
-        "song_name": "Hide & Seek",
-        "artists": [
-            "Stormzy"
-        ],
-        "album": "This Is What I Mean",
-        "played_at": "16/03/2024 - 11:22:04"
-    },
-    {
-        "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
-        "artists": [
-            "Metro Boomin",
-            "Swae Lee",
-            "Wizkid"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "16/03/2024 - 11:18:35"
-    },
-    {
-        "song_name": "3AM",
-        "artists": [
-            "Chris Patrick"
-        ],
-        "album": "From The Heart, Vol. 2",
-        "played_at": "16/03/2024 - 11:14:45"
-    },
-    {
-        "song_name": "Sundress",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "Sundress",
-        "played_at": "16/03/2024 - 11:10:59"
-    },
-    {
-        "song_name": "Trouble",
-        "artists": [
-            "melvitto",
-            "Gabzy"
-        ],
-        "album": "Trouble",
-        "played_at": "16/03/2024 - 11:08:20"
-    },
-    {
-        "song_name": "Everybody Dies In Their Nightmares",
-        "artists": [
-            "XXXTENTACION"
-        ],
-        "album": "17",
-        "played_at": "16/03/2024 - 11:04:36"
-    },
-    {
-        "song_name": "Imperfections (Interlude)",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "played_at": "16/03/2024 - 11:02:59"
     }
 ]
