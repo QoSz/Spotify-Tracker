@@ -1,5 +1,14 @@
 [
     {
+        "song_name": "Usual",
+        "artists": [
+            "melvitto",
+            "Nonso Amadi"
+        ],
+        "album": "soon.",
+        "played_at": "20/03/2024 - 18:09:22"
+    },
+    {
         "song_name": "Ta Ta Ta",
         "artists": [
             "Bayanni"
@@ -429,14 +438,5 @@
         ],
         "album": "HEROES & VILLAINS",
         "played_at": "20/03/2024 - 12:26:36"
-    },
-    {
-        "song_name": "HVN ON EARTH (with Kodak Black)",
-        "artists": [
-            "Lil Tecca",
-            "Kodak Black"
-        ],
-        "album": "TEC",
-        "played_at": "20/03/2024 - 12:23:16"
     }
 ]
