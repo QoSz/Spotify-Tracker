@@ -1,5 +1,146 @@
 [
     {
+        "song_name": "Ta Ta Ta",
+        "artists": [
+            "Bayanni"
+        ],
+        "album": "Bayanni",
+        "played_at": "20/03/2024 - 17:56:40"
+    },
+    {
+        "song_name": "Omo Ope (feat. Olamide)",
+        "artists": [
+            "Asake",
+            "Olamide"
+        ],
+        "album": "Omo Ope",
+        "played_at": "20/03/2024 - 17:54:00"
+    },
+    {
+        "song_name": "Terminator",
+        "artists": [
+            "Asake"
+        ],
+        "album": "Mr. Money With The Vibe",
+        "played_at": "20/03/2024 - 17:51:13"
+    },
+    {
+        "song_name": "Playboy",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Playboy",
+        "played_at": "20/03/2024 - 17:48:37"
+    },
+    {
+        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "artists": [
+            "Victony",
+            "Rema",
+            "Tempoe",
+            "Don Toliver"
+        ],
+        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "played_at": "20/03/2024 - 17:45:09"
+    },
+    {
+        "song_name": "Trouble",
+        "artists": [
+            "melvitto",
+            "Gabzy"
+        ],
+        "album": "Trouble",
+        "played_at": "20/03/2024 - 17:41:29"
+    },
+    {
+        "song_name": "Holy Ghost",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Holy Ghost",
+        "played_at": "20/03/2024 - 17:37:46"
+    },
+    {
+        "song_name": "GWAGWALADA",
+        "artists": [
+            "Bnxn",
+            "Kizz Daniel",
+            "Seyi Vibez"
+        ],
+        "album": "Sincerely, Benson",
+        "played_at": "20/03/2024 - 17:34:38"
+    },
+    {
+        "song_name": "Close To Me (feat. Gabzy & Krisirie)",
+        "artists": [
+            "melvitto",
+            "Gabzy",
+            "Krisirie"
+        ],
+        "album": "THENIGHTISYOUNG.",
+        "played_at": "20/03/2024 - 17:31:29"
+    },
+    {
+        "song_name": "Basquiat",
+        "artists": [
+            "Asake"
+        ],
+        "album": "Work Of Art",
+        "played_at": "20/03/2024 - 17:28:38"
+    },
+    {
+        "song_name": "KANTE (feat. Fave)",
+        "artists": [
+            "Davido",
+            "Fave"
+        ],
+        "album": "Timeless",
+        "played_at": "20/03/2024 - 17:26:23"
+    },
+    {
+        "song_name": "Peru - Remix",
+        "artists": [
+            "Fireboy DML",
+            "21 Savage",
+            "Blxst"
+        ],
+        "album": "Peru (Remix)",
+        "played_at": "20/03/2024 - 17:23:09"
+    },
+    {
+        "song_name": "All Of Us (Ashawo)",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Playboy",
+        "played_at": "20/03/2024 - 17:20:01"
+    },
+    {
+        "song_name": "Second Sermon - Remix",
+        "artists": [
+            "Black Sherif",
+            "Burna Boy"
+        ],
+        "album": "The Villain I Never Was",
+        "played_at": "20/03/2024 - 17:16:57"
+    },
+    {
+        "song_name": "soso",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Boy Alone",
+        "played_at": "20/03/2024 - 17:13:42"
+    },
+    {
+        "song_name": "soso",
+        "artists": [
+            "Omah Lay"
+        ],
+        "album": "Boy Alone",
+        "played_at": "20/03/2024 - 15:14:08"
+    },
+    {
         "song_name": "Love Don't Cost A Dime (Re-Up)",
         "artists": [
             "Magixx",
@@ -297,143 +438,5 @@
         ],
         "album": "TEC",
         "played_at": "20/03/2024 - 12:23:16"
-    },
-    {
-        "song_name": "goosebumps",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "20/03/2024 - 12:20:07"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "20/03/2024 - 12:16:02"
-    },
-    {
-        "song_name": "Around Me (feat. Don Toliver)",
-        "artists": [
-            "Metro Boomin",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/03/2024 - 12:13:33"
-    },
-    {
-        "song_name": "Turn Yo Clic Up (feat. Future)",
-        "artists": [
-            "Quavo",
-            "Future"
-        ],
-        "album": "Rocket Power",
-        "played_at": "20/03/2024 - 12:09:04"
-    },
-    {
-        "song_name": "Ambition For Cash",
-        "artists": [
-            "Key Glock"
-        ],
-        "album": "Yellow Tape 2",
-        "played_at": "20/03/2024 - 12:05:13"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "20/03/2024 - 12:02:49"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "19/03/2024 - 17:09:01"
-    },
-    {
-        "song_name": "Moon & Stars (feat. Maggie Lindemann)",
-        "artists": [
-            "$NOT",
-            "Maggie Lindemann"
-        ],
-        "album": "- TRAGEDY +",
-        "played_at": "19/03/2024 - 17:07:02"
-    },
-    {
-        "song_name": "Doomsday (with Juice WRLD & Cordae)",
-        "artists": [
-            "Lyrical Lemonade",
-            "Juice WRLD",
-            "Cordae"
-        ],
-        "album": "Doomsday",
-        "played_at": "19/03/2024 - 17:03:55"
-    },
-    {
-        "song_name": "What You Got",
-        "artists": [
-            "Quail P"
-        ],
-        "album": "Who Is Quail?",
-        "played_at": "19/03/2024 - 16:59:29"
-    },
-    {
-        "song_name": "ay! (feat. Lil Wayne)",
-        "artists": [
-            "mgk",
-            "Lil Wayne"
-        ],
-        "album": "mainstream sellout",
-        "played_at": "19/03/2024 - 16:56:05"
-    },
-    {
-        "song_name": "Potato Salad",
-        "artists": [
-            "Tyler, The Creator",
-            "A$AP Rocky"
-        ],
-        "album": "Potato Salad",
-        "played_at": "19/03/2024 - 16:54:00"
-    },
-    {
-        "song_name": "Us vs. Them (feat Gucci Mane)",
-        "artists": [
-            "Quavo",
-            "Takeoff",
-            "Gucci Mane"
-        ],
-        "album": "Only Built For Infinity Links",
-        "played_at": "19/03/2024 - 16:50:59"
-    },
-    {
-        "song_name": "Rich And Blind",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Rich And Blind",
-        "played_at": "19/03/2024 - 16:45:23"
-    },
-    {
-        "song_name": "Talk No More",
-        "artists": [
-            "Don Toliver"
-        ],
-        "album": "Donny Womack",
-        "played_at": "19/03/2024 - 16:41:31"
-    },
-    {
-        "song_name": "Who Shot Cupid?",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Death Race For Love (Bonus Track Version)",
-        "played_at": "19/03/2024 - 16:35:36"
     }
 ]
