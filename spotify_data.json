@@ -1,5 +1,329 @@
 [
     {
+        "song_name": "I Gotta Feeling",
+        "artists": [
+            "Black Eyed Peas"
+        ],
+        "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "played_at": "21/03/2024 - 19:36:14"
+    },
+    {
+        "song_name": "Am I Wrong",
+        "artists": [
+            "Nico & Vinz"
+        ],
+        "album": "Black Star Elephant",
+        "played_at": "21/03/2024 - 19:31:24"
+    },
+    {
+        "song_name": "Drive By",
+        "artists": [
+            "Train"
+        ],
+        "album": "California 37",
+        "played_at": "21/03/2024 - 19:27:17"
+    },
+    {
+        "song_name": "Secrets",
+        "artists": [
+            "OneRepublic"
+        ],
+        "album": "Waking Up",
+        "played_at": "21/03/2024 - 19:24:01"
+    },
+    {
+        "song_name": "Good Time",
+        "artists": [
+            "Owl City",
+            "Carly Rae Jepsen"
+        ],
+        "album": "The Midsummer Station",
+        "played_at": "21/03/2024 - 19:20:15"
+    },
+    {
+        "song_name": "Pompeii",
+        "artists": [
+            "Bastille"
+        ],
+        "album": "Bad Blood",
+        "played_at": "21/03/2024 - 19:16:50"
+    },
+    {
+        "song_name": "Don't Let Me Down (feat. Daya)",
+        "artists": [
+            "The Chainsmokers",
+            "Daya"
+        ],
+        "album": "Don't Let Me Down (feat. Daya)",
+        "played_at": "21/03/2024 - 19:13:15"
+    },
+    {
+        "song_name": "Timber",
+        "artists": [
+            "Pitbull",
+            "Kesha"
+        ],
+        "album": "Global Warming: Meltdown (Deluxe Version)",
+        "played_at": "21/03/2024 - 19:09:46"
+    },
+    {
+        "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+        "artists": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "album": "At Night, Alone.",
+        "played_at": "21/03/2024 - 19:06:22"
+    },
+    {
+        "song_name": "Just Can’t Get Enough",
+        "artists": [
+            "Black Eyed Peas"
+        ],
+        "album": "The Beginning",
+        "played_at": "21/03/2024 - 19:03:03"
+    },
+    {
+        "song_name": "Don't You Worry Child - Radio Edit",
+        "artists": [
+            "Swedish House Mafia",
+            "John Martin"
+        ],
+        "album": "Don't You Worry Child",
+        "played_at": "21/03/2024 - 18:59:23"
+    },
+    {
+        "song_name": "Riptide",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Dream Your Life Away",
+        "played_at": "21/03/2024 - 18:55:50"
+    },
+    {
+        "song_name": "Safe And Sound",
+        "artists": [
+            "Capital Cities"
+        ],
+        "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "played_at": "21/03/2024 - 18:52:24"
+    },
+    {
+        "song_name": "Fireflies",
+        "artists": [
+            "Owl City"
+        ],
+        "album": "Ocean Eyes",
+        "played_at": "21/03/2024 - 18:49:11"
+    },
+    {
+        "song_name": "Numb",
+        "artists": [
+            "Marshmello",
+            "Khalid"
+        ],
+        "album": "Numb",
+        "played_at": "21/03/2024 - 18:43:31"
+    },
+    {
+        "song_name": "Eastside (with Halsey & Khalid)",
+        "artists": [
+            "benny blanco",
+            "Halsey",
+            "Khalid"
+        ],
+        "album": "FRIENDS KEEP SECRETS",
+        "played_at": "21/03/2024 - 18:40:55"
+    },
+    {
+        "song_name": "Nevermind",
+        "artists": [
+            "Dennis Lloyd"
+        ],
+        "album": "Nevermind",
+        "played_at": "21/03/2024 - 18:38:04"
+    },
+    {
+        "song_name": "I'm Good (Blue)",
+        "artists": [
+            "David Guetta",
+            "Bebe Rexha"
+        ],
+        "album": "I'm Good (Blue)",
+        "played_at": "21/03/2024 - 18:33:04"
+    },
+    {
+        "song_name": "Fever (feat. Lukas Graham)",
+        "artists": [
+            "Kygo",
+            "Lukas Graham"
+        ],
+        "album": "Thrill Of The Chase",
+        "played_at": "21/03/2024 - 18:30:08"
+    },
+    {
+        "song_name": "Vibration",
+        "artists": [
+            "Fireboy DML"
+        ],
+        "album": "Laughter, Tears & Goosebumps",
+        "played_at": "21/03/2024 - 18:24:11"
+    },
+    {
+        "song_name": "Echo",
+        "artists": [
+            "RSCL",
+            "Repiet",
+            "Julia Kleijn"
+        ],
+        "album": "Echo",
+        "played_at": "21/03/2024 - 18:18:44"
+    },
+    {
+        "song_name": "Because You Move Me",
+        "artists": [
+            "Tinlicker",
+            "Helsloot"
+        ],
+        "album": "Because You Move Me",
+        "played_at": "21/03/2024 - 18:16:03"
+    },
+    {
+        "song_name": "Relax My Eyes",
+        "artists": [
+            "ANOTR",
+            "Abel Balder"
+        ],
+        "album": "Relax My Eyes",
+        "played_at": "21/03/2024 - 18:12:47"
+    },
+    {
+        "song_name": "Stumblin' In",
+        "artists": [
+            "CYRIL"
+        ],
+        "album": "Stumblin' In",
+        "played_at": "21/03/2024 - 18:09:34"
+    },
+    {
+        "song_name": "Drifting",
+        "artists": [
+            "Tiësto"
+        ],
+        "album": "Drifting",
+        "played_at": "21/03/2024 - 18:06:00"
+    },
+    {
+        "song_name": "Baianá",
+        "artists": [
+            "Bakermat"
+        ],
+        "album": "The Ringmaster",
+        "played_at": "21/03/2024 - 18:03:31"
+    },
+    {
+        "song_name": "Weekend (feat. Miguel)",
+        "artists": [
+            "Mac Miller",
+            "Miguel"
+        ],
+        "album": "GO:OD AM",
+        "played_at": "21/03/2024 - 17:57:35"
+    },
+    {
+        "song_name": "Midnight's Interlude",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "Alone At Prom",
+        "played_at": "21/03/2024 - 17:54:07"
+    },
+    {
+        "song_name": "Feel No Ways",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Views",
+        "played_at": "21/03/2024 - 17:52:10"
+    },
+    {
+        "song_name": "Feeling You",
+        "artists": [
+            "Harrison Storm"
+        ],
+        "album": "Feeling You",
+        "played_at": "21/03/2024 - 17:48:10"
+    },
+    {
+        "song_name": "Close To Me (feat. Gabzy & Krisirie)",
+        "artists": [
+            "melvitto",
+            "Gabzy",
+            "Krisirie"
+        ],
+        "album": "THENIGHTISYOUNG.",
+        "played_at": "21/03/2024 - 17:44:48"
+    },
+    {
+        "song_name": "Sundress",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "Sundress",
+        "played_at": "21/03/2024 - 17:41:57"
+    },
+    {
+        "song_name": "Be Easy",
+        "artists": [
+            "Odeal",
+            "brazy"
+        ],
+        "album": "Be Easy",
+        "played_at": "21/03/2024 - 17:39:18"
+    },
+    {
+        "song_name": "Big Black Car",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "This Empty Northern Hemisphere",
+        "played_at": "21/03/2024 - 17:37:05"
+    },
+    {
+        "song_name": "DUI",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "21/03/2024 - 17:33:27"
+    },
+    {
+        "song_name": "Imperfections (Interlude)",
+        "artists": [
+            "Pop Smoke"
+        ],
+        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "played_at": "21/03/2024 - 17:31:12"
+    },
+    {
+        "song_name": "INTOXYCATED (feat. Dave)",
+        "artists": [
+            "Oxlade",
+            "Dave"
+        ],
+        "album": "INTOXYCATED (feat. Dave)",
+        "played_at": "21/03/2024 - 17:29:35"
+    },
+    {
+        "song_name": "Fell In Love",
+        "artists": [
+            "Marshmello",
+            "Brent Faiyaz"
+        ],
+        "album": "Fell In Love",
+        "played_at": "21/03/2024 - 17:26:02"
+    },
+    {
         "song_name": "Usual",
         "artists": [
             "melvitto",
@@ -105,338 +429,5 @@
         ],
         "album": "Timeless",
         "played_at": "20/03/2024 - 17:26:23"
-    },
-    {
-        "song_name": "Peru - Remix",
-        "artists": [
-            "Fireboy DML",
-            "21 Savage",
-            "Blxst"
-        ],
-        "album": "Peru (Remix)",
-        "played_at": "20/03/2024 - 17:23:09"
-    },
-    {
-        "song_name": "All Of Us (Ashawo)",
-        "artists": [
-            "Fireboy DML"
-        ],
-        "album": "Playboy",
-        "played_at": "20/03/2024 - 17:20:01"
-    },
-    {
-        "song_name": "Second Sermon - Remix",
-        "artists": [
-            "Black Sherif",
-            "Burna Boy"
-        ],
-        "album": "The Villain I Never Was",
-        "played_at": "20/03/2024 - 17:16:57"
-    },
-    {
-        "song_name": "soso",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone",
-        "played_at": "20/03/2024 - 17:13:42"
-    },
-    {
-        "song_name": "soso",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Boy Alone",
-        "played_at": "20/03/2024 - 15:14:08"
-    },
-    {
-        "song_name": "Love Don't Cost A Dime (Re-Up)",
-        "artists": [
-            "Magixx",
-            "Ayra Starr"
-        ],
-        "album": "Love Don't Cost A Dime (Re-Up)",
-        "played_at": "20/03/2024 - 14:57:39"
-    },
-    {
-        "song_name": "Peace Be Unto You (PBUY)",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "20/03/2024 - 14:55:11"
-    },
-    {
-        "song_name": "Real Man",
-        "artists": [
-            "Korede Bello"
-        ],
-        "album": "Real Man",
-        "played_at": "20/03/2024 - 14:52:37"
-    },
-    {
-        "song_name": "Happiness (feat. Asake & Gunna)",
-        "artists": [
-            "Sarz",
-            "Asake",
-            "Gunna"
-        ],
-        "album": "Happiness (feat. Asake & Gunna)",
-        "played_at": "20/03/2024 - 14:49:42"
-    },
-    {
-        "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
-        "artists": [
-            "Metro Boomin",
-            "Swae Lee",
-            "Wizkid"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "20/03/2024 - 14:49:40"
-    },
-    {
-        "song_name": "Party No Dey Stop (with Zinoleesky)",
-        "artists": [
-            "Adekunle Gold",
-            "Zinoleesky"
-        ],
-        "album": "Tequila Ever After",
-        "played_at": "20/03/2024 - 14:46:46"
-    },
-    {
-        "song_name": "2 Sugar (feat. Ayra Starr)",
-        "artists": [
-            "Wizkid",
-            "Ayra Starr"
-        ],
-        "album": "More Love, Less Ego",
-        "played_at": "20/03/2024 - 14:43:57"
-    },
-    {
-        "song_name": "Dimension (feat. Skepta & Rema)",
-        "artists": [
-            "JAE5",
-            "Skepta",
-            "Rema"
-        ],
-        "album": "Dimension (feat. Skepta & Rema)",
-        "played_at": "20/03/2024 - 14:40:48"
-    },
-    {
-        "song_name": "Infinity (feat. Omah Lay)",
-        "artists": [
-            "Olamide",
-            "Omah Lay"
-        ],
-        "album": "Carpe Diem",
-        "played_at": "20/03/2024 - 14:36:54"
-    },
-    {
-        "song_name": "MOTO",
-        "artists": [
-            "Lojay"
-        ],
-        "album": "GANGSTER ROMANTIC",
-        "played_at": "20/03/2024 - 14:34:02"
-    },
-    {
-        "song_name": "Be Easy",
-        "artists": [
-            "Odeal",
-            "brazy"
-        ],
-        "album": "Be Easy",
-        "played_at": "20/03/2024 - 14:31:03"
-    },
-    {
-        "song_name": "Lonely At The Top",
-        "artists": [
-            "Asake"
-        ],
-        "album": "Work Of Art",
-        "played_at": "20/03/2024 - 14:28:50"
-    },
-    {
-        "song_name": "INTOXYCATED (feat. Dave)",
-        "artists": [
-            "Oxlade",
-            "Dave"
-        ],
-        "album": "INTOXYCATED (feat. Dave)",
-        "played_at": "20/03/2024 - 14:26:12"
-    },
-    {
-        "song_name": "Collabo",
-        "artists": [
-            "June Freedom"
-        ],
-        "album": "Anchor Baby",
-        "played_at": "20/03/2024 - 14:22:39"
-    },
-    {
-        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-        "artists": [
-            "Gunna",
-            "Young Thug"
-        ],
-        "album": "WUNNA",
-        "played_at": "20/03/2024 - 14:00:58"
-    },
-    {
-        "song_name": "Circo Loco",
-        "artists": [
-            "Drake",
-            "21 Savage"
-        ],
-        "album": "Her Loss",
-        "played_at": "20/03/2024 - 13:57:40"
-    },
-    {
-        "song_name": "Fuck Love",
-        "artists": [
-            "XXXTENTACION",
-            "Trippie Redd"
-        ],
-        "album": "17",
-        "played_at": "20/03/2024 - 13:53:43"
-    },
-    {
-        "song_name": "HIGHEST IN THE ROOM",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "HIGHEST IN THE ROOM",
-        "played_at": "20/03/2024 - 13:51:16"
-    },
-    {
-        "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
-        "artists": [
-            "XXXTENTACION",
-            "PnB Rock",
-            "Trippie Redd"
-        ],
-        "album": "Bad Vibes Forever",
-        "played_at": "20/03/2024 - 13:48:19"
-    },
-    {
-        "song_name": "24 (feat. Lil Baby)",
-        "artists": [
-            "Money Man",
-            "Lil Baby"
-        ],
-        "album": "Epidemic (Deluxe)",
-        "played_at": "20/03/2024 - 13:45:48"
-    },
-    {
-        "song_name": "Bad Bitches Wrk @ Taboo",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "Sorry 4 What",
-        "played_at": "20/03/2024 - 13:45:13"
-    },
-    {
-        "song_name": "24 (feat. Lil Baby)",
-        "artists": [
-            "Money Man",
-            "Lil Baby"
-        ],
-        "album": "Epidemic (Deluxe)",
-        "played_at": "20/03/2024 - 13:18:08"
-    },
-    {
-        "song_name": "Careless",
-        "artists": [
-            "Gyyps"
-        ],
-        "album": "Careless",
-        "played_at": "20/03/2024 - 13:06:06"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "20/03/2024 - 13:00:32"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "20/03/2024 - 12:57:28"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "20/03/2024 - 12:54:16"
-    },
-    {
-        "song_name": "Out Of Love (feat. Internet Money)",
-        "artists": [
-            "Lil Tecca",
-            "Internet Money"
-        ],
-        "album": "Virgo World",
-        "played_at": "20/03/2024 - 12:52:01"
-    },
-    {
-        "song_name": "Die Young (feat. 347aidan)",
-        "artists": [
-            "Sleepy Hallow",
-            "347aidan"
-        ],
-        "album": "Boy Meets World",
-        "played_at": "20/03/2024 - 12:49:27"
-    },
-    {
-        "song_name": "Faster",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Faster",
-        "played_at": "20/03/2024 - 12:44:53"
-    },
-    {
-        "song_name": "Hold On, We're Going Home",
-        "artists": [
-            "Drake",
-            "Majid Jordan"
-        ],
-        "album": "Nothing Was The Same (Deluxe)",
-        "played_at": "20/03/2024 - 12:42:43"
-    },
-    {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
-        "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
-        ],
-        "album": "UTOPIA",
-        "played_at": "20/03/2024 - 12:35:44"
-    },
-    {
-        "song_name": "BUTTERFLY EFFECT",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "20/03/2024 - 12:29:48"
-    },
-    {
-        "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-        "artists": [
-            "Metro Boomin",
-            "Future",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/03/2024 - 12:26:36"
     }
 ]
