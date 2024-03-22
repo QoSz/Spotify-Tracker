@@ -1,5 +1,15 @@
 [
     {
+        "song_name": "Gangsta",
+        "artists": [
+            "Free Nationals",
+            "A$AP Rocky",
+            "Anderson .Paak"
+        ],
+        "album": "Gangsta",
+        "played_at": "22/03/2024 - 08:29:55"
+    },
+    {
         "song_name": "I Gotta Feeling",
         "artists": [
             "Black Eyed Peas"
@@ -324,110 +334,104 @@
         "played_at": "21/03/2024 - 17:26:02"
     },
     {
-        "song_name": "Usual",
+        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
         "artists": [
-            "melvitto",
-            "Nonso Amadi"
+            "Metro Boomin",
+            "James Blake",
+            "A$AP Rocky",
+            "21 Savage"
         ],
-        "album": "soon.",
-        "played_at": "20/03/2024 - 18:09:22"
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "played_at": "21/03/2024 - 15:07:35"
     },
     {
-        "song_name": "Ta Ta Ta",
+        "song_name": "VULTURES",
         "artists": [
-            "Bayanni"
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
         ],
-        "album": "Bayanni",
-        "played_at": "20/03/2024 - 17:56:40"
+        "album": "VULTURES",
+        "played_at": "21/03/2024 - 14:55:12"
     },
     {
-        "song_name": "Omo Ope (feat. Olamide)",
+        "song_name": "BACK TO ME",
         "artists": [
-            "Asake",
-            "Olamide"
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign"
         ],
-        "album": "Omo Ope",
-        "played_at": "20/03/2024 - 17:54:00"
+        "album": "VULTURES 1",
+        "played_at": "21/03/2024 - 14:50:34"
     },
     {
-        "song_name": "Terminator",
+        "song_name": "Faucet Failure",
         "artists": [
-            "Asake"
+            "Ski Mask The Slump God"
         ],
-        "album": "Mr. Money With The Vibe",
-        "played_at": "20/03/2024 - 17:51:13"
+        "album": "STOKELEY",
+        "played_at": "21/03/2024 - 14:45:38"
     },
     {
-        "song_name": "Playboy",
+        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
         "artists": [
-            "Fireboy DML"
+            "benny blanco",
+            "Halsey",
+            "Khalid"
         ],
-        "album": "Playboy",
-        "played_at": "20/03/2024 - 17:48:37"
+        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+        "played_at": "21/03/2024 - 14:43:12"
     },
     {
-        "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+        "song_name": "Need 2",
         "artists": [
-            "Victony",
-            "Rema",
-            "Tempoe",
-            "Don Toliver"
+            "Pinegrove"
         ],
-        "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "played_at": "20/03/2024 - 17:45:09"
+        "album": "Everything So Far",
+        "played_at": "21/03/2024 - 14:40:19"
     },
     {
-        "song_name": "Trouble",
+        "song_name": "Gas Me Up (Diligent)",
         "artists": [
-            "melvitto",
-            "Gabzy"
+            "Skepta"
         ],
-        "album": "Trouble",
-        "played_at": "20/03/2024 - 17:41:29"
+        "album": "Gas Me Up (Diligent)",
+        "played_at": "21/03/2024 - 14:37:06"
     },
     {
-        "song_name": "Holy Ghost",
+        "song_name": "Mary",
         "artists": [
-            "Omah Lay"
+            "Alex G"
         ],
-        "album": "Holy Ghost",
-        "played_at": "20/03/2024 - 17:37:46"
+        "album": "Trick",
+        "played_at": "21/03/2024 - 14:34:15"
     },
     {
-        "song_name": "GWAGWALADA",
+        "song_name": "Scott and Ramona",
         "artists": [
-            "Bnxn",
-            "Kizz Daniel",
-            "Seyi Vibez"
+            "Lil Uzi Vert"
         ],
-        "album": "Sincerely, Benson",
-        "played_at": "20/03/2024 - 17:34:38"
+        "album": "Lil Uzi Vert vs. The World",
+        "played_at": "21/03/2024 - 14:27:58"
     },
     {
-        "song_name": "Close To Me (feat. Gabzy & Krisirie)",
+        "song_name": "MY EYES",
         "artists": [
-            "melvitto",
-            "Gabzy",
-            "Krisirie"
+            "Travis Scott"
         ],
-        "album": "THENIGHTISYOUNG.",
-        "played_at": "20/03/2024 - 17:31:29"
+        "album": "UTOPIA",
+        "played_at": "21/03/2024 - 14:24:16"
     },
     {
-        "song_name": "Basquiat",
+        "song_name": "Propeller (feat. Dave & BNXN)",
         "artists": [
-            "Asake"
+            "JAE5",
+            "Dave",
+            "Bnxn"
         ],
-        "album": "Work Of Art",
-        "played_at": "20/03/2024 - 17:28:38"
-    },
-    {
-        "song_name": "KANTE (feat. Fave)",
-        "artists": [
-            "Davido",
-            "Fave"
-        ],
-        "album": "Timeless",
-        "played_at": "20/03/2024 - 17:26:23"
+        "album": "Propeller (feat. Dave & BNXN)",
+        "played_at": "21/03/2024 - 14:20:04"
     }
 ]
