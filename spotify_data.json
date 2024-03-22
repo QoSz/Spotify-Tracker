@@ -1,5 +1,14 @@
 [
     {
+        "song_name": "Jashn-E-Bahaaraa",
+        "artists": [
+            "A.R. Rahman",
+            "Javed Ali"
+        ],
+        "album": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+        "played_at": "22/03/2024 - 18:53:48"
+    },
+    {
         "song_name": "Gangsta",
         "artists": [
             "Free Nationals",
@@ -423,15 +432,5 @@
         ],
         "album": "UTOPIA",
         "played_at": "21/03/2024 - 14:24:16"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "21/03/2024 - 14:20:04"
     }
 ]
