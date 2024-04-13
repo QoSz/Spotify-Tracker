@@ -1,5 +1,269 @@
 [
     {
+        "song_name": "south to west",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "DS4EVER",
+        "played_at": "13/04/2024 - 10:02:14"
+    },
+    {
+        "song_name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+        "artists": [
+            "Metro Boomin",
+            "A$AP Rocky",
+            "Takeoff"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "13/04/2024 - 10:01:06"
+    },
+    {
+        "song_name": "Coming for You (feat. A1 x J1)",
+        "artists": [
+            "SwitchOTR",
+            "A1 x J1"
+        ],
+        "album": "Coming for You (feat. A1 x J1)",
+        "played_at": "13/04/2024 - 09:57:57"
+    },
+    {
+        "song_name": "Drip Too Hard (Lil Baby & Gunna)",
+        "artists": [
+            "Lil Baby",
+            "Gunna"
+        ],
+        "album": "Drip Harder",
+        "played_at": "13/04/2024 - 09:54:58"
+    },
+    {
+        "song_name": "Headlines",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Take Care (Deluxe)",
+        "played_at": "13/04/2024 - 09:52:33"
+    },
+    {
+        "song_name": "Climate (feat. Offset)",
+        "artists": [
+            "BigXthaPlug",
+            "Offset"
+        ],
+        "album": "THE BIGGEST",
+        "played_at": "13/04/2024 - 09:48:37"
+    },
+    {
+        "song_name": "MAFIA",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ESCAPE PLAN / MAFIA",
+        "played_at": "13/04/2024 - 09:45:47"
+    },
+    {
+        "song_name": "Faster",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Faster",
+        "played_at": "13/04/2024 - 09:41:46"
+    },
+    {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "13/04/2024 - 09:39:37"
+    },
+    {
+        "song_name": "Knife Talk (with 21 Savage ft. Project Pat)",
+        "artists": [
+            "Drake",
+            "21 Savage",
+            "Project Pat"
+        ],
+        "album": "Certified Lover Boy",
+        "played_at": "13/04/2024 - 09:37:32"
+    },
+    {
+        "song_name": "Saint-Tropez",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "Hollywood's Bleeding",
+        "played_at": "13/04/2024 - 09:33:29"
+    },
+    {
+        "song_name": "YOSEMITE",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "13/04/2024 - 09:30:58"
+    },
+    {
+        "song_name": "Enough",
+        "artists": [
+            "Lil Mosey"
+        ],
+        "album": "Enough",
+        "played_at": "13/04/2024 - 09:28:28"
+    },
+    {
+        "song_name": "Dead or Alive",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "13/04/2024 - 09:25:48"
+    },
+    {
+        "song_name": "Jumbotron Shit Poppin",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Her Loss",
+        "played_at": "13/04/2024 - 09:23:46"
+    },
+    {
+        "song_name": "Pull Up (feat. 21 Savage)",
+        "artists": [
+            "Toosii",
+            "21 Savage"
+        ],
+        "album": "NAUJOUR",
+        "played_at": "13/04/2024 - 09:21:29"
+    },
+    {
+        "song_name": "Cooped Up / Return Of The Mack",
+        "artists": [
+            "Post Malone",
+            "Mark Morrison",
+            "Sickick"
+        ],
+        "album": "Cooped Up / Return Of The Mack",
+        "played_at": "13/04/2024 - 09:19:15"
+    },
+    {
+        "song_name": "Wandered To LA (with Justin Bieber)",
+        "artists": [
+            "Juice WRLD",
+            "Justin Bieber"
+        ],
+        "album": "Fighting Demons (Deluxe)",
+        "played_at": "13/04/2024 - 09:17:08"
+    },
+    {
+        "song_name": "DUI",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "13/04/2024 - 09:13:59"
+    },
+    {
+        "song_name": "What’s Next",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scary Hours 2",
+        "played_at": "13/04/2024 - 09:11:45"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "13/04/2024 - 09:08:47"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "13/04/2024 - 09:05:30"
+    },
+    {
+        "song_name": "Raindrops (Insane) [with Travis Scott]",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "13/04/2024 - 09:00:04"
+    },
+    {
+        "song_name": "Can't Die",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Legends Never Die",
+        "played_at": "13/04/2024 - 08:54:47"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "13/04/2024 - 08:51:44"
+    },
+    {
+        "song_name": "Treacherous Twins",
+        "artists": [
+            "Drake",
+            "21 Savage"
+        ],
+        "album": "Her Loss",
+        "played_at": "13/04/2024 - 08:50:05"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "13/04/2024 - 08:47:04"
+    },
+    {
+        "song_name": "back to the moon",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "13/04/2024 - 08:43:53"
+    },
+    {
+        "song_name": "Homecoming",
+        "artists": [
+            "Kanye West",
+            "Chris Martin"
+        ],
+        "album": "Graduation",
+        "played_at": "13/04/2024 - 08:40:40"
+    },
+    {
+        "song_name": "Go Hard 2.0",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Fighting Demons (Deluxe)",
+        "played_at": "13/04/2024 - 08:37:16"
+    },
+    {
+        "song_name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+        "artists": [
+            "A$AP Rocky",
+            "Joe Fox",
+            "Kanye West"
+        ],
+        "album": "AT.LONG.LAST.A$AP",
+        "played_at": "13/04/2024 - 08:33:40"
+    },
+    {
         "song_name": "WHARF TALK (feat. A$AP Rocky)",
         "artists": [
             "Tyler, The Creator",
@@ -171,269 +435,5 @@
         ],
         "album": "Larger Than Life",
         "played_at": "12/04/2024 - 08:57:09"
-    },
-    {
-        "song_name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-        "artists": [
-            "Metro Boomin",
-            "A$AP Rocky",
-            "Roisee"
-        ],
-        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "played_at": "12/04/2024 - 08:50:31"
-    },
-    {
-        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-        "artists": [
-            "A$AP Rocky",
-            "Skepta"
-        ],
-        "album": "TESTING",
-        "played_at": "12/04/2024 - 08:46:14"
-    },
-    {
-        "song_name": "Sundress",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "Sundress",
-        "played_at": "12/04/2024 - 08:42:49"
-    },
-    {
-        "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-        "artists": [
-            "A$AP Rocky",
-            "Imogen Heap",
-            "Clams Casino"
-        ],
-        "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-        "played_at": "12/04/2024 - 08:40:11"
-    },
-    {
-        "song_name": "Again",
-        "artists": [
-            "Wande Coal"
-        ],
-        "album": "Realms",
-        "played_at": "11/04/2024 - 13:05:32"
-    },
-    {
-        "song_name": "Replay",
-        "artists": [
-            "Tems"
-        ],
-        "album": "If Orange Was A Place",
-        "played_at": "11/04/2024 - 12:48:53"
-    },
-    {
-        "song_name": "KANTE (feat. Fave)",
-        "artists": [
-            "Davido",
-            "Fave"
-        ],
-        "album": "Timeless",
-        "played_at": "11/04/2024 - 12:45:52"
-    },
-    {
-        "song_name": "Ta Ta Ta",
-        "artists": [
-            "Bayanni"
-        ],
-        "album": "Bayanni",
-        "played_at": "11/04/2024 - 12:42:38"
-    },
-    {
-        "song_name": "Cheat On Me (feat. Dave)",
-        "artists": [
-            "Burna Boy",
-            "Dave"
-        ],
-        "album": "Cheat On Me (feat. Dave)",
-        "played_at": "11/04/2024 - 12:39:58"
-    },
-    {
-        "song_name": "Who Told You (feat. Drake)",
-        "artists": [
-            "J Hus",
-            "Drake"
-        ],
-        "album": "Beautiful And Brutal Yard",
-        "played_at": "11/04/2024 - 12:36:14"
-    },
-    {
-        "song_name": "Bad Influence",
-        "artists": [
-            "Omah Lay"
-        ],
-        "album": "Get Layd",
-        "played_at": "11/04/2024 - 12:32:45"
-    },
-    {
-        "song_name": "Shu-Peru",
-        "artists": [
-            "Kizz Daniel"
-        ],
-        "album": "Maverick",
-        "played_at": "11/04/2024 - 12:30:26"
-    },
-    {
-        "song_name": "System (feat. WizKid)",
-        "artists": [
-            "Dave",
-            "Wizkid"
-        ],
-        "album": "We're All Alone In This Together",
-        "played_at": "11/04/2024 - 12:28:06"
-    },
-    {
-        "song_name": "Be Easy",
-        "artists": [
-            "Odeal",
-            "brazy"
-        ],
-        "album": "Be Easy",
-        "played_at": "11/04/2024 - 12:25:04"
-    },
-    {
-        "song_name": "Infinity (feat. Omah Lay)",
-        "artists": [
-            "Olamide",
-            "Omah Lay"
-        ],
-        "album": "Carpe Diem",
-        "played_at": "11/04/2024 - 12:22:52"
-    },
-    {
-        "song_name": "All Of Us (Ashawo)",
-        "artists": [
-            "Fireboy DML"
-        ],
-        "album": "Playboy",
-        "played_at": "11/04/2024 - 12:19:59"
-    },
-    {
-        "song_name": "YOSEMITE",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "11/04/2024 - 09:28:54"
-    },
-    {
-        "song_name": "Mmhmm",
-        "artists": [
-            "BigXthaPlug"
-        ],
-        "album": "THE BIGGEST",
-        "played_at": "11/04/2024 - 09:18:04"
-    },
-    {
-        "song_name": "highway 95",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue (Deluxe)",
-        "played_at": "11/04/2024 - 09:16:04"
-    },
-    {
-        "song_name": "Jumbotron Shit Poppin",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Her Loss",
-        "played_at": "11/04/2024 - 09:14:32"
-    },
-    {
-        "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
-        "artists": [
-            "Lil Baby",
-            "Gunna",
-            "Drake"
-        ],
-        "album": "Drip Harder",
-        "played_at": "11/04/2024 - 09:12:14"
-    },
-    {
-        "song_name": "Our Time",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Virgo World",
-        "played_at": "11/04/2024 - 09:08:59"
-    },
-    {
-        "song_name": "What You Know Bout Love",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon",
-        "played_at": "11/04/2024 - 09:07:20"
-    },
-    {
-        "song_name": "Climate (feat. Offset)",
-        "artists": [
-            "BigXthaPlug",
-            "Offset"
-        ],
-        "album": "THE BIGGEST",
-        "played_at": "11/04/2024 - 09:04:40"
-    },
-    {
-        "song_name": "Search & Rescue",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Search & Rescue",
-        "played_at": "11/04/2024 - 09:01:49"
-    },
-    {
-        "song_name": "MAFIA",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ESCAPE PLAN / MAFIA",
-        "played_at": "11/04/2024 - 08:57:16"
-    },
-    {
-        "song_name": "Freestyle",
-        "artists": [
-            "Lil Baby"
-        ],
-        "album": "Too Hard",
-        "played_at": "11/04/2024 - 08:53:16"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "11/04/2024 - 08:50:34"
-    },
-    {
-        "song_name": "Coming for You (feat. A1 x J1)",
-        "artists": [
-            "SwitchOTR",
-            "A1 x J1"
-        ],
-        "album": "Coming for You (feat. A1 x J1)",
-        "played_at": "11/04/2024 - 08:48:18"
-    },
-    {
-        "song_name": "Motley Crew",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "Motley Crew",
-        "played_at": "11/04/2024 - 08:45:20"
-    },
-    {
-        "song_name": "Loop Hole (feat. 21 Savage)",
-        "artists": [
-            "Tee Grizzley",
-            "21 Savage"
-        ],
-        "album": "Tee's Coney Island",
-        "played_at": "11/04/2024 - 08:42:15"
     }
 ]
