@@ -1,5 +1,17 @@
 [
     {
+        "song_name": "VULTURES",
+        "artists": [
+            "¥$",
+            "Kanye West",
+            "Ty Dolla $ign",
+            "Bump J",
+            "Lil Durk"
+        ],
+        "album": "VULTURES",
+        "played_at": "13/04/2024 - 15:13:54"
+    },
+    {
         "song_name": "south to west",
         "artists": [
             "Gunna"
@@ -103,6 +115,14 @@
         "played_at": "13/04/2024 - 09:30:58"
     },
     {
+        "song_name": "What’s Next",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scary Hours 2",
+        "played_at": "13/04/2024 - 09:30:55"
+    },
+    {
         "song_name": "Enough",
         "artists": [
             "Lil Mosey"
@@ -169,6 +189,14 @@
         ],
         "album": "Scary Hours 2",
         "played_at": "13/04/2024 - 09:11:45"
+    },
+    {
+        "song_name": "5% TINT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "13/04/2024 - 09:11:21"
     },
     {
         "song_name": "5% TINT",
@@ -406,34 +434,5 @@
         ],
         "album": "LONG.LIVE.A$AP (Deluxe Version)",
         "played_at": "12/04/2024 - 09:10:07"
-    },
-    {
-        "song_name": "Love$ick (feat. A$AP Rocky)",
-        "artists": [
-            "Mura Masa",
-            "A$AP Rocky"
-        ],
-        "album": "Mura Masa",
-        "played_at": "12/04/2024 - 09:05:38"
-    },
-    {
-        "song_name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
-        "artists": [
-            "Durdenhauer",
-            "A$AP Rocky",
-            "Skepta"
-        ],
-        "album": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
-        "played_at": "12/04/2024 - 09:00:16"
-    },
-    {
-        "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
-        "artists": [
-            "Brent Faiyaz",
-            "N3WYRKLA",
-            "A$AP Rocky"
-        ],
-        "album": "Larger Than Life",
-        "played_at": "12/04/2024 - 08:57:09"
     }
 ]
