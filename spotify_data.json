@@ -1,5 +1,57 @@
 [
     {
+        "song_name": "Stick Season",
+        "artists": [
+            "Noah Kahan"
+        ],
+        "album": "Stick Season",
+        "played_at": "19/04/2024 - 20:24:11"
+    },
+    {
+        "song_name": "505",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "Favourite Worst Nightmare",
+        "played_at": "19/04/2024 - 20:21:08"
+    },
+    {
+        "song_name": "ay! (feat. Lil Wayne)",
+        "artists": [
+            "mgk",
+            "Lil Wayne"
+        ],
+        "album": "mainstream sellout",
+        "played_at": "19/04/2024 - 20:14:17"
+    },
+    {
+        "song_name": "Mary",
+        "artists": [
+            "Alex G"
+        ],
+        "album": "Trick",
+        "played_at": "19/04/2024 - 20:12:12"
+    },
+    {
+        "song_name": "LAST",
+        "artists": [
+            "Kyle Beats Collective",
+            "Matt Corman",
+            "TMRWNITE"
+        ],
+        "album": "LAST",
+        "played_at": "19/04/2024 - 20:07:27"
+    },
+    {
+        "song_name": "Drama (feat. Drake)",
+        "artists": [
+            "Roy Woods",
+            "Drake"
+        ],
+        "album": "Drama (feat. Drake) [Sped Up]",
+        "played_at": "19/04/2024 - 20:03:50"
+    },
+    {
         "song_name": "Shut up My Moms Calling - (Sped Up)",
         "artists": [
             "Hotel Ugly"
@@ -379,53 +431,5 @@
         ],
         "album": "Eastside (with Halsey & Khalid) [Acoustic]",
         "played_at": "14/04/2024 - 09:24:17"
-    },
-    {
-        "song_name": "Need 2",
-        "artists": [
-            "Pinegrove"
-        ],
-        "album": "Everything So Far",
-        "played_at": "14/04/2024 - 09:21:24"
-    },
-    {
-        "song_name": "Gas Me Up (Diligent)",
-        "artists": [
-            "Skepta"
-        ],
-        "album": "Gas Me Up (Diligent)",
-        "played_at": "14/04/2024 - 09:18:11"
-    },
-    {
-        "song_name": "Mary",
-        "artists": [
-            "Alex G"
-        ],
-        "album": "Trick",
-        "played_at": "14/04/2024 - 09:15:20"
-    },
-    {
-        "song_name": "San Luis",
-        "artists": [
-            "Gregory Alan Isakov"
-        ],
-        "album": "Evening Machines",
-        "played_at": "14/04/2024 - 09:11:48"
-    },
-    {
-        "song_name": "Scott and Ramona",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Lil Uzi Vert vs. The World",
-        "played_at": "14/04/2024 - 09:07:15"
-    },
-    {
-        "song_name": "MY EYES",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "UTOPIA",
-        "played_at": "14/04/2024 - 09:03:34"
     }
 ]
