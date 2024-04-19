@@ -1,5 +1,185 @@
 [
     {
+        "song_name": "Shut up My Moms Calling - (Sped Up)",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling (Sped up)",
+        "played_at": "19/04/2024 - 19:59:38"
+    },
+    {
+        "song_name": "Here",
+        "artists": [
+            "Alessia Cara"
+        ],
+        "album": "Know-It-All",
+        "played_at": "19/04/2024 - 19:57:22"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "19/04/2024 - 19:54:01"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "19/04/2024 - 19:51:47"
+    },
+    {
+        "song_name": "cross my heart",
+        "artists": [
+            "Artemas"
+        ],
+        "album": "pretty",
+        "played_at": "19/04/2024 - 19:50:08"
+    },
+    {
+        "song_name": "Over You",
+        "artists": [
+            "Madism",
+            "Philip Strand"
+        ],
+        "album": "Over You",
+        "played_at": "19/04/2024 - 19:47:40"
+    },
+    {
+        "song_name": "Lake Missoula",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "19/04/2024 - 19:45:18"
+    },
+    {
+        "song_name": "Feeling You",
+        "artists": [
+            "Harrison Storm"
+        ],
+        "album": "Feeling You",
+        "played_at": "19/04/2024 - 19:43:16"
+    },
+    {
+        "song_name": "Homecoming",
+        "artists": [
+            "Kanye West",
+            "Chris Martin"
+        ],
+        "album": "Graduation",
+        "played_at": "19/04/2024 - 19:39:54"
+    },
+    {
+        "song_name": "Pretty Little Fears (feat. J. Cole)",
+        "artists": [
+            "6LACK",
+            "J. Cole"
+        ],
+        "album": "East Atlanta Love Letter",
+        "played_at": "19/04/2024 - 19:36:30"
+    },
+    {
+        "song_name": "Feeling For You",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Living In A Haze",
+        "played_at": "19/04/2024 - 19:32:29"
+    },
+    {
+        "song_name": "All Time Low",
+        "artists": [
+            "Jon Bellion"
+        ],
+        "album": "The Human Condition",
+        "played_at": "19/04/2024 - 19:28:47"
+    },
+    {
+        "song_name": "all the kids are depressed",
+        "artists": [
+            "Jeremy Zucker"
+        ],
+        "album": "glisten",
+        "played_at": "19/04/2024 - 19:25:09"
+    },
+    {
+        "song_name": "Burn",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Fighting Demons (Deluxe)",
+        "played_at": "19/04/2024 - 19:22:19"
+    },
+    {
+        "song_name": "3:15 (Breathe)",
+        "artists": [
+            "Russ"
+        ],
+        "album": "3:15 (Breathe)",
+        "played_at": "19/04/2024 - 19:18:41"
+    },
+    {
+        "song_name": "Dull",
+        "artists": [
+            "Asake"
+        ],
+        "album": "Mr. Money With The Vibe",
+        "played_at": "19/04/2024 - 19:10:22"
+    },
+    {
+        "song_name": "Sundress",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "Sundress",
+        "played_at": "19/04/2024 - 19:08:42"
+    },
+    {
+        "song_name": "Be Easy",
+        "artists": [
+            "Odeal",
+            "brazy"
+        ],
+        "album": "Be Easy",
+        "played_at": "19/04/2024 - 19:06:03"
+    },
+    {
+        "song_name": "I LIKE",
+        "artists": [
+            "Tory Lanez"
+        ],
+        "album": "I LIKE",
+        "played_at": "19/04/2024 - 19:03:50"
+    },
+    {
+        "song_name": "DUI",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "19/04/2024 - 19:01:36"
+    },
+    {
+        "song_name": "Shut up My Moms Calling",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling",
+        "played_at": "19/04/2024 - 18:59:21"
+    },
+    {
+        "song_name": "Push Ups",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Push Ups",
+        "played_at": "19/04/2024 - 18:43:11"
+    },
+    {
         "song_name": "Pain 1993 (with Playboi Carti)",
         "artists": [
             "Drake",
@@ -247,201 +427,5 @@
         ],
         "album": "UTOPIA",
         "played_at": "14/04/2024 - 09:03:34"
-    },
-    {
-        "song_name": "Propeller (feat. Dave & BNXN)",
-        "artists": [
-            "JAE5",
-            "Dave",
-            "Bnxn"
-        ],
-        "album": "Propeller (feat. Dave & BNXN)",
-        "played_at": "14/04/2024 - 08:59:22"
-    },
-    {
-        "song_name": "Imperfections (Interlude)",
-        "artists": [
-            "Pop Smoke"
-        ],
-        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "played_at": "14/04/2024 - 08:55:56"
-    },
-    {
-        "song_name": "Same Old Story",
-        "artists": [
-            "Skepta"
-        ],
-        "album": "Ignorance is Bliss",
-        "played_at": "14/04/2024 - 08:54:08"
-    },
-    {
-        "song_name": "500lbs",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC",
-        "played_at": "14/04/2024 - 08:50:47"
-    },
-    {
-        "song_name": "Gangsta",
-        "artists": [
-            "Free Nationals",
-            "A$AP Rocky",
-            "Anderson .Paak"
-        ],
-        "album": "Gangsta",
-        "played_at": "14/04/2024 - 08:48:22"
-    },
-    {
-        "song_name": "Shots",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "14/04/2024 - 08:45:07"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "14/04/2024 - 08:42:18"
-    },
-    {
-        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-        "artists": [
-            "Gunna",
-            "Young Thug"
-        ],
-        "album": "WUNNA",
-        "played_at": "14/04/2024 - 08:39:19"
-    },
-    {
-        "song_name": "Scars To Your Beautiful",
-        "artists": [
-            "Alessia Cara"
-        ],
-        "album": "Know-It-All (Deluxe)",
-        "played_at": "14/04/2024 - 08:36:02"
-    },
-    {
-        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "James Blake",
-            "A$AP Rocky",
-            "21 Savage"
-        ],
-        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "played_at": "13/04/2024 - 15:26:27"
-    },
-    {
-        "song_name": "VULTURES",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign",
-            "Bump J",
-            "Lil Durk"
-        ],
-        "album": "VULTURES",
-        "played_at": "13/04/2024 - 15:13:54"
-    },
-    {
-        "song_name": "south to west",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "DS4EVER",
-        "played_at": "13/04/2024 - 10:02:14"
-    },
-    {
-        "song_name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
-        "artists": [
-            "Metro Boomin",
-            "A$AP Rocky",
-            "Takeoff"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "13/04/2024 - 10:01:06"
-    },
-    {
-        "song_name": "Coming for You (feat. A1 x J1)",
-        "artists": [
-            "SwitchOTR",
-            "A1 x J1"
-        ],
-        "album": "Coming for You (feat. A1 x J1)",
-        "played_at": "13/04/2024 - 09:57:57"
-    },
-    {
-        "song_name": "Drip Too Hard (Lil Baby & Gunna)",
-        "artists": [
-            "Lil Baby",
-            "Gunna"
-        ],
-        "album": "Drip Harder",
-        "played_at": "13/04/2024 - 09:54:58"
-    },
-    {
-        "song_name": "Headlines",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Take Care (Deluxe)",
-        "played_at": "13/04/2024 - 09:52:33"
-    },
-    {
-        "song_name": "Climate (feat. Offset)",
-        "artists": [
-            "BigXthaPlug",
-            "Offset"
-        ],
-        "album": "THE BIGGEST",
-        "played_at": "13/04/2024 - 09:48:37"
-    },
-    {
-        "song_name": "MAFIA",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ESCAPE PLAN / MAFIA",
-        "played_at": "13/04/2024 - 09:45:47"
-    },
-    {
-        "song_name": "Faster",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Faster",
-        "played_at": "13/04/2024 - 09:41:46"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "13/04/2024 - 09:39:37"
-    },
-    {
-        "song_name": "Knife Talk (with 21 Savage ft. Project Pat)",
-        "artists": [
-            "Drake",
-            "21 Savage",
-            "Project Pat"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "13/04/2024 - 09:37:32"
-    },
-    {
-        "song_name": "Saint-Tropez",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "Hollywood's Bleeding",
-        "played_at": "13/04/2024 - 09:33:29"
     }
 ]
