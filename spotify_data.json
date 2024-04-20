@@ -1,5 +1,56 @@
 [
     {
+        "song_name": "ANGELS & DEMONS",
+        "artists": [
+            "jxdn"
+        ],
+        "album": "Tell Me About Tomorrow",
+        "played_at": "19/04/2024 - 20:41:42"
+    },
+    {
+        "song_name": "Think Fast (feat. Weezer)",
+        "artists": [
+            "Dominic Fike",
+            "Weezer"
+        ],
+        "album": "Sunburn",
+        "played_at": "19/04/2024 - 20:39:00"
+    },
+    {
+        "song_name": "rose",
+        "artists": [
+            "jaydes"
+        ],
+        "album": "ghetto cupid",
+        "played_at": "19/04/2024 - 20:35:18"
+    },
+    {
+        "song_name": "Hands up!",
+        "artists": [
+            "6arelyhuman",
+            "kets4eki",
+            "Pixel Hood"
+        ],
+        "album": "Sassy Scene",
+        "played_at": "19/04/2024 - 20:33:11"
+    },
+    {
+        "song_name": "Freaking Out the Neighborhood",
+        "artists": [
+            "Mac DeMarco"
+        ],
+        "album": "2",
+        "played_at": "19/04/2024 - 20:30:55"
+    },
+    {
+        "song_name": "Come a Little Closer",
+        "artists": [
+            "Cage The Elephant"
+        ],
+        "album": "Melophobia",
+        "played_at": "19/04/2024 - 20:28:01"
+    },
+    {
         "song_name": "Stick Season",
         "artists": [
             "Noah Kahan"
@@ -371,65 +422,5 @@
         ],
         "album": "Mr. Morale & The Big Steppers",
         "played_at": "16/04/2024 - 15:09:50"
-    },
-    {
-        "song_name": "Numb",
-        "artists": [
-            "Marshmello",
-            "Khalid"
-        ],
-        "album": "Numb",
-        "played_at": "16/04/2024 - 15:06:33"
-    },
-    {
-        "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-        "artists": [
-            "Metro Boomin",
-            "James Blake",
-            "A$AP Rocky",
-            "21 Savage"
-        ],
-        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "played_at": "14/04/2024 - 09:52:18"
-    },
-    {
-        "song_name": "VULTURES",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign",
-            "Bump J",
-            "Lil Durk"
-        ],
-        "album": "VULTURES",
-        "played_at": "14/04/2024 - 09:36:35"
-    },
-    {
-        "song_name": "BACK TO ME",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign"
-        ],
-        "album": "VULTURES 1",
-        "played_at": "14/04/2024 - 09:31:57"
-    },
-    {
-        "song_name": "Faucet Failure",
-        "artists": [
-            "Ski Mask The Slump God"
-        ],
-        "album": "STOKELEY",
-        "played_at": "14/04/2024 - 09:27:01"
-    },
-    {
-        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
-        "artists": [
-            "benny blanco",
-            "Halsey",
-            "Khalid"
-        ],
-        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
-        "played_at": "14/04/2024 - 09:24:17"
     }
 ]
