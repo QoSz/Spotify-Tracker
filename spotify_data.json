@@ -1,5 +1,162 @@
 [
     {
+        "song_name": "The Adults Are Talking",
+        "artists": [
+            "The Strokes"
+        ],
+        "album": "The New Abnormal",
+        "played_at": "20/04/2024 - 21:12:03"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "20/04/2024 - 21:00:31"
+    },
+    {
+        "song_name": "Safe In Your Skin",
+        "artists": [
+            "Title Fight"
+        ],
+        "album": "Shed",
+        "played_at": "20/04/2024 - 20:56:25"
+    },
+    {
+        "song_name": "Snap Out Of It",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "AM",
+        "played_at": "20/04/2024 - 20:53:51"
+    },
+    {
+        "song_name": "Jealous",
+        "artists": [
+            "Eyedress"
+        ],
+        "album": "Jealous",
+        "played_at": "20/04/2024 - 20:50:37"
+    },
+    {
+        "song_name": "forget me too (feat. Halsey)",
+        "artists": [
+            "mgk",
+            "Halsey"
+        ],
+        "album": "Tickets To My Downfall",
+        "played_at": "20/04/2024 - 20:48:34"
+    },
+    {
+        "song_name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "artists": [
+            "44phantom",
+            "mgk"
+        ],
+        "album": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "played_at": "20/04/2024 - 20:45:42"
+    },
+    {
+        "song_name": "Notion",
+        "artists": [
+            "The Rare Occasions"
+        ],
+        "album": "Notion",
+        "played_at": "20/04/2024 - 20:43:13"
+    },
+    {
+        "song_name": "Me and Your Mama",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "album": "\"Awaken, My Love!\"",
+        "played_at": "20/04/2024 - 20:39:57"
+    },
+    {
+        "song_name": "Consume (feat. Goon Des Garcons)",
+        "artists": [
+            "Chase Atlantic",
+            "GOON DES GARCONS*"
+        ],
+        "album": "Chase Atlantic",
+        "played_at": "20/04/2024 - 20:33:37"
+    },
+    {
+        "song_name": "You Get Me So High",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "20/04/2024 - 20:26:59"
+    },
+    {
+        "song_name": "ANGELS & DEMONS",
+        "artists": [
+            "jxdn"
+        ],
+        "album": "Tell Me About Tomorrow",
+        "played_at": "20/04/2024 - 20:24:24"
+    },
+    {
+        "song_name": "505",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "Favourite Worst Nightmare",
+        "played_at": "20/04/2024 - 20:20:16"
+    },
+    {
+        "song_name": "Freaking Out the Neighborhood",
+        "artists": [
+            "Mac DeMarco"
+        ],
+        "album": "2",
+        "played_at": "20/04/2024 - 20:16:03"
+    },
+    {
+        "song_name": "Think Fast (feat. Weezer)",
+        "artists": [
+            "Dominic Fike",
+            "Weezer"
+        ],
+        "album": "Sunburn",
+        "played_at": "20/04/2024 - 20:13:07"
+    },
+    {
+        "song_name": "Mary",
+        "artists": [
+            "Alex G"
+        ],
+        "album": "Trick",
+        "played_at": "20/04/2024 - 20:09:24"
+    },
+    {
+        "song_name": "ay! (feat. Lil Wayne)",
+        "artists": [
+            "mgk",
+            "Lil Wayne"
+        ],
+        "album": "mainstream sellout",
+        "played_at": "20/04/2024 - 20:06:03"
+    },
+    {
+        "song_name": "rose",
+        "artists": [
+            "jaydes"
+        ],
+        "album": "ghetto cupid",
+        "played_at": "20/04/2024 - 20:03:58"
+    },
+    {
+        "song_name": "Stick Season",
+        "artists": [
+            "Noah Kahan"
+        ],
+        "album": "Stick Season",
+        "played_at": "20/04/2024 - 20:01:52"
+    },
+    {
         "song_name": "1, 2, 3, 4",
         "artists": [
             "Plain White T's"
@@ -260,163 +417,5 @@
         ],
         "album": "Her Loss",
         "played_at": "20/04/2024 - 12:47:53"
-    },
-    {
-        "song_name": "Jumbotron Shit Poppin",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Her Loss",
-        "played_at": "20/04/2024 - 12:17:07"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "20/04/2024 - 12:14:26"
-    },
-    {
-        "song_name": "Scott and Ramona",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Lil Uzi Vert vs. The World",
-        "played_at": "20/04/2024 - 12:12:11"
-    },
-    {
-        "song_name": "Around Me (feat. Don Toliver)",
-        "artists": [
-            "Metro Boomin",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/04/2024 - 12:08:29"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "20/04/2024 - 11:15:28"
-    },
-    {
-        "song_name": "LAST",
-        "artists": [
-            "Kyle Beats Collective",
-            "Matt Corman",
-            "TMRWNITE"
-        ],
-        "album": "LAST",
-        "played_at": "20/04/2024 - 11:13:13"
-    },
-    {
-        "song_name": "Scott and Ramona",
-        "artists": [
-            "Lil Uzi Vert"
-        ],
-        "album": "Lil Uzi Vert vs. The World",
-        "played_at": "20/04/2024 - 11:11:18"
-    },
-    {
-        "song_name": "Around Me (feat. Don Toliver)",
-        "artists": [
-            "Metro Boomin",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/04/2024 - 11:07:37"
-    },
-    {
-        "song_name": "Around Me (feat. Don Toliver)",
-        "artists": [
-            "Metro Boomin",
-            "Don Toliver"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "20/04/2024 - 11:04:26"
-    },
-    {
-        "song_name": "MELTDOWN (feat. Drake)",
-        "artists": [
-            "Travis Scott",
-            "Drake"
-        ],
-        "album": "UTOPIA",
-        "played_at": "20/04/2024 - 11:01:33"
-    },
-    {
-        "song_name": "Morning Sunset",
-        "artists": [
-            "Eve Tham"
-        ],
-        "album": "Market",
-        "played_at": "20/04/2024 - 10:55:30"
-    },
-    {
-        "song_name": "Quantum Solitude",
-        "artists": [
-            "Relaxed"
-        ],
-        "album": "Cryptic Aria",
-        "played_at": "20/04/2024 - 10:52:52"
-    },
-    {
-        "song_name": "Transfiguration",
-        "artists": [
-            "William Augusto"
-        ],
-        "album": "Lofi & Hope, Vol. 2",
-        "played_at": "20/04/2024 - 10:47:36"
-    },
-    {
-        "song_name": "Chillaxin",
-        "artists": [
-            "Relaxed"
-        ],
-        "album": "After Hours",
-        "played_at": "20/04/2024 - 10:45:32"
-    },
-    {
-        "song_name": "Observations From The Space",
-        "artists": [
-            "Chill The Cat"
-        ],
-        "album": "Observations From The Space",
-        "played_at": "20/04/2024 - 10:40:19"
-    },
-    {
-        "song_name": "Heavenly Hush",
-        "artists": [
-            "Relaxed"
-        ],
-        "album": "Ambient Lullaby",
-        "played_at": "20/04/2024 - 10:38:20"
-    },
-    {
-        "song_name": "Treasured Memories (From \"Kingdom Hearts\") [Lofi Version]",
-        "artists": [
-            "Slofi"
-        ],
-        "album": "Kingdom Hearts Lofi, Vol. 1",
-        "played_at": "20/04/2024 - 10:33:09"
-    },
-    {
-        "song_name": "Serene Sundays",
-        "artists": [
-            "Relaxed"
-        ],
-        "album": "Mystic Echoes",
-        "played_at": "20/04/2024 - 10:31:46"
-    },
-    {
-        "song_name": "Cold Leftovers",
-        "artists": [
-            "Khinox"
-        ],
-        "album": "Letting Go",
-        "played_at": "20/04/2024 - 10:26:23"
     }
 ]
