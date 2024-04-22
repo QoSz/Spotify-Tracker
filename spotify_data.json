@@ -1,5 +1,338 @@
 [
     {
+        "song_name": "THRU THE NIGHT (feat. Bryson Tiller)",
+        "artists": [
+            "Jack Harlow",
+            "Bryson Tiller"
+        ],
+        "album": "Confetti",
+        "played_at": "22/04/2024 - 21:58:40"
+    },
+    {
+        "song_name": "Overdue (with Travis Scott)",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "played_at": "22/04/2024 - 21:47:59"
+    },
+    {
+        "song_name": "COOLER THAN A BITCH (feat. Roddy Ricch)",
+        "artists": [
+            "Gunna",
+            "Roddy Ricch"
+        ],
+        "album": "WUNNA",
+        "played_at": "22/04/2024 - 21:45:13"
+    },
+    {
+        "song_name": "Make Believe",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Death Race For Love (Bonus Track Version)",
+        "played_at": "22/04/2024 - 21:41:56"
+    },
+    {
+        "song_name": "Gyalchester",
+        "artists": [
+            "Drake"
+        ],
+        "album": "More Life",
+        "played_at": "22/04/2024 - 21:39:33"
+    },
+    {
+        "song_name": "SEASIDE (feat. iann dior)",
+        "artists": [
+            "Lil Tecca",
+            "iann dior"
+        ],
+        "album": "We Love You Tecca 2",
+        "played_at": "22/04/2024 - 21:36:24"
+    },
+    {
+        "song_name": "Exchange",
+        "artists": [
+            "Bryson Tiller"
+        ],
+        "album": "T R A P S O U L",
+        "played_at": "22/04/2024 - 21:34:11"
+    },
+    {
+        "song_name": "Jocelyn Flores",
+        "artists": [
+            "XXXTENTACION"
+        ],
+        "album": "17",
+        "played_at": "22/04/2024 - 21:30:56"
+    },
+    {
+        "song_name": "Way Out (feat. Big Sean)",
+        "artists": [
+            "Jack Harlow",
+            "Big Sean"
+        ],
+        "album": "Thats What They All Say",
+        "played_at": "22/04/2024 - 21:28:57"
+    },
+    {
+        "song_name": "Mood (feat. iann dior)",
+        "artists": [
+            "24kGoldn",
+            "iann dior"
+        ],
+        "album": "El Dorado",
+        "played_at": "22/04/2024 - 21:26:07"
+    },
+    {
+        "song_name": "Jumbotron Shit Poppin",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Her Loss",
+        "played_at": "22/04/2024 - 21:23:46"
+    },
+    {
+        "song_name": "Make It Back",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "played_at": "22/04/2024 - 21:21:29"
+    },
+    {
+        "song_name": "Prada Dem (feat. Offset)",
+        "artists": [
+            "Gunna",
+            "Offset"
+        ],
+        "album": "Prada Dem (feat. Offset)",
+        "played_at": "22/04/2024 - 21:19:46"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "22/04/2024 - 21:17:00"
+    },
+    {
+        "song_name": "Courtesy",
+        "artists": [
+            "Money Man"
+        ],
+        "album": "Epidemic",
+        "played_at": "22/04/2024 - 21:15:21"
+    },
+    {
+        "song_name": "Blue Bills (feat. $NOT & Fenix Flexin)",
+        "artists": [
+            "DJ Scheme",
+            "$NOT",
+            "Fenix Flexin"
+        ],
+        "album": "FAMILY",
+        "played_at": "22/04/2024 - 21:13:11"
+    },
+    {
+        "song_name": "Talk To Me",
+        "artists": [
+            "Drakeo the Ruler",
+            "Drake"
+        ],
+        "album": "The Truth Hurts",
+        "played_at": "22/04/2024 - 21:11:31"
+    },
+    {
+        "song_name": "Mob Ties",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scorpion",
+        "played_at": "22/04/2024 - 21:07:42"
+    },
+    {
+        "song_name": "You Wouldn't Understand",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Fighting Demons (Deluxe)",
+        "played_at": "22/04/2024 - 21:04:17"
+    },
+    {
+        "song_name": "Down With Me",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC (Bonus)",
+        "played_at": "22/04/2024 - 21:01:26"
+    },
+    {
+        "song_name": "fukumean",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "22/04/2024 - 20:59:25"
+    },
+    {
+        "song_name": "Let Go",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "22/04/2024 - 20:57:20"
+    },
+    {
+        "song_name": "Whatever She Wants",
+        "artists": [
+            "Bryson Tiller"
+        ],
+        "album": "Whatever She Wants",
+        "played_at": "22/04/2024 - 20:54:23"
+    },
+    {
+        "song_name": "Pain 1993 (with Playboi Carti)",
+        "artists": [
+            "Drake",
+            "Playboi Carti"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "22/04/2024 - 20:51:41"
+    },
+    {
+        "song_name": "Who Needs Love",
+        "artists": [
+            "Trippie Redd"
+        ],
+        "album": "A Love Letter To You 4",
+        "played_at": "22/04/2024 - 20:49:12"
+    },
+    {
+        "song_name": "500lbs",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "22/04/2024 - 20:46:33"
+    },
+    {
+        "song_name": "back to the moon",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "22/04/2024 - 20:44:08"
+    },
+    {
+        "song_name": "Blood On My Jeans",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Legends Never Die",
+        "played_at": "22/04/2024 - 20:40:55"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "22/04/2024 - 20:38:19"
+    },
+    {
+        "song_name": "Can’t Take A Joke",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Scorpion",
+        "played_at": "22/04/2024 - 20:35:09"
+    },
+    {
+        "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "AT.LONG.LAST.A$AP",
+        "played_at": "22/04/2024 - 20:32:24"
+    },
+    {
+        "song_name": "Shots",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "22/04/2024 - 20:30:17"
+    },
+    {
+        "song_name": "Glo’d Up",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "played_at": "22/04/2024 - 20:24:34"
+    },
+    {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "22/04/2024 - 20:21:16"
+    },
+    {
+        "song_name": "ONE CALL",
+        "artists": [
+            "Rich Amiri"
+        ],
+        "album": "Ghetto Fabulous",
+        "played_at": "22/04/2024 - 20:20:48"
+    },
+    {
+        "song_name": "Screw Juice",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Legends Never Die",
+        "played_at": "22/04/2024 - 20:11:13"
+    },
+    {
+        "song_name": "Pain 1993 (with Playboi Carti)",
+        "artists": [
+            "Drake",
+            "Playboi Carti"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "22/04/2024 - 20:08:12"
+    },
+    {
+        "song_name": "500lbs",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "22/04/2024 - 20:05:43"
+    },
+    {
+        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+        "artists": [
+            "Gunna",
+            "Young Thug"
+        ],
+        "album": "WUNNA",
+        "played_at": "22/04/2024 - 20:03:18"
+    },
+    {
+        "song_name": "Glo’d Up",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "played_at": "22/04/2024 - 20:00:00"
+    },
+    {
         "song_name": "IMY2 (with Kid Cudi)",
         "artists": [
             "Drake",
@@ -83,338 +416,5 @@
         ],
         "album": "Fighting Demons (Deluxe)",
         "played_at": "22/04/2024 - 19:28:21"
-    },
-    {
-        "song_name": "Ransom",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 19:23:09"
-    },
-    {
-        "song_name": "Can't Die",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 19:06:30"
-    },
-    {
-        "song_name": "WHATS POPPIN",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Sweet Action",
-        "played_at": "22/04/2024 - 19:03:27"
-    },
-    {
-        "song_name": "Go Hard 2.0",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Fighting Demons (Deluxe)",
-        "played_at": "22/04/2024 - 19:01:06"
-    },
-    {
-        "song_name": "Chicago Freestyle (feat. Giveon)",
-        "artists": [
-            "Drake",
-            "Giveon"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "22/04/2024 - 18:57:31"
-    },
-    {
-        "song_name": "Who Shot Cupid?",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Death Race For Love (Bonus Track Version)",
-        "played_at": "22/04/2024 - 18:53:51"
-    },
-    {
-        "song_name": "Party Girl",
-        "artists": [
-            "StaySolidRocky"
-        ],
-        "album": "Fallin'",
-        "played_at": "22/04/2024 - 18:50:15"
-    },
-    {
-        "song_name": "Man Of The Year",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 18:47:47"
-    },
-    {
-        "song_name": "Live This Wild",
-        "artists": [
-            "Lil Mosey"
-        ],
-        "album": "Certified Hitmaker",
-        "played_at": "22/04/2024 - 18:45:30"
-    },
-    {
-        "song_name": "Already Dead",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Fighting Demons (Deluxe)",
-        "played_at": "22/04/2024 - 18:43:27"
-    },
-    {
-        "song_name": "2055",
-        "artists": [
-            "Sleepy Hallow"
-        ],
-        "album": "Still Sleep?",
-        "played_at": "22/04/2024 - 18:39:35"
-    },
-    {
-        "song_name": "Moon & Stars (feat. Maggie Lindemann)",
-        "artists": [
-            "$NOT",
-            "Maggie Lindemann"
-        ],
-        "album": "- TRAGEDY +",
-        "played_at": "22/04/2024 - 18:37:30"
-    },
-    {
-        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-        "artists": [
-            "A$AP Rocky",
-            "Skepta"
-        ],
-        "album": "TESTING",
-        "played_at": "22/04/2024 - 18:34:22"
-    },
-    {
-        "song_name": "Used To",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Goodbye & Good Riddance",
-        "played_at": "22/04/2024 - 18:30:57"
-    },
-    {
-        "song_name": "Die Young (feat. 347aidan)",
-        "artists": [
-            "Sleepy Hallow",
-            "347aidan"
-        ],
-        "album": "Boy Meets World",
-        "played_at": "22/04/2024 - 18:28:00"
-    },
-    {
-        "song_name": "10 Feet",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Death Race For Love (Bonus Track Version)",
-        "played_at": "22/04/2024 - 18:25:31"
-    },
-    {
-        "song_name": "Love Me",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 18:18:43"
-    },
-    {
-        "song_name": "Can’t Take A Joke",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "22/04/2024 - 18:16:46"
-    },
-    {
-        "song_name": "Out Of Love (feat. Internet Money)",
-        "artists": [
-            "Lil Tecca",
-            "Internet Money"
-        ],
-        "album": "Virgo World",
-        "played_at": "22/04/2024 - 18:14:02"
-    },
-    {
-        "song_name": "Feeling",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Death Race For Love (Bonus Track Version)",
-        "played_at": "22/04/2024 - 18:11:27"
-    },
-    {
-        "song_name": "Drip Too Hard (Lil Baby & Gunna)",
-        "artists": [
-            "Lil Baby",
-            "Gunna"
-        ],
-        "album": "Drip Harder",
-        "played_at": "22/04/2024 - 18:08:05"
-    },
-    {
-        "song_name": "Wandered To LA (with Justin Bieber)",
-        "artists": [
-            "Juice WRLD",
-            "Justin Bieber"
-        ],
-        "album": "Fighting Demons (Deluxe)",
-        "played_at": "22/04/2024 - 18:05:39"
-    },
-    {
-        "song_name": "Wants and Needs (feat. Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Scary Hours 2",
-        "played_at": "22/04/2024 - 18:02:30"
-    },
-    {
-        "song_name": "DUI",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 17:59:17"
-    },
-    {
-        "song_name": "Did It Again",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 17:57:02"
-    },
-    {
-        "song_name": "infinity (888) - feat. Joey Bada$$",
-        "artists": [
-            "XXXTENTACION",
-            "Joey Bada$$"
-        ],
-        "album": "?",
-        "played_at": "22/04/2024 - 17:55:05"
-    },
-    {
-        "song_name": "Our Time",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Virgo World",
-        "played_at": "22/04/2024 - 17:52:08"
-    },
-    {
-        "song_name": "fukumean",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "22/04/2024 - 17:50:29"
-    },
-    {
-        "song_name": "Shots",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 17:48:24"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "22/04/2024 - 17:46:33"
-    },
-    {
-        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-        "artists": [
-            "Gunna",
-            "Young Thug"
-        ],
-        "album": "WUNNA",
-        "played_at": "22/04/2024 - 17:44:04"
-    },
-    {
-        "song_name": "500lbs",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC",
-        "played_at": "22/04/2024 - 17:40:46"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "22/04/2024 - 17:38:20"
-    },
-    {
-        "song_name": "Trouble",
-        "artists": [
-            "melvitto",
-            "Gabzy"
-        ],
-        "album": "Trouble",
-        "played_at": "22/04/2024 - 10:25:21"
-    },
-    {
-        "song_name": "...The Make Up",
-        "artists": [
-            "Tory Lanez"
-        ],
-        "album": "PLAYBOY",
-        "played_at": "22/04/2024 - 10:21:37"
-    },
-    {
-        "song_name": "Feeling You",
-        "artists": [
-            "Harrison Storm"
-        ],
-        "album": "Feeling You",
-        "played_at": "22/04/2024 - 10:17:40"
-    },
-    {
-        "song_name": "Beat the Odds",
-        "artists": [
-            "Lil Tjay"
-        ],
-        "album": "Beat the Odds",
-        "played_at": "22/04/2024 - 10:14:18"
-    },
-    {
-        "song_name": "3:15 (Breathe)",
-        "artists": [
-            "Russ"
-        ],
-        "album": "3:15 (Breathe)",
-        "played_at": "22/04/2024 - 10:11:47"
-    },
-    {
-        "song_name": "cross my heart",
-        "artists": [
-            "Artemas"
-        ],
-        "album": "pretty",
-        "played_at": "22/04/2024 - 10:08:43"
-    },
-    {
-        "song_name": "Chicago Freestyle (feat. Giveon)",
-        "artists": [
-            "Drake",
-            "Giveon"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "22/04/2024 - 10:06:16"
     }
 ]
