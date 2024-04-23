@@ -1,5 +1,200 @@
 [
     {
+        "song_name": "Face 2 Face",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Face 2 Face",
+        "played_at": "23/04/2024 - 09:00:19"
+    },
+    {
+        "song_name": "Gods creation",
+        "artists": [
+            "daniel.mp3"
+        ],
+        "album": "Gods creation",
+        "played_at": "23/04/2024 - 08:58:14"
+    },
+    {
+        "song_name": "Pretty Little Fears (feat. J. Cole)",
+        "artists": [
+            "6LACK",
+            "J. Cole"
+        ],
+        "album": "East Atlanta Love Letter",
+        "played_at": "23/04/2024 - 08:56:15"
+    },
+    {
+        "song_name": "4422",
+        "artists": [
+            "Drake",
+            "Sampha"
+        ],
+        "album": "More Life",
+        "played_at": "23/04/2024 - 08:52:14"
+    },
+    {
+        "song_name": "Get To Me",
+        "artists": [
+            "Lonely Night",
+            "Ellou",
+            "Nody"
+        ],
+        "album": "dusk till dawn",
+        "played_at": "23/04/2024 - 08:49:08"
+    },
+    {
+        "song_name": "Go Flex",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "Stoney (Deluxe)",
+        "played_at": "23/04/2024 - 08:46:17"
+    },
+    {
+        "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
+        "artists": [
+            "Young Thug",
+            "A$AP Rocky",
+            "Post Malone"
+        ],
+        "album": "Punk",
+        "played_at": "23/04/2024 - 08:43:17"
+    },
+    {
+        "song_name": "Weekend (feat. Miguel)",
+        "artists": [
+            "Mac Miller",
+            "Miguel"
+        ],
+        "album": "GO:OD AM",
+        "played_at": "23/04/2024 - 08:39:46"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "23/04/2024 - 08:36:17"
+    },
+    {
+        "song_name": "SKELETONS",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "23/04/2024 - 08:32:13"
+    },
+    {
+        "song_name": "Slime You Out (feat. SZA)",
+        "artists": [
+            "Drake",
+            "SZA"
+        ],
+        "album": "For All The Dogs",
+        "played_at": "23/04/2024 - 08:29:48"
+    },
+    {
+        "song_name": "Ride",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "Ride",
+        "played_at": "23/04/2024 - 08:24:36"
+    },
+    {
+        "song_name": "Forever",
+        "artists": [
+            "ilyTOMMY"
+        ],
+        "album": "Forever",
+        "played_at": "23/04/2024 - 08:21:26"
+    },
+    {
+        "song_name": "Location",
+        "artists": [
+            "Khalid"
+        ],
+        "album": "American Teen",
+        "played_at": "23/04/2024 - 08:19:37"
+    },
+    {
+        "song_name": "all the kids are depressed",
+        "artists": [
+            "Jeremy Zucker"
+        ],
+        "album": "glisten",
+        "played_at": "23/04/2024 - 08:15:56"
+    },
+    {
+        "song_name": "TELEKINESIS (feat. SZA & Future)",
+        "artists": [
+            "Travis Scott",
+            "SZA",
+            "Future"
+        ],
+        "album": "UTOPIA",
+        "played_at": "23/04/2024 - 08:13:06"
+    },
+    {
+        "song_name": "I'm Good Luv, Enjoy.",
+        "artists": [
+            "Aaron May"
+        ],
+        "album": "CHASE",
+        "played_at": "23/04/2024 - 08:07:12"
+    },
+    {
+        "song_name": "Here",
+        "artists": [
+            "Alessia Cara"
+        ],
+        "album": "Know-It-All",
+        "played_at": "23/04/2024 - 08:04:57"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "23/04/2024 - 08:01:38"
+    },
+    {
+        "song_name": "Chosen 1",
+        "artists": [
+            "Polo G"
+        ],
+        "album": "Die A Legend",
+        "played_at": "23/04/2024 - 07:57:32"
+    },
+    {
+        "song_name": "Stumblin' In",
+        "artists": [
+            "CYRIL"
+        ],
+        "album": "Stumblin' In",
+        "played_at": "23/04/2024 - 07:55:25"
+    },
+    {
+        "song_name": "Homecoming",
+        "artists": [
+            "Kanye West",
+            "Chris Martin"
+        ],
+        "album": "Graduation",
+        "played_at": "23/04/2024 - 07:46:13"
+    },
+    {
+        "song_name": "Our Time",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "Virgo World",
+        "played_at": "23/04/2024 - 07:42:50"
+    },
+    {
         "song_name": "THRU THE NIGHT (feat. Bryson Tiller)",
         "artists": [
             "Jack Harlow",
@@ -225,196 +420,5 @@
         ],
         "album": "a Gift & a Curse",
         "played_at": "22/04/2024 - 20:44:08"
-    },
-    {
-        "song_name": "Blood On My Jeans",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 20:40:55"
-    },
-    {
-        "song_name": "BUTTERFLY EFFECT",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "ASTROWORLD",
-        "played_at": "22/04/2024 - 20:38:19"
-    },
-    {
-        "song_name": "Can’t Take A Joke",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Scorpion",
-        "played_at": "22/04/2024 - 20:35:09"
-    },
-    {
-        "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "AT.LONG.LAST.A$AP",
-        "played_at": "22/04/2024 - 20:32:24"
-    },
-    {
-        "song_name": "Shots",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "We Love You Tecca",
-        "played_at": "22/04/2024 - 20:30:17"
-    },
-    {
-        "song_name": "Glo’d Up",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "played_at": "22/04/2024 - 20:24:34"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "22/04/2024 - 20:21:16"
-    },
-    {
-        "song_name": "ONE CALL",
-        "artists": [
-            "Rich Amiri"
-        ],
-        "album": "Ghetto Fabulous",
-        "played_at": "22/04/2024 - 20:20:48"
-    },
-    {
-        "song_name": "Screw Juice",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 20:11:13"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "22/04/2024 - 20:08:12"
-    },
-    {
-        "song_name": "500lbs",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC",
-        "played_at": "22/04/2024 - 20:05:43"
-    },
-    {
-        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-        "artists": [
-            "Gunna",
-            "Young Thug"
-        ],
-        "album": "WUNNA",
-        "played_at": "22/04/2024 - 20:03:18"
-    },
-    {
-        "song_name": "Glo’d Up",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "played_at": "22/04/2024 - 20:00:00"
-    },
-    {
-        "song_name": "IMY2 (with Kid Cudi)",
-        "artists": [
-            "Drake",
-            "Kid Cudi"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "22/04/2024 - 19:57:30"
-    },
-    {
-        "song_name": "Smile (with The Weeknd)",
-        "artists": [
-            "Juice WRLD",
-            "The Weeknd"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 19:53:16"
-    },
-    {
-        "song_name": "Motley Crew",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "Motley Crew",
-        "played_at": "22/04/2024 - 19:50:00"
-    },
-    {
-        "song_name": "24 (feat. Lil Baby)",
-        "artists": [
-            "Money Man",
-            "Lil Baby"
-        ],
-        "album": "Epidemic (Deluxe)",
-        "played_at": "22/04/2024 - 19:46:55"
-    },
-    {
-        "song_name": "Climax (feat. 6lack)",
-        "artists": [
-            "Young Thug",
-            "6LACK"
-        ],
-        "album": "On the Run",
-        "played_at": "22/04/2024 - 19:43:51"
-    },
-    {
-        "song_name": "The Light",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "The Light",
-        "played_at": "22/04/2024 - 19:40:41"
-    },
-    {
-        "song_name": "Girls Want Girls (with Lil Baby)",
-        "artists": [
-            "Drake",
-            "Lil Baby"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "22/04/2024 - 19:37:49"
-    },
-    {
-        "song_name": "Up Up And Away",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Legends Never Die",
-        "played_at": "22/04/2024 - 19:34:07"
-    },
-    {
-        "song_name": "Casper",
-        "artists": [
-            "Takeoff"
-        ],
-        "album": "The Last Rocket",
-        "played_at": "22/04/2024 - 19:31:39"
-    },
-    {
-        "song_name": "Sometimes",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Fighting Demons (Deluxe)",
-        "played_at": "22/04/2024 - 19:28:21"
     }
 ]
