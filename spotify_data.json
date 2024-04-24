@@ -1,5 +1,105 @@
 [
     {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "24/04/2024 - 09:54:19"
+    },
+    {
+        "song_name": "Fashion Killa",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "LONG.LIVE.A$AP (Deluxe Version)",
+        "played_at": "24/04/2024 - 09:49:52"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "24/04/2024 - 09:45:56"
+    },
+    {
+        "song_name": "Arya (with Nigo)",
+        "artists": [
+            "A$AP Rocky",
+            "Nigo"
+        ],
+        "album": "I Know NIGO!",
+        "played_at": "24/04/2024 - 09:42:45"
+    },
+    {
+        "song_name": "Solo",
+        "artists": [
+            "Future"
+        ],
+        "album": "HNDRXX",
+        "played_at": "24/04/2024 - 09:39:58"
+    },
+    {
+        "song_name": "Fashion Killa",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "LONG.LIVE.A$AP (Deluxe Version)",
+        "played_at": "24/04/2024 - 09:37:23"
+    },
+    {
+        "song_name": "BUTTERFLY EFFECT",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "24/04/2024 - 09:33:26"
+    },
+    {
+        "song_name": "Arya (with Nigo)",
+        "artists": [
+            "A$AP Rocky",
+            "Nigo"
+        ],
+        "album": "I Know NIGO!",
+        "played_at": "24/04/2024 - 09:30:15"
+    },
+    {
+        "song_name": "4th Dimension",
+        "artists": [
+            "KIDS SEE GHOSTS",
+            "Louis Prima"
+        ],
+        "album": "KIDS SEE GHOSTS",
+        "played_at": "24/04/2024 - 09:27:33"
+    },
+    {
+        "song_name": "N95",
+        "artists": [
+            "Kendrick Lamar"
+        ],
+        "album": "Mr. Morale & The Big Steppers",
+        "played_at": "24/04/2024 - 09:24:59"
+    },
+    {
+        "song_name": "infinity (888) - feat. Joey Bada$$",
+        "artists": [
+            "XXXTENTACION",
+            "Joey Bada$$"
+        ],
+        "album": "?",
+        "played_at": "24/04/2024 - 09:21:43"
+    },
+    {
+        "song_name": "Mask Off",
+        "artists": [
+            "Future"
+        ],
+        "album": "FUTURE",
+        "played_at": "24/04/2024 - 09:18:46"
+    },
+    {
         "song_name": "Codeine Crazy",
         "artists": [
             "Future"
@@ -323,105 +423,5 @@
         ],
         "album": "ASTROWORLD",
         "played_at": "23/04/2024 - 08:32:13"
-    },
-    {
-        "song_name": "Slime You Out (feat. SZA)",
-        "artists": [
-            "Drake",
-            "SZA"
-        ],
-        "album": "For All The Dogs",
-        "played_at": "23/04/2024 - 08:29:48"
-    },
-    {
-        "song_name": "Ride",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "Ride",
-        "played_at": "23/04/2024 - 08:24:36"
-    },
-    {
-        "song_name": "Forever",
-        "artists": [
-            "ilyTOMMY"
-        ],
-        "album": "Forever",
-        "played_at": "23/04/2024 - 08:21:26"
-    },
-    {
-        "song_name": "Location",
-        "artists": [
-            "Khalid"
-        ],
-        "album": "American Teen",
-        "played_at": "23/04/2024 - 08:19:37"
-    },
-    {
-        "song_name": "all the kids are depressed",
-        "artists": [
-            "Jeremy Zucker"
-        ],
-        "album": "glisten",
-        "played_at": "23/04/2024 - 08:15:56"
-    },
-    {
-        "song_name": "TELEKINESIS (feat. SZA & Future)",
-        "artists": [
-            "Travis Scott",
-            "SZA",
-            "Future"
-        ],
-        "album": "UTOPIA",
-        "played_at": "23/04/2024 - 08:13:06"
-    },
-    {
-        "song_name": "I'm Good Luv, Enjoy.",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "23/04/2024 - 08:07:12"
-    },
-    {
-        "song_name": "Here",
-        "artists": [
-            "Alessia Cara"
-        ],
-        "album": "Know-It-All",
-        "played_at": "23/04/2024 - 08:04:57"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "23/04/2024 - 08:01:38"
-    },
-    {
-        "song_name": "Chosen 1",
-        "artists": [
-            "Polo G"
-        ],
-        "album": "Die A Legend",
-        "played_at": "23/04/2024 - 07:57:32"
-    },
-    {
-        "song_name": "Stumblin' In",
-        "artists": [
-            "CYRIL"
-        ],
-        "album": "Stumblin' In",
-        "played_at": "23/04/2024 - 07:55:25"
-    },
-    {
-        "song_name": "Homecoming",
-        "artists": [
-            "Kanye West",
-            "Chris Martin"
-        ],
-        "album": "Graduation",
-        "played_at": "23/04/2024 - 07:46:13"
     }
 ]
