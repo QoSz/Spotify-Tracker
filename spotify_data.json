@@ -1,5 +1,83 @@
 [
     {
+        "song_name": "Follow God",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "JESUS IS KING",
+        "played_at": "24/04/2024 - 19:56:47"
+    },
+    {
+        "song_name": "LVL",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "LONG.LIVE.A$AP (Deluxe Version)",
+        "played_at": "24/04/2024 - 19:55:02"
+    },
+    {
+        "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+        "artists": [
+            "Lyrical Lemonade",
+            "Jack Harlow",
+            "Dave"
+        ],
+        "album": "All Is Yellow",
+        "played_at": "24/04/2024 - 19:51:21"
+    },
+    {
+        "song_name": "PICK IT UP (feat. A$AP Rocky)",
+        "artists": [
+            "Famous Dex",
+            "A$AP Rocky"
+        ],
+        "album": "Dex Meets Dexter",
+        "played_at": "24/04/2024 - 19:47:18"
+    },
+    {
+        "song_name": "ASTROTHUNDER",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "ASTROWORLD",
+        "played_at": "24/04/2024 - 19:44:07"
+    },
+    {
+        "song_name": "Diamonds (feat. A$AP Rocky)",
+        "artists": [
+            "A$AP Twelvyy",
+            "A$AP Rocky"
+        ],
+        "album": "12",
+        "played_at": "24/04/2024 - 19:41:43"
+    },
+    {
+        "song_name": "HIGHEST IN THE ROOM",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "HIGHEST IN THE ROOM",
+        "played_at": "24/04/2024 - 19:38:42"
+    },
+    {
+        "song_name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+        "artists": [
+            "A$AP Rocky",
+            "Joe Fox",
+            "Kanye West"
+        ],
+        "album": "AT.LONG.LAST.A$AP",
+        "played_at": "24/04/2024 - 19:35:46"
+    },
+    {
+        "song_name": "16",
+        "artists": [
+            "Baby Keem"
+        ],
+        "album": "The Melodic Blue",
+        "played_at": "24/04/2024 - 19:30:22"
+    },
+    {
         "song_name": "16",
         "artists": [
             "Baby Keem"
@@ -345,82 +423,5 @@
         ],
         "album": "AT.LONG.LAST.A$AP",
         "played_at": "23/04/2024 - 14:56:27"
-    },
-    {
-        "song_name": "Pain 1993 (with Playboi Carti)",
-        "artists": [
-            "Drake",
-            "Playboi Carti"
-        ],
-        "album": "Dark Lane Demo Tapes",
-        "played_at": "23/04/2024 - 14:52:28"
-    },
-    {
-        "song_name": "Sundress",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "Sundress",
-        "played_at": "23/04/2024 - 14:49:59"
-    },
-    {
-        "song_name": "fukumean",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "23/04/2024 - 14:47:20"
-    },
-    {
-        "song_name": "Gangsta",
-        "artists": [
-            "Free Nationals",
-            "A$AP Rocky",
-            "Anderson .Paak"
-        ],
-        "album": "Gangsta",
-        "played_at": "23/04/2024 - 14:45:14"
-    },
-    {
-        "song_name": "505",
-        "artists": [
-            "Arctic Monkeys"
-        ],
-        "album": "Favourite Worst Nightmare",
-        "played_at": "23/04/2024 - 09:11:32"
-    },
-    {
-        "song_name": "Face 2 Face",
-        "artists": [
-            "Juice WRLD"
-        ],
-        "album": "Face 2 Face",
-        "played_at": "23/04/2024 - 09:00:19"
-    },
-    {
-        "song_name": "Gods creation",
-        "artists": [
-            "daniel.mp3"
-        ],
-        "album": "Gods creation",
-        "played_at": "23/04/2024 - 08:58:14"
-    },
-    {
-        "song_name": "Pretty Little Fears (feat. J. Cole)",
-        "artists": [
-            "6LACK",
-            "J. Cole"
-        ],
-        "album": "East Atlanta Love Letter",
-        "played_at": "23/04/2024 - 08:56:15"
-    },
-    {
-        "song_name": "4422",
-        "artists": [
-            "Drake",
-            "Sampha"
-        ],
-        "album": "More Life",
-        "played_at": "23/04/2024 - 08:52:14"
     }
 ]
