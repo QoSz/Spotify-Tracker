@@ -1,5 +1,30 @@
 [
     {
+        "song_name": "Codeine Crazy",
+        "artists": [
+            "Future"
+        ],
+        "album": "Monster",
+        "played_at": "24/04/2024 - 09:15:21"
+    },
+    {
+        "song_name": "GET A GRIP",
+        "artists": [
+            "Kelvin Krash",
+            "A$AP Rocky"
+        ],
+        "album": "HARSH",
+        "played_at": "24/04/2024 - 09:09:34"
+    },
+    {
+        "song_name": "I Wonder",
+        "artists": [
+            "Kanye West"
+        ],
+        "album": "Graduation",
+        "played_at": "24/04/2024 - 09:08:16"
+    },
+    {
         "song_name": "I Wonder",
         "artists": [
             "Kanye West"
@@ -398,31 +423,5 @@
         ],
         "album": "Graduation",
         "played_at": "23/04/2024 - 07:46:13"
-    },
-    {
-        "song_name": "Our Time",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "Virgo World",
-        "played_at": "23/04/2024 - 07:42:50"
-    },
-    {
-        "song_name": "THRU THE NIGHT (feat. Bryson Tiller)",
-        "artists": [
-            "Jack Harlow",
-            "Bryson Tiller"
-        ],
-        "album": "Confetti",
-        "played_at": "22/04/2024 - 21:58:40"
-    },
-    {
-        "song_name": "Overdue (with Travis Scott)",
-        "artists": [
-            "Metro Boomin",
-            "Travis Scott"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "22/04/2024 - 21:47:59"
     }
 ]
