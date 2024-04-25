@@ -1,5 +1,144 @@
 [
     {
+        "song_name": "Hell N Back",
+        "artists": [
+            "Bakar"
+        ],
+        "album": "Hell N Back (Sped Up)",
+        "played_at": "25/04/2024 - 18:55:04"
+    },
+    {
+        "song_name": "Levitating (feat. DaBaby)",
+        "artists": [
+            "Dua Lipa",
+            "DaBaby"
+        ],
+        "album": "Future Nostalgia",
+        "played_at": "25/04/2024 - 18:44:14"
+    },
+    {
+        "song_name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "artists": [
+            "Billy Gillies",
+            "Hannah Boleyn"
+        ],
+        "album": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "played_at": "25/04/2024 - 18:40:50"
+    },
+    {
+        "song_name": "greedy",
+        "artists": [
+            "Tate McRae"
+        ],
+        "album": "greedy",
+        "played_at": "25/04/2024 - 18:38:05"
+    },
+    {
+        "song_name": "Circles",
+        "artists": [
+            "Post Malone"
+        ],
+        "album": "Hollywood's Bleeding",
+        "played_at": "25/04/2024 - 18:35:53"
+    },
+    {
+        "song_name": "summer on the inside",
+        "artists": [
+            "warner case",
+            "Jean Tonique",
+            "Max Kaluza"
+        ],
+        "album": "summer on the inside",
+        "played_at": "25/04/2024 - 18:29:58"
+    },
+    {
+        "song_name": "Senior Skip Day",
+        "artists": [
+            "Mac Miller"
+        ],
+        "album": "K.I.D.S.",
+        "played_at": "25/04/2024 - 18:22:02"
+    },
+    {
+        "song_name": "Body",
+        "artists": [
+            "Loud Luxury",
+            "Brando"
+        ],
+        "album": "Body",
+        "played_at": "25/04/2024 - 18:18:16"
+    },
+    {
+        "song_name": "SPLAT",
+        "artists": [
+            "Connor Price"
+        ],
+        "album": "SPLAT",
+        "played_at": "25/04/2024 - 18:18:14"
+    },
+    {
+        "song_name": "Big City Life",
+        "artists": [
+            "Luude",
+            "Mattafix"
+        ],
+        "album": "Big City Life",
+        "played_at": "25/04/2024 - 18:17:55"
+    },
+    {
+        "song_name": "Senior Skip Day",
+        "artists": [
+            "Mac Miller"
+        ],
+        "album": "K.I.D.S.",
+        "played_at": "25/04/2024 - 18:17:54"
+    },
+    {
+        "song_name": "3 Nights",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "played_at": "25/04/2024 - 18:14:06"
+    },
+    {
+        "song_name": "HOV - Remix",
+        "artists": [
+            "Connor Price",
+            "Nic D",
+            "GRAHAM"
+        ],
+        "album": "HOV (Remix)",
+        "played_at": "25/04/2024 - 18:11:08"
+    },
+    {
+        "song_name": "No Fear",
+        "artists": [
+            "DeJ Loaf"
+        ],
+        "album": "No Fear",
+        "played_at": "25/04/2024 - 18:08:01"
+    },
+    {
+        "song_name": "Dancin - Krono Remix",
+        "artists": [
+            "Aaron Smith",
+            "Luvli",
+            "Krono"
+        ],
+        "album": "Ibiza 2019",
+        "played_at": "25/04/2024 - 18:05:23"
+    },
+    {
+        "song_name": "Me, Myself & I",
+        "artists": [
+            "G-Eazy",
+            "Bebe Rexha"
+        ],
+        "album": "When It's Dark Out",
+        "played_at": "25/04/2024 - 18:01:07"
+    },
+    {
         "song_name": "I Ain't Worried",
         "artists": [
             "OneRepublic"
@@ -287,136 +426,5 @@
         ],
         "album": "twilight walks",
         "played_at": "24/04/2024 - 21:56:35"
-    },
-    {
-        "song_name": "exhale",
-        "artists": [
-            ".clouds"
-        ],
-        "album": "twilight walks",
-        "played_at": "24/04/2024 - 21:46:01"
-    },
-    {
-        "song_name": "French Night",
-        "artists": [
-            "Blue Fox",
-            "No Spirit",
-            "Dario Lessing"
-        ],
-        "album": "French Night",
-        "played_at": "24/04/2024 - 21:36:03"
-    },
-    {
-        "song_name": "Floating Keys",
-        "artists": [
-            "Re:um"
-        ],
-        "album": "Floating Keys",
-        "played_at": "24/04/2024 - 21:33:57"
-    },
-    {
-        "song_name": "Quiet Places",
-        "artists": [
-            "Karnaval Blues"
-        ],
-        "album": "You Come With The Rain",
-        "played_at": "24/04/2024 - 21:32:03"
-    },
-    {
-        "song_name": "Aconcagua",
-        "artists": [
-            "Slumberville"
-        ],
-        "album": "Aconcagua",
-        "played_at": "24/04/2024 - 21:30:56"
-    },
-    {
-        "song_name": "Gon Be Alright",
-        "artists": [
-            "twuan"
-        ],
-        "album": "Gon Be Alright",
-        "played_at": "24/04/2024 - 21:28:56"
-    },
-    {
-        "song_name": "warm nights",
-        "artists": [
-            ".clouds"
-        ],
-        "album": "twilight walks",
-        "played_at": "24/04/2024 - 21:27:23"
-    },
-    {
-        "song_name": "you're not lost",
-        "artists": [
-            "eaup",
-            "Hz."
-        ],
-        "album": "you're not lost",
-        "played_at": "24/04/2024 - 21:26:01"
-    },
-    {
-        "song_name": "coffee break",
-        "artists": [
-            "im.fine"
-        ],
-        "album": "changes, Vol. 1",
-        "played_at": "24/04/2024 - 21:23:33"
-    },
-    {
-        "song_name": "Keep Going",
-        "artists": [
-            "Swørn"
-        ],
-        "album": "Reflection",
-        "played_at": "24/04/2024 - 21:22:24"
-    },
-    {
-        "song_name": "Bengaluru",
-        "artists": [
-            "Slumberville"
-        ],
-        "album": "Bengaluru",
-        "played_at": "24/04/2024 - 21:19:53"
-    },
-    {
-        "song_name": "Motorbikes in Sapa",
-        "artists": [
-            "Kalaido"
-        ],
-        "album": "Motorbikes in Sapa",
-        "played_at": "24/04/2024 - 21:17:32"
-    },
-    {
-        "song_name": "Time",
-        "artists": [
-            "Nivlem"
-        ],
-        "album": "Time",
-        "played_at": "24/04/2024 - 21:14:39"
-    },
-    {
-        "song_name": "beautiful morning",
-        "artists": [
-            ".clouds"
-        ],
-        "album": "beautiful morning",
-        "played_at": "24/04/2024 - 21:12:26"
-    },
-    {
-        "song_name": "One",
-        "artists": [
-            "Miscél"
-        ],
-        "album": "One",
-        "played_at": "24/04/2024 - 21:11:03"
-    },
-    {
-        "song_name": "Up Through The Clouds",
-        "artists": [
-            "Silky"
-        ],
-        "album": "Up Through The Clouds",
-        "played_at": "24/04/2024 - 21:09:31"
     }
 ]
