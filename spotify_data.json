@@ -1,5 +1,141 @@
 [
     {
+        "song_name": "Exchange",
+        "artists": [
+            "Bryson Tiller"
+        ],
+        "album": "T R A P S O U L",
+        "played_at": "26/04/2024 - 11:57:43"
+    },
+    {
+        "song_name": "4422",
+        "artists": [
+            "Drake",
+            "Sampha"
+        ],
+        "album": "More Life",
+        "played_at": "26/04/2024 - 11:54:28"
+    },
+    {
+        "song_name": "Snow (feat. Killstation)",
+        "artists": [
+            "XXXTENTACION",
+            "Killstation"
+        ],
+        "album": "ItWasntEnough",
+        "played_at": "26/04/2024 - 11:51:21"
+    },
+    {
+        "song_name": "Heartbeats",
+        "artists": [
+            "José González"
+        ],
+        "album": "Veneer",
+        "played_at": "26/04/2024 - 11:49:32"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "26/04/2024 - 11:46:52"
+    },
+    {
+        "song_name": "LOYAL (feat. Drake)",
+        "artists": [
+            "PARTYNEXTDOOR",
+            "Drake"
+        ],
+        "album": "PARTYMOBILE",
+        "played_at": "26/04/2024 - 11:43:34"
+    },
+    {
+        "song_name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+        "artists": [
+            "A$AP Rocky",
+            "Joe Fox",
+            "Kanye West"
+        ],
+        "album": "AT.LONG.LAST.A$AP",
+        "played_at": "26/04/2024 - 11:41:34"
+    },
+    {
+        "song_name": "Imperfections (Interlude)",
+        "artists": [
+            "Pop Smoke"
+        ],
+        "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "played_at": "26/04/2024 - 11:36:09"
+    },
+    {
+        "song_name": "Do I Wanna Know?",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "AM",
+        "played_at": "26/04/2024 - 10:29:15"
+    },
+    {
+        "song_name": "Why'd You Only Call Me When You're High?",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "AM",
+        "played_at": "26/04/2024 - 10:24:43"
+    },
+    {
+        "song_name": "505",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "Favourite Worst Nightmare",
+        "played_at": "26/04/2024 - 10:22:02"
+    },
+    {
+        "song_name": "I Wanna Be Yours",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "AM",
+        "played_at": "26/04/2024 - 10:17:48"
+    },
+    {
+        "song_name": "Skinny Love",
+        "artists": [
+            "Bon Iver"
+        ],
+        "album": "For Emma, Forever Ago",
+        "played_at": "26/04/2024 - 10:13:59"
+    },
+    {
+        "song_name": "High and Dry",
+        "artists": [
+            "Radiohead"
+        ],
+        "album": "The Bends",
+        "played_at": "26/04/2024 - 10:10:01"
+    },
+    {
+        "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
+        "artists": [
+            "benny blanco",
+            "Halsey",
+            "Khalid"
+        ],
+        "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+        "played_at": "26/04/2024 - 10:05:43"
+    },
+    {
+        "song_name": "Sutilmente",
+        "artists": [
+            "Skank"
+        ],
+        "album": "Estandarte",
+        "played_at": "26/04/2024 - 10:02:50"
+    },
+    {
         "song_name": "Sutilmente",
         "artists": [
             "Skank"
@@ -290,139 +426,5 @@
         ],
         "album": "VENUS",
         "played_at": "25/04/2024 - 17:34:19"
-    },
-    {
-        "song_name": "SPLAT",
-        "artists": [
-            "Connor Price"
-        ],
-        "album": "SPLAT",
-        "played_at": "25/04/2024 - 13:42:55"
-    },
-    {
-        "song_name": "2step",
-        "artists": [
-            "Ed Sheeran"
-        ],
-        "album": "=",
-        "played_at": "25/04/2024 - 13:33:45"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Levi Don't Do It",
-        "played_at": "25/04/2024 - 13:31:12"
-    },
-    {
-        "song_name": "On My Love",
-        "artists": [
-            "Zara Larsson",
-            "David Guetta"
-        ],
-        "album": "VENUS",
-        "played_at": "25/04/2024 - 13:27:46"
-    },
-    {
-        "song_name": "Too Good",
-        "artists": [
-            "Drake",
-            "Rihanna"
-        ],
-        "album": "Views",
-        "played_at": "25/04/2024 - 13:24:01"
-    },
-    {
-        "song_name": "Numb",
-        "artists": [
-            "Marshmello",
-            "Khalid"
-        ],
-        "album": "Numb",
-        "played_at": "25/04/2024 - 13:19:37"
-    },
-    {
-        "song_name": "Matter of Time",
-        "artists": [
-            "Vandelux",
-            "Alex Maher"
-        ],
-        "album": "When The Light Breaks",
-        "played_at": "25/04/2024 - 13:17:01"
-    },
-    {
-        "song_name": "Me, Myself & I",
-        "artists": [
-            "G-Eazy",
-            "Bebe Rexha"
-        ],
-        "album": "When It's Dark Out",
-        "played_at": "25/04/2024 - 13:13:01"
-    },
-    {
-        "song_name": "Drive By",
-        "artists": [
-            "Train"
-        ],
-        "album": "California 37",
-        "played_at": "25/04/2024 - 13:08:49"
-    },
-    {
-        "song_name": "Massive",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Honestly, Nevermind",
-        "played_at": "25/04/2024 - 13:05:33"
-    },
-    {
-        "song_name": "THATS WHAT I WANT",
-        "artists": [
-            "Lil Nas X"
-        ],
-        "album": "MONTERO",
-        "played_at": "25/04/2024 - 12:59:55"
-    },
-    {
-        "song_name": "Stumblin' In",
-        "artists": [
-            "CYRIL"
-        ],
-        "album": "Stumblin' In",
-        "played_at": "25/04/2024 - 12:57:31"
-    },
-    {
-        "song_name": "Feeling For You",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Living In A Haze",
-        "played_at": "25/04/2024 - 12:53:57"
-    },
-    {
-        "song_name": "Time of Our Lives",
-        "artists": [
-            "Pitbull",
-            "Ne-Yo"
-        ],
-        "album": "Globalization",
-        "played_at": "25/04/2024 - 12:50:15"
-    },
-    {
-        "song_name": "sun and moon",
-        "artists": [
-            "anees"
-        ],
-        "album": "summer camp",
-        "played_at": "25/04/2024 - 12:46:25"
-    },
-    {
-        "song_name": "Baianá",
-        "artists": [
-            "Bakermat"
-        ],
-        "album": "The Ringmaster",
-        "played_at": "25/04/2024 - 12:43:53"
     }
 ]
