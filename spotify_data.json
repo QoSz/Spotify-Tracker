@@ -1,5 +1,37 @@
 [
     {
+        "song_name": "Softcore",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "27/04/2024 - 15:40:03"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "played_at": "27/04/2024 - 15:36:26"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "played_at": "27/04/2024 - 15:35:41"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "played_at": "27/04/2024 - 15:31:59"
+    },
+    {
         "song_name": "Afraid",
         "artists": [
             "The Neighbourhood"
@@ -376,43 +408,5 @@
         ],
         "album": "Whatever She Wants",
         "played_at": "26/04/2024 - 20:30:26"
-    },
-    {
-        "song_name": "CARNIVAL",
-        "artists": [
-            "¥$",
-            "Kanye West",
-            "Ty Dolla $ign",
-            "Rich The Kid",
-            "Playboi Carti"
-        ],
-        "album": "VULTURES 1",
-        "played_at": "26/04/2024 - 20:27:44"
-    },
-    {
-        "song_name": "Like That",
-        "artists": [
-            "Future",
-            "Metro Boomin",
-            "Kendrick Lamar"
-        ],
-        "album": "WE DON'T TRUST YOU",
-        "played_at": "26/04/2024 - 20:23:19"
-    },
-    {
-        "song_name": "Push Ups",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Push Ups",
-        "played_at": "26/04/2024 - 20:18:51"
-    },
-    {
-        "song_name": "I Wonder",
-        "artists": [
-            "Kanye West"
-        ],
-        "album": "Graduation",
-        "played_at": "26/04/2024 - 20:13:14"
     }
 ]
