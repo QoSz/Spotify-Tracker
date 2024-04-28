@@ -1,5 +1,194 @@
 [
     {
+        "song_name": "Made A Way",
+        "artists": [
+            "FaZe Kaysan",
+            "Future",
+            "Lil Durk"
+        ],
+        "album": "Made A Way",
+        "played_at": "28/04/2024 - 11:17:18"
+    },
+    {
+        "song_name": "LAST",
+        "artists": [
+            "Kyle Beats Collective",
+            "Matt Corman",
+            "TMRWNITE"
+        ],
+        "album": "LAST",
+        "played_at": "28/04/2024 - 11:14:02"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "28/04/2024 - 00:40:28"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "28/04/2024 - 00:27:33"
+    },
+    {
+        "song_name": "Glo’d Up",
+        "artists": [
+            "Juice WRLD"
+        ],
+        "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "played_at": "27/04/2024 - 22:59:32"
+    },
+    {
+        "song_name": "Pipe Down",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Certified Lover Boy",
+        "played_at": "27/04/2024 - 22:47:17"
+    },
+    {
+        "song_name": "Route 66 (feat. EST Gee)",
+        "artists": [
+            "Jack Harlow",
+            "EST Gee"
+        ],
+        "album": "Thats What They All Say",
+        "played_at": "27/04/2024 - 22:43:51"
+    },
+    {
+        "song_name": "Prada",
+        "artists": [
+            "cassö",
+            "RAYE",
+            "D-Block Europe"
+        ],
+        "album": "Prada",
+        "played_at": "27/04/2024 - 22:41:17"
+    },
+    {
+        "song_name": "sdp interlude",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "Birds In The Trap Sing McKnight",
+        "played_at": "27/04/2024 - 22:39:05"
+    },
+    {
+        "song_name": "fukumean",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "27/04/2024 - 22:35:53"
+    },
+    {
+        "song_name": "Overdue (with Travis Scott)",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott"
+        ],
+        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "played_at": "27/04/2024 - 22:33:47"
+    },
+    {
+        "song_name": "BackOutsideBoyz",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Her Loss",
+        "played_at": "27/04/2024 - 22:31:01"
+    },
+    {
+        "song_name": "Dua Lipa",
+        "artists": [
+            "Jack Harlow"
+        ],
+        "album": "Come Home The Kids Miss You",
+        "played_at": "27/04/2024 - 22:28:27"
+    },
+    {
+        "song_name": "500lbs",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "27/04/2024 - 22:26:12"
+    },
+    {
+        "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+        "artists": [
+            "A$AP Rocky"
+        ],
+        "album": "AT.LONG.LAST.A$AP",
+        "played_at": "27/04/2024 - 22:23:47"
+    },
+    {
+        "song_name": "back to the moon",
+        "artists": [
+            "Gunna"
+        ],
+        "album": "a Gift & a Curse",
+        "played_at": "27/04/2024 - 22:21:40"
+    },
+    {
+        "song_name": "Type Shit",
+        "artists": [
+            "Future",
+            "Metro Boomin",
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "album": "WE DON'T TRUST YOU",
+        "played_at": "27/04/2024 - 22:18:26"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "27/04/2024 - 22:14:38"
+    },
+    {
+        "song_name": "Hide (feat. Seezyn)",
+        "artists": [
+            "Juice WRLD",
+            "Seezyn"
+        ],
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "played_at": "27/04/2024 - 22:08:07"
+    },
+    {
+        "song_name": "Over You",
+        "artists": [
+            "Madism",
+            "Philip Strand"
+        ],
+        "album": "Over You",
+        "played_at": "27/04/2024 - 22:04:41"
+    },
+    {
+        "song_name": "Senior Skip Day",
+        "artists": [
+            "Mac Miller"
+        ],
+        "album": "K.I.D.S.",
+        "played_at": "27/04/2024 - 22:02:19"
+    },
+    {
+        "song_name": "Lose It All (I Don't Wanna)",
+        "artists": [
+            "BUNT."
+        ],
+        "album": "Levi Don't Do It",
+        "played_at": "27/04/2024 - 21:59:22"
+    },
+    {
         "song_name": "The Night We Met",
         "artists": [
             "Lord Huron"
@@ -241,186 +430,5 @@
         ],
         "album": "Miss You a Little (feat. lovelytheband)",
         "played_at": "27/04/2024 - 17:20:53"
-    },
-    {
-        "song_name": "Saturday Night (Feel The Groove)",
-        "artists": [
-            "Brando",
-            "Ninetails"
-        ],
-        "album": "Saturday Night (Feel The Groove)",
-        "played_at": "27/04/2024 - 17:18:04"
-    },
-    {
-        "song_name": "These Nights",
-        "artists": [
-            "Loud Luxury",
-            "KIDDO"
-        ],
-        "album": "These Nights",
-        "played_at": "27/04/2024 - 17:15:30"
-    },
-    {
-        "song_name": "Save You",
-        "artists": [
-            "SABAI",
-            "Kermode"
-        ],
-        "album": "Save You",
-        "played_at": "27/04/2024 - 17:13:16"
-    },
-    {
-        "song_name": "Please Don't Fall In Love With Me",
-        "artists": [
-            "Khalid"
-        ],
-        "album": "Please Don't Fall In Love With Me",
-        "played_at": "27/04/2024 - 17:10:14"
-    },
-    {
-        "song_name": "Addicted",
-        "artists": [
-            "Zerb",
-            "The Chainsmokers",
-            "Ink"
-        ],
-        "album": "Addicted",
-        "played_at": "27/04/2024 - 17:07:16"
-    },
-    {
-        "song_name": "Cry Baby",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Wiped Out!",
-        "played_at": "27/04/2024 - 17:02:01"
-    },
-    {
-        "song_name": "Afraid",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 16:58:05"
-    },
-    {
-        "song_name": "You Get Me So High",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 16:50:28"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 16:47:55"
-    },
-    {
-        "song_name": "Daddy Issues",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Wiped Out!",
-        "played_at": "27/04/2024 - 16:40:11"
-    },
-    {
-        "song_name": "Daddy Issues",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Wiped Out!",
-        "played_at": "27/04/2024 - 15:54:21"
-    },
-    {
-        "song_name": "Softcore",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 15:40:03"
-    },
-    {
-        "song_name": "Sweater Weather",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 15:36:26"
-    },
-    {
-        "song_name": "Sweater Weather",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 15:35:41"
-    },
-    {
-        "song_name": "Sweater Weather",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 15:31:59"
-    },
-    {
-        "song_name": "Afraid",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 11:29:04"
-    },
-    {
-        "song_name": "Afraid",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "27/04/2024 - 00:45:51"
-    },
-    {
-        "song_name": "Pretty Boy",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Chip Chrome & The Mono-Tones",
-        "played_at": "27/04/2024 - 00:34:30"
-    },
-    {
-        "song_name": "You Get Me So High",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 00:30:35"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 00:28:02"
-    },
-    {
-        "song_name": "Daddy Issues",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Wiped Out!",
-        "played_at": "27/04/2024 - 00:23:57"
-    },
-    {
-        "song_name": "Softcore",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 00:19:36"
     }
 ]
