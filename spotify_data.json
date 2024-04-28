@@ -1,5 +1,57 @@
 [
     {
+        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "artists": [
+            "A$AP Rocky",
+            "Skepta"
+        ],
+        "album": "TESTING",
+        "played_at": "28/04/2024 - 11:59:03"
+    },
+    {
+        "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+        "artists": [
+            "Metro Boomin",
+            "Travis Scott",
+            "21 Savage"
+        ],
+        "album": "HEROES & VILLAINS",
+        "played_at": "28/04/2024 - 11:55:37"
+    },
+    {
+        "song_name": "I KNOW ?",
+        "artists": [
+            "Travis Scott"
+        ],
+        "album": "UTOPIA",
+        "played_at": "28/04/2024 - 11:52:09"
+    },
+    {
+        "song_name": "HARMONY",
+        "artists": [
+            "347aidan"
+        ],
+        "album": "HARMONY",
+        "played_at": "28/04/2024 - 11:47:33"
+    },
+    {
+        "song_name": "Set in Stone",
+        "artists": [
+            "kees.",
+            "Rence"
+        ],
+        "album": "Set in Stone",
+        "played_at": "28/04/2024 - 11:44:50"
+    },
+    {
+        "song_name": "white dress",
+        "artists": [
+            "mike."
+        ],
+        "album": "Love,",
+        "played_at": "28/04/2024 - 11:41:54"
+    },
+    {
         "song_name": "Head High (feat. Cozz)",
         "artists": [
             "7evin7ins",
@@ -59,6 +111,15 @@
         ],
         "album": "Golden Hour",
         "played_at": "28/04/2024 - 11:23:32"
+    },
+    {
+        "song_name": "Head High (feat. Cozz)",
+        "artists": [
+            "7evin7ins",
+            "Cozz"
+        ],
+        "album": "Head High (feat. Cozz)",
+        "played_at": "28/04/2024 - 11:19:45"
     },
     {
         "song_name": "Made A Way",
@@ -367,66 +428,5 @@
         ],
         "album": "WE DON'T TRUST YOU",
         "played_at": "27/04/2024 - 21:19:24"
-    },
-    {
-        "song_name": "The Night We Met",
-        "artists": [
-            "Lord Huron"
-        ],
-        "album": "The Night We Met",
-        "played_at": "27/04/2024 - 18:05:07"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Levi Don't Do It",
-        "played_at": "27/04/2024 - 18:04:18"
-    },
-    {
-        "song_name": "Senior Skip Day",
-        "artists": [
-            "Mac Miller"
-        ],
-        "album": "K.I.D.S.",
-        "played_at": "27/04/2024 - 18:01:00"
-    },
-    {
-        "song_name": "Over You",
-        "artists": [
-            "Madism",
-            "Philip Strand"
-        ],
-        "album": "Over You",
-        "played_at": "27/04/2024 - 17:56:09"
-    },
-    {
-        "song_name": "Hide (feat. Seezyn)",
-        "artists": [
-            "Juice WRLD",
-            "Seezyn"
-        ],
-        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "played_at": "27/04/2024 - 17:53:46"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 17:50:21"
-    },
-    {
-        "song_name": "Type Shit",
-        "artists": [
-            "Future",
-            "Metro Boomin",
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "WE DON'T TRUST YOU",
-        "played_at": "27/04/2024 - 17:46:16"
     }
 ]
