@@ -1,5 +1,29 @@
 [
     {
+        "song_name": "Softcore",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "29/04/2024 - 19:52:07"
+    },
+    {
+        "song_name": "Feeling For You",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Living In A Haze",
+        "played_at": "29/04/2024 - 19:48:40"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "29/04/2024 - 19:35:43"
+    },
+    {
         "song_name": "Nobody Knows",
         "artists": [
             "Ape Drums",
@@ -407,31 +431,5 @@
         ],
         "album": "TESTING",
         "played_at": "28/04/2024 - 11:59:03"
-    },
-    {
-        "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-        "artists": [
-            "Metro Boomin",
-            "Travis Scott",
-            "21 Savage"
-        ],
-        "album": "HEROES & VILLAINS",
-        "played_at": "28/04/2024 - 11:55:37"
-    },
-    {
-        "song_name": "I KNOW ?",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "UTOPIA",
-        "played_at": "28/04/2024 - 11:52:09"
-    },
-    {
-        "song_name": "HARMONY",
-        "artists": [
-            "347aidan"
-        ],
-        "album": "HARMONY",
-        "played_at": "28/04/2024 - 11:47:33"
     }
 ]
