@@ -1,5 +1,180 @@
 [
     {
+        "song_name": "Gangsta",
+        "artists": [
+            "Free Nationals",
+            "A$AP Rocky",
+            "Anderson .Paak"
+        ],
+        "album": "Gangsta",
+        "played_at": "29/04/2024 - 15:20:18"
+    },
+    {
+        "song_name": "Shots",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "We Love You Tecca",
+        "played_at": "29/04/2024 - 15:17:04"
+    },
+    {
+        "song_name": "Pain 1993 (with Playboi Carti)",
+        "artists": [
+            "Drake",
+            "Playboi Carti"
+        ],
+        "album": "Dark Lane Demo Tapes",
+        "played_at": "29/04/2024 - 15:10:52"
+    },
+    {
+        "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+        "artists": [
+            "Gunna",
+            "Young Thug"
+        ],
+        "album": "WUNNA",
+        "played_at": "29/04/2024 - 15:06:42"
+    },
+    {
+        "song_name": "Scars To Your Beautiful",
+        "artists": [
+            "Alessia Cara"
+        ],
+        "album": "Know-It-All (Deluxe)",
+        "played_at": "29/04/2024 - 14:57:50"
+    },
+    {
+        "song_name": "Stay",
+        "artists": [
+            "Zedd",
+            "Alessia Cara"
+        ],
+        "album": "Stay",
+        "played_at": "29/04/2024 - 14:48:27"
+    },
+    {
+        "song_name": "Here",
+        "artists": [
+            "Alessia Cara"
+        ],
+        "album": "Know-It-All",
+        "played_at": "29/04/2024 - 14:43:24"
+    },
+    {
+        "song_name": "Like That",
+        "artists": [
+            "Future",
+            "Metro Boomin",
+            "Kendrick Lamar"
+        ],
+        "album": "WE DON'T TRUST YOU",
+        "played_at": "29/04/2024 - 14:40:01"
+    },
+    {
+        "song_name": "Push Ups",
+        "artists": [
+            "Drake"
+        ],
+        "album": "Push Ups",
+        "played_at": "29/04/2024 - 14:35:33"
+    },
+    {
+        "song_name": "We Still Don't Trust You",
+        "artists": [
+            "Future",
+            "Metro Boomin",
+            "The Weeknd"
+        ],
+        "album": "WE STILL DON'T TRUST YOU",
+        "played_at": "29/04/2024 - 14:31:39"
+    },
+    {
+        "song_name": "3:15 (Breathe)",
+        "artists": [
+            "Russ"
+        ],
+        "album": "3:15 (Breathe)",
+        "played_at": "29/04/2024 - 14:27:25"
+    },
+    {
+        "song_name": "Hate It Or Love It",
+        "artists": [
+            "The Game",
+            "50 Cent"
+        ],
+        "album": "The Documentary",
+        "played_at": "29/04/2024 - 14:23:25"
+    },
+    {
+        "song_name": "Los Pollos Hermanos",
+        "artists": [
+            "Knucks"
+        ],
+        "album": "ALPHA PLACE",
+        "played_at": "29/04/2024 - 14:19:57"
+    },
+    {
+        "song_name": "The Night We Met",
+        "artists": [
+            "Lord Huron"
+        ],
+        "album": "The Night We Met",
+        "played_at": "29/04/2024 - 14:18:22"
+    },
+    {
+        "song_name": "Lose It All (I Don't Wanna)",
+        "artists": [
+            "BUNT."
+        ],
+        "album": "Levi Don't Do It",
+        "played_at": "29/04/2024 - 14:14:53"
+    },
+    {
+        "song_name": "Senior Skip Day",
+        "artists": [
+            "Mac Miller"
+        ],
+        "album": "K.I.D.S.",
+        "played_at": "29/04/2024 - 14:12:33"
+    },
+    {
+        "song_name": "Over You",
+        "artists": [
+            "Madism",
+            "Philip Strand"
+        ],
+        "album": "Over You",
+        "played_at": "29/04/2024 - 14:09:37"
+    },
+    {
+        "song_name": "Hide (feat. Seezyn)",
+        "artists": [
+            "Juice WRLD",
+            "Seezyn"
+        ],
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "played_at": "29/04/2024 - 14:07:13"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "29/04/2024 - 14:03:47"
+    },
+    {
+        "song_name": "Type Shit",
+        "artists": [
+            "Future",
+            "Metro Boomin",
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "album": "WE DON'T TRUST YOU",
+        "played_at": "29/04/2024 - 13:55:50"
+    },
+    {
         "song_name": "Softcore",
         "artists": [
             "The Neighbourhood"
@@ -254,175 +429,5 @@
         ],
         "album": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
         "played_at": "27/04/2024 - 22:59:32"
-    },
-    {
-        "song_name": "Pipe Down",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Certified Lover Boy",
-        "played_at": "27/04/2024 - 22:47:17"
-    },
-    {
-        "song_name": "Route 66 (feat. EST Gee)",
-        "artists": [
-            "Jack Harlow",
-            "EST Gee"
-        ],
-        "album": "Thats What They All Say",
-        "played_at": "27/04/2024 - 22:43:51"
-    },
-    {
-        "song_name": "Prada",
-        "artists": [
-            "cassö",
-            "RAYE",
-            "D-Block Europe"
-        ],
-        "album": "Prada",
-        "played_at": "27/04/2024 - 22:41:17"
-    },
-    {
-        "song_name": "sdp interlude",
-        "artists": [
-            "Travis Scott"
-        ],
-        "album": "Birds In The Trap Sing McKnight",
-        "played_at": "27/04/2024 - 22:39:05"
-    },
-    {
-        "song_name": "fukumean",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "27/04/2024 - 22:35:53"
-    },
-    {
-        "song_name": "Overdue (with Travis Scott)",
-        "artists": [
-            "Metro Boomin",
-            "Travis Scott"
-        ],
-        "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "played_at": "27/04/2024 - 22:33:47"
-    },
-    {
-        "song_name": "BackOutsideBoyz",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Her Loss",
-        "played_at": "27/04/2024 - 22:31:01"
-    },
-    {
-        "song_name": "Dua Lipa",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Come Home The Kids Miss You",
-        "played_at": "27/04/2024 - 22:28:27"
-    },
-    {
-        "song_name": "500lbs",
-        "artists": [
-            "Lil Tecca"
-        ],
-        "album": "TEC",
-        "played_at": "27/04/2024 - 22:26:12"
-    },
-    {
-        "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
-        "artists": [
-            "A$AP Rocky"
-        ],
-        "album": "AT.LONG.LAST.A$AP",
-        "played_at": "27/04/2024 - 22:23:47"
-    },
-    {
-        "song_name": "back to the moon",
-        "artists": [
-            "Gunna"
-        ],
-        "album": "a Gift & a Curse",
-        "played_at": "27/04/2024 - 22:21:40"
-    },
-    {
-        "song_name": "Type Shit",
-        "artists": [
-            "Future",
-            "Metro Boomin",
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "WE DON'T TRUST YOU",
-        "played_at": "27/04/2024 - 22:18:26"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "27/04/2024 - 22:14:38"
-    },
-    {
-        "song_name": "Hide (feat. Seezyn)",
-        "artists": [
-            "Juice WRLD",
-            "Seezyn"
-        ],
-        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "played_at": "27/04/2024 - 22:08:07"
-    },
-    {
-        "song_name": "Over You",
-        "artists": [
-            "Madism",
-            "Philip Strand"
-        ],
-        "album": "Over You",
-        "played_at": "27/04/2024 - 22:04:41"
-    },
-    {
-        "song_name": "Senior Skip Day",
-        "artists": [
-            "Mac Miller"
-        ],
-        "album": "K.I.D.S.",
-        "played_at": "27/04/2024 - 22:02:19"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Levi Don't Do It",
-        "played_at": "27/04/2024 - 21:59:22"
-    },
-    {
-        "song_name": "The Night We Met",
-        "artists": [
-            "Lord Huron"
-        ],
-        "album": "The Night We Met",
-        "played_at": "27/04/2024 - 21:54:45"
-    },
-    {
-        "song_name": "Los Pollos Hermanos",
-        "artists": [
-            "Knucks"
-        ],
-        "album": "ALPHA PLACE",
-        "played_at": "27/04/2024 - 21:51:17"
-    },
-    {
-        "song_name": "Hate It Or Love It",
-        "artists": [
-            "The Game",
-            "50 Cent"
-        ],
-        "album": "The Documentary",
-        "played_at": "27/04/2024 - 21:49:40"
     }
 ]
