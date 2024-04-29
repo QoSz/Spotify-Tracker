@@ -1,5 +1,165 @@
 [
     {
+        "song_name": "Some",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "album": "Some",
+        "played_at": "29/04/2024 - 21:05:10"
+    },
+    {
+        "song_name": "Sunsick",
+        "artists": [
+            "Bennett Coast"
+        ],
+        "album": "Sunsick",
+        "played_at": "29/04/2024 - 20:51:34"
+    },
+    {
+        "song_name": "IRIS",
+        "artists": [
+            "Ashes To Amber"
+        ],
+        "album": "Voodoo Blu",
+        "played_at": "29/04/2024 - 20:49:08"
+    },
+    {
+        "song_name": "C U Girl",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "album": "C U Girl",
+        "played_at": "29/04/2024 - 20:44:16"
+    },
+    {
+        "song_name": "Babydoll",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "played_at": "29/04/2024 - 20:42:05"
+    },
+    {
+        "song_name": "Metamodernity",
+        "artists": [
+            "Vansire"
+        ],
+        "album": "Metamodernity",
+        "played_at": "29/04/2024 - 20:40:27"
+    },
+    {
+        "song_name": "High and Dry",
+        "artists": [
+            "Radiohead"
+        ],
+        "album": "The Bends",
+        "played_at": "29/04/2024 - 20:37:44"
+    },
+    {
+        "song_name": "Down By The River",
+        "artists": [
+            "Milky Chance"
+        ],
+        "album": "Sadnecessary",
+        "played_at": "29/04/2024 - 20:33:26"
+    },
+    {
+        "song_name": "Stevie Doesn't Wonder",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Stevie Doesn't Wonder",
+        "played_at": "29/04/2024 - 20:29:25"
+    },
+    {
+        "song_name": "Jealous",
+        "artists": [
+            "Eyedress"
+        ],
+        "album": "Jealous",
+        "played_at": "29/04/2024 - 20:26:40"
+    },
+    {
+        "song_name": "3 Nights",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "played_at": "29/04/2024 - 20:24:37"
+    },
+    {
+        "song_name": "Freaking Out the Neighborhood",
+        "artists": [
+            "Mac DeMarco"
+        ],
+        "album": "2",
+        "played_at": "29/04/2024 - 20:21:39"
+    },
+    {
+        "song_name": "Hell N Back",
+        "artists": [
+            "Bakar"
+        ],
+        "album": "Hell N Back (Sped Up)",
+        "played_at": "29/04/2024 - 20:18:44"
+    },
+    {
+        "song_name": "505",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "Favourite Worst Nightmare",
+        "played_at": "29/04/2024 - 20:15:10"
+    },
+    {
+        "song_name": "From the Subway Train",
+        "artists": [
+            "Vansire"
+        ],
+        "album": "Angel Youth",
+        "played_at": "29/04/2024 - 20:10:56"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "played_at": "29/04/2024 - 20:09:59"
+    },
+    {
+        "song_name": "Big Black Car",
+        "artists": [
+            "Gregory Alan Isakov"
+        ],
+        "album": "This Empty Northern Hemisphere",
+        "played_at": "29/04/2024 - 20:05:58"
+    },
+    {
+        "song_name": "Heartbeats",
+        "artists": [
+            "José González"
+        ],
+        "album": "Veneer",
+        "played_at": "29/04/2024 - 20:02:20"
+    },
+    {
+        "song_name": "Feeling You",
+        "artists": [
+            "Harrison Storm"
+        ],
+        "album": "Feeling You",
+        "played_at": "29/04/2024 - 19:59:39"
+    },
+    {
+        "song_name": "Live Well",
+        "artists": [
+            "Palace"
+        ],
+        "album": "So Long Forever",
+        "played_at": "29/04/2024 - 19:56:17"
+    },
+    {
         "song_name": "Softcore",
         "artists": [
             "The Neighbourhood"
@@ -14,6 +174,14 @@
         ],
         "album": "Living In A Haze",
         "played_at": "29/04/2024 - 19:48:40"
+    },
+    {
+        "song_name": "Reflections",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "29/04/2024 - 19:41:14"
     },
     {
         "song_name": "Reflections",
@@ -159,6 +327,14 @@
         "played_at": "29/04/2024 - 17:45:40"
     },
     {
+        "song_name": "500lbs",
+        "artists": [
+            "Lil Tecca"
+        ],
+        "album": "TEC",
+        "played_at": "29/04/2024 - 15:32:10"
+    },
+    {
         "song_name": "Gangsta",
         "artists": [
             "Free Nationals",
@@ -246,190 +422,5 @@
         ],
         "album": "WE STILL DON'T TRUST YOU",
         "played_at": "29/04/2024 - 14:31:39"
-    },
-    {
-        "song_name": "3:15 (Breathe)",
-        "artists": [
-            "Russ"
-        ],
-        "album": "3:15 (Breathe)",
-        "played_at": "29/04/2024 - 14:27:25"
-    },
-    {
-        "song_name": "Hate It Or Love It",
-        "artists": [
-            "The Game",
-            "50 Cent"
-        ],
-        "album": "The Documentary",
-        "played_at": "29/04/2024 - 14:23:25"
-    },
-    {
-        "song_name": "Los Pollos Hermanos",
-        "artists": [
-            "Knucks"
-        ],
-        "album": "ALPHA PLACE",
-        "played_at": "29/04/2024 - 14:19:57"
-    },
-    {
-        "song_name": "The Night We Met",
-        "artists": [
-            "Lord Huron"
-        ],
-        "album": "The Night We Met",
-        "played_at": "29/04/2024 - 14:18:22"
-    },
-    {
-        "song_name": "Lose It All (I Don't Wanna)",
-        "artists": [
-            "BUNT."
-        ],
-        "album": "Levi Don't Do It",
-        "played_at": "29/04/2024 - 14:14:53"
-    },
-    {
-        "song_name": "Senior Skip Day",
-        "artists": [
-            "Mac Miller"
-        ],
-        "album": "K.I.D.S.",
-        "played_at": "29/04/2024 - 14:12:33"
-    },
-    {
-        "song_name": "Over You",
-        "artists": [
-            "Madism",
-            "Philip Strand"
-        ],
-        "album": "Over You",
-        "played_at": "29/04/2024 - 14:09:37"
-    },
-    {
-        "song_name": "Hide (feat. Seezyn)",
-        "artists": [
-            "Juice WRLD",
-            "Seezyn"
-        ],
-        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "played_at": "29/04/2024 - 14:07:13"
-    },
-    {
-        "song_name": "Reflections",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "29/04/2024 - 14:03:47"
-    },
-    {
-        "song_name": "Type Shit",
-        "artists": [
-            "Future",
-            "Metro Boomin",
-            "Travis Scott",
-            "Playboi Carti"
-        ],
-        "album": "WE DON'T TRUST YOU",
-        "played_at": "29/04/2024 - 13:55:50"
-    },
-    {
-        "song_name": "Softcore",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "Hard To Imagine The Neighbourhood Ever Changing",
-        "played_at": "29/04/2024 - 07:25:50"
-    },
-    {
-        "song_name": "Sweater Weather",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "29/04/2024 - 07:11:55"
-    },
-    {
-        "song_name": "Sweater Weather",
-        "artists": [
-            "The Neighbourhood"
-        ],
-        "album": "I Love You.",
-        "played_at": "28/04/2024 - 14:47:15"
-    },
-    {
-        "song_name": "Let Me Go",
-        "artists": [
-            "Plivi",
-            "Emund"
-        ],
-        "album": "Let Me Go",
-        "played_at": "28/04/2024 - 14:43:01"
-    },
-    {
-        "song_name": "Let Go",
-        "artists": [
-            "Aaron May"
-        ],
-        "album": "CHASE",
-        "played_at": "28/04/2024 - 12:13:51"
-    },
-    {
-        "song_name": "cross my heart",
-        "artists": [
-            "Artemas"
-        ],
-        "album": "pretty",
-        "played_at": "28/04/2024 - 12:13:06"
-    },
-    {
-        "song_name": "Jumbotron Shit Poppin",
-        "artists": [
-            "Drake"
-        ],
-        "album": "Her Loss",
-        "played_at": "28/04/2024 - 12:10:40"
-    },
-    {
-        "song_name": "ball w/o you",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "28/04/2024 - 12:08:23"
-    },
-    {
-        "song_name": "ball w/o you",
-        "artists": [
-            "21 Savage"
-        ],
-        "album": "i am > i was",
-        "played_at": "28/04/2024 - 12:05:38"
-    },
-    {
-        "song_name": "Flocky Flocky (feat. Travis Scott)",
-        "artists": [
-            "Don Toliver",
-            "Travis Scott"
-        ],
-        "album": "Life of a DON",
-        "played_at": "28/04/2024 - 12:04:43"
-    },
-    {
-        "song_name": "16",
-        "artists": [
-            "Baby Keem"
-        ],
-        "album": "The Melodic Blue",
-        "played_at": "28/04/2024 - 12:01:39"
-    },
-    {
-        "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-        "artists": [
-            "A$AP Rocky",
-            "Skepta"
-        ],
-        "album": "TESTING",
-        "played_at": "28/04/2024 - 11:59:03"
     }
 ]
