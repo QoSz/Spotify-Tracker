@@ -52,13 +52,10 @@ def save_to_json(data, play_count, filename='spotify_data.json'):
         track = item['track']
         played_at = item['played_at']
         try:
-            # First try to parse with microseconds
             played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%S.%fZ')
         except ValueError:
-            # If it fails, parse without microseconds
             played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%SZ')
         
-        # Convert UTC datetime to London time
         played_at_dt = pytz.utc.localize(played_at_dt).astimezone(london_tz)
         formatted_played_at = played_at_dt.strftime('%d/%m/%Y - %H:%M:%S')
 
@@ -69,14 +66,15 @@ def save_to_json(data, play_count, filename='spotify_data.json'):
             'played_at': formatted_played_at
         }
         simplified_data.append(track_info)
-        play_count += 1
 
     simplified_data = simplified_data[-200:]
 
     with open(filename, 'w', encoding='utf-8') as outfile:
-        json.dump({'tracks': simplified_data}, outfile, ensure_ascii=False, indent=4)
+        # Include the play count in the JSON file
+        json.dump({'total_plays': play_count, 'tracks': simplified_data}, outfile, ensure_ascii=False, indent=4)
 
     save_play_count(play_count)
+
 
 
 def git_commit_and_push(repo_dir, filename):
