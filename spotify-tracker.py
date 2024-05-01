@@ -5,30 +5,61 @@ from spotipy.oauth2 import SpotifyOAuth
 import git
 from dotenv import load_dotenv
 from datetime import datetime
+import pytz
+import sqlite3
+
+def initialize_database():
+    conn = sqlite3.connect('play_counter.db')
+    c = conn.cursor()
+    c.execute('''CREATE TABLE IF NOT EXISTS play_count
+                 (id INTEGER PRIMARY KEY, count INTEGER)''')
+    c.execute('SELECT count FROM play_count WHERE id=1')
+    if c.fetchone() is None:
+        c.execute('INSERT INTO play_count (id, count) VALUES (1, 0)')
+    conn.commit()
+    conn.close()
+
+def load_play_count():
+    conn = sqlite3.connect('play_counter.db')
+    c = conn.cursor()
+    c.execute('SELECT count FROM play_count WHERE id=1')
+    count = c.fetchone()[0]
+    conn.close()
+    return count
+
+def save_play_count(count):
+    conn = sqlite3.connect('play_counter.db')
+    c = conn.cursor()
+    c.execute('UPDATE play_count SET count = ? WHERE id = 1', (count,))
+    conn.commit()
+    conn.close()
 
 def fetch_spotify_data():
-    # Spotify Authentication
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope="user-read-recently-played"))
+    return sp.current_user_recently_played(limit=50)
 
-    # Fetch recent tracks
-    results = sp.current_user_recently_played(limit=50)  # Adjust the limit as needed
-    return results
+def save_to_json(data, play_count, filename='spotify_data.json'):
+    try:
+        with open(filename, 'r', encoding='utf-8') as infile:
+            existing_data = json.load(infile)
+            simplified_data = existing_data.get('tracks', [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        simplified_data = []
 
+    london_tz = pytz.timezone('Europe/London')
 
-def save_to_json(data, filename='spotify_data.json'):
-    simplified_data = []
     for item in data['items']:
         track = item['track']
         played_at = item['played_at']
-
-        # Check if 'played_at' contains microseconds
-        if '.' not in played_at:
-            # If no microseconds, use a format string without '%f'
-            played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%SZ')
-        else:
-            # If microseconds are present, include '%f' in the format string
+        try:
+            # First try to parse with microseconds
             played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%S.%fZ')
-
+        except ValueError:
+            # If it fails, parse without microseconds
+            played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%SZ')
+        
+        # Convert UTC datetime to London time
+        played_at_dt = pytz.utc.localize(played_at_dt).astimezone(london_tz)
         formatted_played_at = played_at_dt.strftime('%d/%m/%Y - %H:%M:%S')
 
         track_info = {
@@ -38,13 +69,17 @@ def save_to_json(data, filename='spotify_data.json'):
             'played_at': formatted_played_at
         }
         simplified_data.append(track_info)
+        play_count += 1
+
+    simplified_data = simplified_data[-200:]
 
     with open(filename, 'w', encoding='utf-8') as outfile:
-        json.dump(simplified_data, outfile, ensure_ascii=False, indent=4)
+        json.dump({'tracks': simplified_data}, outfile, ensure_ascii=False, indent=4)
+
+    save_play_count(play_count)
 
 
 def git_commit_and_push(repo_dir, filename):
-    # Git operations
     repo = git.Repo(repo_dir)
     repo.git.add(filename)
     repo.index.commit('Update listening history')
@@ -52,18 +87,12 @@ def git_commit_and_push(repo_dir, filename):
     origin.push()
 
 def main():
-    # Load environment variables
     load_dotenv()
-
-    # Fetch Spotify Data
+    initialize_database()  # Ensure database is set up
+    play_count = load_play_count()
     spotify_data = fetch_spotify_data()
-
-    # Save to JSON
-    save_to_json(spotify_data)
-
-    # Git commit and push
-    repo_dir = os.getcwd()  # Gets the current working directory
-    git_commit_and_push(repo_dir, 'spotify_data.json')
+    save_to_json(spotify_data, play_count, 'spotify_data.json')
+    git_commit_and_push(os.getcwd(), 'spotify_data.json')
 
 if __name__ == '__main__':
     main()
