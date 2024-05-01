@@ -1,5 +1,384 @@
 [
     {
+        "song_name": "The Adults Are Talking",
+        "artists": [
+            "The Strokes"
+        ],
+        "album": "The New Abnormal",
+        "played_at": "01/05/2024 - 18:22:34"
+    },
+    {
+        "song_name": "TEETH (feat. Diggy Graves)",
+        "artists": [
+            "WesGhost",
+            "Diggy Graves"
+        ],
+        "album": "TEETH (feat. Diggy Graves)",
+        "played_at": "01/05/2024 - 18:07:50"
+    },
+    {
+        "song_name": "Sweater Weather",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "played_at": "01/05/2024 - 18:05:20"
+    },
+    {
+        "song_name": "How Much Is Weed?",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Sunburn",
+        "played_at": "01/05/2024 - 18:01:19"
+    },
+    {
+        "song_name": "Naturally",
+        "artists": [
+            "Lime Cordiale"
+        ],
+        "album": "Permanent Vacation",
+        "played_at": "01/05/2024 - 17:59:13"
+    },
+    {
+        "song_name": "I Think I Left the Stove On",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "I Think I Left the Stove On",
+        "played_at": "01/05/2024 - 17:56:22"
+    },
+    {
+        "song_name": "505",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "album": "Favourite Worst Nightmare",
+        "played_at": "01/05/2024 - 17:52:59"
+    },
+    {
+        "song_name": "Coastline",
+        "artists": [
+            "Hollow Coves"
+        ],
+        "album": "Wanderlust",
+        "played_at": "01/05/2024 - 17:48:37"
+    },
+    {
+        "song_name": "Softcore",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "played_at": "01/05/2024 - 17:45:03"
+    },
+    {
+        "song_name": "no way out",
+        "artists": [
+            "ivri"
+        ],
+        "album": "no way out",
+        "played_at": "01/05/2024 - 17:41:36"
+    },
+    {
+        "song_name": "Cigarette Daydreams",
+        "artists": [
+            "Cage The Elephant"
+        ],
+        "album": "Melophobia",
+        "played_at": "01/05/2024 - 17:39:42"
+    },
+    {
+        "song_name": "Revenge",
+        "artists": [
+            "XXXTENTACION"
+        ],
+        "album": "17",
+        "played_at": "01/05/2024 - 17:36:12"
+    },
+    {
+        "song_name": "Grandmother",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Grandmother",
+        "played_at": "01/05/2024 - 17:34:12"
+    },
+    {
+        "song_name": "count the days",
+        "artists": [
+            "cxldface"
+        ],
+        "album": "Hell For You",
+        "played_at": "01/05/2024 - 17:26:33"
+    },
+    {
+        "song_name": "lungs",
+        "artists": [
+            "Max Fry"
+        ],
+        "album": "so close to ok",
+        "played_at": "01/05/2024 - 17:24:36"
+    },
+    {
+        "song_name": "Trapped in a Club",
+        "artists": [
+            "SALES"
+        ],
+        "album": "SALES LP",
+        "played_at": "01/05/2024 - 17:22:35"
+    },
+    {
+        "song_name": "Fish Maan",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Ugly Duck",
+        "played_at": "01/05/2024 - 17:20:58"
+    },
+    {
+        "song_name": "Bloom (Online Bonus Track)",
+        "artists": [
+            "The Paper Kites"
+        ],
+        "album": "Woodland",
+        "played_at": "01/05/2024 - 17:18:45"
+    },
+    {
+        "song_name": "Smile",
+        "artists": [
+            "60 juno"
+        ],
+        "album": "Smile",
+        "played_at": "01/05/2024 - 17:15:15"
+    },
+    {
+        "song_name": "hesitation",
+        "artists": [
+            "Andrew Garden"
+        ],
+        "album": "hesitation",
+        "played_at": "01/05/2024 - 17:13:53"
+    },
+    {
+        "song_name": "teeth (you)",
+        "artists": [
+            "re6ce"
+        ],
+        "album": "teeth (you)",
+        "played_at": "01/05/2024 - 17:10:54"
+    },
+    {
+        "song_name": "Beach Baby",
+        "artists": [
+            "Bon Iver"
+        ],
+        "album": "Blood Bank",
+        "played_at": "01/05/2024 - 17:08:53"
+    },
+    {
+        "song_name": "Wish We Could Be Friends",
+        "artists": [
+            "Krooked Kings"
+        ],
+        "album": "All Out of Good Days",
+        "played_at": "01/05/2024 - 17:06:12"
+    },
+    {
+        "song_name": "Formula",
+        "artists": [
+            "Labrinth"
+        ],
+        "album": "Euphoria (Original Score from the HBO Series)",
+        "played_at": "01/05/2024 - 17:02:13"
+    },
+    {
+        "song_name": "Dirty Love",
+        "artists": [
+            "Mt. Joy"
+        ],
+        "album": "Mt. Joy",
+        "played_at": "01/05/2024 - 17:00:41"
+    },
+    {
+        "song_name": "brown eyes*",
+        "artists": [
+            "re6ce"
+        ],
+        "album": "brown eyes*",
+        "played_at": "01/05/2024 - 16:57:56"
+    },
+    {
+        "song_name": "zombie",
+        "artists": [
+            "Max Fry"
+        ],
+        "album": "zombie",
+        "played_at": "01/05/2024 - 16:54:43"
+    },
+    {
+        "song_name": "Is there free breakfast here?",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Ugly Duck",
+        "played_at": "01/05/2024 - 16:52:31"
+    },
+    {
+        "song_name": "Babydoll",
+        "artists": [
+            "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "played_at": "01/05/2024 - 16:50:22"
+    },
+    {
+        "song_name": "Need 2",
+        "artists": [
+            "Pinegrove"
+        ],
+        "album": "Everything So Far",
+        "played_at": "01/05/2024 - 16:48:43"
+    },
+    {
+        "song_name": "Précis Two",
+        "artists": [
+            "Vansire",
+            "Ivy Sole"
+        ],
+        "album": "After Fillmore County",
+        "played_at": "01/05/2024 - 16:45:31"
+    },
+    {
+        "song_name": "Evergreen",
+        "artists": [
+            "Richy Mitch & The Coal Miners"
+        ],
+        "album": "RMCM",
+        "played_at": "01/05/2024 - 16:44:18"
+    },
+    {
+        "song_name": "i walk this earth all by myself",
+        "artists": [
+            "EKKSTACY"
+        ],
+        "album": "NEGATIVE",
+        "played_at": "01/05/2024 - 16:42:50"
+    },
+    {
+        "song_name": "Shut up My Moms Calling",
+        "artists": [
+            "Hotel Ugly"
+        ],
+        "album": "Shut up My Moms Calling",
+        "played_at": "01/05/2024 - 16:40:24"
+    },
+    {
+        "song_name": "Electric Feel",
+        "artists": [
+            "MGMT"
+        ],
+        "album": "Oracular Spectacular",
+        "played_at": "01/05/2024 - 16:37:39"
+    },
+    {
+        "song_name": "i just want to hide my face",
+        "artists": [
+            "EKKSTACY"
+        ],
+        "album": "misery",
+        "played_at": "01/05/2024 - 16:33:49"
+    },
+    {
+        "song_name": "Georgia",
+        "artists": [
+            "Vance Joy"
+        ],
+        "album": "Dream Your Life Away (Special Edition)",
+        "played_at": "01/05/2024 - 16:31:36"
+    },
+    {
+        "song_name": "Cry Baby",
+        "artists": [
+            "The Neighbourhood"
+        ],
+        "album": "Wiped Out!",
+        "played_at": "01/05/2024 - 16:27:45"
+    },
+    {
+        "song_name": "Honey",
+        "artists": [
+            "Vacations"
+        ],
+        "album": "Changes",
+        "played_at": "01/05/2024 - 16:23:49"
+    },
+    {
+        "song_name": "What You Know",
+        "artists": [
+            "Two Door Cinema Club"
+        ],
+        "album": "Tourist History",
+        "played_at": "01/05/2024 - 16:21:29"
+    },
+    {
+        "song_name": "That I Miss You",
+        "artists": [
+            "Vansire"
+        ],
+        "album": "That I Miss You",
+        "played_at": "01/05/2024 - 16:18:19"
+    },
+    {
+        "song_name": "help herself",
+        "artists": [
+            "bbno$",
+            "Diamond Pistols"
+        ],
+        "album": "help herself",
+        "played_at": "01/05/2024 - 16:15:59"
+    },
+    {
+        "song_name": "im so happy",
+        "artists": [
+            "EKKSTACY"
+        ],
+        "album": "misery",
+        "played_at": "01/05/2024 - 16:12:49"
+    },
+    {
+        "song_name": "Hell N Back",
+        "artists": [
+            "Bakar"
+        ],
+        "album": "Hell N Back (Sped Up)",
+        "played_at": "01/05/2024 - 16:10:29"
+    },
+    {
+        "song_name": "New Slang - 2021 Remaster",
+        "artists": [
+            "The Shins"
+        ],
+        "album": "Oh, Inverted World (20th Anniversary Remaster)",
+        "played_at": "01/05/2024 - 16:06:55"
+    },
+    {
+        "song_name": "Next Exit",
+        "artists": [
+            "Vacations"
+        ],
+        "album": "No Place Like Home",
+        "played_at": "01/05/2024 - 16:03:04"
+    },
+    {
+        "song_name": "Fly Out West - Single Version",
+        "artists": [
+            "Yot Club"
+        ],
+        "album": "Fly Out West",
+        "played_at": "01/05/2024 - 15:59:43"
+    },
+    {
         "song_name": "then i met her",
         "artists": [
             "EKKSTACY"
@@ -22,395 +401,5 @@
         ],
         "album": "Living In A Haze",
         "played_at": "01/05/2024 - 15:51:24"
-    },
-    {
-        "song_name": "rose",
-        "artists": [
-            "jaydes"
-        ],
-        "album": "ghetto cupid",
-        "played_at": "01/05/2024 - 15:48:30"
-    },
-    {
-        "song_name": "3 Nights",
-        "artists": [
-            "Dominic Fike"
-        ],
-        "album": "Don't Forget About Me, Demos",
-        "played_at": "01/05/2024 - 15:46:23"
-    },
-    {
-        "song_name": "The Mannequin Song",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Ugly Duck",
-        "played_at": "01/05/2024 - 15:43:24"
-    },
-    {
-        "song_name": "no way !",
-        "artists": [
-            "Yot Club"
-        ],
-        "album": "aquarium",
-        "played_at": "01/05/2024 - 15:40:40"
-    },
-    {
-        "song_name": "Dive",
-        "artists": [
-            "Olivia Dean"
-        ],
-        "album": "Messy",
-        "played_at": "01/05/2024 - 15:38:57"
-    },
-    {
-        "song_name": "STAY (with Justin Bieber)",
-        "artists": [
-            "The Kid LAROI",
-            "Justin Bieber"
-        ],
-        "album": "F*CK LOVE 3+: OVER YOU",
-        "played_at": "01/05/2024 - 15:29:57"
-    },
-    {
-        "song_name": "Dandelions",
-        "artists": [
-            "Ruth B."
-        ],
-        "album": "Safe Haven",
-        "played_at": "01/05/2024 - 15:27:35"
-    },
-    {
-        "song_name": "I Wanna Be Yours",
-        "artists": [
-            "Arctic Monkeys"
-        ],
-        "album": "AM",
-        "played_at": "01/05/2024 - 15:23:41"
-    },
-    {
-        "song_name": "no way !",
-        "artists": [
-            "Yot Club"
-        ],
-        "album": "aquarium",
-        "played_at": "01/05/2024 - 15:23:05"
-    },
-    {
-        "song_name": "If We Have Each Other",
-        "artists": [
-            "Alec Benjamin"
-        ],
-        "album": "Narrated For You",
-        "played_at": "01/05/2024 - 15:20:37"
-    },
-    {
-        "song_name": "Last Night",
-        "artists": [
-            "Morgan Wallen"
-        ],
-        "album": "One Thing At A Time",
-        "played_at": "01/05/2024 - 15:17:35"
-    },
-    {
-        "song_name": "Ms. Poli Sci",
-        "artists": [
-            "Paul Russell",
-            "Khary"
-        ],
-        "album": "Ms. Poli Sci",
-        "played_at": "01/05/2024 - 15:14:50"
-    },
-    {
-        "song_name": "Stick Season",
-        "artists": [
-            "Noah Kahan"
-        ],
-        "album": "Stick Season",
-        "played_at": "01/05/2024 - 15:12:39"
-    },
-    {
-        "song_name": "Lovin On Me",
-        "artists": [
-            "Jack Harlow"
-        ],
-        "album": "Lovin On Me",
-        "played_at": "01/05/2024 - 15:09:38"
-    },
-    {
-        "song_name": "Sugar Sweet",
-        "artists": [
-            "Benson Boone"
-        ],
-        "album": "Sugar Sweet",
-        "played_at": "01/05/2024 - 15:07:19"
-    },
-    {
-        "song_name": "Clocks",
-        "artists": [
-            "Coldplay"
-        ],
-        "album": "A Rush of Blood to the Head",
-        "played_at": "01/05/2024 - 15:05:26"
-    },
-    {
-        "song_name": "Jungle",
-        "artists": [
-            "Alok",
-            "The Chainsmokers",
-            "Mae Stephens"
-        ],
-        "album": "Jungle",
-        "played_at": "01/05/2024 - 15:04:29"
-    },
-    {
-        "song_name": "MIDDLE OF THE NIGHT",
-        "artists": [
-            "Elley Duhé"
-        ],
-        "album": "PHOENIX",
-        "played_at": "01/05/2024 - 15:01:33"
-    },
-    {
-        "song_name": "Passion",
-        "artists": [
-            "RAC",
-            "Louis The Child"
-        ],
-        "album": "BOY",
-        "played_at": "01/05/2024 - 15:00:18"
-    },
-    {
-        "song_name": "Leave Before You Love Me (with Jonas Brothers)",
-        "artists": [
-            "Marshmello",
-            "Jonas Brothers"
-        ],
-        "album": "Leave Before You Love Me",
-        "played_at": "01/05/2024 - 14:58:28"
-    },
-    {
-        "song_name": "Stolen Dance",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Sadnecessary",
-        "played_at": "01/05/2024 - 14:58:04"
-    },
-    {
-        "song_name": "Chemical",
-        "artists": [
-            "Post Malone"
-        ],
-        "album": "Chemical",
-        "played_at": "01/05/2024 - 14:55:52"
-    },
-    {
-        "song_name": "Stevie Doesn't Wonder",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Stevie Doesn't Wonder",
-        "played_at": "01/05/2024 - 14:52:50"
-    },
-    {
-        "song_name": "Ghost",
-        "artists": [
-            "Justin Bieber"
-        ],
-        "album": "Justice",
-        "played_at": "01/05/2024 - 14:52:48"
-    },
-    {
-        "song_name": "uh oh",
-        "artists": [
-            "Tate McRae"
-        ],
-        "album": "uh oh",
-        "played_at": "01/05/2024 - 14:50:14"
-    },
-    {
-        "song_name": "Mardy Bum",
-        "artists": [
-            "Arctic Monkeys"
-        ],
-        "album": "Whatever People Say I Am, That's What I'm Not",
-        "played_at": "01/05/2024 - 14:50:05"
-    },
-    {
-        "song_name": "LOVE AGAIN",
-        "artists": [
-            "The Kid LAROI"
-        ],
-        "album": "THE FIRST TIME",
-        "played_at": "01/05/2024 - 14:47:24"
-    },
-    {
-        "song_name": "Live Well",
-        "artists": [
-            "Palace"
-        ],
-        "album": "So Long Forever",
-        "played_at": "01/05/2024 - 14:47:09"
-    },
-    {
-        "song_name": "Shut up My Moms Calling - (Sped Up)",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Shut up My Moms Calling (Sped up)",
-        "played_at": "01/05/2024 - 14:44:56"
-    },
-    {
-        "song_name": "alright (feat. The Kid LAROI)",
-        "artists": [
-            "EKKSTACY",
-            "The Kid LAROI"
-        ],
-        "album": "EKKSTACY",
-        "played_at": "01/05/2024 - 14:42:59"
-    },
-    {
-        "song_name": "Lose Control",
-        "artists": [
-            "Teddy Swims"
-        ],
-        "album": "I've Tried Everything But Therapy (Part 1)",
-        "played_at": "01/05/2024 - 14:42:41"
-    },
-    {
-        "song_name": "Synchronize",
-        "artists": [
-            "Milky Chance"
-        ],
-        "album": "Trip Tape II",
-        "played_at": "01/05/2024 - 14:40:48"
-    },
-    {
-        "song_name": "Mrs. Hollywood",
-        "artists": [
-            "Go-Jo"
-        ],
-        "album": "Mrs. Hollywood",
-        "played_at": "01/05/2024 - 14:39:10"
-    },
-    {
-        "song_name": "Dirty Love",
-        "artists": [
-            "Mt. Joy"
-        ],
-        "album": "Mt. Joy",
-        "played_at": "01/05/2024 - 14:38:03"
-    },
-    {
-        "song_name": "Piggypink",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Piggypink",
-        "played_at": "01/05/2024 - 14:35:18"
-    },
-    {
-        "song_name": "Give Me a Kiss",
-        "artists": [
-            "Crash Adams"
-        ],
-        "album": "Give Me a Kiss",
-        "played_at": "01/05/2024 - 14:33:01"
-    },
-    {
-        "song_name": "Dial Drunk (with Post Malone)",
-        "artists": [
-            "Noah Kahan",
-            "Post Malone"
-        ],
-        "album": "Dial Drunk (with Post Malone)",
-        "played_at": "01/05/2024 - 14:32:38"
-    },
-    {
-        "song_name": "10:35",
-        "artists": [
-            "Tiësto",
-            "Tate McRae"
-        ],
-        "album": "DRIVE",
-        "played_at": "01/05/2024 - 14:30:12"
-    },
-    {
-        "song_name": "Metamodernity",
-        "artists": [
-            "Vansire"
-        ],
-        "album": "Metamodernity",
-        "played_at": "01/05/2024 - 14:29:04"
-    },
-    {
-        "song_name": "Following the Sun",
-        "artists": [
-            "SUPER-Hi",
-            "NEEKA"
-        ],
-        "album": "Following the Sun",
-        "played_at": "01/05/2024 - 14:27:19"
-    },
-    {
-        "song_name": "C U Girl",
-        "artists": [
-            "Steve Lacy"
-        ],
-        "album": "C U Girl",
-        "played_at": "01/05/2024 - 14:26:20"
-    },
-    {
-        "song_name": "i walk this earth all by myself",
-        "artists": [
-            "EKKSTACY"
-        ],
-        "album": "NEGATIVE",
-        "played_at": "01/05/2024 - 14:24:10"
-    },
-    {
-        "song_name": "As It Was",
-        "artists": [
-            "Harry Styles"
-        ],
-        "album": "Harry's House",
-        "played_at": "01/05/2024 - 14:23:53"
-    },
-    {
-        "song_name": "High and Dry",
-        "artists": [
-            "Radiohead"
-        ],
-        "album": "The Bends",
-        "played_at": "01/05/2024 - 14:21:44"
-    },
-    {
-        "song_name": "Levitating (feat. DaBaby)",
-        "artists": [
-            "Dua Lipa",
-            "DaBaby"
-        ],
-        "album": "Future Nostalgia",
-        "played_at": "01/05/2024 - 14:21:05"
-    },
-    {
-        "song_name": "Deep Down (feat. Never Dull)",
-        "artists": [
-            "Alok",
-            "Ella Eyre",
-            "Kenny Dope",
-            "Never Dull"
-        ],
-        "album": "Deep Down (feat. Never Dull)",
-        "played_at": "01/05/2024 - 14:17:42"
-    },
-    {
-        "song_name": "Is there free breakfast here?",
-        "artists": [
-            "Hotel Ugly"
-        ],
-        "album": "Ugly Duck",
-        "played_at": "01/05/2024 - 14:17:26"
     }
 ]
