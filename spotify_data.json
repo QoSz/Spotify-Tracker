@@ -818,6 +818,14 @@
             "played_at": "01/05/2024 - 23:54:40"
         },
         {
+            "song_name": "North Face",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Analogue",
+            "played_at": "01/05/2024 - 23:42:25"
+        },
+        {
             "song_name": "The Difference",
             "artists": [
                 "Flume",
@@ -1204,14 +1212,6 @@
             ],
             "album": "hesitation",
             "played_at": "01/05/2024 - 18:13:53"
-        },
-        {
-            "song_name": "teeth (you)",
-            "artists": [
-                "re6ce"
-            ],
-            "album": "teeth (you)",
-            "played_at": "01/05/2024 - 18:10:54"
         },
         {
             "song_name": "North Face",
