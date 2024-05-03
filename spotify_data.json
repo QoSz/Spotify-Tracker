@@ -2,427 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "02/05/2024 - 21:17:27"
-        },
-        {
-            "song_name": "Deep Down (feat. Never Dull)",
-            "artists": [
-                "Alok",
-                "Ella Eyre",
-                "Kenny Dope",
-                "Never Dull"
-            ],
-            "album": "Deep Down (feat. Never Dull)",
-            "played_at": "02/05/2024 - 21:04:07"
-        },
-        {
-            "song_name": "As It Was",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Harry's House",
-            "played_at": "02/05/2024 - 21:01:21"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Levi Don't Do It",
-            "played_at": "02/05/2024 - 20:58:33"
-        },
-        {
-            "song_name": "Caught in a Dream",
-            "artists": [
-                "PALASTIC",
-                "LissA"
-            ],
-            "album": "Caught in a Dream",
-            "played_at": "02/05/2024 - 20:50:21"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "02/05/2024 - 20:44:20"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "02/05/2024 - 20:40:35"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "02/05/2024 - 20:37:52"
-        },
-        {
-            "song_name": "Drifting",
-            "artists": [
-                "Tiësto"
-            ],
-            "album": "Drifting",
-            "played_at": "02/05/2024 - 20:35:25"
-        },
-        {
-            "song_name": "Because You Move Me",
-            "artists": [
-                "Tinlicker",
-                "Helsloot"
-            ],
-            "album": "Because You Move Me",
-            "played_at": "02/05/2024 - 20:32:57"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "02/05/2024 - 20:29:41"
-        },
-        {
-            "song_name": "Ride It",
-            "artists": [
-                "Regard"
-            ],
-            "album": "Ride It",
-            "played_at": "02/05/2024 - 20:25:40"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "02/05/2024 - 20:23:02"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "02/05/2024 - 20:20:47"
-        },
-        {
-            "song_name": "Marea (we’ve lost dancing)",
-            "artists": [
-                "Fred again..",
-                "The Blessed Madonna"
-            ],
-            "album": "Actual Life (April 14 - December 17 2020)",
-            "played_at": "02/05/2024 - 20:12:21"
-        },
-        {
-            "song_name": "On My Love",
-            "artists": [
-                "Zara Larsson",
-                "David Guetta"
-            ],
-            "album": "VENUS",
-            "played_at": "02/05/2024 - 20:04:53"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "02/05/2024 - 20:01:09"
-        },
-        {
-            "song_name": "Fast Life",
-            "artists": [
-                "GEE LEE",
-                "India Shan"
-            ],
-            "album": "Fast Life",
-            "played_at": "02/05/2024 - 19:58:28"
-        },
-        {
-            "song_name": "Drive By",
-            "artists": [
-                "Train"
-            ],
-            "album": "California 37",
-            "played_at": "02/05/2024 - 19:56:07"
-        },
-        {
-            "song_name": "Drive By",
-            "artists": [
-                "Train"
-            ],
-            "album": "California 37",
-            "played_at": "02/05/2024 - 19:54:29"
-        },
-        {
-            "song_name": "THATS WHAT I WANT",
-            "artists": [
-                "Lil Nas X"
-            ],
-            "album": "MONTERO",
-            "played_at": "02/05/2024 - 19:42:47"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "02/05/2024 - 19:40:23"
-        },
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "02/05/2024 - 19:36:49"
-        },
-        {
-            "song_name": "Saturday Night (Feel The Groove)",
-            "artists": [
-                "Brando",
-                "Ninetails"
-            ],
-            "album": "Saturday Night (Feel The Groove)",
-            "played_at": "02/05/2024 - 19:33:39"
-        },
-        {
-            "song_name": "Time of Our Lives",
-            "artists": [
-                "Pitbull",
-                "Ne-Yo"
-            ],
-            "album": "Globalization",
-            "played_at": "02/05/2024 - 19:31:05"
-        },
-        {
-            "song_name": "Courtesy",
-            "artists": [
-                "Money Man"
-            ],
-            "album": "Epidemic",
-            "played_at": "02/05/2024 - 19:24:54"
-        },
-        {
-            "song_name": "I Don't Wanna Do This Anymore",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Revenge",
-            "played_at": "02/05/2024 - 19:22:43"
-        },
-        {
-            "song_name": "Kid Cudi - Remix",
-            "artists": [
-                "Xavier Wulf"
-            ],
-            "album": "Kid Cudi (Remix)",
-            "played_at": "02/05/2024 - 19:21:15"
-        },
-        {
-            "song_name": "Did It Again",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "02/05/2024 - 19:19:39"
-        },
-        {
-            "song_name": "whoa (mind in awe)",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "SKINS",
-            "played_at": "02/05/2024 - 19:17:41"
-        },
-        {
-            "song_name": "North Face",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Analogue",
-            "played_at": "02/05/2024 - 00:18:30"
-        },
-        {
-            "song_name": "North Face",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Analogue",
-            "played_at": "01/05/2024 - 23:54:40"
-        },
-        {
-            "song_name": "North Face",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Analogue",
-            "played_at": "01/05/2024 - 23:42:25"
-        },
-        {
-            "song_name": "The Difference",
-            "artists": [
-                "Flume",
-                "Toro y Moi"
-            ],
-            "album": "The Difference",
-            "played_at": "01/05/2024 - 23:31:07"
-        },
-        {
-            "song_name": "All I Ever Asked",
-            "artists": [
-                "Rachel Chinouriri"
-            ],
-            "album": "All I Ever Asked",
-            "played_at": "01/05/2024 - 23:28:47"
-        },
-        {
-            "song_name": "Peach",
-            "artists": [
-                "Kevin Abstract"
-            ],
-            "album": "ARIZONA BABY",
-            "played_at": "01/05/2024 - 23:25:11"
-        },
-        {
-            "song_name": "3 Nights",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "01/05/2024 - 23:22:14"
-        },
-        {
-            "song_name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-            "played_at": "01/05/2024 - 23:19:16"
-        },
-        {
-            "song_name": "SUGAR",
-            "artists": [
-                "BROCKHAMPTON"
-            ],
-            "album": "GINGER",
-            "played_at": "01/05/2024 - 23:16:09"
-        },
-        {
-            "song_name": "Sunflower",
-            "artists": [
-                "Rex Orange County"
-            ],
-            "album": "Sunflower",
-            "played_at": "01/05/2024 - 23:12:45"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Hell N Back (feat. Summer Walker)",
-            "played_at": "01/05/2024 - 23:08:32"
-        },
-        {
-            "song_name": "Goodie Bag",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Goodie Bag",
-            "played_at": "01/05/2024 - 23:05:16"
-        },
-        {
-            "song_name": "Pain",
-            "artists": [
-                "PinkPantheress"
-            ],
-            "album": "to hell with it",
-            "played_at": "01/05/2024 - 23:02:49"
-        },
-        {
-            "song_name": "Bags",
-            "artists": [
-                "Clairo"
-            ],
-            "album": "Immunity",
-            "played_at": "01/05/2024 - 23:01:10"
-        },
-        {
-            "song_name": "Bad Habit",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Bad Habit",
-            "played_at": "01/05/2024 - 22:56:49"
-        },
-        {
-            "song_name": "Good Looking",
-            "artists": [
-                "Suki Waterhouse"
-            ],
-            "album": "Good Looking",
-            "played_at": "01/05/2024 - 22:52:56"
-        },
-        {
-            "song_name": "Good Looking",
-            "artists": [
-                "Suki Waterhouse"
-            ],
-            "album": "Good Looking",
-            "played_at": "01/05/2024 - 22:51:45"
-        },
-        {
-            "song_name": "Good Looking",
-            "artists": [
-                "Suki Waterhouse"
-            ],
-            "album": "Good Looking",
-            "played_at": "01/05/2024 - 22:50:52"
-        },
-        {
-            "song_name": "BEST INTEREST",
-            "artists": [
-                "Tyler, The Creator"
-            ],
-            "album": "BEST INTEREST",
-            "played_at": "01/05/2024 - 22:48:50"
-        },
-        {
-            "song_name": "SLOW DANCING IN THE DARK",
-            "artists": [
-                "Joji"
-            ],
-            "album": "BALLADS 1",
-            "played_at": "01/05/2024 - 22:46:42"
-        },
-        {
             "song_name": "Would You Lie",
             "artists": [
                 "Seeb",
@@ -1289,6 +868,439 @@
             ],
             "album": "The Difference",
             "played_at": "01/05/2024 - 23:31:07"
+        },
+        {
+            "song_name": "Would You Lie",
+            "artists": [
+                "Seeb",
+                "Alexander Stewart"
+            ],
+            "album": "Would You Lie",
+            "played_at": "03/05/2024 - 09:58:06"
+        },
+        {
+            "song_name": "No Fear",
+            "artists": [
+                "DeJ Loaf"
+            ],
+            "album": "No Fear",
+            "played_at": "03/05/2024 - 09:54:31"
+        },
+        {
+            "song_name": "Drive By",
+            "artists": [
+                "Train"
+            ],
+            "album": "California 37",
+            "played_at": "03/05/2024 - 09:51:41"
+        },
+        {
+            "song_name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
+            "artists": [
+                "Maverick Sabre",
+                "Jorja Smith",
+                "Vintage Culture",
+                "Slow Motion"
+            ],
+            "album": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
+            "played_at": "03/05/2024 - 09:45:02"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "03/05/2024 - 09:33:39"
+        },
+        {
+            "song_name": "Mood (feat. iann dior)",
+            "artists": [
+                "24kGoldn",
+                "iann dior"
+            ],
+            "album": "El Dorado",
+            "played_at": "03/05/2024 - 09:30:57"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "03/05/2024 - 09:28:36"
+        },
+        {
+            "song_name": "Cooped Up / Return Of The Mack",
+            "artists": [
+                "Post Malone",
+                "Mark Morrison",
+                "Sickick"
+            ],
+            "album": "Cooped Up / Return Of The Mack",
+            "played_at": "03/05/2024 - 09:23:22"
+        },
+        {
+            "song_name": "Me, Myself & I",
+            "artists": [
+                "G-Eazy",
+                "Bebe Rexha"
+            ],
+            "album": "When It's Dark Out",
+            "played_at": "03/05/2024 - 09:21:15"
+        },
+        {
+            "song_name": "THATS WHAT I WANT",
+            "artists": [
+                "Lil Nas X"
+            ],
+            "album": "MONTERO",
+            "played_at": "03/05/2024 - 09:17:04"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "03/05/2024 - 09:14:40"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "03/05/2024 - 09:06:53"
+        },
+        {
+            "song_name": "summer on the inside",
+            "artists": [
+                "warner case",
+                "Jean Tonique",
+                "Max Kaluza"
+            ],
+            "album": "summer on the inside",
+            "played_at": "03/05/2024 - 09:03:57"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "03/05/2024 - 09:00:32"
+        },
+        {
+            "song_name": "Like This",
+            "artists": [
+                "Syn Cole"
+            ],
+            "album": "Like This",
+            "played_at": "03/05/2024 - 08:57:34"
+        },
+        {
+            "song_name": "10:35",
+            "artists": [
+                "Tiësto",
+                "Tate McRae"
+            ],
+            "album": "DRIVE",
+            "played_at": "03/05/2024 - 08:54:47"
+        },
+        {
+            "song_name": "Saturday Night (Feel The Groove)",
+            "artists": [
+                "Brando",
+                "Ninetails"
+            ],
+            "album": "Saturday Night (Feel The Groove)",
+            "played_at": "03/05/2024 - 08:51:55"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "02/05/2024 - 21:17:27"
+        },
+        {
+            "song_name": "Deep Down (feat. Never Dull)",
+            "artists": [
+                "Alok",
+                "Ella Eyre",
+                "Kenny Dope",
+                "Never Dull"
+            ],
+            "album": "Deep Down (feat. Never Dull)",
+            "played_at": "02/05/2024 - 21:04:07"
+        },
+        {
+            "song_name": "As It Was",
+            "artists": [
+                "Harry Styles"
+            ],
+            "album": "Harry's House",
+            "played_at": "02/05/2024 - 21:01:21"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "02/05/2024 - 20:58:33"
+        },
+        {
+            "song_name": "Caught in a Dream",
+            "artists": [
+                "PALASTIC",
+                "LissA"
+            ],
+            "album": "Caught in a Dream",
+            "played_at": "02/05/2024 - 20:50:21"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "02/05/2024 - 20:44:20"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "02/05/2024 - 20:40:35"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "02/05/2024 - 20:37:52"
+        },
+        {
+            "song_name": "Drifting",
+            "artists": [
+                "Tiësto"
+            ],
+            "album": "Drifting",
+            "played_at": "02/05/2024 - 20:35:25"
+        },
+        {
+            "song_name": "Because You Move Me",
+            "artists": [
+                "Tinlicker",
+                "Helsloot"
+            ],
+            "album": "Because You Move Me",
+            "played_at": "02/05/2024 - 20:32:57"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "02/05/2024 - 20:29:41"
+        },
+        {
+            "song_name": "Ride It",
+            "artists": [
+                "Regard"
+            ],
+            "album": "Ride It",
+            "played_at": "02/05/2024 - 20:25:40"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "02/05/2024 - 20:23:02"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "02/05/2024 - 20:20:47"
+        },
+        {
+            "song_name": "Marea (we’ve lost dancing)",
+            "artists": [
+                "Fred again..",
+                "The Blessed Madonna"
+            ],
+            "album": "Actual Life (April 14 - December 17 2020)",
+            "played_at": "02/05/2024 - 20:12:21"
+        },
+        {
+            "song_name": "On My Love",
+            "artists": [
+                "Zara Larsson",
+                "David Guetta"
+            ],
+            "album": "VENUS",
+            "played_at": "02/05/2024 - 20:04:53"
+        },
+        {
+            "song_name": "Every Step",
+            "artists": [
+                "D.O.D"
+            ],
+            "album": "Every Step",
+            "played_at": "02/05/2024 - 20:01:09"
+        },
+        {
+            "song_name": "Fast Life",
+            "artists": [
+                "GEE LEE",
+                "India Shan"
+            ],
+            "album": "Fast Life",
+            "played_at": "02/05/2024 - 19:58:28"
+        },
+        {
+            "song_name": "Drive By",
+            "artists": [
+                "Train"
+            ],
+            "album": "California 37",
+            "played_at": "02/05/2024 - 19:56:07"
+        },
+        {
+            "song_name": "Drive By",
+            "artists": [
+                "Train"
+            ],
+            "album": "California 37",
+            "played_at": "02/05/2024 - 19:54:29"
+        },
+        {
+            "song_name": "THATS WHAT I WANT",
+            "artists": [
+                "Lil Nas X"
+            ],
+            "album": "MONTERO",
+            "played_at": "02/05/2024 - 19:42:47"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "02/05/2024 - 19:40:23"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "02/05/2024 - 19:36:49"
+        },
+        {
+            "song_name": "Saturday Night (Feel The Groove)",
+            "artists": [
+                "Brando",
+                "Ninetails"
+            ],
+            "album": "Saturday Night (Feel The Groove)",
+            "played_at": "02/05/2024 - 19:33:39"
+        },
+        {
+            "song_name": "Time of Our Lives",
+            "artists": [
+                "Pitbull",
+                "Ne-Yo"
+            ],
+            "album": "Globalization",
+            "played_at": "02/05/2024 - 19:31:05"
+        },
+        {
+            "song_name": "Courtesy",
+            "artists": [
+                "Money Man"
+            ],
+            "album": "Epidemic",
+            "played_at": "02/05/2024 - 19:24:54"
+        },
+        {
+            "song_name": "I Don't Wanna Do This Anymore",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Revenge",
+            "played_at": "02/05/2024 - 19:22:43"
+        },
+        {
+            "song_name": "Kid Cudi - Remix",
+            "artists": [
+                "Xavier Wulf"
+            ],
+            "album": "Kid Cudi (Remix)",
+            "played_at": "02/05/2024 - 19:21:15"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "02/05/2024 - 19:19:39"
+        },
+        {
+            "song_name": "whoa (mind in awe)",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "SKINS",
+            "played_at": "02/05/2024 - 19:17:41"
+        },
+        {
+            "song_name": "North Face",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Analogue",
+            "played_at": "02/05/2024 - 00:18:30"
+        },
+        {
+            "song_name": "North Face",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Analogue",
+            "played_at": "01/05/2024 - 23:54:40"
+        },
+        {
+            "song_name": "North Face",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Analogue",
+            "played_at": "01/05/2024 - 23:42:25"
         },
         {
             "song_name": "Would You Lie",
