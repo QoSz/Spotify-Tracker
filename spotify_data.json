@@ -2,6 +2,209 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "04/05/2024 - 13:08:11"
+        },
+        {
+            "song_name": "Propeller (feat. Dave & BNXN)",
+            "artists": [
+                "JAE5",
+                "Dave",
+                "Bnxn"
+            ],
+            "album": "Propeller (feat. Dave & BNXN)",
+            "played_at": "04/05/2024 - 12:57:32"
+        },
+        {
+            "song_name": "Imperfections (Interlude)",
+            "artists": [
+                "Pop Smoke"
+            ],
+            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+            "played_at": "04/05/2024 - 12:54:07"
+        },
+        {
+            "song_name": "Same Old Story",
+            "artists": [
+                "Skepta"
+            ],
+            "album": "Ignorance is Bliss",
+            "played_at": "04/05/2024 - 12:51:10"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "04/05/2024 - 12:45:58"
+        },
+        {
+            "song_name": "Gangsta",
+            "artists": [
+                "Free Nationals",
+                "A$AP Rocky",
+                "Anderson .Paak"
+            ],
+            "album": "Gangsta",
+            "played_at": "04/05/2024 - 12:43:33"
+        },
+        {
+            "song_name": "Shots",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "04/05/2024 - 12:36:48"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "04/05/2024 - 12:34:57"
+        },
+        {
+            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "artists": [
+                "Gunna",
+                "Young Thug"
+            ],
+            "album": "WUNNA",
+            "played_at": "04/05/2024 - 12:32:27"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "04/05/2024 - 12:26:59"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "04/05/2024 - 12:20:45"
+        },
+        {
+            "song_name": "3:15 (Breathe)",
+            "artists": [
+                "Russ"
+            ],
+            "album": "3:15 (Breathe)",
+            "played_at": "04/05/2024 - 12:16:32"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "04/05/2024 - 12:08:50"
+        },
+        {
+            "song_name": "Los Pollos Hermanos",
+            "artists": [
+                "Knucks"
+            ],
+            "album": "ALPHA PLACE",
+            "played_at": "04/05/2024 - 12:05:23"
+        },
+        {
+            "song_name": "The Night We Met",
+            "artists": [
+                "Lord Huron"
+            ],
+            "album": "The Night We Met",
+            "played_at": "04/05/2024 - 12:03:47"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "04/05/2024 - 12:00:18"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "04/05/2024 - 11:57:57"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Madism",
+                "Philip Strand"
+            ],
+            "album": "Over You",
+            "played_at": "04/05/2024 - 11:55:01"
+        },
+        {
+            "song_name": "Hide (feat. Seezyn)",
+            "artists": [
+                "Juice WRLD",
+                "Seezyn"
+            ],
+            "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "played_at": "04/05/2024 - 11:52:39"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "04/05/2024 - 11:46:15"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Bad Habit",
+            "played_at": "04/05/2024 - 11:42:01"
+        },
+        {
+            "song_name": "Marea (we’ve lost dancing)",
+            "artists": [
+                "Fred again..",
+                "The Blessed Madonna"
+            ],
+            "album": "Actual Life (April 14 - December 17 2020)",
+            "played_at": "04/05/2024 - 11:38:09"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "04/05/2024 - 11:33:22"
+        },
+        {
             "song_name": "Stay High",
             "artists": [
                 "Juice WRLD"
@@ -243,213 +446,6 @@
             ],
             "album": "Addicted",
             "played_at": "03/05/2024 - 13:36:47"
-        },
-        {
-            "song_name": "Would You Lie",
-            "artists": [
-                "Seeb",
-                "Alexander Stewart"
-            ],
-            "album": "Would You Lie",
-            "played_at": "03/05/2024 - 09:58:06"
-        },
-        {
-            "song_name": "No Fear",
-            "artists": [
-                "DeJ Loaf"
-            ],
-            "album": "No Fear",
-            "played_at": "03/05/2024 - 09:54:31"
-        },
-        {
-            "song_name": "Drive By",
-            "artists": [
-                "Train"
-            ],
-            "album": "California 37",
-            "played_at": "03/05/2024 - 09:51:41"
-        },
-        {
-            "song_name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
-            "artists": [
-                "Maverick Sabre",
-                "Jorja Smith",
-                "Vintage Culture",
-                "Slow Motion"
-            ],
-            "album": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
-            "played_at": "03/05/2024 - 09:45:02"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "03/05/2024 - 09:33:39"
-        },
-        {
-            "song_name": "Mood (feat. iann dior)",
-            "artists": [
-                "24kGoldn",
-                "iann dior"
-            ],
-            "album": "El Dorado",
-            "played_at": "03/05/2024 - 09:30:57"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "03/05/2024 - 09:28:36"
-        },
-        {
-            "song_name": "Cooped Up / Return Of The Mack",
-            "artists": [
-                "Post Malone",
-                "Mark Morrison",
-                "Sickick"
-            ],
-            "album": "Cooped Up / Return Of The Mack",
-            "played_at": "03/05/2024 - 09:23:22"
-        },
-        {
-            "song_name": "Me, Myself & I",
-            "artists": [
-                "G-Eazy",
-                "Bebe Rexha"
-            ],
-            "album": "When It's Dark Out",
-            "played_at": "03/05/2024 - 09:21:15"
-        },
-        {
-            "song_name": "THATS WHAT I WANT",
-            "artists": [
-                "Lil Nas X"
-            ],
-            "album": "MONTERO",
-            "played_at": "03/05/2024 - 09:17:04"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "03/05/2024 - 09:14:40"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "03/05/2024 - 09:06:53"
-        },
-        {
-            "song_name": "summer on the inside",
-            "artists": [
-                "warner case",
-                "Jean Tonique",
-                "Max Kaluza"
-            ],
-            "album": "summer on the inside",
-            "played_at": "03/05/2024 - 09:03:57"
-        },
-        {
-            "song_name": "3 Nights",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "03/05/2024 - 09:00:32"
-        },
-        {
-            "song_name": "Like This",
-            "artists": [
-                "Syn Cole"
-            ],
-            "album": "Like This",
-            "played_at": "03/05/2024 - 08:57:34"
-        },
-        {
-            "song_name": "10:35",
-            "artists": [
-                "Tiësto",
-                "Tate McRae"
-            ],
-            "album": "DRIVE",
-            "played_at": "03/05/2024 - 08:54:47"
-        },
-        {
-            "song_name": "Saturday Night (Feel The Groove)",
-            "artists": [
-                "Brando",
-                "Ninetails"
-            ],
-            "album": "Saturday Night (Feel The Groove)",
-            "played_at": "03/05/2024 - 08:51:55"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "02/05/2024 - 21:17:27"
-        },
-        {
-            "song_name": "Deep Down (feat. Never Dull)",
-            "artists": [
-                "Alok",
-                "Ella Eyre",
-                "Kenny Dope",
-                "Never Dull"
-            ],
-            "album": "Deep Down (feat. Never Dull)",
-            "played_at": "02/05/2024 - 21:04:07"
-        },
-        {
-            "song_name": "As It Was",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Harry's House",
-            "played_at": "02/05/2024 - 21:01:21"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Levi Don't Do It",
-            "played_at": "02/05/2024 - 20:58:33"
-        },
-        {
-            "song_name": "Caught in a Dream",
-            "artists": [
-                "PALASTIC",
-                "LissA"
-            ],
-            "album": "Caught in a Dream",
-            "played_at": "02/05/2024 - 20:50:21"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "02/05/2024 - 20:44:20"
         },
         {
             "song_name": "MY EYES",
