@@ -894,6 +894,14 @@
             "played_at": "03/05/2024 - 13:36:47"
         },
         {
+            "song_name": "Scott and Ramona",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "04/05/2024 - 22:38:18"
+        },
+        {
             "song_name": "MY EYES",
             "artists": [
                 "Travis Scott"
@@ -1328,16 +1336,6 @@
             ],
             "album": "Would You (go to bed with me?)",
             "played_at": "03/05/2024 - 13:48:10"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "03/05/2024 - 13:36:47"
         },
         {
             "song_name": "Scott and Ramona",
