@@ -1300,6 +1300,14 @@
                 "The Neighbourhood"
             ],
             "album": "I Love You.",
+            "played_at": "05/05/2024 - 13:58:31"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
             "played_at": "05/05/2024 - 01:09:49"
         },
         {
@@ -1716,14 +1724,6 @@
             ],
             "album": "Levi Don't Do It",
             "played_at": "03/05/2024 - 16:42:31"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "03/05/2024 - 16:40:11"
         }
     ]
 }
