@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "05/05/2024 - 01:09:49"
+        },
+        {
             "song_name": "Bags",
             "artists": [
                 "Clairo"
@@ -423,15 +431,6 @@
             ],
             "album": "K.I.D.S.",
             "played_at": "03/05/2024 - 16:40:11"
-        },
-        {
-            "song_name": "Over You",
-            "artists": [
-                "Madism",
-                "Philip Strand"
-            ],
-            "album": "Over You",
-            "played_at": "03/05/2024 - 16:37:15"
         },
         {
             "song_name": "Sweater Weather",
