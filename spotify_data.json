@@ -2,410 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "3 Nights",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "06/05/2024 - 15:59:26"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "06/05/2024 - 15:56:28"
-        },
-        {
-            "song_name": "Afraid",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "06/05/2024 - 15:52:15"
-        },
-        {
-            "song_name": "Bags",
-            "artists": [
-                "Clairo"
-            ],
-            "album": "Immunity",
-            "played_at": "06/05/2024 - 15:48:04"
-        },
-        {
-            "song_name": "no way !",
-            "artists": [
-                "Yot Club"
-            ],
-            "album": "aquarium",
-            "played_at": "06/05/2024 - 15:43:43"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "06/05/2024 - 15:40:56"
-        },
-        {
-            "song_name": "Cigarette Daydreams",
-            "artists": [
-                "Cage The Elephant"
-            ],
-            "album": "Melophobia",
-            "played_at": "06/05/2024 - 15:37:54"
-        },
-        {
-            "song_name": "Miss Summer",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Miss Summer",
-            "played_at": "06/05/2024 - 15:34:25"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Halo",
-            "played_at": "06/05/2024 - 15:31:42"
-        },
-        {
-            "song_name": "C U Girl",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "C U Girl",
-            "played_at": "06/05/2024 - 15:28:27"
-        },
-        {
-            "song_name": "loving u is harder",
-            "artists": [
-                "SEB"
-            ],
-            "album": "loving u is harder",
-            "played_at": "06/05/2024 - 15:26:17"
-        },
-        {
-            "song_name": "loving u is harder",
-            "artists": [
-                "SEB"
-            ],
-            "album": "loving u is harder",
-            "played_at": "05/05/2024 - 16:14:06"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "05/05/2024 - 16:03:31"
-        },
-        {
-            "song_name": "Miss Summer",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Miss Summer",
-            "played_at": "05/05/2024 - 16:00:28"
-        },
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "05/05/2024 - 15:57:46"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "05/05/2024 - 15:54:36"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "05/05/2024 - 15:52:37"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "05/05/2024 - 15:50:58"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "05/05/2024 - 15:46:58"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "05/05/2024 - 15:44:19"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "05/05/2024 - 15:41:34"
-        },
-        {
-            "song_name": "Naturally",
-            "artists": [
-                "Lime Cordiale"
-            ],
-            "album": "Permanent Vacation",
-            "played_at": "05/05/2024 - 15:37:21"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "05/05/2024 - 15:34:30"
-        },
-        {
-            "song_name": "The Night We Met",
-            "artists": [
-                "Lord Huron"
-            ],
-            "album": "Strange Trails",
-            "played_at": "05/05/2024 - 15:29:16"
-        },
-        {
-            "song_name": "hesitation",
-            "artists": [
-                "Andrew Garden"
-            ],
-            "album": "hesitation",
-            "played_at": "05/05/2024 - 15:25:47"
-        },
-        {
-            "song_name": "Metamodernity",
-            "artists": [
-                "Vansire"
-            ],
-            "album": "Metamodernity",
-            "played_at": "05/05/2024 - 15:22:49"
-        },
-        {
-            "song_name": "Pretty Boy",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Chip Chrome & The Mono-Tones",
-            "played_at": "05/05/2024 - 15:20:06"
-        },
-        {
-            "song_name": "Peach",
-            "artists": [
-                "Kevin Abstract"
-            ],
-            "album": "ARIZONA BABY",
-            "played_at": "05/05/2024 - 15:16:12"
-        },
-        {
-            "song_name": "Mary",
-            "artists": [
-                "Alex G"
-            ],
-            "album": "Trick",
-            "played_at": "05/05/2024 - 15:13:15"
-        },
-        {
-            "song_name": "Do I Wanna Know?",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "AM",
-            "played_at": "05/05/2024 - 15:09:57"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "05/05/2024 - 15:05:24"
-        },
-        {
-            "song_name": "Passion",
-            "artists": [
-                "RAC",
-                "Louis The Child"
-            ],
-            "album": "BOY",
-            "played_at": "05/05/2024 - 15:02:39"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Home",
-            "played_at": "05/05/2024 - 15:00:26"
-        },
-        {
-            "song_name": "Heartbeats",
-            "artists": [
-                "José González"
-            ],
-            "album": "Veneer",
-            "played_at": "05/05/2024 - 14:57:48"
-        },
-        {
-            "song_name": "alright (feat. The Kid LAROI)",
-            "artists": [
-                "EKKSTACY",
-                "The Kid LAROI"
-            ],
-            "album": "EKKSTACY",
-            "played_at": "05/05/2024 - 14:53:38"
-        },
-        {
-            "song_name": "Bloom (Online Bonus Track)",
-            "artists": [
-                "The Paper Kites"
-            ],
-            "album": "Woodland",
-            "played_at": "05/05/2024 - 14:51:27"
-        },
-        {
-            "song_name": "Cry Baby",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Wiped Out!",
-            "played_at": "05/05/2024 - 14:47:57"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "05/05/2024 - 14:44:01"
-        },
-        {
-            "song_name": "Goodie Bag",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Goodie Bag",
-            "played_at": "05/05/2024 - 14:42:34"
-        },
-        {
-            "song_name": "Why'd You Only Call Me When You're High?",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "AM",
-            "played_at": "05/05/2024 - 14:40:07"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "05/05/2024 - 14:37:25"
-        },
-        {
-            "song_name": "Think Fast (feat. Weezer)",
-            "artists": [
-                "Dominic Fike",
-                "Weezer"
-            ],
-            "album": "Sunburn",
-            "played_at": "05/05/2024 - 14:34:40"
-        },
-        {
-            "song_name": "Dark Red",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Dark Red",
-            "played_at": "05/05/2024 - 14:30:57"
-        },
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "05/05/2024 - 14:28:04"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "05/05/2024 - 14:24:54"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "05/05/2024 - 14:20:06"
-        },
-        {
-            "song_name": "Fly Out West - Single Version",
-            "artists": [
-                "Yot Club"
-            ],
-            "album": "Fly Out West",
-            "played_at": "05/05/2024 - 14:17:47"
-        },
-        {
-            "song_name": "Honey",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Changes",
-            "played_at": "05/05/2024 - 14:14:52"
-        },
-        {
-            "song_name": "Beach Baby",
-            "artists": [
-                "Bon Iver"
-            ],
-            "album": "Blood Bank",
-            "played_at": "05/05/2024 - 14:12:32"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "05/05/2024 - 14:09:52"
-        },
-        {
             "song_name": "Show Me How",
             "artists": [
                 "Men I Trust"
@@ -1616,6 +1212,410 @@
             ],
             "album": "loving u is harder",
             "played_at": "06/05/2024 - 15:26:17"
+        },
+        {
+            "song_name": "Family Matters",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Family Matters",
+            "played_at": "06/05/2024 - 20:31:02"
+        },
+        {
+            "song_name": "Evergreen",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "06/05/2024 - 20:30:50"
+        },
+        {
+            "song_name": "Passion",
+            "artists": [
+                "RAC",
+                "Louis The Child"
+            ],
+            "album": "BOY",
+            "played_at": "06/05/2024 - 20:29:33"
+        },
+        {
+            "song_name": "brown eyes*",
+            "artists": [
+                "re6ce"
+            ],
+            "album": "brown eyes*",
+            "played_at": "06/05/2024 - 20:27:20"
+        },
+        {
+            "song_name": "Spiral Stairs",
+            "artists": [
+                "Yot Club"
+            ],
+            "album": "Spiral Stairs",
+            "played_at": "06/05/2024 - 20:24:36"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "06/05/2024 - 20:22:10"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "06/05/2024 - 20:19:12"
+        },
+        {
+            "song_name": "Is there free breakfast here?",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "06/05/2024 - 20:17:13"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "06/05/2024 - 20:15:04"
+        },
+        {
+            "song_name": "Softcore",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "06/05/2024 - 20:11:54"
+        },
+        {
+            "song_name": "ALRIGHT",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "06/05/2024 - 20:08:27"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "06/05/2024 - 20:06:33"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "06/05/2024 - 20:04:08"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "06/05/2024 - 20:01:29"
+        },
+        {
+            "song_name": "Infrunami",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "The Lo-Fis",
+            "played_at": "06/05/2024 - 19:58:44"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "06/05/2024 - 19:55:45"
+        },
+        {
+            "song_name": "Need 2",
+            "artists": [
+                "Pinegrove"
+            ],
+            "album": "Everything So Far",
+            "played_at": "06/05/2024 - 19:53:26"
+        },
+        {
+            "song_name": "Mary",
+            "artists": [
+                "Alex G"
+            ],
+            "album": "Trick",
+            "played_at": "06/05/2024 - 19:50:13"
+        },
+        {
+            "song_name": "zombie",
+            "artists": [
+                "Max Fry"
+            ],
+            "album": "zombie",
+            "played_at": "06/05/2024 - 19:46:55"
+        },
+        {
+            "song_name": "Coastline",
+            "artists": [
+                "Hollow Coves"
+            ],
+            "album": "Wanderlust",
+            "played_at": "06/05/2024 - 19:44:43"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "06/05/2024 - 19:40:49"
+        },
+        {
+            "song_name": "Georgia",
+            "artists": [
+                "Vance Joy"
+            ],
+            "album": "Dream Your Life Away (Special Edition)",
+            "played_at": "06/05/2024 - 19:36:35"
+        },
+        {
+            "song_name": "Daddy Issues",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "06/05/2024 - 19:32:44"
+        },
+        {
+            "song_name": "i walk this earth all by myself",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "06/05/2024 - 19:28:23"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "06/05/2024 - 19:25:57"
+        },
+        {
+            "song_name": "Stevie Doesn't Wonder",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Stevie Doesn't Wonder",
+            "played_at": "06/05/2024 - 19:23:12"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "06/05/2024 - 19:20:27"
+        },
+        {
+            "song_name": "Jealous",
+            "artists": [
+                "Eyedress"
+            ],
+            "album": "Jealous",
+            "played_at": "06/05/2024 - 19:17:05"
+        },
+        {
+            "song_name": "Beach Baby",
+            "artists": [
+                "Bon Iver"
+            ],
+            "album": "Blood Bank",
+            "played_at": "06/05/2024 - 19:15:02"
+        },
+        {
+            "song_name": "Bloom (Online Bonus Track)",
+            "artists": [
+                "The Paper Kites"
+            ],
+            "album": "Woodland",
+            "played_at": "06/05/2024 - 19:10:14"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "06/05/2024 - 19:06:44"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "06/05/2024 - 17:08:16"
+        },
+        {
+            "song_name": "IRIS",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "06/05/2024 - 17:06:14"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "06/05/2024 - 17:03:42"
+        },
+        {
+            "song_name": "Show Me How",
+            "artists": [
+                "Men I Trust"
+            ],
+            "album": "Show Me How",
+            "played_at": "06/05/2024 - 16:59:42"
+        },
+        {
+            "song_name": "Ms. Poli Sci",
+            "artists": [
+                "Paul Russell",
+                "Khary"
+            ],
+            "album": "Ms. Poli Sci",
+            "played_at": "06/05/2024 - 16:56:06"
+        },
+        {
+            "song_name": "Piggypink",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Piggypink",
+            "played_at": "06/05/2024 - 16:53:58"
+        },
+        {
+            "song_name": "Piggypink",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Piggypink",
+            "played_at": "06/05/2024 - 16:51:47"
+        },
+        {
+            "song_name": "Can I Call You Tonight?",
+            "artists": [
+                "Dayglow"
+            ],
+            "album": "Fuzzybrain",
+            "played_at": "06/05/2024 - 16:50:21"
+        },
+        {
+            "song_name": "Metamodernity",
+            "artists": [
+                "Vansire"
+            ],
+            "album": "Metamodernity",
+            "played_at": "06/05/2024 - 16:45:42"
+        },
+        {
+            "song_name": "Passion",
+            "artists": [
+                "RAC",
+                "Louis The Child"
+            ],
+            "album": "BOY",
+            "played_at": "06/05/2024 - 16:42:59"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "06/05/2024 - 16:40:46"
+        },
+        {
+            "song_name": "brown eyes*",
+            "artists": [
+                "re6ce"
+            ],
+            "album": "brown eyes*",
+            "played_at": "06/05/2024 - 16:36:53"
+        },
+        {
+            "song_name": "Think Fast (feat. Weezer)",
+            "artists": [
+                "Dominic Fike",
+                "Weezer"
+            ],
+            "album": "Sunburn",
+            "played_at": "06/05/2024 - 16:34:09"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "06/05/2024 - 16:30:26"
+        },
+        {
+            "song_name": "You Get Me So High",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "06/05/2024 - 16:28:40"
+        },
+        {
+            "song_name": "Do I Wanna Know?",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "AM",
+            "played_at": "06/05/2024 - 16:26:06"
+        },
+        {
+            "song_name": "End of Beginning",
+            "artists": [
+                "Djo"
+            ],
+            "album": "DECIDE",
+            "played_at": "06/05/2024 - 16:21:34"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "06/05/2024 - 16:18:54"
+        },
+        {
+            "song_name": "Skinny Love",
+            "artists": [
+                "Bon Iver"
+            ],
+            "album": "For Emma, Forever Ago",
+            "played_at": "06/05/2024 - 16:16:09"
         }
     ]
 }
