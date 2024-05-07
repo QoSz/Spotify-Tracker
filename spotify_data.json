@@ -2,410 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "cross my heart",
-            "artists": [
-                "Artemas"
-            ],
-            "album": "pretty",
-            "played_at": "07/05/2024 - 19:45:58"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Halo",
-            "played_at": "07/05/2024 - 19:43:31"
-        },
-        {
-            "song_name": "Jocelyn Flores",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "17",
-            "played_at": "07/05/2024 - 18:50:51"
-        },
-        {
-            "song_name": "I Wonder",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "07/05/2024 - 18:48:51"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "Giveon"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "07/05/2024 - 18:44:47"
-        },
-        {
-            "song_name": "Poison",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "Poison",
-            "played_at": "07/05/2024 - 18:41:07"
-        },
-        {
-            "song_name": "Face 2 Face",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Face 2 Face",
-            "played_at": "07/05/2024 - 18:37:33"
-        },
-        {
-            "song_name": "3:15 (Breathe)",
-            "artists": [
-                "Russ"
-            ],
-            "album": "3:15 (Breathe)",
-            "played_at": "07/05/2024 - 18:35:27"
-        },
-        {
-            "song_name": "As It Was",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Harry's House",
-            "played_at": "07/05/2024 - 18:32:24"
-        },
-        {
-            "song_name": "Jealous",
-            "artists": [
-                "Eyedress"
-            ],
-            "album": "Jealous",
-            "played_at": "07/05/2024 - 18:29:36"
-        },
-        {
-            "song_name": "hesitation",
-            "artists": [
-                "Andrew Garden"
-            ],
-            "album": "hesitation",
-            "played_at": "07/05/2024 - 18:27:33"
-        },
-        {
-            "song_name": "...The Make Up",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "PLAYBOY",
-            "played_at": "07/05/2024 - 18:24:34"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "07/05/2024 - 18:22:57"
-        },
-        {
-            "song_name": "vice city",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "vice city",
-            "played_at": "07/05/2024 - 18:19:36"
-        },
-        {
-            "song_name": "brown eyes*",
-            "artists": [
-                "re6ce"
-            ],
-            "album": "brown eyes*",
-            "played_at": "07/05/2024 - 18:15:54"
-        },
-        {
-            "song_name": "Again",
-            "artists": [
-                "Wande Coal"
-            ],
-            "album": "Realms",
-            "played_at": "07/05/2024 - 18:13:11"
-        },
-        {
-            "song_name": "zombie",
-            "artists": [
-                "Max Fry"
-            ],
-            "album": "zombie",
-            "played_at": "07/05/2024 - 18:10:34"
-        },
-        {
-            "song_name": "zombie",
-            "artists": [
-                "Max Fry"
-            ],
-            "album": "zombie",
-            "played_at": "07/05/2024 - 16:34:34"
-        },
-        {
-            "song_name": "Forever",
-            "artists": [
-                "ilyTOMMY"
-            ],
-            "album": "Forever",
-            "played_at": "07/05/2024 - 16:23:02"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "07/05/2024 - 16:21:14"
-        },
-        {
-            "song_name": "Big Black Car",
-            "artists": [
-                "Gregory Alan Isakov"
-            ],
-            "album": "This Empty Northern Hemisphere",
-            "played_at": "07/05/2024 - 16:18:20"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "07/05/2024 - 16:14:41"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "07/05/2024 - 16:12:23"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "07/05/2024 - 16:10:36"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "07/05/2024 - 16:07:51"
-        },
-        {
-            "song_name": "no way !",
-            "artists": [
-                "Yot Club"
-            ],
-            "album": "aquarium",
-            "played_at": "07/05/2024 - 16:04:58"
-        },
-        {
-            "song_name": "Exchange",
-            "artists": [
-                "Bryson Tiller"
-            ],
-            "album": "T R A P S O U L",
-            "played_at": "07/05/2024 - 16:02:11"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "07/05/2024 - 15:58:56"
-        },
-        {
-            "song_name": "Piggypink",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Piggypink",
-            "played_at": "07/05/2024 - 15:53:42"
-        },
-        {
-            "song_name": "4422",
-            "artists": [
-                "Drake",
-                "Sampha"
-            ],
-            "album": "More Life",
-            "played_at": "07/05/2024 - 15:51:01"
-        },
-        {
-            "song_name": "Honey",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Changes",
-            "played_at": "07/05/2024 - 15:47:54"
-        },
-        {
-            "song_name": "3 Nights",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "07/05/2024 - 15:45:34"
-        },
-        {
-            "song_name": "Gods creation",
-            "artists": [
-                "daniel.mp3"
-            ],
-            "album": "Gods creation",
-            "played_at": "07/05/2024 - 15:42:36"
-        },
-        {
-            "song_name": "Down By The River",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "07/05/2024 - 15:40:37"
-        },
-        {
-            "song_name": "Grandmother",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Grandmother",
-            "played_at": "07/05/2024 - 15:36:35"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "07/05/2024 - 15:34:01"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "07/05/2024 - 15:33:39"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "07/05/2024 - 15:33:26"
-        },
-        {
-            "song_name": "Phone Numbers",
-            "artists": [
-                "Dominic Fike",
-                "Kenny Beats"
-            ],
-            "album": "Phone Numbers",
-            "played_at": "07/05/2024 - 15:29:47"
-        },
-        {
-            "song_name": "Heartbeats",
-            "artists": [
-                "José González"
-            ],
-            "album": "Veneer",
-            "played_at": "07/05/2024 - 15:27:20"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "07/05/2024 - 15:24:39"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "07/05/2024 - 15:23:07"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "07/05/2024 - 15:21:08"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "07/05/2024 - 15:18:26"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "07/05/2024 - 15:16:48"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "07/05/2024 - 15:13:45"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "07/05/2024 - 15:11:00"
-        },
-        {
-            "song_name": "Break from Toronto",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR",
-            "played_at": "07/05/2024 - 15:08:20"
-        },
-        {
-            "song_name": "Our Time",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "Virgo World",
-            "played_at": "07/05/2024 - 15:06:42"
-        },
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "07/05/2024 - 15:03:55"
-        },
-        {
             "song_name": "all the kids are depressed",
             "artists": [
                 "Jeremy Zucker"
@@ -808,6 +404,410 @@
             ],
             "album": "Sundress",
             "played_at": "07/05/2024 - 15:11:00"
+        },
+        {
+            "song_name": "Not So Bad (Leans Gone Cold)",
+            "artists": [
+                "Rae Sremmurd"
+            ],
+            "album": "Sremm 4 Life",
+            "played_at": "07/05/2024 - 20:07:34"
+        },
+        {
+            "song_name": "all the kids are depressed",
+            "artists": [
+                "Jeremy Zucker"
+            ],
+            "album": "glisten",
+            "played_at": "07/05/2024 - 19:56:04"
+        },
+        {
+            "song_name": "Can't Die",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Legends Never Die",
+            "played_at": "07/05/2024 - 19:53:15"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "07/05/2024 - 19:50:11"
+        },
+        {
+            "song_name": "cross my heart",
+            "artists": [
+                "Artemas"
+            ],
+            "album": "pretty",
+            "played_at": "07/05/2024 - 19:45:58"
+        },
+        {
+            "song_name": "Hell N Back (feat. Summer Walker)",
+            "artists": [
+                "Bakar",
+                "Summer Walker"
+            ],
+            "album": "Halo",
+            "played_at": "07/05/2024 - 19:43:31"
+        },
+        {
+            "song_name": "Jocelyn Flores",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "17",
+            "played_at": "07/05/2024 - 18:50:51"
+        },
+        {
+            "song_name": "I Wonder",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Graduation",
+            "played_at": "07/05/2024 - 18:48:51"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "Giveon"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "07/05/2024 - 18:44:47"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "07/05/2024 - 18:41:07"
+        },
+        {
+            "song_name": "Face 2 Face",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Face 2 Face",
+            "played_at": "07/05/2024 - 18:37:33"
+        },
+        {
+            "song_name": "3:15 (Breathe)",
+            "artists": [
+                "Russ"
+            ],
+            "album": "3:15 (Breathe)",
+            "played_at": "07/05/2024 - 18:35:27"
+        },
+        {
+            "song_name": "As It Was",
+            "artists": [
+                "Harry Styles"
+            ],
+            "album": "Harry's House",
+            "played_at": "07/05/2024 - 18:32:24"
+        },
+        {
+            "song_name": "Jealous",
+            "artists": [
+                "Eyedress"
+            ],
+            "album": "Jealous",
+            "played_at": "07/05/2024 - 18:29:36"
+        },
+        {
+            "song_name": "hesitation",
+            "artists": [
+                "Andrew Garden"
+            ],
+            "album": "hesitation",
+            "played_at": "07/05/2024 - 18:27:33"
+        },
+        {
+            "song_name": "...The Make Up",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "PLAYBOY",
+            "played_at": "07/05/2024 - 18:24:34"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "07/05/2024 - 18:22:57"
+        },
+        {
+            "song_name": "vice city",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "vice city",
+            "played_at": "07/05/2024 - 18:19:36"
+        },
+        {
+            "song_name": "brown eyes*",
+            "artists": [
+                "re6ce"
+            ],
+            "album": "brown eyes*",
+            "played_at": "07/05/2024 - 18:15:54"
+        },
+        {
+            "song_name": "Again",
+            "artists": [
+                "Wande Coal"
+            ],
+            "album": "Realms",
+            "played_at": "07/05/2024 - 18:13:11"
+        },
+        {
+            "song_name": "zombie",
+            "artists": [
+                "Max Fry"
+            ],
+            "album": "zombie",
+            "played_at": "07/05/2024 - 18:10:34"
+        },
+        {
+            "song_name": "zombie",
+            "artists": [
+                "Max Fry"
+            ],
+            "album": "zombie",
+            "played_at": "07/05/2024 - 16:34:34"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ilyTOMMY"
+            ],
+            "album": "Forever",
+            "played_at": "07/05/2024 - 16:23:02"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "07/05/2024 - 16:21:14"
+        },
+        {
+            "song_name": "Big Black Car",
+            "artists": [
+                "Gregory Alan Isakov"
+            ],
+            "album": "This Empty Northern Hemisphere",
+            "played_at": "07/05/2024 - 16:18:20"
+        },
+        {
+            "song_name": "then i met her",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "07/05/2024 - 16:14:41"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "07/05/2024 - 16:12:23"
+        },
+        {
+            "song_name": "The Mannequin Song",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "07/05/2024 - 16:10:36"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "07/05/2024 - 16:07:51"
+        },
+        {
+            "song_name": "no way !",
+            "artists": [
+                "Yot Club"
+            ],
+            "album": "aquarium",
+            "played_at": "07/05/2024 - 16:04:58"
+        },
+        {
+            "song_name": "Exchange",
+            "artists": [
+                "Bryson Tiller"
+            ],
+            "album": "T R A P S O U L",
+            "played_at": "07/05/2024 - 16:02:11"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "07/05/2024 - 15:58:56"
+        },
+        {
+            "song_name": "Piggypink",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Piggypink",
+            "played_at": "07/05/2024 - 15:53:42"
+        },
+        {
+            "song_name": "4422",
+            "artists": [
+                "Drake",
+                "Sampha"
+            ],
+            "album": "More Life",
+            "played_at": "07/05/2024 - 15:51:01"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "07/05/2024 - 15:47:54"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "07/05/2024 - 15:45:34"
+        },
+        {
+            "song_name": "Gods creation",
+            "artists": [
+                "daniel.mp3"
+            ],
+            "album": "Gods creation",
+            "played_at": "07/05/2024 - 15:42:36"
+        },
+        {
+            "song_name": "Down By The River",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "07/05/2024 - 15:40:37"
+        },
+        {
+            "song_name": "Grandmother",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Grandmother",
+            "played_at": "07/05/2024 - 15:36:35"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "07/05/2024 - 15:34:01"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "07/05/2024 - 15:33:39"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "07/05/2024 - 15:33:26"
+        },
+        {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "07/05/2024 - 15:29:47"
+        },
+        {
+            "song_name": "Heartbeats",
+            "artists": [
+                "José González"
+            ],
+            "album": "Veneer",
+            "played_at": "07/05/2024 - 15:27:20"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "07/05/2024 - 15:24:39"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "07/05/2024 - 15:23:07"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "07/05/2024 - 15:21:08"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "07/05/2024 - 15:18:26"
+        },
+        {
+            "song_name": "Goose Neck",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Goose Neck",
+            "played_at": "07/05/2024 - 15:16:48"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "07/05/2024 - 15:13:45"
         },
         {
             "song_name": "Not So Bad (Leans Gone Cold)",
