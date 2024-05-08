@@ -51,6 +51,15 @@
             "played_at": "07/05/2024 - 19:43:31"
         },
         {
+            "song_name": "Hell N Back (feat. Summer Walker)",
+            "artists": [
+                "Bakar",
+                "Summer Walker"
+            ],
+            "album": "Halo",
+            "played_at": "07/05/2024 - 19:16:33"
+        },
+        {
             "song_name": "Jocelyn Flores",
             "artists": [
                 "XXXTENTACION"
@@ -396,14 +405,6 @@
             ],
             "album": "Goose Neck",
             "played_at": "07/05/2024 - 15:16:48"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "07/05/2024 - 15:13:45"
         },
         {
             "song_name": "Not So Bad (Leans Gone Cold)",
