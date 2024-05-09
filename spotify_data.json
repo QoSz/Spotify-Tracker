@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "eleanor & bellami",
+            "artists": [
+                "Powfu",
+                "Lil Peej"
+            ],
+            "album": "the fleeting life of a fool",
+            "played_at": "09/05/2024 - 05:51:35"
+        },
+        {
             "song_name": "brown eyes*",
             "artists": [
                 "re6ce"
@@ -397,15 +406,6 @@
             ],
             "album": "What Do You Think About the Car?",
             "played_at": "07/05/2024 - 15:33:26"
-        },
-        {
-            "song_name": "Phone Numbers",
-            "artists": [
-                "Dominic Fike",
-                "Kenny Beats"
-            ],
-            "album": "Phone Numbers",
-            "played_at": "07/05/2024 - 15:29:47"
         },
         {
             "song_name": "eleanor & bellami",
