@@ -1217,6 +1217,55 @@
             "played_at": "07/05/2024 - 15:16:48"
         },
         {
+            "song_name": "brown eyes*",
+            "artists": [
+                "re6ce"
+            ],
+            "album": "brown eyes*",
+            "played_at": "08/05/2024 - 18:46:29"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "08/05/2024 - 18:35:34"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "08/05/2024 - 18:32:49"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "08/05/2024 - 18:29:51"
+        },
+        {
+            "song_name": "Brotha Man (feat. French Montana)",
+            "artists": [
+                "A$AP Rocky",
+                "French Montana"
+            ],
+            "album": "TESTING",
+            "played_at": "08/05/2024 - 18:22:26"
+        },
+        {
+            "song_name": "Break from Toronto",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR",
+            "played_at": "08/05/2024 - 18:17:09"
+        },
+        {
             "song_name": "Not So Bad (Leans Gone Cold)",
             "artists": [
                 "Rae Sremmurd"
@@ -1572,54 +1621,6 @@
             ],
             "album": "Phone Numbers",
             "played_at": "07/05/2024 - 15:29:47"
-        },
-        {
-            "song_name": "Heartbeats",
-            "artists": [
-                "José González"
-            ],
-            "album": "Veneer",
-            "played_at": "07/05/2024 - 15:27:20"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "07/05/2024 - 15:24:39"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "07/05/2024 - 15:23:07"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "07/05/2024 - 15:21:08"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "07/05/2024 - 15:18:26"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "07/05/2024 - 15:16:48"
         }
     ]
 }
