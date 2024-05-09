@@ -1220,6 +1220,14 @@
             "played_at": "07/05/2024 - 15:33:26"
         },
         {
+            "song_name": "YOSEMITE",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "09/05/2024 - 14:08:04"
+        },
+        {
             "song_name": "eleanor & bellami",
             "artists": [
                 "Powfu",
@@ -1616,14 +1624,6 @@
             ],
             "album": "What Do You Think About the Car?",
             "played_at": "07/05/2024 - 15:33:39"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "07/05/2024 - 15:33:26"
         }
     ]
 }
