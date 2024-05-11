@@ -2,433 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "pillow dreams",
-            "artists": [
-                "evelina mist"
-            ],
-            "album": "pillow dreams",
-            "played_at": "11/05/2024 - 03:59:01"
-        },
-        {
-            "song_name": "Aura",
-            "artists": [
-                "Demurely"
-            ],
-            "album": "Aura",
-            "played_at": "11/05/2024 - 03:57:11"
-        },
-        {
-            "song_name": "gloaming atmospheres",
-            "artists": [
-                "Harry G's Beats"
-            ],
-            "album": "gloaming atmospheres",
-            "played_at": "11/05/2024 - 03:55:10"
-        },
-        {
-            "song_name": "Balcony",
-            "artists": [
-                "Euphemism"
-            ],
-            "album": "Balcony",
-            "played_at": "11/05/2024 - 03:53:06"
-        },
-        {
-            "song_name": "SKELETONS",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "10/05/2024 - 20:06:43"
-        },
-        {
-            "song_name": "Armed And Dangerous",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Goodbye & Good Riddance",
-            "played_at": "10/05/2024 - 19:52:52"
-        },
-        {
-            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "21 Savage"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "10/05/2024 - 19:50:02"
-        },
-        {
-            "song_name": "4th Dimension",
-            "artists": [
-                "KIDS SEE GHOSTS",
-                "Louis Prima"
-            ],
-            "album": "KIDS SEE GHOSTS",
-            "played_at": "10/05/2024 - 19:46:34"
-        },
-        {
-            "song_name": "Motley Crew",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Motley Crew",
-            "played_at": "10/05/2024 - 19:43:59"
-        },
-        {
-            "song_name": "prada dem (feat. Offset)",
-            "artists": [
-                "Gunna",
-                "Offset"
-            ],
-            "album": "prada dem (feat. Offset)",
-            "played_at": "10/05/2024 - 19:40:55"
-        },
-        {
-            "song_name": "BackOutsideBoyz",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "10/05/2024 - 19:38:09"
-        },
-        {
-            "song_name": "Martin & Gina",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "THE GOAT",
-            "played_at": "10/05/2024 - 19:35:36"
-        },
-        {
-            "song_name": "What You Know Bout Love",
-            "artists": [
-                "Pop Smoke"
-            ],
-            "album": "Shoot For The Stars Aim For The Moon",
-            "played_at": "10/05/2024 - 19:33:22"
-        },
-        {
-            "song_name": "Ric Flair Drip (with Metro Boomin)",
-            "artists": [
-                "Offset",
-                "Metro Boomin"
-            ],
-            "album": "Without Warning",
-            "played_at": "10/05/2024 - 19:30:42"
-        },
-        {
-            "song_name": "Drip Too Hard (Lil Baby & Gunna)",
-            "artists": [
-                "Lil Baby",
-                "Gunna"
-            ],
-            "album": "Drip Harder",
-            "played_at": "10/05/2024 - 19:27:49"
-        },
-        {
-            "song_name": "south to west",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "DS4EVER",
-            "played_at": "10/05/2024 - 19:25:22"
-        },
-        {
-            "song_name": "Go Hard 2.0",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Fighting Demons (Deluxe)",
-            "played_at": "10/05/2024 - 19:23:19"
-        },
-        {
-            "song_name": "Can’t Take A Joke",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "10/05/2024 - 19:19:44"
-        },
-        {
-            "song_name": "The Star Room",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "10/05/2024 - 19:16:59"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Lil Baby",
-                "Gunna",
-                "Lil Uzi Vert"
-            ],
-            "album": "Harder Than Ever",
-            "played_at": "10/05/2024 - 19:12:24"
-        },
-        {
-            "song_name": "GET A GRIP",
-            "artists": [
-                "Kelvin Krash",
-                "A$AP Rocky"
-            ],
-            "album": "HARSH",
-            "played_at": "10/05/2024 - 19:08:17"
-        },
-        {
-            "song_name": "Raindrops (Insane) [with Travis Scott]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "10/05/2024 - 19:06:58"
-        },
-        {
-            "song_name": "Knife Talk (with 21 Savage ft. Project Pat)",
-            "artists": [
-                "Drake",
-                "21 Savage",
-                "Project Pat"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "10/05/2024 - 19:03:49"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "10/05/2024 - 18:59:46"
-        },
-        {
-            "song_name": "Climate (feat. Offset)",
-            "artists": [
-                "BigXthaPlug",
-                "Offset"
-            ],
-            "album": "THE BIGGEST",
-            "played_at": "10/05/2024 - 18:56:35"
-        },
-        {
-            "song_name": "Sorry 4 What? // LV BELT",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Sorry 4 What",
-            "played_at": "10/05/2024 - 18:53:45"
-        },
-        {
-            "song_name": "Up Up And Away",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Legends Never Die",
-            "played_at": "10/05/2024 - 18:51:10"
-        },
-        {
-            "song_name": "What’s Next",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scary Hours 2",
-            "played_at": "10/05/2024 - 18:48:42"
-        },
-        {
-            "song_name": "YOSEMITE",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "10/05/2024 - 18:45:43"
-        },
-        {
-            "song_name": "Overdue (with Travis Scott)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "10/05/2024 - 18:43:13"
-        },
-        {
-            "song_name": "Mmhmm",
-            "artists": [
-                "BigXthaPlug"
-            ],
-            "album": "THE BIGGEST",
-            "played_at": "10/05/2024 - 18:40:25"
-        },
-        {
-            "song_name": "Overdue (with Travis Scott)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "10/05/2024 - 18:39:23"
-        },
-        {
-            "song_name": "Wandered To LA (with Justin Bieber)",
-            "artists": [
-                "Juice WRLD",
-                "Justin Bieber"
-            ],
-            "album": "Fighting Demons (Deluxe)",
-            "played_at": "10/05/2024 - 18:36:36"
-        },
-        {
-            "song_name": "Search & Rescue",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Search & Rescue",
-            "played_at": "10/05/2024 - 18:33:27"
-        },
-        {
-            "song_name": "Sorry 4 What? // LV BELT",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Sorry 4 What",
-            "played_at": "10/05/2024 - 18:28:54"
-        },
-        {
-            "song_name": "goosebumps",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "Birds In The Trap Sing McKnight",
-            "played_at": "10/05/2024 - 18:26:20"
-        },
-        {
-            "song_name": "Wildflower",
-            "artists": [
-                "MDMA"
-            ],
-            "album": "Peak Of Molly",
-            "played_at": "10/05/2024 - 18:22:15"
-        },
-        {
-            "song_name": "Can't Die",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Legends Never Die",
-            "played_at": "10/05/2024 - 18:19:45"
-        },
-        {
-            "song_name": "Treacherous Twins",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "10/05/2024 - 18:16:41"
-        },
-        {
-            "song_name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "Travis Scott"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "10/05/2024 - 18:13:41"
-        },
-        {
-            "song_name": "Not So Bad (Leans Gone Cold)",
-            "artists": [
-                "Rae Sremmurd"
-            ],
-            "album": "Sremm 4 Life",
-            "played_at": "10/05/2024 - 18:10:09"
-        },
-        {
-            "song_name": "I Wonder",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "10/05/2024 - 18:06:49"
-        },
-        {
-            "song_name": "Lean Wit Me",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Goodbye & Good Riddance",
-            "played_at": "10/05/2024 - 18:02:45"
-        },
-        {
-            "song_name": "Headlines",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Take Care (Deluxe)",
-            "played_at": "10/05/2024 - 17:59:49"
-        },
-        {
-            "song_name": "Arya (with Nigo)",
-            "artists": [
-                "A$AP Rocky",
-                "Nigo"
-            ],
-            "album": "I Know NIGO!",
-            "played_at": "10/05/2024 - 17:55:53"
-        },
-        {
-            "song_name": "Blue Bills (feat. $NOT & Fenix Flexin)",
-            "artists": [
-                "DJ Scheme",
-                "$NOT",
-                "Fenix Flexin"
-            ],
-            "album": "FAMILY",
-            "played_at": "10/05/2024 - 17:53:10"
-        },
-        {
-            "song_name": "Mood (feat. iann dior)",
-            "artists": [
-                "24kGoldn",
-                "iann dior"
-            ],
-            "album": "El Dorado",
-            "played_at": "10/05/2024 - 17:51:30"
-        },
-        {
-            "song_name": "Flocky Flocky (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "10/05/2024 - 17:49:09"
-        },
-        {
-            "song_name": "Jumbotron Shit Poppin",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "10/05/2024 - 17:46:05"
-        },
-        {
-            "song_name": "Glock In My Lap",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "10/05/2024 - 17:42:11"
-        },
-        {
             "song_name": "Western Promises",
             "artists": [
                 "Low Couture"
@@ -1242,6 +815,408 @@
             ],
             "album": "wayitis",
             "played_at": "11/05/2024 - 04:20:10"
+        },
+        {
+            "song_name": "euphoria",
+            "artists": [
+                "Kendrick Lamar"
+            ],
+            "album": "euphoria",
+            "played_at": "11/05/2024 - 08:52:03"
+        },
+        {
+            "song_name": "coconut",
+            "artists": [
+                "Ali Kaj"
+            ],
+            "album": "coconut",
+            "played_at": "11/05/2024 - 06:07:24"
+        },
+        {
+            "song_name": "mumbling",
+            "artists": [
+                "Meliona"
+            ],
+            "album": "mumbling",
+            "played_at": "11/05/2024 - 06:04:56"
+        },
+        {
+            "song_name": "Transformational",
+            "artists": [
+                "Zupa Fitz"
+            ],
+            "album": "Transformational",
+            "played_at": "11/05/2024 - 06:03:20"
+        },
+        {
+            "song_name": "Tea",
+            "artists": [
+                "Osian Lewis"
+            ],
+            "album": "Tea",
+            "played_at": "11/05/2024 - 06:00:28"
+        },
+        {
+            "song_name": "pink dawn",
+            "artists": [
+                "Sleepr Cell"
+            ],
+            "album": "pink dawn",
+            "played_at": "11/05/2024 - 05:58:49"
+        },
+        {
+            "song_name": "deep reverie",
+            "artists": [
+                "buggy beats"
+            ],
+            "album": "deep reverie",
+            "played_at": "11/05/2024 - 05:56:23"
+        },
+        {
+            "song_name": "Duende",
+            "artists": [
+                "flâneur",
+                "Dani Catalá",
+                "dennisivnvc"
+            ],
+            "album": "Duende",
+            "played_at": "11/05/2024 - 05:54:11"
+        },
+        {
+            "song_name": "sleeping in blue",
+            "artists": [
+                "blank maxxymus"
+            ],
+            "album": "sleeping in blue",
+            "played_at": "11/05/2024 - 05:52:30"
+        },
+        {
+            "song_name": "Imitate",
+            "artists": [
+                "Sorai"
+            ],
+            "album": "Imitate",
+            "played_at": "11/05/2024 - 05:50:14"
+        },
+        {
+            "song_name": "Closing Time",
+            "artists": [
+                "A Space for Rent"
+            ],
+            "album": "Closing Time",
+            "played_at": "11/05/2024 - 05:48:49"
+        },
+        {
+            "song_name": "High five, low-fi",
+            "artists": [
+                "Dusty Kadinsky"
+            ],
+            "album": "High five, low-fi",
+            "played_at": "11/05/2024 - 05:47:01"
+        },
+        {
+            "song_name": "Sunday",
+            "artists": [
+                "Mellow Melt"
+            ],
+            "album": "Sunday",
+            "played_at": "11/05/2024 - 05:44:59"
+        },
+        {
+            "song_name": "Blue Moon",
+            "artists": [
+                "Upah Beats"
+            ],
+            "album": "Blue Moon",
+            "played_at": "11/05/2024 - 05:43:10"
+        },
+        {
+            "song_name": "Another Day",
+            "artists": [
+                "MagicCarpet"
+            ],
+            "album": "Another Day",
+            "played_at": "11/05/2024 - 05:40:47"
+        },
+        {
+            "song_name": "All downhill from here",
+            "artists": [
+                "Art Vandeley"
+            ],
+            "album": "All downhill from here",
+            "played_at": "11/05/2024 - 05:39:01"
+        },
+        {
+            "song_name": "sweetly",
+            "artists": [
+                "Papi Pier"
+            ],
+            "album": "sweetly",
+            "played_at": "11/05/2024 - 05:37:07"
+        },
+        {
+            "song_name": "watercolour",
+            "artists": [
+                "Zoe Reed"
+            ],
+            "album": "watercolour",
+            "played_at": "11/05/2024 - 05:35:14"
+        },
+        {
+            "song_name": "Car Ride",
+            "artists": [
+                "Gittiye"
+            ],
+            "album": "Car Ride",
+            "played_at": "11/05/2024 - 05:33:41"
+        },
+        {
+            "song_name": "many kinds of lost",
+            "artists": [
+                "Anoxyma"
+            ],
+            "album": "many kinds of lost",
+            "played_at": "11/05/2024 - 05:31:38"
+        },
+        {
+            "song_name": "EASY",
+            "artists": [
+                "SLOWIFI"
+            ],
+            "album": "EASY",
+            "played_at": "11/05/2024 - 05:28:52"
+        },
+        {
+            "song_name": "Winter Artifacts",
+            "artists": [
+                "Carl Borg"
+            ],
+            "album": "Winter Artifacts",
+            "played_at": "11/05/2024 - 05:26:31"
+        },
+        {
+            "song_name": "fountains",
+            "artists": [
+                "May-Flowa"
+            ],
+            "album": "fountains",
+            "played_at": "11/05/2024 - 05:24:31"
+        },
+        {
+            "song_name": "Firefly",
+            "artists": [
+                "Fritz Pants"
+            ],
+            "album": "Firefly",
+            "played_at": "11/05/2024 - 05:23:00"
+        },
+        {
+            "song_name": "afternoon walk",
+            "artists": [
+                "herbstreit"
+            ],
+            "album": "afternoon walk",
+            "played_at": "11/05/2024 - 05:21:00"
+        },
+        {
+            "song_name": "devotion",
+            "artists": [
+                "Summer Clarke"
+            ],
+            "album": "devotion",
+            "played_at": "11/05/2024 - 05:18:42"
+        },
+        {
+            "song_name": "Laundry Tessomancy",
+            "artists": [
+                "Violet Blanca"
+            ],
+            "album": "Laundry Tessomancy",
+            "played_at": "11/05/2024 - 05:16:48"
+        },
+        {
+            "song_name": "Burnt Coffee",
+            "artists": [
+                "AAGAPE"
+            ],
+            "album": "Burnt Coffee",
+            "played_at": "11/05/2024 - 05:15:05"
+        },
+        {
+            "song_name": "You Can't Take The Sky From Me",
+            "artists": [
+                "Gold School"
+            ],
+            "album": "You Can't Take The Sky From Me",
+            "played_at": "11/05/2024 - 05:13:15"
+        },
+        {
+            "song_name": "Getaway Shack",
+            "artists": [
+                "Gittiye"
+            ],
+            "album": "Getaway Shack",
+            "played_at": "11/05/2024 - 05:11:33"
+        },
+        {
+            "song_name": "midday walks",
+            "artists": [
+                "With All Respect"
+            ],
+            "album": "midday walks",
+            "played_at": "11/05/2024 - 05:09:46"
+        },
+        {
+            "song_name": "Coffee Shop",
+            "artists": [
+                "ax am"
+            ],
+            "album": "Coffee Shop",
+            "played_at": "11/05/2024 - 05:08:04"
+        },
+        {
+            "song_name": "The Jam",
+            "artists": [
+                "Audio Phill"
+            ],
+            "album": "The Jam",
+            "played_at": "11/05/2024 - 05:06:03"
+        },
+        {
+            "song_name": "Avocades",
+            "artists": [
+                "Breakfast For Brunch"
+            ],
+            "album": "Avocades",
+            "played_at": "11/05/2024 - 05:04:42"
+        },
+        {
+            "song_name": "adjustment",
+            "artists": [
+                "Ryder 003"
+            ],
+            "album": "adjustment",
+            "played_at": "11/05/2024 - 05:02:43"
+        },
+        {
+            "song_name": "Dreamwave",
+            "artists": [
+                "Calmster"
+            ],
+            "album": "Dreamwave",
+            "played_at": "11/05/2024 - 05:00:45"
+        },
+        {
+            "song_name": "Western Promises",
+            "artists": [
+                "Low Couture"
+            ],
+            "album": "Western Promises",
+            "played_at": "11/05/2024 - 04:58:19"
+        },
+        {
+            "song_name": "Kanto",
+            "artists": [
+                "JoJo Mojo"
+            ],
+            "album": "Kanto",
+            "played_at": "11/05/2024 - 04:56:27"
+        },
+        {
+            "song_name": "falling behind",
+            "artists": [
+                "softclouds"
+            ],
+            "album": "falling behind",
+            "played_at": "11/05/2024 - 04:54:32"
+        },
+        {
+            "song_name": "Soothe Your Soul",
+            "artists": [
+                "Breezonic"
+            ],
+            "album": "Soothe Your Soul",
+            "played_at": "11/05/2024 - 04:52:31"
+        },
+        {
+            "song_name": "shanghai tower",
+            "artists": [
+                "yellofish"
+            ],
+            "album": "shanghai tower",
+            "played_at": "11/05/2024 - 04:50:36"
+        },
+        {
+            "song_name": "train to tokyo",
+            "artists": [
+                "Ali Kaj"
+            ],
+            "album": "train to tokyo",
+            "played_at": "11/05/2024 - 04:48:49"
+        },
+        {
+            "song_name": "trail running",
+            "artists": [
+                "le gronk"
+            ],
+            "album": "trail running",
+            "played_at": "11/05/2024 - 04:45:44"
+        },
+        {
+            "song_name": "motion sickness",
+            "artists": [
+                "Jack All"
+            ],
+            "album": "motion sickness",
+            "played_at": "11/05/2024 - 04:43:42"
+        },
+        {
+            "song_name": "on the horizon",
+            "artists": [
+                "Fourth Eye"
+            ],
+            "album": "on the horizon",
+            "played_at": "11/05/2024 - 04:39:46"
+        },
+        {
+            "song_name": "Waterfall o' Seven",
+            "artists": [
+                "Supereffective"
+            ],
+            "album": "Waterfall O' Seven",
+            "played_at": "11/05/2024 - 04:36:33"
+        },
+        {
+            "song_name": "ajolote",
+            "artists": [
+                "tres islas"
+            ],
+            "album": "ajolote",
+            "played_at": "11/05/2024 - 04:34:47"
+        },
+        {
+            "song_name": "Seven Hundred Fourteen 七百十四",
+            "artists": [
+                "d.w.h"
+            ],
+            "album": "Seven Hundred Fourteen 七百十四",
+            "played_at": "11/05/2024 - 04:32:33"
+        },
+        {
+            "song_name": "letter to amtis",
+            "artists": [
+                "nightnotes"
+            ],
+            "album": "letter to amtis",
+            "played_at": "11/05/2024 - 04:30:27"
+        },
+        {
+            "song_name": "Lottalofi",
+            "artists": [
+                "Corse Cane"
+            ],
+            "album": "Lottalofi",
+            "played_at": "11/05/2024 - 04:29:08"
         },
         {
             "song_name": "euphoria",
