@@ -2,6 +2,66 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "13/05/2024 - 19:28:30"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "13/05/2024 - 19:25:38"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "13/05/2024 - 19:23:24"
+        },
+        {
+            "song_name": "I KNOW ?",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "13/05/2024 - 19:20:37"
+        },
+        {
+            "song_name": "Break from Toronto",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR",
+            "played_at": "13/05/2024 - 19:17:06"
+        },
+        {
+            "song_name": "I Wonder",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Graduation",
+            "played_at": "13/05/2024 - 19:15:27"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "13/05/2024 - 19:11:23"
+        },
+        {
             "song_name": "Our Time",
             "artists": [
                 "Lil Tecca"
@@ -347,63 +407,6 @@
             ],
             "album": "Voodoo Blu",
             "played_at": "12/05/2024 - 19:42:48"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "12/05/2024 - 19:40:16"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "12/05/2024 - 19:36:04"
-        },
-        {
-            "song_name": "Shine",
-            "artists": [
-                "Ashes To Amber"
-            ],
-            "album": "My Little Maniac",
-            "played_at": "12/05/2024 - 19:33:38"
-        },
-        {
-            "song_name": "Nosebleed Seats",
-            "artists": [
-                "Vansire"
-            ],
-            "album": "The Modern Western World",
-            "played_at": "12/05/2024 - 19:31:28"
-        },
-        {
-            "song_name": "Slowly",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Slowly",
-            "played_at": "12/05/2024 - 19:28:45"
-        },
-        {
-            "song_name": "Around Me (feat. Don Toliver)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "12/05/2024 - 19:25:37"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "12/05/2024 - 19:22:25"
         },
         {
             "song_name": "Type Shit",
