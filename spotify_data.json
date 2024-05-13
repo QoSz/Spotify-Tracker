@@ -2,6 +2,55 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Our Time",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Virgo World",
+            "played_at": "13/05/2024 - 00:27:22"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "13/05/2024 - 00:25:43"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "13/05/2024 - 00:23:37"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "13/05/2024 - 00:19:50"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "13/05/2024 - 00:17:26"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "13/05/2024 - 00:14:51"
+        },
+        {
             "song_name": "Tek It",
             "artists": [
                 "Cafuné"
@@ -355,54 +404,6 @@
             ],
             "album": "Alone At Prom",
             "played_at": "12/05/2024 - 19:22:25"
-        },
-        {
-            "song_name": "Romantic Lover",
-            "artists": [
-                "Eyedress"
-            ],
-            "album": "Let's Skip to the Wedding",
-            "played_at": "12/05/2024 - 19:19:53"
-        },
-        {
-            "song_name": "BADLANDS",
-            "artists": [
-                "Ashes To Amber"
-            ],
-            "album": "Voodoo Blu",
-            "played_at": "12/05/2024 - 19:18:26"
-        },
-        {
-            "song_name": "Seeds",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Seeds",
-            "played_at": "12/05/2024 - 19:15:10"
-        },
-        {
-            "song_name": "killer lover boy",
-            "artists": [
-                "SEB"
-            ],
-            "album": "IT’S OKAY, WE’RE DREAMING",
-            "played_at": "12/05/2024 - 19:11:31"
-        },
-        {
-            "song_name": "Make It",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "12/05/2024 - 19:09:16"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "12/05/2024 - 19:07:58"
         },
         {
             "song_name": "Our Time",
