@@ -2,460 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Let Go",
-            "artists": [
-                "Duskus"
-            ],
-            "album": "Let Go",
-            "played_at": "14/05/2024 - 15:57:03"
-        },
-        {
-            "song_name": "Remember (with David Guetta)",
-            "artists": [
-                "Becky Hill",
-                "David Guetta"
-            ],
-            "album": "Only Honest On The Weekend",
-            "played_at": "14/05/2024 - 15:54:56"
-        },
-        {
-            "song_name": "Get To Me",
-            "artists": [
-                "Lonely Night",
-                "Ellou",
-                "Nody"
-            ],
-            "album": "dusk till dawn",
-            "played_at": "14/05/2024 - 15:49:45"
-        },
-        {
-            "song_name": "Matter of Time",
-            "artists": [
-                "Vandelux",
-                "Alex Maher"
-            ],
-            "album": "When The Light Breaks",
-            "played_at": "14/05/2024 - 15:46:55"
-        },
-        {
-            "song_name": "Summer Feeling",
-            "artists": [
-                "Matoma",
-                "Jonah Kagen"
-            ],
-            "album": "Summer Feeling",
-            "played_at": "14/05/2024 - 15:42:55"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "14/05/2024 - 15:39:54"
-        },
-        {
-            "song_name": "Separated",
-            "artists": [
-                "IAMNOBODI"
-            ],
-            "album": "House Hues",
-            "played_at": "14/05/2024 - 15:37:11"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "14/05/2024 - 15:35:32"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "14/05/2024 - 15:31:58"
-        },
-        {
-            "song_name": "Because You Move Me",
-            "artists": [
-                "Tinlicker",
-                "Helsloot"
-            ],
-            "album": "Because You Move Me",
-            "played_at": "14/05/2024 - 15:29:35"
-        },
-        {
-            "song_name": "Relax My Eyes",
-            "artists": [
-                "ANOTR",
-                "Abel Balder"
-            ],
-            "album": "Relax My Eyes",
-            "played_at": "14/05/2024 - 15:26:19"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "14/05/2024 - 15:23:06"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "14/05/2024 - 15:20:26"
-        },
-        {
-            "song_name": "summer on the inside",
-            "artists": [
-                "warner case",
-                "Jean Tonique",
-                "Max Kaluza"
-            ],
-            "album": "summer on the inside",
-            "played_at": "14/05/2024 - 15:18:11"
-        },
-        {
-            "song_name": "Baianá",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "The Ringmaster",
-            "played_at": "14/05/2024 - 15:14:45"
-        },
-        {
-            "song_name": "Deep Down (feat. Never Dull)",
-            "artists": [
-                "Alok",
-                "Ella Eyre",
-                "Kenny Dope",
-                "Never Dull"
-            ],
-            "album": "Deep Down (feat. Never Dull)",
-            "played_at": "14/05/2024 - 15:11:44"
-        },
-        {
-            "song_name": "Alibi (feat. Rudimental)",
-            "artists": [
-                "Ella Henderson",
-                "Rudimental"
-            ],
-            "album": "Alibi (feat. Rudimental)",
-            "played_at": "14/05/2024 - 15:08:58"
-        },
-        {
-            "song_name": "10:35",
-            "artists": [
-                "Tiësto",
-                "Tate McRae"
-            ],
-            "album": "DRIVE",
-            "played_at": "14/05/2024 - 15:05:53"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "14/05/2024 - 15:03:00"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "14/05/2024 - 15:00:34"
-        },
-        {
-            "song_name": "Jungle",
-            "artists": [
-                "Alok",
-                "The Chainsmokers",
-                "Mae Stephens"
-            ],
-            "album": "Jungle",
-            "played_at": "14/05/2024 - 14:57:50"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "14/05/2024 - 14:54:53"
-        },
-        {
-            "song_name": "Saturday Night (Feel The Groove)",
-            "artists": [
-                "Brando",
-                "Ninetails"
-            ],
-            "album": "Saturday Night (Feel The Groove)",
-            "played_at": "14/05/2024 - 14:50:35"
-        },
-        {
-            "song_name": "Marea (we’ve lost dancing)",
-            "artists": [
-                "Fred again..",
-                "The Blessed Madonna"
-            ],
-            "album": "Actual Life (April 14 - December 17 2020)",
-            "played_at": "14/05/2024 - 14:48:01"
-        },
-        {
-            "song_name": "World Hold On - THEMBA Remix",
-            "artists": [
-                "Bob Sinclar",
-                "THEMBA",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (THEMBA Remix)",
-            "played_at": "14/05/2024 - 14:42:05"
-        },
-        {
-            "song_name": "Too Busy To Be Bae - Francis Mercier Remix",
-            "artists": [
-                "Kizz Daniel",
-                "Francis Mercier"
-            ],
-            "album": "Too Busy To Be Bae (Francis Mercier Remix)",
-            "played_at": "14/05/2024 - 14:40:50"
-        },
-        {
-            "song_name": "Remember Me",
-            "artists": [
-                "BLOND:ISH",
-                "KeeQ",
-                "Tamara Blessa"
-            ],
-            "album": "Remember Me",
-            "played_at": "14/05/2024 - 14:38:21"
-        },
-        {
-            "song_name": "Ohiboki",
-            "artists": [
-                "Ankhoï",
-                "Rita Kassid"
-            ],
-            "album": "Ohiboki",
-            "played_at": "14/05/2024 - 14:34:34"
-        },
-        {
-            "song_name": "The Rhythm",
-            "artists": [
-                "THEMBA"
-            ],
-            "album": "The Rhythm",
-            "played_at": "14/05/2024 - 14:29:06"
-        },
-        {
-            "song_name": "Does It Matter - Ajna (BE) Remix",
-            "artists": [
-                "Samm (BE)",
-                "Ajna (BE)"
-            ],
-            "album": "Does It Matter (Ajna Remix)",
-            "played_at": "14/05/2024 - 14:25:46"
-        },
-        {
-            "song_name": "In The Dark",
-            "artists": [
-                "Jend"
-            ],
-            "album": "In The Dark",
-            "played_at": "14/05/2024 - 14:20:05"
-        },
-        {
-            "song_name": "Losing My Religion",
-            "artists": [
-                "Samantha Loveridge",
-                "Treetalk"
-            ],
-            "album": "Losing My Religion",
-            "played_at": "14/05/2024 - 14:18:02"
-        },
-        {
-            "song_name": "What A Wonderful World - Greg Cerrone Remix",
-            "artists": [
-                "Bob Sinclar",
-                "Axwell",
-                "Ron Carroll",
-                "Greg Cerrone"
-            ],
-            "album": "What A Wonderful World (Greg Cerrone Remix)",
-            "played_at": "14/05/2024 - 14:13:32"
-        },
-        {
-            "song_name": "Aya - THEMBA's Herd Remix",
-            "artists": [
-                "Infinity Ink",
-                "THEMBA"
-            ],
-            "album": "House Of Infinity",
-            "played_at": "14/05/2024 - 14:10:28"
-        },
-        {
-            "song_name": "Somebody - Edit",
-            "artists": [
-                "Fahlberg",
-                "Sebjak"
-            ],
-            "album": "Somebody (Edit)",
-            "played_at": "14/05/2024 - 14:07:36"
-        },
-        {
-            "song_name": "Fortress - Moojo Remix",
-            "artists": [
-                "Diplo",
-                "Joeski",
-                "Rhye",
-                "Moojo"
-            ],
-            "album": "Diplo Presents Higher Ground 3 Years LP",
-            "played_at": "14/05/2024 - 14:03:51"
-        },
-        {
-            "song_name": "Told You",
-            "artists": [
-                "Kiko Franco",
-                "Moser",
-                "Dyve"
-            ],
-            "album": "Told You",
-            "played_at": "14/05/2024 - 13:59:21"
-        },
-        {
-            "song_name": "It's Not Right - Radio Edit",
-            "artists": [
-                "Gianni Romano",
-                "Emanuele Esposito",
-                "Helen Tesfazghi"
-            ],
-            "album": "It's Not Right",
-            "played_at": "14/05/2024 - 13:55:17"
-        },
-        {
-            "song_name": "Disappear",
-            "artists": [
-                "THEMBA",
-                "Nico de Andrea",
-                "Tasan"
-            ],
-            "album": "Disappear",
-            "played_at": "14/05/2024 - 13:52:01"
-        },
-        {
-            "song_name": "No Bad Energy",
-            "artists": [
-                "JMK$",
-                "Ambezza",
-                "AJ Tracey"
-            ],
-            "album": "SOUTH STORY",
-            "played_at": "14/05/2024 - 12:52:41"
-        },
-        {
-            "song_name": "misses",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "14 minutes",
-            "played_at": "14/05/2024 - 12:50:30"
-        },
-        {
-            "song_name": "What's One More",
-            "artists": [
-                "Nic D"
-            ],
-            "album": "What's One More",
-            "played_at": "14/05/2024 - 12:49:15"
-        },
-        {
-            "song_name": "What They Wish For",
-            "artists": [
-                "D.Cross",
-                "Lil Baby"
-            ],
-            "album": "Still Toxic.",
-            "played_at": "14/05/2024 - 12:46:51"
-        },
-        {
-            "song_name": "Everyday",
-            "artists": [
-                "Fireboy DML"
-            ],
-            "album": "Everyday",
-            "played_at": "14/05/2024 - 12:41:47"
-        },
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tiramisu",
-            "played_at": "14/05/2024 - 12:39:00"
-        },
-        {
-            "song_name": "Back To Back (feat. Future & Southside)",
-            "artists": [
-                "Nardo Wick",
-                "Future",
-                "Southside"
-            ],
-            "album": "Back To Back (feat. Future & Southside)",
-            "played_at": "14/05/2024 - 12:36:45"
-        },
-        {
-            "song_name": "Hero",
-            "artists": [
-                "David Kushner"
-            ],
-            "album": "Hero",
-            "played_at": "14/05/2024 - 12:30:04"
-        },
-        {
-            "song_name": "Fire - Official UEFA EURO 2024 Song",
-            "artists": [
-                "MEDUZA",
-                "OneRepublic",
-                "Leony"
-            ],
-            "album": "Fire (Official UEFA EURO 2024 Song)",
-            "played_at": "14/05/2024 - 12:25:42"
-        },
-        {
-            "song_name": "Great Escape",
-            "artists": [
-                "Good Vibe Delivery"
-            ],
-            "album": "Great Escape",
-            "played_at": "14/05/2024 - 12:22:59"
-        },
-        {
-            "song_name": "The Greatest",
-            "artists": [
-                "Key Glock"
-            ],
-            "album": "The Greatest",
-            "played_at": "14/05/2024 - 12:20:48"
-        },
-        {
             "song_name": "Blue World",
             "artists": [
                 "Mac Miller"
@@ -1719,6 +1265,427 @@
             ],
             "album": "Sorry 4 What",
             "played_at": "14/05/2024 - 16:35:02"
+        },
+        {
+            "song_name": "sdp interlude",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "14/05/2024 - 23:55:56"
+        },
+        {
+            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "21 Savage"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "14/05/2024 - 23:52:44"
+        },
+        {
+            "song_name": "Shots",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "14/05/2024 - 23:49:16"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "14/05/2024 - 23:47:26"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "14/05/2024 - 23:43:37"
+        },
+        {
+            "song_name": "20 Min",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "14/05/2024 - 23:40:40"
+        },
+        {
+            "song_name": "Bandit",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Bandit",
+            "played_at": "14/05/2024 - 23:36:59"
+        },
+        {
+            "song_name": "MELTDOWN (feat. Drake)",
+            "artists": [
+                "Travis Scott",
+                "Drake"
+            ],
+            "album": "UTOPIA",
+            "played_at": "14/05/2024 - 23:34:31"
+        },
+        {
+            "song_name": "Jumbotron Shit Poppin",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "14/05/2024 - 23:30:24"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "14/05/2024 - 23:28:07"
+        },
+        {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "14/05/2024 - 23:24:36"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "14/05/2024 - 23:22:17"
+        },
+        {
+            "song_name": "Already Best Friends (feat. Chris Brown)",
+            "artists": [
+                "Jack Harlow",
+                "Chris Brown"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "14/05/2024 - 23:19:42"
+        },
+        {
+            "song_name": "Not Like Us",
+            "artists": [
+                "Kendrick Lamar"
+            ],
+            "album": "Not Like Us",
+            "played_at": "14/05/2024 - 23:16:24"
+        },
+        {
+            "song_name": "Imperfections (Interlude)",
+            "artists": [
+                "Pop Smoke"
+            ],
+            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+            "played_at": "14/05/2024 - 23:11:49"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "14/05/2024 - 23:10:01"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "14/05/2024 - 23:07:25"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "14/05/2024 - 23:04:38"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "14/05/2024 - 23:00:26"
+        },
+        {
+            "song_name": "Our Time",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Virgo World",
+            "played_at": "14/05/2024 - 22:58:20"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "14/05/2024 - 22:56:42"
+        },
+        {
+            "song_name": "Face 2 Face",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Face 2 Face",
+            "played_at": "14/05/2024 - 22:53:26"
+        },
+        {
+            "song_name": "Self Care",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "14/05/2024 - 22:51:21"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "Giveon"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "14/05/2024 - 22:45:35"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "14/05/2024 - 22:41:57"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "14/05/2024 - 22:06:06"
+        },
+        {
+            "song_name": "Lean Wit Me",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Goodbye & Good Riddance",
+            "played_at": "14/05/2024 - 22:03:28"
+        },
+        {
+            "song_name": "Self Care",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "14/05/2024 - 22:00:32"
+        },
+        {
+            "song_name": "Push Ups",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Push Ups",
+            "played_at": "14/05/2024 - 21:54:47"
+        },
+        {
+            "song_name": "Blue World",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "14/05/2024 - 21:51:04"
+        },
+        {
+            "song_name": "Blue World",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "14/05/2024 - 18:49:12"
+        },
+        {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "14/05/2024 - 18:36:58"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "14/05/2024 - 18:34:30"
+        },
+        {
+            "song_name": "2055",
+            "artists": [
+                "Sleepy Hallow"
+            ],
+            "album": "Still Sleep?",
+            "played_at": "14/05/2024 - 18:32:06"
+        },
+        {
+            "song_name": "ASTROTHUNDER",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "14/05/2024 - 18:30:02"
+        },
+        {
+            "song_name": "ONE CALL",
+            "artists": [
+                "Rich Amiri"
+            ],
+            "album": "Ghetto Fabulous",
+            "played_at": "14/05/2024 - 18:27:39"
+        },
+        {
+            "song_name": "Dang! (feat. Anderson .Paak)",
+            "artists": [
+                "Mac Miller",
+                "Anderson .Paak"
+            ],
+            "album": "The Divine Feminine",
+            "played_at": "14/05/2024 - 18:25:37"
+        },
+        {
+            "song_name": "BackOutsideBoyz",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "14/05/2024 - 18:20:31"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "14/05/2024 - 18:17:58"
+        },
+        {
+            "song_name": "Drip Too Hard (Lil Baby & Gunna)",
+            "artists": [
+                "Lil Baby",
+                "Gunna"
+            ],
+            "album": "Drip Harder",
+            "played_at": "14/05/2024 - 18:13:22"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "14/05/2024 - 18:10:57"
+        },
+        {
+            "song_name": "SKELETONS",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "14/05/2024 - 18:09:00"
+        },
+        {
+            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+            "artists": [
+                "Brent Faiyaz",
+                "N3WYRKLA",
+                "A$AP Rocky"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "14/05/2024 - 18:06:34"
+        },
+        {
+            "song_name": "Ride",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "Ride",
+            "played_at": "14/05/2024 - 18:03:11"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "14/05/2024 - 18:00:00"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "14/05/2024 - 17:55:08"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "14/05/2024 - 17:50:14"
+        },
+        {
+            "song_name": "I Wonder",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Graduation",
+            "played_at": "14/05/2024 - 17:47:41"
+        },
+        {
+            "song_name": "goosebumps",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "14/05/2024 - 17:43:37"
+        },
+        {
+            "song_name": "XO Tour Llif3",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "14/05/2024 - 17:39:32"
         }
     ]
 }
