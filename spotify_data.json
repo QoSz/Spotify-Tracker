@@ -2,438 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "As It Was",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Harry's House",
-            "played_at": "16/05/2024 - 17:37:13"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "16/05/2024 - 17:34:25"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "16/05/2024 - 17:31:23"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "16/05/2024 - 17:29:03"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "Giveon"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "16/05/2024 - 17:23:49"
-        },
-        {
-            "song_name": "C U Girl",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "C U Girl",
-            "played_at": "16/05/2024 - 17:20:08"
-        },
-        {
-            "song_name": "Honey",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Changes",
-            "played_at": "16/05/2024 - 17:17:58"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "16/05/2024 - 17:14:23"
-        },
-        {
-            "song_name": "Again",
-            "artists": [
-                "Wande Coal"
-            ],
-            "album": "Realms",
-            "played_at": "16/05/2024 - 17:11:28"
-        },
-        {
-            "song_name": "Phone Numbers",
-            "artists": [
-                "Dominic Fike",
-                "Kenny Beats"
-            ],
-            "album": "Phone Numbers",
-            "played_at": "16/05/2024 - 17:08:52"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "16/05/2024 - 17:06:24"
-        },
-        {
-            "song_name": "Piggypink",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Piggypink",
-            "played_at": "16/05/2024 - 17:04:52"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "16/05/2024 - 17:02:12"
-        },
-        {
-            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
-            "artists": [
-                "Brent Faiyaz",
-                "FELIX!",
-                "Tommy Richman"
-            ],
-            "album": "Larger Than Life",
-            "played_at": "16/05/2024 - 16:59:26"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "16/05/2024 - 16:56:29"
-        },
-        {
-            "song_name": "4422",
-            "artists": [
-                "Drake",
-                "Sampha"
-            ],
-            "album": "More Life",
-            "played_at": "16/05/2024 - 16:54:50"
-        },
-        {
-            "song_name": "sdp interlude",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "Birds In The Trap Sing McKnight",
-            "played_at": "16/05/2024 - 16:51:43"
-        },
-        {
-            "song_name": "Break from Toronto",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR",
-            "played_at": "16/05/2024 - 16:48:31"
-        },
-        {
-            "song_name": "Stallin'",
-            "artists": [
-                "Mack H.D",
-                "Oga Silachi",
-                "Mmzy"
-            ],
-            "album": "Stallin'",
-            "played_at": "15/05/2024 - 18:08:11"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "15/05/2024 - 17:57:45"
-        },
-        {
-            "song_name": "Something to Feel",
-            "artists": [
-                "Kobi Jonz"
-            ],
-            "album": "Something to Feel",
-            "played_at": "15/05/2024 - 17:54:38"
-        },
-        {
-            "song_name": "People (feat. Ayra Starr & Omah Lay)",
-            "artists": [
-                "Libianca",
-                "Ayra Starr",
-                "Omah Lay"
-            ],
-            "album": "People (Remixes)",
-            "played_at": "15/05/2024 - 17:51:27"
-        },
-        {
-            "song_name": "Iyawo",
-            "artists": [
-                "K-Brwn",
-                "Zaki Amujei"
-            ],
-            "album": "Iyawo",
-            "played_at": "15/05/2024 - 17:48:22"
-        },
-        {
-            "song_name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
-            "artists": [
-                "CKay",
-                "Joeboy",
-                "Kuami Eugene"
-            ],
-            "album": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
-            "played_at": "15/05/2024 - 17:45:30"
-        },
-        {
-            "song_name": "Sip (Alcohol)",
-            "artists": [
-                "Joeboy"
-            ],
-            "album": "Sip (Alcohol)",
-            "played_at": "15/05/2024 - 17:42:22"
-        },
-        {
-            "song_name": "Sensational (feat. Davido & Lojay)",
-            "artists": [
-                "Chris Brown",
-                "Davido",
-                "Lojay"
-            ],
-            "album": "11:11",
-            "played_at": "15/05/2024 - 17:39:43"
-        },
-        {
-            "song_name": "KANTE (feat. Fave)",
-            "artists": [
-                "Davido",
-                "FAVE"
-            ],
-            "album": "Timeless",
-            "played_at": "15/05/2024 - 17:35:51"
-        },
-        {
-            "song_name": "Rush",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "Rush",
-            "played_at": "15/05/2024 - 17:32:36"
-        },
-        {
-            "song_name": "Truth or Dare",
-            "artists": [
-                "Tyla"
-            ],
-            "album": "TYLA",
-            "played_at": "15/05/2024 - 17:29:31"
-        },
-        {
-            "song_name": "Calm Down",
-            "artists": [
-                "Rema"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "15/05/2024 - 17:26:20"
-        },
-        {
-            "song_name": "Comment Faire",
-            "artists": [
-                "Mack H.D",
-                "Night Myl"
-            ],
-            "album": "Comment Faire",
-            "played_at": "15/05/2024 - 17:22:40"
-        },
-        {
-            "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-            "artists": [
-                "Victony",
-                "Rema",
-                "Tempoe",
-                "Don Toliver"
-            ],
-            "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-            "played_at": "15/05/2024 - 17:20:18"
-        },
-        {
-            "song_name": "UNAVAILABLE (feat. Musa Keys)",
-            "artists": [
-                "Davido",
-                "Musa Keys"
-            ],
-            "album": "Timeless",
-            "played_at": "15/05/2024 - 17:16:38"
-        },
-        {
-            "song_name": "Lonely At The Top - Remix",
-            "artists": [
-                "Asake",
-                "H.E.R."
-            ],
-            "album": "Lonely At The Top (Remix)",
-            "played_at": "15/05/2024 - 17:13:47"
-        },
-        {
-            "song_name": "City Boys",
-            "artists": [
-                "Burna Boy"
-            ],
-            "album": "I Told Them...",
-            "played_at": "15/05/2024 - 17:11:10"
-        },
-        {
-            "song_name": "Runaway",
-            "artists": [
-                "Mack H.D",
-                "Bolu Ajibade"
-            ],
-            "album": "Runaway",
-            "played_at": "15/05/2024 - 17:08:36"
-        },
-        {
-            "song_name": "Monalisa",
-            "artists": [
-                "Lojay",
-                "Sarz",
-                "Chris Brown"
-            ],
-            "album": "Monalisa",
-            "played_at": "15/05/2024 - 17:06:20"
-        },
-        {
-            "song_name": "Commas",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "Commas",
-            "played_at": "15/05/2024 - 17:02:48"
-        },
-        {
-            "song_name": "Water",
-            "artists": [
-                "Tyla"
-            ],
-            "album": "Water",
-            "played_at": "15/05/2024 - 17:00:10"
-        },
-        {
-            "song_name": "SHE BE",
-            "artists": [
-                "Mack H.D",
-                "CHUMA"
-            ],
-            "album": "SHE BE",
-            "played_at": "15/05/2024 - 16:56:49"
-        },
-        {
-            "song_name": "YOSEMITE",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "15/05/2024 - 16:53:43"
-        },
-        {
-            "song_name": "SO DONE",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "F*CK LOVE 3+: OVER YOU",
-            "played_at": "15/05/2024 - 16:53:39"
-        },
-        {
-            "song_name": "Never Last",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "Number 2 / Never Last",
-            "played_at": "15/05/2024 - 16:51:32"
-        },
-        {
-            "song_name": "TOP FLOOR (feat. Travis Scott)",
-            "artists": [
-                "Gunna",
-                "Travis Scott"
-            ],
-            "album": "WUNNA",
-            "played_at": "15/05/2024 - 16:49:10"
-        },
-        {
-            "song_name": "Revenge",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "17",
-            "played_at": "15/05/2024 - 16:46:19"
-        },
-        {
-            "song_name": "Motley Crew",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Motley Crew",
-            "played_at": "15/05/2024 - 16:44:20"
-        },
-        {
-            "song_name": "FE!N (feat. Playboi Carti)",
-            "artists": [
-                "Travis Scott",
-                "Playboi Carti"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/05/2024 - 16:41:14"
-        },
-        {
-            "song_name": "Doom",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Fighting Demons (Deluxe)",
-            "played_at": "15/05/2024 - 16:38:02"
-        },
-        {
-            "song_name": "Type Shit",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Travis Scott",
-                "Playboi Carti"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "15/05/2024 - 16:34:24"
-        },
-        {
-            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-            "artists": [
-                "Gunna",
-                "Young Thug"
-            ],
-            "album": "WUNNA",
-            "played_at": "15/05/2024 - 16:28:25"
-        },
-        {
             "song_name": "Sunrise",
             "artists": [
                 "Tungevaag"
@@ -1724,6 +1292,432 @@
             ],
             "album": "Soweto (with Don Toliver, Rema and Tempoe)",
             "played_at": "15/05/2024 - 17:20:18"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Are You With Me",
+            "played_at": "16/05/2024 - 21:03:02"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "16/05/2024 - 21:00:44"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "16/05/2024 - 20:58:33"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "16/05/2024 - 20:53:49"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "16/05/2024 - 19:04:12"
+        },
+        {
+            "song_name": "Show Me Love - EDX Remix / Radio Edit",
+            "artists": [
+                "Sam Feldt",
+                "Kimberly Anne",
+                "EDX"
+            ],
+            "album": "Show Me Love (Remixes 2)",
+            "played_at": "16/05/2024 - 19:03:48"
+        },
+        {
+            "song_name": "Creep",
+            "artists": [
+                "GAMPER & DADONI"
+            ],
+            "album": "Creep",
+            "played_at": "16/05/2024 - 19:00:47"
+        },
+        {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Fast Car",
+            "played_at": "16/05/2024 - 18:57:52"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "16/05/2024 - 18:54:19"
+        },
+        {
+            "song_name": "Often - Kygo Remix",
+            "artists": [
+                "The Weeknd",
+                "Kygo"
+            ],
+            "album": "Often (Kygo Remix)",
+            "played_at": "16/05/2024 - 18:51:35"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "16/05/2024 - 18:47:41"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Duke Dumont"
+            ],
+            "album": "Duality",
+            "played_at": "16/05/2024 - 18:44:42"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "16/05/2024 - 18:41:16"
+        },
+        {
+            "song_name": "Hold This Memory",
+            "artists": [
+                "Deepend",
+                "Madism"
+            ],
+            "album": "Hold This Memory",
+            "played_at": "16/05/2024 - 18:37:43"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "16/05/2024 - 18:35:03"
+        },
+        {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "16/05/2024 - 18:32:43"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "16/05/2024 - 18:29:42"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "16/05/2024 - 18:24:06"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "16/05/2024 - 18:22:09"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ilyTOMMY"
+            ],
+            "album": "Forever",
+            "played_at": "16/05/2024 - 17:38:07"
+        },
+        {
+            "song_name": "As It Was",
+            "artists": [
+                "Harry Styles"
+            ],
+            "album": "Harry's House",
+            "played_at": "16/05/2024 - 17:37:13"
+        },
+        {
+            "song_name": "Goose Neck",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Goose Neck",
+            "played_at": "16/05/2024 - 17:34:25"
+        },
+        {
+            "song_name": "then i met her",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "16/05/2024 - 17:31:23"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "16/05/2024 - 17:29:03"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "Giveon"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "16/05/2024 - 17:23:49"
+        },
+        {
+            "song_name": "C U Girl",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "C U Girl",
+            "played_at": "16/05/2024 - 17:20:08"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "16/05/2024 - 17:17:58"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "16/05/2024 - 17:14:23"
+        },
+        {
+            "song_name": "Again",
+            "artists": [
+                "Wande Coal"
+            ],
+            "album": "Realms",
+            "played_at": "16/05/2024 - 17:11:28"
+        },
+        {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "16/05/2024 - 17:08:52"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "16/05/2024 - 17:06:24"
+        },
+        {
+            "song_name": "Piggypink",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Piggypink",
+            "played_at": "16/05/2024 - 17:04:52"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "16/05/2024 - 17:02:12"
+        },
+        {
+            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
+            "artists": [
+                "Brent Faiyaz",
+                "FELIX!",
+                "Tommy Richman"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "16/05/2024 - 16:59:26"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "16/05/2024 - 16:56:29"
+        },
+        {
+            "song_name": "4422",
+            "artists": [
+                "Drake",
+                "Sampha"
+            ],
+            "album": "More Life",
+            "played_at": "16/05/2024 - 16:54:50"
+        },
+        {
+            "song_name": "sdp interlude",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "16/05/2024 - 16:51:43"
+        },
+        {
+            "song_name": "Break from Toronto",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR",
+            "played_at": "16/05/2024 - 16:48:31"
+        },
+        {
+            "song_name": "Stallin'",
+            "artists": [
+                "Mack H.D",
+                "Oga Silachi",
+                "Mmzy"
+            ],
+            "album": "Stallin'",
+            "played_at": "15/05/2024 - 18:08:11"
+        },
+        {
+            "song_name": "Peru",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran"
+            ],
+            "album": "Playboy",
+            "played_at": "15/05/2024 - 17:57:45"
+        },
+        {
+            "song_name": "Something to Feel",
+            "artists": [
+                "Kobi Jonz"
+            ],
+            "album": "Something to Feel",
+            "played_at": "15/05/2024 - 17:54:38"
+        },
+        {
+            "song_name": "People (feat. Ayra Starr & Omah Lay)",
+            "artists": [
+                "Libianca",
+                "Ayra Starr",
+                "Omah Lay"
+            ],
+            "album": "People (Remixes)",
+            "played_at": "15/05/2024 - 17:51:27"
+        },
+        {
+            "song_name": "Iyawo",
+            "artists": [
+                "K-Brwn",
+                "Zaki Amujei"
+            ],
+            "album": "Iyawo",
+            "played_at": "15/05/2024 - 17:48:22"
+        },
+        {
+            "song_name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
+            "artists": [
+                "CKay",
+                "Joeboy",
+                "Kuami Eugene"
+            ],
+            "album": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
+            "played_at": "15/05/2024 - 17:45:30"
+        },
+        {
+            "song_name": "Sip (Alcohol)",
+            "artists": [
+                "Joeboy"
+            ],
+            "album": "Sip (Alcohol)",
+            "played_at": "15/05/2024 - 17:42:22"
+        },
+        {
+            "song_name": "Sensational (feat. Davido & Lojay)",
+            "artists": [
+                "Chris Brown",
+                "Davido",
+                "Lojay"
+            ],
+            "album": "11:11",
+            "played_at": "15/05/2024 - 17:39:43"
+        },
+        {
+            "song_name": "KANTE (feat. Fave)",
+            "artists": [
+                "Davido",
+                "FAVE"
+            ],
+            "album": "Timeless",
+            "played_at": "15/05/2024 - 17:35:51"
+        },
+        {
+            "song_name": "Rush",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "Rush",
+            "played_at": "15/05/2024 - 17:32:36"
+        },
+        {
+            "song_name": "Truth or Dare",
+            "artists": [
+                "Tyla"
+            ],
+            "album": "TYLA",
+            "played_at": "15/05/2024 - 17:29:31"
+        },
+        {
+            "song_name": "Calm Down",
+            "artists": [
+                "Rema"
+            ],
+            "album": "Rave & Roses",
+            "played_at": "15/05/2024 - 17:26:20"
         }
     ]
 }
