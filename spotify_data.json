@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "16/05/2024 - 21:03:17"
+        },
+        {
             "song_name": "Are You With Me",
             "artists": [
                 "Lost Frequencies"
@@ -418,14 +426,6 @@
             ],
             "album": "TYLA",
             "played_at": "15/05/2024 - 17:29:31"
-        },
-        {
-            "song_name": "Calm Down",
-            "artists": [
-                "Rema"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "15/05/2024 - 17:26:20"
         },
         {
             "song_name": "Riptide",
