@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "20/05/2024 - 15:30:12"
+        },
+        {
             "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
             "artists": [
                 "Brent Faiyaz",
@@ -425,15 +435,6 @@
             ],
             "album": "Creep",
             "played_at": "18/05/2024 - 18:21:07"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Fast Car",
-            "played_at": "18/05/2024 - 18:20:57"
         },
         {
             "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
