@@ -2,446 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Keep It Light",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "21/05/2024 - 16:20:56"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "21/05/2024 - 16:07:58"
-        },
-        {
-            "song_name": "Heartless",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "808s & Heartbreak",
-            "played_at": "21/05/2024 - 16:04:46"
-        },
-        {
-            "song_name": "Caught in a Dream",
-            "artists": [
-                "PALASTIC",
-                "LissA"
-            ],
-            "album": "Caught in a Dream",
-            "played_at": "21/05/2024 - 16:01:14"
-        },
-        {
-            "song_name": "Lovin On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Lovin On Me",
-            "played_at": "21/05/2024 - 15:58:28"
-        },
-        {
-            "song_name": "Sdp Interlude",
-            "artists": [
-                "Lucidity"
-            ],
-            "album": "Sdp Interlude",
-            "played_at": "21/05/2024 - 15:56:09"
-        },
-        {
-            "song_name": "4th Dimension",
-            "artists": [
-                "KIDS SEE GHOSTS",
-                "Louis Prima"
-            ],
-            "album": "KIDS SEE GHOSTS",
-            "played_at": "21/05/2024 - 15:50:40"
-        },
-        {
-            "song_name": "Barking",
-            "artists": [
-                "Ramz"
-            ],
-            "album": "Barking",
-            "played_at": "21/05/2024 - 15:48:07"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "21/05/2024 - 15:44:43"
-        },
-        {
-            "song_name": "On The Radar Freestyle",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "On The Radar Freestyle",
-            "played_at": "21/05/2024 - 15:42:08"
-        },
-        {
-            "song_name": "Water - Remix",
-            "artists": [
-                "Tyla",
-                "Travis Scott"
-            ],
-            "album": "Water (Remix)",
-            "played_at": "21/05/2024 - 15:37:33"
-        },
-        {
-            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "artists": [
-                "A$AP Mob",
-                "A$AP Rocky",
-                "Playboi Carti",
-                "Quavo",
-                "Lil Uzi Vert",
-                "Frank Ocean"
-            ],
-            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "played_at": "21/05/2024 - 15:34:12"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake",
-                "Future"
-            ],
-            "album": "I Am Not A Human Being II (Deluxe)",
-            "played_at": "21/05/2024 - 15:29:56"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "21/05/2024 - 15:25:40"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "20/05/2024 - 15:30:12"
-        },
-        {
-            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
-            "artists": [
-                "Brent Faiyaz",
-                "N3WYRKLA",
-                "A$AP Rocky"
-            ],
-            "album": "Larger Than Life",
-            "played_at": "20/05/2024 - 15:14:29"
-        },
-        {
-            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "artists": [
-                "JID",
-                "21 Savage",
-                "Baby Tate"
-            ],
-            "album": "The Forever Story (Extended Version)",
-            "played_at": "20/05/2024 - 15:11:06"
-        },
-        {
-            "song_name": "Chasing (feat. NEIMY)",
-            "artists": [
-                "Solar State",
-                "NSH",
-                "NEIMY"
-            ],
-            "album": "Chasing (feat. NEIMY)",
-            "played_at": "20/05/2024 - 14:41:54"
-        },
-        {
-            "song_name": "ball w/o you",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "i am > i was",
-            "played_at": "20/05/2024 - 14:39:26"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Future"
-            ],
-            "album": "HNDRXX",
-            "played_at": "20/05/2024 - 14:36:09"
-        },
-        {
-            "song_name": "heart on my sleeve",
-            "artists": [
-                "ghostwriter"
-            ],
-            "album": "heart on my sleeve",
-            "played_at": "20/05/2024 - 14:31:43"
-        },
-        {
-            "song_name": "HITTIN MY SHOULDER",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "RED & WHITE",
-            "played_at": "20/05/2024 - 14:29:27"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "20/05/2024 - 14:26:59"
-        },
-        {
-            "song_name": "Did It Again",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "20/05/2024 - 14:24:23"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "20/05/2024 - 14:22:26"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Lose It All (I Don't Wanna)",
-            "played_at": "20/05/2024 - 14:18:52"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "20/05/2024 - 14:16:33"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "20/05/2024 - 14:13:14"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "20/05/2024 - 14:10:15"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "20/05/2024 - 14:07:14"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "20/05/2024 - 14:04:19"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "20/05/2024 - 14:00:39"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "20/05/2024 - 13:56:23"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "20/05/2024 - 13:54:23"
-        },
-        {
-            "song_name": "City of Love",
-            "artists": [
-                "Lonely in the Rain",
-                "Nounours"
-            ],
-            "album": "City of Love",
-            "played_at": "20/05/2024 - 13:51:23"
-        },
-        {
-            "song_name": "Heart So Big",
-            "artists": [
-                "Matoma",
-                "A R I Z O N A"
-            ],
-            "album": "Heart So Big",
-            "played_at": "20/05/2024 - 13:48:39"
-        },
-        {
-            "song_name": "Never Too Much (feat. MIYA MIYA)",
-            "artists": [
-                "GOLD RVSH",
-                "MIYA MIYA"
-            ],
-            "album": "Never Too Much (feat. MIYA MIYA)",
-            "played_at": "20/05/2024 - 13:45:07"
-        },
-        {
-            "song_name": "Dollar Dream [Lucas Estrada Edit]",
-            "artists": [
-                "Lucas Estrada",
-                "Couché",
-                "Polar Notes",
-                "Mentum"
-            ],
-            "album": "Dollar Dream [Lucas Estrada Edit]",
-            "played_at": "20/05/2024 - 13:42:18"
-        },
-        {
-            "song_name": "Lucky Star",
-            "artists": [
-                "Sol Novaro",
-                "ROBINS"
-            ],
-            "album": "Lucky Star",
-            "played_at": "20/05/2024 - 13:39:52"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "20/05/2024 - 13:37:22"
-        },
-        {
-            "song_name": "Leave a Smile",
-            "artists": [
-                "Twan Ray",
-                "Moonshine",
-                "Solar State"
-            ],
-            "album": "Leave a Smile",
-            "played_at": "20/05/2024 - 13:34:54"
-        },
-        {
-            "song_name": "Perfect Strangers",
-            "artists": [
-                "Jonas Blue",
-                "JP Cooper"
-            ],
-            "album": "Blue",
-            "played_at": "20/05/2024 - 13:32:28"
-        },
-        {
-            "song_name": "Nothing Better",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Nothing Better",
-            "played_at": "20/05/2024 - 13:29:22"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Moonkids"
-            ],
-            "album": "Waiting",
-            "played_at": "20/05/2024 - 13:26:57"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "20/05/2024 - 13:24:43"
-        },
-        {
-            "song_name": "Nalu",
-            "artists": [
-                "Deep Chills",
-                "Brendan Mills"
-            ],
-            "album": "Nalu",
-            "played_at": "20/05/2024 - 13:22:34"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "20/05/2024 - 13:20:08"
-        },
-        {
-            "song_name": "Stop Us Now",
-            "artists": [
-                "NSH",
-                "DT James"
-            ],
-            "album": "Stop Us Now",
-            "played_at": "20/05/2024 - 13:17:24"
-        },
-        {
-            "song_name": "High Tide",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Dream Dimension",
-            "played_at": "20/05/2024 - 13:15:26"
-        },
-        {
-            "song_name": "Unwanted (feat. Conor Maynard)",
-            "artists": [
-                "Martin Jensen",
-                "Sam Feldt",
-                "Conor Maynard"
-            ],
-            "album": "Unwanted (feat. Conor Maynard)",
-            "played_at": "20/05/2024 - 13:12:07"
-        },
-        {
             "song_name": "Evening Walk",
             "artists": [
                 "Matt Bleu"
@@ -1312,6 +872,441 @@
             ],
             "album": "City of Love",
             "played_at": "20/05/2024 - 13:51:23"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Are You With Me",
+            "played_at": "22/05/2024 - 12:01:46"
+        },
+        {
+            "song_name": "Often - Kygo Remix",
+            "artists": [
+                "The Weeknd",
+                "Kygo"
+            ],
+            "album": "Often (Kygo Remix)",
+            "played_at": "22/05/2024 - 11:59:56"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "22/05/2024 - 11:56:31"
+        },
+        {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Fast Car",
+            "played_at": "22/05/2024 - 11:54:46"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "22/05/2024 - 11:51:40"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "22/05/2024 - 11:49:25"
+        },
+        {
+            "song_name": "Creep",
+            "artists": [
+                "GAMPER & DADONI"
+            ],
+            "album": "Creep",
+            "played_at": "22/05/2024 - 11:45:14"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "Ain't Nobody (Loves Me Better)",
+            "played_at": "22/05/2024 - 11:42:40"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "22/05/2024 - 11:40:04"
+        },
+        {
+            "song_name": "Show Me Love - EDX Remix / Radio Edit",
+            "artists": [
+                "Sam Feldt",
+                "Kimberly Anne",
+                "EDX"
+            ],
+            "album": "Show Me Love (Remixes 2)",
+            "played_at": "22/05/2024 - 11:37:41"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "22/05/2024 - 11:35:03"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Duke Dumont"
+            ],
+            "album": "Duality",
+            "played_at": "22/05/2024 - 11:32:14"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "22/05/2024 - 11:29:12"
+        },
+        {
+            "song_name": "Hold This Memory",
+            "artists": [
+                "Deepend",
+                "Madism"
+            ],
+            "album": "Hold This Memory",
+            "played_at": "22/05/2024 - 11:26:08"
+        },
+        {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "22/05/2024 - 11:23:43"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "22/05/2024 - 11:20:49"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "22/05/2024 - 11:18:29"
+        },
+        {
+            "song_name": "Keep It Light",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "21/05/2024 - 16:20:56"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "21/05/2024 - 16:07:58"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "21/05/2024 - 16:04:46"
+        },
+        {
+            "song_name": "Caught in a Dream",
+            "artists": [
+                "PALASTIC",
+                "LissA"
+            ],
+            "album": "Caught in a Dream",
+            "played_at": "21/05/2024 - 16:01:14"
+        },
+        {
+            "song_name": "Lovin On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Lovin On Me",
+            "played_at": "21/05/2024 - 15:58:28"
+        },
+        {
+            "song_name": "Sdp Interlude",
+            "artists": [
+                "Lucidity"
+            ],
+            "album": "Sdp Interlude",
+            "played_at": "21/05/2024 - 15:56:09"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "21/05/2024 - 15:50:40"
+        },
+        {
+            "song_name": "Barking",
+            "artists": [
+                "Ramz"
+            ],
+            "album": "Barking",
+            "played_at": "21/05/2024 - 15:48:07"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "21/05/2024 - 15:44:43"
+        },
+        {
+            "song_name": "On The Radar Freestyle",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "On The Radar Freestyle",
+            "played_at": "21/05/2024 - 15:42:08"
+        },
+        {
+            "song_name": "Water - Remix",
+            "artists": [
+                "Tyla",
+                "Travis Scott"
+            ],
+            "album": "Water (Remix)",
+            "played_at": "21/05/2024 - 15:37:33"
+        },
+        {
+            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "artists": [
+                "A$AP Mob",
+                "A$AP Rocky",
+                "Playboi Carti",
+                "Quavo",
+                "Lil Uzi Vert",
+                "Frank Ocean"
+            ],
+            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "played_at": "21/05/2024 - 15:34:12"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake",
+                "Future"
+            ],
+            "album": "I Am Not A Human Being II (Deluxe)",
+            "played_at": "21/05/2024 - 15:29:56"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "21/05/2024 - 15:25:40"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "20/05/2024 - 15:30:12"
+        },
+        {
+            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+            "artists": [
+                "Brent Faiyaz",
+                "N3WYRKLA",
+                "A$AP Rocky"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "20/05/2024 - 15:14:29"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "20/05/2024 - 15:11:06"
+        },
+        {
+            "song_name": "Chasing (feat. NEIMY)",
+            "artists": [
+                "Solar State",
+                "NSH",
+                "NEIMY"
+            ],
+            "album": "Chasing (feat. NEIMY)",
+            "played_at": "20/05/2024 - 14:41:54"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "20/05/2024 - 14:39:26"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "20/05/2024 - 14:36:09"
+        },
+        {
+            "song_name": "heart on my sleeve",
+            "artists": [
+                "ghostwriter"
+            ],
+            "album": "heart on my sleeve",
+            "played_at": "20/05/2024 - 14:31:43"
+        },
+        {
+            "song_name": "HITTIN MY SHOULDER",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "RED & WHITE",
+            "played_at": "20/05/2024 - 14:29:27"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "20/05/2024 - 14:26:59"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "20/05/2024 - 14:24:23"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "20/05/2024 - 14:22:26"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Lose It All (I Don't Wanna)",
+            "played_at": "20/05/2024 - 14:18:52"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "20/05/2024 - 14:16:33"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "20/05/2024 - 14:13:14"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "20/05/2024 - 14:10:15"
+        },
+        {
+            "song_name": "Do It Right",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "20/05/2024 - 14:07:14"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "20/05/2024 - 14:04:19"
+        },
+        {
+            "song_name": "Lady Of Namek",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "20/05/2024 - 14:00:39"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "20/05/2024 - 13:56:23"
         },
         {
             "song_name": "Are You With Me",
