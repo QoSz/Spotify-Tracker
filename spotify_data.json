@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Baianá",
+            "artists": [
+                "Nia Archives"
+            ],
+            "album": "Baianá",
+            "played_at": "24/05/2024 - 11:59:54"
+        },
+        {
             "song_name": "Did You See",
             "artists": [
                 "J Hus"
@@ -429,16 +437,6 @@
             ],
             "album": "Emorio",
             "played_at": "22/05/2024 - 11:40:04"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (Remixes 2)",
-            "played_at": "22/05/2024 - 11:37:41"
         },
         {
             "song_name": "Baianá",
