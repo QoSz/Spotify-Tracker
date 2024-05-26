@@ -2,6 +2,64 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Martin & Gina",
+            "artists": [
+                "Polo G"
+            ],
+            "album": "THE GOAT",
+            "played_at": "26/05/2024 - 19:18:37"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "26/05/2024 - 19:16:23"
+        },
+        {
+            "song_name": "HIGHEST IN THE ROOM",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "HIGHEST IN THE ROOM",
+            "played_at": "26/05/2024 - 19:12:10"
+        },
+        {
+            "song_name": "Jersey",
+            "artists": [
+                "Future"
+            ],
+            "album": "What A Time To Be Alive",
+            "played_at": "26/05/2024 - 19:09:14"
+        },
+        {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "26/05/2024 - 19:06:05"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "26/05/2024 - 19:03:46"
+        },
+        {
+            "song_name": "goosebumps",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "26/05/2024 - 19:01:09"
+        },
+        {
             "song_name": "Like That",
             "artists": [
                 "Future",
@@ -10,6 +68,14 @@
             ],
             "album": "WE DON'T TRUST YOU",
             "played_at": "26/05/2024 - 18:57:05"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "26/05/2024 - 18:52:38"
         },
         {
             "song_name": "I LIKE",
@@ -354,71 +420,6 @@
             ],
             "album": "Lil Uzi Vert vs. The World",
             "played_at": "25/05/2024 - 12:47:59"
-        },
-        {
-            "song_name": "Money Longer",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "25/05/2024 - 12:38:12"
-        },
-        {
-            "song_name": "You Was Right",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "25/05/2024 - 12:34:52"
-        },
-        {
-            "song_name": "Money Longer",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "25/05/2024 - 12:27:59"
-        },
-        {
-            "song_name": "Hi Roller",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "25/05/2024 - 12:24:40"
-        },
-        {
-            "song_name": "Canadian Goose",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "25/05/2024 - 12:20:04"
-        },
-        {
-            "song_name": "Seven Million (feat. Future)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Future"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "25/05/2024 - 12:15:17"
-        },
-        {
-            "song_name": "Ronda (Winners)",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "25/05/2024 - 12:12:14"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "25/05/2024 - 12:08:38"
         },
         {
             "song_name": "Martin & Gina",
