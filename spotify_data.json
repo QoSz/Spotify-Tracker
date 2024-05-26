@@ -2,443 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Baianá",
-            "artists": [
-                "Nia Archives"
-            ],
-            "album": "Baianá",
-            "played_at": "24/05/2024 - 11:59:54"
-        },
-        {
-            "song_name": "Did You See",
-            "artists": [
-                "J Hus"
-            ],
-            "album": "Common Sense",
-            "played_at": "24/05/2024 - 11:58:29"
-        },
-        {
-            "song_name": "Loved",
-            "artists": [
-                "Four Tet"
-            ],
-            "album": "Loved",
-            "played_at": "24/05/2024 - 11:49:57"
-        },
-        {
-            "song_name": "World Hold On - FISHER Rework",
-            "artists": [
-                "Bob Sinclar",
-                "FISHER",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (FISHER Rework)",
-            "played_at": "24/05/2024 - 11:45:54"
-        },
-        {
-            "song_name": "Losing It",
-            "artists": [
-                "FISHER"
-            ],
-            "album": "Losing It",
-            "played_at": "24/05/2024 - 11:42:56"
-        },
-        {
-            "song_name": "Latch",
-            "artists": [
-                "Disclosure",
-                "Sam Smith"
-            ],
-            "album": "Settle (Special Edition)",
-            "played_at": "24/05/2024 - 11:38:48"
-        },
-        {
-            "song_name": "Tondo",
-            "artists": [
-                "Disclosure",
-                "Eko Roosevelt"
-            ],
-            "album": "ENERGY (Deluxe)",
-            "played_at": "24/05/2024 - 11:34:32"
-        },
-        {
-            "song_name": "Looking For Love - salute remix",
-            "artists": [
-                "Disclosure",
-                "salute"
-            ],
-            "album": "Looking For Love (salute remix)",
-            "played_at": "24/05/2024 - 10:49:03"
-        },
-        {
-            "song_name": "It Makes You Forget (Itgehane) - Edit",
-            "artists": [
-                "Peggy Gou"
-            ],
-            "album": "It Makes You Forget (Itgehane)",
-            "played_at": "24/05/2024 - 10:44:03"
-        },
-        {
-            "song_name": "Can't Get You out of My Head - Peggy Gou’s Midnight Remix",
-            "artists": [
-                "Kylie Minogue",
-                "Peggy Gou"
-            ],
-            "album": "Can't Get You out of My Head (Peggy Gou’s Midnight Remix)",
-            "played_at": "24/05/2024 - 10:40:07"
-        },
-        {
-            "song_name": "White Noise",
-            "artists": [
-                "Disclosure",
-                "AlunaGeorge"
-            ],
-            "album": "Settle (Deluxe Version)",
-            "played_at": "24/05/2024 - 10:35:36"
-        },
-        {
-            "song_name": "Streets",
-            "artists": [
-                "Doja Cat"
-            ],
-            "album": "Hot Pink",
-            "played_at": "24/05/2024 - 10:30:58"
-        },
-        {
-            "song_name": "TAKE IT OFF",
-            "artists": [
-                "FISHER",
-                "Aatig"
-            ],
-            "album": "TAKE IT OFF",
-            "played_at": "24/05/2024 - 10:27:11"
-        },
-        {
-            "song_name": "(It Goes Like) Nanana",
-            "artists": [
-                "Peggy Gou"
-            ],
-            "album": "(It Goes Like) Nanana",
-            "played_at": "24/05/2024 - 10:23:12"
-        },
-        {
-            "song_name": "Time After Time",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Time After Time",
-            "played_at": "23/05/2024 - 17:16:55"
-        },
-        {
-            "song_name": "King",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "King",
-            "played_at": "23/05/2024 - 16:43:01"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "23/05/2024 - 16:39:31"
-        },
-        {
-            "song_name": "Easy Love",
-            "artists": [
-                "Sigala"
-            ],
-            "album": "Brighter Days",
-            "played_at": "23/05/2024 - 16:36:45"
-        },
-        {
-            "song_name": "Over You",
-            "artists": [
-                "Madism",
-                "Philip Strand"
-            ],
-            "album": "Over You",
-            "played_at": "23/05/2024 - 16:32:55"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "23/05/2024 - 16:30:33"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "22/05/2024 - 16:37:42"
-        },
-        {
-            "song_name": "ocean breeze",
-            "artists": [
-                "rayn"
-            ],
-            "album": "ocean breeze",
-            "played_at": "22/05/2024 - 15:59:27"
-        },
-        {
-            "song_name": "City Of Love",
-            "artists": [
-                "Surf Mesa",
-                "Selah Sol"
-            ],
-            "album": "City Of Love",
-            "played_at": "22/05/2024 - 15:57:52"
-        },
-        {
-            "song_name": "Matter of Time - Lonely in the Rain Remix",
-            "artists": [
-                "Vandelux",
-                "Alex Maher",
-                "Lonely in the Rain"
-            ],
-            "album": "Matter of Time (Lonely In The Rain Remix)",
-            "played_at": "22/05/2024 - 15:55:18"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS"
-            ],
-            "album": "Bloom",
-            "played_at": "22/05/2024 - 15:53:02"
-        },
-        {
-            "song_name": "Summer Feeling",
-            "artists": [
-                "Matoma",
-                "Jonah Kagen"
-            ],
-            "album": "Summer Feeling",
-            "played_at": "22/05/2024 - 15:50:09"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "22/05/2024 - 15:47:18"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "22/05/2024 - 15:42:44"
-        },
-        {
-            "song_name": "Glowing State",
-            "artists": [
-                "Maiwan"
-            ],
-            "album": "Always Me",
-            "played_at": "22/05/2024 - 15:39:26"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "22/05/2024 - 15:34:51"
-        },
-        {
-            "song_name": "Sunset Lovers",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Horizon Blue",
-                "Carston"
-            ],
-            "album": "Sunset Lovers",
-            "played_at": "22/05/2024 - 15:32:22"
-        },
-        {
-            "song_name": "House Of Cards",
-            "artists": [
-                "Lucas Estrada",
-                "Deepend",
-                "Dan Caplen"
-            ],
-            "album": "House Of Cards",
-            "played_at": "22/05/2024 - 15:29:41"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "22/05/2024 - 15:27:17"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "22/05/2024 - 15:25:23"
-        },
-        {
-            "song_name": "Never Really Loved Me (with Dean Lewis)",
-            "artists": [
-                "Kygo",
-                "Dean Lewis"
-            ],
-            "album": "Never Really Loved Me (with Dean Lewis)",
-            "played_at": "22/05/2024 - 15:22:51"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "22/05/2024 - 15:19:40"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "Good Life",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "22/05/2024 - 15:17:20"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "22/05/2024 - 15:14:45"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "22/05/2024 - 15:11:42"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "22/05/2024 - 15:09:10"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "22/05/2024 - 12:15:26"
-        },
-        {
-            "song_name": "Are You With Me",
-            "artists": [
-                "Lost Frequencies"
-            ],
-            "album": "Are You With Me",
-            "played_at": "22/05/2024 - 12:01:46"
-        },
-        {
-            "song_name": "Often - Kygo Remix",
-            "artists": [
-                "The Weeknd",
-                "Kygo"
-            ],
-            "album": "Often (Kygo Remix)",
-            "played_at": "22/05/2024 - 11:59:56"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "22/05/2024 - 11:56:31"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Fast Car",
-            "played_at": "22/05/2024 - 11:54:46"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "22/05/2024 - 11:51:40"
-        },
-        {
-            "song_name": "I Got U",
-            "artists": [
-                "Duke Dumont",
-                "Jax Jones"
-            ],
-            "album": "I Got U",
-            "played_at": "22/05/2024 - 11:49:25"
-        },
-        {
-            "song_name": "Creep",
-            "artists": [
-                "GAMPER & DADONI"
-            ],
-            "album": "Creep",
-            "played_at": "22/05/2024 - 11:45:14"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "22/05/2024 - 11:42:40"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "22/05/2024 - 11:40:04"
-        },
-        {
             "song_name": "We Still Don't Trust You",
             "artists": [
                 "Future",
@@ -1693,6 +1256,426 @@
             ],
             "album": "The Perfect LUV Tape",
             "played_at": "25/05/2024 - 12:08:38"
+        },
+        {
+            "song_name": "Martin & Gina",
+            "artists": [
+                "Polo G"
+            ],
+            "album": "THE GOAT",
+            "played_at": "26/05/2024 - 19:18:37"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "26/05/2024 - 19:16:23"
+        },
+        {
+            "song_name": "HIGHEST IN THE ROOM",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "HIGHEST IN THE ROOM",
+            "played_at": "26/05/2024 - 19:12:10"
+        },
+        {
+            "song_name": "Jersey",
+            "artists": [
+                "Future"
+            ],
+            "album": "What A Time To Be Alive",
+            "played_at": "26/05/2024 - 19:09:14"
+        },
+        {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "26/05/2024 - 19:06:05"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "26/05/2024 - 19:03:46"
+        },
+        {
+            "song_name": "goosebumps",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "26/05/2024 - 19:01:09"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "26/05/2024 - 18:57:05"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "26/05/2024 - 18:52:38"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "26/05/2024 - 18:46:19"
+        },
+        {
+            "song_name": "Ric Flair Drip (with Metro Boomin)",
+            "artists": [
+                "Offset",
+                "Metro Boomin"
+            ],
+            "album": "Without Warning",
+            "played_at": "26/05/2024 - 18:44:04"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "26/05/2024 - 18:41:10"
+        },
+        {
+            "song_name": "Break from Toronto",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR",
+            "played_at": "26/05/2024 - 18:39:12"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "26/05/2024 - 18:37:32"
+        },
+        {
+            "song_name": "sdp interlude",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "26/05/2024 - 18:34:20"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "26/05/2024 - 18:31:08"
+        },
+        {
+            "song_name": "BUTTERFLY EFFECT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "26/05/2024 - 18:28:33"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "26/05/2024 - 18:25:23"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "26/05/2024 - 18:20:55"
+        },
+        {
+            "song_name": "Our Time",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Virgo World",
+            "played_at": "26/05/2024 - 18:17:38"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "26/05/2024 - 18:15:59"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "26/05/2024 - 18:13:53"
+        },
+        {
+            "song_name": "I KNOW ?",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "26/05/2024 - 18:10:21"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "26/05/2024 - 18:06:50"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "26/05/2024 - 18:04:10"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "26/05/2024 - 18:01:46"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "26/05/2024 - 17:58:03"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "26/05/2024 - 17:52:51"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "26/05/2024 - 17:32:24"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "26/05/2024 - 17:20:27"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake",
+                "Future"
+            ],
+            "album": "I Am Not A Human Being II (Deluxe)",
+            "played_at": "26/05/2024 - 17:16:14"
+        },
+        {
+            "song_name": "Raindrops (Insane) [with Travis Scott]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "26/05/2024 - 17:11:59"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "26/05/2024 - 17:08:50"
+        },
+        {
+            "song_name": "sdp interlude",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "26/05/2024 - 17:05:45"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "26/05/2024 - 17:00:12"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "26/05/2024 - 16:55:47"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "26/05/2024 - 16:51:32"
+        },
+        {
+            "song_name": "Baby Are You Home",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "26/05/2024 - 16:43:04"
+        },
+        {
+            "song_name": "Baby Are You Home",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:41:57"
+        },
+        {
+            "song_name": "You Was Right",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:28:28"
+        },
+        {
+            "song_name": "Ps & Qs",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:25:24"
+        },
+        {
+            "song_name": "Baby Are You Home",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:21:43"
+        },
+        {
+            "song_name": "You Was Right",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:17:49"
+        },
+        {
+            "song_name": "Grab the Wheel",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:15:05"
+        },
+        {
+            "song_name": "Money Longer",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:07:08"
+        },
+        {
+            "song_name": "Grab the Wheel",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 13:03:32"
+        },
+        {
+            "song_name": "Money Longer",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 12:58:36"
+        },
+        {
+            "song_name": "Hi Roller",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 12:55:17"
+        },
+        {
+            "song_name": "You Was Right",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 12:50:39"
+        },
+        {
+            "song_name": "Grab the Wheel",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "25/05/2024 - 12:47:59"
         }
     ]
 }
