@@ -1490,6 +1490,16 @@
             "played_at": "29/05/2024 - 09:08:48"
         },
         {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "28/05/2024 - 20:06:33"
+        },
+        {
             "song_name": "3:15 (Breathe)",
             "artists": [
                 "Russ"
@@ -1772,14 +1782,6 @@
             ],
             "album": "Baianá",
             "played_at": "28/05/2024 - 10:37:20"
-        },
-        {
-            "song_name": "Did You See",
-            "artists": [
-                "J Hus"
-            ],
-            "album": "Common Sense",
-            "played_at": "28/05/2024 - 10:34:48"
         }
     ]
 }
