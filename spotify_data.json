@@ -2,6 +2,33 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "01/06/2024 - 18:32:48"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "01/06/2024 - 18:18:53"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Bad Habit",
+            "played_at": "01/06/2024 - 18:14:38"
+        },
+        {
             "song_name": "Electric Feel",
             "artists": [
                 "MGMT"
@@ -416,30 +443,6 @@
             ],
             "album": "Addicted",
             "played_at": "31/05/2024 - 19:46:16"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "31/05/2024 - 19:43:44"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-            "played_at": "31/05/2024 - 19:30:30"
-        },
-        {
-            "song_name": "Push Ups",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Push Ups",
-            "played_at": "31/05/2024 - 19:28:01"
         },
         {
             "song_name": "Type Shit",
