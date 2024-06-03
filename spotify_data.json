@@ -1331,6 +1331,33 @@
             "played_at": "31/05/2024 - 19:46:16"
         },
         {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Bad Habit",
+            "played_at": "03/06/2024 - 19:59:50"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "03/06/2024 - 19:55:58"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "03/06/2024 - 19:51:44"
+        },
+        {
             "song_name": "Type Shit",
             "artists": [
                 "Future",
@@ -1746,32 +1773,6 @@
             ],
             "album": "One of Wun",
             "played_at": "31/05/2024 - 19:54:21"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "31/05/2024 - 19:51:57"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "31/05/2024 - 19:47:44"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "31/05/2024 - 19:46:16"
         }
     ]
 }
