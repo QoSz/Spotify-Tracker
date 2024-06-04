@@ -2,6 +2,128 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "artists": [
+                "Gunna",
+                "Young Thug"
+            ],
+            "album": "WUNNA",
+            "played_at": "04/06/2024 - 17:37:25"
+        },
+        {
+            "song_name": "Scars To Your Beautiful",
+            "artists": [
+                "Alessia Cara"
+            ],
+            "album": "Know-It-All (Deluxe)",
+            "played_at": "04/06/2024 - 17:25:54"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Zedd",
+                "Alessia Cara"
+            ],
+            "album": "Stay",
+            "played_at": "04/06/2024 - 17:21:57"
+        },
+        {
+            "song_name": "Here",
+            "artists": [
+                "Alessia Cara"
+            ],
+            "album": "Know-It-All",
+            "played_at": "04/06/2024 - 17:18:28"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "04/06/2024 - 17:15:07"
+        },
+        {
+            "song_name": "Push Ups",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Push Ups",
+            "played_at": "04/06/2024 - 17:10:39"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "04/06/2024 - 17:06:46"
+        },
+        {
+            "song_name": "3:15 (Breathe)",
+            "artists": [
+                "Russ"
+            ],
+            "album": "3:15 (Breathe)",
+            "played_at": "04/06/2024 - 17:02:07"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "04/06/2024 - 16:52:23"
+        },
+        {
+            "song_name": "The Night We Met",
+            "artists": [
+                "Lord Huron"
+            ],
+            "album": "The Night We Met",
+            "played_at": "04/06/2024 - 16:48:16"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "04/06/2024 - 16:43:51"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "04/06/2024 - 16:39:41"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "04/06/2024 - 16:30:50"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "04/06/2024 - 16:26:46"
+        },
+        {
             "song_name": "505",
             "artists": [
                 "Arctic Monkeys"
@@ -323,128 +445,6 @@
             ],
             "album": "Ferrari",
             "played_at": "01/06/2024 - 12:40:06"
-        },
-        {
-            "song_name": "You Are In My System - Faster Horses Sport Mix",
-            "artists": [
-                "Kerri Chandler",
-                "Dennis Quin",
-                "Troy Denari",
-                "Faster Horses"
-            ],
-            "album": "You Are In My System (Faster Horses Sport Mix)",
-            "played_at": "01/06/2024 - 12:36:59"
-        },
-        {
-            "song_name": "These Are Just Places To Me Now",
-            "artists": [
-                "Folamour"
-            ],
-            "album": "Ordinary Drugs",
-            "played_at": "01/06/2024 - 12:33:42"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "01/06/2024 - 12:26:40"
-        },
-        {
-            "song_name": "Rave Out",
-            "artists": [
-                "Turno",
-                "Skepsis",
-                "Charlotte Plank"
-            ],
-            "album": "Rave Out",
-            "played_at": "01/06/2024 - 12:22:46"
-        },
-        {
-            "song_name": "Cola",
-            "artists": [
-                "CamelPhat",
-                "Elderbrook"
-            ],
-            "album": "Cola",
-            "played_at": "01/06/2024 - 12:20:17"
-        },
-        {
-            "song_name": "CHANCES",
-            "artists": [
-                "KAYTRANADA",
-                "Shay Lia"
-            ],
-            "album": "NOTHIN LIKE U / CHANCES",
-            "played_at": "01/06/2024 - 12:16:34"
-        },
-        {
-            "song_name": "CHANCES",
-            "artists": [
-                "KAYTRANADA",
-                "Shay Lia"
-            ],
-            "album": "NOTHIN LIKE U / CHANCES",
-            "played_at": "01/06/2024 - 09:03:27"
-        },
-        {
-            "song_name": "Needle On The Record",
-            "artists": [
-                "Riordan"
-            ],
-            "album": "Needle On The Record",
-            "played_at": "01/06/2024 - 08:50:50"
-        },
-        {
-            "song_name": "Find My Way Home",
-            "artists": [
-                "Sammy Virji"
-            ],
-            "album": "Find My Way Home",
-            "played_at": "01/06/2024 - 08:47:43"
-        },
-        {
-            "song_name": "PSYCHO",
-            "artists": [
-                "Anne-Marie",
-                "Aitch"
-            ],
-            "album": "PSYCHO",
-            "played_at": "01/06/2024 - 08:43:24"
-        },
-        {
-            "song_name": "Your Love",
-            "artists": [
-                "Sosa UK"
-            ],
-            "album": "Your Love",
-            "played_at": "01/06/2024 - 08:40:41"
-        },
-        {
-            "song_name": "San Frandisco",
-            "artists": [
-                "Dom Dolla"
-            ],
-            "album": "San Frandisco",
-            "played_at": "01/06/2024 - 08:37:55"
-        },
-        {
-            "song_name": "Desire (Sub Focus & Dimension)",
-            "artists": [
-                "Sub Focus",
-                "Dimension"
-            ],
-            "album": "Desire (with Dimension) [Sub Focus & Dimension]",
-            "played_at": "01/06/2024 - 08:34:50"
-        },
-        {
-            "song_name": "Break My Heart",
-            "artists": [
-                "Rudimental"
-            ],
-            "album": "Break My Heart",
-            "played_at": "01/06/2024 - 08:31:14"
         },
         {
             "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
