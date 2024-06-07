@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "07/06/2024 - 15:50:12"
+        },
+        {
             "song_name": "Kids",
             "artists": [
                 "Patrick Lite"
@@ -439,16 +448,6 @@
             ],
             "album": "Leave a Smile",
             "played_at": "07/06/2024 - 11:38:13"
-        },
-        {
-            "song_name": "Leave a Smile",
-            "artists": [
-                "Twan Ray",
-                "Moonshine",
-                "Solar State"
-            ],
-            "album": "Leave a Smile",
-            "played_at": "07/06/2024 - 09:14:27"
         },
         {
             "song_name": "Love That We Need",
