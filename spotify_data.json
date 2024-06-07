@@ -2,447 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Money Trees",
-            "artists": [
-                "Phil Soda",
-                "Lucas Ariel"
-            ],
-            "album": "Money Trees",
-            "played_at": "07/06/2024 - 15:03:44"
-        },
-        {
-            "song_name": "Take My Breath Away",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Take My Breath Away",
-            "played_at": "07/06/2024 - 15:00:58"
-        },
-        {
-            "song_name": "Hours & Hours",
-            "artists": [
-                "Shoby",
-                "Lindal",
-                "XYSM"
-            ],
-            "album": "Hours & Hours",
-            "played_at": "07/06/2024 - 14:57:49"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "07/06/2024 - 14:55:21"
-        },
-        {
-            "song_name": "Bali Dreams",
-            "artists": [
-                "Deep Chills"
-            ],
-            "album": "Bali Dreams",
-            "played_at": "07/06/2024 - 14:52:51"
-        },
-        {
-            "song_name": "Strong",
-            "artists": [
-                "Sigma",
-                "Kovic"
-            ],
-            "album": "Hope",
-            "played_at": "07/06/2024 - 14:50:21"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "07/06/2024 - 14:46:51"
-        },
-        {
-            "song_name": "Nothing Better",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Nothing Better",
-            "played_at": "07/06/2024 - 14:44:06"
-        },
-        {
-            "song_name": "Sun Kissed",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Sun Kissed",
-            "played_at": "07/06/2024 - 14:41:17"
-        },
-        {
-            "song_name": "Could've Been Us",
-            "artists": [
-                "ItsLee",
-                "Dom Fricot"
-            ],
-            "album": "Could've Been Us",
-            "played_at": "07/06/2024 - 14:37:42"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "07/06/2024 - 14:35:29"
-        },
-        {
-            "song_name": "Chucks",
-            "artists": [
-                "Mi Casa",
-                "YouNotUs"
-            ],
-            "album": "Chucks",
-            "played_at": "07/06/2024 - 14:33:29"
-        },
-        {
-            "song_name": "Heart So Big",
-            "artists": [
-                "Matoma",
-                "A R I Z O N A"
-            ],
-            "album": "Heart So Big",
-            "played_at": "07/06/2024 - 14:30:39"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Moonkids"
-            ],
-            "album": "Waiting",
-            "played_at": "07/06/2024 - 14:27:03"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "07/06/2024 - 14:24:24"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "07/06/2024 - 14:21:16"
-        },
-        {
-            "song_name": "Never Too Much (feat. MIYA MIYA)",
-            "artists": [
-                "GOLD RVSH",
-                "MIYA MIYA"
-            ],
-            "album": "Never Too Much (feat. MIYA MIYA)",
-            "played_at": "07/06/2024 - 14:18:33"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "07/06/2024 - 14:15:21"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Zwette",
-                "Julian Perretta"
-            ],
-            "album": "Home",
-            "played_at": "07/06/2024 - 14:13:03"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Zwette",
-                "Julian Perretta"
-            ],
-            "album": "Home",
-            "played_at": "07/06/2024 - 12:19:28"
-        },
-        {
-            "song_name": "Love Me Now (feat. Zoe Wees)",
-            "artists": [
-                "Kygo",
-                "Zoe Wees"
-            ],
-            "album": "Love Me Now (feat. Zoe Wees)",
-            "played_at": "07/06/2024 - 12:17:15"
-        },
-        {
-            "song_name": "Lucky Star",
-            "artists": [
-                "Sol Novaro",
-                "ROBINS"
-            ],
-            "album": "Lucky Star",
-            "played_at": "07/06/2024 - 12:13:59"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "07/06/2024 - 12:10:47"
-        },
-        {
-            "song_name": "High Tide",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Dream Dimension",
-            "played_at": "07/06/2024 - 12:07:32"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "07/06/2024 - 12:03:52"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "07/06/2024 - 12:00:55"
-        },
-        {
-            "song_name": "City of Love",
-            "artists": [
-                "Lonely in the Rain",
-                "Nounours"
-            ],
-            "album": "City of Love",
-            "played_at": "07/06/2024 - 11:58:14"
-        },
-        {
-            "song_name": "Unwanted (feat. Conor Maynard)",
-            "artists": [
-                "Martin Jensen",
-                "Sam Feldt",
-                "Conor Maynard"
-            ],
-            "album": "Unwanted (feat. Conor Maynard)",
-            "played_at": "07/06/2024 - 11:55:15"
-        },
-        {
-            "song_name": "Nalu",
-            "artists": [
-                "Deep Chills",
-                "Brendan Mills"
-            ],
-            "album": "Nalu",
-            "played_at": "07/06/2024 - 11:52:29"
-        },
-        {
-            "song_name": "Follow the Sun",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Follow the Sun",
-            "played_at": "07/06/2024 - 11:50:00"
-        },
-        {
-            "song_name": "Sexual Healing - Kygo Remix",
-            "artists": [
-                "Marvin Gaye",
-                "Kygo"
-            ],
-            "album": "Sexual Healing (Kygo Remix)",
-            "played_at": "07/06/2024 - 11:47:25"
-        },
-        {
-            "song_name": "Tear Me Down (feat. Philip Rustad)",
-            "artists": [
-                "Davai",
-                "Philip Rustad"
-            ],
-            "album": "Tear Me Down (feat. Philip Rustad)",
-            "played_at": "07/06/2024 - 11:41:17"
-        },
-        {
-            "song_name": "Leave a Smile",
-            "artists": [
-                "Twan Ray",
-                "Moonshine",
-                "Solar State"
-            ],
-            "album": "Leave a Smile",
-            "played_at": "07/06/2024 - 11:38:13"
-        },
-        {
-            "song_name": "Leave a Smile",
-            "artists": [
-                "Twan Ray",
-                "Moonshine",
-                "Solar State"
-            ],
-            "album": "Leave a Smile",
-            "played_at": "07/06/2024 - 09:14:27"
-        },
-        {
-            "song_name": "just like this",
-            "artists": [
-                "rayn",
-                "imallryt"
-            ],
-            "album": "just like this",
-            "played_at": "07/06/2024 - 09:12:49"
-        },
-        {
-            "song_name": "just like this",
-            "artists": [
-                "rayn",
-                "imallryt"
-            ],
-            "album": "just like this",
-            "played_at": "06/06/2024 - 18:54:57"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "06/06/2024 - 18:54:49"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "06/06/2024 - 18:51:35"
-        },
-        {
-            "song_name": "Sexual Healing - Kygo Remix",
-            "artists": [
-                "Marvin Gaye",
-                "Kygo"
-            ],
-            "album": "Sexual Healing (Kygo Remix)",
-            "played_at": "06/06/2024 - 18:48:38"
-        },
-        {
-            "song_name": "Sexual Healing - Kygo Remix",
-            "artists": [
-                "Marvin Gaye",
-                "Kygo"
-            ],
-            "album": "Sexual Healing (Kygo Remix)",
-            "played_at": "06/06/2024 - 16:52:13"
-        },
-        {
-            "song_name": "ocean breeze",
-            "artists": [
-                "rayn"
-            ],
-            "album": "ocean breeze",
-            "played_at": "06/06/2024 - 16:34:17"
-        },
-        {
-            "song_name": "City Of Love",
-            "artists": [
-                "Surf Mesa",
-                "Selah Sol"
-            ],
-            "album": "City Of Love",
-            "played_at": "06/06/2024 - 16:32:43"
-        },
-        {
-            "song_name": "Time After Time",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Time After Time",
-            "played_at": "06/06/2024 - 16:30:09"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "06/06/2024 - 16:27:29"
-        },
-        {
-            "song_name": "Matter of Time - Lonely in the Rain Remix",
-            "artists": [
-                "Vandelux",
-                "Alex Maher",
-                "Lonely in the Rain"
-            ],
-            "album": "Matter of Time (Lonely In The Rain Remix)",
-            "played_at": "06/06/2024 - 16:25:00"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "06/06/2024 - 16:22:44"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS"
-            ],
-            "album": "Bloom",
-            "played_at": "06/06/2024 - 16:19:51"
-        },
-        {
-            "song_name": "Summer Feeling",
-            "artists": [
-                "Matoma",
-                "Jonah Kagen"
-            ],
-            "album": "Summer Feeling",
-            "played_at": "06/06/2024 - 16:16:57"
-        },
-        {
-            "song_name": "Sunset Lovers",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Horizon Blue",
-                "Carston"
-            ],
-            "album": "Sunset Lovers",
-            "played_at": "06/06/2024 - 16:14:08"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "06/06/2024 - 16:11:21"
-        },
-        {
             "song_name": "Kids",
             "artists": [
                 "Patrick Lite"
@@ -890,6 +449,454 @@
             ],
             "album": "Leave a Smile",
             "played_at": "07/06/2024 - 09:14:27"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "07/06/2024 - 15:50:12"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Kids",
+            "played_at": "07/06/2024 - 15:49:36"
+        },
+        {
+            "song_name": "What I Have with You",
+            "artists": [
+                "SRTW",
+                "Noile",
+                "kaii"
+            ],
+            "album": "What I Have with You",
+            "played_at": "07/06/2024 - 15:47:14"
+        },
+        {
+            "song_name": "California Dreamin - Radio Edit",
+            "artists": [
+                "Freischwimmer"
+            ],
+            "album": "California Dreamin",
+            "played_at": "07/06/2024 - 15:44:52"
+        },
+        {
+            "song_name": "One More Summer Night",
+            "artists": [
+                "Chemical Neon",
+                "Jordan Grace",
+                "Eva Vinjor"
+            ],
+            "album": "One More Summer Night",
+            "played_at": "07/06/2024 - 15:41:19"
+        },
+        {
+            "song_name": "See You Again (Feat. ÆJ)",
+            "artists": [
+                "Solar State",
+                "Foínix",
+                "Jordan Grace",
+                "Æj"
+            ],
+            "album": "See You Again (Feat. ÆJ)",
+            "played_at": "07/06/2024 - 15:38:35"
+        },
+        {
+            "song_name": "Fire in the Sky",
+            "artists": [
+                "Roman Müller",
+                "Clay Pirinha"
+            ],
+            "album": "Fire in the Sky",
+            "played_at": "07/06/2024 - 15:35:57"
+        },
+        {
+            "song_name": "Angels",
+            "artists": [
+                "Eneko Artola",
+                "Luca",
+                "Nina Carr"
+            ],
+            "album": "Angels",
+            "played_at": "07/06/2024 - 15:33:01"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "07/06/2024 - 15:30:22"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Kenn Colt",
+                "Adam Pickard"
+            ],
+            "album": "BALANCE",
+            "played_at": "07/06/2024 - 15:27:03"
+        },
+        {
+            "song_name": "Safe Place",
+            "artists": [
+                "Weisser Quiff",
+                "Moise"
+            ],
+            "album": "Safe Place",
+            "played_at": "07/06/2024 - 15:23:40"
+        },
+        {
+            "song_name": "Never Need",
+            "artists": [
+                "Hogland",
+                "Charlie South"
+            ],
+            "album": "Never Need",
+            "played_at": "07/06/2024 - 15:21:29"
+        },
+        {
+            "song_name": "Dangerous",
+            "artists": [
+                "Antoine Chambe",
+                "Lucas Cozy"
+            ],
+            "album": "Riverside",
+            "played_at": "07/06/2024 - 15:18:11"
+        },
+        {
+            "song_name": "Million Memories",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Thomas Geelens"
+            ],
+            "album": "Million Memories",
+            "played_at": "07/06/2024 - 15:14:39"
+        },
+        {
+            "song_name": "Get To Me",
+            "artists": [
+                "Lonely Night",
+                "Ellou",
+                "Nody"
+            ],
+            "album": "Get To Me",
+            "played_at": "07/06/2024 - 15:11:55"
+        },
+        {
+            "song_name": "Only For The Better",
+            "artists": [
+                "John De Sohn",
+                "Ericka Jane"
+            ],
+            "album": "Only For The Better",
+            "played_at": "07/06/2024 - 15:09:06"
+        },
+        {
+            "song_name": "Bad Obsession",
+            "artists": [
+                "Pablo Leo",
+                "Lili Ana"
+            ],
+            "album": "Bad Obsession",
+            "played_at": "07/06/2024 - 15:06:17"
+        },
+        {
+            "song_name": "Money Trees",
+            "artists": [
+                "Phil Soda",
+                "Lucas Ariel"
+            ],
+            "album": "Money Trees",
+            "played_at": "07/06/2024 - 15:03:44"
+        },
+        {
+            "song_name": "Take My Breath Away",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Take My Breath Away",
+            "played_at": "07/06/2024 - 15:00:58"
+        },
+        {
+            "song_name": "Hours & Hours",
+            "artists": [
+                "Shoby",
+                "Lindal",
+                "XYSM"
+            ],
+            "album": "Hours & Hours",
+            "played_at": "07/06/2024 - 14:57:49"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "07/06/2024 - 14:55:21"
+        },
+        {
+            "song_name": "Bali Dreams",
+            "artists": [
+                "Deep Chills"
+            ],
+            "album": "Bali Dreams",
+            "played_at": "07/06/2024 - 14:52:51"
+        },
+        {
+            "song_name": "Strong",
+            "artists": [
+                "Sigma",
+                "Kovic"
+            ],
+            "album": "Hope",
+            "played_at": "07/06/2024 - 14:50:21"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "07/06/2024 - 14:46:51"
+        },
+        {
+            "song_name": "Nothing Better",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Nothing Better",
+            "played_at": "07/06/2024 - 14:44:06"
+        },
+        {
+            "song_name": "Sun Kissed",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Sun Kissed",
+            "played_at": "07/06/2024 - 14:41:17"
+        },
+        {
+            "song_name": "Could've Been Us",
+            "artists": [
+                "ItsLee",
+                "Dom Fricot"
+            ],
+            "album": "Could've Been Us",
+            "played_at": "07/06/2024 - 14:37:42"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "07/06/2024 - 14:35:29"
+        },
+        {
+            "song_name": "Chucks",
+            "artists": [
+                "Mi Casa",
+                "YouNotUs"
+            ],
+            "album": "Chucks",
+            "played_at": "07/06/2024 - 14:33:29"
+        },
+        {
+            "song_name": "Heart So Big",
+            "artists": [
+                "Matoma",
+                "A R I Z O N A"
+            ],
+            "album": "Heart So Big",
+            "played_at": "07/06/2024 - 14:30:39"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Moonkids"
+            ],
+            "album": "Waiting",
+            "played_at": "07/06/2024 - 14:27:03"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "07/06/2024 - 14:24:24"
+        },
+        {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "07/06/2024 - 14:21:16"
+        },
+        {
+            "song_name": "Never Too Much (feat. MIYA MIYA)",
+            "artists": [
+                "GOLD RVSH",
+                "MIYA MIYA"
+            ],
+            "album": "Never Too Much (feat. MIYA MIYA)",
+            "played_at": "07/06/2024 - 14:18:33"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "07/06/2024 - 14:15:21"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Zwette",
+                "Julian Perretta"
+            ],
+            "album": "Home",
+            "played_at": "07/06/2024 - 14:13:03"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Zwette",
+                "Julian Perretta"
+            ],
+            "album": "Home",
+            "played_at": "07/06/2024 - 12:19:28"
+        },
+        {
+            "song_name": "Love Me Now (feat. Zoe Wees)",
+            "artists": [
+                "Kygo",
+                "Zoe Wees"
+            ],
+            "album": "Love Me Now (feat. Zoe Wees)",
+            "played_at": "07/06/2024 - 12:17:15"
+        },
+        {
+            "song_name": "Lucky Star",
+            "artists": [
+                "Sol Novaro",
+                "ROBINS"
+            ],
+            "album": "Lucky Star",
+            "played_at": "07/06/2024 - 12:13:59"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "07/06/2024 - 12:10:47"
+        },
+        {
+            "song_name": "High Tide",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Dream Dimension",
+            "played_at": "07/06/2024 - 12:07:32"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "07/06/2024 - 12:03:52"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Ocean Drive",
+            "played_at": "07/06/2024 - 12:00:55"
+        },
+        {
+            "song_name": "City of Love",
+            "artists": [
+                "Lonely in the Rain",
+                "Nounours"
+            ],
+            "album": "City of Love",
+            "played_at": "07/06/2024 - 11:58:14"
+        },
+        {
+            "song_name": "Unwanted (feat. Conor Maynard)",
+            "artists": [
+                "Martin Jensen",
+                "Sam Feldt",
+                "Conor Maynard"
+            ],
+            "album": "Unwanted (feat. Conor Maynard)",
+            "played_at": "07/06/2024 - 11:55:15"
+        },
+        {
+            "song_name": "Nalu",
+            "artists": [
+                "Deep Chills",
+                "Brendan Mills"
+            ],
+            "album": "Nalu",
+            "played_at": "07/06/2024 - 11:52:29"
+        },
+        {
+            "song_name": "Follow the Sun",
+            "artists": [
+                "NEIMY"
+            ],
+            "album": "Follow the Sun",
+            "played_at": "07/06/2024 - 11:50:00"
+        },
+        {
+            "song_name": "Sexual Healing - Kygo Remix",
+            "artists": [
+                "Marvin Gaye",
+                "Kygo"
+            ],
+            "album": "Sexual Healing (Kygo Remix)",
+            "played_at": "07/06/2024 - 11:47:25"
+        },
+        {
+            "song_name": "Tear Me Down (feat. Philip Rustad)",
+            "artists": [
+                "Davai",
+                "Philip Rustad"
+            ],
+            "album": "Tear Me Down (feat. Philip Rustad)",
+            "played_at": "07/06/2024 - 11:41:17"
+        },
+        {
+            "song_name": "Leave a Smile",
+            "artists": [
+                "Twan Ray",
+                "Moonshine",
+                "Solar State"
+            ],
+            "album": "Leave a Smile",
+            "played_at": "07/06/2024 - 11:38:13"
         },
         {
             "song_name": "Love That We Need",
