@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Chun Swae (feat. Swae Lee)",
+            "artists": [
+                "Nicki Minaj",
+                "Swae Lee"
+            ],
+            "album": "Queen",
+            "played_at": "19/06/2024 - 17:06:08"
+        },
+        {
             "song_name": "Forever Never (feat. Swae Lee & Pink Sweat$)",
             "artists": [
                 "PnB Rock",
@@ -445,14 +454,6 @@
             ],
             "album": "Circuit",
             "played_at": "18/06/2024 - 15:14:55"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "18/06/2024 - 15:11:23"
         },
         {
             "song_name": "Chun Swae (feat. Swae Lee)",
