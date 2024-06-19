@@ -1364,6 +1364,45 @@
             "played_at": "18/06/2024 - 15:14:55"
         },
         {
+            "song_name": "Lemonade (feat. NAV)",
+            "artists": [
+                "Internet Money",
+                "Gunna",
+                "Don Toliver",
+                "NAV"
+            ],
+            "album": "B4 The Storm",
+            "played_at": "19/06/2024 - 20:18:14"
+        },
+        {
+            "song_name": "No Idea",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "19/06/2024 - 20:11:39"
+        },
+        {
+            "song_name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
+            "artists": [
+                "Don Toliver",
+                "Charlie Wilson",
+                "Cash Cobain"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "19/06/2024 - 20:05:57"
+        },
+        {
+            "song_name": "Prada",
+            "artists": [
+                "cassö",
+                "RAYE",
+                "D-Block Europe"
+            ],
+            "album": "Prada",
+            "played_at": "19/06/2024 - 20:02:30"
+        },
+        {
             "song_name": "Chun Swae (feat. Swae Lee)",
             "artists": [
                 "Nicki Minaj",
@@ -1780,42 +1819,6 @@
             ],
             "album": "More Life",
             "played_at": "18/06/2024 - 15:36:26"
-        },
-        {
-            "song_name": "Jorja Interlude",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "18/06/2024 - 15:30:58"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "18/06/2024 - 15:21:01"
-        },
-        {
-            "song_name": "Relax My Eyes",
-            "artists": [
-                "ANOTR",
-                "Abel Balder"
-            ],
-            "album": "Relax My Eyes",
-            "played_at": "18/06/2024 - 15:18:35"
-        },
-        {
-            "song_name": "Circuit",
-            "artists": [
-                "Yann Muller",
-                "Fex",
-                "Motik",
-                "Adam Woods"
-            ],
-            "album": "Circuit",
-            "played_at": "18/06/2024 - 15:14:55"
         }
     ]
 }
