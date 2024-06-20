@@ -908,6 +908,193 @@
             "played_at": "18/06/2024 - 18:19:08"
         },
         {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "20/06/2024 - 16:07:14"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "20/06/2024 - 16:03:47"
+        },
+        {
+            "song_name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "20/06/2024 - 16:01:12"
+        },
+        {
+            "song_name": "20 Min",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "20/06/2024 - 15:55:34"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "20/06/2024 - 15:51:57"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "20/06/2024 - 15:49:19"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "20/06/2024 - 15:45:25"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "20/06/2024 - 15:39:57"
+        },
+        {
+            "song_name": "Runnin",
+            "artists": [
+                "21 Savage",
+                "Metro Boomin"
+            ],
+            "album": "SAVAGE MODE II",
+            "played_at": "20/06/2024 - 15:36:00"
+        },
+        {
+            "song_name": "Thrusting (feat. Swae Lee & Future)",
+            "artists": [
+                "Internet Money",
+                "Swae Lee",
+                "Future"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "20/06/2024 - 15:32:48"
+        },
+        {
+            "song_name": "BABY NUEVA",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "album": "nadie sabe lo que va a pasar mañana",
+            "played_at": "20/06/2024 - 15:26:36"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "20/06/2024 - 15:22:39"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "20/06/2024 - 15:20:33"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "20/06/2024 - 15:17:45"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "20/06/2024 - 15:13:38"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "20/06/2024 - 15:10:30"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "20/06/2024 - 14:52:11"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "20/06/2024 - 14:49:22"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "20/06/2024 - 14:43:13"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "20/06/2024 - 14:36:16"
+        },
+        {
+            "song_name": "Free Fall (feat. J. Cole)",
+            "artists": [
+                "Tems",
+                "J. Cole"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "20/06/2024 - 12:46:09"
+        },
+        {
             "song_name": "Self Care",
             "artists": [
                 "Mac Miller"
@@ -1172,193 +1359,6 @@
             ],
             "album": "Rolling Papers 2",
             "played_at": "19/06/2024 - 15:55:25"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "19/06/2024 - 15:50:07"
-        },
-        {
-            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
-            "artists": [
-                "Post Malone",
-                "Swae Lee"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "19/06/2024 - 15:45:44"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "19/06/2024 - 15:38:26"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "19/06/2024 - 15:35:14"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "19/06/2024 - 15:31:17"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "19/06/2024 - 15:29:11"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "19/06/2024 - 15:26:22"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "19/06/2024 - 15:22:16"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "19/06/2024 - 02:15:50"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "19/06/2024 - 02:02:05"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "19/06/2024 - 01:58:00"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "19/06/2024 - 01:53:50"
-        },
-        {
-            "song_name": "Thorns",
-            "artists": [
-                "$uicideboy$"
-            ],
-            "album": "New World Depression",
-            "played_at": "18/06/2024 - 20:36:55"
-        },
-        {
-            "song_name": "Grandmother",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Grandmother",
-            "played_at": "18/06/2024 - 20:14:52"
-        },
-        {
-            "song_name": "Lonely in London",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "18/06/2024 - 20:06:06"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "18/06/2024 - 18:50:25"
-        },
-        {
-            "song_name": "Runnin",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "18/06/2024 - 18:33:25"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "18/06/2024 - 18:30:09"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "18/06/2024 - 18:26:26"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "18/06/2024 - 18:23:09"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "18/06/2024 - 18:19:08"
         },
         {
             "song_name": "Heartless",
