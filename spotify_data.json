@@ -2,6 +2,60 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Slow Motion (feat. Wizkid)",
+            "artists": [
+                "Don Toliver",
+                "Wizkid"
+            ],
+            "album": "Love Sick",
+            "played_at": "20/06/2024 - 20:13:56"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "20/06/2024 - 20:11:12"
+        },
+        {
+            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
+            "artists": [
+                "Brent Faiyaz",
+                "FELIX!",
+                "Tommy Richman"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "20/06/2024 - 20:08:46"
+        },
+        {
+            "song_name": "Lost Me",
+            "artists": [
+                "Giveon"
+            ],
+            "album": "Give Or Take",
+            "played_at": "20/06/2024 - 20:05:52"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "20/06/2024 - 20:02:55"
+        },
+        {
+            "song_name": "Relax My Eyes",
+            "artists": [
+                "ANOTR",
+                "Abel Balder"
+            ],
+            "album": "Relax My Eyes",
+            "played_at": "20/06/2024 - 20:00:45"
+        },
+        {
             "song_name": "Scared To Start",
             "artists": [
                 "Michael Marcagi"
@@ -387,67 +441,6 @@
             ],
             "album": "Heaven Or Hell",
             "played_at": "19/06/2024 - 20:11:39"
-        },
-        {
-            "song_name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
-            "artists": [
-                "Don Toliver",
-                "Charlie Wilson",
-                "Cash Cobain"
-            ],
-            "album": "HARDSTONE PSYCHO",
-            "played_at": "19/06/2024 - 20:05:57"
-        },
-        {
-            "song_name": "Prada",
-            "artists": [
-                "cassö",
-                "RAYE",
-                "D-Block Europe"
-            ],
-            "album": "Prada",
-            "played_at": "19/06/2024 - 20:02:30"
-        },
-        {
-            "song_name": "Chun Swae (feat. Swae Lee)",
-            "artists": [
-                "Nicki Minaj",
-                "Swae Lee"
-            ],
-            "album": "Queen",
-            "played_at": "19/06/2024 - 17:06:08"
-        },
-        {
-            "song_name": "Forever Never (feat. Swae Lee & Pink Sweat$)",
-            "artists": [
-                "PnB Rock",
-                "Swae Lee",
-                "Pink Sweat$"
-            ],
-            "album": "Forever Never (feat. Swae Lee & Pink Sweat$)",
-            "played_at": "19/06/2024 - 16:54:46"
-        },
-        {
-            "song_name": "Powerglide (feat. Juicy J) - From SR3MM",
-            "artists": [
-                "Rae Sremmurd",
-                "Swae Lee",
-                "Slim Jxmmi",
-                "Juicy J"
-            ],
-            "album": "SR3MM",
-            "played_at": "19/06/2024 - 16:51:49"
-        },
-        {
-            "song_name": "TOO BIZARRE (juked)",
-            "artists": [
-                "Skrillex",
-                "Swae Lee",
-                "Siiickbrain",
-                "Posij"
-            ],
-            "album": "Quest For Fire",
-            "played_at": "19/06/2024 - 16:46:21"
         },
         {
             "song_name": "Slow Motion (feat. Wizkid)",
