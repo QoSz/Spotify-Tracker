@@ -1325,6 +1325,15 @@
             "played_at": "19/06/2024 - 20:11:39"
         },
         {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "20/06/2024 - 20:26:28"
+        },
+        {
             "song_name": "Slow Motion (feat. Wizkid)",
             "artists": [
                 "Don Toliver",
@@ -1756,14 +1765,6 @@
             ],
             "album": "B4 The Storm",
             "played_at": "19/06/2024 - 20:18:14"
-        },
-        {
-            "song_name": "No Idea",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "19/06/2024 - 20:11:39"
         }
     ]
 }
