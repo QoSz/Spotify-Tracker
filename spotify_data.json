@@ -2,22 +2,887 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Phone Numbers",
+            "song_name": "Erase Your Social",
             "artists": [
-                "Dominic Fike",
-                "Kenny Beats"
+                "Lil Uzi Vert"
             ],
-            "album": "Phone Numbers",
-            "played_at": "20/06/2024 - 20:26:28"
+            "album": "The Perfect LUV Tape",
+            "played_at": "21/06/2024 - 20:19:11"
         },
         {
-            "song_name": "Slow Motion (feat. Wizkid)",
+            "song_name": "Many Men (Wish Death)",
             "artists": [
-                "Don Toliver",
-                "Wizkid"
+                "50 Cent"
             ],
-            "album": "Love Sick",
-            "played_at": "20/06/2024 - 20:13:56"
+            "album": "Get Rich Or Die Tryin'",
+            "played_at": "21/06/2024 - 20:15:37"
+        },
+        {
+            "song_name": "Canadian Goose",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "21/06/2024 - 20:09:53"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "21/06/2024 - 19:59:40"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "21/06/2024 - 19:57:22"
+        },
+        {
+            "song_name": "Gimme A Second 2",
+            "artists": [
+                "Rich The Kid",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "Gimme A Second 2",
+            "played_at": "21/06/2024 - 19:54:11"
+        },
+        {
+            "song_name": "Sunset Lovers",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Horizon Blue",
+                "Carston"
+            ],
+            "album": "Sunset Lovers",
+            "played_at": "21/06/2024 - 16:56:06"
+        },
+        {
+            "song_name": "What I Have with You",
+            "artists": [
+                "SRTW",
+                "Noile",
+                "kaii"
+            ],
+            "album": "What I Have with You",
+            "played_at": "21/06/2024 - 16:53:27"
+        },
+        {
+            "song_name": "City Of Love",
+            "artists": [
+                "Surf Mesa",
+                "Selah Sol"
+            ],
+            "album": "City Of Love",
+            "played_at": "21/06/2024 - 16:51:17"
+        },
+        {
+            "song_name": "Never Really Loved Me (with Dean Lewis)",
+            "artists": [
+                "Kygo",
+                "Dean Lewis"
+            ],
+            "album": "Never Really Loved Me (with Dean Lewis)",
+            "played_at": "21/06/2024 - 16:48:43"
+        },
+        {
+            "song_name": "Nostalgic",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Nostalgic",
+            "played_at": "21/06/2024 - 16:45:32"
+        },
+        {
+            "song_name": "Take My Breath Away",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Take My Breath Away",
+            "played_at": "21/06/2024 - 16:43:12"
+        },
+        {
+            "song_name": "Follow the Sun",
+            "artists": [
+                "NEIMY"
+            ],
+            "album": "Follow the Sun",
+            "played_at": "21/06/2024 - 16:40:18"
+        },
+        {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "21/06/2024 - 16:37:46"
+        },
+        {
+            "song_name": "Perfect Strangers",
+            "artists": [
+                "Jonas Blue",
+                "JP Cooper"
+            ],
+            "album": "Blue",
+            "played_at": "21/06/2024 - 16:35:17"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Duke Dumont"
+            ],
+            "album": "Duality",
+            "played_at": "21/06/2024 - 16:32:09"
+        },
+        {
+            "song_name": "Morning Sun",
+            "artists": [
+                "NSH",
+                "Atch",
+                "Hobes"
+            ],
+            "album": "Morning Sun",
+            "played_at": "21/06/2024 - 16:29:06"
+        },
+        {
+            "song_name": "Baby",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "Baby",
+            "played_at": "21/06/2024 - 16:26:03"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "Ain't Nobody (Loves Me Better)",
+            "played_at": "21/06/2024 - 16:23:30"
+        },
+        {
+            "song_name": "Back to Summer",
+            "artists": [
+                "Batu Onat"
+            ],
+            "album": "Back to Summer",
+            "played_at": "21/06/2024 - 16:20:54"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "21/06/2024 - 16:18:09"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "21/06/2024 - 16:15:38"
+        },
+        {
+            "song_name": "Blue",
+            "artists": [
+                "Faylasuf",
+                "Sensei Schön"
+            ],
+            "album": "Blue",
+            "played_at": "21/06/2024 - 16:12:57"
+        },
+        {
+            "song_name": "Greatest Show On Earth - Remady Remix",
+            "artists": [
+                "Pegasus",
+                "Aloe Blacc",
+                "Remady"
+            ],
+            "album": "Greatest Show On Earth (Remady Remix)",
+            "played_at": "21/06/2024 - 16:09:06"
+        },
+        {
+            "song_name": "Life Goes On",
+            "artists": [
+                "Ricii Lompeurs",
+                "Francesco Ray"
+            ],
+            "album": "Life Goes On",
+            "played_at": "21/06/2024 - 16:06:12"
+        },
+        {
+            "song_name": "Nothing Better",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Nothing Better",
+            "played_at": "21/06/2024 - 16:03:17"
+        },
+        {
+            "song_name": "Waves",
+            "artists": [
+                "Gabriel Morais Jr",
+                "Ayla Nova"
+            ],
+            "album": "Waves",
+            "played_at": "21/06/2024 - 16:00:51"
+        },
+        {
+            "song_name": "California Dreamin - Radio Edit",
+            "artists": [
+                "Freischwimmer"
+            ],
+            "album": "California Dreamin",
+            "played_at": "21/06/2024 - 15:58:56"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "21/06/2024 - 15:56:03"
+        },
+        {
+            "song_name": "Dangerous",
+            "artists": [
+                "Antoine Chambe",
+                "Lucas Cozy"
+            ],
+            "album": "Riverside",
+            "played_at": "21/06/2024 - 15:53:25"
+        },
+        {
+            "song_name": "Anymore",
+            "artists": [
+                "Eloi El"
+            ],
+            "album": "Anymore",
+            "played_at": "21/06/2024 - 15:50:19"
+        },
+        {
+            "song_name": "The Great Wide Open",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ"
+            ],
+            "album": "The Great Wide Open",
+            "played_at": "21/06/2024 - 15:47:47"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "21/06/2024 - 15:45:47"
+        },
+        {
+            "song_name": "Leave a Smile",
+            "artists": [
+                "Twan Ray",
+                "Moonshine",
+                "Solar State"
+            ],
+            "album": "Leave a Smile",
+            "played_at": "21/06/2024 - 15:42:44"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Kaan Pars",
+                "Kuzi Cee"
+            ],
+            "album": "Over & Over",
+            "played_at": "21/06/2024 - 15:40:21"
+        },
+        {
+            "song_name": "California",
+            "artists": [
+                "Takis"
+            ],
+            "album": "California",
+            "played_at": "21/06/2024 - 15:37:57"
+        },
+        {
+            "song_name": "Call On Me (feat. Georgia Ku)",
+            "artists": [
+                "Sam Feldt",
+                "Georgia Ku"
+            ],
+            "album": "Call On Me (feat. Georgia Ku)",
+            "played_at": "21/06/2024 - 15:35:27"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "José Lucas"
+            ],
+            "album": "Paradise",
+            "played_at": "21/06/2024 - 15:32:24"
+        },
+        {
+            "song_name": "Say My Name",
+            "artists": [
+                "Kid On The Block",
+                "Yaelle Maessen"
+            ],
+            "album": "Say My Name",
+            "played_at": "21/06/2024 - 15:29:19"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Kids",
+            "played_at": "21/06/2024 - 15:26:37"
+        },
+        {
+            "song_name": "Ibiza Sky",
+            "artists": [
+                "DJ Licious"
+            ],
+            "album": "Ibiza Sky",
+            "played_at": "21/06/2024 - 15:24:27"
+        },
+        {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "21/06/2024 - 14:48:16"
+        },
+        {
+            "song_name": "rockstar (feat. 21 Savage)",
+            "artists": [
+                "Post Malone",
+                "21 Savage"
+            ],
+            "album": "beerbongs & bentleys",
+            "played_at": "21/06/2024 - 14:37:20"
+        },
+        {
+            "song_name": "Dial Drunk (with Post Malone)",
+            "artists": [
+                "Noah Kahan",
+                "Post Malone"
+            ],
+            "album": "Dial Drunk (with Post Malone)",
+            "played_at": "21/06/2024 - 14:32:22"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "21/06/2024 - 14:27:32"
+        },
+        {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "21/06/2024 - 14:24:01"
+        },
+        {
+            "song_name": "Fortnight (feat. Post Malone)",
+            "artists": [
+                "Taylor Swift",
+                "Post Malone"
+            ],
+            "album": "THE TORTURED POETS DEPARTMENT",
+            "played_at": "21/06/2024 - 14:21:28"
+        },
+        {
+            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
+            "artists": [
+                "Post Malone",
+                "Morgan Wallen"
+            ],
+            "album": "I Had Some Help",
+            "played_at": "21/06/2024 - 14:14:50"
+        },
+        {
+            "song_name": "Parking Lot",
+            "artists": [
+                "Mustard",
+                "Travis Scott"
+            ],
+            "album": "Parking Lot",
+            "played_at": "21/06/2024 - 14:11:13"
+        },
+        {
+            "song_name": "Parking Lot",
+            "artists": [
+                "Mustard",
+                "Travis Scott"
+            ],
+            "album": "Parking Lot",
+            "played_at": "21/06/2024 - 14:08:22"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "21/06/2024 - 20:19:11"
+        },
+        {
+            "song_name": "Many Men (Wish Death)",
+            "artists": [
+                "50 Cent"
+            ],
+            "album": "Get Rich Or Die Tryin'",
+            "played_at": "21/06/2024 - 20:15:37"
+        },
+        {
+            "song_name": "Canadian Goose",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "21/06/2024 - 20:09:53"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "21/06/2024 - 19:59:40"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "21/06/2024 - 19:57:22"
+        },
+        {
+            "song_name": "Gimme A Second 2",
+            "artists": [
+                "Rich The Kid",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "Gimme A Second 2",
+            "played_at": "21/06/2024 - 19:54:11"
+        },
+        {
+            "song_name": "Sunset Lovers",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Horizon Blue",
+                "Carston"
+            ],
+            "album": "Sunset Lovers",
+            "played_at": "21/06/2024 - 16:56:06"
+        },
+        {
+            "song_name": "What I Have with You",
+            "artists": [
+                "SRTW",
+                "Noile",
+                "kaii"
+            ],
+            "album": "What I Have with You",
+            "played_at": "21/06/2024 - 16:53:27"
+        },
+        {
+            "song_name": "City Of Love",
+            "artists": [
+                "Surf Mesa",
+                "Selah Sol"
+            ],
+            "album": "City Of Love",
+            "played_at": "21/06/2024 - 16:51:17"
+        },
+        {
+            "song_name": "Never Really Loved Me (with Dean Lewis)",
+            "artists": [
+                "Kygo",
+                "Dean Lewis"
+            ],
+            "album": "Never Really Loved Me (with Dean Lewis)",
+            "played_at": "21/06/2024 - 16:48:43"
+        },
+        {
+            "song_name": "Nostalgic",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Nostalgic",
+            "played_at": "21/06/2024 - 16:45:32"
+        },
+        {
+            "song_name": "Take My Breath Away",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Take My Breath Away",
+            "played_at": "21/06/2024 - 16:43:12"
+        },
+        {
+            "song_name": "Follow the Sun",
+            "artists": [
+                "NEIMY"
+            ],
+            "album": "Follow the Sun",
+            "played_at": "21/06/2024 - 16:40:18"
+        },
+        {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "21/06/2024 - 16:37:46"
+        },
+        {
+            "song_name": "Perfect Strangers",
+            "artists": [
+                "Jonas Blue",
+                "JP Cooper"
+            ],
+            "album": "Blue",
+            "played_at": "21/06/2024 - 16:35:17"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Duke Dumont"
+            ],
+            "album": "Duality",
+            "played_at": "21/06/2024 - 16:32:09"
+        },
+        {
+            "song_name": "Morning Sun",
+            "artists": [
+                "NSH",
+                "Atch",
+                "Hobes"
+            ],
+            "album": "Morning Sun",
+            "played_at": "21/06/2024 - 16:29:06"
+        },
+        {
+            "song_name": "Baby",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "Baby",
+            "played_at": "21/06/2024 - 16:26:03"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "Ain't Nobody (Loves Me Better)",
+            "played_at": "21/06/2024 - 16:23:30"
+        },
+        {
+            "song_name": "Back to Summer",
+            "artists": [
+                "Batu Onat"
+            ],
+            "album": "Back to Summer",
+            "played_at": "21/06/2024 - 16:20:54"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "21/06/2024 - 16:18:09"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "21/06/2024 - 16:15:38"
+        },
+        {
+            "song_name": "Blue",
+            "artists": [
+                "Faylasuf",
+                "Sensei Schön"
+            ],
+            "album": "Blue",
+            "played_at": "21/06/2024 - 16:12:57"
+        },
+        {
+            "song_name": "Greatest Show On Earth - Remady Remix",
+            "artists": [
+                "Pegasus",
+                "Aloe Blacc",
+                "Remady"
+            ],
+            "album": "Greatest Show On Earth (Remady Remix)",
+            "played_at": "21/06/2024 - 16:09:06"
+        },
+        {
+            "song_name": "Life Goes On",
+            "artists": [
+                "Ricii Lompeurs",
+                "Francesco Ray"
+            ],
+            "album": "Life Goes On",
+            "played_at": "21/06/2024 - 16:06:12"
+        },
+        {
+            "song_name": "Nothing Better",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Nothing Better",
+            "played_at": "21/06/2024 - 16:03:17"
+        },
+        {
+            "song_name": "Waves",
+            "artists": [
+                "Gabriel Morais Jr",
+                "Ayla Nova"
+            ],
+            "album": "Waves",
+            "played_at": "21/06/2024 - 16:00:51"
+        },
+        {
+            "song_name": "California Dreamin - Radio Edit",
+            "artists": [
+                "Freischwimmer"
+            ],
+            "album": "California Dreamin",
+            "played_at": "21/06/2024 - 15:58:56"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "21/06/2024 - 15:56:03"
+        },
+        {
+            "song_name": "Dangerous",
+            "artists": [
+                "Antoine Chambe",
+                "Lucas Cozy"
+            ],
+            "album": "Riverside",
+            "played_at": "21/06/2024 - 15:53:25"
+        },
+        {
+            "song_name": "Anymore",
+            "artists": [
+                "Eloi El"
+            ],
+            "album": "Anymore",
+            "played_at": "21/06/2024 - 15:50:19"
+        },
+        {
+            "song_name": "The Great Wide Open",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ"
+            ],
+            "album": "The Great Wide Open",
+            "played_at": "21/06/2024 - 15:47:47"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "21/06/2024 - 15:45:47"
+        },
+        {
+            "song_name": "Leave a Smile",
+            "artists": [
+                "Twan Ray",
+                "Moonshine",
+                "Solar State"
+            ],
+            "album": "Leave a Smile",
+            "played_at": "21/06/2024 - 15:42:44"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Kaan Pars",
+                "Kuzi Cee"
+            ],
+            "album": "Over & Over",
+            "played_at": "21/06/2024 - 15:40:21"
+        },
+        {
+            "song_name": "California",
+            "artists": [
+                "Takis"
+            ],
+            "album": "California",
+            "played_at": "21/06/2024 - 15:37:57"
+        },
+        {
+            "song_name": "Call On Me (feat. Georgia Ku)",
+            "artists": [
+                "Sam Feldt",
+                "Georgia Ku"
+            ],
+            "album": "Call On Me (feat. Georgia Ku)",
+            "played_at": "21/06/2024 - 15:35:27"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "José Lucas"
+            ],
+            "album": "Paradise",
+            "played_at": "21/06/2024 - 15:32:24"
+        },
+        {
+            "song_name": "Say My Name",
+            "artists": [
+                "Kid On The Block",
+                "Yaelle Maessen"
+            ],
+            "album": "Say My Name",
+            "played_at": "21/06/2024 - 15:29:19"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Kids",
+            "played_at": "21/06/2024 - 15:26:37"
+        },
+        {
+            "song_name": "Ibiza Sky",
+            "artists": [
+                "DJ Licious"
+            ],
+            "album": "Ibiza Sky",
+            "played_at": "21/06/2024 - 15:24:27"
+        },
+        {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "21/06/2024 - 14:48:16"
+        },
+        {
+            "song_name": "rockstar (feat. 21 Savage)",
+            "artists": [
+                "Post Malone",
+                "21 Savage"
+            ],
+            "album": "beerbongs & bentleys",
+            "played_at": "21/06/2024 - 14:37:20"
+        },
+        {
+            "song_name": "Dial Drunk (with Post Malone)",
+            "artists": [
+                "Noah Kahan",
+                "Post Malone"
+            ],
+            "album": "Dial Drunk (with Post Malone)",
+            "played_at": "21/06/2024 - 14:32:22"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "21/06/2024 - 14:27:32"
+        },
+        {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "21/06/2024 - 14:24:01"
+        },
+        {
+            "song_name": "Fortnight (feat. Post Malone)",
+            "artists": [
+                "Taylor Swift",
+                "Post Malone"
+            ],
+            "album": "THE TORTURED POETS DEPARTMENT",
+            "played_at": "21/06/2024 - 14:21:28"
+        },
+        {
+            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
+            "artists": [
+                "Post Malone",
+                "Morgan Wallen"
+            ],
+            "album": "I Had Some Help",
+            "played_at": "21/06/2024 - 14:14:50"
+        },
+        {
+            "song_name": "Parking Lot",
+            "artists": [
+                "Mustard",
+                "Travis Scott"
+            ],
+            "album": "Parking Lot",
+            "played_at": "21/06/2024 - 14:11:13"
+        },
+        {
+            "song_name": "Parking Lot",
+            "artists": [
+                "Mustard",
+                "Travis Scott"
+            ],
+            "album": "Parking Lot",
+            "played_at": "21/06/2024 - 14:08:22"
+        },
+        {
+            "song_name": "Bad (feat. Rihanna) - Remix",
+            "artists": [
+                "Wale",
+                "Rihanna"
+            ],
+            "album": "The Gifted",
+            "played_at": "22/06/2024 - 02:06:41"
         },
         {
             "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
@@ -27,421 +892,7 @@
                 "Trippie Redd"
             ],
             "album": "Bad Vibes Forever",
-            "played_at": "20/06/2024 - 20:11:12"
-        },
-        {
-            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
-            "artists": [
-                "Brent Faiyaz",
-                "FELIX!",
-                "Tommy Richman"
-            ],
-            "album": "Larger Than Life",
-            "played_at": "20/06/2024 - 20:08:46"
-        },
-        {
-            "song_name": "Lost Me",
-            "artists": [
-                "Giveon"
-            ],
-            "album": "Give Or Take",
-            "played_at": "20/06/2024 - 20:05:52"
-        },
-        {
-            "song_name": "I LIKE",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "I LIKE",
-            "played_at": "20/06/2024 - 20:02:55"
-        },
-        {
-            "song_name": "Relax My Eyes",
-            "artists": [
-                "ANOTR",
-                "Abel Balder"
-            ],
-            "album": "Relax My Eyes",
-            "played_at": "20/06/2024 - 20:00:45"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "20/06/2024 - 19:57:37"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "20/06/2024 - 19:55:02"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "20/06/2024 - 19:51:56"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "20/06/2024 - 19:50:21"
-        },
-        {
-            "song_name": "Martin & Gina",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "THE GOAT",
-            "played_at": "20/06/2024 - 19:48:05"
-        },
-        {
-            "song_name": "Fell In Love",
-            "artists": [
-                "Marshmello",
-                "Brent Faiyaz"
-            ],
-            "album": "Fell In Love",
-            "played_at": "20/06/2024 - 19:45:56"
-        },
-        {
-            "song_name": "The Percocet & Stripper Joint",
-            "artists": [
-                "Future"
-            ],
-            "album": "DS2 (Deluxe)",
-            "played_at": "20/06/2024 - 19:43:59"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "20/06/2024 - 19:41:34"
-        },
-        {
-            "song_name": "Free Fall (feat. J. Cole)",
-            "artists": [
-                "Tems",
-                "J. Cole"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "20/06/2024 - 16:21:57"
-        },
-        {
-            "song_name": "Heartless",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "808s & Heartbreak",
-            "played_at": "20/06/2024 - 16:07:14"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "20/06/2024 - 16:03:47"
-        },
-        {
-            "song_name": "ICE AGE (FEAT. TRAVIS SCOTT)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "HARDSTONE PSYCHO",
-            "played_at": "20/06/2024 - 16:01:12"
-        },
-        {
-            "song_name": "20 Min",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "20/06/2024 - 15:55:34"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "20/06/2024 - 15:51:57"
-        },
-        {
-            "song_name": "Pain 1993 (with Playboi Carti)",
-            "artists": [
-                "Drake",
-                "Playboi Carti"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "20/06/2024 - 15:49:19"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "20/06/2024 - 15:45:25"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "20/06/2024 - 15:39:57"
-        },
-        {
-            "song_name": "Runnin",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "20/06/2024 - 15:36:00"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "20/06/2024 - 15:32:48"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "20/06/2024 - 15:26:36"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "20/06/2024 - 15:22:39"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "20/06/2024 - 15:20:33"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "20/06/2024 - 15:17:45"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "20/06/2024 - 15:13:38"
-        },
-        {
-            "song_name": "Sativa",
-            "artists": [
-                "Jhené Aiko",
-                "Swae Lee"
-            ],
-            "album": "Trip",
-            "played_at": "20/06/2024 - 15:10:30"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "20/06/2024 - 14:52:11"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "20/06/2024 - 14:49:22"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "20/06/2024 - 14:43:13"
-        },
-        {
-            "song_name": "Sativa",
-            "artists": [
-                "Jhené Aiko",
-                "Swae Lee"
-            ],
-            "album": "Trip",
-            "played_at": "20/06/2024 - 14:36:16"
-        },
-        {
-            "song_name": "Free Fall (feat. J. Cole)",
-            "artists": [
-                "Tems",
-                "J. Cole"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "20/06/2024 - 12:46:09"
-        },
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "19/06/2024 - 21:01:58"
-        },
-        {
-            "song_name": "500lbs",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC",
-            "played_at": "19/06/2024 - 20:48:51"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "19/06/2024 - 20:46:31"
-        },
-        {
-            "song_name": "infinity (888) - feat. Joey Bada$$",
-            "artists": [
-                "XXXTENTACION",
-                "Joey Bada$$"
-            ],
-            "album": "?",
-            "played_at": "19/06/2024 - 20:44:11"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "19/06/2024 - 20:41:18"
-        },
-        {
-            "song_name": "Ric Flair Drip (with Metro Boomin)",
-            "artists": [
-                "Offset",
-                "Metro Boomin"
-            ],
-            "album": "Without Warning",
-            "played_at": "19/06/2024 - 20:38:11"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "19/06/2024 - 20:35:21"
-        },
-        {
-            "song_name": "on one tonight",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "19/06/2024 - 20:33:04"
-        },
-        {
-            "song_name": "Fuck Love",
-            "artists": [
-                "XXXTENTACION",
-                "Trippie Redd"
-            ],
-            "album": "17",
-            "played_at": "19/06/2024 - 20:31:38"
-        },
-        {
-            "song_name": "Ride",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "Ride",
-            "played_at": "19/06/2024 - 20:29:15"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "19/06/2024 - 20:26:09"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "19/06/2024 - 20:24:46"
-        },
-        {
-            "song_name": "Lemonade (feat. NAV)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "NAV"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "19/06/2024 - 20:18:14"
+            "played_at": "21/06/2024 - 20:32:57"
         },
         {
             "song_name": "Erase Your Social",
@@ -494,6 +945,15 @@
             ],
             "album": "Gimme A Second 2",
             "played_at": "21/06/2024 - 19:54:11"
+        },
+        {
+            "song_name": "Not Giving You Up - Vandelux Remix",
+            "artists": [
+                "Rules",
+                "Vandelux"
+            ],
+            "album": "Not Giving You Up (Vandelux Remix)",
+            "played_at": "21/06/2024 - 17:09:40"
         },
         {
             "song_name": "Sunset Lovers",
@@ -852,470 +1312,6 @@
             ],
             "album": "THE TORTURED POETS DEPARTMENT",
             "played_at": "21/06/2024 - 14:21:28"
-        },
-        {
-            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
-            "artists": [
-                "Post Malone",
-                "Morgan Wallen"
-            ],
-            "album": "I Had Some Help",
-            "played_at": "21/06/2024 - 14:14:50"
-        },
-        {
-            "song_name": "Parking Lot",
-            "artists": [
-                "Mustard",
-                "Travis Scott"
-            ],
-            "album": "Parking Lot",
-            "played_at": "21/06/2024 - 14:11:13"
-        },
-        {
-            "song_name": "Parking Lot",
-            "artists": [
-                "Mustard",
-                "Travis Scott"
-            ],
-            "album": "Parking Lot",
-            "played_at": "21/06/2024 - 14:08:22"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "21/06/2024 - 20:19:11"
-        },
-        {
-            "song_name": "Many Men (Wish Death)",
-            "artists": [
-                "50 Cent"
-            ],
-            "album": "Get Rich Or Die Tryin'",
-            "played_at": "21/06/2024 - 20:15:37"
-        },
-        {
-            "song_name": "Canadian Goose",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "21/06/2024 - 20:09:53"
-        },
-        {
-            "song_name": "500lbs",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC",
-            "played_at": "21/06/2024 - 19:59:40"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "21/06/2024 - 19:57:22"
-        },
-        {
-            "song_name": "Gimme A Second 2",
-            "artists": [
-                "Rich The Kid",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "Gimme A Second 2",
-            "played_at": "21/06/2024 - 19:54:11"
-        },
-        {
-            "song_name": "Sunset Lovers",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Horizon Blue",
-                "Carston"
-            ],
-            "album": "Sunset Lovers",
-            "played_at": "21/06/2024 - 16:56:06"
-        },
-        {
-            "song_name": "What I Have with You",
-            "artists": [
-                "SRTW",
-                "Noile",
-                "kaii"
-            ],
-            "album": "What I Have with You",
-            "played_at": "21/06/2024 - 16:53:27"
-        },
-        {
-            "song_name": "City Of Love",
-            "artists": [
-                "Surf Mesa",
-                "Selah Sol"
-            ],
-            "album": "City Of Love",
-            "played_at": "21/06/2024 - 16:51:17"
-        },
-        {
-            "song_name": "Never Really Loved Me (with Dean Lewis)",
-            "artists": [
-                "Kygo",
-                "Dean Lewis"
-            ],
-            "album": "Never Really Loved Me (with Dean Lewis)",
-            "played_at": "21/06/2024 - 16:48:43"
-        },
-        {
-            "song_name": "Nostalgic",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Nostalgic",
-            "played_at": "21/06/2024 - 16:45:32"
-        },
-        {
-            "song_name": "Take My Breath Away",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Take My Breath Away",
-            "played_at": "21/06/2024 - 16:43:12"
-        },
-        {
-            "song_name": "Follow the Sun",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Follow the Sun",
-            "played_at": "21/06/2024 - 16:40:18"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "21/06/2024 - 16:37:46"
-        },
-        {
-            "song_name": "Perfect Strangers",
-            "artists": [
-                "Jonas Blue",
-                "JP Cooper"
-            ],
-            "album": "Blue",
-            "played_at": "21/06/2024 - 16:35:17"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Duke Dumont"
-            ],
-            "album": "Duality",
-            "played_at": "21/06/2024 - 16:32:09"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "21/06/2024 - 16:29:06"
-        },
-        {
-            "song_name": "Baby",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "Baby",
-            "played_at": "21/06/2024 - 16:26:03"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "21/06/2024 - 16:23:30"
-        },
-        {
-            "song_name": "Back to Summer",
-            "artists": [
-                "Batu Onat"
-            ],
-            "album": "Back to Summer",
-            "played_at": "21/06/2024 - 16:20:54"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "21/06/2024 - 16:18:09"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "21/06/2024 - 16:15:38"
-        },
-        {
-            "song_name": "Blue",
-            "artists": [
-                "Faylasuf",
-                "Sensei Schön"
-            ],
-            "album": "Blue",
-            "played_at": "21/06/2024 - 16:12:57"
-        },
-        {
-            "song_name": "Greatest Show On Earth - Remady Remix",
-            "artists": [
-                "Pegasus",
-                "Aloe Blacc",
-                "Remady"
-            ],
-            "album": "Greatest Show On Earth (Remady Remix)",
-            "played_at": "21/06/2024 - 16:09:06"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Ricii Lompeurs",
-                "Francesco Ray"
-            ],
-            "album": "Life Goes On",
-            "played_at": "21/06/2024 - 16:06:12"
-        },
-        {
-            "song_name": "Nothing Better",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Nothing Better",
-            "played_at": "21/06/2024 - 16:03:17"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "21/06/2024 - 16:00:51"
-        },
-        {
-            "song_name": "California Dreamin - Radio Edit",
-            "artists": [
-                "Freischwimmer"
-            ],
-            "album": "California Dreamin",
-            "played_at": "21/06/2024 - 15:58:56"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "21/06/2024 - 15:56:03"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "21/06/2024 - 15:53:25"
-        },
-        {
-            "song_name": "Anymore",
-            "artists": [
-                "Eloi El"
-            ],
-            "album": "Anymore",
-            "played_at": "21/06/2024 - 15:50:19"
-        },
-        {
-            "song_name": "The Great Wide Open",
-            "artists": [
-                "Life's A Beach",
-                "Tobÿ"
-            ],
-            "album": "The Great Wide Open",
-            "played_at": "21/06/2024 - 15:47:47"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "21/06/2024 - 15:45:47"
-        },
-        {
-            "song_name": "Leave a Smile",
-            "artists": [
-                "Twan Ray",
-                "Moonshine",
-                "Solar State"
-            ],
-            "album": "Leave a Smile",
-            "played_at": "21/06/2024 - 15:42:44"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Kaan Pars",
-                "Kuzi Cee"
-            ],
-            "album": "Over & Over",
-            "played_at": "21/06/2024 - 15:40:21"
-        },
-        {
-            "song_name": "California",
-            "artists": [
-                "Takis"
-            ],
-            "album": "California",
-            "played_at": "21/06/2024 - 15:37:57"
-        },
-        {
-            "song_name": "Call On Me (feat. Georgia Ku)",
-            "artists": [
-                "Sam Feldt",
-                "Georgia Ku"
-            ],
-            "album": "Call On Me (feat. Georgia Ku)",
-            "played_at": "21/06/2024 - 15:35:27"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "José Lucas"
-            ],
-            "album": "Paradise",
-            "played_at": "21/06/2024 - 15:32:24"
-        },
-        {
-            "song_name": "Say My Name",
-            "artists": [
-                "Kid On The Block",
-                "Yaelle Maessen"
-            ],
-            "album": "Say My Name",
-            "played_at": "21/06/2024 - 15:29:19"
-        },
-        {
-            "song_name": "Kids",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Kids",
-            "played_at": "21/06/2024 - 15:26:37"
-        },
-        {
-            "song_name": "Ibiza Sky",
-            "artists": [
-                "DJ Licious"
-            ],
-            "album": "Ibiza Sky",
-            "played_at": "21/06/2024 - 15:24:27"
-        },
-        {
-            "song_name": "Chemical",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Chemical",
-            "played_at": "21/06/2024 - 14:48:16"
-        },
-        {
-            "song_name": "rockstar (feat. 21 Savage)",
-            "artists": [
-                "Post Malone",
-                "21 Savage"
-            ],
-            "album": "beerbongs & bentleys",
-            "played_at": "21/06/2024 - 14:37:20"
-        },
-        {
-            "song_name": "Dial Drunk (with Post Malone)",
-            "artists": [
-                "Noah Kahan",
-                "Post Malone"
-            ],
-            "album": "Dial Drunk (with Post Malone)",
-            "played_at": "21/06/2024 - 14:32:22"
-        },
-        {
-            "song_name": "Circles",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "21/06/2024 - 14:27:32"
-        },
-        {
-            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
-            "artists": [
-                "Post Malone",
-                "Swae Lee"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "21/06/2024 - 14:24:01"
-        },
-        {
-            "song_name": "Fortnight (feat. Post Malone)",
-            "artists": [
-                "Taylor Swift",
-                "Post Malone"
-            ],
-            "album": "THE TORTURED POETS DEPARTMENT",
-            "played_at": "21/06/2024 - 14:21:28"
-        },
-        {
-            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
-            "artists": [
-                "Post Malone",
-                "Morgan Wallen"
-            ],
-            "album": "I Had Some Help",
-            "played_at": "21/06/2024 - 14:14:50"
-        },
-        {
-            "song_name": "Parking Lot",
-            "artists": [
-                "Mustard",
-                "Travis Scott"
-            ],
-            "album": "Parking Lot",
-            "played_at": "21/06/2024 - 14:11:13"
-        },
-        {
-            "song_name": "Parking Lot",
-            "artists": [
-                "Mustard",
-                "Travis Scott"
-            ],
-            "album": "Parking Lot",
-            "played_at": "21/06/2024 - 14:08:22"
         },
         {
             "song_name": "Bad (feat. Rihanna) - Remix",
