@@ -440,6 +440,16 @@
             "played_at": "21/06/2024 - 14:24:01"
         },
         {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "22/06/2024 - 19:11:22"
+        },
+        {
             "song_name": "Bad (feat. Rihanna) - Remix",
             "artists": [
                 "Wale",
@@ -867,15 +877,6 @@
             ],
             "album": "Hollywood's Bleeding",
             "played_at": "21/06/2024 - 14:27:32"
-        },
-        {
-            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
-            "artists": [
-                "Post Malone",
-                "Swae Lee"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "21/06/2024 - 14:24:01"
         },
         {
             "song_name": "Asking",
