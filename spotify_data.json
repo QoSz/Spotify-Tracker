@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "04/07/2024 - 19:59:04"
+        },
+        {
             "song_name": "Tomorrow Never Comes",
             "artists": [
                 "Vicetone"
@@ -435,14 +443,6 @@
             ],
             "album": "One Headlight",
             "played_at": "03/07/2024 - 17:49:57"
-        },
-        {
-            "song_name": "Don't Tell Me I Can't Have It",
-            "artists": [
-                "Sons Of Maria"
-            ],
-            "album": "Don't Tell Me I Can't Have It",
-            "played_at": "03/07/2024 - 17:47:28"
         },
         {
             "song_name": "Moonlight",
