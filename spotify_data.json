@@ -2,446 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "04/07/2024 - 18:55:56"
-        },
-        {
-            "song_name": "Reflections",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "04/07/2024 - 18:52:28"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "04/07/2024 - 18:48:24"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "04/07/2024 - 18:46:15"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "04/07/2024 - 17:04:05"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "04/07/2024 - 17:00:48"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "04/07/2024 - 16:57:33"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "04/07/2024 - 16:53:32"
-        },
-        {
-            "song_name": "Sativa",
-            "artists": [
-                "Jhené Aiko",
-                "Swae Lee"
-            ],
-            "album": "Trip",
-            "played_at": "04/07/2024 - 16:49:22"
-        },
-        {
-            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-            "artists": [
-                "Gunna",
-                "Young Thug"
-            ],
-            "album": "WUNNA",
-            "played_at": "04/07/2024 - 16:43:57"
-        },
-        {
-            "song_name": "Blue",
-            "artists": [
-                "Faylasuf",
-                "Sensei Schön"
-            ],
-            "album": "Blue",
-            "played_at": "04/07/2024 - 16:38:41"
-        },
-        {
-            "song_name": "Blue",
-            "artists": [
-                "Faylasuf",
-                "Sensei Schön"
-            ],
-            "album": "Blue",
-            "played_at": "04/07/2024 - 16:05:36"
-        },
-        {
-            "song_name": "Waiting For A Better Day",
-            "artists": [
-                "SITHEA"
-            ],
-            "album": "Waiting For A Better Day",
-            "played_at": "04/07/2024 - 15:50:09"
-        },
-        {
-            "song_name": "Waiting For A Better Day",
-            "artists": [
-                "SITHEA"
-            ],
-            "album": "Waiting For A Better Day",
-            "played_at": "04/07/2024 - 15:46:20"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "04/07/2024 - 15:43:06"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "04/07/2024 - 15:40:50"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "04/07/2024 - 15:38:18"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "04/07/2024 - 15:35:34"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "04/07/2024 - 15:26:01"
-        },
-        {
-            "song_name": "Get To Me",
-            "artists": [
-                "Lonely Night",
-                "Ellou",
-                "Nody"
-            ],
-            "album": "Get To Me",
-            "played_at": "04/07/2024 - 15:24:00"
-        },
-        {
-            "song_name": "I Got U",
-            "artists": [
-                "Duke Dumont",
-                "Jax Jones"
-            ],
-            "album": "I Got U",
-            "played_at": "04/07/2024 - 15:20:29"
-        },
-        {
-            "song_name": "Save Tonight",
-            "artists": [
-                "Sam Feldt"
-            ],
-            "album": "Sunrise",
-            "played_at": "04/07/2024 - 15:16:18"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "For Life (feat. Nile Rodgers)",
-            "played_at": "04/07/2024 - 15:13:47"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "04/07/2024 - 15:06:31"
-        },
-        {
-            "song_name": "cash legale",
-            "artists": [
-                "Caldo"
-            ],
-            "album": "cash legale",
-            "played_at": "04/07/2024 - 08:41:25"
-        },
-        {
-            "song_name": "FLORIDA BABY",
-            "artists": [
-                "Isaiah Falls"
-            ],
-            "album": "FLORIDA BABY",
-            "played_at": "04/07/2024 - 08:39:57"
-        },
-        {
-            "song_name": "Baby",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "Baby",
-            "played_at": "03/07/2024 - 18:13:02"
-        },
-        {
-            "song_name": "Happy Ever After",
-            "artists": [
-                "Sander W.",
-                "Sönnefelt",
-                "She Is Jules"
-            ],
-            "album": "Happy Ever After",
-            "played_at": "03/07/2024 - 18:12:04"
-        },
-        {
-            "song_name": "I Can't Stop",
-            "artists": [
-                "Daniel Glaven",
-                "Will Church"
-            ],
-            "album": "I Can't Stop",
-            "played_at": "03/07/2024 - 18:09:24"
-        },
-        {
-            "song_name": "Only For The Better",
-            "artists": [
-                "John De Sohn",
-                "Ericka Jane"
-            ],
-            "album": "Only For The Better",
-            "played_at": "03/07/2024 - 18:07:12"
-        },
-        {
-            "song_name": "Probably Paradise",
-            "artists": [
-                "Luvine",
-                "Lisa Rowe"
-            ],
-            "album": "Probably Paradise",
-            "played_at": "03/07/2024 - 18:04:24"
-        },
-        {
-            "song_name": "Dream",
-            "artists": [
-                "Benedict Ammann"
-            ],
-            "album": "Dream",
-            "played_at": "03/07/2024 - 18:02:20"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Duke Dumont"
-            ],
-            "album": "Duality",
-            "played_at": "03/07/2024 - 17:59:20"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "03/07/2024 - 17:55:53"
-        },
-        {
-            "song_name": "Knockin' On Heaven's Door",
-            "artists": [
-                "Nexeri",
-                "Tara Louise"
-            ],
-            "album": "Knockin' On Heaven's Door",
-            "played_at": "03/07/2024 - 17:52:11"
-        },
-        {
-            "song_name": "One Headlight",
-            "artists": [
-                "Nate VanDeusen",
-                "Bayshore Court"
-            ],
-            "album": "One Headlight",
-            "played_at": "03/07/2024 - 17:49:57"
-        },
-        {
-            "song_name": "Don't Tell Me I Can't Have It",
-            "artists": [
-                "Sons Of Maria"
-            ],
-            "album": "Don't Tell Me I Can't Have It",
-            "played_at": "03/07/2024 - 17:47:28"
-        },
-        {
-            "song_name": "House is the religion",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "House is the religion",
-            "played_at": "03/07/2024 - 17:44:20"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "03/07/2024 - 17:41:50"
-        },
-        {
-            "song_name": "House in The Woods",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "House in The Woods",
-            "played_at": "03/07/2024 - 17:38:51"
-        },
-        {
-            "song_name": "Take You Home",
-            "artists": [
-                "KAJ",
-                "Koa"
-            ],
-            "album": "Take You Home",
-            "played_at": "03/07/2024 - 15:04:48"
-        },
-        {
-            "song_name": "Sunset Lovers",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Horizon Blue",
-                "Carston"
-            ],
-            "album": "Sunset Lovers",
-            "played_at": "03/07/2024 - 14:54:26"
-        },
-        {
-            "song_name": "I Miss You",
-            "artists": [
-                "BOILERS",
-                "CALVIN"
-            ],
-            "album": "I Miss You",
-            "played_at": "03/07/2024 - 14:51:47"
-        },
-        {
-            "song_name": "Glowing State",
-            "artists": [
-                "Maiwan"
-            ],
-            "album": "Always Me",
-            "played_at": "03/07/2024 - 14:49:06"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Donner"
-            ],
-            "album": "Love Me",
-            "played_at": "03/07/2024 - 14:44:56"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Zwette",
-                "Julian Perretta"
-            ],
-            "album": "Home",
-            "played_at": "03/07/2024 - 14:42:46"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "03/07/2024 - 14:39:53"
-        },
-        {
-            "song_name": "Hope",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Hope",
-            "played_at": "03/07/2024 - 14:37:22"
-        },
-        {
-            "song_name": "Call On Me (feat. Georgia Ku)",
-            "artists": [
-                "Sam Feldt",
-                "Georgia Ku"
-            ],
-            "album": "Call On Me (feat. Georgia Ku)",
-            "played_at": "03/07/2024 - 14:35:25"
-        },
-        {
-            "song_name": "Summertime",
-            "artists": [
-                "SRTW",
-                "COLIN"
-            ],
-            "album": "Summertime",
-            "played_at": "03/07/2024 - 14:32:22"
-        },
-        {
             "song_name": "Tomorrow Never Comes",
             "artists": [
                 "Vicetone"
@@ -883,6 +443,449 @@
             ],
             "album": "Don't Tell Me I Can't Have It",
             "played_at": "03/07/2024 - 17:47:28"
+        },
+        {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "04/07/2024 - 19:59:04"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "04/07/2024 - 19:53:56"
+        },
+        {
+            "song_name": "This Town",
+            "artists": [
+                "Saco",
+                "Sparkle",
+                "Isabel Prada"
+            ],
+            "album": "This Town",
+            "played_at": "04/07/2024 - 19:50:59"
+        },
+        {
+            "song_name": "Sugar Kiss",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ",
+                "Whilst"
+            ],
+            "album": "Sugar Kiss",
+            "played_at": "04/07/2024 - 19:47:52"
+        },
+        {
+            "song_name": "Jolene",
+            "artists": [
+                "Curl",
+                "Jorm",
+                "Ludvigsson"
+            ],
+            "album": "Jolene",
+            "played_at": "04/07/2024 - 19:45:37"
+        },
+        {
+            "song_name": "Young Folks",
+            "artists": [
+                "John Skyfield",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "Young Folks",
+            "played_at": "04/07/2024 - 19:42:49"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "Hokima",
+                "Shoby"
+            ],
+            "album": "Run",
+            "played_at": "04/07/2024 - 19:40:09"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "04/07/2024 - 19:37:28"
+        },
+        {
+            "song_name": "Hold This Memory",
+            "artists": [
+                "Deepend",
+                "Madism"
+            ],
+            "album": "Hold This Memory",
+            "played_at": "04/07/2024 - 19:34:32"
+        },
+        {
+            "song_name": "Bali Dreams",
+            "artists": [
+                "Deep Chills"
+            ],
+            "album": "Bali Dreams",
+            "played_at": "04/07/2024 - 19:31:48"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "04/07/2024 - 19:08:37"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "04/07/2024 - 19:06:12"
+        },
+        {
+            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "artists": [
+                "Gunna",
+                "Young Thug"
+            ],
+            "album": "WUNNA",
+            "played_at": "04/07/2024 - 19:03:42"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "04/07/2024 - 19:00:23"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "04/07/2024 - 18:55:56"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "04/07/2024 - 18:52:28"
+        },
+        {
+            "song_name": "Bird Call",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "04/07/2024 - 18:48:24"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "04/07/2024 - 18:46:15"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "04/07/2024 - 17:04:05"
+        },
+        {
+            "song_name": "5% TINT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "04/07/2024 - 17:00:48"
+        },
+        {
+            "song_name": "BABY NUEVA",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "album": "nadie sabe lo que va a pasar mañana",
+            "played_at": "04/07/2024 - 16:57:33"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "04/07/2024 - 16:53:32"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "04/07/2024 - 16:49:22"
+        },
+        {
+            "song_name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "artists": [
+                "Gunna",
+                "Young Thug"
+            ],
+            "album": "WUNNA",
+            "played_at": "04/07/2024 - 16:43:57"
+        },
+        {
+            "song_name": "Blue",
+            "artists": [
+                "Faylasuf",
+                "Sensei Schön"
+            ],
+            "album": "Blue",
+            "played_at": "04/07/2024 - 16:38:41"
+        },
+        {
+            "song_name": "Blue",
+            "artists": [
+                "Faylasuf",
+                "Sensei Schön"
+            ],
+            "album": "Blue",
+            "played_at": "04/07/2024 - 16:05:36"
+        },
+        {
+            "song_name": "Waiting For A Better Day",
+            "artists": [
+                "SITHEA"
+            ],
+            "album": "Waiting For A Better Day",
+            "played_at": "04/07/2024 - 15:50:09"
+        },
+        {
+            "song_name": "Waiting For A Better Day",
+            "artists": [
+                "SITHEA"
+            ],
+            "album": "Waiting For A Better Day",
+            "played_at": "04/07/2024 - 15:46:20"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "04/07/2024 - 15:43:06"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "04/07/2024 - 15:40:50"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "04/07/2024 - 15:38:18"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "04/07/2024 - 15:35:34"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "04/07/2024 - 15:26:01"
+        },
+        {
+            "song_name": "Get To Me",
+            "artists": [
+                "Lonely Night",
+                "Ellou",
+                "Nody"
+            ],
+            "album": "Get To Me",
+            "played_at": "04/07/2024 - 15:24:00"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "04/07/2024 - 15:20:29"
+        },
+        {
+            "song_name": "Save Tonight",
+            "artists": [
+                "Sam Feldt"
+            ],
+            "album": "Sunrise",
+            "played_at": "04/07/2024 - 15:16:18"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "04/07/2024 - 15:13:47"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "04/07/2024 - 15:06:31"
+        },
+        {
+            "song_name": "cash legale",
+            "artists": [
+                "Caldo"
+            ],
+            "album": "cash legale",
+            "played_at": "04/07/2024 - 08:41:25"
+        },
+        {
+            "song_name": "FLORIDA BABY",
+            "artists": [
+                "Isaiah Falls"
+            ],
+            "album": "FLORIDA BABY",
+            "played_at": "04/07/2024 - 08:39:57"
+        },
+        {
+            "song_name": "Baby",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "Baby",
+            "played_at": "03/07/2024 - 18:13:02"
+        },
+        {
+            "song_name": "Happy Ever After",
+            "artists": [
+                "Sander W.",
+                "Sönnefelt",
+                "She Is Jules"
+            ],
+            "album": "Happy Ever After",
+            "played_at": "03/07/2024 - 18:12:04"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "03/07/2024 - 18:09:24"
+        },
+        {
+            "song_name": "Only For The Better",
+            "artists": [
+                "John De Sohn",
+                "Ericka Jane"
+            ],
+            "album": "Only For The Better",
+            "played_at": "03/07/2024 - 18:07:12"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "03/07/2024 - 18:04:24"
+        },
+        {
+            "song_name": "Dream",
+            "artists": [
+                "Benedict Ammann"
+            ],
+            "album": "Dream",
+            "played_at": "03/07/2024 - 18:02:20"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Duke Dumont"
+            ],
+            "album": "Duality",
+            "played_at": "03/07/2024 - 17:59:20"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "03/07/2024 - 17:55:53"
+        },
+        {
+            "song_name": "Knockin' On Heaven's Door",
+            "artists": [
+                "Nexeri",
+                "Tara Louise"
+            ],
+            "album": "Knockin' On Heaven's Door",
+            "played_at": "03/07/2024 - 17:52:11"
+        },
+        {
+            "song_name": "One Headlight",
+            "artists": [
+                "Nate VanDeusen",
+                "Bayshore Court"
+            ],
+            "album": "One Headlight",
+            "played_at": "03/07/2024 - 17:49:57"
         },
         {
             "song_name": "Moonlight",
