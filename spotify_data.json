@@ -445,6 +445,15 @@
             "played_at": "04/07/2024 - 19:08:37"
         },
         {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "05/07/2024 - 16:08:22"
+        },
+        {
             "song_name": "Love Without You",
             "artists": [
                 "Nora Van Elken",
@@ -878,14 +887,6 @@
             ],
             "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
             "played_at": "04/07/2024 - 19:10:06"
-        },
-        {
-            "song_name": "500lbs",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC",
-            "played_at": "04/07/2024 - 19:08:37"
         },
         {
             "song_name": "Emorio",
