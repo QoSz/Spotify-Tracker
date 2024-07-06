@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "06/07/2024 - 15:52:37"
+        },
+        {
             "song_name": "House in The Woods",
             "artists": [
                 "Creon Flips",
@@ -440,15 +448,6 @@
             ],
             "album": "BALANCE",
             "played_at": "05/07/2024 - 11:43:43"
-        },
-        {
-            "song_name": "Talking To Myself",
-            "artists": [
-                "Namic",
-                "Meynberg"
-            ],
-            "album": "Talking To Myself",
-            "played_at": "05/07/2024 - 11:40:31"
         },
         {
             "song_name": "Dancing With Your Ghost",
