@@ -2,457 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
-            "artists": [
-                "XXXTENTACION",
-                "PnB Rock",
-                "Trippie Redd"
-            ],
-            "album": "Bad Vibes Forever",
-            "played_at": "08/07/2024 - 12:26:46"
-        },
-        {
-            "song_name": "GIRLS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "GIRLS",
-            "played_at": "08/07/2024 - 12:24:17"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "08/07/2024 - 12:21:43"
-        },
-        {
-            "song_name": "TiFFANY",
-            "artists": [
-                "IDK",
-                "Gunna"
-            ],
-            "album": "TiFFANY",
-            "played_at": "08/07/2024 - 12:18:12"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "08/07/2024 - 12:15:50"
-        },
-        {
-            "song_name": "Endless Fashion (feat. Nicki Minaj)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Nicki Minaj"
-            ],
-            "album": "Endless Fashion (feat. Nicki Minaj)",
-            "played_at": "08/07/2024 - 12:12:07"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "08/07/2024 - 12:08:31"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "08/07/2024 - 12:05:15"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "08/07/2024 - 12:01:20"
-        },
-        {
-            "song_name": "Bad (feat. Rihanna) - Remix",
-            "artists": [
-                "Wale",
-                "Rihanna"
-            ],
-            "album": "The Gifted",
-            "played_at": "08/07/2024 - 00:50:44"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "08/07/2024 - 00:49:02"
-        },
-        {
-            "song_name": "Yo Bunny",
-            "artists": [
-                "prodbycpkshawn",
-                "Ugly Andz."
-            ],
-            "album": "Yo Bunny",
-            "played_at": "08/07/2024 - 00:30:32"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "07/07/2024 - 23:13:07"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "06/07/2024 - 15:52:37"
-        },
-        {
-            "song_name": "House in The Woods",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "House in The Woods",
-            "played_at": "06/07/2024 - 15:48:48"
-        },
-        {
-            "song_name": "Time After Time",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Time After Time",
-            "played_at": "06/07/2024 - 15:46:40"
-        },
-        {
-            "song_name": "In Your Arms",
-            "artists": [
-                "Fini",
-                "David Emde"
-            ],
-            "album": "In Your Arms",
-            "played_at": "06/07/2024 - 15:43:59"
-        },
-        {
-            "song_name": "Hold This Memory",
-            "artists": [
-                "Deepend",
-                "Madism"
-            ],
-            "album": "Hold This Memory",
-            "played_at": "06/07/2024 - 15:41:34"
-        },
-        {
-            "song_name": "Love That We Need",
-            "artists": [
-                "Silience",
-                "Loyal"
-            ],
-            "album": "Love That We Need",
-            "played_at": "06/07/2024 - 15:38:54"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "06/07/2024 - 15:35:57"
-        },
-        {
-            "song_name": "Jolene",
-            "artists": [
-                "Curl",
-                "Jorm",
-                "Ludvigsson"
-            ],
-            "album": "Jolene",
-            "played_at": "06/07/2024 - 15:28:58"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "06/07/2024 - 15:26:10"
-        },
-        {
-            "song_name": "Over You",
-            "artists": [
-                "Madism",
-                "Philip Strand"
-            ],
-            "album": "Over You",
-            "played_at": "06/07/2024 - 15:22:30"
-        },
-        {
-            "song_name": "This Town",
-            "artists": [
-                "Saco",
-                "Sparkle",
-                "Isabel Prada"
-            ],
-            "album": "This Town",
-            "played_at": "06/07/2024 - 15:20:08"
-        },
-        {
-            "song_name": "Good Vibes",
-            "artists": [
-                "SRTW",
-                "Nimus",
-                "madugo"
-            ],
-            "album": "Good Vibes",
-            "played_at": "06/07/2024 - 15:17:03"
-        },
-        {
-            "song_name": "Easy Love",
-            "artists": [
-                "Sigala"
-            ],
-            "album": "Brighter Days",
-            "played_at": "06/07/2024 - 15:15:12"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "06/07/2024 - 15:11:22"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "06/07/2024 - 15:07:50"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Donner"
-            ],
-            "album": "Love Me",
-            "played_at": "06/07/2024 - 15:04:30"
-        },
-        {
-            "song_name": "The Ocean - Radio Mix",
-            "artists": [
-                "Max Manie"
-            ],
-            "album": "The Ocean",
-            "played_at": "06/07/2024 - 15:02:16"
-        },
-        {
-            "song_name": "Glowing State",
-            "artists": [
-                "Maiwan"
-            ],
-            "album": "Always Me",
-            "played_at": "06/07/2024 - 14:58:26"
-        },
-        {
-            "song_name": "Stuck In The Rain",
-            "artists": [
-                "Bjarne Hendrik"
-            ],
-            "album": "Stuck In The Rain",
-            "played_at": "06/07/2024 - 14:53:36"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "06/07/2024 - 14:50:47"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "06/07/2024 - 14:48:06"
-        },
-        {
-            "song_name": "Take My Breath Away",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Take My Breath Away",
-            "played_at": "06/07/2024 - 14:45:57"
-        },
-        {
-            "song_name": "Sugar Kiss",
-            "artists": [
-                "Life's A Beach",
-                "Tobÿ",
-                "Whilst"
-            ],
-            "album": "Sugar Kiss",
-            "played_at": "06/07/2024 - 14:42:48"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "06/07/2024 - 14:40:33"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "06/07/2024 - 14:38:02"
-        },
-        {
-            "song_name": "Matter of Time - Lonely in the Rain Remix",
-            "artists": [
-                "Vandelux",
-                "Alex Maher",
-                "Lonely in the Rain"
-            ],
-            "album": "Matter of Time (Lonely In The Rain Remix)",
-            "played_at": "06/07/2024 - 14:35:10"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "06/07/2024 - 14:32:27"
-        },
-        {
-            "song_name": "Money",
-            "artists": [
-                "Jones Meadow",
-                "Nina Carr"
-            ],
-            "album": "Money",
-            "played_at": "06/07/2024 - 14:30:09"
-        },
-        {
-            "song_name": "Staring At The Sun",
-            "artists": [
-                "the Giver",
-                "LissA"
-            ],
-            "album": "Staring At The Sun",
-            "played_at": "06/07/2024 - 14:27:11"
-        },
-        {
-            "song_name": "Heart So Big",
-            "artists": [
-                "Matoma",
-                "A R I Z O N A"
-            ],
-            "album": "Heart So Big",
-            "played_at": "06/07/2024 - 14:24:13"
-        },
-        {
-            "song_name": "high love",
-            "artists": [
-                "rayn",
-                "cloudseven",
-                "MELINA"
-            ],
-            "album": "high love",
-            "played_at": "06/07/2024 - 14:20:37"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "06/07/2024 - 14:18:03"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "05/07/2024 - 16:08:22"
-        },
-        {
-            "song_name": "Love Without You",
-            "artists": [
-                "Nora Van Elken",
-                "Felix Samuel"
-            ],
-            "album": "Love Without You",
-            "played_at": "05/07/2024 - 15:57:47"
-        },
-        {
-            "song_name": "Save Tonight",
-            "artists": [
-                "Sam Feldt"
-            ],
-            "album": "Sunrise",
-            "played_at": "05/07/2024 - 15:55:34"
-        },
-        {
-            "song_name": "Circuit",
-            "artists": [
-                "Yann Muller",
-                "Fex",
-                "Motik",
-                "Adam Woods"
-            ],
-            "album": "Circuit",
-            "played_at": "05/07/2024 - 15:53:04"
-        },
-        {
-            "song_name": "Sugar Kiss",
-            "artists": [
-                "Life's A Beach",
-                "Tobÿ",
-                "Whilst"
-            ],
-            "album": "Sugar Kiss",
-            "played_at": "05/07/2024 - 15:50:29"
-        },
-        {
             "song_name": "Push Ups",
             "artists": [
                 "Drake"
@@ -1333,6 +882,451 @@
             ],
             "album": "Hold This Memory",
             "played_at": "06/07/2024 - 15:41:34"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "08/07/2024 - 16:37:49"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "08/07/2024 - 16:35:35"
+        },
+        {
+            "song_name": "Hell N Back",
+            "artists": [
+                "Bakar"
+            ],
+            "album": "Hell N Back (Sped Up)",
+            "played_at": "08/07/2024 - 16:31:51"
+        },
+        {
+            "song_name": "Bird Call",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "08/07/2024 - 16:28:24"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "08/07/2024 - 16:26:21"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "08/07/2024 - 16:23:12"
+        },
+        {
+            "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Lil Tecca",
+                "The Kid LAROI",
+                "Lil Skies"
+            ],
+            "album": "All Is Yellow",
+            "played_at": "08/07/2024 - 16:19:35"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "08/07/2024 - 16:16:53"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "08/07/2024 - 16:13:43"
+        },
+        {
+            "song_name": "Runnin",
+            "artists": [
+                "21 Savage",
+                "Metro Boomin"
+            ],
+            "album": "SAVAGE MODE II",
+            "played_at": "08/07/2024 - 16:09:49"
+        },
+        {
+            "song_name": "Thrusting (feat. Swae Lee & Future)",
+            "artists": [
+                "Internet Money",
+                "Swae Lee",
+                "Future"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "08/07/2024 - 16:06:39"
+        },
+        {
+            "song_name": "5% TINT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "08/07/2024 - 16:03:02"
+        },
+        {
+            "song_name": "BABY NUEVA",
+            "artists": [
+                "Bad Bunny"
+            ],
+            "album": "nadie sabe lo que va a pasar mañana",
+            "played_at": "08/07/2024 - 15:59:52"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "08/07/2024 - 15:55:18"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "08/07/2024 - 15:53:14"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "08/07/2024 - 15:50:28"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "08/07/2024 - 15:46:23"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "08/07/2024 - 15:43:18"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "08/07/2024 - 15:38:29"
+        },
+        {
+            "song_name": "In The Dark (with Jhené Aiko)",
+            "artists": [
+                "Swae Lee",
+                "Jhené Aiko"
+            ],
+            "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+            "played_at": "08/07/2024 - 15:36:00"
+        },
+        {
+            "song_name": "The Percocet & Stripper Joint",
+            "artists": [
+                "Future"
+            ],
+            "album": "DS2 (Deluxe)",
+            "played_at": "08/07/2024 - 14:50:59"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "08/07/2024 - 14:48:31"
+        },
+        {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "08/07/2024 - 14:45:13"
+        },
+        {
+            "song_name": "south to west",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "DS4EVER",
+            "played_at": "08/07/2024 - 14:42:55"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "08/07/2024 - 14:40:52"
+        },
+        {
+            "song_name": "TORE UP",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "08/07/2024 - 14:37:55"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "08/07/2024 - 14:33:40"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "08/07/2024 - 14:31:07"
+        },
+        {
+            "song_name": "LOT OF ME",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca 2",
+            "played_at": "08/07/2024 - 14:27:27"
+        },
+        {
+            "song_name": "hakuna matata",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "08/07/2024 - 14:25:23"
+        },
+        {
+            "song_name": "Mmhmm",
+            "artists": [
+                "BigXthaPlug"
+            ],
+            "album": "THE BIGGEST",
+            "played_at": "08/07/2024 - 14:19:58"
+        },
+        {
+            "song_name": "Deep Down (feat. Never Dull)",
+            "artists": [
+                "Alok",
+                "Ella Eyre",
+                "Kenny Dope",
+                "Never Dull"
+            ],
+            "album": "Deep Down (feat. Never Dull)",
+            "played_at": "08/07/2024 - 14:17:59"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "08/07/2024 - 14:15:13"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "08/07/2024 - 14:11:38"
+        },
+        {
+            "song_name": "Fall Back",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Fall Back / Selfish Game",
+            "played_at": "08/07/2024 - 14:06:29"
+        },
+        {
+            "song_name": "SAY MY GRACE (feat. Travis Scott)",
+            "artists": [
+                "Offset",
+                "Travis Scott"
+            ],
+            "album": "SET IT OFF",
+            "played_at": "08/07/2024 - 14:04:19"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "08/07/2024 - 14:01:26"
+        },
+        {
+            "song_name": "Push Ups",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Push Ups",
+            "played_at": "08/07/2024 - 13:57:24"
+        },
+        {
+            "song_name": "PUFFIN ON ZOOTIEZ",
+            "artists": [
+                "Future"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "08/07/2024 - 13:53:31"
+        },
+        {
+            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "James Blake",
+                "A$AP Rocky",
+                "21 Savage"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "08/07/2024 - 13:50:38"
+        },
+        {
+            "song_name": "Lemonade (feat. NAV)",
+            "artists": [
+                "Internet Money",
+                "Gunna",
+                "Don Toliver",
+                "NAV"
+            ],
+            "album": "B4 The Storm",
+            "played_at": "08/07/2024 - 13:47:08"
+        },
+        {
+            "song_name": "MILLION DOLLAR BABY",
+            "artists": [
+                "Tommy Richman"
+            ],
+            "album": "MILLION DOLLAR BABY",
+            "played_at": "08/07/2024 - 13:42:31"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "08/07/2024 - 13:39:56"
+        },
+        {
+            "song_name": "Jorja Interlude",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "08/07/2024 - 13:36:59"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "08/07/2024 - 13:35:12"
+        },
+        {
+            "song_name": "on one tonight",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "08/07/2024 - 13:30:44"
+        },
+        {
+            "song_name": "Dang! (feat. Anderson .Paak)",
+            "artists": [
+                "Mac Miller",
+                "Anderson .Paak"
+            ],
+            "album": "The Divine Feminine",
+            "played_at": "08/07/2024 - 13:29:13"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "08/07/2024 - 13:22:30"
+        },
+        {
+            "song_name": "Raindrops (Insane) [with Travis Scott]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "08/07/2024 - 13:20:21"
+        },
+        {
+            "song_name": "Major Distribution",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "08/07/2024 - 13:17:12"
         },
         {
             "song_name": "Thank You (Not So Bad)",
