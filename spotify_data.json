@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Lie To Me",
+            "artists": [
+                "Thom Merlin",
+                "Foínix",
+                "Brandon Chase"
+            ],
+            "album": "Lie To Me",
+            "played_at": "12/07/2024 - 11:33:28"
+        },
+        {
             "song_name": "In Too Deep",
             "artists": [
                 "WEEKLESS",
@@ -432,15 +442,6 @@
             ],
             "album": "Away",
             "played_at": "11/07/2024 - 12:03:35"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "11/07/2024 - 12:02:51"
         },
         {
             "song_name": "Lie To Me",
