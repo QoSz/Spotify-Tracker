@@ -2,433 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Staring At The Sun",
-            "artists": [
-                "the Giver",
-                "LissA"
-            ],
-            "album": "Staring At The Sun",
-            "played_at": "14/07/2024 - 19:02:43"
-        },
-        {
-            "song_name": "Do Not Disturb",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "14/07/2024 - 19:00:14"
-        },
-        {
-            "song_name": "Circles",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "14/07/2024 - 18:55:30"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "14/07/2024 - 18:51:55"
-        },
-        {
-            "song_name": "I Think I Left the Stove On",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "I Think I Left the Stove On",
-            "played_at": "14/07/2024 - 18:49:02"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "Giveon"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "14/07/2024 - 18:45:40"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "14/07/2024 - 18:41:59"
-        },
-        {
-            "song_name": "Fuck Love",
-            "artists": [
-                "XXXTENTACION",
-                "Trippie Redd"
-            ],
-            "album": "17",
-            "played_at": "14/07/2024 - 18:39:15"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "14/07/2024 - 18:36:48"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "14/07/2024 - 18:33:55"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "14/07/2024 - 18:31:15"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "14/07/2024 - 18:26:02"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "14/07/2024 - 18:22:41"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "14/07/2024 - 18:20:22"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "14/07/2024 - 18:16:50"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "14/07/2024 - 18:14:11"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "14/07/2024 - 14:48:10"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "Kenn Colt",
-                "Adam Pickard"
-            ],
-            "album": "BALANCE",
-            "played_at": "14/07/2024 - 14:10:06"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "14/07/2024 - 14:06:43"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "14/07/2024 - 14:03:10"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "14/07/2024 - 14:01:01"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "Giveon"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "14/07/2024 - 13:58:07"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "14/07/2024 - 13:54:27"
-        },
-        {
-            "song_name": "Thinking Of You",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Thinking Of You",
-            "played_at": "14/07/2024 - 13:51:45"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "14/07/2024 - 13:49:12"
-        },
-        {
-            "song_name": "Casablanca",
-            "artists": [
-                "Junerule",
-                "Brendan Mills",
-                "Julia Shuren"
-            ],
-            "album": "Casablanca",
-            "played_at": "14/07/2024 - 13:46:42"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "14/07/2024 - 13:43:17"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "13/07/2024 - 14:39:57"
-        },
-        {
-            "song_name": "Did It First (with Central Cee)",
-            "artists": [
-                "Ice Spice",
-                "Central Cee"
-            ],
-            "album": "Did It First (with Central Cee)",
-            "played_at": "13/07/2024 - 14:39:11"
-        },
-        {
-            "song_name": "cross my heart",
-            "artists": [
-                "Artemas"
-            ],
-            "album": "pretty",
-            "played_at": "13/07/2024 - 14:37:15"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "13/07/2024 - 14:09:46"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "13/07/2024 - 14:07:04"
-        },
-        {
-            "song_name": "I Got U",
-            "artists": [
-                "Duke Dumont",
-                "Jax Jones"
-            ],
-            "album": "I Got U",
-            "played_at": "13/07/2024 - 14:03:45"
-        },
-        {
-            "song_name": "Fuck Love",
-            "artists": [
-                "XXXTENTACION",
-                "Trippie Redd"
-            ],
-            "album": "17",
-            "played_at": "13/07/2024 - 13:58:59"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "José Lucas"
-            ],
-            "album": "Paradise",
-            "played_at": "13/07/2024 - 13:56:33"
-        },
-        {
-            "song_name": "Thinking Of You",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Thinking Of You",
-            "played_at": "13/07/2024 - 13:53:17"
-        },
-        {
-            "song_name": "Honey",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Changes",
-            "played_at": "13/07/2024 - 13:50:45"
-        },
-        {
-            "song_name": "Phone Numbers",
-            "artists": [
-                "Dominic Fike",
-                "Kenny Beats"
-            ],
-            "album": "Phone Numbers",
-            "played_at": "13/07/2024 - 13:48:25"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "13/07/2024 - 13:45:58"
-        },
-        {
-            "song_name": "Relax",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Vibes",
-            "played_at": "13/07/2024 - 13:43:33"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "13/07/2024 - 13:40:55"
-        },
-        {
-            "song_name": "Over You",
-            "artists": [
-                "Madism",
-                "Philip Strand"
-            ],
-            "album": "Over You",
-            "played_at": "13/07/2024 - 13:38:11"
-        },
-        {
-            "song_name": "I Think I Left the Stove On",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "I Think I Left the Stove On",
-            "played_at": "13/07/2024 - 13:35:49"
-        },
-        {
-            "song_name": "I Can't Stop",
-            "artists": [
-                "Daniel Glaven",
-                "Will Church"
-            ],
-            "album": "I Can't Stop",
-            "played_at": "13/07/2024 - 13:32:26"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Kaan Pars",
-                "Kuzi Cee"
-            ],
-            "album": "Over & Over",
-            "played_at": "13/07/2024 - 13:30:14"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "13/07/2024 - 13:27:26"
-        },
-        {
-            "song_name": "Coming With You",
-            "artists": [
-                "Horizon Blue",
-                "Felix Samuel"
-            ],
-            "album": "Coming With You",
-            "played_at": "13/07/2024 - 13:23:40"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "13/07/2024 - 13:21:21"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "13/07/2024 - 13:18:36"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "13/07/2024 - 13:16:18"
-        },
-        {
             "song_name": "Bleeding Out",
             "artists": [
                 "Chance Peña"
@@ -1736,6 +1309,451 @@
             ],
             "album": "Coal",
             "played_at": "18/07/2024 - 12:19:32"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "18/07/2024 - 15:36:45"
+        },
+        {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "18/07/2024 - 15:27:22"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "18/07/2024 - 15:24:38"
+        },
+        {
+            "song_name": "...What About Now?",
+            "artists": [
+                "Lone Tusker",
+                "Alberto Ciccarini",
+                "Poul",
+                "Josh Reflex"
+            ],
+            "album": "...What About Now?",
+            "played_at": "18/07/2024 - 15:22:26"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "18/07/2024 - 15:19:29"
+        },
+        {
+            "song_name": "Dream",
+            "artists": [
+                "Benedict Ammann"
+            ],
+            "album": "Dream",
+            "played_at": "18/07/2024 - 15:16:10"
+        },
+        {
+            "song_name": "California Nights",
+            "artists": [
+                "Lapsi",
+                "Sansa"
+            ],
+            "album": "California Nights",
+            "played_at": "18/07/2024 - 15:13:09"
+        },
+        {
+            "song_name": "You'll Be Fine",
+            "artists": [
+                "AUGUSTKID",
+                "Lively",
+                "ELSKA"
+            ],
+            "album": "You’ll Be Fine",
+            "played_at": "18/07/2024 - 15:10:44"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "18/07/2024 - 15:08:32"
+        },
+        {
+            "song_name": "West Side",
+            "artists": [
+                "Kaan Pars",
+                "Donner"
+            ],
+            "album": "West Side",
+            "played_at": "18/07/2024 - 15:03:28"
+        },
+        {
+            "song_name": "Moment",
+            "artists": [
+                "le moon",
+                "Tenjo",
+                "Jakob Dreams"
+            ],
+            "album": "Moment",
+            "played_at": "18/07/2024 - 15:00:51"
+        },
+        {
+            "song_name": "Hold This Memory",
+            "artists": [
+                "Deepend",
+                "Madism"
+            ],
+            "album": "Hold This Memory",
+            "played_at": "18/07/2024 - 14:58:14"
+        },
+        {
+            "song_name": "Dollar Dream [Lucas Estrada Edit]",
+            "artists": [
+                "Lucas Estrada",
+                "Couché",
+                "Polar Notes",
+                "Mentum"
+            ],
+            "album": "Dollar Dream [Lucas Estrada Edit]",
+            "played_at": "18/07/2024 - 14:55:33"
+        },
+        {
+            "song_name": "Holiday",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Tess Burrstone"
+            ],
+            "album": "Holiday",
+            "played_at": "18/07/2024 - 14:52:54"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Kaan Pars",
+                "Kuzi Cee"
+            ],
+            "album": "Over & Over",
+            "played_at": "18/07/2024 - 14:50:03"
+        },
+        {
+            "song_name": "Existe El Amor",
+            "artists": [
+                "Noile",
+                "Ladina Viva"
+            ],
+            "album": "Existe El Amor",
+            "played_at": "18/07/2024 - 14:47:14"
+        },
+        {
+            "song_name": "City of Love",
+            "artists": [
+                "Lonely in the Rain",
+                "Nounours"
+            ],
+            "album": "City of Love",
+            "played_at": "18/07/2024 - 14:45:08"
+        },
+        {
+            "song_name": "Leave a Smile",
+            "artists": [
+                "Twan Ray",
+                "Moonshine",
+                "Solar State"
+            ],
+            "album": "Leave a Smile",
+            "played_at": "18/07/2024 - 14:42:09"
+        },
+        {
+            "song_name": "One Headlight",
+            "artists": [
+                "Nate VanDeusen",
+                "Bayshore Court"
+            ],
+            "album": "One Headlight",
+            "played_at": "18/07/2024 - 14:39:41"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "18/07/2024 - 14:37:12"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "18/07/2024 - 14:34:13"
+        },
+        {
+            "song_name": "Nothing Better",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Nothing Better",
+            "played_at": "18/07/2024 - 14:31:01"
+        },
+        {
+            "song_name": "Get To Me",
+            "artists": [
+                "Lonely Night",
+                "Ellou",
+                "Nody"
+            ],
+            "album": "Get To Me",
+            "played_at": "18/07/2024 - 14:28:11"
+        },
+        {
+            "song_name": "...What About Now?",
+            "artists": [
+                "Lone Tusker",
+                "Alberto Ciccarini",
+                "Poul",
+                "Josh Reflex"
+            ],
+            "album": "...What About Now?",
+            "played_at": "18/07/2024 - 14:25:22"
+        },
+        {
+            "song_name": "Believe",
+            "artists": [
+                "NORRA",
+                "lostinspace"
+            ],
+            "album": "Believe",
+            "played_at": "18/07/2024 - 14:22:25"
+        },
+        {
+            "song_name": "Angels",
+            "artists": [
+                "Eneko Artola",
+                "Luca",
+                "Nina Carr"
+            ],
+            "album": "Angels",
+            "played_at": "18/07/2024 - 14:20:11"
+        },
+        {
+            "song_name": "Like a Slave",
+            "artists": [
+                "Tep No"
+            ],
+            "album": "Like a Slave",
+            "played_at": "18/07/2024 - 14:17:32"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "18/07/2024 - 14:14:37"
+        },
+        {
+            "song_name": "What I'm Looking For",
+            "artists": [
+                "seatime",
+                "Hanniou"
+            ],
+            "album": "What I'm Looking For",
+            "played_at": "18/07/2024 - 14:09:51"
+        },
+        {
+            "song_name": "Karma",
+            "artists": [
+                "Nora Van Elken"
+            ],
+            "album": "Karma",
+            "played_at": "18/07/2024 - 14:07:46"
+        },
+        {
+            "song_name": "Cruel Summer (Marcus Layton Edit)",
+            "artists": [
+                "LAUWE",
+                "Marcus Layton"
+            ],
+            "album": "Cruel Summer (Marcus Layton Edit)",
+            "played_at": "18/07/2024 - 14:04:42"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "18/07/2024 - 14:02:17"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "Hokima",
+                "Shoby"
+            ],
+            "album": "Run",
+            "played_at": "18/07/2024 - 13:59:31"
+        },
+        {
+            "song_name": "Money",
+            "artists": [
+                "Jones Meadow",
+                "Nina Carr"
+            ],
+            "album": "Money",
+            "played_at": "18/07/2024 - 13:56:51"
+        },
+        {
+            "song_name": "You Got The Love",
+            "artists": [
+                "Deep Chills",
+                "Coral Reef",
+                "Bikini Bandits"
+            ],
+            "album": "You Got The Love",
+            "played_at": "18/07/2024 - 13:53:52"
+        },
+        {
+            "song_name": "Redemption",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Redemption",
+            "played_at": "18/07/2024 - 13:50:12"
+        },
+        {
+            "song_name": "My California Dream",
+            "artists": [
+                "Richill",
+                "Ladina Viva"
+            ],
+            "album": "My California Dream",
+            "played_at": "18/07/2024 - 13:46:54"
+        },
+        {
+            "song_name": "One Call Away",
+            "artists": [
+                "Kid On The Block",
+                "Namté"
+            ],
+            "album": "One Call Away",
+            "played_at": "18/07/2024 - 13:44:19"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "18/07/2024 - 13:41:55"
+        },
+        {
+            "song_name": "Keep The Wolves Away",
+            "artists": [
+                "Uncle Lucius"
+            ],
+            "album": "And You Are Me",
+            "played_at": "18/07/2024 - 13:38:29"
+        },
+        {
+            "song_name": "Broken Window Serenade",
+            "artists": [
+                "Whiskey Myers"
+            ],
+            "album": "Firewater",
+            "played_at": "18/07/2024 - 13:33:53"
+        },
+        {
+            "song_name": "Dancing in the Sky",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "18/07/2024 - 13:28:07"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "18/07/2024 - 13:24:59"
+        },
+        {
+            "song_name": "Good To Be",
+            "artists": [
+                "Mark Ambor"
+            ],
+            "album": "Good To Be",
+            "played_at": "18/07/2024 - 13:21:25"
+        },
+        {
+            "song_name": "Rich Men North of Richmond",
+            "artists": [
+                "Oliver Anthony Music"
+            ],
+            "album": "Rich Men North of Richmond",
+            "played_at": "18/07/2024 - 13:18:58"
+        },
+        {
+            "song_name": "Lady May",
+            "artists": [
+                "Tyler Childers"
+            ],
+            "album": "Purgatory",
+            "played_at": "18/07/2024 - 13:15:50"
+        },
+        {
+            "song_name": "Dawns (feat. Maggie Rogers)",
+            "artists": [
+                "Zach Bryan",
+                "Maggie Rogers"
+            ],
+            "album": "Dawns (feat. Maggie Rogers)",
+            "played_at": "18/07/2024 - 13:12:46"
+        },
+        {
+            "song_name": "Dawns (feat. Maggie Rogers)",
+            "artists": [
+                "Zach Bryan",
+                "Maggie Rogers"
+            ],
+            "album": "Dawns (feat. Maggie Rogers)",
+            "played_at": "18/07/2024 - 12:41:11"
+        },
+        {
+            "song_name": "All My Love",
+            "artists": [
+                "Noah Kahan"
+            ],
+            "album": "Stick Season",
+            "played_at": "18/07/2024 - 12:29:50"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "18/07/2024 - 12:25:38"
         }
     ]
 }
