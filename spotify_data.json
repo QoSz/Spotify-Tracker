@@ -2,437 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "19/07/2024 - 18:19:23"
-        },
-        {
-            "song_name": "With You",
-            "artists": [
-                "Junerule",
-                "Daïtshi",
-                "Yvette Adams"
-            ],
-            "album": "With You",
-            "played_at": "19/07/2024 - 16:51:51"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "19/07/2024 - 16:40:49"
-        },
-        {
-            "song_name": "Take You Back",
-            "artists": [
-                "Theodor Rosenberg",
-                "Vowed"
-            ],
-            "album": "Take You Back",
-            "played_at": "19/07/2024 - 16:37:43"
-        },
-        {
-            "song_name": "I Won't Lie",
-            "artists": [
-                "Matvey Emerson",
-                "Kiismin",
-                "Britt Lari"
-            ],
-            "album": "I Won't Lie",
-            "played_at": "19/07/2024 - 16:35:32"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "19/07/2024 - 16:32:44"
-        },
-        {
-            "song_name": "Magnificent",
-            "artists": [
-                "Daniel Glaven",
-                "WLZN"
-            ],
-            "album": "Magnificent",
-            "played_at": "19/07/2024 - 16:30:10"
-        },
-        {
-            "song_name": "Cruel Summer (Marcus Layton Edit)",
-            "artists": [
-                "LAUWE",
-                "Marcus Layton"
-            ],
-            "album": "Cruel Summer (Marcus Layton Edit)",
-            "played_at": "19/07/2024 - 16:27:49"
-        },
-        {
-            "song_name": "Across The Ocean",
-            "artists": [
-                "Horizon Blue",
-                "Michael Hausted",
-                "Nate VanDeusen"
-            ],
-            "album": "Across The Ocean",
-            "played_at": "19/07/2024 - 16:25:24"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "19/07/2024 - 16:22:58"
-        },
-        {
-            "song_name": "Alright",
-            "artists": [
-                "Junerule",
-                "Weisser Quiff"
-            ],
-            "album": "Alright",
-            "played_at": "19/07/2024 - 16:19:46"
-        },
-        {
-            "song_name": "Frozen Tide",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Frozen Tide",
-            "played_at": "19/07/2024 - 16:17:16"
-        },
-        {
-            "song_name": "Is there free breakfast here?",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "19/07/2024 - 16:14:46"
-        },
-        {
-            "song_name": "Money",
-            "artists": [
-                "Jones Meadow",
-                "Nina Carr"
-            ],
-            "album": "Money",
-            "played_at": "19/07/2024 - 16:12:37"
-        },
-        {
-            "song_name": "Never Let You Go",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Never Let You Go",
-            "played_at": "19/07/2024 - 16:09:38"
-        },
-        {
-            "song_name": "Probably Paradise",
-            "artists": [
-                "Luvine",
-                "Lisa Rowe"
-            ],
-            "album": "Probably Paradise",
-            "played_at": "19/07/2024 - 16:07:15"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "19/07/2024 - 16:05:11"
-        },
-        {
-            "song_name": "Where I Belong",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Where I Belong",
-            "played_at": "19/07/2024 - 16:02:34"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "19/07/2024 - 15:59:56"
-        },
-        {
-            "song_name": "Back to Summer",
-            "artists": [
-                "Batu Onat"
-            ],
-            "album": "Back to Summer",
-            "played_at": "19/07/2024 - 15:57:11"
-        },
-        {
-            "song_name": "Flight's Booked",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "19/07/2024 - 15:54:19"
-        },
-        {
-            "song_name": "Smile",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Smile",
-            "played_at": "19/07/2024 - 15:47:46"
-        },
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "NSH",
-                "Kidd Thorn"
-            ],
-            "album": "Weightless",
-            "played_at": "19/07/2024 - 15:45:02"
-        },
-        {
-            "song_name": "Lost Without Your Love",
-            "artists": [
-                "DT James",
-                "Kimbo"
-            ],
-            "album": "Lost Without Your Love",
-            "played_at": "19/07/2024 - 15:42:35"
-        },
-        {
-            "song_name": "Walking On a Dream",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Walking On a Dream",
-            "played_at": "19/07/2024 - 15:40:13"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "19/07/2024 - 15:37:23"
-        },
-        {
-            "song_name": "All In Paradise",
-            "artists": [
-                "Avi Snow",
-                "LVAN",
-                "BIMINI"
-            ],
-            "album": "All In Paradise",
-            "played_at": "19/07/2024 - 15:34:40"
-        },
-        {
-            "song_name": "If Only You Could Be Inside My Mind",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "If Only You Could Be Inside My Mind",
-            "played_at": "19/07/2024 - 15:32:04"
-        },
-        {
-            "song_name": "Break My Heart",
-            "artists": [
-                "NSH",
-                "Daniella Binyamin"
-            ],
-            "album": "Break My Heart",
-            "played_at": "19/07/2024 - 15:29:34"
-        },
-        {
-            "song_name": "In Love",
-            "artists": [
-                "Namic"
-            ],
-            "album": "In Love",
-            "played_at": "19/07/2024 - 15:27:06"
-        },
-        {
-            "song_name": "Hope",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Hope",
-            "played_at": "19/07/2024 - 15:24:15"
-        },
-        {
-            "song_name": "Moment",
-            "artists": [
-                "le moon",
-                "Tenjo",
-                "Jakob Dreams"
-            ],
-            "album": "Moment",
-            "played_at": "19/07/2024 - 15:22:13"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "19/07/2024 - 15:19:36"
-        },
-        {
-            "song_name": "Someone You Loved",
-            "artists": [
-                "Viva La Panda",
-                "Justin Rhodes"
-            ],
-            "album": "Someone You Loved",
-            "played_at": "19/07/2024 - 15:16:20"
-        },
-        {
-            "song_name": "Blue Heart",
-            "artists": [
-                "NSH",
-                "Nina Carr"
-            ],
-            "album": "Blue Heart",
-            "played_at": "19/07/2024 - 15:13:45"
-        },
-        {
-            "song_name": "beautiful mind",
-            "artists": [
-                "rayn",
-                "Kusko",
-                "River Atley"
-            ],
-            "album": "beautiful mind",
-            "played_at": "19/07/2024 - 15:11:36"
-        },
-        {
-            "song_name": "Promised Land",
-            "artists": [
-                "Saco",
-                "Sparkle"
-            ],
-            "album": "Promised Land",
-            "played_at": "19/07/2024 - 15:09:30"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Donner"
-            ],
-            "album": "Love Me",
-            "played_at": "19/07/2024 - 15:06:41"
-        },
-        {
-            "song_name": "Soweto",
-            "artists": [
-                "Victony",
-                "Tempoe"
-            ],
-            "album": "Soweto",
-            "played_at": "19/07/2024 - 15:04:26"
-        },
-        {
-            "song_name": "Won't Let Go",
-            "artists": [
-                "leisse",
-                "johnny joined"
-            ],
-            "album": "Won't Let Go",
-            "played_at": "19/07/2024 - 15:01:57"
-        },
-        {
-            "song_name": "Faded Rose",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Faded Rose",
-            "played_at": "19/07/2024 - 14:59:40"
-        },
-        {
-            "song_name": "misses",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "14 minutes",
-            "played_at": "19/07/2024 - 14:57:02"
-        },
-        {
-            "song_name": "Kiss Me",
-            "artists": [
-                "Lenji"
-            ],
-            "album": "Kiss Me",
-            "played_at": "19/07/2024 - 14:55:47"
-        },
-        {
-            "song_name": "Lost In The Sky",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Lost In The Sky",
-            "played_at": "19/07/2024 - 14:53:19"
-        },
-        {
-            "song_name": "Follow the Sun",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Follow the Sun",
-            "played_at": "19/07/2024 - 14:50:38"
-        },
-        {
-            "song_name": "Lucky Star",
-            "artists": [
-                "Sol Novaro",
-                "ROBINS"
-            ],
-            "album": "Lucky Star",
-            "played_at": "19/07/2024 - 14:48:02"
-        },
-        {
-            "song_name": "Pineapple Fields",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Pineapple Fields",
-            "played_at": "19/07/2024 - 14:44:49"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "19/07/2024 - 14:42:34"
-        },
-        {
-            "song_name": "Valerie",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Valerie",
-            "played_at": "19/07/2024 - 14:39:53"
-        },
-        {
-            "song_name": "high love",
-            "artists": [
-                "rayn",
-                "cloudseven",
-                "MELINA"
-            ],
-            "album": "high love",
-            "played_at": "19/07/2024 - 14:37:53"
-        },
-        {
             "song_name": "Next Exit",
             "artists": [
                 "Vacations"
@@ -863,6 +432,444 @@
             ],
             "album": "beautiful mind",
             "played_at": "19/07/2024 - 15:11:36"
+        },
+        {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Blue",
+            "played_at": "19/07/2024 - 19:57:46"
+        },
+        {
+            "song_name": "Chucks",
+            "artists": [
+                "Mi Casa",
+                "YouNotUs"
+            ],
+            "album": "Chucks",
+            "played_at": "19/07/2024 - 19:54:20"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Less Is More",
+            "played_at": "19/07/2024 - 19:51:36"
+        },
+        {
+            "song_name": "Hall of Fame (feat. will.i.am)",
+            "artists": [
+                "The Script",
+                "will.i.am"
+            ],
+            "album": "#3 Deluxe Version",
+            "played_at": "19/07/2024 - 19:49:24"
+        },
+        {
+            "song_name": "Used To This",
+            "artists": [
+                "Wilkinson",
+                "Issey Cross"
+            ],
+            "album": "Cognition",
+            "played_at": "19/07/2024 - 19:45:37"
+        },
+        {
+            "song_name": "Is This Love - Remix",
+            "artists": [
+                "Bob Marley & The Wailers",
+                "LVNDSCAPE",
+                "Bolier"
+            ],
+            "album": "Is This Love (Remix)",
+            "played_at": "19/07/2024 - 19:41:57"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "19/07/2024 - 19:32:36"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "19/07/2024 - 19:29:44"
+        },
+        {
+            "song_name": "One Dance",
+            "artists": [
+                "Drake",
+                "Wizkid",
+                "Kyla"
+            ],
+            "album": "Views",
+            "played_at": "19/07/2024 - 19:24:37"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "19/07/2024 - 19:21:49"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "19/07/2024 - 19:18:35"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "19/07/2024 - 19:13:56"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "19/07/2024 - 19:10:26"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "19/07/2024 - 19:08:12"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Kenn Colt",
+                "Adam Pickard"
+            ],
+            "album": "BALANCE",
+            "played_at": "19/07/2024 - 19:06:06"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "19/07/2024 - 19:02:49"
+        },
+        {
+            "song_name": "Thinking Of You",
+            "artists": [
+                "Pierse"
+            ],
+            "album": "Thinking Of You",
+            "played_at": "19/07/2024 - 19:00:02"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "19/07/2024 - 18:57:36"
+        },
+        {
+            "song_name": "60s Ghost",
+            "artists": [
+                "Jane Good",
+                "Adam Wendler"
+            ],
+            "album": "60s Ghost",
+            "played_at": "19/07/2024 - 18:54:21"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "19/07/2024 - 18:51:52"
+        },
+        {
+            "song_name": "Stole the Show",
+            "artists": [
+                "Kygo",
+                "Parson James"
+            ],
+            "album": "Cloud Nine",
+            "played_at": "19/07/2024 - 18:48:48"
+        },
+        {
+            "song_name": "Safe Place",
+            "artists": [
+                "Weisser Quiff",
+                "Moise"
+            ],
+            "album": "Safe Place",
+            "played_at": "19/07/2024 - 18:45:11"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "Hokima",
+                "Shoby"
+            ],
+            "album": "Run",
+            "played_at": "19/07/2024 - 18:43:05"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "19/07/2024 - 18:40:32"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "José Lucas"
+            ],
+            "album": "Paradise",
+            "played_at": "19/07/2024 - 18:39:00"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "19/07/2024 - 18:35:50"
+        },
+        {
+            "song_name": "Miss You - Bonus Track",
+            "artists": [
+                "Oliver Tree",
+                "Robin Schulz"
+            ],
+            "album": "Alone In A Crowd",
+            "played_at": "19/07/2024 - 18:33:14"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "19/07/2024 - 18:29:54"
+        },
+        {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "19/07/2024 - 18:27:06"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "19/07/2024 - 18:24:46"
+        },
+        {
+            "song_name": "Love Me Now (feat. Zoe Wees)",
+            "artists": [
+                "Kygo",
+                "Zoe Wees"
+            ],
+            "album": "Thrill Of The Chase",
+            "played_at": "19/07/2024 - 18:22:33"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "19/07/2024 - 18:19:23"
+        },
+        {
+            "song_name": "With You",
+            "artists": [
+                "Junerule",
+                "Daïtshi",
+                "Yvette Adams"
+            ],
+            "album": "With You",
+            "played_at": "19/07/2024 - 16:51:51"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "19/07/2024 - 16:40:49"
+        },
+        {
+            "song_name": "Take You Back",
+            "artists": [
+                "Theodor Rosenberg",
+                "Vowed"
+            ],
+            "album": "Take You Back",
+            "played_at": "19/07/2024 - 16:37:43"
+        },
+        {
+            "song_name": "I Won't Lie",
+            "artists": [
+                "Matvey Emerson",
+                "Kiismin",
+                "Britt Lari"
+            ],
+            "album": "I Won't Lie",
+            "played_at": "19/07/2024 - 16:35:32"
+        },
+        {
+            "song_name": "Cool Kids",
+            "artists": [
+                "Toby Rose",
+                "TWOPILOTS"
+            ],
+            "album": "Cool Kids",
+            "played_at": "19/07/2024 - 16:32:44"
+        },
+        {
+            "song_name": "Magnificent",
+            "artists": [
+                "Daniel Glaven",
+                "WLZN"
+            ],
+            "album": "Magnificent",
+            "played_at": "19/07/2024 - 16:30:10"
+        },
+        {
+            "song_name": "Cruel Summer (Marcus Layton Edit)",
+            "artists": [
+                "LAUWE",
+                "Marcus Layton"
+            ],
+            "album": "Cruel Summer (Marcus Layton Edit)",
+            "played_at": "19/07/2024 - 16:27:49"
+        },
+        {
+            "song_name": "Across The Ocean",
+            "artists": [
+                "Horizon Blue",
+                "Michael Hausted",
+                "Nate VanDeusen"
+            ],
+            "album": "Across The Ocean",
+            "played_at": "19/07/2024 - 16:25:24"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "19/07/2024 - 16:22:58"
+        },
+        {
+            "song_name": "Alright",
+            "artists": [
+                "Junerule",
+                "Weisser Quiff"
+            ],
+            "album": "Alright",
+            "played_at": "19/07/2024 - 16:19:46"
+        },
+        {
+            "song_name": "Frozen Tide",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Frozen Tide",
+            "played_at": "19/07/2024 - 16:17:16"
+        },
+        {
+            "song_name": "Is there free breakfast here?",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "19/07/2024 - 16:14:46"
+        },
+        {
+            "song_name": "Money",
+            "artists": [
+                "Jones Meadow",
+                "Nina Carr"
+            ],
+            "album": "Money",
+            "played_at": "19/07/2024 - 16:12:37"
+        },
+        {
+            "song_name": "Never Let You Go",
+            "artists": [
+                "Pierse"
+            ],
+            "album": "Never Let You Go",
+            "played_at": "19/07/2024 - 16:09:38"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "19/07/2024 - 16:07:15"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "19/07/2024 - 16:05:11"
+        },
+        {
+            "song_name": "Where I Belong",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Where I Belong",
+            "played_at": "19/07/2024 - 16:02:34"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "19/07/2024 - 15:59:56"
         },
         {
             "song_name": "Fast Car",
