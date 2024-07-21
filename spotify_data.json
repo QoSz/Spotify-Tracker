@@ -878,6 +878,15 @@
             "played_at": "19/07/2024 - 18:29:54"
         },
         {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "20/07/2024 - 14:23:21"
+        },
+        {
             "song_name": "Another Love",
             "artists": [
                 "Rolipso",
@@ -1306,14 +1315,6 @@
             ],
             "album": "Alone In A Crowd",
             "played_at": "19/07/2024 - 18:33:14"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "19/07/2024 - 18:29:54"
         },
         {
             "song_name": "Emorio",
