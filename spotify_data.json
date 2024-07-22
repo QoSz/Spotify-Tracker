@@ -2,329 +2,143 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Stumblin' In",
+            "song_name": "The Dream",
             "artists": [
-                "CYRIL"
+                "Harry Cho"
             ],
-            "album": "Stumblin' In",
-            "played_at": "22/07/2024 - 09:44:45"
+            "album": "The Dream",
+            "played_at": "22/07/2024 - 16:38:36"
         },
         {
-            "song_name": "Black Friday (pretty like the sun)",
+            "song_name": "Kiss Me",
             "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
+                "sunsets & sandals"
             ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "22/07/2024 - 09:43:56"
+            "album": "Kiss Me",
+            "played_at": "22/07/2024 - 16:36:17"
         },
         {
-            "song_name": "Emorio",
+            "song_name": "House Of Cards",
             "artists": [
-                "Trinix",
-                "Fafá de Belém"
+                "Lucas Estrada",
+                "Deepend",
+                "Dan Caplen"
             ],
-            "album": "Emorio",
-            "played_at": "20/07/2024 - 14:23:21"
+            "album": "House Of Cards",
+            "played_at": "22/07/2024 - 16:33:40"
         },
         {
-            "song_name": "Another Love",
+            "song_name": "In Your Arms",
             "artists": [
-                "Rolipso",
-                "Foínix",
-                "Jordan Grace"
+                "Fini",
+                "David Emde"
             ],
-            "album": "Another Love",
-            "played_at": "20/07/2024 - 14:10:40"
+            "album": "In Your Arms",
+            "played_at": "22/07/2024 - 16:31:15"
         },
         {
-            "song_name": "I'll Be Alright",
+            "song_name": "City of Love",
             "artists": [
-                "Magnus Gunn"
+                "Lonely in the Rain",
+                "Nounours"
             ],
-            "album": "I'll Be Alright",
-            "played_at": "20/07/2024 - 14:08:41"
+            "album": "City of Love",
+            "played_at": "22/07/2024 - 16:28:58"
         },
         {
-            "song_name": "Catch Another Tide",
+            "song_name": "One More Summer Night",
             "artists": [
-                "Thierry Von Der Warth",
-                "NSH"
+                "Chemical Neon",
+                "Jordan Grace",
+                "Eva Vinjor"
             ],
-            "album": "Catch Another Tide",
-            "played_at": "20/07/2024 - 14:05:46"
+            "album": "One More Summer Night",
+            "played_at": "22/07/2024 - 16:26:13"
         },
         {
-            "song_name": "Fallin' In Love",
+            "song_name": "Sugar Kiss",
             "artists": [
-                "Ruxolf",
-                "Marphil"
+                "Life's A Beach",
+                "Tobÿ",
+                "Whilst"
             ],
-            "album": "Fallin' In Love",
-            "played_at": "20/07/2024 - 14:03:05"
+            "album": "Sugar Kiss",
+            "played_at": "22/07/2024 - 16:23:39"
         },
         {
-            "song_name": "Casablanca",
+            "song_name": "Never Need",
             "artists": [
-                "Junerule",
+                "Hogland",
+                "Charlie South"
+            ],
+            "album": "Never Need",
+            "played_at": "22/07/2024 - 16:21:49"
+        },
+        {
+            "song_name": "Karma",
+            "artists": [
+                "Nora Van Elken"
+            ],
+            "album": "Karma",
+            "played_at": "22/07/2024 - 16:18:39"
+        },
+        {
+            "song_name": "Like Paradise",
+            "artists": [
+                "Steve Kroeger",
+                "Skye Holland"
+            ],
+            "album": "Like Paradise",
+            "played_at": "22/07/2024 - 16:15:55"
+        },
+        {
+            "song_name": "Safe Place",
+            "artists": [
+                "Weisser Quiff",
+                "Moise"
+            ],
+            "album": "Safe Place",
+            "played_at": "22/07/2024 - 16:12:52"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "22/07/2024 - 15:50:23"
+        },
+        {
+            "song_name": "high love",
+            "artists": [
+                "rayn",
+                "cloudseven",
+                "MELINA"
+            ],
+            "album": "high love",
+            "played_at": "22/07/2024 - 15:40:12"
+        },
+        {
+            "song_name": "No Matter Where",
+            "artists": [
+                "Michael FAY",
                 "Brendan Mills",
-                "Julia Shuren"
+                "Britt Lari"
             ],
-            "album": "Casablanca",
-            "played_at": "20/07/2024 - 14:00:50"
+            "album": "No Matter Where",
+            "played_at": "22/07/2024 - 15:34:24"
         },
         {
-            "song_name": "Like a Slave",
+            "song_name": "Floating On Forever",
             "artists": [
-                "Tep No"
+                "Laurentius",
+                "AUGUSTKID",
+                "Jeffrey James"
             ],
-            "album": "Like a Slave",
-            "played_at": "20/07/2024 - 13:57:31"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "20/07/2024 - 13:53:03"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "20/07/2024 - 13:50:25"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "20/07/2024 - 13:46:59"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "20/07/2024 - 13:43:56"
-        },
-        {
-            "song_name": "U Do",
-            "artists": [
-                "Nimus",
-                "Sages"
-            ],
-            "album": "U Do",
-            "played_at": "20/07/2024 - 13:41:17"
-        },
-        {
-            "song_name": "I Miss You",
-            "artists": [
-                "BOILERS",
-                "CALVIN"
-            ],
-            "album": "I Miss You",
-            "played_at": "20/07/2024 - 13:39:03"
-        },
-        {
-            "song_name": "Half of forever",
-            "artists": [
-                "Henrik"
-            ],
-            "album": "Half of forever",
-            "played_at": "20/07/2024 - 03:31:10"
-        },
-        {
-            "song_name": "Sleeping on the Blacktop",
-            "artists": [
-                "Colter Wall"
-            ],
-            "album": "Imaginary Appalachia",
-            "played_at": "20/07/2024 - 02:44:17"
-        },
-        {
-            "song_name": "Hell of a Year",
-            "artists": [
-                "Parker McCollum"
-            ],
-            "album": "Probably Wrong",
-            "played_at": "20/07/2024 - 02:41:08"
-        },
-        {
-            "song_name": "my friend's toyota",
-            "artists": [
-                "asiris"
-            ],
-            "album": "my friend's toyota",
-            "played_at": "20/07/2024 - 02:37:22"
-        },
-        {
-            "song_name": "Pink Skies",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Pink Skies",
-            "played_at": "20/07/2024 - 02:34:14"
-        },
-        {
-            "song_name": "We're Done",
-            "artists": [
-                "James Carter",
-                "Zoe Maxwell"
-            ],
-            "album": "We're Done",
-            "played_at": "20/07/2024 - 02:28:20"
-        },
-        {
-            "song_name": "Wait a Minute!",
-            "artists": [
-                "WILLOW"
-            ],
-            "album": "ARDIPITHECUS",
-            "played_at": "20/07/2024 - 02:10:35"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "20/07/2024 - 00:32:43"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "19/07/2024 - 23:35:58"
-        },
-        {
-            "song_name": "Strong",
-            "artists": [
-                "Sigma",
-                "Kovic"
-            ],
-            "album": "Hope",
-            "played_at": "19/07/2024 - 20:18:31"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Blue",
-            "played_at": "19/07/2024 - 19:57:46"
-        },
-        {
-            "song_name": "Chucks",
-            "artists": [
-                "Mi Casa",
-                "YouNotUs"
-            ],
-            "album": "Chucks",
-            "played_at": "19/07/2024 - 19:54:20"
-        },
-        {
-            "song_name": "Are You With Me",
-            "artists": [
-                "Lost Frequencies"
-            ],
-            "album": "Less Is More",
-            "played_at": "19/07/2024 - 19:51:36"
-        },
-        {
-            "song_name": "Hall of Fame (feat. will.i.am)",
-            "artists": [
-                "The Script",
-                "will.i.am"
-            ],
-            "album": "#3 Deluxe Version",
-            "played_at": "19/07/2024 - 19:49:24"
-        },
-        {
-            "song_name": "Used To This",
-            "artists": [
-                "Wilkinson",
-                "Issey Cross"
-            ],
-            "album": "Cognition",
-            "played_at": "19/07/2024 - 19:45:37"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "19/07/2024 - 19:41:57"
-        },
-        {
-            "song_name": "Love That We Need",
-            "artists": [
-                "Silience",
-                "Loyal"
-            ],
-            "album": "Love That We Need",
-            "played_at": "19/07/2024 - 19:32:36"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "19/07/2024 - 19:29:44"
-        },
-        {
-            "song_name": "One Dance",
-            "artists": [
-                "Drake",
-                "Wizkid",
-                "Kyla"
-            ],
-            "album": "Views",
-            "played_at": "19/07/2024 - 19:24:37"
-        },
-        {
-            "song_name": "Casablanca",
-            "artists": [
-                "Junerule",
-                "Brendan Mills",
-                "Julia Shuren"
-            ],
-            "album": "Casablanca",
-            "played_at": "19/07/2024 - 19:21:49"
-        },
-        {
-            "song_name": "I Got U",
-            "artists": [
-                "Duke Dumont",
-                "Jax Jones"
-            ],
-            "album": "I Got U",
-            "played_at": "19/07/2024 - 19:18:35"
-        },
-        {
-            "song_name": "Circles",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "19/07/2024 - 19:13:56"
+            "album": "Floating On Forever",
+            "played_at": "22/07/2024 - 15:31:51"
         },
         {
             "song_name": "Summertime With You",
@@ -334,25 +148,139 @@
                 "JAYNIE"
             ],
             "album": "Summertime With You",
-            "played_at": "19/07/2024 - 19:10:26"
+            "played_at": "22/07/2024 - 15:29:51"
         },
         {
-            "song_name": "I Can't Stop",
+            "song_name": "Get To Me",
             "artists": [
-                "Daniel Glaven",
-                "Will Church"
+                "Lonely Night",
+                "Ellou",
+                "Nody"
             ],
-            "album": "I Can't Stop",
-            "played_at": "19/07/2024 - 19:08:12"
+            "album": "Get To Me",
+            "played_at": "22/07/2024 - 15:27:41"
         },
         {
-            "song_name": "Dreams",
+            "song_name": "Save Tonight",
             "artists": [
-                "Kenn Colt",
-                "Adam Pickard"
+                "Sam Feldt"
             ],
-            "album": "BALANCE",
-            "played_at": "19/07/2024 - 19:06:06"
+            "album": "Sunrise",
+            "played_at": "22/07/2024 - 15:25:11"
+        },
+        {
+            "song_name": "Dancing with The Moon",
+            "artists": [
+                "Unora",
+                "Aurila"
+            ],
+            "album": "Dancing with The Moon",
+            "played_at": "22/07/2024 - 15:22:42"
+        },
+        {
+            "song_name": "Hater",
+            "artists": [
+                "Nexeri"
+            ],
+            "album": "Hater",
+            "played_at": "22/07/2024 - 15:20:36"
+        },
+        {
+            "song_name": "My California Dream",
+            "artists": [
+                "Richill",
+                "Ladina Viva"
+            ],
+            "album": "My California Dream",
+            "played_at": "22/07/2024 - 15:18:04"
+        },
+        {
+            "song_name": "Happy Now",
+            "artists": [
+                "Szaby",
+                "Robbie Rosen"
+            ],
+            "album": "Happy Now",
+            "played_at": "22/07/2024 - 15:15:22"
+        },
+        {
+            "song_name": "Good Vibes",
+            "artists": [
+                "SRTW",
+                "Nimus",
+                "madugo"
+            ],
+            "album": "Good Vibes",
+            "played_at": "22/07/2024 - 15:12:45"
+        },
+        {
+            "song_name": "Take You Back",
+            "artists": [
+                "Theodor Rosenberg",
+                "Vowed"
+            ],
+            "album": "Take You Back",
+            "played_at": "22/07/2024 - 15:03:26"
+        },
+        {
+            "song_name": "Valerie",
+            "artists": [
+                "Paratone"
+            ],
+            "album": "Valerie",
+            "played_at": "22/07/2024 - 14:59:42"
+        },
+        {
+            "song_name": "Away",
+            "artists": [
+                "Ruffnux"
+            ],
+            "album": "Away",
+            "played_at": "22/07/2024 - 14:57:49"
+        },
+        {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "22/07/2024 - 14:55:57"
+        },
+        {
+            "song_name": "Home to You",
+            "artists": [
+                "hølm"
+            ],
+            "album": "Home to You",
+            "played_at": "22/07/2024 - 14:53:34"
+        },
+        {
+            "song_name": "just like this",
+            "artists": [
+                "rayn",
+                "imallryt"
+            ],
+            "album": "just like this",
+            "played_at": "22/07/2024 - 14:13:32"
+        },
+        {
+            "song_name": "Matter of Time - Lonely in the Rain Remix",
+            "artists": [
+                "Vandelux",
+                "Alex Maher",
+                "Lonely in the Rain"
+            ],
+            "album": "Matter of Time (Lonely In The Rain Remix)",
+            "played_at": "22/07/2024 - 14:02:37"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "22/07/2024 - 14:00:22"
         },
         {
             "song_name": "Used To You",
@@ -362,83 +290,165 @@
                 "Philip Strand"
             ],
             "album": "Used To You",
-            "played_at": "19/07/2024 - 19:02:49"
+            "played_at": "22/07/2024 - 13:58:15"
         },
         {
-            "song_name": "Thinking Of You",
+            "song_name": "I Won't Lie",
             "artists": [
-                "Pierse"
+                "Matvey Emerson",
+                "Kiismin",
+                "Britt Lari"
             ],
-            "album": "Thinking Of You",
-            "played_at": "19/07/2024 - 19:00:02"
+            "album": "I Won't Lie",
+            "played_at": "22/07/2024 - 13:55:34"
         },
         {
-            "song_name": "Next Exit",
+            "song_name": "Ocean Love",
             "artists": [
-                "Vacations"
+                "Yelloo Hill"
             ],
-            "album": "No Place Like Home",
-            "played_at": "19/07/2024 - 18:57:36"
+            "album": "Ocean Love",
+            "played_at": "22/07/2024 - 13:53:01"
         },
         {
-            "song_name": "60s Ghost",
+            "song_name": "Stuck In The Rain",
             "artists": [
-                "Jane Good",
-                "Adam Wendler"
+                "Bjarne Hendrik"
             ],
-            "album": "60s Ghost",
-            "played_at": "19/07/2024 - 18:54:21"
+            "album": "Stuck In The Rain",
+            "played_at": "22/07/2024 - 13:51:23"
         },
         {
-            "song_name": "What You Know",
+            "song_name": "Take My Breath Away",
             "artists": [
-                "Two Door Cinema Club"
+                "TWOPILOTS"
             ],
-            "album": "Tourist History",
-            "played_at": "19/07/2024 - 18:51:52"
+            "album": "Take My Breath Away",
+            "played_at": "22/07/2024 - 13:48:51"
         },
         {
-            "song_name": "Stole the Show",
+            "song_name": "Back On Ibiza",
             "artists": [
-                "Kygo",
-                "Parson James"
+                "Vogel",
+                "James Stefano"
             ],
-            "album": "Cloud Nine",
-            "played_at": "19/07/2024 - 18:48:48"
+            "album": "Back On Ibiza",
+            "played_at": "22/07/2024 - 13:45:57"
         },
         {
-            "song_name": "Safe Place",
+            "song_name": "Stay the Night",
             "artists": [
-                "Weisser Quiff",
-                "Moise"
+                "Sigala",
+                "Talia Mar"
             ],
-            "album": "Safe Place",
-            "played_at": "19/07/2024 - 18:45:11"
+            "album": "Every Cloud - Silver Linings",
+            "played_at": "22/07/2024 - 13:42:01"
+        },
+        {
+            "song_name": "When You're Gone",
+            "artists": [
+                "Shawn Mendes"
+            ],
+            "album": "When You're Gone",
+            "played_at": "22/07/2024 - 13:39:14"
         },
         {
             "song_name": "Run",
             "artists": [
-                "Hokima",
-                "Shoby"
+                "OneRepublic"
             ],
-            "album": "Run",
-            "played_at": "19/07/2024 - 18:43:05"
+            "album": "Human (Deluxe)",
+            "played_at": "22/07/2024 - 13:36:28"
         },
         {
-            "song_name": "Babydoll",
+            "song_name": "Addicted",
             "artists": [
-                "Dominic Fike"
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
             ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "19/07/2024 - 18:40:32"
+            "album": "Addicted",
+            "played_at": "22/07/2024 - 13:33:46"
         },
         {
-            "song_name": "Paradise",
+            "song_name": "Calm Down",
             "artists": [
-                "José Lucas"
+                "Rema",
+                "Selena Gomez"
             ],
-            "album": "Paradise",
-            "played_at": "19/07/2024 - 18:39:00"
+            "album": "Rave & Roses (Ultra)",
+            "played_at": "22/07/2024 - 13:31:20"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Iyaz"
+            ],
+            "album": "Replay",
+            "played_at": "22/07/2024 - 13:27:23"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Less Is More",
+            "played_at": "22/07/2024 - 13:24:27"
+        },
+        {
+            "song_name": "Scared to Be Lonely",
+            "artists": [
+                "Martin Garrix",
+                "Dua Lipa"
+            ],
+            "album": "Scared to Be Lonely",
+            "played_at": "22/07/2024 - 13:22:15"
+        },
+        {
+            "song_name": "sun and moon",
+            "artists": [
+                "anees"
+            ],
+            "album": "summer camp",
+            "played_at": "22/07/2024 - 13:18:40"
+        },
+        {
+            "song_name": "Don't Forget My Love",
+            "artists": [
+                "Diplo",
+                "Miguel"
+            ],
+            "album": "Diplo",
+            "played_at": "22/07/2024 - 13:12:23"
+        },
+        {
+            "song_name": "Cold Water (feat. Justin Bieber & MØ)",
+            "artists": [
+                "Major Lazer",
+                "Justin Bieber",
+                "MØ"
+            ],
+            "album": "Cold Water (feat. Justin Bieber & MØ)",
+            "played_at": "22/07/2024 - 13:07:32"
+        },
+        {
+            "song_name": "Counting Stars",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Native",
+            "played_at": "22/07/2024 - 13:04:32"
+        },
+        {
+            "song_name": "Can't Hold Us (feat. Ray Dalton)",
+            "artists": [
+                "Macklemore & Ryan Lewis",
+                "Macklemore",
+                "Ryan Lewis",
+                "Ray Dalton"
+            ],
+            "album": "The Heist",
+            "played_at": "22/07/2024 - 13:00:21"
         },
         {
             "song_name": "The Dream",
