@@ -1319,6 +1319,15 @@
             "played_at": "19/07/2024 - 18:33:14"
         },
         {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "22/07/2024 - 09:43:56"
+        },
+        {
             "song_name": "Emorio",
             "artists": [
                 "Trinix",
@@ -1747,15 +1756,6 @@
             ],
             "album": "Oysters In My Pocket",
             "played_at": "19/07/2024 - 18:35:50"
-        },
-        {
-            "song_name": "Miss You - Bonus Track",
-            "artists": [
-                "Oliver Tree",
-                "Robin Schulz"
-            ],
-            "album": "Alone In A Crowd",
-            "played_at": "19/07/2024 - 18:33:14"
         }
     ]
 }
