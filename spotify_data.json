@@ -432,58 +432,439 @@
             "played_at": "25/07/2024 - 17:25:34"
         },
         {
-            "song_name": "Is This Love - Remix",
+            "song_name": "Playboy",
             "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
+                "Fireboy DML"
             ],
-            "album": "Is This Love (Remix)",
-            "played_at": "25/07/2024 - 22:37:15"
+            "album": "Playboy",
+            "played_at": "26/07/2024 - 12:10:58"
         },
         {
-            "song_name": "Is This Love - Remix",
+            "song_name": "Laptop",
             "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
+                "Kalash",
+                "Maureen"
             ],
-            "album": "Is This Love (Remix)",
-            "played_at": "25/07/2024 - 22:31:01"
+            "album": "Tombolo",
+            "played_at": "26/07/2024 - 12:09:53"
         },
         {
-            "song_name": "Chucks",
+            "song_name": "Mélanine",
             "artists": [
-                "Mi Casa",
-                "YouNotUs"
+                "Heuss L'enfoiré",
+                "Werenoi"
             ],
-            "album": "Chucks",
-            "played_at": "25/07/2024 - 22:18:45"
+            "album": "LVDR",
+            "played_at": "26/07/2024 - 12:07:06"
         },
         {
-            "song_name": "60s Ghost",
+            "song_name": "Love Don't Cost A Dime (Re-Up)",
             "artists": [
-                "Jane Good",
-                "Adam Wendler"
+                "Magixx",
+                "Ayra Starr"
             ],
-            "album": "60s Ghost",
-            "played_at": "25/07/2024 - 22:16:01"
+            "album": "Love Don't Cost A Dime (Re-Up)",
+            "played_at": "26/07/2024 - 12:04:04"
         },
         {
-            "song_name": "Next Exit",
+            "song_name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
             "artists": [
-                "Vacations"
+                "Tyler ICU",
+                "Tumelo_za",
+                "DJ Maphorisa",
+                "Nandipha808",
+                "Ceeka RSA",
+                "Tyrone Dee"
             ],
-            "album": "No Place Like Home",
-            "played_at": "25/07/2024 - 22:13:31"
+            "album": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+            "played_at": "26/07/2024 - 12:01:36"
         },
         {
-            "song_name": "Paradise",
+            "song_name": "Jinja",
             "artists": [
-                "José Lucas"
+                "Olamide"
             ],
-            "album": "Paradise",
-            "played_at": "25/07/2024 - 22:08:25"
+            "album": "Unruly",
+            "played_at": "26/07/2024 - 11:55:04"
+        },
+        {
+            "song_name": "Free Mind",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "26/07/2024 - 11:52:29"
+        },
+        {
+            "song_name": "Be Honest (feat. Burna Boy)",
+            "artists": [
+                "Jorja Smith",
+                "Burna Boy"
+            ],
+            "album": "Be Honest (feat. Burna Boy)",
+            "played_at": "26/07/2024 - 11:48:22"
+        },
+        {
+            "song_name": "POE",
+            "artists": [
+                "Ruger",
+                "Bnxn"
+            ],
+            "album": "RnB",
+            "played_at": "26/07/2024 - 11:44:55"
+        },
+        {
+            "song_name": "Nesesari",
+            "artists": [
+                "Kizz Daniel",
+                "Philkeyz"
+            ],
+            "album": "No Bad Songz",
+            "played_at": "26/07/2024 - 11:41:29"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:38:31"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "26/07/2024 - 11:35:31"
+        },
+        {
+            "song_name": "Peace Be Unto You (PBUY)",
+            "artists": [
+                "Asake"
+            ],
+            "album": "Mr. Money With The Vibe",
+            "played_at": "26/07/2024 - 11:32:37"
+        },
+        {
+            "song_name": "Law Of Attraction (feat. Snoh Aalegra)",
+            "artists": [
+                "Dave",
+                "Snoh Aalegra"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "26/07/2024 - 11:30:03"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "26/07/2024 - 11:27:02"
+        },
+        {
+            "song_name": "Toast - Remix",
+            "artists": [
+                "J Star"
+            ],
+            "album": "Toast (Remix)",
+            "played_at": "26/07/2024 - 11:23:56"
+        },
+        {
+            "song_name": "Talibans",
+            "artists": [
+                "Byron Messia"
+            ],
+            "album": "No Love",
+            "played_at": "26/07/2024 - 11:20:49"
+        },
+        {
+            "song_name": "Tiki Taka",
+            "artists": [
+                "Vacra"
+            ],
+            "album": "Galatée",
+            "played_at": "26/07/2024 - 11:17:40"
+        },
+        {
+            "song_name": "American Love",
+            "artists": [
+                "Qing Madi"
+            ],
+            "album": "Qing Madi",
+            "played_at": "26/07/2024 - 11:14:45"
+        },
+        {
+            "song_name": "reason",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Boy Alone (Deluxe Edition)",
+            "played_at": "26/07/2024 - 11:11:36"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:09:09"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
+                "Drake",
+                "Tems"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "26/07/2024 - 11:06:10"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "26/07/2024 - 11:02:57"
+        },
+        {
+            "song_name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+            "artists": [
+                "ODUMODUBLVCK",
+                "Bloody Civilian",
+                "Wale"
+            ],
+            "album": "EZIOKWU",
+            "played_at": "26/07/2024 - 11:00:03"
+        },
+        {
+            "song_name": "Peace Be Unto You (PBUY)",
+            "artists": [
+                "Asake"
+            ],
+            "album": "Mr. Money With The Vibe",
+            "played_at": "26/07/2024 - 10:56:09"
+        },
+        {
+            "song_name": "Baby Riddim",
+            "artists": [
+                "FAVE"
+            ],
+            "album": "Baby Riddim",
+            "played_at": "26/07/2024 - 10:53:36"
+        },
+        {
+            "song_name": "Tek Tek (feat. MHD)",
+            "artists": [
+                "DYSTINCT",
+                "MHD",
+                "YAM"
+            ],
+            "album": "LAYALI",
+            "played_at": "26/07/2024 - 10:50:25"
+        },
+        {
+            "song_name": "Saiyan",
+            "artists": [
+                "Heuss L'enfoiré",
+                "Gazo"
+            ],
+            "album": "Chef D'orchestre",
+            "played_at": "26/07/2024 - 10:47:44"
+        },
+        {
+            "song_name": "Be Honest (feat. Burna Boy)",
+            "artists": [
+                "Jorja Smith",
+                "Burna Boy"
+            ],
+            "album": "Be Honest (feat. Burna Boy)",
+            "played_at": "26/07/2024 - 10:44:34"
+        },
+        {
+            "song_name": "Wickedest",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "26/07/2024 - 10:41:07"
+        },
+        {
+            "song_name": "Meridian",
+            "artists": [
+                "Dave",
+                "Tiakola"
+            ],
+            "album": "Meridian & Special",
+            "played_at": "26/07/2024 - 10:38:30"
+        },
+        {
+            "song_name": "Cast",
+            "artists": [
+                "Shallipopi",
+                "ODUMODUBLVCK"
+            ],
+            "album": "Presido La Pluto",
+            "played_at": "26/07/2024 - 10:34:15"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "26/07/2024 - 10:32:06"
+        },
+        {
+            "song_name": "Ginger (feat. Burna Boy)",
+            "artists": [
+                "Wizkid",
+                "Burna Boy"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "26/07/2024 - 10:00:19"
+        },
+        {
+            "song_name": "One Call",
+            "artists": [
+                "SPINALL",
+                "Omah Lay",
+                "Tyla"
+            ],
+            "album": "One Call",
+            "played_at": "26/07/2024 - 09:57:02"
+        },
+        {
+            "song_name": "Favourite Girl",
+            "artists": [
+                "Darkoo",
+                "Dess Dior"
+            ],
+            "album": "Favourite Girl",
+            "played_at": "26/07/2024 - 09:54:24"
+        },
+        {
+            "song_name": "Santorini Coffee",
+            "artists": [
+                "melvitto"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:51:48"
+        },
+        {
+            "song_name": "In Fact (feat. Gabzy)",
+            "artists": [
+                "melvitto",
+                "Gabzy"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:49:33"
+        },
+        {
+            "song_name": "Yanna",
+            "artists": [
+                "Chop Daily",
+                "Deyon Agoi"
+            ],
+            "album": "Yanna",
+            "played_at": "26/07/2024 - 09:45:48"
+        },
+        {
+            "song_name": "Amapiano",
+            "artists": [
+                "Asake",
+                "Olamide"
+            ],
+            "album": "Work Of Art",
+            "played_at": "26/07/2024 - 09:43:35"
+        },
+        {
+            "song_name": "SPIDER",
+            "artists": [
+                "GIMS",
+                "DYSTINCT"
+            ],
+            "album": "SPIDER",
+            "played_at": "26/07/2024 - 09:40:50"
+        },
+        {
+            "song_name": "In Fact (feat. Gabzy)",
+            "artists": [
+                "melvitto",
+                "Gabzy"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:37:41"
+        },
+        {
+            "song_name": "Nesesari",
+            "artists": [
+                "Kizz Daniel",
+                "Philkeyz"
+            ],
+            "album": "No Bad Songz",
+            "played_at": "26/07/2024 - 09:33:56"
+        },
+        {
+            "song_name": "Djadja",
+            "artists": [
+                "Aya Nakamura"
+            ],
+            "album": "NAKAMURA",
+            "played_at": "26/07/2024 - 09:30:58"
+        },
+        {
+            "song_name": "Diana",
+            "artists": [
+                "Fireboy DML",
+                "Chris Brown",
+                "Shenseea"
+            ],
+            "album": "Playboy",
+            "played_at": "26/07/2024 - 09:28:07"
+        },
+        {
+            "song_name": "Jolene",
+            "artists": [
+                "Victony",
+                "KTIZO"
+            ],
+            "album": "Outlaw",
+            "played_at": "26/07/2024 - 09:24:15"
+        },
+        {
+            "song_name": "Yanna",
+            "artists": [
+                "Chop Daily",
+                "Deyon Agoi"
+            ],
+            "album": "Yanna",
+            "played_at": "26/07/2024 - 09:21:19"
+        },
+        {
+            "song_name": "Babylon",
+            "artists": [
+                "Patoranking",
+                "Victony"
+            ],
+            "album": "WORLD BEST",
+            "played_at": "26/07/2024 - 09:19:06"
+        },
+        {
+            "song_name": "PRITI PRITI",
+            "artists": [
+                "Mack H.D",
+                "Kobi Jonz"
+            ],
+            "album": "PRITI PRITI",
+            "played_at": "26/07/2024 - 09:16:09"
         },
         {
             "song_name": "Hollywood",
@@ -492,374 +873,469 @@
                 "Nina Carr"
             ],
             "album": "Hollywood",
-            "played_at": "25/07/2024 - 22:05:16"
+            "played_at": "26/07/2024 - 09:12:12"
         },
         {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "song_name": "Playboy",
             "artists": [
-                "Future",
+                "Fireboy DML"
+            ],
+            "album": "Playboy",
+            "played_at": "26/07/2024 - 12:10:58"
+        },
+        {
+            "song_name": "Laptop",
+            "artists": [
+                "Kalash",
+                "Maureen"
+            ],
+            "album": "Tombolo",
+            "played_at": "26/07/2024 - 12:09:53"
+        },
+        {
+            "song_name": "Mélanine",
+            "artists": [
+                "Heuss L'enfoiré",
+                "Werenoi"
+            ],
+            "album": "LVDR",
+            "played_at": "26/07/2024 - 12:07:06"
+        },
+        {
+            "song_name": "Love Don't Cost A Dime (Re-Up)",
+            "artists": [
+                "Magixx",
+                "Ayra Starr"
+            ],
+            "album": "Love Don't Cost A Dime (Re-Up)",
+            "played_at": "26/07/2024 - 12:04:04"
+        },
+        {
+            "song_name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+            "artists": [
+                "Tyler ICU",
+                "Tumelo_za",
+                "DJ Maphorisa",
+                "Nandipha808",
+                "Ceeka RSA",
+                "Tyrone Dee"
+            ],
+            "album": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+            "played_at": "26/07/2024 - 12:01:36"
+        },
+        {
+            "song_name": "Jinja",
+            "artists": [
+                "Olamide"
+            ],
+            "album": "Unruly",
+            "played_at": "26/07/2024 - 11:55:04"
+        },
+        {
+            "song_name": "Free Mind",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "26/07/2024 - 11:52:29"
+        },
+        {
+            "song_name": "Be Honest (feat. Burna Boy)",
+            "artists": [
+                "Jorja Smith",
+                "Burna Boy"
+            ],
+            "album": "Be Honest (feat. Burna Boy)",
+            "played_at": "26/07/2024 - 11:48:22"
+        },
+        {
+            "song_name": "POE",
+            "artists": [
+                "Ruger",
+                "Bnxn"
+            ],
+            "album": "RnB",
+            "played_at": "26/07/2024 - 11:44:55"
+        },
+        {
+            "song_name": "Nesesari",
+            "artists": [
+                "Kizz Daniel",
+                "Philkeyz"
+            ],
+            "album": "No Bad Songz",
+            "played_at": "26/07/2024 - 11:41:29"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:38:31"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "26/07/2024 - 11:35:31"
+        },
+        {
+            "song_name": "Peace Be Unto You (PBUY)",
+            "artists": [
+                "Asake"
+            ],
+            "album": "Mr. Money With The Vibe",
+            "played_at": "26/07/2024 - 11:32:37"
+        },
+        {
+            "song_name": "Law Of Attraction (feat. Snoh Aalegra)",
+            "artists": [
+                "Dave",
+                "Snoh Aalegra"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "26/07/2024 - 11:30:03"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "26/07/2024 - 11:27:02"
+        },
+        {
+            "song_name": "Toast - Remix",
+            "artists": [
+                "J Star"
+            ],
+            "album": "Toast (Remix)",
+            "played_at": "26/07/2024 - 11:23:56"
+        },
+        {
+            "song_name": "Talibans",
+            "artists": [
+                "Byron Messia"
+            ],
+            "album": "No Love",
+            "played_at": "26/07/2024 - 11:20:49"
+        },
+        {
+            "song_name": "Tiki Taka",
+            "artists": [
+                "Vacra"
+            ],
+            "album": "Galatée",
+            "played_at": "26/07/2024 - 11:17:40"
+        },
+        {
+            "song_name": "American Love",
+            "artists": [
+                "Qing Madi"
+            ],
+            "album": "Qing Madi",
+            "played_at": "26/07/2024 - 11:14:45"
+        },
+        {
+            "song_name": "reason",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Boy Alone (Deluxe Edition)",
+            "played_at": "26/07/2024 - 11:11:36"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:09:09"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
                 "Drake",
                 "Tems"
             ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "25/07/2024 - 22:02:51"
+            "album": "Certified Lover Boy",
+            "played_at": "26/07/2024 - 11:06:10"
         },
         {
-            "song_name": "Dangerous",
+            "song_name": "Happiness (feat. Asake & Gunna)",
             "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
+                "Sarz",
+                "Asake",
+                "Gunna"
             ],
-            "album": "Riverside",
-            "played_at": "25/07/2024 - 21:55:10"
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "26/07/2024 - 11:02:57"
         },
         {
-            "song_name": "I'll Be Alright",
+            "song_name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
             "artists": [
-                "Magnus Gunn"
+                "ODUMODUBLVCK",
+                "Bloody Civilian",
+                "Wale"
             ],
-            "album": "I'll Be Alright",
-            "played_at": "25/07/2024 - 21:51:43"
+            "album": "EZIOKWU",
+            "played_at": "26/07/2024 - 11:00:03"
         },
         {
-            "song_name": "A Keeper",
+            "song_name": "Peace Be Unto You (PBUY)",
             "artists": [
-                "Drake"
+                "Asake"
             ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/07/2024 - 21:48:46"
+            "album": "Mr. Money With The Vibe",
+            "played_at": "26/07/2024 - 10:56:09"
         },
         {
-            "song_name": "Covered By The Clouds",
+            "song_name": "Baby Riddim",
             "artists": [
-                "NSH"
+                "FAVE"
             ],
-            "album": "Covered By The Clouds",
-            "played_at": "25/07/2024 - 21:45:41"
+            "album": "Baby Riddim",
+            "played_at": "26/07/2024 - 10:53:36"
         },
         {
-            "song_name": "Staring At The Sun",
+            "song_name": "Tek Tek (feat. MHD)",
             "artists": [
-                "the Giver",
-                "LissA"
+                "DYSTINCT",
+                "MHD",
+                "YAM"
             ],
-            "album": "Staring At The Sun",
-            "played_at": "25/07/2024 - 21:42:27"
+            "album": "LAYALI",
+            "played_at": "26/07/2024 - 10:50:25"
         },
         {
-            "song_name": "Run",
+            "song_name": "Saiyan",
             "artists": [
-                "Hokima",
-                "Shoby"
+                "Heuss L'enfoiré",
+                "Gazo"
             ],
-            "album": "Run",
-            "played_at": "25/07/2024 - 21:38:13"
+            "album": "Chef D'orchestre",
+            "played_at": "26/07/2024 - 10:47:44"
         },
         {
-            "song_name": "Soweto",
+            "song_name": "Be Honest (feat. Burna Boy)",
+            "artists": [
+                "Jorja Smith",
+                "Burna Boy"
+            ],
+            "album": "Be Honest (feat. Burna Boy)",
+            "played_at": "26/07/2024 - 10:44:34"
+        },
+        {
+            "song_name": "Wickedest",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "26/07/2024 - 10:41:07"
+        },
+        {
+            "song_name": "Meridian",
+            "artists": [
+                "Dave",
+                "Tiakola"
+            ],
+            "album": "Meridian & Special",
+            "played_at": "26/07/2024 - 10:38:30"
+        },
+        {
+            "song_name": "Cast",
+            "artists": [
+                "Shallipopi",
+                "ODUMODUBLVCK"
+            ],
+            "album": "Presido La Pluto",
+            "played_at": "26/07/2024 - 10:34:15"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "26/07/2024 - 10:32:06"
+        },
+        {
+            "song_name": "Ginger (feat. Burna Boy)",
+            "artists": [
+                "Wizkid",
+                "Burna Boy"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "26/07/2024 - 10:00:19"
+        },
+        {
+            "song_name": "One Call",
+            "artists": [
+                "SPINALL",
+                "Omah Lay",
+                "Tyla"
+            ],
+            "album": "One Call",
+            "played_at": "26/07/2024 - 09:57:02"
+        },
+        {
+            "song_name": "Favourite Girl",
+            "artists": [
+                "Darkoo",
+                "Dess Dior"
+            ],
+            "album": "Favourite Girl",
+            "played_at": "26/07/2024 - 09:54:24"
+        },
+        {
+            "song_name": "Santorini Coffee",
+            "artists": [
+                "melvitto"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:51:48"
+        },
+        {
+            "song_name": "In Fact (feat. Gabzy)",
+            "artists": [
+                "melvitto",
+                "Gabzy"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:49:33"
+        },
+        {
+            "song_name": "Yanna",
+            "artists": [
+                "Chop Daily",
+                "Deyon Agoi"
+            ],
+            "album": "Yanna",
+            "played_at": "26/07/2024 - 09:45:48"
+        },
+        {
+            "song_name": "Amapiano",
+            "artists": [
+                "Asake",
+                "Olamide"
+            ],
+            "album": "Work Of Art",
+            "played_at": "26/07/2024 - 09:43:35"
+        },
+        {
+            "song_name": "SPIDER",
+            "artists": [
+                "GIMS",
+                "DYSTINCT"
+            ],
+            "album": "SPIDER",
+            "played_at": "26/07/2024 - 09:40:50"
+        },
+        {
+            "song_name": "In Fact (feat. Gabzy)",
+            "artists": [
+                "melvitto",
+                "Gabzy"
+            ],
+            "album": "THENIGHTISYOUNG.",
+            "played_at": "26/07/2024 - 09:37:41"
+        },
+        {
+            "song_name": "Nesesari",
+            "artists": [
+                "Kizz Daniel",
+                "Philkeyz"
+            ],
+            "album": "No Bad Songz",
+            "played_at": "26/07/2024 - 09:33:56"
+        },
+        {
+            "song_name": "Djadja",
+            "artists": [
+                "Aya Nakamura"
+            ],
+            "album": "NAKAMURA",
+            "played_at": "26/07/2024 - 09:30:58"
+        },
+        {
+            "song_name": "Diana",
+            "artists": [
+                "Fireboy DML",
+                "Chris Brown",
+                "Shenseea"
+            ],
+            "album": "Playboy",
+            "played_at": "26/07/2024 - 09:28:07"
+        },
+        {
+            "song_name": "Jolene",
             "artists": [
                 "Victony",
-                "Tempoe"
+                "KTIZO"
             ],
-            "album": "Soweto",
-            "played_at": "25/07/2024 - 21:35:39"
+            "album": "Outlaw",
+            "played_at": "26/07/2024 - 09:24:15"
         },
         {
-            "song_name": "then i met her",
+            "song_name": "Yanna",
             "artists": [
-                "EKKSTACY"
+                "Chop Daily",
+                "Deyon Agoi"
             ],
-            "album": "NEGATIVE",
-            "played_at": "25/07/2024 - 21:33:17"
+            "album": "Yanna",
+            "played_at": "26/07/2024 - 09:21:19"
         },
         {
-            "song_name": "Get To Me",
+            "song_name": "Babylon",
             "artists": [
-                "Lonely Night",
-                "Ellou",
-                "Nody"
+                "Patoranking",
+                "Victony"
             ],
-            "album": "dusk till dawn",
-            "played_at": "25/07/2024 - 21:31:05"
+            "album": "WORLD BEST",
+            "played_at": "26/07/2024 - 09:19:06"
         },
         {
-            "song_name": "The Mannequin Song",
+            "song_name": "PRITI PRITI",
             "artists": [
-                "Hotel Ugly"
+                "Mack H.D",
+                "Kobi Jonz"
             ],
-            "album": "Ugly Duck",
-            "played_at": "25/07/2024 - 21:28:22"
+            "album": "PRITI PRITI",
+            "played_at": "26/07/2024 - 09:16:09"
         },
         {
-            "song_name": "Rich Men North of Richmond",
+            "song_name": "Hollywood",
             "artists": [
-                "Oliver Anthony Music"
+                "Natio",
+                "Nina Carr"
             ],
-            "album": "Rich Men North of Richmond",
-            "played_at": "25/07/2024 - 21:25:24"
+            "album": "Hollywood",
+            "played_at": "26/07/2024 - 09:12:12"
         },
         {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "25/07/2024 - 21:22:23"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "25/07/2024 - 21:19:09"
-        },
-        {
-            "song_name": "Dancing in the Sky",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "25/07/2024 - 21:15:41"
-        },
-        {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "25/07/2024 - 21:12:41"
-        },
-        {
-            "song_name": "Texas Sun",
-            "artists": [
-                "Khruangbin",
-                "Leon Bridges"
-            ],
-            "album": "Texas Sun",
-            "played_at": "25/07/2024 - 21:08:21"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "25/07/2024 - 21:04:14"
-        },
-        {
-            "song_name": "Everywhere, Everything",
-            "artists": [
-                "Noah Kahan"
-            ],
-            "album": "Stick Season",
-            "played_at": "25/07/2024 - 21:00:52"
-        },
-        {
-            "song_name": "Keep The Wolves Away",
-            "artists": [
-                "Uncle Lucius"
-            ],
-            "album": "And You Are Me",
-            "played_at": "25/07/2024 - 20:56:40"
-        },
-        {
-            "song_name": "Burn, Burn, Burn",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "25/07/2024 - 20:52:11"
-        },
-        {
-            "song_name": "Good To Be",
-            "artists": [
-                "Mark Ambor"
-            ],
-            "album": "Good To Be",
-            "played_at": "25/07/2024 - 20:47:48"
-        },
-        {
-            "song_name": "Before You Leave Me",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "Before You Leave Me",
-            "played_at": "25/07/2024 - 20:45:27"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "25/07/2024 - 20:42:36"
-        },
-        {
-            "song_name": "White Horse",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Higher",
-            "played_at": "25/07/2024 - 20:39:58"
-        },
-        {
-            "song_name": "Straight and Narrow",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "25/07/2024 - 20:35:36"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "25/07/2024 - 20:31:21"
-        },
-        {
-            "song_name": "ball w/o you",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "i am > i was",
-            "played_at": "25/07/2024 - 20:25:14"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "25/07/2024 - 20:20:39"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/07/2024 - 20:12:56"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "25/07/2024 - 20:09:48"
-        },
-        {
-            "song_name": "The Spins",
+            "song_name": "Love Lost",
             "artists": [
                 "Mac Miller",
-                "Empire Of The Sun"
+                "The Temper Trap"
             ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "25/07/2024 - 20:06:11"
+            "album": "I Love Life, Thank You",
+            "played_at": "26/07/2024 - 15:57:54"
         },
         {
-            "song_name": "No Pole",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "25/07/2024 - 20:03:01"
-        },
-        {
-            "song_name": "Get It Together",
+            "song_name": "Fair Trade (with Travis Scott)",
             "artists": [
                 "Drake",
-                "Black Coffee",
-                "Jorja Smith"
+                "Travis Scott"
             ],
-            "album": "More Life",
-            "played_at": "25/07/2024 - 20:00:00"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "25/07/2024 - 18:26:55"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "25/07/2024 - 17:42:03"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "25/07/2024 - 17:39:54"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "25/07/2024 - 17:37:39"
-        },
-        {
-            "song_name": "Creep",
-            "artists": [
-                "GAMPER & DADONI"
-            ],
-            "album": "Creep",
-            "played_at": "25/07/2024 - 17:35:02"
-        },
-        {
-            "song_name": "Which Way the Wind Blows",
-            "artists": [
-                "NLSN",
-                "ODBLU"
-            ],
-            "album": "Which Way the Wind Blows",
-            "played_at": "25/07/2024 - 17:32:28"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "25/07/2024 - 17:30:32"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "25/07/2024 - 17:28:10"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "25/07/2024 - 17:25:34"
+            "album": "Certified Lover Boy",
+            "played_at": "26/07/2024 - 15:55:35"
         },
         {
             "song_name": "Playboy",
@@ -1286,468 +1762,6 @@
             ],
             "album": "WORLD BEST",
             "played_at": "26/07/2024 - 09:19:06"
-        },
-        {
-            "song_name": "PRITI PRITI",
-            "artists": [
-                "Mack H.D",
-                "Kobi Jonz"
-            ],
-            "album": "PRITI PRITI",
-            "played_at": "26/07/2024 - 09:16:09"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "26/07/2024 - 09:12:12"
-        },
-        {
-            "song_name": "Playboy",
-            "artists": [
-                "Fireboy DML"
-            ],
-            "album": "Playboy",
-            "played_at": "26/07/2024 - 12:10:58"
-        },
-        {
-            "song_name": "Laptop",
-            "artists": [
-                "Kalash",
-                "Maureen"
-            ],
-            "album": "Tombolo",
-            "played_at": "26/07/2024 - 12:09:53"
-        },
-        {
-            "song_name": "Mélanine",
-            "artists": [
-                "Heuss L'enfoiré",
-                "Werenoi"
-            ],
-            "album": "LVDR",
-            "played_at": "26/07/2024 - 12:07:06"
-        },
-        {
-            "song_name": "Love Don't Cost A Dime (Re-Up)",
-            "artists": [
-                "Magixx",
-                "Ayra Starr"
-            ],
-            "album": "Love Don't Cost A Dime (Re-Up)",
-            "played_at": "26/07/2024 - 12:04:04"
-        },
-        {
-            "song_name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
-            "artists": [
-                "Tyler ICU",
-                "Tumelo_za",
-                "DJ Maphorisa",
-                "Nandipha808",
-                "Ceeka RSA",
-                "Tyrone Dee"
-            ],
-            "album": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
-            "played_at": "26/07/2024 - 12:01:36"
-        },
-        {
-            "song_name": "Jinja",
-            "artists": [
-                "Olamide"
-            ],
-            "album": "Unruly",
-            "played_at": "26/07/2024 - 11:55:04"
-        },
-        {
-            "song_name": "Free Mind",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "26/07/2024 - 11:52:29"
-        },
-        {
-            "song_name": "Be Honest (feat. Burna Boy)",
-            "artists": [
-                "Jorja Smith",
-                "Burna Boy"
-            ],
-            "album": "Be Honest (feat. Burna Boy)",
-            "played_at": "26/07/2024 - 11:48:22"
-        },
-        {
-            "song_name": "POE",
-            "artists": [
-                "Ruger",
-                "Bnxn"
-            ],
-            "album": "RnB",
-            "played_at": "26/07/2024 - 11:44:55"
-        },
-        {
-            "song_name": "Nesesari",
-            "artists": [
-                "Kizz Daniel",
-                "Philkeyz"
-            ],
-            "album": "No Bad Songz",
-            "played_at": "26/07/2024 - 11:41:29"
-        },
-        {
-            "song_name": "D O D O",
-            "artists": [
-                "Tayc"
-            ],
-            "album": "Fleur froide - Second état : la cristallisation",
-            "played_at": "26/07/2024 - 11:38:31"
-        },
-        {
-            "song_name": "Happiness (feat. Asake & Gunna)",
-            "artists": [
-                "Sarz",
-                "Asake",
-                "Gunna"
-            ],
-            "album": "Happiness (feat. Asake & Gunna)",
-            "played_at": "26/07/2024 - 11:35:31"
-        },
-        {
-            "song_name": "Peace Be Unto You (PBUY)",
-            "artists": [
-                "Asake"
-            ],
-            "album": "Mr. Money With The Vibe",
-            "played_at": "26/07/2024 - 11:32:37"
-        },
-        {
-            "song_name": "Law Of Attraction (feat. Snoh Aalegra)",
-            "artists": [
-                "Dave",
-                "Snoh Aalegra"
-            ],
-            "album": "We're All Alone In This Together",
-            "played_at": "26/07/2024 - 11:30:03"
-        },
-        {
-            "song_name": "In My Bed",
-            "artists": [
-                "Rotimi",
-                "Wale"
-            ],
-            "album": "The Beauty of Becoming",
-            "played_at": "26/07/2024 - 11:27:02"
-        },
-        {
-            "song_name": "Toast - Remix",
-            "artists": [
-                "J Star"
-            ],
-            "album": "Toast (Remix)",
-            "played_at": "26/07/2024 - 11:23:56"
-        },
-        {
-            "song_name": "Talibans",
-            "artists": [
-                "Byron Messia"
-            ],
-            "album": "No Love",
-            "played_at": "26/07/2024 - 11:20:49"
-        },
-        {
-            "song_name": "Tiki Taka",
-            "artists": [
-                "Vacra"
-            ],
-            "album": "Galatée",
-            "played_at": "26/07/2024 - 11:17:40"
-        },
-        {
-            "song_name": "American Love",
-            "artists": [
-                "Qing Madi"
-            ],
-            "album": "Qing Madi",
-            "played_at": "26/07/2024 - 11:14:45"
-        },
-        {
-            "song_name": "reason",
-            "artists": [
-                "Omah Lay"
-            ],
-            "album": "Boy Alone (Deluxe Edition)",
-            "played_at": "26/07/2024 - 11:11:36"
-        },
-        {
-            "song_name": "D O D O",
-            "artists": [
-                "Tayc"
-            ],
-            "album": "Fleur froide - Second état : la cristallisation",
-            "played_at": "26/07/2024 - 11:09:09"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "26/07/2024 - 11:06:10"
-        },
-        {
-            "song_name": "Happiness (feat. Asake & Gunna)",
-            "artists": [
-                "Sarz",
-                "Asake",
-                "Gunna"
-            ],
-            "album": "Happiness (feat. Asake & Gunna)",
-            "played_at": "26/07/2024 - 11:02:57"
-        },
-        {
-            "song_name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
-            "artists": [
-                "ODUMODUBLVCK",
-                "Bloody Civilian",
-                "Wale"
-            ],
-            "album": "EZIOKWU",
-            "played_at": "26/07/2024 - 11:00:03"
-        },
-        {
-            "song_name": "Peace Be Unto You (PBUY)",
-            "artists": [
-                "Asake"
-            ],
-            "album": "Mr. Money With The Vibe",
-            "played_at": "26/07/2024 - 10:56:09"
-        },
-        {
-            "song_name": "Baby Riddim",
-            "artists": [
-                "FAVE"
-            ],
-            "album": "Baby Riddim",
-            "played_at": "26/07/2024 - 10:53:36"
-        },
-        {
-            "song_name": "Tek Tek (feat. MHD)",
-            "artists": [
-                "DYSTINCT",
-                "MHD",
-                "YAM"
-            ],
-            "album": "LAYALI",
-            "played_at": "26/07/2024 - 10:50:25"
-        },
-        {
-            "song_name": "Saiyan",
-            "artists": [
-                "Heuss L'enfoiré",
-                "Gazo"
-            ],
-            "album": "Chef D'orchestre",
-            "played_at": "26/07/2024 - 10:47:44"
-        },
-        {
-            "song_name": "Be Honest (feat. Burna Boy)",
-            "artists": [
-                "Jorja Smith",
-                "Burna Boy"
-            ],
-            "album": "Be Honest (feat. Burna Boy)",
-            "played_at": "26/07/2024 - 10:44:34"
-        },
-        {
-            "song_name": "Wickedest",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "26/07/2024 - 10:41:07"
-        },
-        {
-            "song_name": "Meridian",
-            "artists": [
-                "Dave",
-                "Tiakola"
-            ],
-            "album": "Meridian & Special",
-            "played_at": "26/07/2024 - 10:38:30"
-        },
-        {
-            "song_name": "Cast",
-            "artists": [
-                "Shallipopi",
-                "ODUMODUBLVCK"
-            ],
-            "album": "Presido La Pluto",
-            "played_at": "26/07/2024 - 10:34:15"
-        },
-        {
-            "song_name": "In My Bed",
-            "artists": [
-                "Rotimi",
-                "Wale"
-            ],
-            "album": "The Beauty of Becoming",
-            "played_at": "26/07/2024 - 10:32:06"
-        },
-        {
-            "song_name": "Ginger (feat. Burna Boy)",
-            "artists": [
-                "Wizkid",
-                "Burna Boy"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "26/07/2024 - 10:00:19"
-        },
-        {
-            "song_name": "One Call",
-            "artists": [
-                "SPINALL",
-                "Omah Lay",
-                "Tyla"
-            ],
-            "album": "One Call",
-            "played_at": "26/07/2024 - 09:57:02"
-        },
-        {
-            "song_name": "Favourite Girl",
-            "artists": [
-                "Darkoo",
-                "Dess Dior"
-            ],
-            "album": "Favourite Girl",
-            "played_at": "26/07/2024 - 09:54:24"
-        },
-        {
-            "song_name": "Santorini Coffee",
-            "artists": [
-                "melvitto"
-            ],
-            "album": "THENIGHTISYOUNG.",
-            "played_at": "26/07/2024 - 09:51:48"
-        },
-        {
-            "song_name": "In Fact (feat. Gabzy)",
-            "artists": [
-                "melvitto",
-                "Gabzy"
-            ],
-            "album": "THENIGHTISYOUNG.",
-            "played_at": "26/07/2024 - 09:49:33"
-        },
-        {
-            "song_name": "Yanna",
-            "artists": [
-                "Chop Daily",
-                "Deyon Agoi"
-            ],
-            "album": "Yanna",
-            "played_at": "26/07/2024 - 09:45:48"
-        },
-        {
-            "song_name": "Amapiano",
-            "artists": [
-                "Asake",
-                "Olamide"
-            ],
-            "album": "Work Of Art",
-            "played_at": "26/07/2024 - 09:43:35"
-        },
-        {
-            "song_name": "SPIDER",
-            "artists": [
-                "GIMS",
-                "DYSTINCT"
-            ],
-            "album": "SPIDER",
-            "played_at": "26/07/2024 - 09:40:50"
-        },
-        {
-            "song_name": "In Fact (feat. Gabzy)",
-            "artists": [
-                "melvitto",
-                "Gabzy"
-            ],
-            "album": "THENIGHTISYOUNG.",
-            "played_at": "26/07/2024 - 09:37:41"
-        },
-        {
-            "song_name": "Nesesari",
-            "artists": [
-                "Kizz Daniel",
-                "Philkeyz"
-            ],
-            "album": "No Bad Songz",
-            "played_at": "26/07/2024 - 09:33:56"
-        },
-        {
-            "song_name": "Djadja",
-            "artists": [
-                "Aya Nakamura"
-            ],
-            "album": "NAKAMURA",
-            "played_at": "26/07/2024 - 09:30:58"
-        },
-        {
-            "song_name": "Diana",
-            "artists": [
-                "Fireboy DML",
-                "Chris Brown",
-                "Shenseea"
-            ],
-            "album": "Playboy",
-            "played_at": "26/07/2024 - 09:28:07"
-        },
-        {
-            "song_name": "Jolene",
-            "artists": [
-                "Victony",
-                "KTIZO"
-            ],
-            "album": "Outlaw",
-            "played_at": "26/07/2024 - 09:24:15"
-        },
-        {
-            "song_name": "Yanna",
-            "artists": [
-                "Chop Daily",
-                "Deyon Agoi"
-            ],
-            "album": "Yanna",
-            "played_at": "26/07/2024 - 09:21:19"
-        },
-        {
-            "song_name": "Babylon",
-            "artists": [
-                "Patoranking",
-                "Victony"
-            ],
-            "album": "WORLD BEST",
-            "played_at": "26/07/2024 - 09:19:06"
-        },
-        {
-            "song_name": "PRITI PRITI",
-            "artists": [
-                "Mack H.D",
-                "Kobi Jonz"
-            ],
-            "album": "PRITI PRITI",
-            "played_at": "26/07/2024 - 09:16:09"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "26/07/2024 - 09:12:12"
         }
     ]
 }
