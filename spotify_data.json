@@ -2,436 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "25/07/2024 - 22:37:15"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "25/07/2024 - 22:31:01"
-        },
-        {
-            "song_name": "Chucks",
-            "artists": [
-                "Mi Casa",
-                "YouNotUs"
-            ],
-            "album": "Chucks",
-            "played_at": "25/07/2024 - 22:18:45"
-        },
-        {
-            "song_name": "60s Ghost",
-            "artists": [
-                "Jane Good",
-                "Adam Wendler"
-            ],
-            "album": "60s Ghost",
-            "played_at": "25/07/2024 - 22:16:01"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "25/07/2024 - 22:13:31"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "José Lucas"
-            ],
-            "album": "Paradise",
-            "played_at": "25/07/2024 - 22:08:25"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "25/07/2024 - 22:05:16"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "25/07/2024 - 22:02:51"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "25/07/2024 - 21:55:10"
-        },
-        {
-            "song_name": "I'll Be Alright",
-            "artists": [
-                "Magnus Gunn"
-            ],
-            "album": "I'll Be Alright",
-            "played_at": "25/07/2024 - 21:51:43"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/07/2024 - 21:48:46"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "25/07/2024 - 21:45:41"
-        },
-        {
-            "song_name": "Staring At The Sun",
-            "artists": [
-                "the Giver",
-                "LissA"
-            ],
-            "album": "Staring At The Sun",
-            "played_at": "25/07/2024 - 21:42:27"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "25/07/2024 - 21:38:13"
-        },
-        {
-            "song_name": "Soweto",
-            "artists": [
-                "Victony",
-                "Tempoe"
-            ],
-            "album": "Soweto",
-            "played_at": "25/07/2024 - 21:35:39"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "25/07/2024 - 21:33:17"
-        },
-        {
-            "song_name": "Get To Me",
-            "artists": [
-                "Lonely Night",
-                "Ellou",
-                "Nody"
-            ],
-            "album": "dusk till dawn",
-            "played_at": "25/07/2024 - 21:31:05"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "25/07/2024 - 21:28:22"
-        },
-        {
-            "song_name": "Rich Men North of Richmond",
-            "artists": [
-                "Oliver Anthony Music"
-            ],
-            "album": "Rich Men North of Richmond",
-            "played_at": "25/07/2024 - 21:25:24"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "25/07/2024 - 21:22:23"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "25/07/2024 - 21:19:09"
-        },
-        {
-            "song_name": "Dancing in the Sky",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "25/07/2024 - 21:15:41"
-        },
-        {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "25/07/2024 - 21:12:41"
-        },
-        {
-            "song_name": "Texas Sun",
-            "artists": [
-                "Khruangbin",
-                "Leon Bridges"
-            ],
-            "album": "Texas Sun",
-            "played_at": "25/07/2024 - 21:08:21"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "25/07/2024 - 21:04:14"
-        },
-        {
-            "song_name": "Everywhere, Everything",
-            "artists": [
-                "Noah Kahan"
-            ],
-            "album": "Stick Season",
-            "played_at": "25/07/2024 - 21:00:52"
-        },
-        {
-            "song_name": "Keep The Wolves Away",
-            "artists": [
-                "Uncle Lucius"
-            ],
-            "album": "And You Are Me",
-            "played_at": "25/07/2024 - 20:56:40"
-        },
-        {
-            "song_name": "Burn, Burn, Burn",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "25/07/2024 - 20:52:11"
-        },
-        {
-            "song_name": "Good To Be",
-            "artists": [
-                "Mark Ambor"
-            ],
-            "album": "Good To Be",
-            "played_at": "25/07/2024 - 20:47:48"
-        },
-        {
-            "song_name": "Before You Leave Me",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "Before You Leave Me",
-            "played_at": "25/07/2024 - 20:45:27"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "25/07/2024 - 20:42:36"
-        },
-        {
-            "song_name": "White Horse",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Higher",
-            "played_at": "25/07/2024 - 20:39:58"
-        },
-        {
-            "song_name": "Straight and Narrow",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "25/07/2024 - 20:35:36"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "25/07/2024 - 20:31:21"
-        },
-        {
-            "song_name": "ball w/o you",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "i am > i was",
-            "played_at": "25/07/2024 - 20:25:14"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "25/07/2024 - 20:20:39"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/07/2024 - 20:12:56"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "25/07/2024 - 20:09:48"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "25/07/2024 - 20:06:11"
-        },
-        {
-            "song_name": "No Pole",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "25/07/2024 - 20:03:01"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "25/07/2024 - 20:00:00"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "25/07/2024 - 18:26:55"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "25/07/2024 - 17:42:03"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "25/07/2024 - 17:39:54"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "25/07/2024 - 17:37:39"
-        },
-        {
-            "song_name": "Creep",
-            "artists": [
-                "GAMPER & DADONI"
-            ],
-            "album": "Creep",
-            "played_at": "25/07/2024 - 17:35:02"
-        },
-        {
-            "song_name": "Which Way the Wind Blows",
-            "artists": [
-                "NLSN",
-                "ODBLU"
-            ],
-            "album": "Which Way the Wind Blows",
-            "played_at": "25/07/2024 - 17:32:28"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "25/07/2024 - 17:30:32"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "25/07/2024 - 17:28:10"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "25/07/2024 - 17:25:34"
-        },
-        {
             "song_name": "Playboy",
             "artists": [
                 "Fireboy DML"
@@ -1762,6 +1332,446 @@
             ],
             "album": "WORLD BEST",
             "played_at": "26/07/2024 - 09:19:06"
+        },
+        {
+            "song_name": "Going Bad (feat. Drake)",
+            "artists": [
+                "Meek Mill",
+                "Drake"
+            ],
+            "album": "Championships",
+            "played_at": "26/07/2024 - 17:34:16"
+        },
+        {
+            "song_name": "Love$ick (feat. A$AP Rocky)",
+            "artists": [
+                "Mura Masa",
+                "A$AP Rocky"
+            ],
+            "album": "Mura Masa",
+            "played_at": "26/07/2024 - 17:31:10"
+        },
+        {
+            "song_name": "Small Worlds",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "26/07/2024 - 17:28:04"
+        },
+        {
+            "song_name": "Topanga",
+            "artists": [
+                "Trippie Redd"
+            ],
+            "album": "A Love Letter To You 3",
+            "played_at": "26/07/2024 - 17:23:02"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "26/07/2024 - 17:19:33"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "26/07/2024 - 17:13:22"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "26/07/2024 - 17:09:10"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "26/07/2024 - 17:08:56"
+        },
+        {
+            "song_name": "Best Time",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "26/07/2024 - 17:07:02"
+        },
+        {
+            "song_name": "Did It First (with Central Cee)",
+            "artists": [
+                "Ice Spice",
+                "Central Cee"
+            ],
+            "album": "Did It First (with Central Cee)",
+            "played_at": "26/07/2024 - 17:05:45"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "26/07/2024 - 17:03:53"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "26/07/2024 - 16:57:32"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "26/07/2024 - 16:53:50"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "26/07/2024 - 16:51:46"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "26/07/2024 - 16:23:05"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "26/07/2024 - 16:20:05"
+        },
+        {
+            "song_name": "Fuck Love",
+            "artists": [
+                "XXXTENTACION",
+                "Trippie Redd"
+            ],
+            "album": "17",
+            "played_at": "26/07/2024 - 16:18:56"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "26/07/2024 - 16:16:29"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "26/07/2024 - 16:13:51"
+        },
+        {
+            "song_name": "UK Rap",
+            "artists": [
+                "Dave",
+                "Central Cee"
+            ],
+            "album": "Split Decision",
+            "played_at": "26/07/2024 - 16:10:41"
+        },
+        {
+            "song_name": "Fuck Love",
+            "artists": [
+                "XXXTENTACION",
+                "Trippie Redd"
+            ],
+            "album": "17",
+            "played_at": "26/07/2024 - 16:09:59"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "26/07/2024 - 16:07:23"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "26/07/2024 - 16:07:16"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "26/07/2024 - 16:04:13"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "26/07/2024 - 16:04:12"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "26/07/2024 - 16:00:45"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "26/07/2024 - 16:00:38"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "26/07/2024 - 15:57:54"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "26/07/2024 - 15:55:35"
+        },
+        {
+            "song_name": "Playboy",
+            "artists": [
+                "Fireboy DML"
+            ],
+            "album": "Playboy",
+            "played_at": "26/07/2024 - 12:10:58"
+        },
+        {
+            "song_name": "Laptop",
+            "artists": [
+                "Kalash",
+                "Maureen"
+            ],
+            "album": "Tombolo",
+            "played_at": "26/07/2024 - 12:09:53"
+        },
+        {
+            "song_name": "Mélanine",
+            "artists": [
+                "Heuss L'enfoiré",
+                "Werenoi"
+            ],
+            "album": "LVDR",
+            "played_at": "26/07/2024 - 12:07:06"
+        },
+        {
+            "song_name": "Love Don't Cost A Dime (Re-Up)",
+            "artists": [
+                "Magixx",
+                "Ayra Starr"
+            ],
+            "album": "Love Don't Cost A Dime (Re-Up)",
+            "played_at": "26/07/2024 - 12:04:04"
+        },
+        {
+            "song_name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+            "artists": [
+                "Tyler ICU",
+                "Tumelo_za",
+                "DJ Maphorisa",
+                "Nandipha808",
+                "Ceeka RSA",
+                "Tyrone Dee"
+            ],
+            "album": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+            "played_at": "26/07/2024 - 12:01:36"
+        },
+        {
+            "song_name": "Jinja",
+            "artists": [
+                "Olamide"
+            ],
+            "album": "Unruly",
+            "played_at": "26/07/2024 - 11:55:04"
+        },
+        {
+            "song_name": "Free Mind",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "26/07/2024 - 11:52:29"
+        },
+        {
+            "song_name": "Be Honest (feat. Burna Boy)",
+            "artists": [
+                "Jorja Smith",
+                "Burna Boy"
+            ],
+            "album": "Be Honest (feat. Burna Boy)",
+            "played_at": "26/07/2024 - 11:48:22"
+        },
+        {
+            "song_name": "POE",
+            "artists": [
+                "Ruger",
+                "Bnxn"
+            ],
+            "album": "RnB",
+            "played_at": "26/07/2024 - 11:44:55"
+        },
+        {
+            "song_name": "Nesesari",
+            "artists": [
+                "Kizz Daniel",
+                "Philkeyz"
+            ],
+            "album": "No Bad Songz",
+            "played_at": "26/07/2024 - 11:41:29"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:38:31"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "26/07/2024 - 11:35:31"
+        },
+        {
+            "song_name": "Peace Be Unto You (PBUY)",
+            "artists": [
+                "Asake"
+            ],
+            "album": "Mr. Money With The Vibe",
+            "played_at": "26/07/2024 - 11:32:37"
+        },
+        {
+            "song_name": "Law Of Attraction (feat. Snoh Aalegra)",
+            "artists": [
+                "Dave",
+                "Snoh Aalegra"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "26/07/2024 - 11:30:03"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "26/07/2024 - 11:27:02"
+        },
+        {
+            "song_name": "Toast - Remix",
+            "artists": [
+                "J Star"
+            ],
+            "album": "Toast (Remix)",
+            "played_at": "26/07/2024 - 11:23:56"
+        },
+        {
+            "song_name": "Talibans",
+            "artists": [
+                "Byron Messia"
+            ],
+            "album": "No Love",
+            "played_at": "26/07/2024 - 11:20:49"
+        },
+        {
+            "song_name": "Tiki Taka",
+            "artists": [
+                "Vacra"
+            ],
+            "album": "Galatée",
+            "played_at": "26/07/2024 - 11:17:40"
+        },
+        {
+            "song_name": "American Love",
+            "artists": [
+                "Qing Madi"
+            ],
+            "album": "Qing Madi",
+            "played_at": "26/07/2024 - 11:14:45"
+        },
+        {
+            "song_name": "reason",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Boy Alone (Deluxe Edition)",
+            "played_at": "26/07/2024 - 11:11:36"
+        },
+        {
+            "song_name": "D O D O",
+            "artists": [
+                "Tayc"
+            ],
+            "album": "Fleur froide - Second état : la cristallisation",
+            "played_at": "26/07/2024 - 11:09:09"
         }
     ]
 }
