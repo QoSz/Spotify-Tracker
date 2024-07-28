@@ -2,432 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Matches (feat. Ab-Soul)",
-            "artists": [
-                "Mac Miller",
-                "Ab-Soul"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "27/07/2024 - 12:45:03"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "27/07/2024 - 12:31:44"
-        },
-        {
-            "song_name": "500lbs",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC",
-            "played_at": "27/07/2024 - 12:25:56"
-        },
-        {
-            "song_name": "Break from Toronto",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR",
-            "played_at": "27/07/2024 - 12:23:20"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "27/07/2024 - 12:21:47"
-        },
-        {
-            "song_name": "Private Landing (feat. Justin Bieber & Future)",
-            "artists": [
-                "Don Toliver",
-                "Justin Bieber",
-                "Future"
-            ],
-            "album": "Love Sick",
-            "played_at": "27/07/2024 - 12:15:36"
-        },
-        {
-            "song_name": "Dang! (feat. Anderson .Paak)",
-            "artists": [
-                "Mac Miller",
-                "Anderson .Paak"
-            ],
-            "album": "The Divine Feminine",
-            "played_at": "27/07/2024 - 12:11:44"
-        },
-        {
-            "song_name": "Jorja Interlude",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "27/07/2024 - 12:06:45"
-        },
-        {
-            "song_name": "Ivy",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "27/07/2024 - 01:50:55"
-        },
-        {
-            "song_name": "Thoughts from a Balcony",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Macadelic",
-            "played_at": "27/07/2024 - 01:44:46"
-        },
-        {
-            "song_name": "Missed Calls",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Blue Slide Park",
-            "played_at": "27/07/2024 - 01:38:39"
-        },
-        {
-            "song_name": "What's the Use?",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "27/07/2024 - 01:35:46"
-        },
-        {
-            "song_name": "Good News",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "27/07/2024 - 01:29:03"
-        },
-        {
-            "song_name": "Knock Knock",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "27/07/2024 - 01:22:23"
-        },
-        {
-            "song_name": "Circles",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "27/07/2024 - 01:19:11"
-        },
-        {
-            "song_name": "Donald Trump",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Best Day Ever (5th Anniversary Remastered Edition)",
-            "played_at": "27/07/2024 - 01:16:26"
-        },
-        {
-            "song_name": "Time",
-            "artists": [
-                "Free Nationals",
-                "Mac Miller",
-                "Kali Uchis"
-            ],
-            "album": "Free Nationals",
-            "played_at": "27/07/2024 - 01:13:48"
-        },
-        {
-            "song_name": "My Favorite Part",
-            "artists": [
-                "Mac Miller",
-                "Ariana Grande"
-            ],
-            "album": "The Divine Feminine",
-            "played_at": "27/07/2024 - 01:10:23"
-        },
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "27/07/2024 - 01:06:53"
-        },
-        {
-            "song_name": "Nikes on My Feet",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "27/07/2024 - 01:02:13"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "27/07/2024 - 00:59:35"
-        },
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "27/07/2024 - 00:54:54"
-        },
-        {
-            "song_name": "Dang! (feat. Anderson .Paak)",
-            "artists": [
-                "Mac Miller",
-                "Anderson .Paak"
-            ],
-            "album": "The Divine Feminine",
-            "played_at": "27/07/2024 - 00:52:18"
-        },
-        {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "27/07/2024 - 00:47:07"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "27/07/2024 - 00:43:45"
-        },
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "27/07/2024 - 00:40:21"
-        },
-        {
-            "song_name": "Small Worlds",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "27/07/2024 - 00:34:42"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "27/07/2024 - 00:30:16"
-        },
-        {
-            "song_name": "Congratulations (feat. Bilal)",
-            "artists": [
-                "Mac Miller",
-                "Bilal"
-            ],
-            "album": "The Divine Feminine",
-            "played_at": "27/07/2024 - 00:27:39"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "27/07/2024 - 00:19:58"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "27/07/2024 - 00:15:31"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "27/07/2024 - 00:11:47"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "27/07/2024 - 00:07:22"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "27/07/2024 - 00:02:37"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "26/07/2024 - 23:16:36"
-        },
-        {
-            "song_name": "I'm Good (Blue)",
-            "artists": [
-                "David Guetta",
-                "Bebe Rexha"
-            ],
-            "album": "I'm Good (Blue)",
-            "played_at": "26/07/2024 - 22:57:21"
-        },
-        {
-            "song_name": "Unforgettable",
-            "artists": [
-                "French Montana",
-                "Swae Lee"
-            ],
-            "album": "Jungle Rules",
-            "played_at": "26/07/2024 - 21:15:18"
-        },
-        {
-            "song_name": "ALWAYS DO",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "F*CK LOVE 3+: OVER YOU",
-            "played_at": "26/07/2024 - 20:58:00"
-        },
-        {
-            "song_name": "Can’t Take A Joke",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "26/07/2024 - 20:55:35"
-        },
-        {
-            "song_name": "Out Of Love (feat. Internet Money)",
-            "artists": [
-                "Lil Tecca",
-                "Internet Money"
-            ],
-            "album": "Virgo World",
-            "played_at": "26/07/2024 - 20:51:07"
-        },
-        {
-            "song_name": "THRU THE NIGHT (feat. Bryson Tiller)",
-            "artists": [
-                "Jack Harlow",
-                "Bryson Tiller"
-            ],
-            "album": "Confetti",
-            "played_at": "26/07/2024 - 20:48:40"
-        },
-        {
-            "song_name": "Lost Me (feat. Lil Mosey)",
-            "artists": [
-                "Internet Money",
-                "iann dior",
-                "Lil Skies",
-                "Lil Mosey"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "26/07/2024 - 20:46:37"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "Giveon"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "26/07/2024 - 20:43:44"
-        },
-        {
-            "song_name": "HIGHEST IN THE ROOM",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "HIGHEST IN THE ROOM",
-            "played_at": "26/07/2024 - 20:40:10"
-        },
-        {
-            "song_name": "Martin & Gina",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "THE GOAT",
-            "played_at": "26/07/2024 - 20:37:20"
-        },
-        {
-            "song_name": "Leave Me Alone",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "Elevated",
-            "played_at": "26/07/2024 - 20:35:14"
-        },
-        {
-            "song_name": "Ric Flair Drip (with Metro Boomin)",
-            "artists": [
-                "Offset",
-                "Metro Boomin"
-            ],
-            "album": "Without Warning",
-            "played_at": "26/07/2024 - 20:33:31"
-        },
-        {
-            "song_name": "Spicy (feat. Post Malone)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Post Malone"
-            ],
-            "album": "Featuring Ty Dolla $ign",
-            "played_at": "26/07/2024 - 20:30:44"
-        },
-        {
-            "song_name": "By Yourself",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "By Yourself",
-            "played_at": "26/07/2024 - 20:26:26"
-        },
-        {
-            "song_name": "20 Min",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "26/07/2024 - 17:59:35"
-        },
-        {
             "song_name": "Little Birdy Bean",
             "artists": [
                 "Billy Buss Quartet"
@@ -1659,6 +1233,419 @@
             ],
             "album": "Higher",
             "played_at": "28/07/2024 - 02:02:21"
+        },
+        {
+            "song_name": "Use Somebody",
+            "artists": [
+                "Kings of Leon"
+            ],
+            "album": "Only By The Night",
+            "played_at": "28/07/2024 - 14:20:09"
+        },
+        {
+            "song_name": "Scared to Be Lonely",
+            "artists": [
+                "Martin Garrix",
+                "Dua Lipa"
+            ],
+            "album": "Scared to Be Lonely",
+            "played_at": "28/07/2024 - 14:16:24"
+        },
+        {
+            "song_name": "Wherever I Go",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Oh My My (Deluxe)",
+            "played_at": "28/07/2024 - 14:12:49"
+        },
+        {
+            "song_name": "Hall of Fame (feat. will.i.am)",
+            "artists": [
+                "The Script",
+                "will.i.am"
+            ],
+            "album": "#3 Deluxe Version",
+            "played_at": "28/07/2024 - 14:08:18"
+        },
+        {
+            "song_name": "Midnight City",
+            "artists": [
+                "M83"
+            ],
+            "album": "Hurry up, We're Dreaming",
+            "played_at": "28/07/2024 - 14:05:02"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Less Is More",
+            "played_at": "28/07/2024 - 14:01:03"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "28/07/2024 - 13:58:52"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "28/07/2024 - 13:53:44"
+        },
+        {
+            "song_name": "Pompeii",
+            "artists": [
+                "Bastille"
+            ],
+            "album": "Bad Blood",
+            "played_at": "28/07/2024 - 13:50:36"
+        },
+        {
+            "song_name": "Isfahan",
+            "artists": [
+                "Lauren Richardson"
+            ],
+            "album": "A Flower is a Lonesome Thing",
+            "played_at": "28/07/2024 - 13:07:33"
+        },
+        {
+            "song_name": "Little Birdy Bean",
+            "artists": [
+                "Billy Buss Quartet"
+            ],
+            "album": "Little Birdy Bean",
+            "played_at": "28/07/2024 - 12:46:38"
+        },
+        {
+            "song_name": "Last Call",
+            "artists": [
+                "Glass Trio"
+            ],
+            "album": "Nightcaps",
+            "played_at": "28/07/2024 - 12:43:29"
+        },
+        {
+            "song_name": "You Never Say You're Sorry",
+            "artists": [
+                "Martin Landström"
+            ],
+            "album": "Lazy Art",
+            "played_at": "28/07/2024 - 12:40:45"
+        },
+        {
+            "song_name": "Chance would be a fine thing",
+            "artists": [
+                "London Dunes"
+            ],
+            "album": "Chance would be a fine thing",
+            "played_at": "28/07/2024 - 12:36:32"
+        },
+        {
+            "song_name": "I Can Always Tell",
+            "artists": [
+                "Most Iverson"
+            ],
+            "album": "I Can Always Tell",
+            "played_at": "28/07/2024 - 12:32:38"
+        },
+        {
+            "song_name": "Half of forever",
+            "artists": [
+                "Henrik"
+            ],
+            "album": "Half of forever",
+            "played_at": "28/07/2024 - 12:26:44"
+        },
+        {
+            "song_name": "Pink Skies",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Pink Skies",
+            "played_at": "28/07/2024 - 12:24:17"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Drake",
+                "Majid Jordan"
+            ],
+            "album": "Nothing Was The Same (Deluxe)",
+            "played_at": "28/07/2024 - 12:17:32"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "28/07/2024 - 12:13:50"
+        },
+        {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "28/07/2024 - 12:00:02"
+        },
+        {
+            "song_name": "Girls In The Room - Lost Tapes 2020",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Girls In The Room (Lost Tapes 2020)",
+            "played_at": "28/07/2024 - 11:57:54"
+        },
+        {
+            "song_name": "Tempt Me",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tempt Me",
+            "played_at": "28/07/2024 - 11:52:53"
+        },
+        {
+            "song_name": "Target",
+            "artists": [
+                "Gordo",
+                "T-Pain"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "28/07/2024 - 11:50:48"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "28/07/2024 - 11:47:10"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "28/07/2024 - 11:44:23"
+        },
+        {
+            "song_name": "Happiness (feat. Asake & Gunna)",
+            "artists": [
+                "Sarz",
+                "Asake",
+                "Gunna"
+            ],
+            "album": "Happiness (feat. Asake & Gunna)",
+            "played_at": "28/07/2024 - 11:31:13"
+        },
+        {
+            "song_name": "Girls Around The World - Lost Tapes 2016",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Girls Around The World (Lost Tapes 2016)",
+            "played_at": "28/07/2024 - 11:28:25"
+        },
+        {
+            "song_name": "Ground",
+            "artists": [
+                "Khalid"
+            ],
+            "album": "Ground",
+            "played_at": "28/07/2024 - 11:22:45"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "28/07/2024 - 11:19:49"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "28/07/2024 - 11:15:01"
+        },
+        {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "28/07/2024 - 11:10:10"
+        },
+        {
+            "song_name": "Burn, Burn, Burn",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Burn, Burn, Burn",
+            "played_at": "28/07/2024 - 10:58:32"
+        },
+        {
+            "song_name": "Burn, Burn, Burn",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Burn, Burn, Burn",
+            "played_at": "28/07/2024 - 10:03:53"
+        },
+        {
+            "song_name": "Keep The Wolves Away",
+            "artists": [
+                "Uncle Lucius"
+            ],
+            "album": "And You Are Me",
+            "played_at": "28/07/2024 - 09:48:29"
+        },
+        {
+            "song_name": "We Ride",
+            "artists": [
+                "Bryan Martin"
+            ],
+            "album": "Poets & Old Souls",
+            "played_at": "28/07/2024 - 09:43:59"
+        },
+        {
+            "song_name": "Starting Over",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "28/07/2024 - 09:40:56"
+        },
+        {
+            "song_name": "Good To Be",
+            "artists": [
+                "Mark Ambor"
+            ],
+            "album": "Good To Be",
+            "played_at": "28/07/2024 - 09:35:52"
+        },
+        {
+            "song_name": "Everywhere, Everything",
+            "artists": [
+                "Noah Kahan"
+            ],
+            "album": "Stick Season",
+            "played_at": "28/07/2024 - 09:33:30"
+        },
+        {
+            "song_name": "Hell of a Year",
+            "artists": [
+                "Parker McCollum"
+            ],
+            "album": "Probably Wrong",
+            "played_at": "28/07/2024 - 09:29:19"
+        },
+        {
+            "song_name": "Blue Over You",
+            "artists": [
+                "Mason Ramsey"
+            ],
+            "album": "Blue Over You",
+            "played_at": "28/07/2024 - 09:22:10"
+        },
+        {
+            "song_name": "Lady May",
+            "artists": [
+                "Tyler Childers"
+            ],
+            "album": "Purgatory",
+            "played_at": "28/07/2024 - 09:18:10"
+        },
+        {
+            "song_name": "Dawns (feat. Maggie Rogers)",
+            "artists": [
+                "Zach Bryan",
+                "Maggie Rogers"
+            ],
+            "album": "Dawns (feat. Maggie Rogers)",
+            "played_at": "28/07/2024 - 09:15:13"
+        },
+        {
+            "song_name": "Bleeding Out",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "Bleeding Out",
+            "played_at": "28/07/2024 - 09:10:28"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "28/07/2024 - 09:00:34"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "28/07/2024 - 03:20:23"
+        },
+        {
+            "song_name": "Dancing in the Sky",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "28/07/2024 - 02:38:05"
+        },
+        {
+            "song_name": "4runner",
+            "artists": [
+                "Brenn!"
+            ],
+            "album": "County Line",
+            "played_at": "28/07/2024 - 02:35:04"
+        },
+        {
+            "song_name": "Texas Sun",
+            "artists": [
+                "Khruangbin",
+                "Leon Bridges"
+            ],
+            "album": "Texas Sun",
+            "played_at": "28/07/2024 - 02:30:45"
+        },
+        {
+            "song_name": "Bleeding Out",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "Bleeding Out",
+            "played_at": "28/07/2024 - 02:26:38"
+        },
+        {
+            "song_name": "Everywhere, Everything",
+            "artists": [
+                "Noah Kahan"
+            ],
+            "album": "Stick Season",
+            "played_at": "28/07/2024 - 02:23:16"
         }
     ]
 }
