@@ -2,6 +2,85 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "28/07/2024 - 20:51:04"
+        },
+        {
+            "song_name": "Congratulations",
+            "artists": [
+                "Post Malone",
+                "Quavo"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "28/07/2024 - 20:48:06"
+        },
+        {
+            "song_name": "rockstar (feat. 21 Savage)",
+            "artists": [
+                "Post Malone",
+                "21 Savage"
+            ],
+            "album": "beerbongs & bentleys",
+            "played_at": "28/07/2024 - 20:44:32"
+        },
+        {
+            "song_name": "Dial Drunk (with Post Malone)",
+            "artists": [
+                "Noah Kahan",
+                "Post Malone"
+            ],
+            "album": "Dial Drunk (with Post Malone)",
+            "played_at": "28/07/2024 - 20:40:31"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "28/07/2024 - 20:37:03"
+        },
+        {
+            "song_name": "Pour Me A Drink (Feat. Blake Shelton)",
+            "artists": [
+                "Post Malone",
+                "Blake Shelton"
+            ],
+            "album": "Pour Me A Drink",
+            "played_at": "28/07/2024 - 20:33:34"
+        },
+        {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "28/07/2024 - 20:30:25"
+        },
+        {
+            "song_name": "Fortnight (feat. Post Malone)",
+            "artists": [
+                "Taylor Swift",
+                "Post Malone"
+            ],
+            "album": "THE TORTURED POETS DEPARTMENT",
+            "played_at": "28/07/2024 - 20:27:53"
+        },
+        {
+            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
+            "artists": [
+                "Post Malone",
+                "Morgan Wallen"
+            ],
+            "album": "I Had Some Help",
+            "played_at": "28/07/2024 - 20:22:18"
+        },
+        {
             "song_name": "Fast Car",
             "artists": [
                 "Jonas Blue",
@@ -341,79 +420,6 @@
             ],
             "album": "Stick Season",
             "played_at": "28/07/2024 - 09:33:30"
-        },
-        {
-            "song_name": "Hell of a Year",
-            "artists": [
-                "Parker McCollum"
-            ],
-            "album": "Probably Wrong",
-            "played_at": "28/07/2024 - 09:29:19"
-        },
-        {
-            "song_name": "Blue Over You",
-            "artists": [
-                "Mason Ramsey"
-            ],
-            "album": "Blue Over You",
-            "played_at": "28/07/2024 - 09:22:10"
-        },
-        {
-            "song_name": "Lady May",
-            "artists": [
-                "Tyler Childers"
-            ],
-            "album": "Purgatory",
-            "played_at": "28/07/2024 - 09:18:10"
-        },
-        {
-            "song_name": "Dawns (feat. Maggie Rogers)",
-            "artists": [
-                "Zach Bryan",
-                "Maggie Rogers"
-            ],
-            "album": "Dawns (feat. Maggie Rogers)",
-            "played_at": "28/07/2024 - 09:15:13"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "28/07/2024 - 09:10:28"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "28/07/2024 - 09:00:34"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "28/07/2024 - 03:20:23"
-        },
-        {
-            "song_name": "Dancing in the Sky",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "28/07/2024 - 02:38:05"
-        },
-        {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "28/07/2024 - 02:35:04"
         },
         {
             "song_name": "Chemical",
