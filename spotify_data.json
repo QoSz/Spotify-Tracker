@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Number 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "Number 2 / Never Last",
+            "played_at": "29/07/2024 - 17:29:48"
+        },
+        {
             "song_name": "on one tonight",
             "artists": [
                 "Gunna"
@@ -429,15 +437,6 @@
             ],
             "album": "THE TORTURED POETS DEPARTMENT",
             "played_at": "28/07/2024 - 20:27:53"
-        },
-        {
-            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
-            "artists": [
-                "Post Malone",
-                "Morgan Wallen"
-            ],
-            "album": "I Had Some Help",
-            "played_at": "28/07/2024 - 20:22:18"
         },
         {
             "song_name": "Number 2",
