@@ -442,6 +442,15 @@
             "played_at": "29/07/2024 - 16:27:52"
         },
         {
+            "song_name": "Your Way",
+            "artists": [
+                "Johannes Jungleson",
+                "Tropical Fairytale"
+            ],
+            "album": "Beach House",
+            "played_at": "30/07/2024 - 15:16:02"
+        },
+        {
             "song_name": "Young Folks",
             "artists": [
                 "John Skyfield",
@@ -871,15 +880,6 @@
             ],
             "album": "Dark Lane Demo Tapes",
             "played_at": "29/07/2024 - 16:30:15"
-        },
-        {
-            "song_name": "Fuck Love",
-            "artists": [
-                "XXXTENTACION",
-                "Trippie Redd"
-            ],
-            "album": "17",
-            "played_at": "29/07/2024 - 16:27:52"
         },
         {
             "song_name": "Your Way",
