@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Cooped Up (with Roddy Ricch)",
+            "artists": [
+                "Post Malone",
+                "Roddy Ricch"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "31/07/2024 - 15:19:20"
+        },
+        {
             "song_name": "92 Explorer",
             "artists": [
                 "Post Malone"
@@ -417,16 +426,6 @@
             ],
             "album": "Let It Pour",
             "played_at": "30/07/2024 - 22:32:58"
-        },
-        {
-            "song_name": "Only The Team (with Lil Mosey & Lil Tjay)",
-            "artists": [
-                "Rvssian",
-                "Lil Mosey",
-                "Lil Tjay"
-            ],
-            "album": "Only The Team (with Lil Mosey & Lil Tjay)",
-            "played_at": "30/07/2024 - 22:30:35"
         },
         {
             "song_name": "Cooped Up (with Roddy Ricch)",
