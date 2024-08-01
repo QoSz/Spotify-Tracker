@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "01/08/2024 - 18:10:12"
+        },
+        {
             "song_name": "Unforgettable",
             "artists": [
                 "French Montana",
@@ -421,15 +430,6 @@
             ],
             "album": "Dreams",
             "played_at": "01/08/2024 - 15:44:46"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Ark Patrol",
-                "Veronika Redd"
-            ],
-            "album": "Let Go (Acoustic)",
-            "played_at": "01/08/2024 - 15:41:03"
         },
         {
             "song_name": "Hate It Or Love It",
