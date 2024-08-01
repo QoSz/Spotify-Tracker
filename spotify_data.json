@@ -2,425 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "time keeps moving",
-            "artists": [
-                "aimless"
-            ],
-            "album": "beats from 2017",
-            "played_at": "01/08/2024 - 12:28:17"
-        },
-        {
-            "song_name": "Chérie",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "01/08/2024 - 12:27:11"
-        },
-        {
-            "song_name": "vanilla latte",
-            "artists": [
-                "BØJET"
-            ],
-            "album": "vanilla latte",
-            "played_at": "01/08/2024 - 12:23:43"
-        },
-        {
-            "song_name": "Balcony blues",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "Treehouses",
-            "played_at": "01/08/2024 - 12:22:19"
-        },
-        {
-            "song_name": "Take You There",
-            "artists": [
-                "Huey Daze"
-            ],
-            "album": "Setsuna",
-            "played_at": "01/08/2024 - 12:20:26"
-        },
-        {
-            "song_name": "Baby",
-            "artists": [
-                "moow"
-            ],
-            "album": "I Can't Tell You How Much It Hurts",
-            "played_at": "01/08/2024 - 12:17:54"
-        },
-        {
-            "song_name": "young folks",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "young folks",
-            "played_at": "01/08/2024 - 12:16:20"
-        },
-        {
-            "song_name": "October",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "October",
-            "played_at": "01/08/2024 - 12:13:53"
-        },
-        {
-            "song_name": "Memoir #02 [06.12.09]",
-            "artists": [
-                "Maria Pseftoga",
-                "May Roosevelt"
-            ],
-            "album": "Memoir #02 [06.12.09]",
-            "played_at": "01/08/2024 - 12:12:48"
-        },
-        {
-            "song_name": "Jealous",
-            "artists": [
-                "Eyedress"
-            ],
-            "album": "Jealous",
-            "played_at": "01/08/2024 - 12:10:50"
-        },
-        {
-            "song_name": "a vibration",
-            "artists": [
-                "coldbrew"
-            ],
-            "album": "a vibration",
-            "played_at": "01/08/2024 - 12:08:47"
-        },
-        {
-            "song_name": "Desert Night",
-            "artists": [
-                "l'Outlander"
-            ],
-            "album": "Massa",
-            "played_at": "01/08/2024 - 12:07:24"
-        },
-        {
-            "song_name": "Turbulence",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Solitude",
-            "played_at": "01/08/2024 - 12:04:48"
-        },
-        {
-            "song_name": "Heat Waves",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Heat Waves",
-            "played_at": "01/08/2024 - 12:02:53"
-        },
-        {
-            "song_name": "Dreamscape",
-            "artists": [
-                "Spencer Hunt"
-            ],
-            "album": "Sound Asleep",
-            "played_at": "01/08/2024 - 12:00:45"
-        },
-        {
-            "song_name": "Butterfly Season",
-            "artists": [
-                "Lucas Melan",
-                "bearbare"
-            ],
-            "album": "Butterfly Season",
-            "played_at": "01/08/2024 - 11:57:45"
-        },
-        {
-            "song_name": "Ocean Love",
-            "artists": [
-                "Yelloo Hill"
-            ],
-            "album": "Ocean Love",
-            "played_at": "01/08/2024 - 11:55:04"
-        },
-        {
-            "song_name": "Dust - Slowed & Reverb",
-            "artists": [
-                "A.Oonthebeat"
-            ],
-            "album": "A.O, Vol. 6 (Slowed & Reverb)",
-            "played_at": "01/08/2024 - 11:51:22"
-        },
-        {
-            "song_name": "Everyone Was Pretending to Be Someone Else",
-            "artists": [
-                "Laevi"
-            ],
-            "album": "Don't We Dance Lovely",
-            "played_at": "01/08/2024 - 11:49:45"
-        },
-        {
-            "song_name": "Ocean Kiss",
-            "artists": [
-                "Sweet Oscar",
-                "soave lofi"
-            ],
-            "album": "Ocean Kiss",
-            "played_at": "01/08/2024 - 11:47:41"
-        },
-        {
-            "song_name": "beach",
-            "artists": [
-                "oofoe"
-            ],
-            "album": "stranded",
-            "played_at": "01/08/2024 - 11:45:26"
-        },
-        {
-            "song_name": "Lakeview",
-            "artists": [
-                "Oaty.",
-                "Prime8"
-            ],
-            "album": "Lakeview",
-            "played_at": "01/08/2024 - 11:44:25"
-        },
-        {
-            "song_name": "Artwork in Amsterdam",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "01/08/2024 - 11:42:30"
-        },
-        {
-            "song_name": "Sundress & Tattoos",
-            "artists": [
-                "twuan",
-                "Strehlow"
-            ],
-            "album": "Sundress & Tattoos",
-            "played_at": "01/08/2024 - 11:41:01"
-        },
-        {
-            "song_name": "Wherever You Will Go",
-            "artists": [
-                "Silky",
-                "Wist",
-                "Bumblebee"
-            ],
-            "album": "Wherever You Will Go",
-            "played_at": "01/08/2024 - 11:39:26"
-        },
-        {
-            "song_name": "Cover Me In Sunshine",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Cover Me In Sunshine",
-            "played_at": "01/08/2024 - 11:37:44"
-        },
-        {
-            "song_name": "belonging",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "belonging",
-            "played_at": "01/08/2024 - 11:35:50"
-        },
-        {
-            "song_name": "New Beginnings",
-            "artists": [
-                "soho",
-                "Rajstar"
-            ],
-            "album": "New Beginnings",
-            "played_at": "01/08/2024 - 11:33:49"
-        },
-        {
-            "song_name": "riptide",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "corals 3",
-            "played_at": "01/08/2024 - 11:31:15"
-        },
-        {
-            "song_name": "Motorbikes in Sapa",
-            "artists": [
-                "Kalaido"
-            ],
-            "album": "Motorbikes in Sapa",
-            "played_at": "01/08/2024 - 11:29:16"
-        },
-        {
-            "song_name": "Up Through The Clouds",
-            "artists": [
-                "Silky"
-            ],
-            "album": "Up Through The Clouds",
-            "played_at": "01/08/2024 - 11:26:24"
-        },
-        {
-            "song_name": "whereucomefrom.",
-            "artists": [
-                "oofoe"
-            ],
-            "album": "double oo tape",
-            "played_at": "01/08/2024 - 11:24:58"
-        },
-        {
-            "song_name": "Mesmerize",
-            "artists": [
-                "RINZ."
-            ],
-            "album": "Mesmerize",
-            "played_at": "01/08/2024 - 11:23:42"
-        },
-        {
-            "song_name": "Dandelion's Lullaby",
-            "artists": [
-                "Raimu"
-            ],
-            "album": "Dandelion's Lullaby",
-            "played_at": "01/08/2024 - 11:22:03"
-        },
-        {
-            "song_name": "Are You Leaving",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "Tea for Two",
-            "played_at": "01/08/2024 - 11:19:59"
-        },
-        {
-            "song_name": "warm sand",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "corals 3",
-            "played_at": "01/08/2024 - 11:18:44"
-        },
-        {
-            "song_name": "Softcore",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "01/08/2024 - 11:16:05"
-        },
-        {
-            "song_name": "Memory Lane",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Imagination",
-            "played_at": "01/08/2024 - 11:12:39"
-        },
-        {
-            "song_name": "speakeasy",
-            "artists": [
-                "Ethan Rebel",
-                "Wyllem"
-            ],
-            "album": "speakeasy",
-            "played_at": "01/08/2024 - 11:10:22"
-        },
-        {
-            "song_name": "let me hold you",
-            "artists": [
-                "lofi.samurai",
-                "Insowmya"
-            ],
-            "album": "oldies",
-            "played_at": "01/08/2024 - 11:08:39"
-        },
-        {
-            "song_name": "Truly",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "01/08/2024 - 11:07:13"
-        },
-        {
-            "song_name": "Wayside",
-            "artists": [
-                "Sebastian Kamae"
-            ],
-            "album": "Wayside",
-            "played_at": "01/08/2024 - 11:05:49"
-        },
-        {
-            "song_name": "Remember",
-            "artists": [
-                "CaliCronk"
-            ],
-            "album": "Remember",
-            "played_at": "01/08/2024 - 11:03:38"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "01/08/2024 - 11:01:32"
-        },
-        {
-            "song_name": "lilac days",
-            "artists": [
-                ".clouds"
-            ],
-            "album": "twilight walks",
-            "played_at": "01/08/2024 - 11:00:05"
-        },
-        {
-            "song_name": "Hawaii",
-            "artists": [
-                "Silky",
-                "Supine",
-                "Bumblebee"
-            ],
-            "album": "Hawaii",
-            "played_at": "01/08/2024 - 10:58:35"
-        },
-        {
-            "song_name": "Birds",
-            "artists": [
-                "imagiro",
-                "Delayde"
-            ],
-            "album": "Threads",
-            "played_at": "01/08/2024 - 10:56:35"
-        },
-        {
-            "song_name": "Mountain Trails",
-            "artists": [
-                "Jishle"
-            ],
-            "album": "Mountain Trails",
-            "played_at": "01/08/2024 - 10:53:54"
-        },
-        {
-            "song_name": "Stay With Me",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Stay With Me",
-            "played_at": "01/08/2024 - 10:51:42"
-        },
-        {
-            "song_name": "Hideko, Please Don't Leave",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "01/08/2024 - 10:49:16"
-        },
-        {
             "song_name": "Good Vibes",
             "artists": [
                 "paris91"
@@ -1672,6 +1253,434 @@
             ],
             "album": "New Beginnings",
             "played_at": "01/08/2024 - 11:33:49"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "01/08/2024 - 16:50:59"
+        },
+        {
+            "song_name": "Sweetly",
+            "artists": [
+                "Honey",
+                "Summer Vibes"
+            ],
+            "album": "Sweetly",
+            "played_at": "01/08/2024 - 16:48:47"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "01/08/2024 - 16:46:16"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Donner"
+            ],
+            "album": "Love Me",
+            "played_at": "01/08/2024 - 16:44:10"
+        },
+        {
+            "song_name": "Coming With You",
+            "artists": [
+                "Horizon Blue",
+                "Felix Samuel"
+            ],
+            "album": "Coming With You",
+            "played_at": "01/08/2024 - 16:42:02"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Kenn Colt",
+                "Adam Pickard"
+            ],
+            "album": "BALANCE",
+            "played_at": "01/08/2024 - 16:39:49"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "01/08/2024 - 16:36:32"
+        },
+        {
+            "song_name": "Talking To Myself",
+            "artists": [
+                "Namic",
+                "Meynberg"
+            ],
+            "album": "Talking To Myself",
+            "played_at": "01/08/2024 - 16:33:19"
+        },
+        {
+            "song_name": "King",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "King",
+            "played_at": "01/08/2024 - 16:31:14"
+        },
+        {
+            "song_name": "high love",
+            "artists": [
+                "rayn",
+                "cloudseven",
+                "MELINA"
+            ],
+            "album": "high love",
+            "played_at": "01/08/2024 - 16:27:50"
+        },
+        {
+            "song_name": "17",
+            "artists": [
+                "Weisser Quiff"
+            ],
+            "album": "17",
+            "played_at": "01/08/2024 - 16:25:23"
+        },
+        {
+            "song_name": "Dollar Dream [Lucas Estrada Edit]",
+            "artists": [
+                "Lucas Estrada",
+                "Couché",
+                "Polar Notes",
+                "Mentum"
+            ],
+            "album": "Dollar Dream [Lucas Estrada Edit]",
+            "played_at": "01/08/2024 - 16:22:36"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "01/08/2024 - 16:20:04"
+        },
+        {
+            "song_name": "Stop Us Now",
+            "artists": [
+                "NSH",
+                "DT James"
+            ],
+            "album": "Stop Us Now",
+            "played_at": "01/08/2024 - 16:17:39"
+        },
+        {
+            "song_name": "Sunset Lovers",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Horizon Blue",
+                "Carston"
+            ],
+            "album": "Sunset Lovers",
+            "played_at": "01/08/2024 - 16:15:31"
+        },
+        {
+            "song_name": "Cool Kids",
+            "artists": [
+                "Toby Rose",
+                "TWOPILOTS"
+            ],
+            "album": "Cool Kids",
+            "played_at": "01/08/2024 - 16:12:41"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "01/08/2024 - 16:10:14"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Madism",
+                "Philip Strand"
+            ],
+            "album": "Over You",
+            "played_at": "01/08/2024 - 16:07:35"
+        },
+        {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "01/08/2024 - 16:05:19"
+        },
+        {
+            "song_name": "Fallin' In Love",
+            "artists": [
+                "Ruxolf",
+                "Marphil"
+            ],
+            "album": "Fallin' In Love",
+            "played_at": "01/08/2024 - 16:03:17"
+        },
+        {
+            "song_name": "Fire in the Sky",
+            "artists": [
+                "Roman Müller",
+                "Clay Pirinha"
+            ],
+            "album": "Fire in the Sky",
+            "played_at": "01/08/2024 - 16:00:45"
+        },
+        {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "01/08/2024 - 15:57:55"
+        },
+        {
+            "song_name": "Guy For That (Feat. Luke Combs)",
+            "artists": [
+                "Post Malone",
+                "Luke Combs"
+            ],
+            "album": "Guy For That",
+            "played_at": "01/08/2024 - 15:54:03"
+        },
+        {
+            "song_name": "Ball W/O You - Instrumental",
+            "artists": [
+                "DJ Glacier"
+            ],
+            "album": "Ball W/O You (Instrumental)",
+            "played_at": "01/08/2024 - 15:52:05"
+        },
+        {
+            "song_name": "Solo - Sped Up + Instrumental",
+            "artists": [
+                "dopuu"
+            ],
+            "album": "Solo - Sped Up + Instrumental",
+            "played_at": "01/08/2024 - 15:48:50"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "DJ ZeeZee"
+            ],
+            "album": "Dreams",
+            "played_at": "01/08/2024 - 15:44:46"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Ark Patrol",
+                "Veronika Redd"
+            ],
+            "album": "Let Go (Acoustic)",
+            "played_at": "01/08/2024 - 15:41:03"
+        },
+        {
+            "song_name": "Silver Moon",
+            "artists": [
+                "Two Scents",
+                "Mondo Loops"
+            ],
+            "album": "Lately",
+            "played_at": "01/08/2024 - 15:36:55"
+        },
+        {
+            "song_name": "Before It's Too Late",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "01/08/2024 - 15:34:51"
+        },
+        {
+            "song_name": "Spaghetti from the island",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "01/08/2024 - 15:33:51"
+        },
+        {
+            "song_name": "Bliss",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Bliss",
+            "played_at": "01/08/2024 - 15:32:06"
+        },
+        {
+            "song_name": "Chérie",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "01/08/2024 - 15:29:57"
+        },
+        {
+            "song_name": "Fever Dream",
+            "artists": [
+                "Ethan Rebel"
+            ],
+            "album": "Fever Dream",
+            "played_at": "01/08/2024 - 15:03:41"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "01/08/2024 - 15:01:20"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "01/08/2024 - 14:59:24"
+        },
+        {
+            "song_name": "Gon Be Alright",
+            "artists": [
+                "twuan"
+            ],
+            "album": "Gon Be Alright",
+            "played_at": "01/08/2024 - 14:57:20"
+        },
+        {
+            "song_name": "Please",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "When You Forgive",
+            "played_at": "01/08/2024 - 14:55:47"
+        },
+        {
+            "song_name": "Everything Would Be Fine",
+            "artists": [
+                "Alx Beats"
+            ],
+            "album": "Instrumentals, Vol. 7",
+            "played_at": "01/08/2024 - 14:52:11"
+        },
+        {
+            "song_name": "Butterfly Season",
+            "artists": [
+                "Lucas Melan",
+                "bearbare"
+            ],
+            "album": "Butterfly Season",
+            "played_at": "01/08/2024 - 14:50:13"
+        },
+        {
+            "song_name": "I’ll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I’ll Keep You Safe",
+            "played_at": "01/08/2024 - 14:47:31"
+        },
+        {
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "01/08/2024 - 14:45:11"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "01/08/2024 - 14:43:44"
+        },
+        {
+            "song_name": "Good Vibes",
+            "artists": [
+                "paris91"
+            ],
+            "album": "Good Vibes",
+            "played_at": "01/08/2024 - 12:29:35"
+        },
+        {
+            "song_name": "time keeps moving",
+            "artists": [
+                "aimless"
+            ],
+            "album": "beats from 2017",
+            "played_at": "01/08/2024 - 12:28:17"
+        },
+        {
+            "song_name": "Chérie",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "01/08/2024 - 12:27:11"
+        },
+        {
+            "song_name": "vanilla latte",
+            "artists": [
+                "BØJET"
+            ],
+            "album": "vanilla latte",
+            "played_at": "01/08/2024 - 12:23:43"
+        },
+        {
+            "song_name": "Balcony blues",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "Treehouses",
+            "played_at": "01/08/2024 - 12:22:19"
+        },
+        {
+            "song_name": "Take You There",
+            "artists": [
+                "Huey Daze"
+            ],
+            "album": "Setsuna",
+            "played_at": "01/08/2024 - 12:20:26"
+        },
+        {
+            "song_name": "Baby",
+            "artists": [
+                "moow"
+            ],
+            "album": "I Can't Tell You How Much It Hurts",
+            "played_at": "01/08/2024 - 12:17:54"
+        },
+        {
+            "song_name": "young folks",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "young folks",
+            "played_at": "01/08/2024 - 12:16:20"
         }
     ]
 }
