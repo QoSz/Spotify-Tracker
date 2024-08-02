@@ -2,435 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "House Of Cards",
-            "artists": [
-                "Lucas Estrada",
-                "Deepend",
-                "Dan Caplen"
-            ],
-            "album": "House Of Cards",
-            "played_at": "02/08/2024 - 12:37:41"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "02/08/2024 - 12:35:04"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "02/08/2024 - 12:32:32"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "02/08/2024 - 12:29:22"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "02/08/2024 - 12:26:14"
-        },
-        {
-            "song_name": "Matter of Time - Lonely in the Rain Remix",
-            "artists": [
-                "Vandelux",
-                "Alex Maher",
-                "Lonely in the Rain"
-            ],
-            "album": "Matter of Time (Lonely In The Rain Remix)",
-            "played_at": "02/08/2024 - 12:23:44"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "02/08/2024 - 12:21:01"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "02/08/2024 - 12:18:37"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "02/08/2024 - 09:57:40"
-        },
-        {
-            "song_name": "Time After Time",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Time After Time",
-            "played_at": "02/08/2024 - 09:56:25"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "02/08/2024 - 09:53:44"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "02/08/2024 - 09:51:08"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "02/08/2024 - 09:47:56"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "02/08/2024 - 09:45:10"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "02/08/2024 - 09:42:59"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "02/08/2024 - 09:40:26"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "02/08/2024 - 09:38:07"
-        },
-        {
-            "song_name": "Creep",
-            "artists": [
-                "GAMPER & DADONI"
-            ],
-            "album": "Creep",
-            "played_at": "02/08/2024 - 09:36:00"
-        },
-        {
-            "song_name": "Sun Screen",
-            "artists": [
-                "Nina Young"
-            ],
-            "album": "Sun Screen",
-            "played_at": "02/08/2024 - 09:33:05"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "02/08/2024 - 09:30:52"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "02/08/2024 - 09:28:09"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "02/08/2024 - 09:25:02"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "02/08/2024 - 09:22:04"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Fast Car",
-            "played_at": "02/08/2024 - 09:18:49"
-        },
-        {
-            "song_name": "Hold This Memory",
-            "artists": [
-                "Deepend",
-                "Madism"
-            ],
-            "album": "Hold This Memory",
-            "played_at": "02/08/2024 - 09:15:17"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "For Life (feat. Nile Rodgers)",
-            "played_at": "02/08/2024 - 09:12:37"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "02/08/2024 - 09:09:41"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "02/08/2024 - 09:06:07"
-        },
-        {
-            "song_name": "Falling Behind",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Everything I Know About Love",
-            "played_at": "02/08/2024 - 06:42:27"
-        },
-        {
-            "song_name": "Easier Said Than Done",
-            "artists": [
-                "Thee Sacred Souls"
-            ],
-            "album": "Thee Sacred Souls",
-            "played_at": "02/08/2024 - 02:57:28"
-        },
-        {
-            "song_name": "What You Won't Do for Love",
-            "artists": [
-                "Bobby Caldwell"
-            ],
-            "album": "What You Won't Do for Love",
-            "played_at": "02/08/2024 - 02:54:40"
-        },
-        {
-            "song_name": "Everybody Loves The Sunshine",
-            "artists": [
-                "Roy Ayers Ubiquity"
-            ],
-            "album": "Everybody Loves The Sunshine (Reissue)",
-            "played_at": "02/08/2024 - 02:49:59"
-        },
-        {
-            "song_name": "nyc in 1940",
-            "artists": [
-                "berlioz",
-                "Ted Jasper"
-            ],
-            "album": "nyc in 1940",
-            "played_at": "02/08/2024 - 02:46:06"
-        },
-        {
-            "song_name": "Mia & Sebastian’s Theme",
-            "artists": [
-                "Justin Hurwitz"
-            ],
-            "album": "La La Land (Original Motion Picture Soundtrack)",
-            "played_at": "02/08/2024 - 02:43:35"
-        },
-        {
-            "song_name": "Got Caught in Amsterdam",
-            "artists": [
-                "Arc De Soleil"
-            ],
-            "album": "The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape",
-            "played_at": "02/08/2024 - 02:42:03"
-        },
-        {
-            "song_name": "Can I Call You Rose?",
-            "artists": [
-                "Thee Sacred Souls"
-            ],
-            "album": "Thee Sacred Souls",
-            "played_at": "02/08/2024 - 02:39:18"
-        },
-        {
-            "song_name": "Opendoors",
-            "artists": [
-                "Jitwam"
-            ],
-            "album": "Honeycomb",
-            "played_at": "02/08/2024 - 02:36:13"
-        },
-        {
-            "song_name": "deep in it",
-            "artists": [
-                "berlioz",
-                "Ted Jasper"
-            ],
-            "album": "deep in it",
-            "played_at": "02/08/2024 - 02:33:37"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "02/08/2024 - 02:31:08"
-        },
-        {
-            "song_name": "I Don't Care Anymore",
-            "artists": [
-                "Freddy Powers"
-            ],
-            "album": "The Country Jazz Singer Collectors Edition",
-            "played_at": "02/08/2024 - 02:20:50"
-        },
-        {
-            "song_name": "I'm Having a Ball",
-            "artists": [
-                "Marty Robbins"
-            ],
-            "album": "Marty After Midnight",
-            "played_at": "02/08/2024 - 02:19:00"
-        },
-        {
-            "song_name": "Creepin' In",
-            "artists": [
-                "Norah Jones",
-                "Dolly Parton"
-            ],
-            "album": "Feels Like Home",
-            "played_at": "02/08/2024 - 02:16:59"
-        },
-        {
-            "song_name": "Sixteen Tons",
-            "artists": [
-                "Tennessee Ernie Ford"
-            ],
-            "album": "Sixteen Tons",
-            "played_at": "02/08/2024 - 02:14:01"
-        },
-        {
-            "song_name": "Crazy - Single Version",
-            "artists": [
-                "Patsy Cline",
-                "The Jordanaires"
-            ],
-            "album": "Showcase",
-            "played_at": "02/08/2024 - 02:11:31"
-        },
-        {
-            "song_name": "Glock In My Lap",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "02/08/2024 - 00:44:10"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "02/08/2024 - 00:34:08"
-        },
-        {
-            "song_name": "Clouded",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "Fuck The World",
-            "played_at": "02/08/2024 - 00:30:54"
-        },
-        {
-            "song_name": "Fall Back",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Fall Back / Selfish Game",
-            "played_at": "02/08/2024 - 00:29:10"
-        },
-        {
-            "song_name": "on one tonight",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "02/08/2024 - 00:26:00"
-        },
-        {
-            "song_name": "PUFFIN ON ZOOTIEZ",
-            "artists": [
-                "Future"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "02/08/2024 - 00:24:35"
-        },
-        {
             "song_name": "Is This Love - Remix",
             "artists": [
                 "Bob Marley & The Wailers",
@@ -1724,6 +1295,445 @@
             ],
             "album": "SAVAGE MODE II",
             "played_at": "02/08/2024 - 00:44:10"
+        },
+        {
+            "song_name": "Hall of Fame (feat. will.i.am)",
+            "artists": [
+                "The Script",
+                "will.i.am"
+            ],
+            "album": "#3 Deluxe Version",
+            "played_at": "02/08/2024 - 21:58:51"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "02/08/2024 - 21:55:34"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "02/08/2024 - 21:52:43"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "I",
+            "played_at": "02/08/2024 - 21:49:30"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "02/08/2024 - 21:46:30"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "02/08/2024 - 21:41:22"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "Hokima",
+                "Shoby"
+            ],
+            "album": "Run",
+            "played_at": "02/08/2024 - 21:28:40"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "02/08/2024 - 21:14:01"
+        },
+        {
+            "song_name": "Give It To Me - Full Vocal Mix",
+            "artists": [
+                "Matt Sassari"
+            ],
+            "album": "Give It To Me (Full Vocal Mix)",
+            "played_at": "02/08/2024 - 21:10:46"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "02/08/2024 - 21:09:09"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "02/08/2024 - 21:06:21"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "02/08/2024 - 21:03:45"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "02/08/2024 - 21:01:32"
+        },
+        {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Blue",
+            "played_at": "02/08/2024 - 20:56:53"
+        },
+        {
+            "song_name": "ALL TEN (feat. Lil Baby)",
+            "artists": [
+                "Tay B",
+                "Lil Baby"
+            ],
+            "album": "ALL TEN (feat. Lil Baby)",
+            "played_at": "02/08/2024 - 20:50:16"
+        },
+        {
+            "song_name": "Broken",
+            "artists": [
+                "Khalid"
+            ],
+            "album": "Sincere",
+            "played_at": "02/08/2024 - 20:45:54"
+        },
+        {
+            "song_name": "HIGHJACK",
+            "artists": [
+                "A$AP Rocky",
+                "Jessica Pratt"
+            ],
+            "album": "HIGHJACK",
+            "played_at": "02/08/2024 - 20:41:23"
+        },
+        {
+            "song_name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+            "artists": [
+                "KITSCHKRIEG",
+                "Fridayy",
+                "Future",
+                "Mariah the Scientist"
+            ],
+            "album": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+            "played_at": "02/08/2024 - 20:37:49"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Free Nationals",
+                "Mac Miller",
+                "Kali Uchis"
+            ],
+            "album": "Free Nationals",
+            "played_at": "02/08/2024 - 16:42:33"
+        },
+        {
+            "song_name": "Small Worlds",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "02/08/2024 - 16:31:04"
+        },
+        {
+            "song_name": "Somethin Wrong In Heaven",
+            "artists": [
+                "Marlon Craft"
+            ],
+            "album": "While We're Here",
+            "played_at": "02/08/2024 - 16:26:39"
+        },
+        {
+            "song_name": "Stevie Doesn't Wonder",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Stevie Doesn't Wonder",
+            "played_at": "02/08/2024 - 16:23:58"
+        },
+        {
+            "song_name": "Navajo",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Navajo",
+            "played_at": "02/08/2024 - 16:21:20"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "02/08/2024 - 16:18:12"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "02/08/2024 - 16:16:40"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "02/08/2024 - 16:13:55"
+        },
+        {
+            "song_name": "Go Flex",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "02/08/2024 - 16:11:31"
+        },
+        {
+            "song_name": "I Think I Left the Stove On",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "I Think I Left the Stove On",
+            "played_at": "02/08/2024 - 16:08:37"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "02/08/2024 - 16:05:21"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "02/08/2024 - 16:01:26"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "02/08/2024 - 15:58:49"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "Erick the Architect",
+                "Loyle Carner",
+                "FARR"
+            ],
+            "album": "Let It Go",
+            "played_at": "02/08/2024 - 15:53:08"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "02/08/2024 - 15:49:03"
+        },
+        {
+            "song_name": "Dunno",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "02/08/2024 - 15:44:15"
+        },
+        {
+            "song_name": "Is This Love - Remix",
+            "artists": [
+                "Bob Marley & The Wailers",
+                "LVNDSCAPE",
+                "Bolier"
+            ],
+            "album": "Is This Love (Remix)",
+            "played_at": "02/08/2024 - 12:38:42"
+        },
+        {
+            "song_name": "House Of Cards",
+            "artists": [
+                "Lucas Estrada",
+                "Deepend",
+                "Dan Caplen"
+            ],
+            "album": "House Of Cards",
+            "played_at": "02/08/2024 - 12:37:41"
+        },
+        {
+            "song_name": "Waves",
+            "artists": [
+                "Gabriel Morais Jr",
+                "Ayla Nova"
+            ],
+            "album": "Waves",
+            "played_at": "02/08/2024 - 12:35:04"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "02/08/2024 - 12:32:32"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "02/08/2024 - 12:29:22"
+        },
+        {
+            "song_name": "Lie To Me",
+            "artists": [
+                "Thom Merlin",
+                "Foínix",
+                "Brandon Chase"
+            ],
+            "album": "Lie To Me",
+            "played_at": "02/08/2024 - 12:26:14"
+        },
+        {
+            "song_name": "Matter of Time - Lonely in the Rain Remix",
+            "artists": [
+                "Vandelux",
+                "Alex Maher",
+                "Lonely in the Rain"
+            ],
+            "album": "Matter of Time (Lonely In The Rain Remix)",
+            "played_at": "02/08/2024 - 12:23:44"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "02/08/2024 - 12:21:01"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "02/08/2024 - 12:18:37"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "02/08/2024 - 09:57:40"
+        },
+        {
+            "song_name": "Time After Time",
+            "artists": [
+                "Paratone"
+            ],
+            "album": "Time After Time",
+            "played_at": "02/08/2024 - 09:56:25"
+        },
+        {
+            "song_name": "Bloom (Brendan Mills Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "TWOPILOTS",
+                "Brendan Mills"
+            ],
+            "album": "Bloom (Brendan Mills Remix)",
+            "played_at": "02/08/2024 - 09:53:44"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "02/08/2024 - 09:51:08"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "02/08/2024 - 09:47:56"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "02/08/2024 - 09:45:10"
+        },
+        {
+            "song_name": "Cool Kids",
+            "artists": [
+                "Toby Rose",
+                "TWOPILOTS"
+            ],
+            "album": "Cool Kids",
+            "played_at": "02/08/2024 - 09:42:59"
         }
     ]
 }
