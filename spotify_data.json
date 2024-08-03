@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "SLIDE",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "03/08/2024 - 14:37:40"
+        },
+        {
             "song_name": "LEAVE ME ALONE",
             "artists": [
                 "Amaarae"
@@ -429,14 +439,6 @@
             ],
             "album": "Gatluak (Bakermat Remix)",
             "played_at": "02/08/2024 - 23:50:31"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "02/08/2024 - 23:48:18"
         },
         {
             "song_name": "SLIDE",
