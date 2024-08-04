@@ -36,6 +36,14 @@
             "played_at": "04/08/2024 - 15:37:21"
         },
         {
+            "song_name": "Let Go",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "04/08/2024 - 12:46:07"
+        },
+        {
             "song_name": "See You Again (feat. Kali Uchis)",
             "artists": [
                 "Tyler, The Creator",
@@ -441,13 +449,13 @@
             "played_at": "03/08/2024 - 12:18:05"
         },
         {
-            "song_name": "Gone Girl",
+            "song_name": "Piece of Me (feat. Ella Mai)",
             "artists": [
-                "Obongjayar",
-                "Sarz"
+                "Wizkid",
+                "Ella Mai"
             ],
-            "album": "Gone Girl",
-            "played_at": "03/08/2024 - 12:13:30"
+            "album": "Made In Lagos",
+            "played_at": "04/08/2024 - 15:50:23"
         },
         {
             "song_name": "Found (feat. Brent Faiyaz)",
@@ -887,14 +895,6 @@
             ],
             "album": "Born in the Wild",
             "played_at": "03/08/2024 - 12:24:27"
-        },
-        {
-            "song_name": "You in My Face",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "03/08/2024 - 12:18:05"
         },
         {
             "song_name": "Piece of Me (feat. Ella Mai)",
