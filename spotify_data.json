@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Piece of Me (feat. Ella Mai)",
+            "artists": [
+                "Wizkid",
+                "Ella Mai"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "04/08/2024 - 15:50:23"
+        },
+        {
             "song_name": "Found (feat. Brent Faiyaz)",
             "artists": [
                 "Tems",
@@ -439,14 +448,6 @@
             ],
             "album": "Born in the Wild",
             "played_at": "03/08/2024 - 12:24:27"
-        },
-        {
-            "song_name": "You in My Face",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "03/08/2024 - 12:18:05"
         },
         {
             "song_name": "Piece of Me (feat. Ella Mai)",
