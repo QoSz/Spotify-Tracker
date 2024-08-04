@@ -1346,6 +1346,42 @@
             "played_at": "03/08/2024 - 12:24:27"
         },
         {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "04/08/2024 - 23:14:54"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "04/08/2024 - 23:12:18"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "04/08/2024 - 23:05:55"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "04/08/2024 - 23:01:07"
+        },
+        {
             "song_name": "Piece of Me (feat. Ella Mai)",
             "artists": [
                 "Wizkid",
@@ -1757,41 +1793,6 @@
             ],
             "album": "WhatsApp",
             "played_at": "03/08/2024 - 12:38:58"
-        },
-        {
-            "song_name": "On God",
-            "artists": [
-                "Seyi Vibez",
-                "Tml Vibez",
-                "ODUMODUBLVCK"
-            ],
-            "album": "Vibez Incorporation Mixtape, Vol.1",
-            "played_at": "03/08/2024 - 12:36:43"
-        },
-        {
-            "song_name": "Time N Affection",
-            "artists": [
-                "Rema",
-                "Chris Brown"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "03/08/2024 - 12:33:48"
-        },
-        {
-            "song_name": "Don't Lie",
-            "artists": [
-                "Tay Iwar"
-            ],
-            "album": "Summer Breeze",
-            "played_at": "03/08/2024 - 12:29:57"
-        },
-        {
-            "song_name": "Turn Me Up",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "03/08/2024 - 12:24:27"
         }
     ]
 }
