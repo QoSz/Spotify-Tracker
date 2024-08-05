@@ -1328,6 +1328,15 @@
             "played_at": "04/08/2024 - 12:17:21"
         },
         {
+            "song_name": "Dreams",
+            "artists": [
+                "Kenn Colt",
+                "Adam Pickard"
+            ],
+            "album": "BALANCE",
+            "played_at": "05/08/2024 - 12:34:54"
+        },
+        {
             "song_name": "Magnificent",
             "artists": [
                 "Daniel Glaven",
@@ -1759,15 +1768,6 @@
             ],
             "album": "CHASE",
             "played_at": "04/08/2024 - 12:46:07"
-        },
-        {
-            "song_name": "See You Again (feat. Kali Uchis)",
-            "artists": [
-                "Tyler, The Creator",
-                "Kali Uchis"
-            ],
-            "album": "Flower Boy",
-            "played_at": "04/08/2024 - 12:17:21"
         }
     ]
 }
