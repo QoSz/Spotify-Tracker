@@ -2,6 +2,75 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "05/08/2024 - 20:51:57"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "05/08/2024 - 20:49:36"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "05/08/2024 - 20:46:22"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "05/08/2024 - 20:44:42"
+        },
+        {
+            "song_name": "Hopeless Romantic (feat. Swae Lee)",
+            "artists": [
+                "Wiz Khalifa",
+                "Swae Lee"
+            ],
+            "album": "Rolling Papers 2",
+            "played_at": "05/08/2024 - 20:40:42"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "05/08/2024 - 20:35:03"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "05/08/2024 - 20:30:55"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "05/08/2024 - 20:26:08"
+        },
+        {
             "song_name": "Dreams",
             "artists": [
                 "Kenn Colt",
@@ -373,75 +442,6 @@
             ],
             "album": "Sideways",
             "played_at": "04/08/2024 - 23:12:18"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/08/2024 - 23:05:55"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/08/2024 - 23:01:07"
-        },
-        {
-            "song_name": "Piece of Me (feat. Ella Mai)",
-            "artists": [
-                "Wizkid",
-                "Ella Mai"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "04/08/2024 - 15:50:23"
-        },
-        {
-            "song_name": "Found (feat. Brent Faiyaz)",
-            "artists": [
-                "Tems",
-                "Brent Faiyaz"
-            ],
-            "album": "Found (feat. Brent Faiyaz)",
-            "played_at": "04/08/2024 - 15:48:05"
-        },
-        {
-            "song_name": "umoya",
-            "artists": [
-                "Blxckie"
-            ],
-            "album": "umoya",
-            "played_at": "04/08/2024 - 15:44:35"
-        },
-        {
-            "song_name": "24/48",
-            "artists": [
-                "Odeal"
-            ],
-            "album": "OVMBR: Roses",
-            "played_at": "04/08/2024 - 15:40:03"
-        },
-        {
-            "song_name": "Time N Affection",
-            "artists": [
-                "Rema",
-                "Chris Brown"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "04/08/2024 - 15:37:21"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "04/08/2024 - 12:46:07"
         },
         {
             "song_name": "THE REV3NGE",
