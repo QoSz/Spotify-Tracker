@@ -2,454 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Piece of Me (feat. Ella Mai)",
-            "artists": [
-                "Wizkid",
-                "Ella Mai"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "04/08/2024 - 15:50:23"
-        },
-        {
-            "song_name": "Found (feat. Brent Faiyaz)",
-            "artists": [
-                "Tems",
-                "Brent Faiyaz"
-            ],
-            "album": "Found (feat. Brent Faiyaz)",
-            "played_at": "04/08/2024 - 15:48:05"
-        },
-        {
-            "song_name": "umoya",
-            "artists": [
-                "Blxckie"
-            ],
-            "album": "umoya",
-            "played_at": "04/08/2024 - 15:44:35"
-        },
-        {
-            "song_name": "24/48",
-            "artists": [
-                "Odeal"
-            ],
-            "album": "OVMBR: Roses",
-            "played_at": "04/08/2024 - 15:40:03"
-        },
-        {
-            "song_name": "Time N Affection",
-            "artists": [
-                "Rema",
-                "Chris Brown"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "04/08/2024 - 15:37:21"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "04/08/2024 - 12:46:07"
-        },
-        {
-            "song_name": "See You Again (feat. Kali Uchis)",
-            "artists": [
-                "Tyler, The Creator",
-                "Kali Uchis"
-            ],
-            "album": "Flower Boy",
-            "played_at": "04/08/2024 - 12:17:21"
-        },
-        {
-            "song_name": "No Role Modelz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "2014 Forest Hills Drive",
-            "played_at": "04/08/2024 - 12:14:26"
-        },
-        {
-            "song_name": "Passionfruit",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "04/08/2024 - 12:09:40"
-        },
-        {
-            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-            "artists": [
-                "Metro Boomin",
-                "James Blake",
-                "A$AP Rocky",
-                "21 Savage"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "04/08/2024 - 12:04:46"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "04/08/2024 - 12:01:23"
-        },
-        {
-            "song_name": "HIGHJACK",
-            "artists": [
-                "A$AP Rocky",
-                "Jessica Pratt"
-            ],
-            "album": "HIGHJACK",
-            "played_at": "04/08/2024 - 11:59:08"
-        },
-        {
-            "song_name": "I'm Good Luv, Enjoy.",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "04/08/2024 - 11:56:04"
-        },
-        {
-            "song_name": "Imperfections (Interlude)",
-            "artists": [
-                "Pop Smoke"
-            ],
-            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-            "played_at": "04/08/2024 - 11:53:55"
-        },
-        {
-            "song_name": "wonder about you",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "wonder about you",
-            "played_at": "04/08/2024 - 11:49:37"
-        },
-        {
-            "song_name": "Overdue (with Travis Scott)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "04/08/2024 - 11:47:34"
-        },
-        {
-            "song_name": "Lemonade (feat. NAV)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "NAV"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "04/08/2024 - 11:44:54"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "04/08/2024 - 11:41:45"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/08/2024 - 11:38:38"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/08/2024 - 00:17:01"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "03/08/2024 - 23:10:21"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "03/08/2024 - 23:08:07"
-        },
-        {
-            "song_name": "You're Mines Still (feat. Drake)",
-            "artists": [
-                "Yung Bleu",
-                "Drake"
-            ],
-            "album": "Moon Boy",
-            "played_at": "03/08/2024 - 23:05:37"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "03/08/2024 - 23:00:38"
-        },
-        {
-            "song_name": "Dunno",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "03/08/2024 - 22:59:03"
-        },
-        {
-            "song_name": "Pain 1993 (with Playboi Carti)",
-            "artists": [
-                "Drake",
-                "Playboi Carti"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "03/08/2024 - 22:55:12"
-        },
-        {
-            "song_name": "ISABELLA",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 22:52:26"
-        },
-        {
-            "song_name": "FRIED",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 22:52:19"
-        },
-        {
-            "song_name": "FIELD TRIP",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 22:49:22"
-        },
-        {
-            "song_name": "TIME MOVING SLOW",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 22:46:35"
-        },
-        {
-            "song_name": "SLIDE",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 22:43:56"
-        },
-        {
-            "song_name": "SLIDE",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "03/08/2024 - 14:37:40"
-        },
-        {
-            "song_name": "LEAVE ME ALONE",
-            "artists": [
-                "Amaarae"
-            ],
-            "album": "LEAVE ME ALONE",
-            "played_at": "03/08/2024 - 13:17:40"
-        },
-        {
-            "song_name": "wicked, sexy!",
-            "artists": [
-                "Odunsi (The Engine)",
-                "Maison2500"
-            ],
-            "album": "EVERYTHING YOU HEARD IS TRUE",
-            "played_at": "03/08/2024 - 13:15:25"
-        },
-        {
-            "song_name": "Rapid Fire",
-            "artists": [
-                "Cruel Santino",
-                "Shane Eagle",
-                "Tomi Agape",
-                "Amaarae"
-            ],
-            "album": "Rapid Fire",
-            "played_at": "03/08/2024 - 13:12:49"
-        },
-        {
-            "song_name": "Gwarn",
-            "artists": [
-                "Juls",
-                "Burna Boy"
-            ],
-            "album": "Gwarn",
-            "played_at": "03/08/2024 - 13:09:43"
-        },
-        {
-            "song_name": "Money & Laughter",
-            "artists": [
-                "Boj",
-                "Amaarae",
-                "Zamir"
-            ],
-            "album": "Gbagada Express",
-            "played_at": "03/08/2024 - 13:05:42"
-        },
-        {
-            "song_name": "UNO (feat. BenjiFlow)",
-            "artists": [
-                "SuperJazzClub",
-                "BenjiFlow"
-            ],
-            "album": "MONOCHROME RADIO",
-            "played_at": "03/08/2024 - 13:03:10"
-        },
-        {
-            "song_name": "Decided",
-            "artists": [
-                "Odunsi (The Engine)",
-                "Tems"
-            ],
-            "album": "Decided",
-            "played_at": "03/08/2024 - 13:00:37"
-        },
-        {
-            "song_name": "wys?",
-            "artists": [
-                "AYLØ",
-                "Santi"
-            ],
-            "album": "Insert Project Name",
-            "played_at": "03/08/2024 - 12:57:37"
-        },
-        {
-            "song_name": "SAD GIRLZ LUV MONEY",
-            "artists": [
-                "Amaarae",
-                "Moliy"
-            ],
-            "album": "THE ANGEL YOU DON'T KNOW",
-            "played_at": "03/08/2024 - 12:54:42"
-        },
-        {
-            "song_name": "Lagos Bad Girls",
-            "artists": [
-                "Bils"
-            ],
-            "album": "Lagos Bad Girls",
-            "played_at": "03/08/2024 - 12:51:26"
-        },
-        {
-            "song_name": "Hide & Seek - Rema Remix",
-            "artists": [
-                "Stormzy",
-                "Rema"
-            ],
-            "album": "Hide & Seek (Rema Remix)",
-            "played_at": "03/08/2024 - 12:48:47"
-        },
-        {
-            "song_name": "Showcase (feat. Blaqbonez)",
-            "artists": [
-                "Young Jonn",
-                "Blaqbonez"
-            ],
-            "album": "Jiggy Forever",
-            "played_at": "03/08/2024 - 12:44:05"
-        },
-        {
-            "song_name": "Instagram",
-            "artists": [
-                "Muyeez",
-                "Seyi Vibez"
-            ],
-            "album": "Instagram",
-            "played_at": "03/08/2024 - 12:41:18"
-        },
-        {
-            "song_name": "WhatsApp",
-            "artists": [
-                "Seyi Vibez",
-                "Bloody Civilian"
-            ],
-            "album": "WhatsApp",
-            "played_at": "03/08/2024 - 12:38:58"
-        },
-        {
-            "song_name": "On God",
-            "artists": [
-                "Seyi Vibez",
-                "Tml Vibez",
-                "ODUMODUBLVCK"
-            ],
-            "album": "Vibez Incorporation Mixtape, Vol.1",
-            "played_at": "03/08/2024 - 12:36:43"
-        },
-        {
-            "song_name": "Time N Affection",
-            "artists": [
-                "Rema",
-                "Chris Brown"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "03/08/2024 - 12:33:48"
-        },
-        {
-            "song_name": "Don't Lie",
-            "artists": [
-                "Tay Iwar"
-            ],
-            "album": "Summer Breeze",
-            "played_at": "03/08/2024 - 12:29:57"
-        },
-        {
-            "song_name": "Turn Me Up",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "03/08/2024 - 12:24:27"
-        },
-        {
             "song_name": "Love Lost",
             "artists": [
                 "Mac Miller",
@@ -897,6 +449,448 @@
             ],
             "album": "WhatsApp",
             "played_at": "03/08/2024 - 12:38:58"
+        },
+        {
+            "song_name": "Magnificent",
+            "artists": [
+                "Daniel Glaven",
+                "WLZN"
+            ],
+            "album": "Magnificent",
+            "played_at": "05/08/2024 - 12:15:07"
+        },
+        {
+            "song_name": "Belong - Deepend Edit",
+            "artists": [
+                "Deepend",
+                "Graham Candy"
+            ],
+            "album": "Belong",
+            "played_at": "05/08/2024 - 12:13:03"
+        },
+        {
+            "song_name": "Another Love",
+            "artists": [
+                "Rolipso",
+                "Foínix",
+                "Jordan Grace"
+            ],
+            "album": "Another Love",
+            "played_at": "05/08/2024 - 12:10:33"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "05/08/2024 - 12:08:33"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Moonkids"
+            ],
+            "album": "Waiting",
+            "played_at": "05/08/2024 - 12:05:50"
+        },
+        {
+            "song_name": "I'll Be Alright",
+            "artists": [
+                "Magnus Gunn"
+            ],
+            "album": "I'll Be Alright",
+            "played_at": "05/08/2024 - 12:03:37"
+        },
+        {
+            "song_name": "Lush",
+            "artists": [
+                "Ayla Nova"
+            ],
+            "album": "Lush",
+            "played_at": "05/08/2024 - 12:00:42"
+        },
+        {
+            "song_name": "When You Move",
+            "artists": [
+                "Blonde Maze"
+            ],
+            "album": "When You Move",
+            "played_at": "05/08/2024 - 11:58:10"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "05/08/2024 - 11:54:49"
+        },
+        {
+            "song_name": "Angels",
+            "artists": [
+                "Eneko Artola",
+                "Luca",
+                "Nina Carr"
+            ],
+            "album": "Angels",
+            "played_at": "05/08/2024 - 11:52:41"
+        },
+        {
+            "song_name": "Hold This Memory",
+            "artists": [
+                "Deepend",
+                "Madism"
+            ],
+            "album": "Hold This Memory",
+            "played_at": "05/08/2024 - 11:50:26"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "05/08/2024 - 11:48:02"
+        },
+        {
+            "song_name": "A Little Bit Closer",
+            "artists": [
+                "SoN"
+            ],
+            "album": "A Little Bit Closer",
+            "played_at": "05/08/2024 - 11:45:53"
+        },
+        {
+            "song_name": "Hearts Collide",
+            "artists": [
+                "leisse"
+            ],
+            "album": "Hearts Collide",
+            "played_at": "05/08/2024 - 11:43:42"
+        },
+        {
+            "song_name": "In Deep",
+            "artists": [
+                "Beachwax"
+            ],
+            "album": "In Deep",
+            "played_at": "05/08/2024 - 11:41:45"
+        },
+        {
+            "song_name": "City of Love",
+            "artists": [
+                "Lonely in the Rain",
+                "Nounours"
+            ],
+            "album": "City of Love",
+            "played_at": "05/08/2024 - 11:39:15"
+        },
+        {
+            "song_name": "This Town",
+            "artists": [
+                "Saco",
+                "Sparkle",
+                "Isabel Prada"
+            ],
+            "album": "This Town",
+            "played_at": "05/08/2024 - 11:36:30"
+        },
+        {
+            "song_name": "Old Life",
+            "artists": [
+                "Mats Westbroek"
+            ],
+            "album": "Old Life",
+            "played_at": "05/08/2024 - 11:33:39"
+        },
+        {
+            "song_name": "Hater",
+            "artists": [
+                "Nexeri"
+            ],
+            "album": "Hater",
+            "played_at": "05/08/2024 - 11:30:44"
+        },
+        {
+            "song_name": "Safe Place",
+            "artists": [
+                "Weisser Quiff",
+                "Moise"
+            ],
+            "album": "Safe Place",
+            "played_at": "05/08/2024 - 11:28:11"
+        },
+        {
+            "song_name": "Dancing With Your Ghost",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Dancing With Your Ghost",
+            "played_at": "05/08/2024 - 11:26:07"
+        },
+        {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "05/08/2024 - 11:23:38"
+        },
+        {
+            "song_name": "Thinking Of You",
+            "artists": [
+                "Pierse"
+            ],
+            "album": "Thinking Of You",
+            "played_at": "05/08/2024 - 11:20:42"
+        },
+        {
+            "song_name": "Let You Go Later",
+            "artists": [
+                "Guille Alvarez",
+                "Emma Castellino"
+            ],
+            "album": "Let You Go Later",
+            "played_at": "05/08/2024 - 11:18:14"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "05/08/2024 - 11:15:34"
+        },
+        {
+            "song_name": "Take You Back",
+            "artists": [
+                "Theodor Rosenberg",
+                "Vowed"
+            ],
+            "album": "Take You Back",
+            "played_at": "05/08/2024 - 11:13:36"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "05/08/2024 - 11:11:48"
+        },
+        {
+            "song_name": "La danse des oiseaux",
+            "artists": [
+                "Faylasuf"
+            ],
+            "album": "La danse des oiseaux",
+            "played_at": "05/08/2024 - 11:09:45"
+        },
+        {
+            "song_name": "Strong",
+            "artists": [
+                "Sigma",
+                "Kovic"
+            ],
+            "album": "Hope",
+            "played_at": "05/08/2024 - 11:06:24"
+        },
+        {
+            "song_name": "Lucky Star",
+            "artists": [
+                "Sol Novaro",
+                "ROBINS"
+            ],
+            "album": "Lucky Star",
+            "played_at": "05/08/2024 - 11:03:03"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "05/08/2024 - 11:00:33"
+        },
+        {
+            "song_name": "Never Need",
+            "artists": [
+                "Hogland",
+                "Charlie South"
+            ],
+            "album": "Never Need",
+            "played_at": "05/08/2024 - 10:57:57"
+        },
+        {
+            "song_name": "Is This Love - Remix",
+            "artists": [
+                "Bob Marley & The Wailers",
+                "LVNDSCAPE",
+                "Bolier"
+            ],
+            "album": "Is This Love (Remix)",
+            "played_at": "05/08/2024 - 10:54:47"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "05/08/2024 - 10:51:56"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Kids",
+            "played_at": "05/08/2024 - 10:49:08"
+        },
+        {
+            "song_name": "Cool Kids",
+            "artists": [
+                "Toby Rose",
+                "TWOPILOTS"
+            ],
+            "album": "Cool Kids",
+            "played_at": "05/08/2024 - 10:46:57"
+        },
+        {
+            "song_name": "Catch Another Tide",
+            "artists": [
+                "Thierry Von Der Warth",
+                "NSH"
+            ],
+            "album": "Catch Another Tide",
+            "played_at": "05/08/2024 - 10:44:29"
+        },
+        {
+            "song_name": "Wonderwall",
+            "artists": [
+                "Deeply Dip",
+                "Crystal Rock",
+                "Marc Kiss",
+                "Lazorra"
+            ],
+            "album": "Wonderwall",
+            "played_at": "05/08/2024 - 10:41:49"
+        },
+        {
+            "song_name": "Hopeless Romantic (feat. Swae Lee)",
+            "artists": [
+                "Wiz Khalifa",
+                "Swae Lee"
+            ],
+            "album": "Rolling Papers 2",
+            "played_at": "04/08/2024 - 23:18:11"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "04/08/2024 - 23:14:54"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "04/08/2024 - 23:12:18"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "04/08/2024 - 23:05:55"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "04/08/2024 - 23:01:07"
+        },
+        {
+            "song_name": "Piece of Me (feat. Ella Mai)",
+            "artists": [
+                "Wizkid",
+                "Ella Mai"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "04/08/2024 - 15:50:23"
+        },
+        {
+            "song_name": "Found (feat. Brent Faiyaz)",
+            "artists": [
+                "Tems",
+                "Brent Faiyaz"
+            ],
+            "album": "Found (feat. Brent Faiyaz)",
+            "played_at": "04/08/2024 - 15:48:05"
+        },
+        {
+            "song_name": "umoya",
+            "artists": [
+                "Blxckie"
+            ],
+            "album": "umoya",
+            "played_at": "04/08/2024 - 15:44:35"
+        },
+        {
+            "song_name": "24/48",
+            "artists": [
+                "Odeal"
+            ],
+            "album": "OVMBR: Roses",
+            "played_at": "04/08/2024 - 15:40:03"
+        },
+        {
+            "song_name": "Time N Affection",
+            "artists": [
+                "Rema",
+                "Chris Brown"
+            ],
+            "album": "Rave & Roses",
+            "played_at": "04/08/2024 - 15:37:21"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "04/08/2024 - 12:46:07"
+        },
+        {
+            "song_name": "See You Again (feat. Kali Uchis)",
+            "artists": [
+                "Tyler, The Creator",
+                "Kali Uchis"
+            ],
+            "album": "Flower Boy",
+            "played_at": "04/08/2024 - 12:17:21"
         },
         {
             "song_name": "Magnificent",
