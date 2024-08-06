@@ -2,6 +2,167 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Dancing with The Moon",
+            "artists": [
+                "Unora",
+                "Aurila"
+            ],
+            "album": "Dancing with The Moon",
+            "played_at": "06/08/2024 - 13:58:21"
+        },
+        {
+            "song_name": "When You Love Someone",
+            "artists": [
+                "Rolipso",
+                "Foínix",
+                "James Stefano"
+            ],
+            "album": "When You Love Someone",
+            "played_at": "06/08/2024 - 13:56:15"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "YVO"
+            ],
+            "album": "Show Me",
+            "played_at": "06/08/2024 - 13:54:13"
+        },
+        {
+            "song_name": "San Diego Fair",
+            "artists": [
+                "Adon"
+            ],
+            "album": "San Diego Fair",
+            "played_at": "06/08/2024 - 13:52:30"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Ocean Drive",
+            "played_at": "06/08/2024 - 13:50:23"
+        },
+        {
+            "song_name": "Anymore",
+            "artists": [
+                "Eloi El"
+            ],
+            "album": "Anymore",
+            "played_at": "06/08/2024 - 13:47:57"
+        },
+        {
+            "song_name": "Lush",
+            "artists": [
+                "Ayla Nova"
+            ],
+            "album": "Lush",
+            "played_at": "06/08/2024 - 13:45:26"
+        },
+        {
+            "song_name": "One Call Away",
+            "artists": [
+                "Kid On The Block",
+                "Namté"
+            ],
+            "album": "One Call Away",
+            "played_at": "06/08/2024 - 13:42:57"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Refeci",
+                "Alex D'Rosso",
+                "Aili"
+            ],
+            "album": "Over You",
+            "played_at": "06/08/2024 - 13:40:36"
+        },
+        {
+            "song_name": "Follow the Sun",
+            "artists": [
+                "NEIMY"
+            ],
+            "album": "Follow the Sun",
+            "played_at": "06/08/2024 - 13:38:22"
+        },
+        {
+            "song_name": "Promised Land",
+            "artists": [
+                "Saco",
+                "Sparkle"
+            ],
+            "album": "Promised Land",
+            "played_at": "06/08/2024 - 13:35:51"
+        },
+        {
+            "song_name": "Back On Ibiza",
+            "artists": [
+                "Vogel",
+                "James Stefano"
+            ],
+            "album": "Back On Ibiza",
+            "played_at": "06/08/2024 - 13:33:03"
+        },
+        {
+            "song_name": "Kiss Me",
+            "artists": [
+                "sunsets & sandals"
+            ],
+            "album": "Kiss Me",
+            "played_at": "06/08/2024 - 13:30:56"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Donner"
+            ],
+            "album": "Love Me",
+            "played_at": "06/08/2024 - 13:28:20"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "06/08/2024 - 13:26:09"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "06/08/2024 - 13:23:37"
+        },
+        {
+            "song_name": "Take My Breath Away",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Take My Breath Away",
+            "played_at": "06/08/2024 - 13:21:38"
+        },
+        {
+            "song_name": "Cause I Still Love You",
+            "artists": [
+                "Richill"
+            ],
+            "album": "Cause I Still Love You",
+            "played_at": "06/08/2024 - 13:18:44"
+        },
+        {
+            "song_name": "Cause I Still Love You",
+            "artists": [
+                "Richill"
+            ],
+            "album": "Cause I Still Love You",
+            "played_at": "06/08/2024 - 12:30:06"
+        },
+        {
             "song_name": "Stuck In The Rain",
             "artists": [
                 "Bjarne Hendrik"
@@ -272,163 +433,6 @@
             ],
             "album": "County Line",
             "played_at": "06/08/2024 - 01:53:49"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "i am not who i was",
-            "played_at": "06/08/2024 - 01:49:29"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "06/08/2024 - 01:47:10"
-        },
-        {
-            "song_name": "Interlude",
-            "artists": [
-                "Hollow Coves"
-            ],
-            "album": "Wanderlust",
-            "played_at": "06/08/2024 - 01:44:36"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "06/08/2024 - 01:43:42"
-        },
-        {
-            "song_name": "Elephant Crossing~",
-            "artists": [
-                "Edwin Raphael"
-            ],
-            "album": "Will You Think of Me Later?",
-            "played_at": "06/08/2024 - 01:42:21"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "06/08/2024 - 01:41:22"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "06/08/2024 - 01:38:40"
-        },
-        {
-            "song_name": "Burn, Burn, Burn",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "06/08/2024 - 01:35:18"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "06/08/2024 - 01:29:34"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "06/08/2024 - 01:25:03"
-        },
-        {
-            "song_name": "Gunfinger (Salute)",
-            "artists": [
-                "IRAH",
-                "Chase & Status"
-            ],
-            "album": "Gunfinger (Salute)",
-            "played_at": "05/08/2024 - 22:29:32"
-        },
-        {
-            "song_name": "Sativa",
-            "artists": [
-                "Jhené Aiko",
-                "Swae Lee"
-            ],
-            "album": "Trip",
-            "played_at": "05/08/2024 - 21:46:02"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "05/08/2024 - 20:51:57"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "05/08/2024 - 20:49:36"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "05/08/2024 - 20:46:22"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "05/08/2024 - 20:44:42"
-        },
-        {
-            "song_name": "Hopeless Romantic (feat. Swae Lee)",
-            "artists": [
-                "Wiz Khalifa",
-                "Swae Lee"
-            ],
-            "album": "Rolling Papers 2",
-            "played_at": "05/08/2024 - 20:40:42"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "Sideways",
-            "played_at": "05/08/2024 - 20:35:03"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "05/08/2024 - 20:30:55"
         },
         {
             "song_name": "Dancing with The Moon",
