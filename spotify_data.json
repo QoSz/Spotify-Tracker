@@ -2,449 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Sugar Kiss",
-            "artists": [
-                "Life's A Beach",
-                "Tobÿ",
-                "Whilst"
-            ],
-            "album": "Sugar Kiss",
-            "played_at": "08/08/2024 - 11:11:40"
-        },
-        {
-            "song_name": "Sugar Kiss",
-            "artists": [
-                "Life's A Beach",
-                "Tobÿ",
-                "Whilst"
-            ],
-            "album": "Sugar Kiss",
-            "played_at": "08/08/2024 - 09:01:57"
-        },
-        {
-            "song_name": "Stop Us Now",
-            "artists": [
-                "NSH",
-                "DT James"
-            ],
-            "album": "Stop Us Now",
-            "played_at": "08/08/2024 - 09:01:28"
-        },
-        {
-            "song_name": "Moment",
-            "artists": [
-                "le moon",
-                "Tenjo",
-                "Jakob Dreams"
-            ],
-            "album": "Moment",
-            "played_at": "08/08/2024 - 08:59:14"
-        },
-        {
-            "song_name": "I Wanna Go",
-            "artists": [
-                "Shiek",
-                "VLCNO"
-            ],
-            "album": "I Wanna Go",
-            "played_at": "08/08/2024 - 08:56:37"
-        },
-        {
-            "song_name": "Yellow",
-            "artists": [
-                "Brazil XXI",
-                "Cassandra Beck"
-            ],
-            "album": "Yellow",
-            "played_at": "08/08/2024 - 08:54:41"
-        },
-        {
-            "song_name": "Dancing with The Moon",
-            "artists": [
-                "Unora",
-                "Aurila"
-            ],
-            "album": "Dancing with The Moon",
-            "played_at": "08/08/2024 - 08:51:27"
-        },
-        {
-            "song_name": "Unwanted (feat. Conor Maynard)",
-            "artists": [
-                "Martin Jensen",
-                "Sam Feldt",
-                "Conor Maynard"
-            ],
-            "album": "Unwanted (feat. Conor Maynard)",
-            "played_at": "08/08/2024 - 08:49:19"
-        },
-        {
-            "song_name": "Unwanted (feat. Conor Maynard)",
-            "artists": [
-                "Martin Jensen",
-                "Sam Feldt",
-                "Conor Maynard"
-            ],
-            "album": "Unwanted (feat. Conor Maynard)",
-            "played_at": "07/08/2024 - 18:24:10"
-        },
-        {
-            "song_name": "House Of Cards",
-            "artists": [
-                "Lucas Estrada",
-                "Deepend",
-                "Dan Caplen"
-            ],
-            "album": "House Of Cards",
-            "played_at": "07/08/2024 - 18:23:43"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "07/08/2024 - 18:21:06"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "07/08/2024 - 18:18:35"
-        },
-        {
-            "song_name": "ocean breeze",
-            "artists": [
-                "rayn"
-            ],
-            "album": "ocean breeze",
-            "played_at": "07/08/2024 - 18:15:24"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "07/08/2024 - 18:13:27"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "07/08/2024 - 18:10:58"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "07/08/2024 - 18:08:12"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "07/08/2024 - 18:04:31"
-        },
-        {
-            "song_name": "Bloom (Brendan Mills Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "TWOPILOTS",
-                "Brendan Mills"
-            ],
-            "album": "Bloom (Brendan Mills Remix)",
-            "played_at": "07/08/2024 - 18:01:12"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "07/08/2024 - 17:58:35"
-        },
-        {
-            "song_name": "Time After Time",
-            "artists": [
-                "Paratone"
-            ],
-            "album": "Time After Time",
-            "played_at": "07/08/2024 - 17:55:23"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "07/08/2024 - 17:52:42"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "07/08/2024 - 17:50:31"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "07/08/2024 - 17:47:58"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "07/08/2024 - 17:45:39"
-        },
-        {
-            "song_name": "Creep",
-            "artists": [
-                "GAMPER & DADONI"
-            ],
-            "album": "Creep",
-            "played_at": "07/08/2024 - 17:43:32"
-        },
-        {
-            "song_name": "Waiting For Us",
-            "artists": [
-                "Steve Kroeger",
-                "BIMINI",
-                "Tep No"
-            ],
-            "album": "Waiting For Us",
-            "played_at": "07/08/2024 - 17:40:37"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "07/08/2024 - 17:38:07"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "07/08/2024 - 17:35:23"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "07/08/2024 - 17:32:17"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "07/08/2024 - 17:19:55"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Fast Car",
-            "played_at": "07/08/2024 - 17:16:39"
-        },
-        {
-            "song_name": "Hold This Memory",
-            "artists": [
-                "Deepend",
-                "Madism"
-            ],
-            "album": "Hold This Memory",
-            "played_at": "07/08/2024 - 17:13:07"
-        },
-        {
-            "song_name": "Hold This Memory",
-            "artists": [
-                "Deepend",
-                "Madism"
-            ],
-            "album": "Hold This Memory",
-            "played_at": "07/08/2024 - 15:36:27"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "For Life (feat. Nile Rodgers)",
-            "played_at": "07/08/2024 - 15:35:16"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "For Life (feat. Nile Rodgers)",
-            "played_at": "07/08/2024 - 09:16:43"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "07/08/2024 - 09:16:40"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "07/08/2024 - 09:13:07"
-        },
-        {
-            "song_name": "Before You Leave Me",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "Before You Leave Me",
-            "played_at": "06/08/2024 - 21:59:56"
-        },
-        {
-            "song_name": "Good To Be",
-            "artists": [
-                "Mark Ambor"
-            ],
-            "album": "Good To Be",
-            "played_at": "06/08/2024 - 21:54:36"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "i am not who i was",
-            "played_at": "06/08/2024 - 21:52:15"
-        },
-        {
-            "song_name": "Dial Drunk (with Post Malone)",
-            "artists": [
-                "Noah Kahan",
-                "Post Malone"
-            ],
-            "album": "Dial Drunk (with Post Malone)",
-            "played_at": "06/08/2024 - 21:49:56"
-        },
-        {
-            "song_name": "Starting Over",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "06/08/2024 - 21:46:28"
-        },
-        {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "06/08/2024 - 21:42:33"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "06/08/2024 - 21:38:14"
-        },
-        {
-            "song_name": "Coal",
-            "artists": [
-                "Dylan Gossett"
-            ],
-            "album": "Coal",
-            "played_at": "06/08/2024 - 21:35:00"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "06/08/2024 - 21:31:52"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "06/08/2024 - 21:29:15"
-        },
-        {
-            "song_name": "Half of forever",
-            "artists": [
-                "Henrik"
-            ],
-            "album": "Half of forever",
-            "played_at": "06/08/2024 - 21:27:54"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "06/08/2024 - 21:25:27"
-        },
-        {
-            "song_name": "Girls In The Room - Lost Tapes 2020",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Girls In The Room (Lost Tapes 2020)",
-            "played_at": "06/08/2024 - 21:21:40"
-        },
-        {
             "song_name": "copy my drip",
             "artists": [
                 "DDG"
@@ -1811,6 +1368,444 @@
             ],
             "album": "Evening Walk",
             "played_at": "07/08/2024 - 17:52:42"
+        },
+        {
+            "song_name": "Mourning",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "09/08/2024 - 14:22:06"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "09/08/2024 - 14:19:38"
+        },
+        {
+            "song_name": "4runner",
+            "artists": [
+                "Brenn!"
+            ],
+            "album": "County Line",
+            "played_at": "09/08/2024 - 14:16:45"
+        },
+        {
+            "song_name": "want u",
+            "artists": [
+                "noevdv"
+            ],
+            "album": "want u",
+            "played_at": "09/08/2024 - 14:12:20"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "09/08/2024 - 14:10:38"
+        },
+        {
+            "song_name": "I Do",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "I Do",
+            "played_at": "09/08/2024 - 13:55:41"
+        },
+        {
+            "song_name": "Stevie Doesn't Wonder",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Stevie Doesn't Wonder",
+            "played_at": "09/08/2024 - 13:53:16"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "09/08/2024 - 13:50:32"
+        },
+        {
+            "song_name": "Lost In Paradise",
+            "artists": [
+                "Viva La Panda",
+                "Edwardo Atlas",
+                "Sirena"
+            ],
+            "album": "Lost In Paradise",
+            "played_at": "09/08/2024 - 13:48:12"
+        },
+        {
+            "song_name": "Dial Drunk (with Post Malone)",
+            "artists": [
+                "Noah Kahan",
+                "Post Malone"
+            ],
+            "album": "Dial Drunk (with Post Malone)",
+            "played_at": "09/08/2024 - 13:46:02"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "09/08/2024 - 13:42:28"
+        },
+        {
+            "song_name": "Magnificent",
+            "artists": [
+                "Daniel Glaven",
+                "WLZN"
+            ],
+            "album": "Magnificent",
+            "played_at": "09/08/2024 - 13:39:36"
+        },
+        {
+            "song_name": "Staring At The Sun",
+            "artists": [
+                "the Giver",
+                "LissA"
+            ],
+            "album": "Staring At The Sun",
+            "played_at": "09/08/2024 - 13:37:16"
+        },
+        {
+            "song_name": "Feeling For You",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "09/08/2024 - 13:34:18"
+        },
+        {
+            "song_name": "Wrapped Around Your Finger",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "09/08/2024 - 13:30:36"
+        },
+        {
+            "song_name": "ALRIGHT",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "09/08/2024 - 13:27:23"
+        },
+        {
+            "song_name": "Me & U",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "09/08/2024 - 13:25:29"
+        },
+        {
+            "song_name": "Overdrive",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "09/08/2024 - 13:22:16"
+        },
+        {
+            "song_name": "Overdrive",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "09/08/2024 - 00:07:14"
+        },
+        {
+            "song_name": "Lost In Paradise",
+            "artists": [
+                "Viva La Panda",
+                "Edwardo Atlas",
+                "Sirena"
+            ],
+            "album": "Lost In Paradise",
+            "played_at": "08/08/2024 - 23:39:57"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "08/08/2024 - 23:37:54"
+        },
+        {
+            "song_name": "Mourning",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "08/08/2024 - 23:35:40"
+        },
+        {
+            "song_name": "Dollar Dream [Lucas Estrada Edit]",
+            "artists": [
+                "Lucas Estrada",
+                "Couché",
+                "Polar Notes",
+                "Mentum"
+            ],
+            "album": "Dollar Dream [Lucas Estrada Edit]",
+            "played_at": "08/08/2024 - 23:33:18"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "08/08/2024 - 23:30:45"
+        },
+        {
+            "song_name": "Magnificent",
+            "artists": [
+                "Daniel Glaven",
+                "WLZN"
+            ],
+            "album": "Magnificent",
+            "played_at": "08/08/2024 - 23:27:31"
+        },
+        {
+            "song_name": "In Your Arms",
+            "artists": [
+                "Fini",
+                "David Emde"
+            ],
+            "album": "In Your Arms",
+            "played_at": "08/08/2024 - 23:25:17"
+        },
+        {
+            "song_name": "Yanna",
+            "artists": [
+                "Chop Daily",
+                "Deyon Agoi"
+            ],
+            "album": "Yanna",
+            "played_at": "08/08/2024 - 23:22:57"
+        },
+        {
+            "song_name": "All Girls Are The Same",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Goodbye & Good Riddance",
+            "played_at": "08/08/2024 - 23:20:49"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "08/08/2024 - 23:18:10"
+        },
+        {
+            "song_name": "The Percocet & Stripper Joint",
+            "artists": [
+                "Future"
+            ],
+            "album": "DS2 (Deluxe)",
+            "played_at": "08/08/2024 - 23:13:02"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "08/08/2024 - 23:10:40"
+        },
+        {
+            "song_name": "The Mannequin Song",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "08/08/2024 - 23:08:23"
+        },
+        {
+            "song_name": "i walk this earth all by myself",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "08/08/2024 - 23:05:44"
+        },
+        {
+            "song_name": "Staring At The Sun",
+            "artists": [
+                "the Giver",
+                "LissA"
+            ],
+            "album": "Staring At The Sun",
+            "played_at": "08/08/2024 - 23:03:25"
+        },
+        {
+            "song_name": "copy my drip",
+            "artists": [
+                "DDG"
+            ],
+            "album": "copy my drip",
+            "played_at": "08/08/2024 - 22:56:26"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "08/08/2024 - 22:54:13"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "08/08/2024 - 22:50:14"
+        },
+        {
+            "song_name": "FRIED",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "08/08/2024 - 22:47:49"
+        },
+        {
+            "song_name": "Can't Hold Us (feat. Ray Dalton)",
+            "artists": [
+                "Macklemore & Ryan Lewis",
+                "Macklemore",
+                "Ryan Lewis",
+                "Ray Dalton"
+            ],
+            "album": "The Heist",
+            "played_at": "08/08/2024 - 22:45:21"
+        },
+        {
+            "song_name": "Lost Me (feat. Lil Mosey)",
+            "artists": [
+                "Internet Money",
+                "iann dior",
+                "Lil Skies",
+                "Lil Mosey"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "08/08/2024 - 22:41:09"
+        },
+        {
+            "song_name": "In my Room",
+            "artists": [
+                "Roam"
+            ],
+            "album": "In my Room",
+            "played_at": "08/08/2024 - 22:38:17"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "08/08/2024 - 22:36:12"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "08/08/2024 - 22:33:08"
+        },
+        {
+            "song_name": "Fuck Love",
+            "artists": [
+                "XXXTENTACION",
+                "Trippie Redd"
+            ],
+            "album": "17",
+            "played_at": "08/08/2024 - 22:31:09"
+        },
+        {
+            "song_name": "TIME MOVING SLOW",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "08/08/2024 - 22:27:12"
+        },
+        {
+            "song_name": "Cell 245 - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Cell 245 - Prison Tapes",
+            "played_at": "08/08/2024 - 22:24:39"
+        },
+        {
+            "song_name": "Bird Call",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "08/08/2024 - 22:21:23"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "08/08/2024 - 22:19:21"
+        },
+        {
+            "song_name": "Sugar Kiss",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ",
+                "Whilst"
+            ],
+            "album": "Sugar Kiss",
+            "played_at": "08/08/2024 - 11:11:40"
+        },
+        {
+            "song_name": "Sugar Kiss",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ",
+                "Whilst"
+            ],
+            "album": "Sugar Kiss",
+            "played_at": "08/08/2024 - 09:01:57"
         }
     ]
 }
