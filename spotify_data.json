@@ -2,446 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Chérie",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "09/08/2024 - 17:35:42"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "DJ ZeeZee"
-            ],
-            "album": "Dreams",
-            "played_at": "09/08/2024 - 17:32:14"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "09/08/2024 - 17:28:31"
-        },
-        {
-            "song_name": "Lonely in London",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "09/08/2024 - 17:26:27"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "09/08/2024 - 17:19:25"
-        },
-        {
-            "song_name": "I Do",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "I Do",
-            "played_at": "09/08/2024 - 17:16:16"
-        },
-        {
-            "song_name": "World Hold On (Children Of The Sky) - FISHER Rework",
-            "artists": [
-                "Bob Sinclar",
-                "FISHER",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (Children Of The Sky) [FISHER Rework]",
-            "played_at": "09/08/2024 - 17:12:09"
-        },
-        {
-            "song_name": "Gatluak - Bakermat Remix",
-            "artists": [
-                "Kronan",
-                "Nyaruach",
-                "Bakermat"
-            ],
-            "album": "Gatluak (Bakermat Remix)",
-            "played_at": "09/08/2024 - 17:07:07"
-        },
-        {
-            "song_name": "To Stay",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "To Stay",
-            "played_at": "09/08/2024 - 17:04:48"
-        },
-        {
-            "song_name": "Happy Now",
-            "artists": [
-                "Szaby",
-                "Robbie Rosen"
-            ],
-            "album": "Happy Now",
-            "played_at": "09/08/2024 - 17:01:53"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Move Me",
-            "played_at": "09/08/2024 - 16:59:01"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "09/08/2024 - 16:56:41"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "09/08/2024 - 16:54:25"
-        },
-        {
-            "song_name": "Happy Now",
-            "artists": [
-                "Szaby",
-                "Robbie Rosen"
-            ],
-            "album": "Happy Now",
-            "played_at": "09/08/2024 - 16:51:08"
-        },
-        {
-            "song_name": "One Headlight",
-            "artists": [
-                "Nate VanDeusen",
-                "Bayshore Court"
-            ],
-            "album": "One Headlight",
-            "played_at": "09/08/2024 - 16:48:22"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "09/08/2024 - 16:45:52"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "09/08/2024 - 16:43:21"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "09/08/2024 - 16:39:52"
-        },
-        {
-            "song_name": "All Girls Are The Same",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Goodbye & Good Riddance",
-            "played_at": "09/08/2024 - 16:36:12"
-        },
-        {
-            "song_name": "The Middle",
-            "artists": [
-                "Kid On The Block",
-                "Namté"
-            ],
-            "album": "The Middle",
-            "played_at": "09/08/2024 - 16:33:25"
-        },
-        {
-            "song_name": "House is the religion",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "House is the religion",
-            "played_at": "09/08/2024 - 16:31:10"
-        },
-        {
-            "song_name": "Casablanca",
-            "artists": [
-                "Junerule",
-                "Brendan Mills",
-                "Julia Shuren"
-            ],
-            "album": "Casablanca",
-            "played_at": "09/08/2024 - 16:28:39"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "09/08/2024 - 16:25:19"
-        },
-        {
-            "song_name": "Dollar Dream [Lucas Estrada Edit]",
-            "artists": [
-                "Lucas Estrada",
-                "Couché",
-                "Polar Notes",
-                "Mentum"
-            ],
-            "album": "Dollar Dream [Lucas Estrada Edit]",
-            "played_at": "09/08/2024 - 16:22:35"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "I",
-            "played_at": "09/08/2024 - 16:19:56"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "09/08/2024 - 16:16:49"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "09/08/2024 - 16:14:39"
-        },
-        {
-            "song_name": "U Do",
-            "artists": [
-                "Nimus",
-                "Sages"
-            ],
-            "album": "U Do",
-            "played_at": "09/08/2024 - 16:11:17"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "09/08/2024 - 16:08:58"
-        },
-        {
-            "song_name": "Honey",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "Changes",
-            "played_at": "09/08/2024 - 16:06:39"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "09/08/2024 - 16:04:19"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "09/08/2024 - 15:59:05"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "09/08/2024 - 15:55:45"
-        },
-        {
-            "song_name": "In The Dark (with Jhené Aiko)",
-            "artists": [
-                "Swae Lee",
-                "Jhené Aiko"
-            ],
-            "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
-            "played_at": "09/08/2024 - 15:52:51"
-        },
-        {
-            "song_name": "I Can't Stop",
-            "artists": [
-                "Daniel Glaven",
-                "Will Church"
-            ],
-            "album": "I Can't Stop",
-            "played_at": "09/08/2024 - 15:50:09"
-        },
-        {
-            "song_name": "Staring At The Sun",
-            "artists": [
-                "the Giver",
-                "LissA"
-            ],
-            "album": "Staring At The Sun",
-            "played_at": "09/08/2024 - 15:47:57"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "09/08/2024 - 15:44:58"
-        },
-        {
-            "song_name": "Floating On Forever",
-            "artists": [
-                "Laurentius",
-                "AUGUSTKID",
-                "Jeffrey James"
-            ],
-            "album": "Floating On Forever",
-            "played_at": "09/08/2024 - 15:43:20"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "09/08/2024 - 15:40:49"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "09/08/2024 - 15:38:06"
-        },
-        {
-            "song_name": "Wrapped Around Your Finger",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "09/08/2024 - 15:33:00"
-        },
-        {
-            "song_name": "Yanna",
-            "artists": [
-                "Chop Daily",
-                "Deyon Agoi"
-            ],
-            "album": "Yanna",
-            "played_at": "09/08/2024 - 14:36:37"
-        },
-        {
-            "song_name": "In Fact (feat. Gabzy)",
-            "artists": [
-                "melvitto",
-                "Gabzy"
-            ],
-            "album": "THENIGHTISYOUNG.",
-            "played_at": "09/08/2024 - 14:34:24"
-        },
-        {
-            "song_name": "Nikes on My Feet",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "09/08/2024 - 14:30:39"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "09/08/2024 - 14:27:54"
-        },
-        {
-            "song_name": "The Percocet & Stripper Joint",
-            "artists": [
-                "Future"
-            ],
-            "album": "DS2 (Deluxe)",
-            "played_at": "09/08/2024 - 14:24:34"
-        },
-        {
-            "song_name": "Mourning",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "09/08/2024 - 14:22:06"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "09/08/2024 - 14:19:38"
-        },
-        {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "09/08/2024 - 14:16:45"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "09/08/2024 - 14:12:20"
-        },
-        {
             "song_name": "Tempt Me",
             "artists": [
                 "Lithe"
@@ -1312,6 +872,443 @@
             ],
             "album": "Don't Forget About Me, Demos",
             "played_at": "09/08/2024 - 15:44:58"
+        },
+        {
+            "song_name": "FIELD TRIP",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "09/08/2024 - 20:13:38"
+        },
+        {
+            "song_name": "TIME MOVING SLOW",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "09/08/2024 - 20:10:51"
+        },
+        {
+            "song_name": "Flooded The Face",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Pink Tape",
+            "played_at": "09/08/2024 - 19:01:23"
+        },
+        {
+            "song_name": "LET GO",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "LET GO",
+            "played_at": "09/08/2024 - 18:46:09"
+        },
+        {
+            "song_name": "Tempt Me",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tempt Me",
+            "played_at": "09/08/2024 - 18:43:14"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "09/08/2024 - 18:41:04"
+        },
+        {
+            "song_name": "Dang! (feat. Anderson .Paak)",
+            "artists": [
+                "Mac Miller",
+                "Anderson .Paak"
+            ],
+            "album": "The Divine Feminine",
+            "played_at": "09/08/2024 - 18:39:12"
+        },
+        {
+            "song_name": "back to the moon",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "09/08/2024 - 18:34:06"
+        },
+        {
+            "song_name": "Face 2 Face",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Face 2 Face",
+            "played_at": "09/08/2024 - 18:30:52"
+        },
+        {
+            "song_name": "Mourning",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "09/08/2024 - 18:28:47"
+        },
+        {
+            "song_name": "Congratulations",
+            "artists": [
+                "Post Malone",
+                "Quavo"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "09/08/2024 - 18:26:18"
+        },
+        {
+            "song_name": "a m a r i",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "The Off-Season",
+            "played_at": "09/08/2024 - 18:22:38"
+        },
+        {
+            "song_name": "Die Trying",
+            "artists": [
+                "Key Glock"
+            ],
+            "album": "PRE5L",
+            "played_at": "09/08/2024 - 18:14:25"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "09/08/2024 - 18:06:00"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "09/08/2024 - 17:59:11"
+        },
+        {
+            "song_name": "Spaghetti from the island",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "09/08/2024 - 17:46:46"
+        },
+        {
+            "song_name": "Chérie",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "09/08/2024 - 17:35:42"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "DJ ZeeZee"
+            ],
+            "album": "Dreams",
+            "played_at": "09/08/2024 - 17:32:14"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "09/08/2024 - 17:28:31"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "09/08/2024 - 17:26:27"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "09/08/2024 - 17:19:25"
+        },
+        {
+            "song_name": "I Do",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "I Do",
+            "played_at": "09/08/2024 - 17:16:16"
+        },
+        {
+            "song_name": "World Hold On (Children Of The Sky) - FISHER Rework",
+            "artists": [
+                "Bob Sinclar",
+                "FISHER",
+                "Steve Edwards"
+            ],
+            "album": "World Hold On (Children Of The Sky) [FISHER Rework]",
+            "played_at": "09/08/2024 - 17:12:09"
+        },
+        {
+            "song_name": "Gatluak - Bakermat Remix",
+            "artists": [
+                "Kronan",
+                "Nyaruach",
+                "Bakermat"
+            ],
+            "album": "Gatluak (Bakermat Remix)",
+            "played_at": "09/08/2024 - 17:07:07"
+        },
+        {
+            "song_name": "To Stay",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "To Stay",
+            "played_at": "09/08/2024 - 17:04:48"
+        },
+        {
+            "song_name": "Happy Now",
+            "artists": [
+                "Szaby",
+                "Robbie Rosen"
+            ],
+            "album": "Happy Now",
+            "played_at": "09/08/2024 - 17:01:53"
+        },
+        {
+            "song_name": "Move Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Move Me",
+            "played_at": "09/08/2024 - 16:59:01"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "09/08/2024 - 16:56:41"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "09/08/2024 - 16:54:25"
+        },
+        {
+            "song_name": "Happy Now",
+            "artists": [
+                "Szaby",
+                "Robbie Rosen"
+            ],
+            "album": "Happy Now",
+            "played_at": "09/08/2024 - 16:51:08"
+        },
+        {
+            "song_name": "One Headlight",
+            "artists": [
+                "Nate VanDeusen",
+                "Bayshore Court"
+            ],
+            "album": "One Headlight",
+            "played_at": "09/08/2024 - 16:48:22"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "09/08/2024 - 16:45:52"
+        },
+        {
+            "song_name": "Blue World",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "09/08/2024 - 16:43:21"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "09/08/2024 - 16:39:52"
+        },
+        {
+            "song_name": "All Girls Are The Same",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Goodbye & Good Riddance",
+            "played_at": "09/08/2024 - 16:36:12"
+        },
+        {
+            "song_name": "The Middle",
+            "artists": [
+                "Kid On The Block",
+                "Namté"
+            ],
+            "album": "The Middle",
+            "played_at": "09/08/2024 - 16:33:25"
+        },
+        {
+            "song_name": "House is the religion",
+            "artists": [
+                "Brendan Mills",
+                "Surfin' Sam"
+            ],
+            "album": "House is the religion",
+            "played_at": "09/08/2024 - 16:31:10"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "09/08/2024 - 16:28:39"
+        },
+        {
+            "song_name": "The Mannequin Song",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "09/08/2024 - 16:25:19"
+        },
+        {
+            "song_name": "Dollar Dream [Lucas Estrada Edit]",
+            "artists": [
+                "Lucas Estrada",
+                "Couché",
+                "Polar Notes",
+                "Mentum"
+            ],
+            "album": "Dollar Dream [Lucas Estrada Edit]",
+            "played_at": "09/08/2024 - 16:22:35"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "I",
+            "played_at": "09/08/2024 - 16:19:56"
+        },
+        {
+            "song_name": "Lost In Paradise",
+            "artists": [
+                "Viva La Panda",
+                "Edwardo Atlas",
+                "Sirena"
+            ],
+            "album": "Lost In Paradise",
+            "played_at": "09/08/2024 - 16:16:49"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "09/08/2024 - 16:14:39"
+        },
+        {
+            "song_name": "U Do",
+            "artists": [
+                "Nimus",
+                "Sages"
+            ],
+            "album": "U Do",
+            "played_at": "09/08/2024 - 16:11:17"
+        },
+        {
+            "song_name": "then i met her",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "09/08/2024 - 16:08:58"
+        },
+        {
+            "song_name": "Honey",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Changes",
+            "played_at": "09/08/2024 - 16:06:39"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "09/08/2024 - 16:04:19"
+        },
+        {
+            "song_name": "Is This Love - Remix",
+            "artists": [
+                "Bob Marley & The Wailers",
+                "LVNDSCAPE",
+                "Bolier"
+            ],
+            "album": "Is This Love (Remix)",
+            "played_at": "09/08/2024 - 15:59:05"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "09/08/2024 - 15:55:45"
+        },
+        {
+            "song_name": "In The Dark (with Jhené Aiko)",
+            "artists": [
+                "Swae Lee",
+                "Jhené Aiko"
+            ],
+            "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+            "played_at": "09/08/2024 - 15:52:51"
         },
         {
             "song_name": "FIELD TRIP",
