@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "15/08/2024 - 18:52:53"
+        },
+        {
             "song_name": "Body",
             "artists": [
                 "Loud Luxury",
@@ -414,15 +423,6 @@
             ],
             "album": "Nothing Was The Same - Deluxe",
             "played_at": "14/08/2024 - 14:35:05"
-        },
-        {
-            "song_name": "See You Again (feat. Kali Uchis)",
-            "artists": [
-                "Tyler, The Creator",
-                "Kali Uchis"
-            ],
-            "album": "Flower Boy",
-            "played_at": "14/08/2024 - 14:31:04"
         },
         {
             "song_name": "Whatever",
