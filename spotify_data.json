@@ -1247,6 +1247,15 @@
             "played_at": "14/08/2024 - 12:53:19"
         },
         {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "15/08/2024 - 14:36:14"
+        },
+        {
             "song_name": "You're Mines Still (feat. Drake)",
             "artists": [
                 "Yung Bleu",
@@ -1652,14 +1661,6 @@
             ],
             "album": "WASTELAND",
             "played_at": "14/08/2024 - 12:56:02"
-        },
-        {
-            "song_name": "I Don't Wanna Do This Anymore",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Revenge",
-            "played_at": "14/08/2024 - 12:53:19"
         }
     ]
 }
