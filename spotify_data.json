@@ -2,6 +2,95 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "When Im Gone",
+            "artists": [
+                "LECADE"
+            ],
+            "album": "When Im Gone",
+            "played_at": "17/08/2024 - 01:33:17"
+        },
+        {
+            "song_name": "Sun to Me",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "American Heartbreak",
+            "played_at": "17/08/2024 - 01:31:12"
+        },
+        {
+            "song_name": "Heartless (feat. Morgan Wallen)",
+            "artists": [
+                "Diplo",
+                "Morgan Wallen"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+            "played_at": "17/08/2024 - 01:28:35"
+        },
+        {
+            "song_name": "Coal",
+            "artists": [
+                "Dylan Gossett"
+            ],
+            "album": "Coal",
+            "played_at": "17/08/2024 - 01:25:51"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "17/08/2024 - 01:22:43"
+        },
+        {
+            "song_name": "Dancing in the Sky",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "17/08/2024 - 01:19:16"
+        },
+        {
+            "song_name": "Burn, Burn, Burn",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Burn, Burn, Burn",
+            "played_at": "17/08/2024 - 01:16:15"
+        },
+        {
+            "song_name": "Lady May",
+            "artists": [
+                "Tyler Childers"
+            ],
+            "album": "Purgatory",
+            "played_at": "17/08/2024 - 01:11:52"
+        },
+        {
+            "song_name": "Scared To Start",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "Scared To Start",
+            "played_at": "17/08/2024 - 01:08:51"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "17/08/2024 - 01:04:04"
+        },
+        {
+            "song_name": "The Percocet & Stripper Joint",
+            "artists": [
+                "Future"
+            ],
+            "album": "DS2 (Deluxe)",
+            "played_at": "17/08/2024 - 00:59:55"
+        },
+        {
             "song_name": "Die Trying",
             "artists": [
                 "Key Glock"
@@ -344,105 +433,6 @@
             ],
             "album": "Calm Down (with Selena Gomez)",
             "played_at": "16/08/2024 - 11:34:59"
-        },
-        {
-            "song_name": "Waves - Robin Schulz Radio Edit",
-            "artists": [
-                "Mr. Probz",
-                "Robin Schulz"
-            ],
-            "album": "Waves (Robin Schulz Radio Edit)",
-            "played_at": "16/08/2024 - 11:31:00"
-        },
-        {
-            "song_name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-            "artists": [
-                "Lana Del Rey",
-                "Cedric Gervais"
-            ],
-            "album": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-            "played_at": "16/08/2024 - 11:27:32"
-        },
-        {
-            "song_name": "Move",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Keinemusik",
-                "Orso",
-                "Malachiii"
-            ],
-            "album": "Move",
-            "played_at": "16/08/2024 - 11:23:57"
-        },
-        {
-            "song_name": "Body",
-            "artists": [
-                "Loud Luxury",
-                "Brando"
-            ],
-            "album": "Body",
-            "played_at": "16/08/2024 - 11:20:59"
-        },
-        {
-            "song_name": "Somedays",
-            "artists": [
-                "Sonny Fodera",
-                "Jazzy",
-                "D.O.D"
-            ],
-            "album": "Somedays",
-            "played_at": "16/08/2024 - 11:18:16"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "16/08/2024 - 11:14:49"
-        },
-        {
-            "song_name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-            "artists": [
-                "Jorja Smith"
-            ],
-            "album": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-            "played_at": "16/08/2024 - 11:12:17"
-        },
-        {
-            "song_name": "Borderline",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "16/08/2024 - 11:10:06"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "16/08/2024 - 11:06:08"
-        },
-        {
-            "song_name": "Sunshine (My Girl)",
-            "artists": [
-                "Wuki"
-            ],
-            "album": "Sunshine (My Girl)",
-            "played_at": "16/08/2024 - 11:03:14"
-        },
-        {
-            "song_name": "Can't Feel My Face",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "Beauty Behind The Madness",
-            "played_at": "16/08/2024 - 11:01:03"
         },
         {
             "song_name": "When Im Gone",
