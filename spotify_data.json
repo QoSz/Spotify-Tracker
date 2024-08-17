@@ -1286,6 +1286,22 @@
             "played_at": "16/08/2024 - 16:13:11"
         },
         {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "17/08/2024 - 22:56:31"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "17/08/2024 - 22:52:19"
+        },
+        {
             "song_name": "U Do",
             "artists": [
                 "Nimus",
@@ -1694,24 +1710,6 @@
             ],
             "album": "Music is Better",
             "played_at": "16/08/2024 - 16:20:09"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Iyaz"
-            ],
-            "album": "Replay",
-            "played_at": "16/08/2024 - 16:16:13"
-        },
-        {
-            "song_name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-            "artists": [
-                "DJ Khaled",
-                "Rihanna",
-                "Bryson Tiller"
-            ],
-            "album": "Grateful",
-            "played_at": "16/08/2024 - 16:13:11"
         }
     ]
 }
