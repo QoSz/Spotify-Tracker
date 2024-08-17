@@ -2,432 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Spicy (feat. Post Malone)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Post Malone"
-            ],
-            "album": "Featuring Ty Dolla $ign",
-            "played_at": "17/08/2024 - 16:33:02"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Drake",
-                "Majid Jordan"
-            ],
-            "album": "Nothing Was The Same - Deluxe",
-            "played_at": "17/08/2024 - 16:30:45"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "17/08/2024 - 16:27:00"
-        },
-        {
-            "song_name": "Lemonade (feat. NAV)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "NAV"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "17/08/2024 - 16:24:36"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "17/08/2024 - 16:21:26"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "17/08/2024 - 16:18:20"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "17/08/2024 - 16:16:02"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "17/08/2024 - 16:14:26"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "17/08/2024 - 16:11:03"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "17/08/2024 - 16:08:16"
-        },
-        {
-            "song_name": "Starting Over",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "17/08/2024 - 01:42:35"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "17/08/2024 - 01:33:17"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "17/08/2024 - 01:31:12"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "17/08/2024 - 01:28:35"
-        },
-        {
-            "song_name": "Coal",
-            "artists": [
-                "Dylan Gossett"
-            ],
-            "album": "Coal",
-            "played_at": "17/08/2024 - 01:25:51"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "17/08/2024 - 01:22:43"
-        },
-        {
-            "song_name": "Dancing in the Sky",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "17/08/2024 - 01:19:16"
-        },
-        {
-            "song_name": "Burn, Burn, Burn",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "17/08/2024 - 01:16:15"
-        },
-        {
-            "song_name": "Lady May",
-            "artists": [
-                "Tyler Childers"
-            ],
-            "album": "Purgatory",
-            "played_at": "17/08/2024 - 01:11:52"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "17/08/2024 - 01:08:51"
-        },
-        {
-            "song_name": "Flight's Booked",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "17/08/2024 - 01:04:04"
-        },
-        {
-            "song_name": "The Percocet & Stripper Joint",
-            "artists": [
-                "Future"
-            ],
-            "album": "DS2 (Deluxe)",
-            "played_at": "17/08/2024 - 00:59:55"
-        },
-        {
-            "song_name": "Die Trying",
-            "artists": [
-                "Key Glock"
-            ],
-            "album": "PRE5L",
-            "played_at": "17/08/2024 - 00:57:33"
-        },
-        {
-            "song_name": "Ric Flair Drip (with Metro Boomin)",
-            "artists": [
-                "Offset",
-                "Metro Boomin"
-            ],
-            "album": "Without Warning",
-            "played_at": "17/08/2024 - 00:55:06"
-        },
-        {
-            "song_name": "Mmhmm",
-            "artists": [
-                "BigXthaPlug"
-            ],
-            "album": "THE BIGGEST",
-            "played_at": "17/08/2024 - 00:52:19"
-        },
-        {
-            "song_name": "Unforgettable",
-            "artists": [
-                "French Montana",
-                "Swae Lee"
-            ],
-            "album": "Jungle Rules",
-            "played_at": "17/08/2024 - 00:50:26"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "17/08/2024 - 00:46:38"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "17/08/2024 - 00:43:02"
-        },
-        {
-            "song_name": "Pain 1993 (with Playboi Carti)",
-            "artists": [
-                "Drake",
-                "Playboi Carti"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "17/08/2024 - 00:40:25"
-        },
-        {
-            "song_name": "Wish I Never Met You - Prison Tapes",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You - Prison Tapes",
-            "played_at": "17/08/2024 - 00:38:02"
-        },
-        {
-            "song_name": "Waves - Robin Schulz Radio Edit",
-            "artists": [
-                "Mr. Probz",
-                "Robin Schulz"
-            ],
-            "album": "Waves (Robin Schulz Radio Edit)",
-            "played_at": "16/08/2024 - 17:02:12"
-        },
-        {
-            "song_name": "Can't Feel My Face",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "Beauty Behind The Madness",
-            "played_at": "16/08/2024 - 16:59:46"
-        },
-        {
-            "song_name": "Afraid To Feel",
-            "artists": [
-                "LF SYSTEM"
-            ],
-            "album": "Afraid To Feel",
-            "played_at": "16/08/2024 - 16:56:12"
-        },
-        {
-            "song_name": "The Weekend - Funk Wav Remix",
-            "artists": [
-                "SZA",
-                "Calvin Harris",
-                "Funk Wav"
-            ],
-            "album": "The Weekend (Funk Wav Remix)",
-            "played_at": "16/08/2024 - 16:53:15"
-        },
-        {
-            "song_name": "Sunshine (My Girl)",
-            "artists": [
-                "Wuki"
-            ],
-            "album": "Sunshine (My Girl)",
-            "played_at": "16/08/2024 - 16:50:23"
-        },
-        {
-            "song_name": "Lush Life",
-            "artists": [
-                "Zara Larsson"
-            ],
-            "album": "So Good",
-            "played_at": "16/08/2024 - 16:48:12"
-        },
-        {
-            "song_name": "Don't Forget My Love",
-            "artists": [
-                "Diplo",
-                "Miguel"
-            ],
-            "album": "Diplo",
-            "played_at": "16/08/2024 - 16:44:50"
-        },
-        {
-            "song_name": "Back On 74",
-            "artists": [
-                "Jungle"
-            ],
-            "album": "Volcano",
-            "played_at": "16/08/2024 - 16:41:31"
-        },
-        {
-            "song_name": "Amapiano",
-            "artists": [
-                "Asake",
-                "Olamide"
-            ],
-            "album": "Amapiano",
-            "played_at": "16/08/2024 - 16:38:02"
-        },
-        {
-            "song_name": "This Is What You Came For",
-            "artists": [
-                "Calvin Harris",
-                "Rihanna"
-            ],
-            "album": "This Is What You Came For",
-            "played_at": "16/08/2024 - 16:35:17"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "16/08/2024 - 16:31:35"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "16/08/2024 - 16:29:02"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "16/08/2024 - 16:25:08"
-        },
-        {
-            "song_name": "Words (feat. Zara Larsson)",
-            "artists": [
-                "Alesso",
-                "Zara Larsson"
-            ],
-            "album": "Words (feat. Zara Larsson)",
-            "played_at": "16/08/2024 - 16:22:32"
-        },
-        {
-            "song_name": "Music is Better",
-            "artists": [
-                "RÜFÜS DU SOL"
-            ],
-            "album": "Music is Better",
-            "played_at": "16/08/2024 - 16:20:09"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Iyaz"
-            ],
-            "album": "Replay",
-            "played_at": "16/08/2024 - 16:16:13"
-        },
-        {
-            "song_name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-            "artists": [
-                "DJ Khaled",
-                "Rihanna",
-                "Bryson Tiller"
-            ],
-            "album": "Grateful",
-            "played_at": "16/08/2024 - 16:13:11"
-        },
-        {
-            "song_name": "UNAVAILABLE (feat. Musa Keys)",
-            "artists": [
-                "Davido",
-                "Musa Keys"
-            ],
-            "album": "Timeless",
-            "played_at": "16/08/2024 - 16:09:46"
-        },
-        {
-            "song_name": "Calm Down",
-            "artists": [
-                "Rema"
-            ],
-            "album": "Rave & Roses",
-            "played_at": "16/08/2024 - 16:06:57"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "16/08/2024 - 16:03:17"
-        },
-        {
             "song_name": "U Do",
             "artists": [
                 "Nimus",
@@ -855,6 +429,434 @@
             ],
             "album": "Timeless",
             "played_at": "16/08/2024 - 16:09:46"
+        },
+        {
+            "song_name": "U Do",
+            "artists": [
+                "Nimus",
+                "Sages"
+            ],
+            "album": "U Do",
+            "played_at": "17/08/2024 - 17:21:09"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "17/08/2024 - 17:18:51"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "17/08/2024 - 16:43:18"
+        },
+        {
+            "song_name": "Spicy (feat. Post Malone)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Post Malone"
+            ],
+            "album": "Featuring Ty Dolla $ign",
+            "played_at": "17/08/2024 - 16:33:02"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Drake",
+                "Majid Jordan"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "17/08/2024 - 16:30:45"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "17/08/2024 - 16:27:00"
+        },
+        {
+            "song_name": "Lemonade (feat. NAV)",
+            "artists": [
+                "Internet Money",
+                "Gunna",
+                "Don Toliver",
+                "NAV"
+            ],
+            "album": "B4 The Storm",
+            "played_at": "17/08/2024 - 16:24:36"
+        },
+        {
+            "song_name": "Flooded The Face",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Pink Tape",
+            "played_at": "17/08/2024 - 16:21:26"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "17/08/2024 - 16:18:20"
+        },
+        {
+            "song_name": "want u",
+            "artists": [
+                "noevdv"
+            ],
+            "album": "want u",
+            "played_at": "17/08/2024 - 16:16:02"
+        },
+        {
+            "song_name": "Blue World",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "17/08/2024 - 16:14:26"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "17/08/2024 - 16:11:03"
+        },
+        {
+            "song_name": "Hurts Me",
+            "artists": [
+                "Tory Lanez",
+                "Trippie Redd",
+                "Yoko Gold"
+            ],
+            "album": "Hurts Me",
+            "played_at": "17/08/2024 - 16:08:16"
+        },
+        {
+            "song_name": "Starting Over",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "17/08/2024 - 01:42:35"
+        },
+        {
+            "song_name": "When Im Gone",
+            "artists": [
+                "LECADE"
+            ],
+            "album": "When Im Gone",
+            "played_at": "17/08/2024 - 01:33:17"
+        },
+        {
+            "song_name": "Sun to Me",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "American Heartbreak",
+            "played_at": "17/08/2024 - 01:31:12"
+        },
+        {
+            "song_name": "Heartless (feat. Morgan Wallen)",
+            "artists": [
+                "Diplo",
+                "Morgan Wallen"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+            "played_at": "17/08/2024 - 01:28:35"
+        },
+        {
+            "song_name": "Coal",
+            "artists": [
+                "Dylan Gossett"
+            ],
+            "album": "Coal",
+            "played_at": "17/08/2024 - 01:25:51"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "17/08/2024 - 01:22:43"
+        },
+        {
+            "song_name": "Dancing in the Sky",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "17/08/2024 - 01:19:16"
+        },
+        {
+            "song_name": "Burn, Burn, Burn",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Burn, Burn, Burn",
+            "played_at": "17/08/2024 - 01:16:15"
+        },
+        {
+            "song_name": "Lady May",
+            "artists": [
+                "Tyler Childers"
+            ],
+            "album": "Purgatory",
+            "played_at": "17/08/2024 - 01:11:52"
+        },
+        {
+            "song_name": "Scared To Start",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "Scared To Start",
+            "played_at": "17/08/2024 - 01:08:51"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "17/08/2024 - 01:04:04"
+        },
+        {
+            "song_name": "The Percocet & Stripper Joint",
+            "artists": [
+                "Future"
+            ],
+            "album": "DS2 (Deluxe)",
+            "played_at": "17/08/2024 - 00:59:55"
+        },
+        {
+            "song_name": "Die Trying",
+            "artists": [
+                "Key Glock"
+            ],
+            "album": "PRE5L",
+            "played_at": "17/08/2024 - 00:57:33"
+        },
+        {
+            "song_name": "Ric Flair Drip (with Metro Boomin)",
+            "artists": [
+                "Offset",
+                "Metro Boomin"
+            ],
+            "album": "Without Warning",
+            "played_at": "17/08/2024 - 00:55:06"
+        },
+        {
+            "song_name": "Mmhmm",
+            "artists": [
+                "BigXthaPlug"
+            ],
+            "album": "THE BIGGEST",
+            "played_at": "17/08/2024 - 00:52:19"
+        },
+        {
+            "song_name": "Unforgettable",
+            "artists": [
+                "French Montana",
+                "Swae Lee"
+            ],
+            "album": "Jungle Rules",
+            "played_at": "17/08/2024 - 00:50:26"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "17/08/2024 - 00:46:38"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "17/08/2024 - 00:43:02"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "17/08/2024 - 00:40:25"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You - Prison Tapes",
+            "played_at": "17/08/2024 - 00:38:02"
+        },
+        {
+            "song_name": "Waves - Robin Schulz Radio Edit",
+            "artists": [
+                "Mr. Probz",
+                "Robin Schulz"
+            ],
+            "album": "Waves (Robin Schulz Radio Edit)",
+            "played_at": "16/08/2024 - 17:02:12"
+        },
+        {
+            "song_name": "Can't Feel My Face",
+            "artists": [
+                "The Weeknd"
+            ],
+            "album": "Beauty Behind The Madness",
+            "played_at": "16/08/2024 - 16:59:46"
+        },
+        {
+            "song_name": "Afraid To Feel",
+            "artists": [
+                "LF SYSTEM"
+            ],
+            "album": "Afraid To Feel",
+            "played_at": "16/08/2024 - 16:56:12"
+        },
+        {
+            "song_name": "The Weekend - Funk Wav Remix",
+            "artists": [
+                "SZA",
+                "Calvin Harris",
+                "Funk Wav"
+            ],
+            "album": "The Weekend (Funk Wav Remix)",
+            "played_at": "16/08/2024 - 16:53:15"
+        },
+        {
+            "song_name": "Sunshine (My Girl)",
+            "artists": [
+                "Wuki"
+            ],
+            "album": "Sunshine (My Girl)",
+            "played_at": "16/08/2024 - 16:50:23"
+        },
+        {
+            "song_name": "Lush Life",
+            "artists": [
+                "Zara Larsson"
+            ],
+            "album": "So Good",
+            "played_at": "16/08/2024 - 16:48:12"
+        },
+        {
+            "song_name": "Don't Forget My Love",
+            "artists": [
+                "Diplo",
+                "Miguel"
+            ],
+            "album": "Diplo",
+            "played_at": "16/08/2024 - 16:44:50"
+        },
+        {
+            "song_name": "Back On 74",
+            "artists": [
+                "Jungle"
+            ],
+            "album": "Volcano",
+            "played_at": "16/08/2024 - 16:41:31"
+        },
+        {
+            "song_name": "Amapiano",
+            "artists": [
+                "Asake",
+                "Olamide"
+            ],
+            "album": "Amapiano",
+            "played_at": "16/08/2024 - 16:38:02"
+        },
+        {
+            "song_name": "This Is What You Came For",
+            "artists": [
+                "Calvin Harris",
+                "Rihanna"
+            ],
+            "album": "This Is What You Came For",
+            "played_at": "16/08/2024 - 16:35:17"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "16/08/2024 - 16:31:35"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "channel ORANGE",
+            "played_at": "16/08/2024 - 16:29:02"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "16/08/2024 - 16:25:08"
+        },
+        {
+            "song_name": "Words (feat. Zara Larsson)",
+            "artists": [
+                "Alesso",
+                "Zara Larsson"
+            ],
+            "album": "Words (feat. Zara Larsson)",
+            "played_at": "16/08/2024 - 16:22:32"
+        },
+        {
+            "song_name": "Music is Better",
+            "artists": [
+                "RÜFÜS DU SOL"
+            ],
+            "album": "Music is Better",
+            "played_at": "16/08/2024 - 16:20:09"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Iyaz"
+            ],
+            "album": "Replay",
+            "played_at": "16/08/2024 - 16:16:13"
+        },
+        {
+            "song_name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+            "artists": [
+                "DJ Khaled",
+                "Rihanna",
+                "Bryson Tiller"
+            ],
+            "album": "Grateful",
+            "played_at": "16/08/2024 - 16:13:11"
         },
         {
             "song_name": "U Do",
