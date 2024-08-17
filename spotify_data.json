@@ -22,6 +22,14 @@
             "played_at": "17/08/2024 - 17:18:51"
         },
         {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "17/08/2024 - 16:43:18"
+        },
+        {
             "song_name": "Spicy (feat. Post Malone)",
             "artists": [
                 "Ty Dolla $ign",
@@ -420,15 +428,6 @@
             ],
             "album": "Grateful",
             "played_at": "16/08/2024 - 16:13:11"
-        },
-        {
-            "song_name": "UNAVAILABLE (feat. Musa Keys)",
-            "artists": [
-                "Davido",
-                "Musa Keys"
-            ],
-            "album": "Timeless",
-            "played_at": "16/08/2024 - 16:09:46"
         },
         {
             "song_name": "U Do",
