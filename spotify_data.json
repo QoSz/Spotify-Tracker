@@ -2,428 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "You Get Me So High",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "18/08/2024 - 18:55:55"
-        },
-        {
-            "song_name": "Reflections",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "18/08/2024 - 18:53:22"
-        },
-        {
-            "song_name": "Daddy Issues",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Wiped Out!",
-            "played_at": "18/08/2024 - 18:49:17"
-        },
-        {
-            "song_name": "Softcore",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "18/08/2024 - 18:44:56"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "18/08/2024 - 18:41:29"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "18/08/2024 - 11:11:36"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "18/08/2024 - 01:04:37"
-        },
-        {
-            "song_name": "Spicy (feat. Post Malone)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Post Malone"
-            ],
-            "album": "Featuring Ty Dolla $ign",
-            "played_at": "18/08/2024 - 00:04:24"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Drake",
-                "Majid Jordan"
-            ],
-            "album": "Nothing Was The Same - Deluxe",
-            "played_at": "18/08/2024 - 00:02:07"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "17/08/2024 - 23:58:25"
-        },
-        {
-            "song_name": "Lemonade (feat. NAV)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "NAV"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "17/08/2024 - 23:55:55"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "17/08/2024 - 23:52:45"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "17/08/2024 - 23:49:39"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "17/08/2024 - 23:47:21"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "17/08/2024 - 23:45:45"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "17/08/2024 - 23:42:22"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "17/08/2024 - 23:39:35"
-        },
-        {
-            "song_name": "It's Called: Freefall - Sped Up",
-            "artists": [
-                "noturgf"
-            ],
-            "album": "It's Called: Freefall (Sped Up)",
-            "played_at": "17/08/2024 - 23:36:36"
-        },
-        {
-            "song_name": "Kill Bill",
-            "artists": [
-                "SZA"
-            ],
-            "album": "SOS",
-            "played_at": "17/08/2024 - 23:35:45"
-        },
-        {
-            "song_name": "Midnight City",
-            "artists": [
-                "M83"
-            ],
-            "album": "Hurry up, We're Dreaming",
-            "played_at": "17/08/2024 - 23:33:17"
-        },
-        {
-            "song_name": "Softcore",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "17/08/2024 - 23:29:19"
-        },
-        {
-            "song_name": "Shut up My Moms Calling (Sped up)",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling (Sped up)",
-            "played_at": "17/08/2024 - 23:25:58"
-        },
-        {
-            "song_name": "hotline (edit)",
-            "artists": [
-                "Billie Eilish"
-            ],
-            "album": "hotline (edit)",
-            "played_at": "17/08/2024 - 23:23:49"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "17/08/2024 - 23:22:54"
-        },
-        {
-            "song_name": "Sure Thing",
-            "artists": [
-                "Miguel"
-            ],
-            "album": "All I Want Is You",
-            "played_at": "17/08/2024 - 23:19:14"
-        },
-        {
-            "song_name": "Daddy Issues",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Wiped Out!",
-            "played_at": "17/08/2024 - 23:16:04"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "17/08/2024 - 23:11:50"
-        },
-        {
-            "song_name": "See You Again (feat. Kali Uchis)",
-            "artists": [
-                "Tyler, The Creator",
-                "Kali Uchis"
-            ],
-            "album": "Flower Boy",
-            "played_at": "17/08/2024 - 23:06:43"
-        },
-        {
-            "song_name": "Revenge",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "17",
-            "played_at": "17/08/2024 - 23:03:48"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "17/08/2024 - 23:01:54"
-        },
-        {
-            "song_name": "Reflections",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "17/08/2024 - 23:00:33"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "17/08/2024 - 22:56:31"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "17/08/2024 - 22:52:19"
-        },
-        {
-            "song_name": "U Do",
-            "artists": [
-                "Nimus",
-                "Sages"
-            ],
-            "album": "U Do",
-            "played_at": "17/08/2024 - 17:21:09"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "17/08/2024 - 17:18:51"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "17/08/2024 - 16:43:18"
-        },
-        {
-            "song_name": "Spicy (feat. Post Malone)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Post Malone"
-            ],
-            "album": "Featuring Ty Dolla $ign",
-            "played_at": "17/08/2024 - 16:33:02"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Drake",
-                "Majid Jordan"
-            ],
-            "album": "Nothing Was The Same - Deluxe",
-            "played_at": "17/08/2024 - 16:30:45"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "17/08/2024 - 16:27:00"
-        },
-        {
-            "song_name": "Lemonade (feat. NAV)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "NAV"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "17/08/2024 - 16:24:36"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "17/08/2024 - 16:21:26"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "17/08/2024 - 16:18:20"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "17/08/2024 - 16:16:02"
-        },
-        {
-            "song_name": "Blue World",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "17/08/2024 - 16:14:26"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "17/08/2024 - 16:11:03"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "17/08/2024 - 16:08:16"
-        },
-        {
-            "song_name": "Starting Over",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "17/08/2024 - 01:42:35"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "17/08/2024 - 01:33:17"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "17/08/2024 - 01:31:12"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "17/08/2024 - 01:28:35"
-        },
-        {
             "song_name": "Wires",
             "artists": [
                 "The Neighbourhood"
@@ -1650,6 +1228,419 @@
             ],
             "album": "Honestly, Nevermind",
             "played_at": "17/08/2024 - 23:42:22"
+        },
+        {
+            "song_name": "Scared to Be Lonely",
+            "artists": [
+                "Martin Garrix",
+                "Dua Lipa"
+            ],
+            "album": "Scared to Be Lonely",
+            "played_at": "18/08/2024 - 21:59:36"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "18/08/2024 - 21:55:55"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "18/08/2024 - 21:52:28"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Sadnecessary",
+            "played_at": "18/08/2024 - 21:48:41"
+        },
+        {
+            "song_name": "Ric Flair Drip (with Metro Boomin)",
+            "artists": [
+                "Offset",
+                "Metro Boomin"
+            ],
+            "album": "Without Warning",
+            "played_at": "18/08/2024 - 21:43:27"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "18/08/2024 - 21:40:34"
+        },
+        {
+            "song_name": "A Sky Full of Stars",
+            "artists": [
+                "Coldplay"
+            ],
+            "album": "Ghost Stories",
+            "played_at": "18/08/2024 - 21:36:50"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "18/08/2024 - 21:32:22"
+        },
+        {
+            "song_name": "Payphone",
+            "artists": [
+                "Maroon 5",
+                "Wiz Khalifa"
+            ],
+            "album": "Overexposed Track By Track",
+            "played_at": "18/08/2024 - 21:28:21"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "I",
+            "played_at": "18/08/2024 - 21:24:29"
+        },
+        {
+            "song_name": "Runaway (U & I)",
+            "artists": [
+                "Galantis"
+            ],
+            "album": "Pharmacy",
+            "played_at": "18/08/2024 - 21:21:23"
+        },
+        {
+            "song_name": "One Day / Reckoning Song (Wankelmut Remix) - Radio Edit",
+            "artists": [
+                "Asaf Avidan",
+                "The Mojos",
+                "Wankelmut"
+            ],
+            "album": "One Day / Reckoning Song (Wankelmut Remix)",
+            "played_at": "18/08/2024 - 21:17:35"
+        },
+        {
+            "song_name": "Something Just Like This",
+            "artists": [
+                "The Chainsmokers",
+                "Coldplay"
+            ],
+            "album": "Memories...Do Not Open",
+            "played_at": "18/08/2024 - 21:13:59"
+        },
+        {
+            "song_name": "Demons",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "album": "Night Visions",
+            "played_at": "18/08/2024 - 21:09:52"
+        },
+        {
+            "song_name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+            "artists": [
+                "Rudimental",
+                "Jess Glynne",
+                "Macklemore",
+                "Dan Caplen"
+            ],
+            "album": "Toast to Our Differences (Deluxe Edition)",
+            "played_at": "18/08/2024 - 21:06:54"
+        },
+        {
+            "song_name": "Outside (feat. Ellie Goulding)",
+            "artists": [
+                "Calvin Harris",
+                "Ellie Goulding"
+            ],
+            "album": "Motion",
+            "played_at": "18/08/2024 - 21:01:24"
+        },
+        {
+            "song_name": "On My Way",
+            "artists": [
+                "Illijah"
+            ],
+            "album": "On My Way",
+            "played_at": "18/08/2024 - 20:57:36"
+        },
+        {
+            "song_name": "Don't Wake Me Up",
+            "artists": [
+                "Chris Brown"
+            ],
+            "album": "Fortune (Expanded Edition)",
+            "played_at": "18/08/2024 - 20:54:38"
+        },
+        {
+            "song_name": "Last Friday Night (T.G.I.F.)",
+            "artists": [
+                "Katy Perry"
+            ],
+            "album": "Teenage Dream",
+            "played_at": "18/08/2024 - 20:50:55"
+        },
+        {
+            "song_name": "Bumpy Ride",
+            "artists": [
+                "Mohombi"
+            ],
+            "album": "MoveMeant (International)",
+            "played_at": "18/08/2024 - 20:47:04"
+        },
+        {
+            "song_name": "Issues",
+            "artists": [
+                "Julia Michaels"
+            ],
+            "album": "Nervous System",
+            "played_at": "18/08/2024 - 20:43:19"
+        },
+        {
+            "song_name": "Love Me Again",
+            "artists": [
+                "John Newman"
+            ],
+            "album": "Tribute",
+            "played_at": "18/08/2024 - 20:40:22"
+        },
+        {
+            "song_name": "Don't You Worry Child - Radio Edit",
+            "artists": [
+                "Swedish House Mafia",
+                "John Martin"
+            ],
+            "album": "Don't You Worry Child",
+            "played_at": "18/08/2024 - 20:36:21"
+        },
+        {
+            "song_name": "I Cry",
+            "artists": [
+                "Flo Rida"
+            ],
+            "album": "Wild Ones",
+            "played_at": "18/08/2024 - 20:32:48"
+        },
+        {
+            "song_name": "You Know You Like It",
+            "artists": [
+                "DJ Snake",
+                "AlunaGeorge"
+            ],
+            "album": "You Know You Like It",
+            "played_at": "18/08/2024 - 20:29:04"
+        },
+        {
+            "song_name": "Scars To Your Beautiful",
+            "artists": [
+                "Alessia Cara"
+            ],
+            "album": "Know-It-All",
+            "played_at": "18/08/2024 - 20:24:56"
+        },
+        {
+            "song_name": "ALRIGHT",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "18/08/2024 - 20:23:16"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "18/08/2024 - 20:22:24"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "18/08/2024 - 20:19:30"
+        },
+        {
+            "song_name": "Goose Neck",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Goose Neck",
+            "played_at": "18/08/2024 - 20:16:48"
+        },
+        {
+            "song_name": "Baby Came Home 2 / Valentines",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "18/08/2024 - 20:13:45"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "18/08/2024 - 20:07:14"
+        },
+        {
+            "song_name": "Void",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "18/08/2024 - 20:04:26"
+        },
+        {
+            "song_name": "Void",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "18/08/2024 - 19:58:04"
+        },
+        {
+            "song_name": "Wires",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I'm Sorry...",
+            "played_at": "18/08/2024 - 19:57:34"
+        },
+        {
+            "song_name": "R.I.P. 2 My Youth",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "18/08/2024 - 19:54:20"
+        },
+        {
+            "song_name": "Cherry Flavoured",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Chip Chrome & The Mono-Tones",
+            "played_at": "18/08/2024 - 19:50:54"
+        },
+        {
+            "song_name": "Compass",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "18/08/2024 - 19:47:25"
+        },
+        {
+            "song_name": "Leaving Tonight",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I'm Sorry...",
+            "played_at": "18/08/2024 - 19:44:37"
+        },
+        {
+            "song_name": "W.D.Y.W.F.M?",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "18/08/2024 - 19:41:12"
+        },
+        {
+            "song_name": "Devil's Advocate",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Chip Chrome & The Mono-Tones",
+            "played_at": "18/08/2024 - 19:36:53"
+        },
+        {
+            "song_name": "Unfair",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "#000000 & #FFFFFF (No DJ Version)",
+            "played_at": "18/08/2024 - 19:33:46"
+        },
+        {
+            "song_name": "Fallen Star",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Fallen Star",
+            "played_at": "18/08/2024 - 19:31:19"
+        },
+        {
+            "song_name": "Flawless",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "18/08/2024 - 19:27:33"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Chip Chrome & The Mono-Tones (Deluxe)",
+            "played_at": "18/08/2024 - 19:23:27"
+        },
+        {
+            "song_name": "A Little Death",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Thank You,",
+            "played_at": "18/08/2024 - 19:19:49"
+        },
+        {
+            "song_name": "Nervous",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "18/08/2024 - 19:16:19"
+        },
+        {
+            "song_name": "Cry Baby",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "18/08/2024 - 19:12:14"
+        },
+        {
+            "song_name": "The Beach",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "18/08/2024 - 19:08:17"
+        },
+        {
+            "song_name": "Afraid",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "18/08/2024 - 19:04:01"
         }
     ]
 }
