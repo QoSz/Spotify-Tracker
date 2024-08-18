@@ -842,6 +842,16 @@
             "played_at": "17/08/2024 - 01:08:51"
         },
         {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "18/08/2024 - 11:11:36"
+        },
+        {
             "song_name": "Lavender Sunflower",
             "artists": [
                 "Tory Lanez"
@@ -1252,14 +1262,6 @@
             ],
             "album": "Purgatory",
             "played_at": "17/08/2024 - 01:11:52"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "17/08/2024 - 01:08:51"
         },
         {
             "song_name": "In Too Deep",
