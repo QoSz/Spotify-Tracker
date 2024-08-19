@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "19/08/2024 - 14:07:06"
+        },
+        {
             "song_name": "Fall Back",
             "artists": [
                 "Lithe"
@@ -418,14 +428,6 @@
             ],
             "album": "Nervous System",
             "played_at": "18/08/2024 - 20:43:19"
-        },
-        {
-            "song_name": "Love Me Again",
-            "artists": [
-                "John Newman"
-            ],
-            "album": "Tribute",
-            "played_at": "18/08/2024 - 20:40:22"
         },
         {
             "song_name": "Trance (with Travis Scott & Young Thug)",
