@@ -2,6 +2,50 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "18/08/2024 - 22:16:40"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "18/08/2024 - 22:12:58"
+        },
+        {
+            "song_name": "Are You With Me",
+            "artists": [
+                "Lost Frequencies"
+            ],
+            "album": "Less Is More",
+            "played_at": "18/08/2024 - 22:09:47"
+        },
+        {
+            "song_name": "Midnight City",
+            "artists": [
+                "M83"
+            ],
+            "album": "Hurry up, We're Dreaming",
+            "played_at": "18/08/2024 - 22:07:29"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Drake",
+                "Majid Jordan"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "18/08/2024 - 22:03:24"
+        },
+        {
             "song_name": "Scared to Be Lonely",
             "artists": [
                 "Martin Garrix",
@@ -373,46 +417,6 @@
             ],
             "album": "Chip Chrome & The Mono-Tones (Deluxe)",
             "played_at": "18/08/2024 - 19:23:27"
-        },
-        {
-            "song_name": "A Little Death",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Thank You,",
-            "played_at": "18/08/2024 - 19:19:49"
-        },
-        {
-            "song_name": "Nervous",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "18/08/2024 - 19:16:19"
-        },
-        {
-            "song_name": "Cry Baby",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Wiped Out!",
-            "played_at": "18/08/2024 - 19:12:14"
-        },
-        {
-            "song_name": "The Beach",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Wiped Out!",
-            "played_at": "18/08/2024 - 19:08:17"
-        },
-        {
-            "song_name": "Afraid",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "18/08/2024 - 19:04:01"
         },
         {
             "song_name": "The Way Life Goes (feat. Oh Wonder)",
