@@ -1253,6 +1253,30 @@
             "played_at": "18/08/2024 - 19:23:27"
         },
         {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "19/08/2024 - 12:57:15"
+        },
+        {
+            "song_name": "Dunno",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "19/08/2024 - 12:53:29"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "19/08/2024 - 12:49:31"
+        },
+        {
             "song_name": "The Way Life Goes (feat. Oh Wonder)",
             "artists": [
                 "Lil Uzi Vert",
@@ -1644,30 +1668,6 @@
             ],
             "album": "#000000 & #FFFFFF (No DJ Version)",
             "played_at": "18/08/2024 - 19:33:46"
-        },
-        {
-            "song_name": "Fallen Star",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Fallen Star",
-            "played_at": "18/08/2024 - 19:31:19"
-        },
-        {
-            "song_name": "Flawless",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "18/08/2024 - 19:27:33"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Chip Chrome & The Mono-Tones (Deluxe)",
-            "played_at": "18/08/2024 - 19:23:27"
         }
     ]
 }
