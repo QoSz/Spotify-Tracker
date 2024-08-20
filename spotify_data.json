@@ -2,6 +2,70 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Mardy Bum",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Whatever People Say I Am, That's What I'm Not",
+            "played_at": "20/08/2024 - 18:27:12"
+        },
+        {
+            "song_name": "Pain",
+            "artists": [
+                "PinkPantheress"
+            ],
+            "album": "to hell with it",
+            "played_at": "20/08/2024 - 18:15:27"
+        },
+        {
+            "song_name": "Kill Bill",
+            "artists": [
+                "SZA"
+            ],
+            "album": "SOS",
+            "played_at": "20/08/2024 - 18:13:48"
+        },
+        {
+            "song_name": "Someday",
+            "artists": [
+                "The Strokes"
+            ],
+            "album": "Is This It",
+            "played_at": "20/08/2024 - 18:11:13"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "20/08/2024 - 18:08:09"
+        },
+        {
+            "song_name": "Feel It - From The Original Series “Invincible”",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Feel It (From The Original Series “Invincible”)",
+            "played_at": "20/08/2024 - 18:06:37"
+        },
+        {
+            "song_name": "Why'd You Only Call Me When You're High?",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "AM",
+            "played_at": "20/08/2024 - 18:03:58"
+        },
+        {
+            "song_name": "Borderline",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush",
+            "played_at": "20/08/2024 - 18:01:17"
+        },
+        {
             "song_name": "EARFQUAKE",
             "artists": [
                 "Tyler, The Creator"
@@ -358,77 +422,6 @@
             ],
             "album": "Over & Over",
             "played_at": "20/08/2024 - 11:57:33"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "20/08/2024 - 11:55:09"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "20/08/2024 - 11:52:29"
-        },
-        {
-            "song_name": "High Tide",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Dream Dimension",
-            "played_at": "20/08/2024 - 11:49:50"
-        },
-        {
-            "song_name": "Strong",
-            "artists": [
-                "Sigma",
-                "Kovic"
-            ],
-            "album": "Hope",
-            "played_at": "20/08/2024 - 11:46:29"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "20/08/2024 - 11:43:10"
-        },
-        {
-            "song_name": "Hope",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Hope",
-            "played_at": "20/08/2024 - 11:41:03"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "20/08/2024 - 11:39:03"
-        },
-        {
-            "song_name": "Fallin' In Love",
-            "artists": [
-                "Ruxolf",
-                "Marphil"
-            ],
-            "album": "Fallin' In Love",
-            "played_at": "20/08/2024 - 11:36:56"
         },
         {
             "song_name": "Mardy Bum",
