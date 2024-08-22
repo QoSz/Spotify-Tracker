@@ -2,439 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "22/08/2024 - 14:57:29"
-        },
-        {
-            "song_name": "Before LA",
-            "artists": [
-                "Foínix",
-                "Chris Ruo",
-                "Robbie Rosen"
-            ],
-            "album": "Before LA",
-            "played_at": "22/08/2024 - 14:54:44"
-        },
-        {
-            "song_name": "Sweetly",
-            "artists": [
-                "Honey",
-                "Summer Vibes"
-            ],
-            "album": "Sweetly",
-            "played_at": "22/08/2024 - 14:51:52"
-        },
-        {
-            "song_name": "Sabaii",
-            "artists": [
-                "Deep Chills",
-                "Five Corners",
-                "Natty Rico"
-            ],
-            "album": "Sabaii",
-            "played_at": "22/08/2024 - 14:49:15"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Fast Car",
-            "played_at": "22/08/2024 - 14:46:52"
-        },
-        {
-            "song_name": "Take You Back",
-            "artists": [
-                "Theodor Rosenberg",
-                "Vowed"
-            ],
-            "album": "Take You Back",
-            "played_at": "22/08/2024 - 14:43:20"
-        },
-        {
-            "song_name": "My California Dream",
-            "artists": [
-                "Richill",
-                "Ladina Viva"
-            ],
-            "album": "My California Dream",
-            "played_at": "22/08/2024 - 14:41:09"
-        },
-        {
-            "song_name": "Love That We Need",
-            "artists": [
-                "Silience",
-                "Loyal"
-            ],
-            "album": "Love That We Need",
-            "played_at": "22/08/2024 - 14:38:35"
-        },
-        {
-            "song_name": "Hope",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Hope",
-            "played_at": "22/08/2024 - 14:35:38"
-        },
-        {
-            "song_name": "Catch Another Tide",
-            "artists": [
-                "Thierry Von Der Warth",
-                "NSH"
-            ],
-            "album": "Catch Another Tide",
-            "played_at": "22/08/2024 - 14:33:37"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "Kenn Colt",
-                "Adam Pickard"
-            ],
-            "album": "BALANCE",
-            "played_at": "22/08/2024 - 14:30:52"
-        },
-        {
-            "song_name": "Passing Clouds",
-            "artists": [
-                "Sum Wave"
-            ],
-            "album": "Passing Clouds",
-            "played_at": "22/08/2024 - 14:27:30"
-        },
-        {
-            "song_name": "Anymore",
-            "artists": [
-                "Eloi El"
-            ],
-            "album": "Anymore",
-            "played_at": "22/08/2024 - 14:24:57"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "Ain't Nobody (Loves Me Better)",
-            "played_at": "22/08/2024 - 14:22:12"
-        },
-        {
-            "song_name": "Last Call For The Summer",
-            "artists": [
-                "s m s n",
-                "NEEA RIVER"
-            ],
-            "album": "Last Call For The Summer",
-            "played_at": "22/08/2024 - 14:19:06"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "22/08/2024 - 14:16:48"
-        },
-        {
-            "song_name": "Redemption",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Redemption",
-            "played_at": "22/08/2024 - 14:13:50"
-        },
-        {
-            "song_name": "Save Tonight",
-            "artists": [
-                "Sam Feldt"
-            ],
-            "album": "Sunrise",
-            "played_at": "22/08/2024 - 14:10:32"
-        },
-        {
-            "song_name": "Believer",
-            "artists": [
-                "BOILERS",
-                "Daniel McMillan",
-                "Crew Cardinal"
-            ],
-            "album": "Believer",
-            "played_at": "22/08/2024 - 14:07:46"
-        },
-        {
-            "song_name": "True",
-            "artists": [
-                "CYRIL",
-                "Kita Alexander"
-            ],
-            "album": "True",
-            "played_at": "22/08/2024 - 14:05:04"
-        },
-        {
-            "song_name": "Hold This Memory",
-            "artists": [
-                "Deepend",
-                "Madism"
-            ],
-            "album": "Hold This Memory",
-            "played_at": "22/08/2024 - 14:02:58"
-        },
-        {
-            "song_name": "Hater",
-            "artists": [
-                "Nexeri"
-            ],
-            "album": "Hater",
-            "played_at": "22/08/2024 - 14:00:18"
-        },
-        {
-            "song_name": "Let You Go Later",
-            "artists": [
-                "Guille Alvarez",
-                "Emma Castellino"
-            ],
-            "album": "Let You Go Later",
-            "played_at": "22/08/2024 - 13:57:28"
-        },
-        {
-            "song_name": "In Deep",
-            "artists": [
-                "Beachwax"
-            ],
-            "album": "In Deep",
-            "played_at": "22/08/2024 - 13:54:27"
-        },
-        {
-            "song_name": "City of Love",
-            "artists": [
-                "Lonely in the Rain",
-                "Nounours"
-            ],
-            "album": "City of Love",
-            "played_at": "22/08/2024 - 13:51:36"
-        },
-        {
-            "song_name": "Jolene",
-            "artists": [
-                "Curl",
-                "Jorm",
-                "Ludvigsson"
-            ],
-            "album": "Jolene",
-            "played_at": "22/08/2024 - 13:46:22"
-        },
-        {
-            "song_name": "Holiday",
-            "artists": [
-                "Junerule",
-                "Brendan Mills",
-                "Tess Burrstone"
-            ],
-            "album": "Holiday",
-            "played_at": "22/08/2024 - 13:43:34"
-        },
-        {
-            "song_name": "Did You Know",
-            "artists": [
-                "Together Alone"
-            ],
-            "album": "Did You Know",
-            "played_at": "22/08/2024 - 13:40:43"
-        },
-        {
-            "song_name": "One More Summer Night",
-            "artists": [
-                "Chemical Neon",
-                "Jordan Grace",
-                "Eva Vinjor"
-            ],
-            "album": "One More Summer Night",
-            "played_at": "22/08/2024 - 13:37:47"
-        },
-        {
-            "song_name": "When You Move",
-            "artists": [
-                "Blonde Maze"
-            ],
-            "album": "When You Move",
-            "played_at": "22/08/2024 - 13:35:03"
-        },
-        {
-            "song_name": "Right Here Right Now",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "Right Here Right Now",
-            "played_at": "22/08/2024 - 13:31:27"
-        },
-        {
-            "song_name": "Could've Been Us",
-            "artists": [
-                "ItsLee",
-                "Dom Fricot"
-            ],
-            "album": "Could've Been Us",
-            "played_at": "22/08/2024 - 13:28:58"
-        },
-        {
-            "song_name": "Valuable Souls",
-            "artists": [
-                "Wavey",
-                "Bjarne Hendrik"
-            ],
-            "album": "Valuable Souls",
-            "played_at": "22/08/2024 - 13:26:45"
-        },
-        {
-            "song_name": "Caribbean Waters",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Caribbean Waters",
-            "played_at": "22/08/2024 - 13:22:18"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "22/08/2024 - 13:20:22"
-        },
-        {
-            "song_name": "Gon Be Alright",
-            "artists": [
-                "twuan"
-            ],
-            "album": "Gon Be Alright",
-            "played_at": "22/08/2024 - 13:18:18"
-        },
-        {
-            "song_name": "Please",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "When You Forgive",
-            "played_at": "22/08/2024 - 13:16:45"
-        },
-        {
-            "song_name": "Everything Would Be Fine",
-            "artists": [
-                "Alx Beats"
-            ],
-            "album": "Instrumentals, Vol. 7",
-            "played_at": "22/08/2024 - 13:13:09"
-        },
-        {
-            "song_name": "Butterfly Season",
-            "artists": [
-                "Lucas Melan",
-                "bearbare"
-            ],
-            "album": "Butterfly Season",
-            "played_at": "22/08/2024 - 13:11:11"
-        },
-        {
-            "song_name": "I’ll Keep You Safe",
-            "artists": [
-                "Vluestar"
-            ],
-            "album": "I’ll Keep You Safe",
-            "played_at": "22/08/2024 - 13:08:29"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "22/08/2024 - 13:06:09"
-        },
-        {
-            "song_name": "Lonely in London",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "22/08/2024 - 13:04:41"
-        },
-        {
-            "song_name": "Intimate",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "A Letter by the Lake",
-            "played_at": "22/08/2024 - 03:23:10"
-        },
-        {
-            "song_name": "Don't Look Back",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "From the Outside",
-            "played_at": "22/08/2024 - 03:13:09"
-        },
-        {
-            "song_name": "Sunday Morning",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Peaceful Melodies for Studying",
-            "played_at": "22/08/2024 - 03:10:44"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "22/08/2024 - 03:08:29"
-        },
-        {
-            "song_name": "One",
-            "artists": [
-                "Miscél"
-            ],
-            "album": "One",
-            "played_at": "22/08/2024 - 03:06:29"
-        },
-        {
-            "song_name": "silverwood",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "silverwood",
-            "played_at": "22/08/2024 - 03:04:58"
-        },
-        {
-            "song_name": "Stay With Me",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "Stay With Me",
-            "played_at": "22/08/2024 - 03:03:22"
-        },
-        {
-            "song_name": "Lights Out",
-            "artists": [
-                "Kanisan",
-                "Mondo Loops"
-            ],
-            "album": "Rüya",
-            "played_at": "22/08/2024 - 03:01:16"
-        },
-        {
             "song_name": "Dollar Dream [Lucas Estrada Edit]",
             "artists": [
                 "Lucas Estrada",
@@ -1774,6 +1341,456 @@
             ],
             "album": "Valerie",
             "played_at": "22/08/2024 - 15:13:24"
+        },
+        {
+            "song_name": "Knockin' On Heaven's Door",
+            "artists": [
+                "Nexeri",
+                "Tara Louise"
+            ],
+            "album": "Knockin' On Heaven's Door",
+            "played_at": "22/08/2024 - 17:30:44"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "22/08/2024 - 17:29:18"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "22/08/2024 - 17:26:04"
+        },
+        {
+            "song_name": "Kiss Me",
+            "artists": [
+                "Lenji"
+            ],
+            "album": "Kiss Me",
+            "played_at": "22/08/2024 - 17:24:00"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Kaan Pars",
+                "Kuzi Cee"
+            ],
+            "album": "Over & Over",
+            "played_at": "22/08/2024 - 17:21:32"
+        },
+        {
+            "song_name": "Summer Feeling",
+            "artists": [
+                "Matoma",
+                "Jonah Kagen"
+            ],
+            "album": "Summer Feeling",
+            "played_at": "22/08/2024 - 17:18:44"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "22/08/2024 - 17:15:43"
+        },
+        {
+            "song_name": "Million Memories",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Thomas Geelens"
+            ],
+            "album": "Million Memories",
+            "played_at": "22/08/2024 - 17:12:59"
+        },
+        {
+            "song_name": "New Beginnings",
+            "artists": [
+                "Sparkee"
+            ],
+            "album": "New Beginnings",
+            "played_at": "22/08/2024 - 17:10:16"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "22/08/2024 - 17:07:08"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "José Lucas"
+            ],
+            "album": "Paradise",
+            "played_at": "22/08/2024 - 17:04:23"
+        },
+        {
+            "song_name": "I Miss You",
+            "artists": [
+                "BOILERS",
+                "CALVIN"
+            ],
+            "album": "I Miss You",
+            "played_at": "22/08/2024 - 17:01:07"
+        },
+        {
+            "song_name": "Dangerous",
+            "artists": [
+                "Antoine Chambe",
+                "Lucas Cozy"
+            ],
+            "album": "Riverside",
+            "played_at": "22/08/2024 - 16:58:16"
+        },
+        {
+            "song_name": "I Remember",
+            "artists": [
+                "Deerock",
+                "Taye"
+            ],
+            "album": "I Remember",
+            "played_at": "22/08/2024 - 16:54:43"
+        },
+        {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "22/08/2024 - 16:51:21"
+        },
+        {
+            "song_name": "San Diego Fair",
+            "artists": [
+                "Adon"
+            ],
+            "album": "San Diego Fair",
+            "played_at": "22/08/2024 - 16:49:14"
+        },
+        {
+            "song_name": "I Won't Lie",
+            "artists": [
+                "Matvey Emerson",
+                "Kiismin",
+                "Britt Lari"
+            ],
+            "album": "I Won't Lie",
+            "played_at": "22/08/2024 - 16:46:54"
+        },
+        {
+            "song_name": "Safe Place",
+            "artists": [
+                "Weisser Quiff",
+                "Moise"
+            ],
+            "album": "Safe Place",
+            "played_at": "22/08/2024 - 16:44:05"
+        },
+        {
+            "song_name": "Bloom (Brendan Mills Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "TWOPILOTS",
+                "Brendan Mills"
+            ],
+            "album": "Bloom (Brendan Mills Remix)",
+            "played_at": "22/08/2024 - 16:41:54"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "22/08/2024 - 16:39:17"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "22/08/2024 - 16:36:54"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "22/08/2024 - 16:33:44"
+        },
+        {
+            "song_name": "One Call Away",
+            "artists": [
+                "Kid On The Block",
+                "Namté"
+            ],
+            "album": "One Call Away",
+            "played_at": "22/08/2024 - 16:30:51"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Moonkids"
+            ],
+            "album": "Waiting",
+            "played_at": "22/08/2024 - 16:28:28"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "22/08/2024 - 16:25:49"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Refeci",
+                "Alex D'Rosso",
+                "Aili"
+            ],
+            "album": "Over You",
+            "played_at": "22/08/2024 - 16:23:31"
+        },
+        {
+            "song_name": "Fallin' In Love",
+            "artists": [
+                "Ruxolf",
+                "Marphil"
+            ],
+            "album": "Fallin' In Love",
+            "played_at": "22/08/2024 - 16:21:05"
+        },
+        {
+            "song_name": "One Headlight",
+            "artists": [
+                "Nate VanDeusen",
+                "Bayshore Court"
+            ],
+            "album": "One Headlight",
+            "played_at": "22/08/2024 - 16:18:26"
+        },
+        {
+            "song_name": "What I'm Looking For",
+            "artists": [
+                "seatime",
+                "Hanniou"
+            ],
+            "album": "What I'm Looking For",
+            "played_at": "22/08/2024 - 16:15:58"
+        },
+        {
+            "song_name": "Talking To Myself",
+            "artists": [
+                "Namic",
+                "Meynberg"
+            ],
+            "album": "Talking To Myself",
+            "played_at": "22/08/2024 - 16:13:53"
+        },
+        {
+            "song_name": "Morning Sun",
+            "artists": [
+                "NSH",
+                "Atch",
+                "Hobes"
+            ],
+            "album": "Morning Sun",
+            "played_at": "22/08/2024 - 16:11:42"
+        },
+        {
+            "song_name": "Unwanted (feat. Conor Maynard)",
+            "artists": [
+                "Martin Jensen",
+                "Sam Feldt",
+                "Conor Maynard"
+            ],
+            "album": "Unwanted (feat. Conor Maynard)",
+            "played_at": "22/08/2024 - 16:08:35"
+        },
+        {
+            "song_name": "Yellow",
+            "artists": [
+                "Brazil XXI",
+                "Cassandra Beck"
+            ],
+            "album": "Yellow",
+            "played_at": "22/08/2024 - 16:05:49"
+        },
+        {
+            "song_name": "Just Know It - Felix Cartal's Sunset Remix",
+            "artists": [
+                "Dan Mangan",
+                "Felix Cartal"
+            ],
+            "album": "Just Know It (Felix Cartal's Sunset Mix)",
+            "played_at": "22/08/2024 - 16:02:34"
+        },
+        {
+            "song_name": "Dollar Dream [Lucas Estrada Edit]",
+            "artists": [
+                "Lucas Estrada",
+                "Couché",
+                "Polar Notes",
+                "Mentum"
+            ],
+            "album": "Dollar Dream [Lucas Estrada Edit]",
+            "played_at": "22/08/2024 - 15:58:37"
+        },
+        {
+            "song_name": "Ocean Love",
+            "artists": [
+                "Yelloo Hill"
+            ],
+            "album": "Ocean Love",
+            "played_at": "22/08/2024 - 15:55:58"
+        },
+        {
+            "song_name": "Sugar Kiss",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ",
+                "Whilst"
+            ],
+            "album": "Sugar Kiss",
+            "played_at": "22/08/2024 - 15:53:46"
+        },
+        {
+            "song_name": "Lucky Star",
+            "artists": [
+                "Sol Novaro",
+                "ROBINS"
+            ],
+            "album": "Lucky Star",
+            "played_at": "22/08/2024 - 15:51:31"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "22/08/2024 - 15:48:18"
+        },
+        {
+            "song_name": "West Side",
+            "artists": [
+                "Kaan Pars",
+                "Donner"
+            ],
+            "album": "West Side",
+            "played_at": "22/08/2024 - 15:45:20"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "YVO"
+            ],
+            "album": "Show Me",
+            "played_at": "22/08/2024 - 15:42:43"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Donner"
+            ],
+            "album": "Love Me",
+            "played_at": "22/08/2024 - 15:40:41"
+        },
+        {
+            "song_name": "No Matter Where",
+            "artists": [
+                "Michael FAY",
+                "Brendan Mills",
+                "Britt Lari"
+            ],
+            "album": "No Matter Where",
+            "played_at": "22/08/2024 - 15:38:27"
+        },
+        {
+            "song_name": "The Ocean - Radio Mix",
+            "artists": [
+                "Max Manie"
+            ],
+            "album": "The Ocean",
+            "played_at": "22/08/2024 - 15:35:34"
+        },
+        {
+            "song_name": "I'll Be Alright",
+            "artists": [
+                "Magnus Gunn"
+            ],
+            "album": "I'll Be Alright",
+            "played_at": "22/08/2024 - 15:31:44"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "22/08/2024 - 15:28:42"
+        },
+        {
+            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+            "artists": [
+                "Mike Posner",
+                "Seeb"
+            ],
+            "album": "At Night, Alone.",
+            "played_at": "22/08/2024 - 15:25:46"
+        },
+        {
+            "song_name": "Never Need",
+            "artists": [
+                "Hogland",
+                "Charlie South"
+            ],
+            "album": "Never Need",
+            "played_at": "22/08/2024 - 15:22:28"
+        },
+        {
+            "song_name": "Time After Time",
+            "artists": [
+                "Paratone"
+            ],
+            "album": "Time After Time",
+            "played_at": "22/08/2024 - 15:19:11"
+        },
+        {
+            "song_name": "Backyard Stories",
+            "artists": [
+                "Sum Wave"
+            ],
+            "album": "Backyard Stories — Summer Forever",
+            "played_at": "22/08/2024 - 15:16:30"
         }
     ]
 }
