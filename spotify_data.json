@@ -2,451 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "21/08/2024 - 09:56:05"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "21/08/2024 - 09:52:37"
-        },
-        {
-            "song_name": "Revenge",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "17",
-            "played_at": "21/08/2024 - 09:49:08"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "21/08/2024 - 09:47:07"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "21/08/2024 - 09:43:48"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "i am not who i was",
-            "played_at": "21/08/2024 - 09:41:15"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "21/08/2024 - 09:38:49"
-        },
-        {
-            "song_name": "The Mannequin Song",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "21/08/2024 - 09:36:25"
-        },
-        {
-            "song_name": "then i met her",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "21/08/2024 - 09:33:41"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "21/08/2024 - 09:31:22"
-        },
-        {
-            "song_name": "want u",
-            "artists": [
-                "noevdv"
-            ],
-            "album": "want u",
-            "played_at": "21/08/2024 - 09:28:39"
-        },
-        {
-            "song_name": "Trust",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "Lost",
-            "played_at": "21/08/2024 - 09:26:57"
-        },
-        {
-            "song_name": "Gods creation",
-            "artists": [
-                "daniel.mp3"
-            ],
-            "album": "Gods creation",
-            "played_at": "21/08/2024 - 09:24:18"
-        },
-        {
-            "song_name": "In My Bed",
-            "artists": [
-                "Rotimi",
-                "Wale"
-            ],
-            "album": "The Beauty of Becoming",
-            "played_at": "21/08/2024 - 09:22:20"
-        },
-        {
-            "song_name": "i walk this earth all by myself",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "21/08/2024 - 09:19:13"
-        },
-        {
-            "song_name": "Magnificent",
-            "artists": [
-                "Daniel Glaven",
-                "WLZN"
-            ],
-            "album": "Magnificent",
-            "played_at": "21/08/2024 - 09:16:47"
-        },
-        {
-            "song_name": "ALRIGHT",
-            "artists": [
-                "Ashes To Amber"
-            ],
-            "album": "Voodoo Blu",
-            "played_at": "21/08/2024 - 09:14:27"
-        },
-        {
-            "song_name": "Sex, Drugs, Etc.",
-            "artists": [
-                "Beach Weather"
-            ],
-            "album": "Pineapple Sunrise",
-            "played_at": "21/08/2024 - 09:12:33"
-        },
-        {
-            "song_name": "Wrapped Around Your Finger",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "21/08/2024 - 09:09:15"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "21/08/2024 - 09:06:01"
-        },
-        {
-            "song_name": "Mourning",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "The Diamond Collection - Deluxe",
-            "played_at": "21/08/2024 - 08:59:17"
-        },
-        {
-            "song_name": "TIME MOVING SLOW",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "21/08/2024 - 08:56:49"
-        },
-        {
-            "song_name": "In Your Arms",
-            "artists": [
-                "Fini",
-                "David Emde"
-            ],
-            "album": "In Your Arms",
-            "played_at": "21/08/2024 - 08:54:09"
-        },
-        {
-            "song_name": "In The Dark (with Jhené Aiko)",
-            "artists": [
-                "Swae Lee",
-                "Jhené Aiko"
-            ],
-            "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
-            "played_at": "21/08/2024 - 08:51:42"
-        },
-        {
-            "song_name": "Snooze",
-            "artists": [
-                "SZA"
-            ],
-            "album": "SOS",
-            "played_at": "21/08/2024 - 08:49:01"
-        },
-        {
-            "song_name": "Down By The River",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "21/08/2024 - 08:45:38"
-        },
-        {
-            "song_name": "I Do",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "I Do",
-            "played_at": "21/08/2024 - 08:41:37"
-        },
-        {
-            "song_name": "Memories Away",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 08:37:34"
-        },
-        {
-            "song_name": "Don't Go",
-            "artists": [
-                "Cozy Apartment",
-                "Cozy Bedroom"
-            ],
-            "album": "Soothing Jazz",
-            "played_at": "21/08/2024 - 08:33:00"
-        },
-        {
-            "song_name": "I'll Be There",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 08:27:05"
-        },
-        {
-            "song_name": "Deep As Love",
-            "artists": [
-                "Cozy Apartment",
-                "Cozy Bedroom"
-            ],
-            "album": "Soothing Jazz",
-            "played_at": "21/08/2024 - 08:21:11"
-        },
-        {
-            "song_name": "The Light World",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Smooth Night Jazz",
-            "played_at": "21/08/2024 - 08:15:06"
-        },
-        {
-            "song_name": "Sunday Secrets",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 08:09:11"
-        },
-        {
-            "song_name": "Quiet Moves",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Smooth Night Jazz",
-            "played_at": "21/08/2024 - 08:03:43"
-        },
-        {
-            "song_name": "Enjoy this Tune",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 07:57:09"
-        },
-        {
-            "song_name": "Memories Of Cocktail",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 07:47:59"
-        },
-        {
-            "song_name": "Danny Boy",
-            "artists": [
-                "Felix Møller"
-            ],
-            "album": "Danny Boy",
-            "played_at": "21/08/2024 - 07:40:27"
-        },
-        {
-            "song_name": "A Cozy Night",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 07:37:38"
-        },
-        {
-            "song_name": "Sweet Jazz",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 07:30:19"
-        },
-        {
-            "song_name": "Over the River",
-            "artists": [
-                "Claire Martinelle"
-            ],
-            "album": "Over the River",
-            "played_at": "21/08/2024 - 07:25:16"
-        },
-        {
-            "song_name": "What a Wonderful Day",
-            "artists": [
-                "Cozy Apartment",
-                "Cozy Bedroom"
-            ],
-            "album": "Soothing Jazz",
-            "played_at": "21/08/2024 - 07:22:19"
-        },
-        {
-            "song_name": "Perfect Place",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 07:16:06"
-        },
-        {
-            "song_name": "Marianne",
-            "artists": [
-                "Lou Green"
-            ],
-            "album": "Marianne",
-            "played_at": "21/08/2024 - 07:10:58"
-        },
-        {
-            "song_name": "Every Little Dreams",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Jazz Apartment",
-            "played_at": "21/08/2024 - 07:08:48"
-        },
-        {
-            "song_name": "Warm Bed",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 07:01:08"
-        },
-        {
-            "song_name": "Get Low",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Smooth Night Jazz",
-            "played_at": "21/08/2024 - 06:53:38"
-        },
-        {
-            "song_name": "What a Moves",
-            "artists": [
-                "Jazzy Coffee",
-                "Cozy Coffee Shop",
-                "Relaxing Jazz Piano"
-            ],
-            "album": "Smooth Night Jazz",
-            "played_at": "21/08/2024 - 06:48:39"
-        },
-        {
-            "song_name": "Evening Drip",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 06:42:08"
-        },
-        {
-            "song_name": "Don't Go",
-            "artists": [
-                "Cozy Apartment",
-                "Cozy Bedroom"
-            ],
-            "album": "Soothing Jazz",
-            "played_at": "21/08/2024 - 06:36:39"
-        },
-        {
-            "song_name": "Remember Me",
-            "artists": [
-                "Cozy Bedroom",
-                "Cozy Apartment",
-                "Cozy Places"
-            ],
-            "album": "Good Night Jazz",
-            "played_at": "21/08/2024 - 06:30:44"
-        },
-        {
             "song_name": "Sex, Drugs, Etc.",
             "artists": [
                 "Beach Weather"
@@ -1712,6 +1267,423 @@
             ],
             "album": "Stevie Doesn't Wonder",
             "played_at": "22/08/2024 - 00:05:39"
+        },
+        {
+            "song_name": "Holiday",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Tess Burrstone"
+            ],
+            "album": "Holiday",
+            "played_at": "22/08/2024 - 13:43:34"
+        },
+        {
+            "song_name": "Did You Know",
+            "artists": [
+                "Together Alone"
+            ],
+            "album": "Did You Know",
+            "played_at": "22/08/2024 - 13:40:43"
+        },
+        {
+            "song_name": "One More Summer Night",
+            "artists": [
+                "Chemical Neon",
+                "Jordan Grace",
+                "Eva Vinjor"
+            ],
+            "album": "One More Summer Night",
+            "played_at": "22/08/2024 - 13:37:47"
+        },
+        {
+            "song_name": "When You Move",
+            "artists": [
+                "Blonde Maze"
+            ],
+            "album": "When You Move",
+            "played_at": "22/08/2024 - 13:35:03"
+        },
+        {
+            "song_name": "Right Here Right Now",
+            "artists": [
+                "Y.V.E. 48"
+            ],
+            "album": "Right Here Right Now",
+            "played_at": "22/08/2024 - 13:31:27"
+        },
+        {
+            "song_name": "Could've Been Us",
+            "artists": [
+                "ItsLee",
+                "Dom Fricot"
+            ],
+            "album": "Could've Been Us",
+            "played_at": "22/08/2024 - 13:28:58"
+        },
+        {
+            "song_name": "Valuable Souls",
+            "artists": [
+                "Wavey",
+                "Bjarne Hendrik"
+            ],
+            "album": "Valuable Souls",
+            "played_at": "22/08/2024 - 13:26:45"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "22/08/2024 - 13:22:18"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "22/08/2024 - 13:20:22"
+        },
+        {
+            "song_name": "Gon Be Alright",
+            "artists": [
+                "twuan"
+            ],
+            "album": "Gon Be Alright",
+            "played_at": "22/08/2024 - 13:18:18"
+        },
+        {
+            "song_name": "Please",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "When You Forgive",
+            "played_at": "22/08/2024 - 13:16:45"
+        },
+        {
+            "song_name": "Everything Would Be Fine",
+            "artists": [
+                "Alx Beats"
+            ],
+            "album": "Instrumentals, Vol. 7",
+            "played_at": "22/08/2024 - 13:13:09"
+        },
+        {
+            "song_name": "Butterfly Season",
+            "artists": [
+                "Lucas Melan",
+                "bearbare"
+            ],
+            "album": "Butterfly Season",
+            "played_at": "22/08/2024 - 13:11:11"
+        },
+        {
+            "song_name": "I’ll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I’ll Keep You Safe",
+            "played_at": "22/08/2024 - 13:08:29"
+        },
+        {
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "22/08/2024 - 13:06:09"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "22/08/2024 - 13:04:41"
+        },
+        {
+            "song_name": "Intimate",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "A Letter by the Lake",
+            "played_at": "22/08/2024 - 03:23:10"
+        },
+        {
+            "song_name": "Don't Look Back",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "From the Outside",
+            "played_at": "22/08/2024 - 03:13:09"
+        },
+        {
+            "song_name": "Sunday Morning",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Peaceful Melodies for Studying",
+            "played_at": "22/08/2024 - 03:10:44"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "22/08/2024 - 03:08:29"
+        },
+        {
+            "song_name": "One",
+            "artists": [
+                "Miscél"
+            ],
+            "album": "One",
+            "played_at": "22/08/2024 - 03:06:29"
+        },
+        {
+            "song_name": "silverwood",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "silverwood",
+            "played_at": "22/08/2024 - 03:04:58"
+        },
+        {
+            "song_name": "Stay With Me",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "Stay With Me",
+            "played_at": "22/08/2024 - 03:03:22"
+        },
+        {
+            "song_name": "Lights Out",
+            "artists": [
+                "Kanisan",
+                "Mondo Loops"
+            ],
+            "album": "Rüya",
+            "played_at": "22/08/2024 - 03:01:16"
+        },
+        {
+            "song_name": "As Long As You Love Me",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "As Long As You Love Me",
+            "played_at": "22/08/2024 - 02:58:55"
+        },
+        {
+            "song_name": "End of the Night",
+            "artists": [
+                "Slumberville",
+                "Jon Bryant"
+            ],
+            "album": "End of the Night",
+            "played_at": "22/08/2024 - 02:56:58"
+        },
+        {
+            "song_name": "Perspective",
+            "artists": [
+                "Barnes Blvd."
+            ],
+            "album": "Chillhop Daydreams",
+            "played_at": "22/08/2024 - 02:54:44"
+        },
+        {
+            "song_name": "a walk in the park",
+            "artists": [
+                "YJKL",
+                "Andrew Simpson"
+            ],
+            "album": "a walk in the park",
+            "played_at": "22/08/2024 - 02:53:03"
+        },
+        {
+            "song_name": "I’ll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I’ll Keep You Safe",
+            "played_at": "22/08/2024 - 02:51:51"
+        },
+        {
+            "song_name": "Going Back",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Going Back",
+            "played_at": "22/08/2024 - 02:49:30"
+        },
+        {
+            "song_name": "hey ya",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "hey ya",
+            "played_at": "22/08/2024 - 02:47:29"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "22/08/2024 - 02:45:47"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "22/08/2024 - 02:43:31"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "22/08/2024 - 02:40:40"
+        },
+        {
+            "song_name": "Catch a Vibe",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "22/08/2024 - 02:37:13"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tiramisu",
+            "played_at": "22/08/2024 - 02:35:17"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "22/08/2024 - 02:33:02"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "22/08/2024 - 02:30:06"
+        },
+        {
+            "song_name": "Please",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "When You Forgive",
+            "played_at": "22/08/2024 - 02:27:15"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "22/08/2024 - 02:23:39"
+        },
+        {
+            "song_name": "Gon Be Alright",
+            "artists": [
+                "twuan"
+            ],
+            "album": "Gon Be Alright",
+            "played_at": "22/08/2024 - 02:21:35"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "22/08/2024 - 02:20:01"
+        },
+        {
+            "song_name": "Bliss",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Bliss",
+            "played_at": "22/08/2024 - 02:18:04"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "22/08/2024 - 02:15:58"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tiramisu",
+            "played_at": "22/08/2024 - 02:14:14"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "22/08/2024 - 02:11:58"
+        },
+        {
+            "song_name": "Catch a Vibe",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "22/08/2024 - 02:09:07"
+        },
+        {
+            "song_name": "Always Together",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Always Together",
+            "played_at": "22/08/2024 - 02:05:57"
+        },
+        {
+            "song_name": "ocean breeze",
+            "artists": [
+                "rayn"
+            ],
+            "album": "ocean breeze",
+            "played_at": "22/08/2024 - 02:03:48"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "22/08/2024 - 02:01:51"
         }
     ]
 }
