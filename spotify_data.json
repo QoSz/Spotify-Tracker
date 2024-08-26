@@ -2,6 +2,308 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "24/08/2024 - 23:24:59"
+        },
+        {
+            "song_name": "Silhouettes - Syn Cole Creamfields Mix Radio Edit",
+            "artists": [
+                "Avicii",
+                "Ash Pournouri",
+                "Rene Pais"
+            ],
+            "album": "Silhouettes (Remixes)",
+            "played_at": "24/08/2024 - 23:12:35"
+        },
+        {
+            "song_name": "Memory Lane",
+            "artists": [
+                "Old Dominion"
+            ],
+            "album": "Memory Lane",
+            "played_at": "24/08/2024 - 19:40:49"
+        },
+        {
+            "song_name": "I Remember Everything (feat. Kacey Musgraves)",
+            "artists": [
+                "Zach Bryan",
+                "Kacey Musgraves"
+            ],
+            "album": "Zach Bryan",
+            "played_at": "24/08/2024 - 19:40:29"
+        },
+        {
+            "song_name": "Good Times Go By Too Fast",
+            "artists": [
+                "Dylan Scott"
+            ],
+            "album": "Livin' My Best Life",
+            "played_at": "24/08/2024 - 19:36:41"
+        },
+        {
+            "song_name": "World on Fire",
+            "artists": [
+                "Nate Smith"
+            ],
+            "album": "NATE SMITH (DELUXE)",
+            "played_at": "24/08/2024 - 19:33:52"
+        },
+        {
+            "song_name": "Deep End",
+            "artists": [
+                "Gavin Adcock"
+            ],
+            "album": "Bonfire Blackout",
+            "played_at": "24/08/2024 - 19:30:42"
+        },
+        {
+            "song_name": "TEXAS HOLD 'EM",
+            "artists": [
+                "Beyoncé"
+            ],
+            "album": "COWBOY CARTER",
+            "played_at": "24/08/2024 - 19:27:56"
+        },
+        {
+            "song_name": "Nine Ball",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Boys Of Faith",
+            "played_at": "24/08/2024 - 19:24:02"
+        },
+        {
+            "song_name": "Thinkin’ Bout Me",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "One Thing At A Time",
+            "played_at": "24/08/2024 - 19:21:12"
+        },
+        {
+            "song_name": "Black Creek",
+            "artists": [
+                "Brent Cobb"
+            ],
+            "album": "No Place Left to Leave (2006)",
+            "played_at": "24/08/2024 - 19:18:15"
+        },
+        {
+            "song_name": "What He'll Never Have",
+            "artists": [
+                "Dylan Scott"
+            ],
+            "album": "Livin' My Best Life (Still)",
+            "played_at": "24/08/2024 - 19:14:42"
+        },
+        {
+            "song_name": "California Sober (Feat. Chris Stapleton)",
+            "artists": [
+                "Post Malone",
+                "Chris Stapleton"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 19:12:08"
+        },
+        {
+            "song_name": "Sarah's Place (feat. Noah Kahan)",
+            "artists": [
+                "Zach Bryan",
+                "Noah Kahan"
+            ],
+            "album": "Sarah's Place (feat. Noah Kahan)",
+            "played_at": "24/08/2024 - 19:08:44"
+        },
+        {
+            "song_name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+            "artists": [
+                "Moneybagg Yo",
+                "Morgan Wallen"
+            ],
+            "album": "SPEAK NOW",
+            "played_at": "24/08/2024 - 19:05:11"
+        },
+        {
+            "song_name": "Spin You Around",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "Stand Alone (10th Anniversary Deluxe Edition)",
+            "played_at": "24/08/2024 - 19:02:29"
+        },
+        {
+            "song_name": "Heartbroken (feat. Jessie Murph & Polo G)",
+            "artists": [
+                "Diplo",
+                "Jessie Murph",
+                "Polo G"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+            "played_at": "24/08/2024 - 18:58:56"
+        },
+        {
+            "song_name": "Tequila",
+            "artists": [
+                "Dan + Shay"
+            ],
+            "album": "Dan + Shay",
+            "played_at": "24/08/2024 - 18:55:32"
+        },
+        {
+            "song_name": "Spotless (feat. The Lumineers)",
+            "artists": [
+                "Zach Bryan",
+                "The Lumineers"
+            ],
+            "album": "Zach Bryan",
+            "played_at": "24/08/2024 - 18:52:15"
+        },
+        {
+            "song_name": "Yours",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 18:49:25"
+        },
+        {
+            "song_name": "Yours",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:44:23"
+        },
+        {
+            "song_name": "Stick Season",
+            "artists": [
+                "Noah Kahan"
+            ],
+            "album": "Stick Season",
+            "played_at": "24/08/2024 - 11:42:38"
+        },
+        {
+            "song_name": "Last Night",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "One Thing At A Time",
+            "played_at": "24/08/2024 - 11:39:36"
+        },
+        {
+            "song_name": "One Man Band",
+            "artists": [
+                "Old Dominion"
+            ],
+            "album": "Old Dominion",
+            "played_at": "24/08/2024 - 11:36:52"
+        },
+        {
+            "song_name": "Heading South",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Heading South",
+            "played_at": "24/08/2024 - 11:33:46"
+        },
+        {
+            "song_name": "Broadway Girls (feat. Morgan Wallen)",
+            "artists": [
+                "Lil Durk",
+                "Morgan Wallen"
+            ],
+            "album": "7220 (Reloaded)",
+            "played_at": "24/08/2024 - 11:30:54"
+        },
+        {
+            "song_name": "Wrong Ones (Feat. Tim McGraw)",
+            "artists": [
+                "Post Malone",
+                "Tim McGraw"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:27:48"
+        },
+        {
+            "song_name": "The Kind of Love We Make",
+            "artists": [
+                "Luke Combs"
+            ],
+            "album": "Growin' Up",
+            "played_at": "24/08/2024 - 11:24:33"
+        },
+        {
+            "song_name": "Memory",
+            "artists": [
+                "Kane Brown",
+                "blackbear"
+            ],
+            "album": "Memory",
+            "played_at": "24/08/2024 - 11:20:48"
+        },
+        {
+            "song_name": "Dawns (feat. Maggie Rogers)",
+            "artists": [
+                "Zach Bryan",
+                "Maggie Rogers"
+            ],
+            "album": "Dawns (feat. Maggie Rogers)",
+            "played_at": "24/08/2024 - 11:18:15"
+        },
+        {
+            "song_name": "The Other Side",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "The Other Side",
+            "played_at": "24/08/2024 - 11:13:24"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Watchhouse"
+            ],
+            "album": "Such Jubilee",
+            "played_at": "24/08/2024 - 11:10:40"
+        },
+        {
+            "song_name": "Losers (Feat. Jelly Roll)",
+            "artists": [
+                "Post Malone",
+                "Jelly Roll"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:07:26"
+        },
+        {
+            "song_name": "She Got the Best of Me",
+            "artists": [
+                "Luke Combs"
+            ],
+            "album": "This One's for You Too (Deluxe Edition)",
+            "played_at": "24/08/2024 - 11:03:57"
+        },
+        {
+            "song_name": "Something in the Orange",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Something in the Orange",
+            "played_at": "24/08/2024 - 11:00:54"
+        },
+        {
+            "song_name": "Starting Over",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "24/08/2024 - 10:57:06"
+        },
+        {
             "song_name": "Starting Over",
             "artists": [
                 "Chris Stapleton"
@@ -117,332 +419,491 @@
             "played_at": "23/08/2024 - 21:06:21"
         },
         {
-            "song_name": "Lioness",
+            "song_name": "Dirty Love",
             "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove"
+                "Mt. Joy"
             ],
-            "album": "Lioness",
-            "played_at": "23/08/2024 - 21:03:07"
+            "album": "Mt. Joy",
+            "played_at": "24/08/2024 - 23:24:59"
         },
         {
-            "song_name": "Nevada",
+            "song_name": "Silhouettes - Syn Cole Creamfields Mix Radio Edit",
             "artists": [
-                "Vicetone",
-                "Cozi Zuehlsdorff"
+                "Avicii",
+                "Ash Pournouri",
+                "Rene Pais"
             ],
-            "album": "Nevada",
-            "played_at": "23/08/2024 - 21:00:14"
+            "album": "Silhouettes (Remixes)",
+            "played_at": "24/08/2024 - 23:12:35"
         },
         {
-            "song_name": "I Got U",
+            "song_name": "Memory Lane",
             "artists": [
-                "Duke Dumont",
-                "Jax Jones"
+                "Old Dominion"
             ],
-            "album": "I Got U",
-            "played_at": "23/08/2024 - 20:56:45"
+            "album": "Memory Lane",
+            "played_at": "24/08/2024 - 19:40:49"
         },
         {
-            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "song_name": "I Remember Everything (feat. Kacey Musgraves)",
             "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
+                "Zach Bryan",
+                "Kacey Musgraves"
             ],
-            "album": "I",
-            "played_at": "23/08/2024 - 20:51:59"
+            "album": "Zach Bryan",
+            "played_at": "24/08/2024 - 19:40:29"
         },
         {
-            "song_name": "Midnight City",
+            "song_name": "Good Times Go By Too Fast",
             "artists": [
-                "M83"
+                "Dylan Scott"
             ],
-            "album": "Hurry up, We're Dreaming",
-            "played_at": "23/08/2024 - 20:48:52"
+            "album": "Livin' My Best Life",
+            "played_at": "24/08/2024 - 19:36:41"
         },
         {
-            "song_name": "Heaven Takes You Home (feat. Connie Constance)",
+            "song_name": "World on Fire",
             "artists": [
-                "Swedish House Mafia",
-                "Connie Constance"
+                "Nate Smith"
             ],
-            "album": "Paradise Again",
-            "played_at": "23/08/2024 - 20:44:48"
+            "album": "NATE SMITH (DELUXE)",
+            "played_at": "24/08/2024 - 19:33:52"
         },
         {
-            "song_name": "Scared to Be Lonely",
+            "song_name": "Deep End",
             "artists": [
-                "Martin Garrix",
-                "Dua Lipa"
+                "Gavin Adcock"
             ],
-            "album": "Scared to Be Lonely",
-            "played_at": "23/08/2024 - 20:41:13"
+            "album": "Bonfire Blackout",
+            "played_at": "24/08/2024 - 19:30:42"
         },
         {
-            "song_name": "Don't You Worry Child - Radio Edit",
+            "song_name": "TEXAS HOLD 'EM",
             "artists": [
-                "Swedish House Mafia",
-                "John Martin"
+                "Beyoncé"
             ],
-            "album": "Don't You Worry Child",
-            "played_at": "23/08/2024 - 20:36:42"
+            "album": "COWBOY CARTER",
+            "played_at": "24/08/2024 - 19:27:56"
         },
         {
-            "song_name": "Miles On It - Joel Corry Remix",
+            "song_name": "Nine Ball",
             "artists": [
-                "Marshmello",
+                "Zach Bryan"
+            ],
+            "album": "Boys Of Faith",
+            "played_at": "24/08/2024 - 19:24:02"
+        },
+        {
+            "song_name": "Thinkin’ Bout Me",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "One Thing At A Time",
+            "played_at": "24/08/2024 - 19:21:12"
+        },
+        {
+            "song_name": "Black Creek",
+            "artists": [
+                "Brent Cobb"
+            ],
+            "album": "No Place Left to Leave (2006)",
+            "played_at": "24/08/2024 - 19:18:15"
+        },
+        {
+            "song_name": "What He'll Never Have",
+            "artists": [
+                "Dylan Scott"
+            ],
+            "album": "Livin' My Best Life (Still)",
+            "played_at": "24/08/2024 - 19:14:42"
+        },
+        {
+            "song_name": "California Sober (Feat. Chris Stapleton)",
+            "artists": [
+                "Post Malone",
+                "Chris Stapleton"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 19:12:08"
+        },
+        {
+            "song_name": "Sarah's Place (feat. Noah Kahan)",
+            "artists": [
+                "Zach Bryan",
+                "Noah Kahan"
+            ],
+            "album": "Sarah's Place (feat. Noah Kahan)",
+            "played_at": "24/08/2024 - 19:08:44"
+        },
+        {
+            "song_name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+            "artists": [
+                "Moneybagg Yo",
+                "Morgan Wallen"
+            ],
+            "album": "SPEAK NOW",
+            "played_at": "24/08/2024 - 19:05:11"
+        },
+        {
+            "song_name": "Spin You Around",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "Stand Alone (10th Anniversary Deluxe Edition)",
+            "played_at": "24/08/2024 - 19:02:29"
+        },
+        {
+            "song_name": "Heartbroken (feat. Jessie Murph & Polo G)",
+            "artists": [
+                "Diplo",
+                "Jessie Murph",
+                "Polo G"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+            "played_at": "24/08/2024 - 18:58:56"
+        },
+        {
+            "song_name": "Tequila",
+            "artists": [
+                "Dan + Shay"
+            ],
+            "album": "Dan + Shay",
+            "played_at": "24/08/2024 - 18:55:32"
+        },
+        {
+            "song_name": "Spotless (feat. The Lumineers)",
+            "artists": [
+                "Zach Bryan",
+                "The Lumineers"
+            ],
+            "album": "Zach Bryan",
+            "played_at": "24/08/2024 - 18:52:15"
+        },
+        {
+            "song_name": "Yours",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 18:49:25"
+        },
+        {
+            "song_name": "Yours",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:44:23"
+        },
+        {
+            "song_name": "Stick Season",
+            "artists": [
+                "Noah Kahan"
+            ],
+            "album": "Stick Season",
+            "played_at": "24/08/2024 - 11:42:38"
+        },
+        {
+            "song_name": "Last Night",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "One Thing At A Time",
+            "played_at": "24/08/2024 - 11:39:36"
+        },
+        {
+            "song_name": "One Man Band",
+            "artists": [
+                "Old Dominion"
+            ],
+            "album": "Old Dominion",
+            "played_at": "24/08/2024 - 11:36:52"
+        },
+        {
+            "song_name": "Heading South",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Heading South",
+            "played_at": "24/08/2024 - 11:33:46"
+        },
+        {
+            "song_name": "Broadway Girls (feat. Morgan Wallen)",
+            "artists": [
+                "Lil Durk",
+                "Morgan Wallen"
+            ],
+            "album": "7220 (Reloaded)",
+            "played_at": "24/08/2024 - 11:30:54"
+        },
+        {
+            "song_name": "Wrong Ones (Feat. Tim McGraw)",
+            "artists": [
+                "Post Malone",
+                "Tim McGraw"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:27:48"
+        },
+        {
+            "song_name": "The Kind of Love We Make",
+            "artists": [
+                "Luke Combs"
+            ],
+            "album": "Growin' Up",
+            "played_at": "24/08/2024 - 11:24:33"
+        },
+        {
+            "song_name": "Memory",
+            "artists": [
                 "Kane Brown",
-                "Joel Corry"
+                "blackbear"
             ],
-            "album": "Miles On It - Remixes",
-            "played_at": "23/08/2024 - 20:30:02"
+            "album": "Memory",
+            "played_at": "24/08/2024 - 11:20:48"
         },
         {
-            "song_name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+            "song_name": "Dawns (feat. Maggie Rogers)",
             "artists": [
-                "DJ Khaled",
-                "Rihanna",
-                "Bryson Tiller"
+                "Zach Bryan",
+                "Maggie Rogers"
             ],
-            "album": "Grateful",
-            "played_at": "23/08/2024 - 16:17:17"
+            "album": "Dawns (feat. Maggie Rogers)",
+            "played_at": "24/08/2024 - 11:18:15"
         },
         {
-            "song_name": "Miss You",
+            "song_name": "The Other Side",
             "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
+                "Michael Marcagi"
             ],
-            "album": "Miss You",
-            "played_at": "23/08/2024 - 16:16:14"
+            "album": "The Other Side",
+            "played_at": "24/08/2024 - 11:13:24"
         },
         {
-            "song_name": "Dangerous",
+            "song_name": "Daylight",
             "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
+                "Watchhouse"
             ],
-            "album": "Riverside",
-            "played_at": "23/08/2024 - 16:12:59"
+            "album": "Such Jubilee",
+            "played_at": "24/08/2024 - 11:10:40"
         },
         {
-            "song_name": "You Got The Love",
+            "song_name": "Losers (Feat. Jelly Roll)",
             "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
+                "Post Malone",
+                "Jelly Roll"
             ],
-            "album": "You Got The Love",
-            "played_at": "23/08/2024 - 16:09:27"
+            "album": "F-1 Trillion",
+            "played_at": "24/08/2024 - 11:07:26"
         },
         {
-            "song_name": "One Dance",
+            "song_name": "She Got the Best of Me",
+            "artists": [
+                "Luke Combs"
+            ],
+            "album": "This One's for You Too (Deluxe Edition)",
+            "played_at": "24/08/2024 - 11:03:57"
+        },
+        {
+            "song_name": "Something in the Orange",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Something in the Orange",
+            "played_at": "24/08/2024 - 11:00:54"
+        },
+        {
+            "song_name": "Starting Over",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "24/08/2024 - 10:57:06"
+        },
+        {
+            "song_name": "Starting Over",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "23/08/2024 - 23:14:35"
+        },
+        {
+            "song_name": "Blue Over You",
+            "artists": [
+                "Mason Ramsey"
+            ],
+            "album": "Blue Over You",
+            "played_at": "23/08/2024 - 23:02:35"
+        },
+        {
+            "song_name": "Coal",
+            "artists": [
+                "Dylan Gossett"
+            ],
+            "album": "Coal",
+            "played_at": "23/08/2024 - 22:58:29"
+        },
+        {
+            "song_name": "Burn, Burn, Burn",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Burn, Burn, Burn",
+            "played_at": "23/08/2024 - 22:55:14"
+        },
+        {
+            "song_name": "What Don't Belong To Me",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "23/08/2024 - 22:50:45"
+        },
+        {
+            "song_name": "Dancing in the Sky",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "23/08/2024 - 22:47:17"
+        },
+        {
+            "song_name": "When Im Gone",
+            "artists": [
+                "LECADE"
+            ],
+            "album": "When Im Gone",
+            "played_at": "23/08/2024 - 22:44:10"
+        },
+        {
+            "song_name": "Heartless (feat. Morgan Wallen)",
+            "artists": [
+                "Diplo",
+                "Morgan Wallen"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+            "played_at": "23/08/2024 - 22:41:59"
+        },
+        {
+            "song_name": "Sun to Me",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "American Heartbreak",
+            "played_at": "23/08/2024 - 22:39:09"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "23/08/2024 - 22:36:26"
+        },
+        {
+            "song_name": "Scared To Start",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "Scared To Start",
+            "played_at": "23/08/2024 - 22:32:52"
+        },
+        {
+            "song_name": "Straight and Narrow",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "23/08/2024 - 22:30:12"
+        },
+        {
+            "song_name": "Never Really Loved Me (with Dean Lewis)",
+            "artists": [
+                "Kygo",
+                "Dean Lewis"
+            ],
+            "album": "Thrill Of The Chase",
+            "played_at": "23/08/2024 - 22:27:03"
+        },
+        {
+            "song_name": "Shots - Broiler Remix",
+            "artists": [
+                "Imagine Dragons",
+                "Broiler"
+            ],
+            "album": "Smoke + Mirrors (Deluxe)",
+            "played_at": "23/08/2024 - 21:06:21"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "26/08/2024 - 02:20:10"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "26/08/2024 - 00:34:54"
+        },
+        {
+            "song_name": "All Me",
             "artists": [
                 "Drake",
-                "Wizkid",
-                "Kyla"
+                "2 Chainz",
+                "Big Sean"
             ],
-            "album": "Views",
-            "played_at": "23/08/2024 - 16:05:47"
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "26/08/2024 - 00:32:07"
         },
         {
-            "song_name": "Matter of Time",
+            "song_name": "NIGHTS LIKE THIS",
             "artists": [
-                "Vandelux",
-                "Alex Maher"
+                "The Kid LAROI"
             ],
-            "album": "When The Light Breaks",
-            "played_at": "23/08/2024 - 16:02:53"
+            "album": "THE FIRST TIME",
+            "played_at": "26/08/2024 - 00:27:42"
         },
         {
-            "song_name": "Words (feat. Zara Larsson)",
-            "artists": [
-                "Alesso",
-                "Zara Larsson"
-            ],
-            "album": "Words (feat. Zara Larsson)",
-            "played_at": "23/08/2024 - 15:58:53"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "23/08/2024 - 15:56:30"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Move Me",
-            "played_at": "23/08/2024 - 15:53:23"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "23/08/2024 - 15:51:03"
-        },
-        {
-            "song_name": "To Stay",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "To Stay",
-            "played_at": "23/08/2024 - 15:48:49"
-        },
-        {
-            "song_name": "Stargazing",
+            "song_name": "Sweater Weather",
             "artists": [
                 "The Neighbourhood"
             ],
-            "album": "Chip Chrome & The Mono-Tones (Deluxe)",
-            "played_at": "23/08/2024 - 15:45:55"
+            "album": "I Love You.",
+            "played_at": "26/08/2024 - 00:26:21"
         },
         {
-            "song_name": "Deep Down (feat. Never Dull)",
+            "song_name": "one of wun",
             "artists": [
-                "Alok",
-                "Ella Eyre",
-                "Kenny Dope",
-                "Never Dull"
+                "Gunna"
             ],
-            "album": "Deep Down (feat. Never Dull)",
-            "played_at": "23/08/2024 - 15:42:18"
+            "album": "One of Wun",
+            "played_at": "26/08/2024 - 00:22:26"
         },
         {
-            "song_name": "Something Stronger",
+            "song_name": "From The Start",
             "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
+                "Laufey"
             ],
-            "album": "Something Stronger",
-            "played_at": "23/08/2024 - 15:39:32"
+            "album": "Bewitched",
+            "played_at": "26/08/2024 - 00:20:08"
         },
         {
-            "song_name": "I Like You (A Happier Song) (with Doja Cat)",
+            "song_name": "Fountains (with Tems)",
             "artists": [
-                "Post Malone",
-                "Doja Cat"
+                "Drake",
+                "Tems"
             ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "23/08/2024 - 15:37:25"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "23/08/2024 - 15:34:12"
-        },
-        {
-            "song_name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-            "artists": [
-                "The Weeknd",
-                "Playboi Carti",
-                "Madonna"
-            ],
-            "album": "Popular (Music from the HBO Original Series)",
-            "played_at": "23/08/2024 - 15:30:57"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "23/08/2024 - 14:29:05"
-        },
-        {
-            "song_name": "Brazil",
-            "artists": [
-                "Declan McKenna"
-            ],
-            "album": "What Do You Think About the Car?",
-            "played_at": "23/08/2024 - 14:25:50"
-        },
-        {
-            "song_name": "One Right Now (with The Weeknd)",
-            "artists": [
-                "Post Malone",
-                "The Weeknd"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "23/08/2024 - 14:21:38"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "23/08/2024 - 14:18:25"
-        },
-        {
-            "song_name": "Summertime With You",
-            "artists": [
-                "Viva La Panda",
-                "Honey",
-                "JAYNIE"
-            ],
-            "album": "Summertime With You",
-            "played_at": "23/08/2024 - 14:15:43"
-        },
-        {
-            "song_name": "Stolen Dance",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Sadnecessary",
-            "played_at": "23/08/2024 - 14:13:22"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love",
-            "played_at": "23/08/2024 - 14:08:08"
-        },
-        {
-            "song_name": "Afraid To Feel",
-            "artists": [
-                "LF SYSTEM"
-            ],
-            "album": "Afraid To Feel",
-            "played_at": "23/08/2024 - 14:03:48"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "23/08/2024 - 14:00:51"
-        },
-        {
-            "song_name": "I Like You (A Happier Song) (with Doja Cat)",
-            "artists": [
-                "Post Malone",
-                "Doja Cat"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "23/08/2024 - 13:57:11"
+            "album": "Certified Lover Boy",
+            "played_at": "24/08/2024 - 23:35:41"
         },
         {
             "song_name": "Dirty Love",
@@ -793,490 +1254,6 @@
             ],
             "album": "Million Eyes",
             "played_at": "23/08/2024 - 22:47:17"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "23/08/2024 - 22:44:10"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "23/08/2024 - 22:41:59"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "23/08/2024 - 22:39:09"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "23/08/2024 - 22:36:26"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "23/08/2024 - 22:32:52"
-        },
-        {
-            "song_name": "Straight and Narrow",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "23/08/2024 - 22:30:12"
-        },
-        {
-            "song_name": "Never Really Loved Me (with Dean Lewis)",
-            "artists": [
-                "Kygo",
-                "Dean Lewis"
-            ],
-            "album": "Thrill Of The Chase",
-            "played_at": "23/08/2024 - 22:27:03"
-        },
-        {
-            "song_name": "Shots - Broiler Remix",
-            "artists": [
-                "Imagine Dragons",
-                "Broiler"
-            ],
-            "album": "Smoke + Mirrors (Deluxe)",
-            "played_at": "23/08/2024 - 21:06:21"
-        },
-        {
-            "song_name": "Dirty Love",
-            "artists": [
-                "Mt. Joy"
-            ],
-            "album": "Mt. Joy",
-            "played_at": "24/08/2024 - 23:24:59"
-        },
-        {
-            "song_name": "Silhouettes - Syn Cole Creamfields Mix Radio Edit",
-            "artists": [
-                "Avicii",
-                "Ash Pournouri",
-                "Rene Pais"
-            ],
-            "album": "Silhouettes (Remixes)",
-            "played_at": "24/08/2024 - 23:12:35"
-        },
-        {
-            "song_name": "Memory Lane",
-            "artists": [
-                "Old Dominion"
-            ],
-            "album": "Memory Lane",
-            "played_at": "24/08/2024 - 19:40:49"
-        },
-        {
-            "song_name": "I Remember Everything (feat. Kacey Musgraves)",
-            "artists": [
-                "Zach Bryan",
-                "Kacey Musgraves"
-            ],
-            "album": "Zach Bryan",
-            "played_at": "24/08/2024 - 19:40:29"
-        },
-        {
-            "song_name": "Good Times Go By Too Fast",
-            "artists": [
-                "Dylan Scott"
-            ],
-            "album": "Livin' My Best Life",
-            "played_at": "24/08/2024 - 19:36:41"
-        },
-        {
-            "song_name": "World on Fire",
-            "artists": [
-                "Nate Smith"
-            ],
-            "album": "NATE SMITH (DELUXE)",
-            "played_at": "24/08/2024 - 19:33:52"
-        },
-        {
-            "song_name": "Deep End",
-            "artists": [
-                "Gavin Adcock"
-            ],
-            "album": "Bonfire Blackout",
-            "played_at": "24/08/2024 - 19:30:42"
-        },
-        {
-            "song_name": "TEXAS HOLD 'EM",
-            "artists": [
-                "Beyoncé"
-            ],
-            "album": "COWBOY CARTER",
-            "played_at": "24/08/2024 - 19:27:56"
-        },
-        {
-            "song_name": "Nine Ball",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Boys Of Faith",
-            "played_at": "24/08/2024 - 19:24:02"
-        },
-        {
-            "song_name": "Thinkin’ Bout Me",
-            "artists": [
-                "Morgan Wallen"
-            ],
-            "album": "One Thing At A Time",
-            "played_at": "24/08/2024 - 19:21:12"
-        },
-        {
-            "song_name": "Black Creek",
-            "artists": [
-                "Brent Cobb"
-            ],
-            "album": "No Place Left to Leave (2006)",
-            "played_at": "24/08/2024 - 19:18:15"
-        },
-        {
-            "song_name": "What He'll Never Have",
-            "artists": [
-                "Dylan Scott"
-            ],
-            "album": "Livin' My Best Life (Still)",
-            "played_at": "24/08/2024 - 19:14:42"
-        },
-        {
-            "song_name": "California Sober (Feat. Chris Stapleton)",
-            "artists": [
-                "Post Malone",
-                "Chris Stapleton"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "24/08/2024 - 19:12:08"
-        },
-        {
-            "song_name": "Sarah's Place (feat. Noah Kahan)",
-            "artists": [
-                "Zach Bryan",
-                "Noah Kahan"
-            ],
-            "album": "Sarah's Place (feat. Noah Kahan)",
-            "played_at": "24/08/2024 - 19:08:44"
-        },
-        {
-            "song_name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
-            "artists": [
-                "Moneybagg Yo",
-                "Morgan Wallen"
-            ],
-            "album": "SPEAK NOW",
-            "played_at": "24/08/2024 - 19:05:11"
-        },
-        {
-            "song_name": "Spin You Around",
-            "artists": [
-                "Morgan Wallen"
-            ],
-            "album": "Stand Alone (10th Anniversary Deluxe Edition)",
-            "played_at": "24/08/2024 - 19:02:29"
-        },
-        {
-            "song_name": "Heartbroken (feat. Jessie Murph & Polo G)",
-            "artists": [
-                "Diplo",
-                "Jessie Murph",
-                "Polo G"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-            "played_at": "24/08/2024 - 18:58:56"
-        },
-        {
-            "song_name": "Tequila",
-            "artists": [
-                "Dan + Shay"
-            ],
-            "album": "Dan + Shay",
-            "played_at": "24/08/2024 - 18:55:32"
-        },
-        {
-            "song_name": "Spotless (feat. The Lumineers)",
-            "artists": [
-                "Zach Bryan",
-                "The Lumineers"
-            ],
-            "album": "Zach Bryan",
-            "played_at": "24/08/2024 - 18:52:15"
-        },
-        {
-            "song_name": "Yours",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "24/08/2024 - 18:49:25"
-        },
-        {
-            "song_name": "Yours",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "24/08/2024 - 11:44:23"
-        },
-        {
-            "song_name": "Stick Season",
-            "artists": [
-                "Noah Kahan"
-            ],
-            "album": "Stick Season",
-            "played_at": "24/08/2024 - 11:42:38"
-        },
-        {
-            "song_name": "Last Night",
-            "artists": [
-                "Morgan Wallen"
-            ],
-            "album": "One Thing At A Time",
-            "played_at": "24/08/2024 - 11:39:36"
-        },
-        {
-            "song_name": "One Man Band",
-            "artists": [
-                "Old Dominion"
-            ],
-            "album": "Old Dominion",
-            "played_at": "24/08/2024 - 11:36:52"
-        },
-        {
-            "song_name": "Heading South",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Heading South",
-            "played_at": "24/08/2024 - 11:33:46"
-        },
-        {
-            "song_name": "Broadway Girls (feat. Morgan Wallen)",
-            "artists": [
-                "Lil Durk",
-                "Morgan Wallen"
-            ],
-            "album": "7220 (Reloaded)",
-            "played_at": "24/08/2024 - 11:30:54"
-        },
-        {
-            "song_name": "Wrong Ones (Feat. Tim McGraw)",
-            "artists": [
-                "Post Malone",
-                "Tim McGraw"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "24/08/2024 - 11:27:48"
-        },
-        {
-            "song_name": "The Kind of Love We Make",
-            "artists": [
-                "Luke Combs"
-            ],
-            "album": "Growin' Up",
-            "played_at": "24/08/2024 - 11:24:33"
-        },
-        {
-            "song_name": "Memory",
-            "artists": [
-                "Kane Brown",
-                "blackbear"
-            ],
-            "album": "Memory",
-            "played_at": "24/08/2024 - 11:20:48"
-        },
-        {
-            "song_name": "Dawns (feat. Maggie Rogers)",
-            "artists": [
-                "Zach Bryan",
-                "Maggie Rogers"
-            ],
-            "album": "Dawns (feat. Maggie Rogers)",
-            "played_at": "24/08/2024 - 11:18:15"
-        },
-        {
-            "song_name": "The Other Side",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "The Other Side",
-            "played_at": "24/08/2024 - 11:13:24"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "Watchhouse"
-            ],
-            "album": "Such Jubilee",
-            "played_at": "24/08/2024 - 11:10:40"
-        },
-        {
-            "song_name": "Losers (Feat. Jelly Roll)",
-            "artists": [
-                "Post Malone",
-                "Jelly Roll"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "24/08/2024 - 11:07:26"
-        },
-        {
-            "song_name": "She Got the Best of Me",
-            "artists": [
-                "Luke Combs"
-            ],
-            "album": "This One's for You Too (Deluxe Edition)",
-            "played_at": "24/08/2024 - 11:03:57"
-        },
-        {
-            "song_name": "Something in the Orange",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Something in the Orange",
-            "played_at": "24/08/2024 - 11:00:54"
-        },
-        {
-            "song_name": "Starting Over",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "24/08/2024 - 10:57:06"
-        },
-        {
-            "song_name": "Starting Over",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "23/08/2024 - 23:14:35"
-        },
-        {
-            "song_name": "Blue Over You",
-            "artists": [
-                "Mason Ramsey"
-            ],
-            "album": "Blue Over You",
-            "played_at": "23/08/2024 - 23:02:35"
-        },
-        {
-            "song_name": "Coal",
-            "artists": [
-                "Dylan Gossett"
-            ],
-            "album": "Coal",
-            "played_at": "23/08/2024 - 22:58:29"
-        },
-        {
-            "song_name": "Burn, Burn, Burn",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "23/08/2024 - 22:55:14"
-        },
-        {
-            "song_name": "What Don't Belong To Me",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "23/08/2024 - 22:50:45"
-        },
-        {
-            "song_name": "Dancing in the Sky",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "23/08/2024 - 22:47:17"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "23/08/2024 - 22:44:10"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "23/08/2024 - 22:41:59"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "23/08/2024 - 22:39:09"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "23/08/2024 - 22:36:26"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "23/08/2024 - 22:32:52"
-        },
-        {
-            "song_name": "Straight and Narrow",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "23/08/2024 - 22:30:12"
-        },
-        {
-            "song_name": "Never Really Loved Me (with Dean Lewis)",
-            "artists": [
-                "Kygo",
-                "Dean Lewis"
-            ],
-            "album": "Thrill Of The Chase",
-            "played_at": "23/08/2024 - 22:27:03"
-        },
-        {
-            "song_name": "Shots - Broiler Remix",
-            "artists": [
-                "Imagine Dragons",
-                "Broiler"
-            ],
-            "album": "Smoke + Mirrors (Deluxe)",
-            "played_at": "23/08/2024 - 21:06:21"
         },
         {
             "song_name": "Healing",
