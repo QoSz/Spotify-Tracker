@@ -2,6 +2,76 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "26/08/2024 - 02:20:10"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "26/08/2024 - 00:34:54"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "26/08/2024 - 00:32:07"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "26/08/2024 - 00:27:42"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "26/08/2024 - 00:26:21"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "26/08/2024 - 00:22:26"
+        },
+        {
+            "song_name": "From The Start",
+            "artists": [
+                "Laufey"
+            ],
+            "album": "Bewitched",
+            "played_at": "26/08/2024 - 00:20:08"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
+                "Drake",
+                "Tems"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "24/08/2024 - 23:35:41"
+        },
+        {
             "song_name": "Dirty Love",
             "artists": [
                 "Mt. Joy"
@@ -350,73 +420,6 @@
             ],
             "album": "Million Eyes",
             "played_at": "23/08/2024 - 22:47:17"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "23/08/2024 - 22:44:10"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "23/08/2024 - 22:41:59"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "23/08/2024 - 22:39:09"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "23/08/2024 - 22:36:26"
-        },
-        {
-            "song_name": "Scared To Start",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "Scared To Start",
-            "played_at": "23/08/2024 - 22:32:52"
-        },
-        {
-            "song_name": "Straight and Narrow",
-            "artists": [
-                "Sam Barber"
-            ],
-            "album": "Million Eyes",
-            "played_at": "23/08/2024 - 22:30:12"
-        },
-        {
-            "song_name": "Never Really Loved Me (with Dean Lewis)",
-            "artists": [
-                "Kygo",
-                "Dean Lewis"
-            ],
-            "album": "Thrill Of The Chase",
-            "played_at": "23/08/2024 - 22:27:03"
-        },
-        {
-            "song_name": "Shots - Broiler Remix",
-            "artists": [
-                "Imagine Dragons",
-                "Broiler"
-            ],
-            "album": "Smoke + Mirrors (Deluxe)",
-            "played_at": "23/08/2024 - 21:06:21"
         },
         {
             "song_name": "Healing",
