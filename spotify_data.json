@@ -2,452 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Valuable Souls",
-            "artists": [
-                "Wavey",
-                "Bjarne Hendrik"
-            ],
-            "album": "Valuable Souls",
-            "played_at": "29/08/2024 - 12:11:26"
-        },
-        {
-            "song_name": "Milkshake",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Milkshake",
-            "played_at": "29/08/2024 - 12:11:19"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "29/08/2024 - 12:08:05"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "29/08/2024 - 12:05:42"
-        },
-        {
-            "song_name": "Old Life",
-            "artists": [
-                "Mats Westbroek"
-            ],
-            "album": "Old Life",
-            "played_at": "29/08/2024 - 12:03:02"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "29/08/2024 - 11:59:58"
-        },
-        {
-            "song_name": "Jubel",
-            "artists": [
-                "Klingande"
-            ],
-            "album": "The Album",
-            "played_at": "29/08/2024 - 11:57:13"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "29/08/2024 - 11:52:29"
-        },
-        {
-            "song_name": "Evening Walk",
-            "artists": [
-                "Matt Bleu"
-            ],
-            "album": "Evening Walk",
-            "played_at": "29/08/2024 - 11:49:19"
-        },
-        {
-            "song_name": "High Tide",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Dream Dimension",
-            "played_at": "29/08/2024 - 11:47:07"
-        },
-        {
-            "song_name": "Losing My Religion",
-            "artists": [
-                "Braaten",
-                "Tom Bailey"
-            ],
-            "album": "Losing My Religion",
-            "played_at": "29/08/2024 - 11:43:27"
-        },
-        {
-            "song_name": "Gold",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Gold",
-            "played_at": "29/08/2024 - 11:40:08"
-        },
-        {
-            "song_name": "Heart So Big",
-            "artists": [
-                "Matoma",
-                "A R I Z O N A"
-            ],
-            "album": "Heart So Big",
-            "played_at": "29/08/2024 - 11:37:43"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "29/08/2024 - 11:34:07"
-        },
-        {
-            "song_name": "Stuck In The Rain",
-            "artists": [
-                "Bjarne Hendrik"
-            ],
-            "album": "Stuck In The Rain",
-            "played_at": "29/08/2024 - 11:30:59"
-        },
-        {
-            "song_name": "Shatterproof - Sebastian Davidson Remix",
-            "artists": [
-                "Nick Schilder",
-                "Sebastian Davidson"
-            ],
-            "album": "Shatterproof (Sebastian Davidson Remix)",
-            "played_at": "29/08/2024 - 11:28:09"
-        },
-        {
-            "song_name": "Glowing State",
-            "artists": [
-                "Maiwan"
-            ],
-            "album": "Always Me",
-            "played_at": "29/08/2024 - 11:25:23"
-        },
-        {
-            "song_name": "Angels",
-            "artists": [
-                "Eneko Artola",
-                "Luca",
-                "Nina Carr"
-            ],
-            "album": "Angels",
-            "played_at": "29/08/2024 - 11:20:33"
-        },
-        {
-            "song_name": "Another Love",
-            "artists": [
-                "Rolipso",
-                "Foínix",
-                "Jordan Grace"
-            ],
-            "album": "Another Love",
-            "played_at": "29/08/2024 - 11:17:57"
-        },
-        {
-            "song_name": "Talking To Myself",
-            "artists": [
-                "Namic",
-                "Meynberg"
-            ],
-            "album": "Talking To Myself",
-            "played_at": "29/08/2024 - 11:15:50"
-        },
-        {
-            "song_name": "Cause I Still Love You",
-            "artists": [
-                "Richill"
-            ],
-            "album": "Cause I Still Love You",
-            "played_at": "29/08/2024 - 11:13:39"
-        },
-        {
-            "song_name": "I'll Be Alright",
-            "artists": [
-                "Magnus Gunn"
-            ],
-            "album": "I'll Be Alright",
-            "played_at": "29/08/2024 - 11:10:28"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "29/08/2024 - 11:07:26"
-        },
-        {
-            "song_name": "Waves",
-            "artists": [
-                "Gabriel Morais Jr",
-                "Ayla Nova"
-            ],
-            "album": "Waves",
-            "played_at": "29/08/2024 - 09:30:48"
-        },
-        {
-            "song_name": "Your Way",
-            "artists": [
-                "Johannes Jungleson",
-                "Tropical Fairytale"
-            ],
-            "album": "Beach House",
-            "played_at": "29/08/2024 - 09:30:10"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "29/08/2024 - 09:27:41"
-        },
-        {
-            "song_name": "Believer",
-            "artists": [
-                "BOILERS",
-                "Daniel McMillan",
-                "Crew Cardinal"
-            ],
-            "album": "Believer",
-            "played_at": "29/08/2024 - 09:24:42"
-        },
-        {
-            "song_name": "Just Know It - Felix Cartal's Sunset Remix",
-            "artists": [
-                "Dan Mangan",
-                "Felix Cartal"
-            ],
-            "album": "Just Know It (Felix Cartal's Sunset Mix)",
-            "played_at": "29/08/2024 - 09:22:00"
-        },
-        {
-            "song_name": "True",
-            "artists": [
-                "CYRIL",
-                "Kita Alexander"
-            ],
-            "album": "True",
-            "played_at": "29/08/2024 - 09:18:02"
-        },
-        {
-            "song_name": "Happy Now",
-            "artists": [
-                "Szaby",
-                "Robbie Rosen"
-            ],
-            "album": "Happy Now",
-            "played_at": "29/08/2024 - 09:15:56"
-        },
-        {
-            "song_name": "Sunbeams",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Sunbeams",
-            "played_at": "29/08/2024 - 09:13:04"
-        },
-        {
-            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "artists": [
-                "VAVO",
-                "Tyler Mann",
-                "DJ PRESS PLAY"
-            ],
-            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "played_at": "29/08/2024 - 09:10:37"
-        },
-        {
-            "song_name": "Could've Been Us",
-            "artists": [
-                "ItsLee",
-                "Dom Fricot"
-            ],
-            "album": "Could've Been Us",
-            "played_at": "29/08/2024 - 09:07:57"
-        },
-        {
-            "song_name": "Ocean Love",
-            "artists": [
-                "Yelloo Hill"
-            ],
-            "album": "Ocean Love",
-            "played_at": "29/08/2024 - 09:05:45"
-        },
-        {
-            "song_name": "When You Love Someone",
-            "artists": [
-                "Rolipso",
-                "Foínix",
-                "James Stefano"
-            ],
-            "album": "When You Love Someone",
-            "played_at": "29/08/2024 - 08:15:50"
-        },
-        {
-            "song_name": "No Matter Where",
-            "artists": [
-                "Michael FAY",
-                "Brendan Mills",
-                "Britt Lari"
-            ],
-            "album": "No Matter Where",
-            "played_at": "29/08/2024 - 08:13:26"
-        },
-        {
-            "song_name": "Running Up That Hill",
-            "artists": [
-                "Skye Holland",
-                "Steve Kroeger"
-            ],
-            "album": "Running Up That Hill",
-            "played_at": "29/08/2024 - 08:10:33"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "29/08/2024 - 08:06:16"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "29/08/2024 - 08:03:53"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "29/08/2024 - 08:00:39"
-        },
-        {
-            "song_name": "Bad Obsession",
-            "artists": [
-                "Pablo Leo",
-                "Lili Ana"
-            ],
-            "album": "Bad Obsession",
-            "played_at": "29/08/2024 - 07:58:29"
-        },
-        {
-            "song_name": "Back On Ibiza",
-            "artists": [
-                "Vogel",
-                "James Stefano"
-            ],
-            "album": "Back On Ibiza",
-            "played_at": "29/08/2024 - 07:55:56"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "29/08/2024 - 07:53:42"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Antoine Chambe",
-                "Lucas Cozy"
-            ],
-            "album": "Riverside",
-            "played_at": "28/08/2024 - 14:57:04"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "28/08/2024 - 14:56:59"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "28/08/2024 - 14:54:20"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "28/08/2024 - 14:51:45"
-        },
-        {
-            "song_name": "Stuck In The Rain",
-            "artists": [
-                "Bjarne Hendrik"
-            ],
-            "album": "Stuck In The Rain",
-            "played_at": "28/08/2024 - 14:48:26"
-        },
-        {
-            "song_name": "Some Day",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Some Day",
-            "played_at": "28/08/2024 - 14:45:36"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "28/08/2024 - 14:42:53"
-        },
-        {
             "song_name": "Like a Mystery",
             "artists": [
                 "Eneko Artola"
@@ -1785,6 +1339,446 @@
             ],
             "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
             "played_at": "29/08/2024 - 09:10:37"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "29/08/2024 - 17:35:09"
+        },
+        {
+            "song_name": "Revenge",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "17",
+            "played_at": "29/08/2024 - 17:32:17"
+        },
+        {
+            "song_name": "i am not who i was",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "i am not who i was",
+            "played_at": "29/08/2024 - 17:30:17"
+        },
+        {
+            "song_name": "Soweto",
+            "artists": [
+                "Victony",
+                "Tempoe"
+            ],
+            "album": "Soweto",
+            "played_at": "29/08/2024 - 17:27:51"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "29/08/2024 - 17:25:22"
+        },
+        {
+            "song_name": "Softcore",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "29/08/2024 - 17:22:59"
+        },
+        {
+            "song_name": "In My Bed",
+            "artists": [
+                "Rotimi",
+                "Wale"
+            ],
+            "album": "The Beauty of Becoming",
+            "played_at": "29/08/2024 - 17:19:32"
+        },
+        {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "29/08/2024 - 15:07:32"
+        },
+        {
+            "song_name": "Stuck In The Rain",
+            "artists": [
+                "Bjarne Hendrik"
+            ],
+            "album": "Stuck In The Rain",
+            "played_at": "29/08/2024 - 15:06:46"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "29/08/2024 - 15:03:57"
+        },
+        {
+            "song_name": "House Of Cards",
+            "artists": [
+                "Lucas Estrada",
+                "Deepend",
+                "Dan Caplen"
+            ],
+            "album": "House Of Cards",
+            "played_at": "29/08/2024 - 15:01:37"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "29/08/2024 - 14:59:00"
+        },
+        {
+            "song_name": "The Great Wide Open",
+            "artists": [
+                "Life's A Beach",
+                "Tobÿ"
+            ],
+            "album": "The Great Wide Open",
+            "played_at": "29/08/2024 - 14:56:42"
+        },
+        {
+            "song_name": "Young Folks",
+            "artists": [
+                "John Skyfield",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "Young Folks",
+            "played_at": "29/08/2024 - 14:54:20"
+        },
+        {
+            "song_name": "Good Vibes",
+            "artists": [
+                "SRTW",
+                "Nimus",
+                "madugo"
+            ],
+            "album": "Good Vibes",
+            "played_at": "29/08/2024 - 14:51:39"
+        },
+        {
+            "song_name": "Jubel",
+            "artists": [
+                "Klingande"
+            ],
+            "album": "The Album",
+            "played_at": "29/08/2024 - 14:49:49"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "29/08/2024 - 14:45:05"
+        },
+        {
+            "song_name": "Belong - Deepend Edit",
+            "artists": [
+                "Deepend",
+                "Graham Candy"
+            ],
+            "album": "Belong",
+            "played_at": "29/08/2024 - 14:42:13"
+        },
+        {
+            "song_name": "When You Move",
+            "artists": [
+                "Blonde Maze"
+            ],
+            "album": "When You Move",
+            "played_at": "29/08/2024 - 14:39:32"
+        },
+        {
+            "song_name": "Bloom (Brendan Mills Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "TWOPILOTS",
+                "Brendan Mills"
+            ],
+            "album": "Bloom (Brendan Mills Remix)",
+            "played_at": "29/08/2024 - 14:35:57"
+        },
+        {
+            "song_name": "One Call Away",
+            "artists": [
+                "Kid On The Block",
+                "Namté"
+            ],
+            "album": "One Call Away",
+            "played_at": "29/08/2024 - 14:33:20"
+        },
+        {
+            "song_name": "I'll Be Alright",
+            "artists": [
+                "Magnus Gunn"
+            ],
+            "album": "I'll Be Alright",
+            "played_at": "29/08/2024 - 14:30:57"
+        },
+        {
+            "song_name": "Your Way",
+            "artists": [
+                "Johannes Jungleson",
+                "Tropical Fairytale"
+            ],
+            "album": "Beach House",
+            "played_at": "29/08/2024 - 14:27:55"
+        },
+        {
+            "song_name": "Called Home",
+            "artists": [
+                "Clay Pirinha",
+                "JKW"
+            ],
+            "album": "Called Home",
+            "played_at": "29/08/2024 - 14:25:26"
+        },
+        {
+            "song_name": "Called Home",
+            "artists": [
+                "Clay Pirinha",
+                "JKW"
+            ],
+            "album": "Called Home",
+            "played_at": "29/08/2024 - 14:23:12"
+        },
+        {
+            "song_name": "Valuable Souls",
+            "artists": [
+                "Wavey",
+                "Bjarne Hendrik"
+            ],
+            "album": "Valuable Souls",
+            "played_at": "29/08/2024 - 12:11:26"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "29/08/2024 - 12:11:19"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "29/08/2024 - 12:08:05"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "Hokima",
+                "Shoby"
+            ],
+            "album": "Run",
+            "played_at": "29/08/2024 - 12:05:42"
+        },
+        {
+            "song_name": "Old Life",
+            "artists": [
+                "Mats Westbroek"
+            ],
+            "album": "Old Life",
+            "played_at": "29/08/2024 - 12:03:02"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "29/08/2024 - 11:59:58"
+        },
+        {
+            "song_name": "Jubel",
+            "artists": [
+                "Klingande"
+            ],
+            "album": "The Album",
+            "played_at": "29/08/2024 - 11:57:13"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "29/08/2024 - 11:52:29"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "29/08/2024 - 11:49:19"
+        },
+        {
+            "song_name": "High Tide",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Dream Dimension",
+            "played_at": "29/08/2024 - 11:47:07"
+        },
+        {
+            "song_name": "Losing My Religion",
+            "artists": [
+                "Braaten",
+                "Tom Bailey"
+            ],
+            "album": "Losing My Religion",
+            "played_at": "29/08/2024 - 11:43:27"
+        },
+        {
+            "song_name": "Gold",
+            "artists": [
+                "Leviro"
+            ],
+            "album": "Gold",
+            "played_at": "29/08/2024 - 11:40:08"
+        },
+        {
+            "song_name": "Heart So Big",
+            "artists": [
+                "Matoma",
+                "A R I Z O N A"
+            ],
+            "album": "Heart So Big",
+            "played_at": "29/08/2024 - 11:37:43"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "29/08/2024 - 11:34:07"
+        },
+        {
+            "song_name": "Stuck In The Rain",
+            "artists": [
+                "Bjarne Hendrik"
+            ],
+            "album": "Stuck In The Rain",
+            "played_at": "29/08/2024 - 11:30:59"
+        },
+        {
+            "song_name": "Shatterproof - Sebastian Davidson Remix",
+            "artists": [
+                "Nick Schilder",
+                "Sebastian Davidson"
+            ],
+            "album": "Shatterproof (Sebastian Davidson Remix)",
+            "played_at": "29/08/2024 - 11:28:09"
+        },
+        {
+            "song_name": "Glowing State",
+            "artists": [
+                "Maiwan"
+            ],
+            "album": "Always Me",
+            "played_at": "29/08/2024 - 11:25:23"
+        },
+        {
+            "song_name": "Angels",
+            "artists": [
+                "Eneko Artola",
+                "Luca",
+                "Nina Carr"
+            ],
+            "album": "Angels",
+            "played_at": "29/08/2024 - 11:20:33"
+        },
+        {
+            "song_name": "Another Love",
+            "artists": [
+                "Rolipso",
+                "Foínix",
+                "Jordan Grace"
+            ],
+            "album": "Another Love",
+            "played_at": "29/08/2024 - 11:17:57"
+        },
+        {
+            "song_name": "Talking To Myself",
+            "artists": [
+                "Namic",
+                "Meynberg"
+            ],
+            "album": "Talking To Myself",
+            "played_at": "29/08/2024 - 11:15:50"
+        },
+        {
+            "song_name": "Cause I Still Love You",
+            "artists": [
+                "Richill"
+            ],
+            "album": "Cause I Still Love You",
+            "played_at": "29/08/2024 - 11:13:39"
+        },
+        {
+            "song_name": "I'll Be Alright",
+            "artists": [
+                "Magnus Gunn"
+            ],
+            "album": "I'll Be Alright",
+            "played_at": "29/08/2024 - 11:10:28"
+        },
+        {
+            "song_name": "Waves",
+            "artists": [
+                "Gabriel Morais Jr",
+                "Ayla Nova"
+            ],
+            "album": "Waves",
+            "played_at": "29/08/2024 - 11:07:26"
+        },
+        {
+            "song_name": "Waves",
+            "artists": [
+                "Gabriel Morais Jr",
+                "Ayla Nova"
+            ],
+            "album": "Waves",
+            "played_at": "29/08/2024 - 09:30:48"
+        },
+        {
+            "song_name": "Your Way",
+            "artists": [
+                "Johannes Jungleson",
+                "Tropical Fairytale"
+            ],
+            "album": "Beach House",
+            "played_at": "29/08/2024 - 09:30:10"
         }
     ]
 }
