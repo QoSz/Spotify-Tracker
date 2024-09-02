@@ -2,416 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "4runner",
-            "artists": [
-                "Brenn!"
-            ],
-            "album": "County Line",
-            "played_at": "30/08/2024 - 14:55:06"
-        },
-        {
-            "song_name": "Dark, Dark, Dark",
-            "artists": [
-                "Gregory Alan Isakov"
-            ],
-            "album": "Evening Machines",
-            "played_at": "30/08/2024 - 14:53:35"
-        },
-        {
-            "song_name": "Blood Moon",
-            "artists": [
-                "Josiah and the Bonnevilles"
-            ],
-            "album": "2022",
-            "played_at": "30/08/2024 - 14:50:36"
-        },
-        {
-            "song_name": "Think I'm In Love With You",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Higher",
-            "played_at": "30/08/2024 - 14:47:48"
-        },
-        {
-            "song_name": "Spotless (feat. The Lumineers)",
-            "artists": [
-                "Zach Bryan",
-                "The Lumineers"
-            ],
-            "album": "Zach Bryan",
-            "played_at": "30/08/2024 - 14:44:06"
-        },
-        {
-            "song_name": "Paint",
-            "artists": [
-                "The Paper Kites"
-            ],
-            "album": "Young North",
-            "played_at": "30/08/2024 - 14:41:16"
-        },
-        {
-            "song_name": "Old Ties and Companions",
-            "artists": [
-                "Watchhouse"
-            ],
-            "album": "Such Jubilee",
-            "played_at": "30/08/2024 - 14:38:04"
-        },
-        {
-            "song_name": "In My Sheets",
-            "artists": [
-                "John Vincent III"
-            ],
-            "album": "Songs from the Valley",
-            "played_at": "30/08/2024 - 14:34:55"
-        },
-        {
-            "song_name": "Black Creek",
-            "artists": [
-                "Brent Cobb"
-            ],
-            "album": "No Place Left to Leave (2006)",
-            "played_at": "30/08/2024 - 14:30:45"
-        },
-        {
-            "song_name": "Sleep Deprivation",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Sleep Deprivation",
-            "played_at": "30/08/2024 - 14:27:12"
-        },
-        {
-            "song_name": "Heading South",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Heading South",
-            "played_at": "30/08/2024 - 14:24:37"
-        },
-        {
-            "song_name": "You Should Probably Leave",
-            "artists": [
-                "Chris Stapleton"
-            ],
-            "album": "Starting Over",
-            "played_at": "30/08/2024 - 14:21:45"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "Watchhouse"
-            ],
-            "album": "Such Jubilee",
-            "played_at": "30/08/2024 - 14:18:11"
-        },
-        {
-            "song_name": "Linger - SiriusXM Session",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Linger / Heading For The Door (Sirius XM Session)",
-            "played_at": "30/08/2024 - 14:14:58"
-        },
-        {
-            "song_name": "Before the Sun",
-            "artists": [
-                "Gregory Alan Isakov"
-            ],
-            "album": "Appaloosa Bones",
-            "played_at": "30/08/2024 - 14:11:52"
-        },
-        {
-            "song_name": "Down by the Water",
-            "artists": [
-                "Ocie Elliott"
-            ],
-            "album": "EP",
-            "played_at": "30/08/2024 - 14:09:03"
-        },
-        {
-            "song_name": "Something in the Orange",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Something in the Orange",
-            "played_at": "30/08/2024 - 14:06:05"
-        },
-        {
-            "song_name": "Bleeding Out",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Bleeding Out",
-            "played_at": "30/08/2024 - 14:02:17"
-        },
-        {
-            "song_name": "When Im Gone",
-            "artists": [
-                "LECADE"
-            ],
-            "album": "When Im Gone",
-            "played_at": "30/08/2024 - 13:58:48"
-        },
-        {
-            "song_name": "Coal",
-            "artists": [
-                "Dylan Gossett"
-            ],
-            "album": "Coal",
-            "played_at": "30/08/2024 - 13:56:38"
-        },
-        {
-            "song_name": "Heartless (feat. Morgan Wallen)",
-            "artists": [
-                "Diplo",
-                "Morgan Wallen"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-            "played_at": "30/08/2024 - 13:53:23"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "30/08/2024 - 13:50:34"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "30/08/2024 - 13:48:48"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "i am not who i was",
-            "played_at": "30/08/2024 - 13:46:05"
-        },
-        {
-            "song_name": "Jolene",
-            "artists": [
-                "Dolly Parton"
-            ],
-            "album": "Jolene (Expanded Edition)",
-            "played_at": "30/08/2024 - 13:43:39"
-        },
-        {
-            "song_name": "Jersey Giant",
-            "artists": [
-                "Evan Honer",
-                "Julia DiGrazia"
-            ],
-            "album": "Jersey Giant",
-            "played_at": "30/08/2024 - 13:40:58"
-        },
-        {
-            "song_name": "Heartbroken (feat. Jessie Murph & Polo G)",
-            "artists": [
-                "Diplo",
-                "Jessie Murph",
-                "Polo G"
-            ],
-            "album": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-            "played_at": "30/08/2024 - 13:36:42"
-        },
-        {
-            "song_name": "Last Night",
-            "artists": [
-                "Morgan Wallen"
-            ],
-            "album": "One Thing At A Time",
-            "played_at": "30/08/2024 - 13:33:17"
-        },
-        {
-            "song_name": "Oklahoma Smokeshow",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "Summertime Blues",
-            "played_at": "30/08/2024 - 13:30:33"
-        },
-        {
-            "song_name": "Wrong Ones (Feat. Tim McGraw)",
-            "artists": [
-                "Post Malone",
-                "Tim McGraw"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "30/08/2024 - 13:27:02"
-        },
-        {
-            "song_name": "When It Rains It Pours",
-            "artists": [
-                "Luke Combs"
-            ],
-            "album": "This One's for You",
-            "played_at": "30/08/2024 - 13:23:46"
-        },
-        {
-            "song_name": "Memory Lane",
-            "artists": [
-                "Old Dominion"
-            ],
-            "album": "Memory Lane",
-            "played_at": "30/08/2024 - 13:19:45"
-        },
-        {
-            "song_name": "Ghost",
-            "artists": [
-                "Josiah and the Bonnevilles"
-            ],
-            "album": "2022",
-            "played_at": "30/08/2024 - 13:16:53"
-        },
-        {
-            "song_name": "Thinkin’ Bout Me",
-            "artists": [
-                "Morgan Wallen"
-            ],
-            "album": "One Thing At A Time",
-            "played_at": "30/08/2024 - 12:22:16"
-        },
-        {
-            "song_name": "Nosedive (Feat. Lainey Wilson)",
-            "artists": [
-                "Post Malone",
-                "Lainey Wilson"
-            ],
-            "album": "F-1 Trillion",
-            "played_at": "30/08/2024 - 12:19:18"
-        },
-        {
-            "song_name": "This Town's Been Too Good To Us",
-            "artists": [
-                "Dylan Scott"
-            ],
-            "album": "Livin' My Best Life (Still)",
-            "played_at": "30/08/2024 - 12:16:05"
-        },
-        {
-            "song_name": "Beautiful Crazy",
-            "artists": [
-                "Luke Combs"
-            ],
-            "album": "This One's for You Too (Deluxe Edition)",
-            "played_at": "30/08/2024 - 12:12:53"
-        },
-        {
-            "song_name": "Boys Of Faith (feat. Bon Iver)",
-            "artists": [
-                "Zach Bryan",
-                "Bon Iver"
-            ],
-            "album": "Boys Of Faith (feat. Bon Iver)",
-            "played_at": "30/08/2024 - 12:09:39"
-        },
-        {
-            "song_name": "Lady May",
-            "artists": [
-                "Tyler Childers"
-            ],
-            "album": "Purgatory",
-            "played_at": "30/08/2024 - 12:06:48"
-        },
-        {
-            "song_name": "World on Fire",
-            "artists": [
-                "Nate Smith"
-            ],
-            "album": "NATE SMITH (DELUXE)",
-            "played_at": "30/08/2024 - 12:03:44"
-        },
-        {
-            "song_name": "Good Times Go By Too Fast",
-            "artists": [
-                "Dylan Scott"
-            ],
-            "album": "Livin' My Best Life",
-            "played_at": "30/08/2024 - 12:00:33"
-        },
-        {
-            "song_name": "Tall Boy",
-            "artists": [
-                "Shaboozey"
-            ],
-            "album": "Cowboys Live Forever, Outlaws Never Die",
-            "played_at": "30/08/2024 - 11:57:43"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "30/08/2024 - 11:52:38"
-        },
-        {
-            "song_name": "Sex, Drugs, Etc.",
-            "artists": [
-                "Beach Weather"
-            ],
-            "album": "Pineapple Sunrise",
-            "played_at": "30/08/2024 - 11:51:10"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "30/08/2024 - 11:47:53"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "30/08/2024 - 11:45:10"
-        },
-        {
-            "song_name": "Goose Neck",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Goose Neck",
-            "played_at": "30/08/2024 - 11:42:47"
-        },
-        {
-            "song_name": "In My Bed",
-            "artists": [
-                "Rotimi",
-                "Wale"
-            ],
-            "album": "The Beauty of Becoming",
-            "played_at": "30/08/2024 - 11:39:45"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "30/08/2024 - 11:36:39"
-        },
-        {
-            "song_name": "You're Mines Still (feat. Drake)",
-            "artists": [
-                "Yung Bleu",
-                "Drake"
-            ],
-            "album": "Moon Boy",
-            "played_at": "30/08/2024 - 11:34:06"
-        },
-        {
             "song_name": "Floating On Forever",
             "artists": [
                 "Laurentius",
@@ -827,6 +417,422 @@
             ],
             "album": "Livin' My Best Life (Still)",
             "played_at": "30/08/2024 - 12:16:05"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "01/09/2024 - 16:06:39"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "01/09/2024 - 16:02:18"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "01/09/2024 - 15:59:47"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "01/09/2024 - 15:57:00"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "01/09/2024 - 15:52:52"
+        },
+        {
+            "song_name": "No Face",
+            "artists": [
+                "Drake"
+            ],
+            "album": "No Face",
+            "played_at": "01/09/2024 - 15:49:07"
+        },
+        {
+            "song_name": "Floating On Forever",
+            "artists": [
+                "Laurentius",
+                "AUGUSTKID",
+                "Jeffrey James"
+            ],
+            "album": "Floating On Forever",
+            "played_at": "31/08/2024 - 00:02:54"
+        },
+        {
+            "song_name": "I Do",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "I Do",
+            "played_at": "30/08/2024 - 23:48:31"
+        },
+        {
+            "song_name": "Feeling For You",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "30/08/2024 - 23:46:12"
+        },
+        {
+            "song_name": "Peru",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran"
+            ],
+            "album": "Playboy",
+            "played_at": "30/08/2024 - 23:42:04"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "RSCL",
+                "it's murph",
+                "Twin Diplomacy",
+                "Jack August"
+            ],
+            "album": "Lost",
+            "played_at": "30/08/2024 - 23:38:54"
+        },
+        {
+            "song_name": "Scared to Be Lonely",
+            "artists": [
+                "Martin Garrix",
+                "Dua Lipa"
+            ],
+            "album": "Scared to Be Lonely",
+            "played_at": "30/08/2024 - 23:36:27"
+        },
+        {
+            "song_name": "In My Way",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "Justin Rhodes"
+            ],
+            "album": "In My Way",
+            "played_at": "30/08/2024 - 23:32:52"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "30/08/2024 - 23:30:35"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "30/08/2024 - 23:27:43"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "30/08/2024 - 23:24:56"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "30/08/2024 - 23:22:40"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "30/08/2024 - 23:20:05"
+        },
+        {
+            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+            "artists": [
+                "Felix Jaehn",
+                "Jasmine Thompson"
+            ],
+            "album": "I",
+            "played_at": "30/08/2024 - 23:15:08"
+        },
+        {
+            "song_name": "4runner",
+            "artists": [
+                "Brenn!"
+            ],
+            "album": "County Line",
+            "played_at": "30/08/2024 - 14:55:06"
+        },
+        {
+            "song_name": "Dark, Dark, Dark",
+            "artists": [
+                "Gregory Alan Isakov"
+            ],
+            "album": "Evening Machines",
+            "played_at": "30/08/2024 - 14:53:35"
+        },
+        {
+            "song_name": "Blood Moon",
+            "artists": [
+                "Josiah and the Bonnevilles"
+            ],
+            "album": "2022",
+            "played_at": "30/08/2024 - 14:50:36"
+        },
+        {
+            "song_name": "Think I'm In Love With You",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Higher",
+            "played_at": "30/08/2024 - 14:47:48"
+        },
+        {
+            "song_name": "Spotless (feat. The Lumineers)",
+            "artists": [
+                "Zach Bryan",
+                "The Lumineers"
+            ],
+            "album": "Zach Bryan",
+            "played_at": "30/08/2024 - 14:44:06"
+        },
+        {
+            "song_name": "Paint",
+            "artists": [
+                "The Paper Kites"
+            ],
+            "album": "Young North",
+            "played_at": "30/08/2024 - 14:41:16"
+        },
+        {
+            "song_name": "Old Ties and Companions",
+            "artists": [
+                "Watchhouse"
+            ],
+            "album": "Such Jubilee",
+            "played_at": "30/08/2024 - 14:38:04"
+        },
+        {
+            "song_name": "In My Sheets",
+            "artists": [
+                "John Vincent III"
+            ],
+            "album": "Songs from the Valley",
+            "played_at": "30/08/2024 - 14:34:55"
+        },
+        {
+            "song_name": "Black Creek",
+            "artists": [
+                "Brent Cobb"
+            ],
+            "album": "No Place Left to Leave (2006)",
+            "played_at": "30/08/2024 - 14:30:45"
+        },
+        {
+            "song_name": "Sleep Deprivation",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "Sleep Deprivation",
+            "played_at": "30/08/2024 - 14:27:12"
+        },
+        {
+            "song_name": "Heading South",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Heading South",
+            "played_at": "30/08/2024 - 14:24:37"
+        },
+        {
+            "song_name": "You Should Probably Leave",
+            "artists": [
+                "Chris Stapleton"
+            ],
+            "album": "Starting Over",
+            "played_at": "30/08/2024 - 14:21:45"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Watchhouse"
+            ],
+            "album": "Such Jubilee",
+            "played_at": "30/08/2024 - 14:18:11"
+        },
+        {
+            "song_name": "Linger - SiriusXM Session",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Linger / Heading For The Door (Sirius XM Session)",
+            "played_at": "30/08/2024 - 14:14:58"
+        },
+        {
+            "song_name": "Before the Sun",
+            "artists": [
+                "Gregory Alan Isakov"
+            ],
+            "album": "Appaloosa Bones",
+            "played_at": "30/08/2024 - 14:11:52"
+        },
+        {
+            "song_name": "Down by the Water",
+            "artists": [
+                "Ocie Elliott"
+            ],
+            "album": "EP",
+            "played_at": "30/08/2024 - 14:09:03"
+        },
+        {
+            "song_name": "Something in the Orange",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Something in the Orange",
+            "played_at": "30/08/2024 - 14:06:05"
+        },
+        {
+            "song_name": "Bleeding Out",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "Bleeding Out",
+            "played_at": "30/08/2024 - 14:02:17"
+        },
+        {
+            "song_name": "When Im Gone",
+            "artists": [
+                "LECADE"
+            ],
+            "album": "When Im Gone",
+            "played_at": "30/08/2024 - 13:58:48"
+        },
+        {
+            "song_name": "Coal",
+            "artists": [
+                "Dylan Gossett"
+            ],
+            "album": "Coal",
+            "played_at": "30/08/2024 - 13:56:38"
+        },
+        {
+            "song_name": "Heartless (feat. Morgan Wallen)",
+            "artists": [
+                "Diplo",
+                "Morgan Wallen"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+            "played_at": "30/08/2024 - 13:53:23"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "30/08/2024 - 13:50:34"
+        },
+        {
+            "song_name": "Sun to Me",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "American Heartbreak",
+            "played_at": "30/08/2024 - 13:48:48"
+        },
+        {
+            "song_name": "i am not who i was",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "i am not who i was",
+            "played_at": "30/08/2024 - 13:46:05"
+        },
+        {
+            "song_name": "Jolene",
+            "artists": [
+                "Dolly Parton"
+            ],
+            "album": "Jolene (Expanded Edition)",
+            "played_at": "30/08/2024 - 13:43:39"
+        },
+        {
+            "song_name": "Jersey Giant",
+            "artists": [
+                "Evan Honer",
+                "Julia DiGrazia"
+            ],
+            "album": "Jersey Giant",
+            "played_at": "30/08/2024 - 13:40:58"
+        },
+        {
+            "song_name": "Heartbroken (feat. Jessie Murph & Polo G)",
+            "artists": [
+                "Diplo",
+                "Jessie Murph",
+                "Polo G"
+            ],
+            "album": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+            "played_at": "30/08/2024 - 13:36:42"
+        },
+        {
+            "song_name": "Last Night",
+            "artists": [
+                "Morgan Wallen"
+            ],
+            "album": "One Thing At A Time",
+            "played_at": "30/08/2024 - 13:33:17"
+        },
+        {
+            "song_name": "Oklahoma Smokeshow",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "Summertime Blues",
+            "played_at": "30/08/2024 - 13:30:33"
+        },
+        {
+            "song_name": "Wrong Ones (Feat. Tim McGraw)",
+            "artists": [
+                "Post Malone",
+                "Tim McGraw"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "30/08/2024 - 13:27:02"
+        },
+        {
+            "song_name": "When It Rains It Pours",
+            "artists": [
+                "Luke Combs"
+            ],
+            "album": "This One's for You",
+            "played_at": "30/08/2024 - 13:23:46"
         },
         {
             "song_name": "Lonely in London",
