@@ -1319,6 +1319,50 @@
             "played_at": "03/09/2024 - 11:32:27"
         },
         {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "04/09/2024 - 08:36:32"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "04/09/2024 - 08:33:36"
+        },
+        {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "04/09/2024 - 08:30:03"
+        },
+        {
+            "song_name": "no enemies - lofi version",
+            "artists": [
+                "Medafiziks"
+            ],
+            "album": "i have no enemies",
+            "played_at": "03/09/2024 - 23:28:05"
+        },
+        {
+            "song_name": "Catch Another Tide",
+            "artists": [
+                "Thierry Von Der Warth",
+                "NSH"
+            ],
+            "album": "Catch Another Tide",
+            "played_at": "03/09/2024 - 14:31:44"
+        },
+        {
             "song_name": "Ocean Quiet",
             "artists": [
                 "Lucas Estrada",
@@ -1713,49 +1757,6 @@
             ],
             "album": "Black Friday (pretty like the sun)",
             "played_at": "03/09/2024 - 11:44:38"
-        },
-        {
-            "song_name": "Some Day",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Some Day",
-            "played_at": "03/09/2024 - 11:42:31"
-        },
-        {
-            "song_name": "One More Summer Night",
-            "artists": [
-                "Chemical Neon",
-                "Jordan Grace",
-                "Eva Vinjor"
-            ],
-            "album": "One More Summer Night",
-            "played_at": "03/09/2024 - 11:40:14"
-        },
-        {
-            "song_name": "Nothing Better",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Nothing Better",
-            "played_at": "03/09/2024 - 11:37:41"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "03/09/2024 - 11:35:15"
-        },
-        {
-            "song_name": "Thinking Of You",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Thinking Of You",
-            "played_at": "03/09/2024 - 11:32:27"
         }
     ]
 }
