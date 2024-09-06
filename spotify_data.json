@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "I Wanna Be Yours",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "AM",
+            "played_at": "06/09/2024 - 18:00:17"
+        },
+        {
             "song_name": "Feeling You",
             "artists": [
                 "Harrison Storm"
@@ -392,14 +400,6 @@
             ],
             "album": "Ugly Duck",
             "played_at": "06/09/2024 - 09:29:44"
-        },
-        {
-            "song_name": "Freaking Out the Neighborhood",
-            "artists": [
-                "Mac DeMarco"
-            ],
-            "album": "2",
-            "played_at": "06/09/2024 - 09:27:34"
         },
         {
             "song_name": "I Wanna Be Yours",
