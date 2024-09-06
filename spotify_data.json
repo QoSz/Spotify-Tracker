@@ -802,6 +802,14 @@
             "played_at": "06/09/2024 - 09:29:44"
         },
         {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "06/09/2024 - 21:15:39"
+        },
+        {
             "song_name": "I Wanna Be Yours",
             "artists": [
                 "Arctic Monkeys"
@@ -1192,14 +1200,6 @@
             ],
             "album": "Some",
             "played_at": "06/09/2024 - 09:31:42"
-        },
-        {
-            "song_name": "Is there free breakfast here?",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "06/09/2024 - 09:29:44"
         },
         {
             "song_name": "Oysters In My Pocket",
