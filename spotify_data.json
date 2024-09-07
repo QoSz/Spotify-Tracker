@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Sex, Drugs, Etc.",
+            "artists": [
+                "Beach Weather"
+            ],
+            "album": "Pineapple Sunrise",
+            "played_at": "06/09/2024 - 21:30:44"
+        },
+        {
             "song_name": "Oysters In My Pocket",
             "artists": [
                 "Royel Otis"
@@ -392,14 +400,6 @@
             ],
             "album": "Wiped Out!",
             "played_at": "06/09/2024 - 09:32:21"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "06/09/2024 - 09:31:42"
         },
         {
             "song_name": "Sex, Drugs, Etc.",
