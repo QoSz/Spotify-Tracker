@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Got Me Like",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Got Me Like",
+            "played_at": "09/09/2024 - 19:21:21"
+        },
+        {
             "song_name": "Tomorrow Never Comes",
             "artists": [
                 "Vicetone"
@@ -432,16 +440,6 @@
             ],
             "album": "Existe El Amor",
             "played_at": "09/09/2024 - 15:45:35"
-        },
-        {
-            "song_name": "When You Love Someone",
-            "artists": [
-                "Rolipso",
-                "Foínix",
-                "James Stefano"
-            ],
-            "album": "When You Love Someone",
-            "played_at": "09/09/2024 - 15:43:30"
         },
         {
             "song_name": "Got Me Like",
