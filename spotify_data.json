@@ -2,456 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Lost & Found",
-            "artists": [
-                "James Stefano"
-            ],
-            "album": "Lost & Found",
-            "played_at": "08/09/2024 - 14:35:26"
-        },
-        {
-            "song_name": "Don’t Let Me Down",
-            "artists": [
-                "Able Faces",
-                "Nate VanDeusen",
-                "MCN2"
-            ],
-            "album": "Don’t Let Me Down",
-            "played_at": "08/09/2024 - 13:32:33"
-        },
-        {
-            "song_name": "Last Day Of Summer",
-            "artists": [
-                "Kusko",
-                "blackbird"
-            ],
-            "album": "Last Day Of Summer",
-            "played_at": "08/09/2024 - 13:30:16"
-        },
-        {
-            "song_name": "I'll Be There",
-            "artists": [
-                "ConKi",
-                "Magnus Gunn"
-            ],
-            "album": "I'll Be There",
-            "played_at": "08/09/2024 - 13:27:52"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "08/09/2024 - 13:25:24"
-        },
-        {
-            "song_name": "Feel",
-            "artists": [
-                "Daniel Santoro"
-            ],
-            "album": "Feel",
-            "played_at": "08/09/2024 - 13:22:49"
-        },
-        {
-            "song_name": "Just A Dream",
-            "artists": [
-                "Theodor Rosenberg",
-                "Kerin Maguire"
-            ],
-            "album": "Just A Dream",
-            "played_at": "08/09/2024 - 13:20:18"
-        },
-        {
-            "song_name": "Your Melody",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Your Melody",
-            "played_at": "08/09/2024 - 13:18:10"
-        },
-        {
-            "song_name": "Life",
-            "artists": [
-                "ConKi"
-            ],
-            "album": "Life",
-            "played_at": "08/09/2024 - 13:15:52"
-        },
-        {
-            "song_name": "Best Days",
-            "artists": [
-                "Solar State",
-                "Nømad"
-            ],
-            "album": "Best Days",
-            "played_at": "08/09/2024 - 13:13:42"
-        },
-        {
-            "song_name": "Back On Ibiza",
-            "artists": [
-                "Vogel",
-                "James Stefano"
-            ],
-            "album": "Back On Ibiza",
-            "played_at": "08/09/2024 - 13:11:04"
-        },
-        {
-            "song_name": "Believer",
-            "artists": [
-                "BOILERS",
-                "Daniel McMillan",
-                "Crew Cardinal"
-            ],
-            "album": "Believer",
-            "played_at": "08/09/2024 - 13:08:49"
-        },
-        {
-            "song_name": "daydream",
-            "artists": [
-                "rayn",
-                "Thunder"
-            ],
-            "album": "daydream",
-            "played_at": "08/09/2024 - 13:06:06"
-        },
-        {
-            "song_name": "What Goes Around",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "What Goes Around",
-            "played_at": "08/09/2024 - 13:03:50"
-        },
-        {
-            "song_name": "Love Yourself",
-            "artists": [
-                "TWOPILOTS",
-                "Xtina Louise"
-            ],
-            "album": "Love Yourself",
-            "played_at": "08/09/2024 - 13:01:14"
-        },
-        {
-            "song_name": "Radioactive",
-            "artists": [
-                "Braaten",
-                "Raphael DeLove"
-            ],
-            "album": "Radioactive",
-            "played_at": "08/09/2024 - 12:58:34"
-        },
-        {
-            "song_name": "running down the beach",
-            "artists": [
-                "clarity.",
-                "SITHEA"
-            ],
-            "album": "running down the beach",
-            "played_at": "08/09/2024 - 12:56:09"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "08/09/2024 - 12:53:46"
-        },
-        {
-            "song_name": "Slow Down",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Slow Down",
-            "played_at": "08/09/2024 - 12:51:01"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Kid On The Block",
-                "Summer Vibes"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "08/09/2024 - 12:48:44"
-        },
-        {
-            "song_name": "Toxic Remedy (Marcus Layton Edit)",
-            "artists": [
-                "TWOPILOTS",
-                "LAUWE",
-                "Marcus Layton",
-                "Sibbyl"
-            ],
-            "album": "Toxic Remedy (Marcus Layton Edit)",
-            "played_at": "08/09/2024 - 12:46:28"
-        },
-        {
-            "song_name": "Chase The Sun",
-            "artists": [
-                "Braaten"
-            ],
-            "album": "Chase The Sun",
-            "played_at": "08/09/2024 - 12:43:42"
-        },
-        {
-            "song_name": "Fire in You",
-            "artists": [
-                "Fargro"
-            ],
-            "album": "Fire in You",
-            "played_at": "08/09/2024 - 12:40:54"
-        },
-        {
-            "song_name": "Love Didn't Last",
-            "artists": [
-                "Rolipso",
-                "A-Tom (CH)",
-                "FOSSUS",
-                "MiteX"
-            ],
-            "album": "Love Didn't Last",
-            "played_at": "08/09/2024 - 12:38:39"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "08/09/2024 - 12:36:21"
-        },
-        {
-            "song_name": "Cool Kids",
-            "artists": [
-                "Toby Rose",
-                "TWOPILOTS"
-            ],
-            "album": "Cool Kids",
-            "played_at": "08/09/2024 - 12:32:47"
-        },
-        {
-            "song_name": "Only Me & You",
-            "artists": [
-                "Thunder",
-                "Dizaro"
-            ],
-            "album": "Only Me & You",
-            "played_at": "08/09/2024 - 12:30:14"
-        },
-        {
-            "song_name": "Teenage Dream",
-            "artists": [
-                "Braaten",
-                "Raphael DeLove"
-            ],
-            "album": "Teenage Dream",
-            "played_at": "08/09/2024 - 12:28:03"
-        },
-        {
-            "song_name": "Freedom To Fly",
-            "artists": [
-                "AUGUSTKID",
-                "Dawilk",
-                "Shoby"
-            ],
-            "album": "Freedom To Fly",
-            "played_at": "08/09/2024 - 12:25:29"
-        },
-        {
-            "song_name": "Burn",
-            "artists": [
-                "Fdma",
-                "Freja"
-            ],
-            "album": "Burn",
-            "played_at": "08/09/2024 - 12:23:11"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Rolipso"
-            ],
-            "album": "Alive",
-            "played_at": "08/09/2024 - 12:20:36"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Horizon Blue",
-                "S3DA",
-                "Coulson"
-            ],
-            "album": "Need You",
-            "played_at": "08/09/2024 - 12:18:36"
-        },
-        {
-            "song_name": "Dancing With Your Ghost",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Dancing With Your Ghost",
-            "played_at": "08/09/2024 - 12:16:17"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "KHEMIS",
-                "Pierre Leck",
-                "Levka Rey"
-            ],
-            "album": "Use Somebody",
-            "played_at": "08/09/2024 - 12:13:34"
-        },
-        {
-            "song_name": "Pieces",
-            "artists": [
-                "Thunder",
-                "le moon"
-            ],
-            "album": "Pieces",
-            "played_at": "08/09/2024 - 12:11:01"
-        },
-        {
-            "song_name": "Perfect Crime",
-            "artists": [
-                "SITHEA",
-                "Rolipso"
-            ],
-            "album": "Perfect Crime",
-            "played_at": "08/09/2024 - 12:08:18"
-        },
-        {
-            "song_name": "Out In The Rain",
-            "artists": [
-                "Rolipso",
-                "SITHEA"
-            ],
-            "album": "Out In The Rain",
-            "played_at": "08/09/2024 - 12:06:09"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Modi"
-            ],
-            "album": "Paradise",
-            "played_at": "08/09/2024 - 12:03:40"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "08/09/2024 - 12:01:28"
-        },
-        {
-            "song_name": "Kids",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Kids",
-            "played_at": "08/09/2024 - 11:58:21"
-        },
-        {
-            "song_name": "Coming With You",
-            "artists": [
-                "Horizon Blue",
-                "Felix Samuel"
-            ],
-            "album": "Coming With You",
-            "played_at": "08/09/2024 - 11:55:59"
-        },
-        {
-            "song_name": "Follow the Sun - Sunset Remix",
-            "artists": [
-                "LYOD"
-            ],
-            "album": "Follow the Sun (Sunset Remix)",
-            "played_at": "08/09/2024 - 11:53:40"
-        },
-        {
-            "song_name": "Floating On Forever",
-            "artists": [
-                "Laurentius",
-                "AUGUSTKID",
-                "Jeffrey James"
-            ],
-            "album": "Floating On Forever",
-            "played_at": "08/09/2024 - 11:51:30"
-        },
-        {
-            "song_name": "Live a Lie",
-            "artists": [
-                "Thunder",
-                "ODBLU"
-            ],
-            "album": "Live a Lie",
-            "played_at": "08/09/2024 - 11:49:00"
-        },
-        {
-            "song_name": "Sleep",
-            "artists": [
-                "ConKi",
-                "Rolipso",
-                "Runforrest"
-            ],
-            "album": "Sleep",
-            "played_at": "08/09/2024 - 11:46:45"
-        },
-        {
-            "song_name": "Deep Down (feat. Never Dull)",
-            "artists": [
-                "Alok",
-                "Ella Eyre",
-                "Kenny Dope",
-                "Never Dull"
-            ],
-            "album": "Deep Down (feat. Never Dull)",
-            "played_at": "08/09/2024 - 11:37:02"
-        },
-        {
-            "song_name": "Baianá",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "The Ringmaster",
-            "played_at": "08/09/2024 - 10:35:35"
-        },
-        {
-            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
-            "artists": [
-                "Mike Posner",
-                "Seeb"
-            ],
-            "album": "At Night, Alone.",
-            "played_at": "08/09/2024 - 10:32:34"
-        },
-        {
-            "song_name": "Don't You Worry Child - Radio Edit",
-            "artists": [
-                "Swedish House Mafia",
-                "John Martin"
-            ],
-            "album": "Don't You Worry Child",
-            "played_at": "08/09/2024 - 10:29:16"
-        },
-        {
-            "song_name": "Hot Air Balloon",
-            "artists": [
-                "Don Diablo",
-                "AR/CO"
-            ],
-            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
-            "played_at": "08/09/2024 - 10:25:43"
-        },
-        {
             "song_name": "Let You Go Later",
             "artists": [
                 "Guille Alvarez",
@@ -1778,6 +1328,448 @@
             ],
             "album": "Alive",
             "played_at": "08/09/2024 - 12:20:36"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "09/09/2024 - 11:04:55"
+        },
+        {
+            "song_name": "Last Call For The Summer",
+            "artists": [
+                "s m s n",
+                "NEEA RIVER"
+            ],
+            "album": "Last Call For The Summer",
+            "played_at": "09/09/2024 - 10:02:33"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Hobes",
+                "NEIMY"
+            ],
+            "album": "Kids",
+            "played_at": "09/09/2024 - 10:00:15"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "09/09/2024 - 09:57:48"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "09/09/2024 - 09:55:17"
+        },
+        {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "09/09/2024 - 09:52:59"
+        },
+        {
+            "song_name": "Happy Ever After",
+            "artists": [
+                "Sander W.",
+                "Sönnefelt",
+                "She Is Jules"
+            ],
+            "album": "Happy Ever After",
+            "played_at": "09/09/2024 - 09:49:58"
+        },
+        {
+            "song_name": "High Tide",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Dream Dimension",
+            "played_at": "09/09/2024 - 09:47:18"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "For Life (feat. Nile Rodgers)",
+            "played_at": "09/09/2024 - 09:43:38"
+        },
+        {
+            "song_name": "Catch & Release - Deepend Remix",
+            "artists": [
+                "Matt Simons",
+                "Deepend"
+            ],
+            "album": "When The Lights Go Down",
+            "played_at": "09/09/2024 - 09:40:42"
+        },
+        {
+            "song_name": "In Your Arms",
+            "artists": [
+                "Fini",
+                "David Emde"
+            ],
+            "album": "In Your Arms",
+            "played_at": "09/09/2024 - 09:37:27"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "09/09/2024 - 09:35:01"
+        },
+        {
+            "song_name": "Probably Paradise",
+            "artists": [
+                "Luvine",
+                "Lisa Rowe"
+            ],
+            "album": "Probably Paradise",
+            "played_at": "09/09/2024 - 09:29:46"
+        },
+        {
+            "song_name": "Let You Go Later",
+            "artists": [
+                "Guille Alvarez",
+                "Emma Castellino"
+            ],
+            "album": "Let You Go Later",
+            "played_at": "09/09/2024 - 08:30:38"
+        },
+        {
+            "song_name": "When You Move",
+            "artists": [
+                "Blonde Maze"
+            ],
+            "album": "When You Move",
+            "played_at": "09/09/2024 - 08:27:38"
+        },
+        {
+            "song_name": "60s Ghost",
+            "artists": [
+                "Jane Good",
+                "Adam Wendler"
+            ],
+            "album": "60s Ghost",
+            "played_at": "09/09/2024 - 08:24:02"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "09/09/2024 - 08:21:27"
+        },
+        {
+            "song_name": "Sun Screen",
+            "artists": [
+                "Nina Young"
+            ],
+            "album": "Sun Screen",
+            "played_at": "09/09/2024 - 08:19:26"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "09/09/2024 - 08:17:13"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "09/09/2024 - 08:15:01"
+        },
+        {
+            "song_name": "Lost & Found",
+            "artists": [
+                "James Stefano"
+            ],
+            "album": "Lost & Found",
+            "played_at": "08/09/2024 - 14:35:26"
+        },
+        {
+            "song_name": "Don’t Let Me Down",
+            "artists": [
+                "Able Faces",
+                "Nate VanDeusen",
+                "MCN2"
+            ],
+            "album": "Don’t Let Me Down",
+            "played_at": "08/09/2024 - 13:32:33"
+        },
+        {
+            "song_name": "Last Day Of Summer",
+            "artists": [
+                "Kusko",
+                "blackbird"
+            ],
+            "album": "Last Day Of Summer",
+            "played_at": "08/09/2024 - 13:30:16"
+        },
+        {
+            "song_name": "I'll Be There",
+            "artists": [
+                "ConKi",
+                "Magnus Gunn"
+            ],
+            "album": "I'll Be There",
+            "played_at": "08/09/2024 - 13:27:52"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "08/09/2024 - 13:25:24"
+        },
+        {
+            "song_name": "Feel",
+            "artists": [
+                "Daniel Santoro"
+            ],
+            "album": "Feel",
+            "played_at": "08/09/2024 - 13:22:49"
+        },
+        {
+            "song_name": "Just A Dream",
+            "artists": [
+                "Theodor Rosenberg",
+                "Kerin Maguire"
+            ],
+            "album": "Just A Dream",
+            "played_at": "08/09/2024 - 13:20:18"
+        },
+        {
+            "song_name": "Your Melody",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Your Melody",
+            "played_at": "08/09/2024 - 13:18:10"
+        },
+        {
+            "song_name": "Life",
+            "artists": [
+                "ConKi"
+            ],
+            "album": "Life",
+            "played_at": "08/09/2024 - 13:15:52"
+        },
+        {
+            "song_name": "Best Days",
+            "artists": [
+                "Solar State",
+                "Nømad"
+            ],
+            "album": "Best Days",
+            "played_at": "08/09/2024 - 13:13:42"
+        },
+        {
+            "song_name": "Back On Ibiza",
+            "artists": [
+                "Vogel",
+                "James Stefano"
+            ],
+            "album": "Back On Ibiza",
+            "played_at": "08/09/2024 - 13:11:04"
+        },
+        {
+            "song_name": "Believer",
+            "artists": [
+                "BOILERS",
+                "Daniel McMillan",
+                "Crew Cardinal"
+            ],
+            "album": "Believer",
+            "played_at": "08/09/2024 - 13:08:49"
+        },
+        {
+            "song_name": "daydream",
+            "artists": [
+                "rayn",
+                "Thunder"
+            ],
+            "album": "daydream",
+            "played_at": "08/09/2024 - 13:06:06"
+        },
+        {
+            "song_name": "What Goes Around",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "What Goes Around",
+            "played_at": "08/09/2024 - 13:03:50"
+        },
+        {
+            "song_name": "Love Yourself",
+            "artists": [
+                "TWOPILOTS",
+                "Xtina Louise"
+            ],
+            "album": "Love Yourself",
+            "played_at": "08/09/2024 - 13:01:14"
+        },
+        {
+            "song_name": "Radioactive",
+            "artists": [
+                "Braaten",
+                "Raphael DeLove"
+            ],
+            "album": "Radioactive",
+            "played_at": "08/09/2024 - 12:58:34"
+        },
+        {
+            "song_name": "running down the beach",
+            "artists": [
+                "clarity.",
+                "SITHEA"
+            ],
+            "album": "running down the beach",
+            "played_at": "08/09/2024 - 12:56:09"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "08/09/2024 - 12:53:46"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Slow Down",
+            "played_at": "08/09/2024 - 12:51:01"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Kid On The Block",
+                "Summer Vibes"
+            ],
+            "album": "Ocean Drive",
+            "played_at": "08/09/2024 - 12:48:44"
+        },
+        {
+            "song_name": "Toxic Remedy (Marcus Layton Edit)",
+            "artists": [
+                "TWOPILOTS",
+                "LAUWE",
+                "Marcus Layton",
+                "Sibbyl"
+            ],
+            "album": "Toxic Remedy (Marcus Layton Edit)",
+            "played_at": "08/09/2024 - 12:46:28"
+        },
+        {
+            "song_name": "Chase The Sun",
+            "artists": [
+                "Braaten"
+            ],
+            "album": "Chase The Sun",
+            "played_at": "08/09/2024 - 12:43:42"
+        },
+        {
+            "song_name": "Fire in You",
+            "artists": [
+                "Fargro"
+            ],
+            "album": "Fire in You",
+            "played_at": "08/09/2024 - 12:40:54"
+        },
+        {
+            "song_name": "Love Didn't Last",
+            "artists": [
+                "Rolipso",
+                "A-Tom (CH)",
+                "FOSSUS",
+                "MiteX"
+            ],
+            "album": "Love Didn't Last",
+            "played_at": "08/09/2024 - 12:38:39"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "08/09/2024 - 12:36:21"
+        },
+        {
+            "song_name": "Cool Kids",
+            "artists": [
+                "Toby Rose",
+                "TWOPILOTS"
+            ],
+            "album": "Cool Kids",
+            "played_at": "08/09/2024 - 12:32:47"
+        },
+        {
+            "song_name": "Only Me & You",
+            "artists": [
+                "Thunder",
+                "Dizaro"
+            ],
+            "album": "Only Me & You",
+            "played_at": "08/09/2024 - 12:30:14"
+        },
+        {
+            "song_name": "Teenage Dream",
+            "artists": [
+                "Braaten",
+                "Raphael DeLove"
+            ],
+            "album": "Teenage Dream",
+            "played_at": "08/09/2024 - 12:28:03"
+        },
+        {
+            "song_name": "Freedom To Fly",
+            "artists": [
+                "AUGUSTKID",
+                "Dawilk",
+                "Shoby"
+            ],
+            "album": "Freedom To Fly",
+            "played_at": "08/09/2024 - 12:25:29"
+        },
+        {
+            "song_name": "Burn",
+            "artists": [
+                "Fdma",
+                "Freja"
+            ],
+            "album": "Burn",
+            "played_at": "08/09/2024 - 12:23:11"
         }
     ]
 }
