@@ -2,456 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "high love",
-            "artists": [
-                "rayn",
-                "cloudseven",
-                "MELINA"
-            ],
-            "album": "high love",
-            "played_at": "09/09/2024 - 16:56:57"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "09/09/2024 - 16:54:23"
-        },
-        {
-            "song_name": "Gold",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Gold",
-            "played_at": "09/09/2024 - 16:51:16"
-        },
-        {
-            "song_name": "Matter of Time - Deepend Remix",
-            "artists": [
-                "Vandelux",
-                "Deepend",
-                "Alex Maher"
-            ],
-            "album": "Matter of Time (Deepend Remix)",
-            "played_at": "09/09/2024 - 16:48:52"
-        },
-        {
-            "song_name": "Sweetly",
-            "artists": [
-                "Honey",
-                "Summer Vibes"
-            ],
-            "album": "Sweetly",
-            "played_at": "09/09/2024 - 16:45:41"
-        },
-        {
-            "song_name": "In Deep",
-            "artists": [
-                "Beachwax"
-            ],
-            "album": "In Deep",
-            "played_at": "09/09/2024 - 16:43:05"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "09/09/2024 - 16:40:14"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "09/09/2024 - 16:37:43"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "09/09/2024 - 16:34:29"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "09/09/2024 - 16:31:44"
-        },
-        {
-            "song_name": "Shatterproof - Sebastian Davidson Remix",
-            "artists": [
-                "Nick Schilder",
-                "Sebastian Davidson"
-            ],
-            "album": "Shatterproof (Sebastian Davidson Remix)",
-            "played_at": "09/09/2024 - 16:29:36"
-        },
-        {
-            "song_name": "New Beginnings",
-            "artists": [
-                "Sparkee"
-            ],
-            "album": "New Beginnings",
-            "played_at": "09/09/2024 - 16:26:49"
-        },
-        {
-            "song_name": "Do It All For You",
-            "artists": [
-                "Colin Crooks",
-                "Brendan Mills",
-                "Harrisen Larner-Main"
-            ],
-            "album": "Do It All For You",
-            "played_at": "09/09/2024 - 16:23:41"
-        },
-        {
-            "song_name": "Magnificent",
-            "artists": [
-                "Daniel Glaven",
-                "WLZN"
-            ],
-            "album": "Magnificent",
-            "played_at": "09/09/2024 - 16:20:39"
-        },
-        {
-            "song_name": "Believer",
-            "artists": [
-                "BOILERS",
-                "Daniel McMillan",
-                "Crew Cardinal"
-            ],
-            "album": "Believer",
-            "played_at": "09/09/2024 - 16:18:19"
-        },
-        {
-            "song_name": "Did You Know",
-            "artists": [
-                "Together Alone"
-            ],
-            "album": "Did You Know",
-            "played_at": "09/09/2024 - 16:15:36"
-        },
-        {
-            "song_name": "No Matter Where",
-            "artists": [
-                "Michael FAY",
-                "Brendan Mills",
-                "Britt Lari"
-            ],
-            "album": "No Matter Where",
-            "played_at": "09/09/2024 - 16:12:40"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "09/09/2024 - 16:09:47"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "09/09/2024 - 16:06:50"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "09/09/2024 - 16:03:51"
-        },
-        {
-            "song_name": "Lush",
-            "artists": [
-                "Ayla Nova"
-            ],
-            "album": "Lush",
-            "played_at": "09/09/2024 - 16:00:43"
-        },
-        {
-            "song_name": "One Headlight",
-            "artists": [
-                "Nate VanDeusen",
-                "Bayshore Court"
-            ],
-            "album": "One Headlight",
-            "played_at": "09/09/2024 - 15:57:36"
-        },
-        {
-            "song_name": "Strong",
-            "artists": [
-                "Sigma",
-                "Kovic"
-            ],
-            "album": "Hope",
-            "played_at": "09/09/2024 - 15:55:08"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "09/09/2024 - 15:51:37"
-        },
-        {
-            "song_name": "Summertime With You",
-            "artists": [
-                "Viva La Panda",
-                "Honey",
-                "JAYNIE"
-            ],
-            "album": "Summertime With You",
-            "played_at": "09/09/2024 - 15:47:56"
-        },
-        {
-            "song_name": "Existe El Amor",
-            "artists": [
-                "Noile",
-                "Ladina Viva"
-            ],
-            "album": "Existe El Amor",
-            "played_at": "09/09/2024 - 15:45:35"
-        },
-        {
-            "song_name": "When You Love Someone",
-            "artists": [
-                "Rolipso",
-                "Foínix",
-                "James Stefano"
-            ],
-            "album": "When You Love Someone",
-            "played_at": "09/09/2024 - 15:43:30"
-        },
-        {
-            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
-            "artists": [
-                "Mike Posner",
-                "Seeb"
-            ],
-            "album": "At Night, Alone.",
-            "played_at": "09/09/2024 - 15:41:05"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "09/09/2024 - 15:37:47"
-        },
-        {
-            "song_name": "Just Know It - Felix Cartal's Sunset Remix",
-            "artists": [
-                "Dan Mangan",
-                "Felix Cartal"
-            ],
-            "album": "Just Know It (Felix Cartal's Sunset Mix)",
-            "played_at": "09/09/2024 - 15:35:02"
-        },
-        {
-            "song_name": "Just Know It - Felix Cartal's Sunset Remix",
-            "artists": [
-                "Dan Mangan",
-                "Felix Cartal"
-            ],
-            "album": "Just Know It (Felix Cartal's Sunset Mix)",
-            "played_at": "09/09/2024 - 15:28:16"
-        },
-        {
-            "song_name": "Off My Mind",
-            "artists": [
-                "nourii",
-                "Axel Ehnström"
-            ],
-            "album": "Off My Mind",
-            "played_at": "09/09/2024 - 14:27:00"
-        },
-        {
-            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "artists": [
-                "VAVO",
-                "Tyler Mann",
-                "DJ PRESS PLAY"
-            ],
-            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "played_at": "09/09/2024 - 14:24:55"
-        },
-        {
-            "song_name": "Believer",
-            "artists": [
-                "BOILERS",
-                "Daniel McMillan",
-                "Crew Cardinal"
-            ],
-            "album": "Believer",
-            "played_at": "09/09/2024 - 14:22:15"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "09/09/2024 - 14:19:33"
-        },
-        {
-            "song_name": "Floating On Forever",
-            "artists": [
-                "Laurentius",
-                "AUGUSTKID",
-                "Jeffrey James"
-            ],
-            "album": "Floating On Forever",
-            "played_at": "09/09/2024 - 14:16:18"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "09/09/2024 - 14:13:48"
-        },
-        {
-            "song_name": "San Diego Fair",
-            "artists": [
-                "Adon"
-            ],
-            "album": "San Diego Fair",
-            "played_at": "09/09/2024 - 14:11:18"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "09/09/2024 - 14:08:58"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "09/09/2024 - 11:04:55"
-        },
-        {
-            "song_name": "Last Call For The Summer",
-            "artists": [
-                "s m s n",
-                "NEEA RIVER"
-            ],
-            "album": "Last Call For The Summer",
-            "played_at": "09/09/2024 - 10:02:33"
-        },
-        {
-            "song_name": "Kids",
-            "artists": [
-                "Hobes",
-                "NEIMY"
-            ],
-            "album": "Kids",
-            "played_at": "09/09/2024 - 10:00:15"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "09/09/2024 - 09:57:48"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "09/09/2024 - 09:55:17"
-        },
-        {
-            "song_name": "Baianá",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "The Ringmaster",
-            "played_at": "09/09/2024 - 09:52:59"
-        },
-        {
-            "song_name": "Happy Ever After",
-            "artists": [
-                "Sander W.",
-                "Sönnefelt",
-                "She Is Jules"
-            ],
-            "album": "Happy Ever After",
-            "played_at": "09/09/2024 - 09:49:58"
-        },
-        {
-            "song_name": "High Tide",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Dream Dimension",
-            "played_at": "09/09/2024 - 09:47:18"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "For Life (feat. Nile Rodgers)",
-            "played_at": "09/09/2024 - 09:43:38"
-        },
-        {
-            "song_name": "Catch & Release - Deepend Remix",
-            "artists": [
-                "Matt Simons",
-                "Deepend"
-            ],
-            "album": "When The Lights Go Down",
-            "played_at": "09/09/2024 - 09:40:42"
-        },
-        {
-            "song_name": "In Your Arms",
-            "artists": [
-                "Fini",
-                "David Emde"
-            ],
-            "album": "In Your Arms",
-            "played_at": "09/09/2024 - 09:37:27"
-        },
-        {
             "song_name": "In Too Deep",
             "artists": [
                 "WEEKLESS",
@@ -1338,6 +888,446 @@
             ],
             "album": "When You Love Someone",
             "played_at": "09/09/2024 - 15:43:30"
+        },
+        {
+            "song_name": "Got Me Like",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Got Me Like",
+            "played_at": "09/09/2024 - 19:21:21"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "09/09/2024 - 18:06:36"
+        },
+        {
+            "song_name": "Rêve sans fin",
+            "artists": [
+                "PLÜM",
+                "Shiloh Dynasty"
+            ],
+            "album": "Rêve sans fin",
+            "played_at": "09/09/2024 - 18:03:21"
+        },
+        {
+            "song_name": "Got Me Like",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Got Me Like",
+            "played_at": "09/09/2024 - 18:00:46"
+        },
+        {
+            "song_name": "Daddy Issues",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "09/09/2024 - 17:58:35"
+        },
+        {
+            "song_name": "In Too Deep",
+            "artists": [
+                "WEEKLESS",
+                "WEDONT",
+                "ROBINS"
+            ],
+            "album": "In Too Deep",
+            "played_at": "09/09/2024 - 17:54:15"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "09/09/2024 - 17:51:29"
+        },
+        {
+            "song_name": "All The Stars",
+            "artists": [
+                "Lonely in the Rain",
+                "Saavan"
+            ],
+            "album": "All The Stars",
+            "played_at": "09/09/2024 - 17:48:53"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Trinix",
+                "Moze"
+            ],
+            "album": "Replay",
+            "played_at": "09/09/2024 - 17:46:14"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "09/09/2024 - 17:43:42"
+        },
+        {
+            "song_name": "Softcore",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "09/09/2024 - 17:41:19"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "09/09/2024 - 17:37:53"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "09/09/2024 - 17:34:41"
+        },
+        {
+            "song_name": "i am not who i was",
+            "artists": [
+                "Chance Peña"
+            ],
+            "album": "i am not who i was",
+            "played_at": "09/09/2024 - 17:30:54"
+        },
+        {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "09/09/2024 - 17:28:29"
+        },
+        {
+            "song_name": "In My Mind",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "In My Mind",
+            "played_at": "09/09/2024 - 17:26:03"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "09/09/2024 - 17:24:03"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "09/09/2024 - 17:19:59"
+        },
+        {
+            "song_name": "Wonderwall",
+            "artists": [
+                "Deeply Dip",
+                "Crystal Rock",
+                "Marc Kiss",
+                "Lazorra"
+            ],
+            "album": "Wonderwall",
+            "played_at": "09/09/2024 - 17:14:19"
+        },
+        {
+            "song_name": "Get To Me",
+            "artists": [
+                "Lonely Night",
+                "Ellou",
+                "Nody"
+            ],
+            "album": "Get To Me",
+            "played_at": "09/09/2024 - 17:11:27"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "09/09/2024 - 17:08:39"
+        },
+        {
+            "song_name": "Gonna Need Ya",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "Rachelle Jenkens"
+            ],
+            "album": "Gonna Need Ya",
+            "played_at": "09/09/2024 - 17:05:34"
+        },
+        {
+            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "artists": [
+                "VAVO",
+                "Tyler Mann",
+                "DJ PRESS PLAY"
+            ],
+            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "played_at": "09/09/2024 - 17:02:35"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "09/09/2024 - 16:59:55"
+        },
+        {
+            "song_name": "high love",
+            "artists": [
+                "rayn",
+                "cloudseven",
+                "MELINA"
+            ],
+            "album": "high love",
+            "played_at": "09/09/2024 - 16:56:57"
+        },
+        {
+            "song_name": "Morning Sun",
+            "artists": [
+                "NSH",
+                "Atch",
+                "Hobes"
+            ],
+            "album": "Morning Sun",
+            "played_at": "09/09/2024 - 16:54:23"
+        },
+        {
+            "song_name": "Gold",
+            "artists": [
+                "Leviro"
+            ],
+            "album": "Gold",
+            "played_at": "09/09/2024 - 16:51:16"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "09/09/2024 - 16:48:52"
+        },
+        {
+            "song_name": "Sweetly",
+            "artists": [
+                "Honey",
+                "Summer Vibes"
+            ],
+            "album": "Sweetly",
+            "played_at": "09/09/2024 - 16:45:41"
+        },
+        {
+            "song_name": "In Deep",
+            "artists": [
+                "Beachwax"
+            ],
+            "album": "In Deep",
+            "played_at": "09/09/2024 - 16:43:05"
+        },
+        {
+            "song_name": "Hollywood",
+            "artists": [
+                "Natio",
+                "Nina Carr"
+            ],
+            "album": "Hollywood",
+            "played_at": "09/09/2024 - 16:40:14"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "09/09/2024 - 16:37:43"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "09/09/2024 - 16:34:29"
+        },
+        {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "09/09/2024 - 16:31:44"
+        },
+        {
+            "song_name": "Shatterproof - Sebastian Davidson Remix",
+            "artists": [
+                "Nick Schilder",
+                "Sebastian Davidson"
+            ],
+            "album": "Shatterproof (Sebastian Davidson Remix)",
+            "played_at": "09/09/2024 - 16:29:36"
+        },
+        {
+            "song_name": "New Beginnings",
+            "artists": [
+                "Sparkee"
+            ],
+            "album": "New Beginnings",
+            "played_at": "09/09/2024 - 16:26:49"
+        },
+        {
+            "song_name": "Do It All For You",
+            "artists": [
+                "Colin Crooks",
+                "Brendan Mills",
+                "Harrisen Larner-Main"
+            ],
+            "album": "Do It All For You",
+            "played_at": "09/09/2024 - 16:23:41"
+        },
+        {
+            "song_name": "Magnificent",
+            "artists": [
+                "Daniel Glaven",
+                "WLZN"
+            ],
+            "album": "Magnificent",
+            "played_at": "09/09/2024 - 16:20:39"
+        },
+        {
+            "song_name": "Believer",
+            "artists": [
+                "BOILERS",
+                "Daniel McMillan",
+                "Crew Cardinal"
+            ],
+            "album": "Believer",
+            "played_at": "09/09/2024 - 16:18:19"
+        },
+        {
+            "song_name": "Did You Know",
+            "artists": [
+                "Together Alone"
+            ],
+            "album": "Did You Know",
+            "played_at": "09/09/2024 - 16:15:36"
+        },
+        {
+            "song_name": "No Matter Where",
+            "artists": [
+                "Michael FAY",
+                "Brendan Mills",
+                "Britt Lari"
+            ],
+            "album": "No Matter Where",
+            "played_at": "09/09/2024 - 16:12:40"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "09/09/2024 - 16:09:47"
+        },
+        {
+            "song_name": "Like You",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Like You",
+            "played_at": "09/09/2024 - 16:06:50"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "09/09/2024 - 16:03:51"
+        },
+        {
+            "song_name": "Lush",
+            "artists": [
+                "Ayla Nova"
+            ],
+            "album": "Lush",
+            "played_at": "09/09/2024 - 16:00:43"
+        },
+        {
+            "song_name": "One Headlight",
+            "artists": [
+                "Nate VanDeusen",
+                "Bayshore Court"
+            ],
+            "album": "One Headlight",
+            "played_at": "09/09/2024 - 15:57:36"
+        },
+        {
+            "song_name": "Strong",
+            "artists": [
+                "Sigma",
+                "Kovic"
+            ],
+            "album": "Hope",
+            "played_at": "09/09/2024 - 15:55:08"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "09/09/2024 - 15:51:37"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "09/09/2024 - 15:47:56"
+        },
+        {
+            "song_name": "Existe El Amor",
+            "artists": [
+                "Noile",
+                "Ladina Viva"
+            ],
+            "album": "Existe El Amor",
+            "played_at": "09/09/2024 - 15:45:35"
         },
         {
             "song_name": "Got Me Like",
