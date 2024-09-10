@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "10/09/2024 - 01:06:33"
+        },
+        {
             "song_name": "one of wun",
             "artists": [
                 "Gunna"
@@ -426,15 +434,6 @@
             ],
             "album": "Like You",
             "played_at": "09/09/2024 - 16:06:50"
-        },
-        {
-            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
-            "artists": [
-                "Quarry",
-                "SUPER-Hi"
-            ],
-            "album": "Sound of Your Summer",
-            "played_at": "09/09/2024 - 16:03:51"
         },
         {
             "song_name": "Tomorrow Never Comes",
