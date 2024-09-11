@@ -2,6 +2,145 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "11/09/2024 - 00:47:46"
+        },
+        {
+            "song_name": "What You Know Bout Love",
+            "artists": [
+                "Pop Smoke"
+            ],
+            "album": "Shoot For The Stars Aim For The Moon",
+            "played_at": "11/09/2024 - 00:45:08"
+        },
+        {
+            "song_name": "Overdose",
+            "artists": [
+                "Two Friends",
+                "Exit Friendzone",
+                "Nat Dunn"
+            ],
+            "album": "Overdose",
+            "played_at": "11/09/2024 - 00:42:27"
+        },
+        {
+            "song_name": "Life Goes On",
+            "artists": [
+                "Lil Baby",
+                "Gunna",
+                "Lil Uzi Vert"
+            ],
+            "album": "Harder Than Ever",
+            "played_at": "11/09/2024 - 00:38:39"
+        },
+        {
+            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artists": [
+                "Drake",
+                "Lil Durk"
+            ],
+            "album": "Laugh Now Cry Later (feat. Lil Durk)",
+            "played_at": "11/09/2024 - 00:34:31"
+        },
+        {
+            "song_name": "Heavy (with Nigo)",
+            "artists": [
+                "Nigo",
+                "Lil Uzi Vert"
+            ],
+            "album": "I Know NIGO!",
+            "played_at": "11/09/2024 - 00:30:09"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 - Deluxe",
+            "played_at": "11/09/2024 - 00:26:49"
+        },
+        {
+            "song_name": "Party Girl",
+            "artists": [
+                "StaySolidRocky"
+            ],
+            "album": "Fallin'",
+            "played_at": "11/09/2024 - 00:22:54"
+        },
+        {
+            "song_name": "Calabasas",
+            "artists": [
+                "Skizzy Mars"
+            ],
+            "album": "Free Skizzy Mars",
+            "played_at": "11/09/2024 - 00:20:27"
+        },
+        {
+            "song_name": "Careless",
+            "artists": [
+                "Gyyps"
+            ],
+            "album": "Careless",
+            "played_at": "11/09/2024 - 00:17:46"
+        },
+        {
+            "song_name": "Since I Got On",
+            "artists": [
+                "Kevin Powers",
+                "fernospazzin"
+            ],
+            "album": "Since I Got On",
+            "played_at": "11/09/2024 - 00:13:59"
+        },
+        {
+            "song_name": "Outside (Better Days)",
+            "artists": [
+                "Blueface",
+                "OG Bobby Billions"
+            ],
+            "album": "Outside (Better Days)",
+            "played_at": "11/09/2024 - 00:11:18"
+        },
+        {
+            "song_name": "If you say yes",
+            "artists": [
+                "Coldsteeze"
+            ],
+            "album": "If you say yes",
+            "played_at": "11/09/2024 - 00:08:49"
+        },
+        {
+            "song_name": "Real Life (feat. Stormzy)",
+            "artists": [
+                "Burna Boy",
+                "Stormzy"
+            ],
+            "album": "Twice As Tall",
+            "played_at": "11/09/2024 - 00:06:21"
+        },
+        {
+            "song_name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+            "artists": [
+                "Pusha T",
+                "Lil Uzi Vert",
+                "Don Toliver"
+            ],
+            "album": "It's Almost Dry",
+            "played_at": "11/09/2024 - 00:03:02"
+        },
+        {
+            "song_name": "Pause Play",
+            "artists": [
+                "Preme"
+            ],
+            "album": "Pause Play",
+            "played_at": "11/09/2024 - 00:00:29"
+        },
+        {
             "song_name": "Party Girl (Remix)",
             "artists": [
                 "StaySolidRocky",
@@ -292,149 +431,6 @@
             ],
             "album": "I NEVER LIKED YOU",
             "played_at": "10/09/2024 - 22:12:54"
-        },
-        {
-            "song_name": "Cold",
-            "artists": [
-                "Boy In Space",
-                "unheard"
-            ],
-            "album": "Cold",
-            "played_at": "10/09/2024 - 22:09:43"
-        },
-        {
-            "song_name": "No Sleep Leak",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "10/09/2024 - 22:06:19"
-        },
-        {
-            "song_name": "Live This Wild",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "10/09/2024 - 22:03:09"
-        },
-        {
-            "song_name": "Face 2 Face",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Face 2 Face",
-            "played_at": "10/09/2024 - 22:01:06"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "10/09/2024 - 21:59:01"
-        },
-        {
-            "song_name": "Starcrusin",
-            "artists": [
-                "Dubbygotbars",
-                "Charles Infamous"
-            ],
-            "album": "Starcrusin",
-            "played_at": "10/09/2024 - 21:56:39"
-        },
-        {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "10/09/2024 - 21:54:22"
-        },
-        {
-            "song_name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-            "artists": [
-                "G-Eazy",
-                "Tory Lanez",
-                "Tyga"
-            ],
-            "album": "These Things Happen Too (Deluxe)",
-            "played_at": "10/09/2024 - 21:50:54"
-        },
-        {
-            "song_name": "Sleepin With You",
-            "artists": [
-                "SADFACETHUGGIN",
-                "TOKINPOTENT"
-            ],
-            "album": "Emotionless - Sadface II",
-            "played_at": "10/09/2024 - 21:47:21"
-        },
-        {
-            "song_name": "I LIKE IT",
-            "artists": [
-                "Jarom Su'a",
-                "Nic D"
-            ],
-            "album": "I LIKE IT",
-            "played_at": "10/09/2024 - 21:44:29"
-        },
-        {
-            "song_name": "ay! (feat. Lil Wayne)",
-            "artists": [
-                "mgk",
-                "Lil Wayne"
-            ],
-            "album": "mainstream sellout",
-            "played_at": "10/09/2024 - 21:42:17"
-        },
-        {
-            "song_name": "High Heels - Whistle While You Twerk",
-            "artists": [
-                "Flo Rida",
-                "Walker Hayes",
-                "secs on the beach"
-            ],
-            "album": "High Heels (Whistle While You Twerk)",
-            "played_at": "10/09/2024 - 21:40:13"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Sunshine",
-            "played_at": "10/09/2024 - 21:37:29"
-        },
-        {
-            "song_name": "[Admire Her] (with Gunna)",
-            "artists": [
-                "Bas",
-                "Gunna"
-            ],
-            "album": "[BUMP] Pick Me Up",
-            "played_at": "10/09/2024 - 21:34:45"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "10/09/2024 - 21:32:07"
-        },
-        {
-            "song_name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
-            "artists": [
-                "Jack Harlow",
-                "Tory Lanez",
-                "DaBaby",
-                "Lil Wayne"
-            ],
-            "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-            "played_at": "10/09/2024 - 21:25:27"
         },
         {
             "song_name": "Tomorrow Never Comes",
