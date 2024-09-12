@@ -850,6 +850,14 @@
             "played_at": "10/09/2024 - 22:26:20"
         },
         {
+            "song_name": "Coal",
+            "artists": [
+                "Dylan Gossett"
+            ],
+            "album": "Coal",
+            "played_at": "12/09/2024 - 00:04:35"
+        },
+        {
             "song_name": "Tomorrow Never Comes",
             "artists": [
                 "Vicetone"
@@ -1264,14 +1272,6 @@
             ],
             "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
             "played_at": "10/09/2024 - 22:28:48"
-        },
-        {
-            "song_name": "Drop Top",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "UNI",
-            "played_at": "10/09/2024 - 22:26:20"
         },
         {
             "song_name": "Coal",
