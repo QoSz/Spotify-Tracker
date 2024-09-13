@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Midnight Macchiato",
+            "artists": [
+                "LoFi Waiter"
+            ],
+            "album": "Coffee Sunrise",
+            "played_at": "13/09/2024 - 15:35:39"
+        },
+        {
             "song_name": "Madrid",
             "artists": [
                 "Slumberville"
@@ -407,14 +415,6 @@
             ],
             "album": "a walk in the park",
             "played_at": "13/09/2024 - 12:59:26"
-        },
-        {
-            "song_name": "Fine line - Instrumental",
-            "artists": [
-                "Kapa Boy"
-            ],
-            "album": "Fine line (Instrumental)",
-            "played_at": "13/09/2024 - 12:58:14"
         },
         {
             "song_name": "Midnight Macchiato",
