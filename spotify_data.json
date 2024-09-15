@@ -2,417 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Underground",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "14/09/2024 - 21:57:28"
-        },
-        {
-            "song_name": "hang up",
-            "artists": [
-                "pettersson"
-            ],
-            "album": "not enough",
-            "played_at": "14/09/2024 - 21:55:41"
-        },
-        {
-            "song_name": "Going Back",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Going Back",
-            "played_at": "14/09/2024 - 21:54:21"
-        },
-        {
-            "song_name": "Cover Me In Sunshine",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Cover Me In Sunshine",
-            "played_at": "14/09/2024 - 21:52:20"
-        },
-        {
-            "song_name": "Downtown Dojo",
-            "artists": [
-                "Mujo",
-                "Mondo Loops"
-            ],
-            "album": "Downtown Dojo",
-            "played_at": "14/09/2024 - 21:50:25"
-        },
-        {
-            "song_name": "sand castles",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "corals 2",
-            "played_at": "14/09/2024 - 21:48:08"
-        },
-        {
-            "song_name": "Late Night",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Imagination",
-            "played_at": "14/09/2024 - 21:45:41"
-        },
-        {
-            "song_name": "Have Hope",
-            "artists": [
-                "Mondo Loops"
-            ],
-            "album": "Forest Tales",
-            "played_at": "14/09/2024 - 21:43:28"
-        },
-        {
-            "song_name": "Breath",
-            "artists": [
-                "Retro Jungle",
-                "Nohone"
-            ],
-            "album": "A Fall Journey",
-            "played_at": "14/09/2024 - 21:40:53"
-        },
-        {
-            "song_name": "Firefly",
-            "artists": [
-                "Laevi"
-            ],
-            "album": "Don't We Dance Lovely",
-            "played_at": "14/09/2024 - 21:38:18"
-        },
-        {
-            "song_name": "Killem",
-            "artists": [
-                "Stapes"
-            ],
-            "album": "Killem",
-            "played_at": "14/09/2024 - 21:37:14"
-        },
-        {
-            "song_name": "Winter Sun",
-            "artists": [
-                "Two Scents"
-            ],
-            "album": "Winter Sun",
-            "played_at": "14/09/2024 - 21:34:43"
-        },
-        {
-            "song_name": "Rosy Maple Moth",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Rosy Maple Moth",
-            "played_at": "14/09/2024 - 21:32:27"
-        },
-        {
-            "song_name": "Last Train Home",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "From the Outside",
-            "played_at": "14/09/2024 - 21:30:10"
-        },
-        {
-            "song_name": "It's Been Raining",
-            "artists": [
-                "Lost Son"
-            ],
-            "album": "You",
-            "played_at": "14/09/2024 - 21:28:00"
-        },
-        {
-            "song_name": "Autumns Day",
-            "artists": [
-                "Medafiziks"
-            ],
-            "album": "Autumns Day",
-            "played_at": "14/09/2024 - 21:26:59"
-        },
-        {
-            "song_name": "Listen to Your Heart",
-            "artists": [
-                "Silky",
-                "Wist",
-                "Side Effect"
-            ],
-            "album": "Listen to Your Heart",
-            "played_at": "14/09/2024 - 21:24:22"
-        },
-        {
-            "song_name": "Sorry",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Chillhop Essentials Fall 2019",
-            "played_at": "14/09/2024 - 21:22:10"
-        },
-        {
-            "song_name": "Opportunity",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "14/09/2024 - 21:19:50"
-        },
-        {
-            "song_name": "i'm not letting go",
-            "artists": [
-                "bearbare",
-                "IWL"
-            ],
-            "album": "i'm not letting go",
-            "played_at": "14/09/2024 - 21:18:17"
-        },
-        {
-            "song_name": "Stay Forever",
-            "artists": [
-                "Lost Son"
-            ],
-            "album": "Stay Forever",
-            "played_at": "14/09/2024 - 21:16:11"
-        },
-        {
-            "song_name": "Pebble Beach",
-            "artists": [
-                "imagiro"
-            ],
-            "album": "Places I Remember",
-            "played_at": "14/09/2024 - 21:13:57"
-        },
-        {
-            "song_name": "Laissez Faire",
-            "artists": [
-                "paris91"
-            ],
-            "album": "Laissez Faire",
-            "played_at": "14/09/2024 - 21:11:49"
-        },
-        {
-            "song_name": "hearts that melt",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "i need you friend",
-            "played_at": "14/09/2024 - 21:09:45"
-        },
-        {
-            "song_name": "Leap of faith",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "14/09/2024 - 21:07:39"
-        },
-        {
-            "song_name": "Mirrors",
-            "artists": [
-                "Chiccote's Beats",
-                "Mindeliq"
-            ],
-            "album": "Orchid Oceans",
-            "played_at": "14/09/2024 - 21:05:50"
-        },
-        {
-            "song_name": "iris",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "iris",
-            "played_at": "14/09/2024 - 21:03:34"
-        },
-        {
-            "song_name": "Life Moves Pretty Fast",
-            "artists": [
-                "Lost Son"
-            ],
-            "album": "You",
-            "played_at": "14/09/2024 - 21:00:56"
-        },
-        {
-            "song_name": "One Way Ticket",
-            "artists": [
-                "l'Outlander"
-            ],
-            "album": "One Way Ticket",
-            "played_at": "14/09/2024 - 20:59:40"
-        },
-        {
-            "song_name": "Wild",
-            "artists": [
-                "paris91"
-            ],
-            "album": "Wild",
-            "played_at": "14/09/2024 - 20:57:31"
-        },
-        {
-            "song_name": "Asakusa in April",
-            "artists": [
-                "Slumberville",
-                "Nathan Kawanishi"
-            ],
-            "album": "Asakusa in April",
-            "played_at": "14/09/2024 - 20:55:37"
-        },
-        {
-            "song_name": "Tumbling",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Reflection",
-            "played_at": "14/09/2024 - 20:53:50"
-        },
-        {
-            "song_name": "sinking",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "sinking",
-            "played_at": "14/09/2024 - 20:52:18"
-        },
-        {
-            "song_name": "See You Again",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "See You Again",
-            "played_at": "14/09/2024 - 20:50:35"
-        },
-        {
-            "song_name": "undone",
-            "artists": [
-                "eaup",
-                "ENRA"
-            ],
-            "album": "undone",
-            "played_at": "14/09/2024 - 20:47:46"
-        },
-        {
-            "song_name": "Solace",
-            "artists": [
-                "Hazue"
-            ],
-            "album": "Solace",
-            "played_at": "14/09/2024 - 20:45:42"
-        },
-        {
-            "song_name": "Kingston kindness",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "14/09/2024 - 20:43:26"
-        },
-        {
-            "song_name": "january",
-            "artists": [
-                "kokoro"
-            ],
-            "album": "Tranquil",
-            "played_at": "14/09/2024 - 20:41:27"
-        },
-        {
-            "song_name": "Inhale",
-            "artists": [
-                "Plant Guy"
-            ],
-            "album": "Inhale",
-            "played_at": "14/09/2024 - 20:38:50"
-        },
-        {
-            "song_name": "Hana",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "When You Forgive",
-            "played_at": "14/09/2024 - 20:37:11"
-        },
-        {
-            "song_name": "a way out",
-            "artists": [
-                "my head is empty",
-                "Miranda Rain"
-            ],
-            "album": "a way out",
-            "played_at": "14/09/2024 - 20:35:03"
-        },
-        {
-            "song_name": "as you are",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "as you are",
-            "played_at": "14/09/2024 - 20:32:48"
-        },
-        {
-            "song_name": "How to Plan a Vacation",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "How to Plan a Vacation",
-            "played_at": "14/09/2024 - 20:30:48"
-        },
-        {
-            "song_name": "Ww",
-            "artists": [
-                "Other Nothing"
-            ],
-            "album": "Not Songs",
-            "played_at": "14/09/2024 - 20:28:45"
-        },
-        {
-            "song_name": "Swimming",
-            "artists": [
-                "Flawed Mangoes"
-            ],
-            "album": "Swimming",
-            "played_at": "14/09/2024 - 20:27:12"
-        },
-        {
-            "song_name": "as the light fades",
-            "artists": [
-                "a vow"
-            ],
-            "album": "as the light fades",
-            "played_at": "14/09/2024 - 20:24:04"
-        },
-        {
-            "song_name": "hey ya",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "hey ya",
-            "played_at": "14/09/2024 - 20:21:46"
-        },
-        {
-            "song_name": "One",
-            "artists": [
-                "Miscél"
-            ],
-            "album": "One",
-            "played_at": "14/09/2024 - 20:20:04"
-        },
-        {
-            "song_name": "Vasteras",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "14/09/2024 - 20:18:32"
-        },
-        {
-            "song_name": "Lighter Side",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "What Will Be, Will Be",
-            "played_at": "14/09/2024 - 20:16:22"
-        },
-        {
             "song_name": "Remember",
             "artists": [
                 "Miscél"
@@ -1231,6 +820,418 @@
             ],
             "album": "Harmony",
             "played_at": "14/09/2024 - 22:15:58"
+        },
+        {
+            "song_name": "The Shift",
+            "artists": [
+                "paris91"
+            ],
+            "album": "The Shift",
+            "played_at": "15/09/2024 - 00:54:32"
+        },
+        {
+            "song_name": "Honolulu",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "14/09/2024 - 23:52:37"
+        },
+        {
+            "song_name": "The Muses",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Mirage",
+            "played_at": "14/09/2024 - 23:50:21"
+        },
+        {
+            "song_name": "Magic Rouge",
+            "artists": [
+                "Former Days"
+            ],
+            "album": "Memories of Tomorrow",
+            "played_at": "14/09/2024 - 23:48:27"
+        },
+        {
+            "song_name": "Whispering",
+            "artists": [
+                "Bumblebee",
+                "Silky",
+                "Wist"
+            ],
+            "album": "Whispering",
+            "played_at": "14/09/2024 - 23:46:09"
+        },
+        {
+            "song_name": "lilac days",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "twilight walks",
+            "played_at": "14/09/2024 - 23:44:17"
+        },
+        {
+            "song_name": "Formless Gift",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "14/09/2024 - 23:42:47"
+        },
+        {
+            "song_name": "Watermelon Sugar (Instrumental Version)",
+            "artists": [
+                "suroboi",
+                "Chill Jam",
+                "soave lofi"
+            ],
+            "album": "Watermelon Sugar",
+            "played_at": "14/09/2024 - 23:40:52"
+        },
+        {
+            "song_name": "Saloony",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "14/09/2024 - 23:37:50"
+        },
+        {
+            "song_name": "life, on hold",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "life, on hold",
+            "played_at": "14/09/2024 - 23:35:35"
+        },
+        {
+            "song_name": "The Way Home",
+            "artists": [
+                "kokoro"
+            ],
+            "album": "The Way Home",
+            "played_at": "14/09/2024 - 23:34:07"
+        },
+        {
+            "song_name": "Quiet After the Storm",
+            "artists": [
+                "Raimu"
+            ],
+            "album": "Quiet After the Storm",
+            "played_at": "14/09/2024 - 23:31:28"
+        },
+        {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "14/09/2024 - 23:29:51"
+        },
+        {
+            "song_name": "thoughts",
+            "artists": [
+                "im.fine"
+            ],
+            "album": "thoughts",
+            "played_at": "14/09/2024 - 23:28:07"
+        },
+        {
+            "song_name": "Fog",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Mirage",
+            "played_at": "14/09/2024 - 23:25:47"
+        },
+        {
+            "song_name": "Crickets in My Backyard",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "14/09/2024 - 23:23:37"
+        },
+        {
+            "song_name": "Grounded.",
+            "artists": [
+                "Intoku"
+            ],
+            "album": "Grounded.",
+            "played_at": "14/09/2024 - 23:21:13"
+        },
+        {
+            "song_name": "Cooper Lake",
+            "artists": [
+                "Kyle McEvoy",
+                "Ezzy",
+                "The Field Tapes"
+            ],
+            "album": "Cooper Lake",
+            "played_at": "14/09/2024 - 23:18:47"
+        },
+        {
+            "song_name": "Spring Break",
+            "artists": [
+                "imagiro",
+                "Devon Rea",
+                "Funcc."
+            ],
+            "album": "Spring Break",
+            "played_at": "14/09/2024 - 23:16:59"
+        },
+        {
+            "song_name": "coffee break",
+            "artists": [
+                "im.fine"
+            ],
+            "album": "changes, Vol. 1",
+            "played_at": "14/09/2024 - 23:15:17"
+        },
+        {
+            "song_name": "Self",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "14/09/2024 - 23:14:09"
+        },
+        {
+            "song_name": "yellow days",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "yellow days",
+            "played_at": "14/09/2024 - 23:11:44"
+        },
+        {
+            "song_name": "Oceans",
+            "artists": [
+                "kokoro"
+            ],
+            "album": "Oceans",
+            "played_at": "14/09/2024 - 23:10:09"
+        },
+        {
+            "song_name": "Hour and half",
+            "artists": [
+                "Lunatic Sad"
+            ],
+            "album": "Hour and half",
+            "played_at": "14/09/2024 - 23:07:47"
+        },
+        {
+            "song_name": "Goodnight",
+            "artists": [
+                "Glimlip",
+                "eaup"
+            ],
+            "album": "Goodnight",
+            "played_at": "14/09/2024 - 23:06:07"
+        },
+        {
+            "song_name": "Backyard Stories",
+            "artists": [
+                "Sum Wave"
+            ],
+            "album": "Backyard Stories — Summer Forever",
+            "played_at": "14/09/2024 - 23:04:16"
+        },
+        {
+            "song_name": "Breeze",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "14/09/2024 - 23:01:09"
+        },
+        {
+            "song_name": "soft breeze",
+            "artists": [
+                "oofoe"
+            ],
+            "album": "winter hut",
+            "played_at": "14/09/2024 - 22:59:39"
+        },
+        {
+            "song_name": "Remember",
+            "artists": [
+                "Miscél"
+            ],
+            "album": "Late Night Vibes 4",
+            "played_at": "14/09/2024 - 22:57:59"
+        },
+        {
+            "song_name": "Upset (hold it in)",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Reflection",
+            "played_at": "14/09/2024 - 22:56:13"
+        },
+        {
+            "song_name": "Homeland",
+            "artists": [
+                "l'Outlander"
+            ],
+            "album": "Homeland",
+            "played_at": "14/09/2024 - 22:54:27"
+        },
+        {
+            "song_name": "numb",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "ambient vol 3",
+            "played_at": "14/09/2024 - 22:52:20"
+        },
+        {
+            "song_name": "Madrid",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "14/09/2024 - 22:50:38"
+        },
+        {
+            "song_name": "coconut tree",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "14/09/2024 - 22:49:15"
+        },
+        {
+            "song_name": "Ancient Map",
+            "artists": [
+                "Mondo Loops"
+            ],
+            "album": "Forest Kingdom",
+            "played_at": "14/09/2024 - 22:47:31"
+        },
+        {
+            "song_name": "blurred drmzz",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "twilight walks",
+            "played_at": "14/09/2024 - 22:45:10"
+        },
+        {
+            "song_name": "Mojave Backyard",
+            "artists": [
+                "HM Surf"
+            ],
+            "album": "Pool Days",
+            "played_at": "14/09/2024 - 22:43:45"
+        },
+        {
+            "song_name": "Butterfly",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Escapade",
+            "played_at": "14/09/2024 - 22:41:44"
+        },
+        {
+            "song_name": "Buoyant",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "14/09/2024 - 22:39:01"
+        },
+        {
+            "song_name": "When You Return",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "14/09/2024 - 22:37:14"
+        },
+        {
+            "song_name": "Shades Of Blue",
+            "artists": [
+                "Study Buddy"
+            ],
+            "album": "Shades Of Blue",
+            "played_at": "14/09/2024 - 22:36:12"
+        },
+        {
+            "song_name": "Move On",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "What Will Be, Will Be",
+            "played_at": "14/09/2024 - 22:34:51"
+        },
+        {
+            "song_name": "Hello",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "14/09/2024 - 22:32:48"
+        },
+        {
+            "song_name": "Feeling Lost",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Reflection",
+            "played_at": "14/09/2024 - 22:30:19"
+        },
+        {
+            "song_name": "Bye Berlin",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "14/09/2024 - 22:28:12"
+        },
+        {
+            "song_name": "snowfall",
+            "artists": [
+                "Øneheart",
+                "reidenshi"
+            ],
+            "album": "snowfall",
+            "played_at": "14/09/2024 - 22:26:13"
+        },
+        {
+            "song_name": "Alive",
+            "artists": [
+                "Ouska"
+            ],
+            "album": "Alive",
+            "played_at": "14/09/2024 - 22:24:09"
+        },
+        {
+            "song_name": "Samurai's Dream",
+            "artists": [
+                "Raimu"
+            ],
+            "album": "Sons of the Dew",
+            "played_at": "14/09/2024 - 22:21:42"
+        },
+        {
+            "song_name": "Last Summer",
+            "artists": [
+                "Retro Jungle",
+                "Hoogway"
+            ],
+            "album": "Summer Vibes",
+            "played_at": "14/09/2024 - 22:19:24"
+        },
+        {
+            "song_name": "Protected",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Escapade",
+            "played_at": "14/09/2024 - 22:17:18"
         },
         {
             "song_name": "The Shift",
