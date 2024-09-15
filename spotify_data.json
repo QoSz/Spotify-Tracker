@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "The Shift",
+            "artists": [
+                "paris91"
+            ],
+            "album": "The Shift",
+            "played_at": "15/09/2024 - 00:54:32"
+        },
+        {
             "song_name": "Honolulu",
             "artists": [
                 "Slumberville"
@@ -404,14 +412,6 @@
             ],
             "album": "Escapade",
             "played_at": "14/09/2024 - 22:17:18"
-        },
-        {
-            "song_name": "Gullfoss",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Harmony",
-            "played_at": "14/09/2024 - 22:15:58"
         },
         {
             "song_name": "The Shift",
