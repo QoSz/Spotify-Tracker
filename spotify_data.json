@@ -2,426 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "lilac days",
-            "artists": [
-                ".clouds"
-            ],
-            "album": "twilight walks",
-            "played_at": "17/09/2024 - 22:58:09"
-        },
-        {
-            "song_name": "Lighter Side",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "What Will Be, Will Be",
-            "played_at": "17/09/2024 - 22:56:39"
-        },
-        {
-            "song_name": "Spring Break",
-            "artists": [
-                "imagiro",
-                "Devon Rea",
-                "Funcc."
-            ],
-            "album": "Spring Break",
-            "played_at": "17/09/2024 - 22:54:38"
-        },
-        {
-            "song_name": "Jasmine",
-            "artists": [
-                "C4C",
-                "T.Lion"
-            ],
-            "album": "Jasmine",
-            "played_at": "17/09/2024 - 22:52:56"
-        },
-        {
-            "song_name": "young folks",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "young folks",
-            "played_at": "17/09/2024 - 22:50:25"
-        },
-        {
-            "song_name": "Going Nowhere",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "From the Outside",
-            "played_at": "17/09/2024 - 22:47:57"
-        },
-        {
-            "song_name": "Love",
-            "artists": [
-                "Miscél"
-            ],
-            "album": "The Other Side",
-            "played_at": "17/09/2024 - 22:45:41"
-        },
-        {
-            "song_name": "Two little birds",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "Treehouses",
-            "played_at": "17/09/2024 - 22:44:01"
-        },
-        {
-            "song_name": "Perspective",
-            "artists": [
-                "Barnes Blvd."
-            ],
-            "album": "Chillhop Daydreams",
-            "played_at": "17/09/2024 - 22:42:32"
-        },
-        {
-            "song_name": "january",
-            "artists": [
-                "kokoro"
-            ],
-            "album": "Tranquil",
-            "played_at": "17/09/2024 - 22:40:52"
-        },
-        {
-            "song_name": "lazy",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "lazy",
-            "played_at": "17/09/2024 - 22:38:15"
-        },
-        {
-            "song_name": "Alone in the Rain",
-            "artists": [
-                "C4C"
-            ],
-            "album": "Alone in the Rain",
-            "played_at": "17/09/2024 - 22:35:57"
-        },
-        {
-            "song_name": "Don't Look Back",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "From the Outside",
-            "played_at": "17/09/2024 - 22:33:28"
-        },
-        {
-            "song_name": "Heat Waves",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Heat Waves",
-            "played_at": "17/09/2024 - 22:31:04"
-        },
-        {
-            "song_name": "What a Great Feeling",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Harmony",
-            "played_at": "17/09/2024 - 22:28:56"
-        },
-        {
-            "song_name": "Inhale",
-            "artists": [
-                "Plant Guy"
-            ],
-            "album": "Inhale",
-            "played_at": "17/09/2024 - 22:26:44"
-        },
-        {
-            "song_name": "you're not lost",
-            "artists": [
-                "eaup",
-                "Hz."
-            ],
-            "album": "you're not lost",
-            "played_at": "17/09/2024 - 22:25:05"
-        },
-        {
-            "song_name": "as you are",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "as you are",
-            "played_at": "17/09/2024 - 22:22:37"
-        },
-        {
-            "song_name": "See You Later",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "On My Way",
-            "played_at": "17/09/2024 - 22:20:38"
-        },
-        {
-            "song_name": "Sunny Day In August",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Peaceful Melodies for Studying",
-            "played_at": "17/09/2024 - 22:18:55"
-        },
-        {
-            "song_name": "hearts that melt",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "i need you friend",
-            "played_at": "17/09/2024 - 22:16:34"
-        },
-        {
-            "song_name": "Solace",
-            "artists": [
-                "Hazue"
-            ],
-            "album": "Solace",
-            "played_at": "17/09/2024 - 22:14:27"
-        },
-        {
-            "song_name": "Turbulence",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Solitude",
-            "played_at": "17/09/2024 - 22:12:12"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Ouska"
-            ],
-            "album": "Alive",
-            "played_at": "17/09/2024 - 22:10:17"
-        },
-        {
-            "song_name": "Atlantis",
-            "artists": [
-                "Chiccote's Beats"
-            ],
-            "album": "Atlantis",
-            "played_at": "17/09/2024 - 22:07:50"
-        },
-        {
-            "song_name": "I Like Me Better",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "I Like Me Better",
-            "played_at": "17/09/2024 - 22:06:18"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 22:02:23"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:59:27"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:56:31"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:53:35"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:50:39"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:47:43"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:44:47"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:41:51"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:38:55"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:35:59"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:33:03"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:30:07"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "17/09/2024 - 21:27:11"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:24:08"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:22:21"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:20:27"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:18:32"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:16:38"
-        },
-        {
-            "song_name": "Catch a Vibe",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "17/09/2024 - 21:14:43"
-        },
-        {
-            "song_name": "Solo - Sped Up + Instrumental",
-            "artists": [
-                "dopuu"
-            ],
-            "album": "Solo - Sped Up + Instrumental",
-            "played_at": "17/09/2024 - 21:12:18"
-        },
-        {
-            "song_name": "Solo - Sped Up + Instrumental",
-            "artists": [
-                "dopuu"
-            ],
-            "album": "Solo - Sped Up + Instrumental",
-            "played_at": "17/09/2024 - 21:08:14"
-        },
-        {
-            "song_name": "Solo - Sped Up + Instrumental",
-            "artists": [
-                "dopuu"
-            ],
-            "album": "Solo - Sped Up + Instrumental",
-            "played_at": "17/09/2024 - 21:04:09"
-        },
-        {
-            "song_name": "Solo - Sped Up + Instrumental",
-            "artists": [
-                "dopuu"
-            ],
-            "album": "Solo - Sped Up + Instrumental",
-            "played_at": "17/09/2024 - 21:00:04"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "17/09/2024 - 20:55:32"
-        },
-        {
             "song_name": "Grace",
             "artists": [
                 "Kasper Lindmark"
@@ -831,6 +411,416 @@
             ],
             "album": "you're not lost",
             "played_at": "17/09/2024 - 22:25:05"
+        },
+        {
+            "song_name": "Gullfoss",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Harmony",
+            "played_at": "18/09/2024 - 01:03:58"
+        },
+        {
+            "song_name": "sinking",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "sinking",
+            "played_at": "18/09/2024 - 00:02:33"
+        },
+        {
+            "song_name": "Butterfly",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Escapade",
+            "played_at": "18/09/2024 - 00:00:50"
+        },
+        {
+            "song_name": "Grace",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "17/09/2024 - 23:58:07"
+        },
+        {
+            "song_name": "i was only temporary 2 u",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "i was only temporary 2 u",
+            "played_at": "17/09/2024 - 23:57:14"
+        },
+        {
+            "song_name": "i should probably get moving",
+            "artists": [
+                "boxboys"
+            ],
+            "album": "together",
+            "played_at": "17/09/2024 - 23:55:38"
+        },
+        {
+            "song_name": "Falling Down",
+            "artists": [
+                "Bumblebee",
+                "Side Effect",
+                "Supine"
+            ],
+            "album": "Falling Down",
+            "played_at": "17/09/2024 - 23:53:23"
+        },
+        {
+            "song_name": "Kingston kindness",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "17/09/2024 - 23:51:25"
+        },
+        {
+            "song_name": "Stay With Me",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "Stay With Me",
+            "played_at": "17/09/2024 - 23:49:27"
+        },
+        {
+            "song_name": "it's been a while",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "it's getting colder",
+            "played_at": "17/09/2024 - 23:47:21"
+        },
+        {
+            "song_name": "boulevard nights",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "boulevard nights",
+            "played_at": "17/09/2024 - 23:46:18"
+        },
+        {
+            "song_name": "Far Away",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Escapade",
+            "played_at": "17/09/2024 - 23:44:51"
+        },
+        {
+            "song_name": "New Homeland",
+            "artists": [
+                "C4C"
+            ],
+            "album": "The Pursuit of Simplicity EP",
+            "played_at": "17/09/2024 - 23:43:04"
+        },
+        {
+            "song_name": "Move On",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "What Will Be, Will Be",
+            "played_at": "17/09/2024 - 23:41:05"
+        },
+        {
+            "song_name": "End of the Night",
+            "artists": [
+                "Slumberville",
+                "Jon Bryant"
+            ],
+            "album": "End of the Night",
+            "played_at": "17/09/2024 - 23:39:02"
+        },
+        {
+            "song_name": "It's Been Raining",
+            "artists": [
+                "Lost Son"
+            ],
+            "album": "You",
+            "played_at": "17/09/2024 - 23:36:48"
+        },
+        {
+            "song_name": "A Letter in Summer",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "A Letter by the Lake",
+            "played_at": "17/09/2024 - 23:35:47"
+        },
+        {
+            "song_name": "A Forgotten Place",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "17/09/2024 - 23:34:06"
+        },
+        {
+            "song_name": "Dozing.",
+            "artists": [
+                "Just Big Hills"
+            ],
+            "album": "Stay With Me",
+            "played_at": "17/09/2024 - 23:32:05"
+        },
+        {
+            "song_name": "surfs up",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "17/09/2024 - 23:30:53"
+        },
+        {
+            "song_name": "Adieu",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "17/09/2024 - 23:29:06"
+        },
+        {
+            "song_name": "The Muses",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Mirage",
+            "played_at": "17/09/2024 - 23:26:52"
+        },
+        {
+            "song_name": "We Had Plans",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "Tea for Two",
+            "played_at": "17/09/2024 - 23:24:58"
+        },
+        {
+            "song_name": "Full Bloom",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "From the Outside",
+            "played_at": "17/09/2024 - 23:24:03"
+        },
+        {
+            "song_name": "Grounded.",
+            "artists": [
+                "Intoku"
+            ],
+            "album": "Grounded.",
+            "played_at": "17/09/2024 - 23:22:06"
+        },
+        {
+            "song_name": "riptide",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "17/09/2024 - 23:19:40"
+        },
+        {
+            "song_name": "Skip Town",
+            "artists": [
+                "C4C"
+            ],
+            "album": "The Pursuit of Simplicity EP",
+            "played_at": "17/09/2024 - 23:17:42"
+        },
+        {
+            "song_name": "Artwork in Amsterdam",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "17/09/2024 - 23:15:29"
+        },
+        {
+            "song_name": "Thinning",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "Thinning",
+            "played_at": "17/09/2024 - 23:14:00"
+        },
+        {
+            "song_name": "Crickets in My Backyard",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "17/09/2024 - 23:12:09"
+        },
+        {
+            "song_name": "Last Summer",
+            "artists": [
+                "Retro Jungle",
+                "Hoogway"
+            ],
+            "album": "Summer Vibes",
+            "played_at": "17/09/2024 - 23:09:45"
+        },
+        {
+            "song_name": "pinocoladas",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "17/09/2024 - 23:07:38"
+        },
+        {
+            "song_name": "Stay Forever",
+            "artists": [
+                "Lost Son"
+            ],
+            "album": "Stay Forever",
+            "played_at": "17/09/2024 - 23:06:02"
+        },
+        {
+            "song_name": "Hello",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "17/09/2024 - 23:03:48"
+        },
+        {
+            "song_name": "Are You Leaving",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "Tea for Two",
+            "played_at": "17/09/2024 - 23:01:19"
+        },
+        {
+            "song_name": "Formless Gift",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "17/09/2024 - 23:00:04"
+        },
+        {
+            "song_name": "lilac days",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "twilight walks",
+            "played_at": "17/09/2024 - 22:58:09"
+        },
+        {
+            "song_name": "Lighter Side",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "What Will Be, Will Be",
+            "played_at": "17/09/2024 - 22:56:39"
+        },
+        {
+            "song_name": "Spring Break",
+            "artists": [
+                "imagiro",
+                "Devon Rea",
+                "Funcc."
+            ],
+            "album": "Spring Break",
+            "played_at": "17/09/2024 - 22:54:38"
+        },
+        {
+            "song_name": "Jasmine",
+            "artists": [
+                "C4C",
+                "T.Lion"
+            ],
+            "album": "Jasmine",
+            "played_at": "17/09/2024 - 22:52:56"
+        },
+        {
+            "song_name": "young folks",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "young folks",
+            "played_at": "17/09/2024 - 22:50:25"
+        },
+        {
+            "song_name": "Going Nowhere",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "From the Outside",
+            "played_at": "17/09/2024 - 22:47:57"
+        },
+        {
+            "song_name": "Love",
+            "artists": [
+                "Miscél"
+            ],
+            "album": "The Other Side",
+            "played_at": "17/09/2024 - 22:45:41"
+        },
+        {
+            "song_name": "Two little birds",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "Treehouses",
+            "played_at": "17/09/2024 - 22:44:01"
+        },
+        {
+            "song_name": "Perspective",
+            "artists": [
+                "Barnes Blvd."
+            ],
+            "album": "Chillhop Daydreams",
+            "played_at": "17/09/2024 - 22:42:32"
+        },
+        {
+            "song_name": "january",
+            "artists": [
+                "kokoro"
+            ],
+            "album": "Tranquil",
+            "played_at": "17/09/2024 - 22:40:52"
+        },
+        {
+            "song_name": "lazy",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "lazy",
+            "played_at": "17/09/2024 - 22:38:15"
+        },
+        {
+            "song_name": "Alone in the Rain",
+            "artists": [
+                "C4C"
+            ],
+            "album": "Alone in the Rain",
+            "played_at": "17/09/2024 - 22:35:57"
+        },
+        {
+            "song_name": "Don't Look Back",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "From the Outside",
+            "played_at": "17/09/2024 - 22:33:28"
+        },
+        {
+            "song_name": "Heat Waves",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Heat Waves",
+            "played_at": "17/09/2024 - 22:31:04"
         },
         {
             "song_name": "Gullfoss",
