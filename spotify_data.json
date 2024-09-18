@@ -2,6 +2,30 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Gullfoss",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Harmony",
+            "played_at": "18/09/2024 - 01:03:58"
+        },
+        {
+            "song_name": "sinking",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "sinking",
+            "played_at": "18/09/2024 - 00:02:33"
+        },
+        {
+            "song_name": "Butterfly",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Escapade",
+            "played_at": "18/09/2024 - 00:00:50"
+        },
+        {
             "song_name": "Grace",
             "artists": [
                 "Kasper Lindmark"
@@ -386,31 +410,6 @@
             ],
             "album": "Heat Waves",
             "played_at": "17/09/2024 - 22:31:04"
-        },
-        {
-            "song_name": "What a Great Feeling",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Harmony",
-            "played_at": "17/09/2024 - 22:28:56"
-        },
-        {
-            "song_name": "Inhale",
-            "artists": [
-                "Plant Guy"
-            ],
-            "album": "Inhale",
-            "played_at": "17/09/2024 - 22:26:44"
-        },
-        {
-            "song_name": "you're not lost",
-            "artists": [
-                "eaup",
-                "Hz."
-            ],
-            "album": "you're not lost",
-            "played_at": "17/09/2024 - 22:25:05"
         },
         {
             "song_name": "Gullfoss",
