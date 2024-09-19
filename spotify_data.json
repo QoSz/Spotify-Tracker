@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "19/09/2024 - 15:43:11"
+        },
+        {
             "song_name": "Moonlight",
             "artists": [
                 "Thunder"
@@ -403,15 +411,6 @@
             ],
             "album": "Stay Forever",
             "played_at": "17/09/2024 - 23:06:02"
-        },
-        {
-            "song_name": "Hello",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "17/09/2024 - 23:03:48"
         },
         {
             "song_name": "Sunbeams",
