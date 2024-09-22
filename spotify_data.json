@@ -2,6 +2,148 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Artificial Paradise (Deluxe)",
+            "played_at": "21/09/2024 - 21:45:45"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "21/09/2024 - 20:42:02"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "21/09/2024 - 20:38:53"
+        },
+        {
+            "song_name": "Move Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Move Me",
+            "played_at": "21/09/2024 - 20:36:17"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "21/09/2024 - 20:33:57"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "21/09/2024 - 20:30:07"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "21/09/2024 - 20:26:51"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "21/09/2024 - 20:23:02"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "21/09/2024 - 20:20:45"
+        },
+        {
+            "song_name": "Too Good",
+            "artists": [
+                "Drake",
+                "Rihanna"
+            ],
+            "album": "Views",
+            "played_at": "21/09/2024 - 20:18:48"
+        },
+        {
+            "song_name": "Feeling For You",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "21/09/2024 - 20:14:31"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "21/09/2024 - 20:10:55"
+        },
+        {
+            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "artists": [
+                "VAVO",
+                "Tyler Mann",
+                "DJ PRESS PLAY"
+            ],
+            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "played_at": "21/09/2024 - 20:08:07"
+        },
+        {
+            "song_name": "Peru",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran"
+            ],
+            "album": "Playboy",
+            "played_at": "21/09/2024 - 20:05:33"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "21/09/2024 - 20:02:32"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "21/09/2024 - 20:00:12"
+        },
+        {
             "song_name": "Afraid To Feel",
             "artists": [
                 "LF SYSTEM"
@@ -284,136 +426,6 @@
             ],
             "album": "Escapade",
             "played_at": "17/09/2024 - 23:44:51"
-        },
-        {
-            "song_name": "New Homeland",
-            "artists": [
-                "C4C"
-            ],
-            "album": "The Pursuit of Simplicity EP",
-            "played_at": "17/09/2024 - 23:43:04"
-        },
-        {
-            "song_name": "Move On",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "What Will Be, Will Be",
-            "played_at": "17/09/2024 - 23:41:05"
-        },
-        {
-            "song_name": "End of the Night",
-            "artists": [
-                "Slumberville",
-                "Jon Bryant"
-            ],
-            "album": "End of the Night",
-            "played_at": "17/09/2024 - 23:39:02"
-        },
-        {
-            "song_name": "It's Been Raining",
-            "artists": [
-                "Lost Son"
-            ],
-            "album": "You",
-            "played_at": "17/09/2024 - 23:36:48"
-        },
-        {
-            "song_name": "A Letter in Summer",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "A Letter by the Lake",
-            "played_at": "17/09/2024 - 23:35:47"
-        },
-        {
-            "song_name": "A Forgotten Place",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "On My Way",
-            "played_at": "17/09/2024 - 23:34:06"
-        },
-        {
-            "song_name": "Dozing.",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "Stay With Me",
-            "played_at": "17/09/2024 - 23:32:05"
-        },
-        {
-            "song_name": "surfs up",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "corals 3",
-            "played_at": "17/09/2024 - 23:30:53"
-        },
-        {
-            "song_name": "Adieu",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "17/09/2024 - 23:29:06"
-        },
-        {
-            "song_name": "The Muses",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Mirage",
-            "played_at": "17/09/2024 - 23:26:52"
-        },
-        {
-            "song_name": "We Had Plans",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "Tea for Two",
-            "played_at": "17/09/2024 - 23:24:58"
-        },
-        {
-            "song_name": "Full Bloom",
-            "artists": [
-                "Creative Self"
-            ],
-            "album": "From the Outside",
-            "played_at": "17/09/2024 - 23:24:03"
-        },
-        {
-            "song_name": "Grounded.",
-            "artists": [
-                "Intoku"
-            ],
-            "album": "Grounded.",
-            "played_at": "17/09/2024 - 23:22:06"
-        },
-        {
-            "song_name": "riptide",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "corals 3",
-            "played_at": "17/09/2024 - 23:19:40"
-        },
-        {
-            "song_name": "Skip Town",
-            "artists": [
-                "C4C"
-            ],
-            "album": "The Pursuit of Simplicity EP",
-            "played_at": "17/09/2024 - 23:17:42"
-        },
-        {
-            "song_name": "Artwork in Amsterdam",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "17/09/2024 - 23:15:29"
         },
         {
             "song_name": "I Ain't Worried",
