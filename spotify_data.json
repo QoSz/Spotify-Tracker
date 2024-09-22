@@ -1280,6 +1280,47 @@
             "played_at": "17/09/2024 - 23:44:51"
         },
         {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "22/09/2024 - 18:59:07"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "22/09/2024 - 18:56:06"
+        },
+        {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "22/09/2024 - 18:53:31"
+        },
+        {
+            "song_name": "Chase The Sun",
+            "artists": [
+                "Braaten"
+            ],
+            "album": "Chase The Sun",
+            "played_at": "22/09/2024 - 18:51:04"
+        },
+        {
+            "song_name": "Live a Lie",
+            "artists": [
+                "Thunder",
+                "ODBLU"
+            ],
+            "album": "Live a Lie",
+            "played_at": "22/09/2024 - 18:44:20"
+        },
+        {
             "song_name": "I Ain't Worried",
             "artists": [
                 "OneRepublic"
@@ -1664,46 +1705,6 @@
             ],
             "album": "Falling Down",
             "played_at": "17/09/2024 - 23:53:23"
-        },
-        {
-            "song_name": "Kingston kindness",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "17/09/2024 - 23:51:25"
-        },
-        {
-            "song_name": "Stay With Me",
-            "artists": [
-                "Just Big Hills"
-            ],
-            "album": "Stay With Me",
-            "played_at": "17/09/2024 - 23:49:27"
-        },
-        {
-            "song_name": "it's been a while",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "it's getting colder",
-            "played_at": "17/09/2024 - 23:47:21"
-        },
-        {
-            "song_name": "boulevard nights",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "boulevard nights",
-            "played_at": "17/09/2024 - 23:46:18"
-        },
-        {
-            "song_name": "Far Away",
-            "artists": [
-                "Swørn"
-            ],
-            "album": "Escapade",
-            "played_at": "17/09/2024 - 23:44:51"
         }
     ]
 }
