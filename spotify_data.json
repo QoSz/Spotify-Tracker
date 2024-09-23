@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Gonna Need Ya",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "Rachelle Jenkens"
+            ],
+            "album": "Gonna Need Ya",
+            "played_at": "22/09/2024 - 21:01:55"
+        },
+        {
             "song_name": "Waiting",
             "artists": [
                 "Moonkids"
@@ -431,15 +441,6 @@
             ],
             "album": "Saturday Night (Feel The Groove)",
             "played_at": "21/09/2024 - 19:49:30"
-        },
-        {
-            "song_name": "Words (feat. Zara Larsson)",
-            "artists": [
-                "Alesso",
-                "Zara Larsson"
-            ],
-            "album": "Words (feat. Zara Larsson)",
-            "played_at": "21/09/2024 - 19:47:02"
         },
         {
             "song_name": "Gonna Need Ya",
