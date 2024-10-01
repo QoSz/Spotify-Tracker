@@ -2,425 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "27/09/2024 - 22:57:35"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "27/09/2024 - 22:54:01"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "27/09/2024 - 22:51:17"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "27/09/2024 - 22:49:03"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 22:46:27"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "27/09/2024 - 22:43:35"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "27/09/2024 - 22:41:00"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "27/09/2024 - 21:42:42"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "27/09/2024 - 21:40:22"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 21:37:39"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "27/09/2024 - 21:34:41"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "27/09/2024 - 21:31:58"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 21:26:09"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 21:23:11"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 21:20:13"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 21:17:15"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "27/09/2024 - 14:51:24"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "27/09/2024 - 14:51:24"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "27/09/2024 - 14:26:09"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "27/09/2024 - 14:23:55"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 14:21:19"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 09:50:22"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "27/09/2024 - 08:55:03"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "27/09/2024 - 08:43:34"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "27/09/2024 - 08:40:58"
-        },
-        {
-            "song_name": "ten",
-            "artists": [
-                "Fred again..",
-                "Jozzy",
-                "Jim Legxacy"
-            ],
-            "album": "ten",
-            "played_at": "26/09/2024 - 18:33:54"
-        },
-        {
-            "song_name": "fukumean",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "a Gift & a Curse",
-            "played_at": "25/09/2024 - 01:31:15"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/09/2024 - 01:15:47"
-        },
-        {
-            "song_name": "Codeine Crazy",
-            "artists": [
-                "Future"
-            ],
-            "album": "Monster",
-            "played_at": "25/09/2024 - 01:12:05"
-        },
-        {
-            "song_name": "Break from Toronto",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR",
-            "played_at": "25/09/2024 - 01:06:25"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "25/09/2024 - 01:00:56"
-        },
-        {
-            "song_name": "505",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "Favourite Worst Nightmare",
-            "played_at": "25/09/2024 - 00:54:22"
-        },
-        {
-            "song_name": "Bad Habit",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Bad Habit",
-            "played_at": "25/09/2024 - 00:50:18"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "25/09/2024 - 00:08:26"
-        },
-        {
-            "song_name": "Hell N Back",
-            "artists": [
-                "Bakar"
-            ],
-            "album": "Hell N Back (Sped Up)",
-            "played_at": "24/09/2024 - 23:57:32"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "24/09/2024 - 23:54:05"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "24/09/2024 - 23:49:44"
-        },
-        {
-            "song_name": "Hell N Back",
-            "artists": [
-                "Bakar"
-            ],
-            "album": "Hell N Back (Sped Up)",
-            "played_at": "24/09/2024 - 23:46:00"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "24/09/2024 - 23:42:32"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "24/09/2024 - 23:40:30"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "24/09/2024 - 23:37:19"
-        },
-        {
-            "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Lil Tecca",
-                "The Kid LAROI",
-                "Lil Skies"
-            ],
-            "album": "All Is Yellow",
-            "played_at": "24/09/2024 - 23:33:43"
-        },
-        {
-            "song_name": "Trance (with Travis Scott & Young Thug)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Young Thug"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "24/09/2024 - 23:31:01"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "24/09/2024 - 23:27:52"
-        },
-        {
-            "song_name": "Runnin",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "24/09/2024 - 23:23:57"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "24/09/2024 - 23:20:47"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "24/09/2024 - 23:17:11"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "24/09/2024 - 23:14:00"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "24/09/2024 - 23:10:06"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "24/09/2024 - 23:08:02"
-        },
-        {
             "song_name": "Sativa",
             "artists": [
                 "Jhené Aiko",
@@ -839,6 +420,435 @@
             ],
             "album": "Oracular Spectacular",
             "played_at": "25/09/2024 - 00:08:26"
+        },
+        {
+            "song_name": "Moi",
+            "artists": [
+                "Central Cee",
+                "RAYE"
+            ],
+            "album": "Moi",
+            "played_at": "30/09/2024 - 15:15:06"
+        },
+        {
+            "song_name": "From The Start",
+            "artists": [
+                "Laufey"
+            ],
+            "album": "Bewitched",
+            "played_at": "29/09/2024 - 13:18:41"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "29/09/2024 - 13:00:40"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "29/09/2024 - 12:48:05"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "29/09/2024 - 12:43:57"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "29/09/2024 - 12:39:09"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "29/09/2024 - 12:36:23"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "29/09/2024 - 12:31:57"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "29/09/2024 - 12:30:36"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "29/09/2024 - 12:26:42"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "29/09/2024 - 12:18:07"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "29/09/2024 - 12:15:46"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "29/09/2024 - 12:13:04"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "28/09/2024 - 14:48:48"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "28/09/2024 - 14:12:53"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "28/09/2024 - 13:56:41"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "28/09/2024 - 13:55:20"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "28/09/2024 - 13:41:58"
+        },
+        {
+            "song_name": "From The Start",
+            "artists": [
+                "Laufey"
+            ],
+            "album": "Bewitched",
+            "played_at": "28/09/2024 - 13:39:40"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "28/09/2024 - 13:34:50"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "28/09/2024 - 11:03:35"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "28/09/2024 - 10:54:03"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "28/09/2024 - 10:43:41"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "28/09/2024 - 10:41:27"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "28/09/2024 - 10:38:51"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "28/09/2024 - 00:08:44"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "28/09/2024 - 00:07:47"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "28/09/2024 - 00:05:00"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "28/09/2024 - 00:00:56"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "27/09/2024 - 23:57:50"
+        },
+        {
+            "song_name": "Bad (feat. Rihanna) - Remix",
+            "artists": [
+                "Wale",
+                "Rihanna"
+            ],
+            "album": "The Gifted",
+            "played_at": "27/09/2024 - 23:53:19"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "27/09/2024 - 23:49:17"
+        },
+        {
+            "song_name": "Bad (feat. Rihanna) - Remix",
+            "artists": [
+                "Wale",
+                "Rihanna"
+            ],
+            "album": "The Gifted",
+            "played_at": "27/09/2024 - 23:44:46"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "27/09/2024 - 23:38:39"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "27/09/2024 - 23:36:18"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "27/09/2024 - 23:33:04"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "27/09/2024 - 23:31:24"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "27/09/2024 - 23:24:00"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "27/09/2024 - 23:21:23"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "27/09/2024 - 23:17:16"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "27/09/2024 - 23:12:28"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
+            "played_at": "27/09/2024 - 23:09:41"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "27/09/2024 - 23:04:08"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "27/09/2024 - 23:02:47"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "27/09/2024 - 22:57:35"
+        },
+        {
+            "song_name": "From The Start",
+            "artists": [
+                "Laufey"
+            ],
+            "album": "Bewitched",
+            "played_at": "27/09/2024 - 22:54:01"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "27/09/2024 - 22:51:17"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "27/09/2024 - 22:49:03"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "27/09/2024 - 22:46:27"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "27/09/2024 - 22:43:35"
         },
         {
             "song_name": "Moi",
