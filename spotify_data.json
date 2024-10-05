@@ -438,6 +438,73 @@
             "played_at": "01/10/2024 - 22:08:19"
         },
         {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "03/10/2024 - 23:38:27"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "03/10/2024 - 23:33:18"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "03/10/2024 - 23:30:21"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "03/10/2024 - 23:27:45"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "03/10/2024 - 23:23:23"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "03/10/2024 - 23:20:47"
+        },
+        {
+            "song_name": "Girlfriend",
+            "artists": [
+                "Ruger"
+            ],
+            "album": "The Second Wave (Deluxe)",
+            "played_at": "02/10/2024 - 10:22:15"
+        },
+        {
+            "song_name": "Sativa",
+            "artists": [
+                "Jhené Aiko",
+                "Swae Lee"
+            ],
+            "album": "Trip",
+            "played_at": "02/10/2024 - 10:14:23"
+        },
+        {
             "song_name": "Sugarcane - Remix",
             "artists": [
                 "Camidoh",
@@ -533,7 +600,32 @@
                 "Rihanna"
             ],
             "album": "The Gifted",
+            "played_at": "02/10/2024 - 09:34:34"
+        },
+        {
+            "song_name": "Bad (feat. Rihanna) - Remix",
+            "artists": [
+                "Wale",
+                "Rihanna"
+            ],
+            "album": "The Gifted",
             "played_at": "02/10/2024 - 09:30:51"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "02/10/2024 - 09:30:41"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "02/10/2024 - 09:27:00"
         },
         {
             "song_name": "THE REV3NGE",
@@ -550,6 +642,22 @@
             ],
             "album": "Solo",
             "played_at": "02/10/2024 - 09:24:23"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "02/10/2024 - 09:23:46"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "02/10/2024 - 09:22:06"
         },
         {
             "song_name": "Lake Missoula",
@@ -574,7 +682,25 @@
                 "Swae Lee"
             ],
             "album": "Rolling Papers 2",
+            "played_at": "02/10/2024 - 09:18:06"
+        },
+        {
+            "song_name": "Hopeless Romantic (feat. Swae Lee)",
+            "artists": [
+                "Wiz Khalifa",
+                "Swae Lee"
+            ],
+            "album": "Rolling Papers 2",
             "played_at": "02/10/2024 - 09:15:10"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "02/10/2024 - 09:13:58"
         },
         {
             "song_name": "Love Lost",
@@ -592,6 +718,15 @@
                 "Drake"
             ],
             "album": "Sideways",
+            "played_at": "02/10/2024 - 09:11:21"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
             "played_at": "02/10/2024 - 09:08:40"
         },
         {
@@ -601,7 +736,26 @@
                 "Drake"
             ],
             "album": "DIAMANTE",
+            "played_at": "02/10/2024 - 09:06:03"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
             "played_at": "02/10/2024 - 09:04:26"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "02/10/2024 - 09:01:15"
         },
         {
             "song_name": "Used To You",
@@ -621,7 +775,25 @@
                 "Big Sean"
             ],
             "album": "Nothing Was The Same - Deluxe",
+            "played_at": "02/10/2024 - 08:58:28"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same - Deluxe",
             "played_at": "02/10/2024 - 08:56:38"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "02/10/2024 - 08:52:38"
         },
         {
             "song_name": "NIGHTS LIKE THIS",
@@ -694,184 +866,6 @@
             ],
             "album": "Fireworks & Rollerblades",
             "played_at": "02/10/2024 - 08:33:05"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "02/10/2024 - 08:30:30"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "02/10/2024 - 08:24:54"
-        },
-        {
-            "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Lil Tecca",
-                "The Kid LAROI",
-                "Lil Skies"
-            ],
-            "album": "All Is Yellow",
-            "played_at": "01/10/2024 - 23:38:06"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "01/10/2024 - 23:25:09"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "01/10/2024 - 23:14:20"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "01/10/2024 - 23:10:31"
-        },
-        {
-            "song_name": "BABY NUEVA",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "nadie sabe lo que va a pasar mañana",
-            "played_at": "01/10/2024 - 23:07:21"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "01/10/2024 - 23:03:26"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "01/10/2024 - 23:01:22"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "01/10/2024 - 22:58:26"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "01/10/2024 - 22:51:31"
-        },
-        {
-            "song_name": "Sativa",
-            "artists": [
-                "Jhené Aiko",
-                "Swae Lee"
-            ],
-            "album": "Trip",
-            "played_at": "01/10/2024 - 22:48:25"
-        },
-        {
-            "song_name": "Bad (feat. Rihanna) - Remix",
-            "artists": [
-                "Wale",
-                "Rihanna"
-            ],
-            "album": "The Gifted",
-            "played_at": "01/10/2024 - 22:43:54"
-        },
-        {
-            "song_name": "Bad (feat. Rihanna) - Remix",
-            "artists": [
-                "Wale",
-                "Rihanna"
-            ],
-            "album": "The Gifted",
-            "played_at": "01/10/2024 - 22:38:24"
-        },
-        {
-            "song_name": "Bad (feat. Rihanna) - Remix",
-            "artists": [
-                "Wale",
-                "Rihanna"
-            ],
-            "album": "The Gifted",
-            "played_at": "01/10/2024 - 22:32:49"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "01/10/2024 - 22:20:47"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "01/10/2024 - 22:18:26"
-        },
-        {
-            "song_name": "Lake Missoula",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "01/10/2024 - 22:13:59"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "01/10/2024 - 22:12:19"
-        },
-        {
-            "song_name": "Hopeless Romantic (feat. Swae Lee)",
-            "artists": [
-                "Wiz Khalifa",
-                "Swae Lee"
-            ],
-            "album": "Rolling Papers 2",
-            "played_at": "01/10/2024 - 22:08:19"
         },
         {
             "song_name": "one of wun",
