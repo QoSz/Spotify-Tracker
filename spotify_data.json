@@ -2,39 +2,88 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Hopeless Romantic (feat. Swae Lee)",
+            "song_name": "NIGHTS LIKE THESE",
             "artists": [
-                "Wiz Khalifa",
-                "Swae Lee"
+                "Benson Boone"
             ],
-            "album": "Rolling Papers 2",
-            "played_at": "05/10/2024 - 20:37:57"
+            "album": "Walk Me Home...",
+            "played_at": "06/10/2024 - 18:54:39"
         },
         {
-            "song_name": "RAPSTAR",
+            "song_name": "Ms. Poli Sci",
             "artists": [
-                "Polo G"
+                "Paul Russell",
+                "Khary"
             ],
-            "album": "Hall of Fame",
-            "played_at": "05/10/2024 - 20:34:18"
+            "album": "Ms. Poli Sci",
+            "played_at": "06/10/2024 - 18:51:54"
         },
         {
-            "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+            "song_name": "Nevermind",
             "artists": [
-                "A$AP Rocky",
-                "Skepta"
+                "Dennis Lloyd"
             ],
-            "album": "TESTING",
-            "played_at": "05/10/2024 - 20:31:39"
+            "album": "Nevermind",
+            "played_at": "06/10/2024 - 15:45:39"
         },
         {
-            "song_name": "Fountains (with Tems)",
+            "song_name": "Nevermind",
             "artists": [
-                "Drake",
-                "Tems"
+                "Dennis Lloyd"
             ],
-            "album": "Certified Lover Boy",
-            "played_at": "05/10/2024 - 20:28:21"
+            "album": "Nevermind",
+            "played_at": "06/10/2024 - 01:25:26"
+        },
+        {
+            "song_name": "Wavin'",
+            "artists": [
+                "ARDN"
+            ],
+            "album": "\"Alien\"",
+            "played_at": "06/10/2024 - 00:01:05"
+        },
+        {
+            "song_name": "Bankroll",
+            "artists": [
+                "Nic D",
+                "Connor Price"
+            ],
+            "album": "Bankroll",
+            "played_at": "05/10/2024 - 23:57:34"
+        },
+        {
+            "song_name": "Heat Waves",
+            "artists": [
+                "Glass Animals",
+                "iann dior"
+            ],
+            "album": "Dreamland - + Bonus Levels",
+            "played_at": "05/10/2024 - 23:55:49"
+        },
+        {
+            "song_name": "85%",
+            "artists": [
+                "Loote",
+                "gnash"
+            ],
+            "album": "lost",
+            "played_at": "05/10/2024 - 23:52:53"
+        },
+        {
+            "song_name": "All Time Low",
+            "artists": [
+                "Jon Bellion"
+            ],
+            "album": "The Human Condition",
+            "played_at": "05/10/2024 - 23:49:58"
+        },
+        {
+            "song_name": "Over Now",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "beerbongs & bentleys",
+            "played_at": "05/10/2024 - 23:46:20"
         },
         {
             "song_name": "Churchill Downs (feat. Drake)",
@@ -43,390 +92,342 @@
                 "Drake"
             ],
             "album": "Come Home The Kids Miss You",
-            "played_at": "05/10/2024 - 20:25:16"
+            "played_at": "05/10/2024 - 23:42:12"
         },
         {
-            "song_name": "Let Go",
+            "song_name": "How to Save a Life",
             "artists": [
-                "Aaron May"
+                "The Fray"
             ],
-            "album": "CHASE",
-            "played_at": "05/10/2024 - 20:20:13"
+            "album": "How To Save A Life",
+            "played_at": "05/10/2024 - 23:37:03"
         },
         {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "song_name": "Nightstand",
             "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
+                "Justus Bennetts"
             ],
-            "album": "Luv Is Rage 2",
-            "played_at": "05/10/2024 - 20:17:23"
+            "album": "Nightstand",
+            "played_at": "05/10/2024 - 23:32:40"
         },
         {
-            "song_name": "ball w/o you",
+            "song_name": "Our Song",
             "artists": [
-                "21 Savage"
+                "Anne-Marie",
+                "Niall Horan"
             ],
-            "album": "i am > i was",
-            "played_at": "05/10/2024 - 20:13:49"
+            "album": "Therapy",
+            "played_at": "05/10/2024 - 23:29:58"
         },
         {
-            "song_name": "Martin & Gina",
+            "song_name": "argyle",
             "artists": [
+                "brakence"
+            ],
+            "album": "argyle",
+            "played_at": "05/10/2024 - 23:27:13"
+        },
+        {
+            "song_name": "Maria",
+            "artists": [
+                "22 WVY"
+            ],
+            "album": "Enter The Void",
+            "played_at": "05/10/2024 - 23:23:11"
+        },
+        {
+            "song_name": "AOK",
+            "artists": [
+                "Tai Verdes"
+            ],
+            "album": "TV",
+            "played_at": "05/10/2024 - 23:19:59"
+        },
+        {
+            "song_name": "The A Team",
+            "artists": [
+                "Lucas Metge",
+                "Mélodie"
+            ],
+            "album": "Lucas Metge Covers",
+            "played_at": "05/10/2024 - 23:17:06"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "05/10/2024 - 23:12:40"
+        },
+        {
+            "song_name": "white dress",
+            "artists": [
+                "mike."
+            ],
+            "album": "Love,",
+            "played_at": "05/10/2024 - 23:09:11"
+        },
+        {
+            "song_name": "Please Turn Green",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "Tough Love",
+            "played_at": "05/10/2024 - 23:05:30"
+        },
+        {
+            "song_name": "I Know",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "05/10/2024 - 23:02:31"
+        },
+        {
+            "song_name": "Want It All",
+            "artists": [
+                "Burna Boy",
                 "Polo G"
             ],
-            "album": "THE GOAT",
-            "played_at": "05/10/2024 - 20:10:41"
+            "album": "Want It All",
+            "played_at": "05/10/2024 - 23:00:09"
         },
         {
-            "song_name": "Love Lost",
+            "song_name": "Love Don't Cost A Dime (Re-Up)",
             "artists": [
-                "Mac Miller",
-                "The Temper Trap"
+                "Magixx",
+                "Ayra Starr"
             ],
-            "album": "I Love Life, Thank You",
-            "played_at": "05/10/2024 - 20:08:35"
+            "album": "Love Don't Cost A Dime (Re-Up)",
+            "played_at": "05/10/2024 - 22:56:16"
         },
         {
-            "song_name": "Time Flies",
+            "song_name": "Gory Love",
             "artists": [
-                "Drake"
+                "Calabasas"
             ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "05/10/2024 - 20:05:59"
+            "album": "Gory Love",
+            "played_at": "05/10/2024 - 22:53:48"
         },
         {
-            "song_name": "Burn, Burn, Burn",
+            "song_name": "Alone - Alternative Mix",
             "artists": [
-                "Zach Bryan"
+                "Rag'n'Bone Man"
             ],
-            "album": "Burn, Burn, Burn",
-            "played_at": "05/10/2024 - 11:14:03"
+            "album": "Alone (Remixes)",
+            "played_at": "05/10/2024 - 22:51:31"
         },
         {
-            "song_name": "Scared To Start",
+            "song_name": "Memory - Feather Remix",
             "artists": [
-                "Michael Marcagi"
+                "Kane Brown",
+                "blackbear",
+                "Feather"
             ],
-            "album": "Scared To Start",
-            "played_at": "05/10/2024 - 10:57:46"
+            "album": "Memory Remixes",
+            "played_at": "05/10/2024 - 22:47:50"
         },
         {
-            "song_name": "Coal",
+            "song_name": "Fine Apple",
             "artists": [
-                "Dylan Gossett"
+                "Nic D"
             ],
-            "album": "Coal",
-            "played_at": "05/10/2024 - 10:55:13"
+            "album": "Fine Apple",
+            "played_at": "05/10/2024 - 22:44:44"
         },
         {
-            "song_name": "Coal",
+            "song_name": "Bad Habits",
             "artists": [
-                "Dylan Gossett"
-            ],
-            "album": "Coal",
-            "played_at": "05/10/2024 - 10:22:32"
-        },
-        {
-            "song_name": "Southy Love",
-            "artists": [
-                "Peruzzi",
-                "Fireboy DML"
-            ],
-            "album": "Rum & Boogie",
-            "played_at": "05/10/2024 - 10:09:46"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "05/10/2024 - 10:06:23"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "05/10/2024 - 10:01:36"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "05/10/2024 - 09:54:21"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
                 "Ed Sheeran"
             ],
-            "album": "Heavy Is The Head",
-            "played_at": "05/10/2024 - 09:51:31"
+            "album": "=",
+            "played_at": "05/10/2024 - 22:42:10"
         },
         {
-            "song_name": "Damages",
+            "song_name": "[Admire Her] (with Gunna)",
             "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "05/10/2024 - 09:48:01"
-        },
-        {
-            "song_name": "Bad Vibes (feat. Seyi Vibez)",
-            "artists": [
-                "Ayra Starr",
-                "Seyi Vibez"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "05/10/2024 - 09:45:18"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "05/10/2024 - 09:25:56"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
+                "Bas",
                 "Gunna"
             ],
-            "album": "One of Wun",
-            "played_at": "05/10/2024 - 09:21:46"
+            "album": "[BUMP] Pick Me Up",
+            "played_at": "05/10/2024 - 22:38:19"
         },
         {
-            "song_name": "From The Start",
+            "song_name": "Hands On You",
             "artists": [
-                "Laufey"
+                "Austin George"
             ],
-            "album": "Bewitched",
-            "played_at": "05/10/2024 - 09:19:29"
+            "album": "Hands On You",
+            "played_at": "05/10/2024 - 22:35:41"
         },
         {
-            "song_name": "Hold Me",
+            "song_name": "Do It Over",
             "artists": [
-                "Lavern"
+                "WizTheMc"
             ],
-            "album": "Hold Me",
-            "played_at": "05/10/2024 - 09:16:46"
+            "album": "Where Silence Feels Good",
+            "played_at": "05/10/2024 - 22:33:05"
         },
         {
-            "song_name": "Oysters In My Pocket",
+            "song_name": "Talk About",
             "artists": [
-                "Royel Otis"
+                "Rain Radio",
+                "DJ Craig Gorman"
             ],
-            "album": "Oysters In My Pocket",
-            "played_at": "05/10/2024 - 09:14:33"
+            "album": "Talk About",
+            "played_at": "05/10/2024 - 22:29:48"
         },
         {
-            "song_name": "Tomorrow Never Comes",
+            "song_name": "Seve - Radio Edit",
             "artists": [
-                "Vicetone"
+                "Tez Cadey"
             ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "05/10/2024 - 09:11:58"
+            "album": "Walls - EP",
+            "played_at": "05/10/2024 - 22:27:13"
         },
         {
-            "song_name": "Slow It Down",
+            "song_name": "LAST",
             "artists": [
-                "Benson Boone"
+                "Kyle Beats Collective",
+                "Matt Corman",
+                "TMRWNITE"
             ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "05/10/2024 - 09:09:07"
+            "album": "LAST",
+            "played_at": "05/10/2024 - 22:23:43"
         },
         {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "song_name": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds) (feat. Kyle Reynolds)",
             "artists": [
-                "Stormzy",
+                "DVBBS",
+                "Benny Benassi",
+                "Kyle Reynolds"
+            ],
+            "album": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds) (feat. Kyle Reynolds)",
+            "played_at": "05/10/2024 - 22:21:48"
+        },
+        {
+            "song_name": "that way - Jonasu Remix",
+            "artists": [
+                "Tate McRae",
+                "Jonasu"
+            ],
+            "album": "that way (Jonasu Remix)",
+            "played_at": "05/10/2024 - 22:19:46"
+        },
+        {
+            "song_name": "Count On You (feat. Lil Wayne)",
+            "artists": [
+                "Love Mansuy",
+                "Lil Wayne"
+            ],
+            "album": "Count On You (feat. Lil Wayne)",
+            "played_at": "05/10/2024 - 22:16:59"
+        },
+        {
+            "song_name": "Gone",
+            "artists": [
+                "THAT DUDE DAX"
+            ],
+            "album": "Gone",
+            "played_at": "05/10/2024 - 22:13:33"
+        },
+        {
+            "song_name": "Free Smoke",
+            "artists": [
+                "Sznsdead",
+                "Nessly"
+            ],
+            "album": "Free Smoke",
+            "played_at": "05/10/2024 - 22:10:40"
+        },
+        {
+            "song_name": "Grow Up - Martin Jensen Remix",
+            "artists": [
+                "Olly Murs",
+                "Martin Jensen"
+            ],
+            "album": "Remixes 1",
+            "played_at": "05/10/2024 - 22:08:14"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "played_at": "05/10/2024 - 22:04:47"
+        },
+        {
+            "song_name": "Calling You",
+            "artists": [
+                "Morgan \"Juice\" Ellison"
+            ],
+            "album": "Lost Through Lies",
+            "played_at": "05/10/2024 - 22:02:18"
+        },
+        {
+            "song_name": "Golden Hour",
+            "artists": [
+                "HRVY"
+            ],
+            "album": "Golden Hour",
+            "played_at": "05/10/2024 - 22:00:04"
+        },
+        {
+            "song_name": "Cheat On Me (feat. Dave)",
+            "artists": [
                 "Burna Boy",
-                "Ed Sheeran"
+                "Dave"
             ],
-            "album": "Heavy Is The Head",
-            "played_at": "05/10/2024 - 09:06:33"
+            "album": "Cheat On Me (feat. Dave)",
+            "played_at": "05/10/2024 - 21:57:26"
         },
         {
-            "song_name": "Damages",
+            "song_name": "Starcrusin",
             "artists": [
-                "Tems"
+                "Dubbygotbars",
+                "Charles Infamous"
             ],
-            "album": "For Broken Ears",
-            "played_at": "05/10/2024 - 09:03:03"
+            "album": "Starcrusin",
+            "played_at": "05/10/2024 - 21:53:42"
         },
         {
-            "song_name": "Winding Roads",
+            "song_name": "Something Beautiful (feat. Masked Wolf)",
             "artists": [
-                "Mondo Loops",
-                "Quist"
+                "Tom Walker",
+                "Masked Wolf"
             ],
-            "album": "In Nature",
-            "played_at": "04/10/2024 - 22:07:10"
+            "album": "Something Beautiful (feat. Masked Wolf)",
+            "played_at": "05/10/2024 - 21:51:26"
         },
         {
-            "song_name": "Mesmerize",
+            "song_name": "Only You",
             "artists": [
-                "RINZ."
+                "STANY",
+                "Rema",
+                "Offset"
             ],
-            "album": "Mesmerize",
-            "played_at": "04/10/2024 - 21:47:26"
+            "album": "Only You",
+            "played_at": "05/10/2024 - 21:48:19"
         },
         {
-            "song_name": "Hour and half",
+            "song_name": "N95",
             "artists": [
-                "Lunatic Sad"
+                "Kendrick Lamar"
             ],
-            "album": "Hour and half",
-            "played_at": "04/10/2024 - 21:45:54"
+            "album": "Mr. Morale & The Big Steppers",
+            "played_at": "05/10/2024 - 21:45:03"
         },
         {
-            "song_name": "Cover Me In Sunshine",
+            "song_name": "Come Through (feat. Lil Tecca)",
             "artists": [
-                "Peaceful Melody",
-                "soave lofi"
+                "Bankrol Hayden",
+                "Lil Tecca"
             ],
-            "album": "Cover Me In Sunshine",
-            "played_at": "04/10/2024 - 21:44:21"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "04/10/2024 - 21:36:36"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "04/10/2024 - 21:22:28"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "Sideways",
-            "played_at": "04/10/2024 - 21:19:51"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/10/2024 - 21:15:40"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "04/10/2024 - 21:07:40"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "Sideways",
-            "played_at": "04/10/2024 - 21:00:50"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/10/2024 - 20:56:40"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "Sideways",
-            "played_at": "04/10/2024 - 17:00:18"
-        },
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "04/10/2024 - 16:39:16"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "04/10/2024 - 16:26:11"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "04/10/2024 - 16:20:39"
-        },
-        {
-            "song_name": "All Me",
-            "artists": [
-                "Drake",
-                "2 Chainz",
-                "Big Sean"
-            ],
-            "album": "Nothing Was The Same - Deluxe",
-            "played_at": "04/10/2024 - 16:17:49"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "04/10/2024 - 16:13:20"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "04/10/2024 - 16:11:59"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "04/10/2024 - 16:08:04"
+            "album": "Come Through (feat. Lil Tecca)",
+            "played_at": "05/10/2024 - 21:41:46"
         },
         {
             "song_name": "NIGHTS LIKE THESE",
