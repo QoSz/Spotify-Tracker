@@ -2,6 +2,104 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "The Rhythm of the Night",
+            "artists": [
+                "Giorgio Gee",
+                "Geeyo Ibra"
+            ],
+            "album": "The Rhythm of the Night",
+            "played_at": "08/10/2024 - 16:39:50"
+        },
+        {
+            "song_name": "Vha Vhenda (THEMBA's Herd Mix)",
+            "artists": [
+                "THEMBA",
+                "Philip Tabane"
+            ],
+            "album": "Heritage",
+            "played_at": "08/10/2024 - 16:36:15"
+        },
+        {
+            "song_name": "I Adore You (feat. Daecolm)",
+            "artists": [
+                "HUGEL",
+                "Topic",
+                "Arash",
+                "Daecolm"
+            ],
+            "album": "I Adore You (feat. Daecolm)",
+            "played_at": "08/10/2024 - 16:33:30"
+        },
+        {
+            "song_name": "Halele - Alex Wann Remix",
+            "artists": [
+                "&friends",
+                "Samuel Cosmic",
+                "Oluwadamvic",
+                "Alex Wann"
+            ],
+            "album": "Ominira Remix EP",
+            "played_at": "08/10/2024 - 16:29:56"
+        },
+        {
+            "song_name": "Delante",
+            "artists": [
+                "Lodgerz"
+            ],
+            "album": "Delante",
+            "played_at": "08/10/2024 - 16:26:08"
+        },
+        {
+            "song_name": "Ancestral Praise feat. Reine Mash",
+            "artists": [
+                "Stones & Bones",
+                "Cameron Jack",
+                "Reine Mash"
+            ],
+            "album": "Ancestral Praise feat. Reine Mash",
+            "played_at": "08/10/2024 - 16:23:41"
+        },
+        {
+            "song_name": "Ancestral Praise feat. Reine Mash",
+            "artists": [
+                "Stones & Bones",
+                "Cameron Jack",
+                "Reine Mash"
+            ],
+            "album": "Ancestral Praise feat. Reine Mash",
+            "played_at": "08/10/2024 - 16:20:05"
+        },
+        {
+            "song_name": "Mawu",
+            "artists": [
+                "Augusto Yepes",
+                "Presi On",
+                "Renate"
+            ],
+            "album": "Mawu",
+            "played_at": "08/10/2024 - 16:06:35"
+        },
+        {
+            "song_name": "Cuando Fue (feat. Jay Wheeler)",
+            "artists": [
+                "Malóne",
+                "Sounds Of Rituals",
+                "Jay Wheeler"
+            ],
+            "album": "Cuando Fue (feat. Jay Wheeler)",
+            "played_at": "08/10/2024 - 16:03:03"
+        },
+        {
+            "song_name": "7 Seconds",
+            "artists": [
+                "Joezi",
+                "Coco",
+                "Pape Diouf"
+            ],
+            "album": "7 Seconds",
+            "played_at": "08/10/2024 - 15:59:59"
+        },
+        {
             "song_name": "Baiana - Radio Edit",
             "artists": [
                 "Space Motion"
@@ -372,91 +470,6 @@
             ],
             "album": "Disappear",
             "played_at": "07/10/2024 - 09:02:33"
-        },
-        {
-            "song_name": "Bame Dame",
-            "artists": [
-                "Eran Hersh"
-            ],
-            "album": "Bame Dame",
-            "played_at": "07/10/2024 - 08:58:37"
-        },
-        {
-            "song_name": "Yumi - edit",
-            "artists": [
-                "Notre Dame"
-            ],
-            "album": "Yumi (edit)",
-            "played_at": "07/10/2024 - 08:55:24"
-        },
-        {
-            "song_name": "Famax - Edit",
-            "artists": [
-                "RAFFA GUIDO"
-            ],
-            "album": "Famax",
-            "played_at": "07/10/2024 - 08:52:07"
-        },
-        {
-            "song_name": "Move",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Keinemusik",
-                "Orso",
-                "Malachiii"
-            ],
-            "album": "Move",
-            "played_at": "07/10/2024 - 08:48:33"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "Bazzi"
-            ],
-            "album": "Soul Searching",
-            "played_at": "06/10/2024 - 19:05:19"
-        },
-        {
-            "song_name": "NIGHTS LIKE THESE",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Walk Me Home...",
-            "played_at": "06/10/2024 - 18:54:39"
-        },
-        {
-            "song_name": "Ms. Poli Sci",
-            "artists": [
-                "Paul Russell",
-                "Khary"
-            ],
-            "album": "Ms. Poli Sci",
-            "played_at": "06/10/2024 - 18:51:54"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "06/10/2024 - 15:45:39"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "06/10/2024 - 01:25:26"
-        },
-        {
-            "song_name": "Wavin'",
-            "artists": [
-                "ARDN"
-            ],
-            "album": "\"Alien\"",
-            "played_at": "06/10/2024 - 00:01:05"
         },
         {
             "song_name": "The Rhythm of the Night",
