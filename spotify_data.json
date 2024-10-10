@@ -677,6 +677,14 @@
             "played_at": "09/10/2024 - 17:53:57"
         },
         {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "09/10/2024 - 11:53:57"
+        },
+        {
             "song_name": "Hurt Feelings",
             "artists": [
                 "Mac Miller"
@@ -871,15 +879,6 @@
             ],
             "album": "Hinde",
             "played_at": "08/10/2024 - 15:41:26"
-        },
-        {
-            "song_name": "Young And Beautiful - Afro House Version",
-            "artists": [
-                "Anthony Keyrouz",
-                "Nito-Onna"
-            ],
-            "album": "Young And Beautiful (Afro House Version)",
-            "played_at": "08/10/2024 - 15:37:55"
         },
         {
             "song_name": "Sweet Disposition",
