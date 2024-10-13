@@ -2,6 +2,16 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Morning Sun",
+            "artists": [
+                "NSH",
+                "Atch",
+                "Hobes"
+            ],
+            "album": "Morning Sun",
+            "played_at": "13/10/2024 - 19:43:12"
+        },
+        {
             "song_name": "Wanderlust",
             "artists": [
                 "Steve Kroeger",
@@ -442,15 +452,6 @@
             ],
             "album": "Young Folks",
             "played_at": "11/10/2024 - 08:43:27"
-        },
-        {
-            "song_name": "Called Home",
-            "artists": [
-                "Clay Pirinha",
-                "JKW"
-            ],
-            "album": "Called Home",
-            "played_at": "11/10/2024 - 08:40:46"
         },
         {
             "song_name": "Morning Sun",
