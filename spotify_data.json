@@ -2,6 +2,15 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Life Goes On",
+            "artists": [
+                "Ricii Lompeurs",
+                "Francesco Ray"
+            ],
+            "album": "Life Goes On",
+            "played_at": "11/10/2024 - 20:46:13"
+        },
+        {
             "song_name": "Covered By The Clouds",
             "artists": [
                 "NSH"
@@ -445,16 +454,6 @@
             ],
             "album": "Gonna Need Ya",
             "played_at": "11/10/2024 - 08:30:22"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "11/10/2024 - 08:29:00"
         },
         {
             "song_name": "Life Goes On",
