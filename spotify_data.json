@@ -2,456 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "14/10/2024 - 09:59:23"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "14/10/2024 - 09:56:42"
-        },
-        {
-            "song_name": "Let You Go Later",
-            "artists": [
-                "Guille Alvarez",
-                "colormeblue.",
-                "Emma Castellino"
-            ],
-            "album": "Let You Go Later",
-            "played_at": "14/10/2024 - 09:53:03"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "14/10/2024 - 09:50:03"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "14/10/2024 - 09:37:52"
-        },
-        {
-            "song_name": "Jubel",
-            "artists": [
-                "Klingande"
-            ],
-            "album": "The Album",
-            "played_at": "14/10/2024 - 09:14:48"
-        },
-        {
-            "song_name": "Someone You Loved",
-            "artists": [
-                "Viva La Panda",
-                "Justin Rhodes"
-            ],
-            "album": "Someone You Loved",
-            "played_at": "14/10/2024 - 09:10:04"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "14/10/2024 - 09:07:30"
-        },
-        {
-            "song_name": "City of Love",
-            "artists": [
-                "Lonely in the Rain",
-                "Nounours"
-            ],
-            "album": "City of Love",
-            "played_at": "14/10/2024 - 09:04:49"
-        },
-        {
-            "song_name": "Would I Lie To You",
-            "artists": [
-                "Thierry Von Der Warth",
-                "YKATI"
-            ],
-            "album": "Would I Lie To You",
-            "played_at": "14/10/2024 - 09:01:50"
-        },
-        {
-            "song_name": "Back On Ibiza",
-            "artists": [
-                "Vogel",
-                "James Stefano"
-            ],
-            "album": "Back On Ibiza",
-            "played_at": "14/10/2024 - 08:59:13"
-        },
-        {
-            "song_name": "No Matter Where",
-            "artists": [
-                "Michael FAY",
-                "Brendan Mills",
-                "Britt Lari"
-            ],
-            "album": "No Matter Where",
-            "played_at": "14/10/2024 - 08:56:59"
-        },
-        {
-            "song_name": "Let You Go Later",
-            "artists": [
-                "Guille Alvarez",
-                "colormeblue.",
-                "Emma Castellino"
-            ],
-            "album": "Let You Go Later",
-            "played_at": "14/10/2024 - 08:54:06"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Ricii Lompeurs",
-                "Francesco Ray"
-            ],
-            "album": "Life Goes On",
-            "played_at": "14/10/2024 - 08:51:06"
-        },
-        {
-            "song_name": "Bad Obsession",
-            "artists": [
-                "Pablo Leo",
-                "Lili Ana"
-            ],
-            "album": "Bad Obsession",
-            "played_at": "14/10/2024 - 08:47:56"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Duke Dumont"
-            ],
-            "album": "Duality",
-            "played_at": "14/10/2024 - 08:45:22"
-        },
-        {
-            "song_name": "Sabaii",
-            "artists": [
-                "Deep Chills",
-                "Five Corners",
-                "Natty Rico"
-            ],
-            "album": "Sabaii",
-            "played_at": "14/10/2024 - 08:41:56"
-        },
-        {
-            "song_name": "Call On Me (feat. Georgia Ku)",
-            "artists": [
-                "Sam Feldt",
-                "Georgia Ku"
-            ],
-            "album": "Call On Me (feat. Georgia Ku)",
-            "played_at": "14/10/2024 - 08:39:33"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "14/10/2024 - 08:36:21"
-        },
-        {
-            "song_name": "Morning Sun",
-            "artists": [
-                "NSH",
-                "Atch",
-                "Hobes"
-            ],
-            "album": "Morning Sun",
-            "played_at": "13/10/2024 - 19:43:12"
-        },
-        {
-            "song_name": "Wanderlust",
-            "artists": [
-                "Steve Kroeger",
-                "Life of Kai"
-            ],
-            "album": "Wanderlust",
-            "played_at": "13/10/2024 - 18:40:42"
-        },
-        {
-            "song_name": "Wanderlust",
-            "artists": [
-                "Steve Kroeger",
-                "Life of Kai"
-            ],
-            "album": "Wanderlust",
-            "played_at": "13/10/2024 - 17:47:19"
-        },
-        {
-            "song_name": "West Side",
-            "artists": [
-                "Kaan Pars",
-                "Donner"
-            ],
-            "album": "West Side",
-            "played_at": "13/10/2024 - 16:47:11"
-        },
-        {
-            "song_name": "Blossom",
-            "artists": [
-                "Willow",
-                "YVMV"
-            ],
-            "album": "Blossom",
-            "played_at": "13/10/2024 - 16:44:35"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Ricii Lompeurs",
-                "Francesco Ray"
-            ],
-            "album": "Life Goes On",
-            "played_at": "13/10/2024 - 16:42:24"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Ricii Lompeurs",
-                "Francesco Ray"
-            ],
-            "album": "Life Goes On",
-            "played_at": "11/10/2024 - 20:46:13"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "11/10/2024 - 19:42:37"
-        },
-        {
-            "song_name": "Slow Down",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Slow Down",
-            "played_at": "11/10/2024 - 19:39:18"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "11/10/2024 - 19:37:00"
-        },
-        {
-            "song_name": "Would You Lie",
-            "artists": [
-                "Seeb",
-                "Alexander Stewart"
-            ],
-            "album": "Would You Lie",
-            "played_at": "11/10/2024 - 19:33:56"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "11/10/2024 - 19:30:21"
-        },
-        {
-            "song_name": "Heart So Big",
-            "artists": [
-                "Matoma",
-                "A R I Z O N A"
-            ],
-            "album": "Heart So Big",
-            "played_at": "11/10/2024 - 19:27:07"
-        },
-        {
-            "song_name": "Glowing State",
-            "artists": [
-                "Maiwan"
-            ],
-            "album": "Always Me",
-            "played_at": "11/10/2024 - 19:23:31"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "11/10/2024 - 19:18:41"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "11/10/2024 - 19:16:18"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "Hokima",
-                "Shoby"
-            ],
-            "album": "Run",
-            "played_at": "11/10/2024 - 16:02:29"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "11/10/2024 - 15:01:21"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "11/10/2024 - 14:58:37"
-        },
-        {
-            "song_name": "Off My Mind",
-            "artists": [
-                "nourii",
-                "Axel Ehnström"
-            ],
-            "album": "Off My Mind",
-            "played_at": "11/10/2024 - 14:55:51"
-        },
-        {
-            "song_name": "Blossom",
-            "artists": [
-                "Willow",
-                "YVMV"
-            ],
-            "album": "Blossom",
-            "played_at": "11/10/2024 - 14:53:47"
-        },
-        {
-            "song_name": "Rise Up",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Rise Up",
-            "played_at": "11/10/2024 - 14:51:36"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "11/10/2024 - 14:48:48"
-        },
-        {
-            "song_name": "Nostalgic",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Nostalgic",
-            "played_at": "11/10/2024 - 14:46:23"
-        },
-        {
-            "song_name": "One More Summer Night",
-            "artists": [
-                "Chemical Neon",
-                "Jordan Grace",
-                "Eva Vinjor"
-            ],
-            "album": "One More Summer Night",
-            "played_at": "11/10/2024 - 14:19:35"
-        },
-        {
-            "song_name": "Baianá",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "The Ringmaster",
-            "played_at": "11/10/2024 - 14:16:51"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "11/10/2024 - 13:55:31"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (Remixes 2)",
-            "played_at": "11/10/2024 - 13:53:30"
-        },
-        {
-            "song_name": "House in The Woods",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "House in The Woods",
-            "played_at": "11/10/2024 - 13:50:30"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "11/10/2024 - 13:48:22"
-        },
-        {
-            "song_name": "Sexual Healing - Kygo Remix",
-            "artists": [
-                "Marvin Gaye",
-                "Kygo"
-            ],
-            "album": "Sexual Healing - Kygo Remix",
-            "played_at": "11/10/2024 - 13:46:12"
-        },
-        {
             "song_name": "Kids",
             "artists": [
                 "Hobes",
@@ -1801,6 +1351,448 @@
             ],
             "album": "Blossom",
             "played_at": "11/10/2024 - 14:53:47"
+        },
+        {
+            "song_name": "Sunny Day",
+            "artists": [
+                "MR TOUT LE MONDE"
+            ],
+            "album": "SUN",
+            "played_at": "14/10/2024 - 15:13:25"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "14/10/2024 - 14:44:03"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "14/10/2024 - 14:41:55"
+        },
+        {
+            "song_name": "In My Mind",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "In My Mind",
+            "played_at": "14/10/2024 - 14:39:12"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "14/10/2024 - 14:37:12"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "14/10/2024 - 14:34:53"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "14/10/2024 - 14:30:07"
+        },
+        {
+            "song_name": "True",
+            "artists": [
+                "CYRIL",
+                "Kita Alexander"
+            ],
+            "album": "True",
+            "played_at": "14/10/2024 - 14:27:49"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "14/10/2024 - 14:25:43"
+        },
+        {
+            "song_name": "Somedays",
+            "artists": [
+                "Sonny Fodera",
+                "Jazzy",
+                "D.O.D"
+            ],
+            "album": "Somedays",
+            "played_at": "14/10/2024 - 14:23:29"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "14/10/2024 - 14:20:02"
+        },
+        {
+            "song_name": "Why",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "14/10/2024 - 14:17:27"
+        },
+        {
+            "song_name": "Casablanca",
+            "artists": [
+                "Junerule",
+                "Brendan Mills",
+                "Julia Shuren"
+            ],
+            "album": "Casablanca",
+            "played_at": "14/10/2024 - 14:15:07"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "14/10/2024 - 14:11:48"
+        },
+        {
+            "song_name": "Midnight City",
+            "artists": [
+                "M83"
+            ],
+            "album": "Hurry up, We're Dreaming",
+            "played_at": "14/10/2024 - 14:08:54"
+        },
+        {
+            "song_name": "Drifting",
+            "artists": [
+                "Tiësto",
+                "Poppy Baskcomb"
+            ],
+            "album": "Drifting",
+            "played_at": "14/10/2024 - 14:04:50"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "14/10/2024 - 14:02:22"
+        },
+        {
+            "song_name": "Ms. Poli Sci",
+            "artists": [
+                "Paul Russell",
+                "Khary"
+            ],
+            "album": "Ms. Poli Sci",
+            "played_at": "14/10/2024 - 13:58:46"
+        },
+        {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "14/10/2024 - 13:56:37"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "14/10/2024 - 13:53:33"
+        },
+        {
+            "song_name": "Saturday Night (Feel The Groove)",
+            "artists": [
+                "Brando",
+                "Ninetails"
+            ],
+            "album": "Saturday Night (Feel The Groove)",
+            "played_at": "14/10/2024 - 13:51:07"
+        },
+        {
+            "song_name": "Clouds",
+            "artists": [
+                "BUNT.",
+                "Nate Traveller"
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "14/10/2024 - 13:48:33"
+        },
+        {
+            "song_name": "Nevermind",
+            "artists": [
+                "Dennis Lloyd"
+            ],
+            "album": "Nevermind",
+            "played_at": "14/10/2024 - 13:45:54"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Slow Down",
+            "played_at": "14/10/2024 - 13:43:17"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "14/10/2024 - 13:41:00"
+        },
+        {
+            "song_name": "Sound of Your Summer - SUPER-Hi Remix",
+            "artists": [
+                "Quarry",
+                "SUPER-Hi"
+            ],
+            "album": "Sound of Your Summer",
+            "played_at": "14/10/2024 - 13:37:39"
+        },
+        {
+            "song_name": "This Town",
+            "artists": [
+                "Saco",
+                "Sparkle",
+                "Isabel Prada"
+            ],
+            "album": "This Town",
+            "played_at": "14/10/2024 - 13:34:30"
+        },
+        {
+            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+            "artists": [
+                "Mike Posner",
+                "Seeb"
+            ],
+            "album": "At Night, Alone.",
+            "played_at": "14/10/2024 - 13:31:24"
+        },
+        {
+            "song_name": "Human",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Human",
+            "played_at": "14/10/2024 - 13:28:06"
+        },
+        {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Blue",
+            "played_at": "14/10/2024 - 13:25:53"
+        },
+        {
+            "song_name": "Lucky Star",
+            "artists": [
+                "Sol Novaro",
+                "ROBINS"
+            ],
+            "album": "Lucky Star",
+            "played_at": "14/10/2024 - 13:22:20"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "TEEMID"
+            ],
+            "album": "Electric Feel",
+            "played_at": "14/10/2024 - 13:19:07"
+        },
+        {
+            "song_name": "She Said (Big Jet Plane)",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "She Said (Big Jet Plane)",
+            "played_at": "14/10/2024 - 13:15:34"
+        },
+        {
+            "song_name": "Feeling For You",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "14/10/2024 - 13:12:40"
+        },
+        {
+            "song_name": "As It Was - Chill Edit",
+            "artists": [
+                "Twan Ray",
+                "Solar State"
+            ],
+            "album": "As It Was (Chill Edit)",
+            "played_at": "14/10/2024 - 13:06:08"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "14/10/2024 - 13:03:53"
+        },
+        {
+            "song_name": "Evening Walk",
+            "artists": [
+                "Matt Bleu"
+            ],
+            "album": "Evening Walk",
+            "played_at": "14/10/2024 - 11:27:09"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "Hobes",
+                "NEIMY"
+            ],
+            "album": "Kids",
+            "played_at": "14/10/2024 - 10:25:45"
+        },
+        {
+            "song_name": "City of Love",
+            "artists": [
+                "Lonely in the Rain",
+                "Nounours"
+            ],
+            "album": "City of Love",
+            "played_at": "14/10/2024 - 10:23:18"
+        },
+        {
+            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "artists": [
+                "VAVO",
+                "Tyler Mann",
+                "DJ PRESS PLAY"
+            ],
+            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+            "played_at": "14/10/2024 - 10:20:19"
+        },
+        {
+            "song_name": "Redemption",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Redemption",
+            "played_at": "14/10/2024 - 10:17:39"
+        },
+        {
+            "song_name": "Did You Know",
+            "artists": [
+                "Together Alone"
+            ],
+            "album": "Did You Know",
+            "played_at": "14/10/2024 - 10:14:21"
+        },
+        {
+            "song_name": "Heart So Big",
+            "artists": [
+                "Matoma",
+                "A R I Z O N A"
+            ],
+            "album": "Heart So Big",
+            "played_at": "14/10/2024 - 10:11:25"
+        },
+        {
+            "song_name": "Matter of Time - Deepend Remix",
+            "artists": [
+                "Vandelux",
+                "Deepend",
+                "Alex Maher"
+            ],
+            "album": "Matter of Time (Deepend Remix)",
+            "played_at": "14/10/2024 - 10:07:49"
+        },
+        {
+            "song_name": "Waiting For Us",
+            "artists": [
+                "Steve Kroeger",
+                "BIMINI",
+                "Tep No"
+            ],
+            "album": "Waiting For Us",
+            "played_at": "14/10/2024 - 10:04:38"
+        },
+        {
+            "song_name": "What You Know (feat. Levka Rey)",
+            "artists": [
+                "KHEMIS",
+                "BNHM",
+                "Levka Rey"
+            ],
+            "album": "What You Know",
+            "played_at": "14/10/2024 - 10:02:08"
+        },
+        {
+            "song_name": "Ocean Drive",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Ocean Drive",
+            "played_at": "14/10/2024 - 09:59:23"
+        },
+        {
+            "song_name": "You Got The Love",
+            "artists": [
+                "Deep Chills",
+                "Coral Reef",
+                "Bikini Bandits"
+            ],
+            "album": "You Got The Love",
+            "played_at": "14/10/2024 - 09:56:42"
+        },
+        {
+            "song_name": "Let You Go Later",
+            "artists": [
+                "Guille Alvarez",
+                "colormeblue.",
+                "Emma Castellino"
+            ],
+            "album": "Let You Go Later",
+            "played_at": "14/10/2024 - 09:53:03"
+        },
+        {
+            "song_name": "Like You",
+            "artists": [
+                "Ehrling"
+            ],
+            "album": "Like You",
+            "played_at": "14/10/2024 - 09:50:03"
         }
     ]
 }
