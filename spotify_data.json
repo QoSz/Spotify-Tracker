@@ -1328,6 +1328,59 @@
             "played_at": "14/10/2024 - 09:50:03"
         },
         {
+            "song_name": "Fast Car",
+            "artists": [
+                "Jonas Blue",
+                "Dakota"
+            ],
+            "album": "Blue",
+            "played_at": "15/10/2024 - 15:59:10"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Slow Down",
+            "played_at": "15/10/2024 - 15:55:38"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "15/10/2024 - 15:53:20"
+        },
+        {
+            "song_name": "Cooped Up / Return Of The Mack",
+            "artists": [
+                "Post Malone",
+                "Mark Morrison",
+                "Sickick"
+            ],
+            "album": "Cooped Up / Return Of The Mack",
+            "played_at": "15/10/2024 - 15:50:25"
+        },
+        {
+            "song_name": "All I Want Is You",
+            "artists": [
+                "Lavern",
+                "NEIMY"
+            ],
+            "album": "All I Want Is You",
+            "played_at": "15/10/2024 - 15:48:18"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "15/10/2024 - 15:45:48"
+        },
+        {
             "song_name": "Sunny Day",
             "artists": [
                 "MR TOUT LE MONDE"
@@ -1712,62 +1765,6 @@
             ],
             "album": "Matter of Time (Deepend Remix)",
             "played_at": "14/10/2024 - 10:07:49"
-        },
-        {
-            "song_name": "Waiting For Us",
-            "artists": [
-                "Steve Kroeger",
-                "BIMINI",
-                "Tep No"
-            ],
-            "album": "Waiting For Us",
-            "played_at": "14/10/2024 - 10:04:38"
-        },
-        {
-            "song_name": "What You Know (feat. Levka Rey)",
-            "artists": [
-                "KHEMIS",
-                "BNHM",
-                "Levka Rey"
-            ],
-            "album": "What You Know",
-            "played_at": "14/10/2024 - 10:02:08"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "14/10/2024 - 09:59:23"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "14/10/2024 - 09:56:42"
-        },
-        {
-            "song_name": "Let You Go Later",
-            "artists": [
-                "Guille Alvarez",
-                "colormeblue.",
-                "Emma Castellino"
-            ],
-            "album": "Let You Go Later",
-            "played_at": "14/10/2024 - 09:53:03"
-        },
-        {
-            "song_name": "Like You",
-            "artists": [
-                "Ehrling"
-            ],
-            "album": "Like You",
-            "played_at": "14/10/2024 - 09:50:03"
         }
     ]
 }
