@@ -2,449 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "End of the Night",
-            "artists": [
-                "Slumberville",
-                "Jon Bryant"
-            ],
-            "album": "End of the Night",
-            "played_at": "18/10/2024 - 08:41:14"
-        },
-        {
-            "song_name": "boulevard nights",
-            "artists": [
-                "Fujitsu"
-            ],
-            "album": "boulevard nights",
-            "played_at": "18/10/2024 - 08:38:59"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "17/10/2024 - 16:58:29"
-        },
-        {
-            "song_name": "Human",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Human",
-            "played_at": "17/10/2024 - 15:01:30"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "17/10/2024 - 14:00:10"
-        },
-        {
-            "song_name": "Hot Air Balloon",
-            "artists": [
-                "Don Diablo",
-                "AR/CO"
-            ],
-            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
-            "played_at": "17/10/2024 - 13:56:49"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "17/10/2024 - 13:53:55"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "17/10/2024 - 13:50:40"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "I",
-            "played_at": "17/10/2024 - 13:47:03"
-        },
-        {
-            "song_name": "Sabaii",
-            "artists": [
-                "Deep Chills",
-                "Five Corners",
-                "Natty Rico"
-            ],
-            "album": "Sabaii",
-            "played_at": "17/10/2024 - 13:43:57"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "17/10/2024 - 13:41:33"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Artificial Paradise (Deluxe)",
-            "played_at": "17/10/2024 - 13:38:54"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Use Somebody",
-            "played_at": "17/10/2024 - 13:36:25"
-        },
-        {
-            "song_name": "Wanderlust",
-            "artists": [
-                "Steve Kroeger",
-                "Life of Kai"
-            ],
-            "album": "Wanderlust",
-            "played_at": "17/10/2024 - 13:33:10"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Move Me",
-            "played_at": "17/10/2024 - 13:30:24"
-        },
-        {
-            "song_name": "In My Mind",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "In My Mind",
-            "played_at": "17/10/2024 - 13:28:04"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "17/10/2024 - 13:26:03"
-        },
-        {
-            "song_name": "She Said (Big Jet Plane)",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "She Said (Big Jet Plane)",
-            "played_at": "17/10/2024 - 13:23:03"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "17/10/2024 - 13:20:09"
-        },
-        {
-            "song_name": "Sunny Day",
-            "artists": [
-                "MR TOUT LE MONDE"
-            ],
-            "album": "SUN",
-            "played_at": "17/10/2024 - 13:17:33"
-        },
-        {
-            "song_name": "Shallow Water",
-            "artists": [
-                "Elderbrook"
-            ],
-            "album": "Shallow Water",
-            "played_at": "17/10/2024 - 13:10:24"
-        },
-        {
-            "song_name": "Following the Sun",
-            "artists": [
-                "SUPER-Hi",
-                "NEEKA"
-            ],
-            "album": "Following the Sun",
-            "played_at": "17/10/2024 - 12:08:32"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "17/10/2024 - 12:05:07"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "17/10/2024 - 12:02:07"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "17/10/2024 - 11:59:30"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Artificial Paradise (Deluxe)",
-            "played_at": "17/10/2024 - 11:57:04"
-        },
-        {
-            "song_name": "Somedays",
-            "artists": [
-                "Sonny Fodera",
-                "Jazzy",
-                "D.O.D"
-            ],
-            "album": "Somedays",
-            "played_at": "17/10/2024 - 11:54:36"
-        },
-        {
-            "song_name": "City Of Love",
-            "artists": [
-                "Surf Mesa",
-                "Selah Sol"
-            ],
-            "album": "City Of Love",
-            "played_at": "17/10/2024 - 11:51:09"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "17/10/2024 - 11:48:22"
-        },
-        {
-            "song_name": "Chemical",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Chemical",
-            "played_at": "17/10/2024 - 11:45:01"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "17/10/2024 - 11:41:57"
-        },
-        {
-            "song_name": "Feeling For You",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "17/10/2024 - 11:39:42"
-        },
-        {
-            "song_name": "She Said (Big Jet Plane)",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "She Said (Big Jet Plane)",
-            "played_at": "17/10/2024 - 11:36:01"
-        },
-        {
-            "song_name": "Like Paradise",
-            "artists": [
-                "Steve Kroeger",
-                "Skye Holland"
-            ],
-            "album": "Like Paradise",
-            "played_at": "17/10/2024 - 11:33:07"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "17/10/2024 - 11:29:58"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "17/10/2024 - 11:26:51"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "17/10/2024 - 11:24:08"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Electric Feel",
-            "played_at": "17/10/2024 - 11:20:54"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "17/10/2024 - 11:17:20"
-        },
-        {
-            "song_name": "Human",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Human",
-            "played_at": "17/10/2024 - 11:14:04"
-        },
-        {
-            "song_name": "Matter of Time",
-            "artists": [
-                "Vandelux",
-                "Alex Maher"
-            ],
-            "album": "When The Light Breaks",
-            "played_at": "17/10/2024 - 11:11:50"
-        },
-        {
-            "song_name": "In My Mind",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "In My Mind",
-            "played_at": "17/10/2024 - 11:07:51"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "17/10/2024 - 11:05:50"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Use Somebody",
-            "played_at": "17/10/2024 - 10:57:00"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "17/10/2024 - 10:53:45"
-        },
-        {
-            "song_name": "Hot Air Balloon",
-            "artists": [
-                "Don Diablo",
-                "AR/CO"
-            ],
-            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
-            "played_at": "17/10/2024 - 10:50:30"
-        },
-        {
-            "song_name": "True",
-            "artists": [
-                "CYRIL",
-                "Kita Alexander"
-            ],
-            "album": "True",
-            "played_at": "17/10/2024 - 10:47:37"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "17/10/2024 - 10:45:31"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "17/10/2024 - 10:43:01"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "17/10/2024 - 10:39:46"
-        },
-        {
             "song_name": "bloom",
             "artists": [
                 "Billy Hammer"
@@ -1734,6 +1291,420 @@
             ],
             "album": "Somedays",
             "played_at": "17/10/2024 - 11:54:36"
+        },
+        {
+            "song_name": "Ninetyfour",
+            "artists": [
+                "Ajmw"
+            ],
+            "album": "Ninetyfour",
+            "played_at": "18/10/2024 - 12:27:38"
+        },
+        {
+            "song_name": "Japanese Garden",
+            "artists": [
+                "Cat Paw"
+            ],
+            "album": "Inner Peace",
+            "played_at": "18/10/2024 - 12:25:44"
+        },
+        {
+            "song_name": "November Roses",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "November Roses",
+            "played_at": "18/10/2024 - 12:23:55"
+        },
+        {
+            "song_name": "luvin'",
+            "artists": [
+                "wüsh"
+            ],
+            "album": "Places",
+            "played_at": "18/10/2024 - 12:22:34"
+        },
+        {
+            "song_name": "valeu",
+            "artists": [
+                "farewell",
+                "Kavv"
+            ],
+            "album": "viagem",
+            "played_at": "18/10/2024 - 12:21:11"
+        },
+        {
+            "song_name": "not even the friendzone",
+            "artists": [
+                "Bassti"
+            ],
+            "album": "she says it's too much",
+            "played_at": "18/10/2024 - 12:19:45"
+        },
+        {
+            "song_name": "Snow",
+            "artists": [
+                "Ajmw"
+            ],
+            "album": "1994",
+            "played_at": "18/10/2024 - 12:18:27"
+        },
+        {
+            "song_name": "Way Back Home",
+            "artists": [
+                "Hentaidesu"
+            ],
+            "album": "Futari",
+            "played_at": "18/10/2024 - 12:16:12"
+        },
+        {
+            "song_name": "hearts that melt",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "i need you friend",
+            "played_at": "18/10/2024 - 12:14:13"
+        },
+        {
+            "song_name": "a vibration",
+            "artists": [
+                "coldbrew"
+            ],
+            "album": "a vibration",
+            "played_at": "18/10/2024 - 12:12:06"
+        },
+        {
+            "song_name": "Crickets in My Backyard",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "18/10/2024 - 12:10:42"
+        },
+        {
+            "song_name": "Der Dritte",
+            "artists": [
+                "Bassti"
+            ],
+            "album": "Expedition, Vol. 18 (Girl)",
+            "played_at": "18/10/2024 - 12:08:00"
+        },
+        {
+            "song_name": "Balance",
+            "artists": [
+                "Cat Paw"
+            ],
+            "album": "Balance",
+            "played_at": "18/10/2024 - 12:06:50"
+        },
+        {
+            "song_name": "Garden",
+            "artists": [
+                "Huey Daze"
+            ],
+            "album": "Garden",
+            "played_at": "18/10/2024 - 12:05:01"
+        },
+        {
+            "song_name": "Rainbow Sunsets",
+            "artists": [
+                "YJKL",
+                "Andrew Simpson"
+            ],
+            "album": "Rainbow Sunsets",
+            "played_at": "18/10/2024 - 12:03:47"
+        },
+        {
+            "song_name": "Count My Blessings",
+            "artists": [
+                "Ajmw"
+            ],
+            "album": "1994",
+            "played_at": "18/10/2024 - 12:02:19"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "18/10/2024 - 12:00:24"
+        },
+        {
+            "song_name": "Cavaquinho",
+            "artists": [
+                "Oaty.",
+                "Chancla"
+            ],
+            "album": "Cavaquinho",
+            "played_at": "18/10/2024 - 11:57:27"
+        },
+        {
+            "song_name": "Understanding",
+            "artists": [
+                "Enluv",
+                "E I S U"
+            ],
+            "album": "Understanding",
+            "played_at": "18/10/2024 - 11:55:08"
+        },
+        {
+            "song_name": "Perspective",
+            "artists": [
+                "Barnes Blvd."
+            ],
+            "album": "Chillhop Daydreams",
+            "played_at": "18/10/2024 - 11:53:19"
+        },
+        {
+            "song_name": "riptide",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "18/10/2024 - 11:51:38"
+        },
+        {
+            "song_name": "hang up",
+            "artists": [
+                "pettersson"
+            ],
+            "album": "not enough",
+            "played_at": "18/10/2024 - 11:49:39"
+        },
+        {
+            "song_name": "Spring Break",
+            "artists": [
+                "imagiro",
+                "Devon Rea",
+                "Funcc."
+            ],
+            "album": "Spring Break",
+            "played_at": "18/10/2024 - 11:48:19"
+        },
+        {
+            "song_name": "Dusty",
+            "artists": [
+                "Konteks"
+            ],
+            "album": "Dusty",
+            "played_at": "18/10/2024 - 11:46:36"
+        },
+        {
+            "song_name": "Daydreaming",
+            "artists": [
+                "Mr.Mahous",
+                "Bastido"
+            ],
+            "album": "Daydreaming",
+            "played_at": "18/10/2024 - 11:44:58"
+        },
+        {
+            "song_name": "wayfarer",
+            "artists": [
+                "home grown"
+            ],
+            "album": "wayfarer",
+            "played_at": "18/10/2024 - 11:42:18"
+        },
+        {
+            "song_name": "Shades Of Blue",
+            "artists": [
+                "Study Buddy"
+            ],
+            "album": "Shades Of Blue",
+            "played_at": "18/10/2024 - 11:40:19"
+        },
+        {
+            "song_name": "as you are",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "as you are",
+            "played_at": "18/10/2024 - 11:38:58"
+        },
+        {
+            "song_name": "Killem",
+            "artists": [
+                "Stapes"
+            ],
+            "album": "Killem",
+            "played_at": "18/10/2024 - 11:36:57"
+        },
+        {
+            "song_name": "Rites of Summer - All Love",
+            "artists": [
+                "Kuranes"
+            ],
+            "album": "Landslide",
+            "played_at": "18/10/2024 - 11:34:25"
+        },
+        {
+            "song_name": "Past Fields",
+            "artists": [
+                "Jishle"
+            ],
+            "album": "Now Boarding",
+            "played_at": "18/10/2024 - 11:32:52"
+        },
+        {
+            "song_name": "Balcony Talks",
+            "artists": [
+                "M e a d o w",
+                "Drxnk"
+            ],
+            "album": "Balcony Talks",
+            "played_at": "18/10/2024 - 11:31:11"
+        },
+        {
+            "song_name": "meraki",
+            "artists": [
+                "Kicktracks",
+                "coldbrew"
+            ],
+            "album": "meraki / cosmogyral",
+            "played_at": "18/10/2024 - 11:29:07"
+        },
+        {
+            "song_name": "The Shift",
+            "artists": [
+                "paris91"
+            ],
+            "album": "The Shift",
+            "played_at": "18/10/2024 - 11:26:38"
+        },
+        {
+            "song_name": "hey ya",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "hey ya",
+            "played_at": "18/10/2024 - 11:24:35"
+        },
+        {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "18/10/2024 - 11:22:52"
+        },
+        {
+            "song_name": "amore",
+            "artists": [
+                "lost but found"
+            ],
+            "album": "amore",
+            "played_at": "18/10/2024 - 11:21:08"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "18/10/2024 - 11:19:19"
+        },
+        {
+            "song_name": "Pájaro",
+            "artists": [
+                "Maple Syrup"
+            ],
+            "album": "Barça",
+            "played_at": "18/10/2024 - 11:16:09"
+        },
+        {
+            "song_name": "Golden Bubble",
+            "artists": [
+                "Smeeagain",
+                "Rainn"
+            ],
+            "album": "Golden Bubble",
+            "played_at": "18/10/2024 - 11:13:59"
+        },
+        {
+            "song_name": "One",
+            "artists": [
+                "Miscél"
+            ],
+            "album": "One",
+            "played_at": "18/10/2024 - 11:12:07"
+        },
+        {
+            "song_name": "young folks",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "young folks",
+            "played_at": "18/10/2024 - 11:10:35"
+        },
+        {
+            "song_name": "young folks",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "young folks",
+            "played_at": "18/10/2024 - 10:14:38"
+        },
+        {
+            "song_name": "Feeling This",
+            "artists": [
+                "Silky",
+                "Supine",
+                "Side Effect"
+            ],
+            "album": "Feeling This",
+            "played_at": "18/10/2024 - 09:26:43"
+        },
+        {
+            "song_name": "Appreciate",
+            "artists": [
+                "Konteks"
+            ],
+            "album": "Time for Two",
+            "played_at": "18/10/2024 - 09:24:51"
+        },
+        {
+            "song_name": "Aurore",
+            "artists": [
+                "Lullaby"
+            ],
+            "album": "Aurore",
+            "played_at": "18/10/2024 - 09:23:15"
+        },
+        {
+            "song_name": "Moka",
+            "artists": [
+                "RINZ.",
+                "Letter10 Beats"
+            ],
+            "album": "Moka",
+            "played_at": "18/10/2024 - 09:21:21"
+        },
+        {
+            "song_name": "blurred drmzz",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "twilight walks",
+            "played_at": "18/10/2024 - 09:19:41"
+        },
+        {
+            "song_name": "Gon Be Alright",
+            "artists": [
+                "twuan"
+            ],
+            "album": "Gon Be Alright",
+            "played_at": "18/10/2024 - 09:18:16"
+        },
+        {
+            "song_name": "sinking",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "sinking",
+            "played_at": "18/10/2024 - 09:16:42"
         }
     ]
 }
