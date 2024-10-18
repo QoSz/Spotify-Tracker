@@ -1331,6 +1331,23 @@
             "played_at": "17/10/2024 - 10:32:46"
         },
         {
+            "song_name": "End of the Night",
+            "artists": [
+                "Slumberville",
+                "Jon Bryant"
+            ],
+            "album": "End of the Night",
+            "played_at": "18/10/2024 - 08:41:14"
+        },
+        {
+            "song_name": "boulevard nights",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "boulevard nights",
+            "played_at": "18/10/2024 - 08:38:59"
+        },
+        {
             "song_name": "I Just Need (with Lyrah)",
             "artists": [
                 "Daniel Allan",
@@ -1755,23 +1772,6 @@
             ],
             "album": "Heavy Is The Head",
             "played_at": "17/10/2024 - 10:39:46"
-        },
-        {
-            "song_name": "Shallow Water",
-            "artists": [
-                "Elderbrook"
-            ],
-            "album": "Shallow Water",
-            "played_at": "17/10/2024 - 10:36:09"
-        },
-        {
-            "song_name": "City Of Love",
-            "artists": [
-                "Surf Mesa",
-                "Selah Sol"
-            ],
-            "album": "City Of Love",
-            "played_at": "17/10/2024 - 10:32:46"
         }
     ]
 }
