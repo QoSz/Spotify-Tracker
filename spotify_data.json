@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Aubade",
+            "artists": [
+                "Bastido"
+            ],
+            "album": "Aubade",
+            "played_at": "18/10/2024 - 13:01:50"
+        },
+        {
             "song_name": "Ninetyfour",
             "artists": [
                 "Ajmw"
@@ -406,14 +414,6 @@
             ],
             "album": "Gon Be Alright",
             "played_at": "18/10/2024 - 09:18:16"
-        },
-        {
-            "song_name": "sinking",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "sinking",
-            "played_at": "18/10/2024 - 09:16:42"
         },
         {
             "song_name": "Aubade",
