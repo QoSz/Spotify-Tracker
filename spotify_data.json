@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Pull Me",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Pull Me",
+            "played_at": "22/10/2024 - 09:59:49"
+        },
+        {
             "song_name": "Paradise",
             "artists": [
                 "Thierry Von Der Warth",
@@ -418,15 +426,6 @@
             ],
             "album": "Dusty",
             "played_at": "18/10/2024 - 11:46:36"
-        },
-        {
-            "song_name": "Daydreaming",
-            "artists": [
-                "Mr.Mahous",
-                "Bastido"
-            ],
-            "album": "Daydreaming",
-            "played_at": "18/10/2024 - 11:44:58"
         },
         {
             "song_name": "Pull Me",
