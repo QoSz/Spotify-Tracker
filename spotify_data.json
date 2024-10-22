@@ -1244,6 +1244,14 @@
             "played_at": "18/10/2024 - 09:18:16"
         },
         {
+            "song_name": "Moonlight",
+            "artists": [
+                "Thunder"
+            ],
+            "album": "Moonlight",
+            "played_at": "22/10/2024 - 08:53:00"
+        },
+        {
             "song_name": "Aubade",
             "artists": [
                 "Bastido"
@@ -1648,14 +1656,6 @@
             ],
             "album": "twilight walks",
             "played_at": "18/10/2024 - 09:19:41"
-        },
-        {
-            "song_name": "Gon Be Alright",
-            "artists": [
-                "twuan"
-            ],
-            "album": "Gon Be Alright",
-            "played_at": "18/10/2024 - 09:18:16"
         }
     ]
 }
