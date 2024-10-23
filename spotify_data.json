@@ -2,6 +2,191 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Alive",
+            "artists": [
+                "VELMA"
+            ],
+            "album": "Alive",
+            "played_at": "23/10/2024 - 12:27:26"
+        },
+        {
+            "song_name": "Leaving",
+            "artists": [
+                "James Lacey",
+                "Jane Good"
+            ],
+            "album": "Leaving",
+            "played_at": "23/10/2024 - 12:25:01"
+        },
+        {
+            "song_name": "Your Love",
+            "artists": [
+                "Fella Sleep"
+            ],
+            "album": "Your Love",
+            "played_at": "23/10/2024 - 12:22:59"
+        },
+        {
+            "song_name": "Lullaby",
+            "artists": [
+                "Hobes"
+            ],
+            "album": "Lullaby",
+            "played_at": "23/10/2024 - 12:21:01"
+        },
+        {
+            "song_name": "Thinking 'bout Us",
+            "artists": [
+                "Creon Flips",
+                "Sarah Lahn"
+            ],
+            "album": "Thinking 'bout Us",
+            "played_at": "23/10/2024 - 12:19:02"
+        },
+        {
+            "song_name": "Go Insane",
+            "artists": [
+                "Sunmoon"
+            ],
+            "album": "Go Insane",
+            "played_at": "23/10/2024 - 12:16:49"
+        },
+        {
+            "song_name": "Sometimes On A Sunday",
+            "artists": [
+                "Jane Good"
+            ],
+            "album": "Sometimes On A Sunday",
+            "played_at": "23/10/2024 - 12:14:38"
+        },
+        {
+            "song_name": "For You",
+            "artists": [
+                "Planetopia"
+            ],
+            "album": "For You",
+            "played_at": "23/10/2024 - 12:11:58"
+        },
+        {
+            "song_name": "Won't Let You Go",
+            "artists": [
+                "POURI X"
+            ],
+            "album": "Just One Night",
+            "played_at": "23/10/2024 - 12:09:08"
+        },
+        {
+            "song_name": "Still on My Mind",
+            "artists": [
+                "VELMA"
+            ],
+            "album": "Still on My Mind",
+            "played_at": "23/10/2024 - 12:07:14"
+        },
+        {
+            "song_name": "Sun Goes Down",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Sun Goes Down",
+            "played_at": "23/10/2024 - 12:05:09"
+        },
+        {
+            "song_name": "I Can't Stop",
+            "artists": [
+                "Daniel Glaven",
+                "Will Church"
+            ],
+            "album": "I Can't Stop",
+            "played_at": "23/10/2024 - 12:02:44"
+        },
+        {
+            "song_name": "You're My Lover",
+            "artists": [
+                "No Treasure"
+            ],
+            "album": "You're My Lover",
+            "played_at": "23/10/2024 - 12:00:32"
+        },
+        {
+            "song_name": "Rest Of Our Lives",
+            "artists": [
+                "Viva La Panda",
+                "Edwardo Atlas",
+                "Sirena"
+            ],
+            "album": "Rest Of Our Lives",
+            "played_at": "23/10/2024 - 11:58:34"
+        },
+        {
+            "song_name": "Old Souls",
+            "artists": [
+                "Fella Sleep"
+            ],
+            "album": "Old Souls",
+            "played_at": "23/10/2024 - 11:56:33"
+        },
+        {
+            "song_name": "Stay Awhile",
+            "artists": [
+                "Slowtide"
+            ],
+            "album": "Stay Awhile",
+            "played_at": "23/10/2024 - 11:54:16"
+        },
+        {
+            "song_name": "can't sleep",
+            "artists": [
+                "Dimside"
+            ],
+            "album": "can't sleep",
+            "played_at": "23/10/2024 - 11:51:22"
+        },
+        {
+            "song_name": "Sunlight",
+            "artists": [
+                "FYDE"
+            ],
+            "album": "Sunlight",
+            "played_at": "23/10/2024 - 11:49:05"
+        },
+        {
+            "song_name": "Dreaming",
+            "artists": [
+                "Pool Blue"
+            ],
+            "album": "Dreaming",
+            "played_at": "23/10/2024 - 11:46:58"
+        },
+        {
+            "song_name": "Gonna Need Ya",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "Rachelle Jenkens"
+            ],
+            "album": "Gonna Need Ya",
+            "played_at": "23/10/2024 - 11:45:11"
+        },
+        {
+            "song_name": "Close To Me",
+            "artists": [
+                "Pablo Leo",
+                "nunsi"
+            ],
+            "album": "Close To Me",
+            "played_at": "23/10/2024 - 11:42:12"
+        },
+        {
+            "song_name": "Off My Mind",
+            "artists": [
+                "nourii",
+                "Axel Ehnström"
+            ],
+            "album": "Off My Mind",
+            "played_at": "23/10/2024 - 11:39:58"
+        },
+        {
             "song_name": "Off My Mind",
             "artists": [
                 "nourii",
@@ -248,193 +433,6 @@
             ],
             "album": "Feel Alright",
             "played_at": "22/10/2024 - 15:40:26"
-        },
-        {
-            "song_name": "Brand New Life",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Brand New Life",
-            "played_at": "22/10/2024 - 15:37:46"
-        },
-        {
-            "song_name": "Gold",
-            "artists": [
-                "Leviro"
-            ],
-            "album": "Gold",
-            "played_at": "22/10/2024 - 15:35:18"
-        },
-        {
-            "song_name": "House in The Woods",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "House in The Woods",
-            "played_at": "22/10/2024 - 15:32:53"
-        },
-        {
-            "song_name": "We Met In Venice",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "We Met In Venice",
-            "played_at": "22/10/2024 - 15:30:44"
-        },
-        {
-            "song_name": "Kissing",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Kissing",
-            "played_at": "22/10/2024 - 14:00:35"
-        },
-        {
-            "song_name": "Lights Go Down",
-            "artists": [
-                "Meynberg",
-                "Joseph Feinstein"
-            ],
-            "album": "Lights Go Down",
-            "played_at": "22/10/2024 - 13:58:32"
-        },
-        {
-            "song_name": "Runaway",
-            "artists": [
-                "Carston",
-                "Horizon Blue"
-            ],
-            "album": "Runaway",
-            "played_at": "22/10/2024 - 13:55:53"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "22/10/2024 - 13:53:19"
-        },
-        {
-            "song_name": "Another Love",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Another Love",
-            "played_at": "22/10/2024 - 13:51:18"
-        },
-        {
-            "song_name": "She's so High",
-            "artists": [
-                "Viva La Panda",
-                "Her Majesty"
-            ],
-            "album": "She's so High",
-            "played_at": "22/10/2024 - 13:48:33"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Life Goes On",
-            "played_at": "22/10/2024 - 13:46:21"
-        },
-        {
-            "song_name": "Always Yours",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Always Yours",
-            "played_at": "22/10/2024 - 13:43:50"
-        },
-        {
-            "song_name": "Venus and Mars",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "Venus and Mars",
-            "played_at": "22/10/2024 - 13:41:50"
-        },
-        {
-            "song_name": "Summertime Sadness",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "Summertime Sadness",
-            "played_at": "22/10/2024 - 13:39:55"
-        },
-        {
-            "song_name": "hurricane",
-            "artists": [
-                "rayn",
-                "ODBLU"
-            ],
-            "album": "hurricane",
-            "played_at": "22/10/2024 - 13:37:32"
-        },
-        {
-            "song_name": "hurricane",
-            "artists": [
-                "rayn",
-                "ODBLU"
-            ],
-            "album": "hurricane",
-            "played_at": "22/10/2024 - 10:17:43"
-        },
-        {
-            "song_name": "Pull Me",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Pull Me",
-            "played_at": "22/10/2024 - 09:59:49"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "Thierry Von Der Warth",
-                "Modi"
-            ],
-            "album": "Paradise",
-            "played_at": "22/10/2024 - 09:57:00"
-        },
-        {
-            "song_name": "Lullaby",
-            "artists": [
-                "Hobes"
-            ],
-            "album": "Lullaby",
-            "played_at": "22/10/2024 - 09:54:47"
-        },
-        {
-            "song_name": "Coming With You",
-            "artists": [
-                "Horizon Blue",
-                "Felix Samuel"
-            ],
-            "album": "Coming With You",
-            "played_at": "22/10/2024 - 09:52:48"
-        },
-        {
-            "song_name": "Promised Land",
-            "artists": [
-                "Saco",
-                "Sparkle"
-            ],
-            "album": "Promised Land",
-            "played_at": "22/10/2024 - 09:50:29"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Moonkids"
-            ],
-            "album": "Waiting",
-            "played_at": "22/10/2024 - 09:47:39"
         },
         {
             "song_name": "Alive",
