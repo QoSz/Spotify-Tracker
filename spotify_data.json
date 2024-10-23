@@ -872,6 +872,15 @@
             "played_at": "22/10/2024 - 09:45:00"
         },
         {
+            "song_name": "Off My Mind",
+            "artists": [
+                "nourii",
+                "Axel Ehnström"
+            ],
+            "album": "Off My Mind",
+            "played_at": "22/10/2024 - 16:52:45"
+        },
+        {
             "song_name": "Ocean Drive",
             "artists": [
                 "Sole Sole"
@@ -1296,15 +1305,6 @@
             ],
             "album": "Waiting",
             "played_at": "22/10/2024 - 09:47:39"
-        },
-        {
-            "song_name": "Head Heart Body",
-            "artists": [
-                "Lost In Pacific",
-                "LeyeT"
-            ],
-            "album": "Head Heart Body",
-            "played_at": "22/10/2024 - 09:45:00"
         },
         {
             "song_name": "Off My Mind",
