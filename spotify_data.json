@@ -868,6 +868,15 @@
             "played_at": "22/10/2024 - 15:40:26"
         },
         {
+            "song_name": "Lucky Star",
+            "artists": [
+                "Sol Novaro",
+                "ROBINS"
+            ],
+            "album": "Lucky Star",
+            "played_at": "23/10/2024 - 12:40:51"
+        },
+        {
             "song_name": "Alive",
             "artists": [
                 "VELMA"
@@ -1290,15 +1299,6 @@
             ],
             "album": "Good Life (feat. Elderbrook)",
             "played_at": "22/10/2024 - 15:43:13"
-        },
-        {
-            "song_name": "Feel Alright",
-            "artists": [
-                "James Lacey",
-                "ODBLU"
-            ],
-            "album": "Feel Alright",
-            "played_at": "22/10/2024 - 15:40:26"
         },
         {
             "song_name": "Lucky Star",
