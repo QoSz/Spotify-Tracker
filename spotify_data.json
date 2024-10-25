@@ -663,6 +663,14 @@
             "played_at": "24/10/2024 - 19:45:40"
         },
         {
+            "song_name": "Paradise",
+            "artists": [
+                "Bazzi"
+            ],
+            "album": "Soul Searching",
+            "played_at": "24/10/2024 - 17:21:06"
+        },
+        {
             "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
             "artists": [
                 "Post Malone",
@@ -828,14 +836,6 @@
             ],
             "album": "UTOPIA",
             "played_at": "24/10/2024 - 16:25:51"
-        },
-        {
-            "song_name": "I LIKE",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "I LIKE",
-            "played_at": "24/10/2024 - 16:23:16"
         },
         {
             "song_name": "Over You",
