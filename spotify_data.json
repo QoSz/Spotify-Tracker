@@ -2,6 +2,340 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Moka",
+            "artists": [
+                "RINZ.",
+                "Letter10 Beats"
+            ],
+            "album": "Moka",
+            "played_at": "25/10/2024 - 17:07:20"
+        },
+        {
+            "song_name": "My Own World",
+            "artists": [
+                "Silky",
+                "Wist",
+                "Bumblebee"
+            ],
+            "album": "My Own World",
+            "played_at": "25/10/2024 - 17:05:40"
+        },
+        {
+            "song_name": "ripple",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "ripple",
+            "played_at": "25/10/2024 - 17:03:44"
+        },
+        {
+            "song_name": "surfs up",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "25/10/2024 - 17:01:35"
+        },
+        {
+            "song_name": "November Roses",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "November Roses",
+            "played_at": "25/10/2024 - 16:59:48"
+        },
+        {
+            "song_name": "Birds",
+            "artists": [
+                "imagiro",
+                "Delayde"
+            ],
+            "album": "Threads",
+            "played_at": "25/10/2024 - 16:58:27"
+        },
+        {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "25/10/2024 - 16:55:45"
+        },
+        {
+            "song_name": "a walk in the park",
+            "artists": [
+                "YJKL",
+                "Andrew Simpson"
+            ],
+            "album": "a walk in the park",
+            "played_at": "25/10/2024 - 16:54:01"
+        },
+        {
+            "song_name": "bloom",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "bloom",
+            "played_at": "25/10/2024 - 16:52:48"
+        },
+        {
+            "song_name": "coconut tree",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "25/10/2024 - 16:51:26"
+        },
+        {
+            "song_name": "Growing Apart",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Reflection",
+            "played_at": "25/10/2024 - 16:49:41"
+        },
+        {
+            "song_name": "Inhale",
+            "artists": [
+                "Plant Guy"
+            ],
+            "album": "Inhale",
+            "played_at": "25/10/2024 - 16:48:04"
+        },
+        {
+            "song_name": "Love",
+            "artists": [
+                "Miscél"
+            ],
+            "album": "The Other Side",
+            "played_at": "25/10/2024 - 16:46:26"
+        },
+        {
+            "song_name": "Rainbow Sunsets",
+            "artists": [
+                "YJKL",
+                "Andrew Simpson"
+            ],
+            "album": "Rainbow Sunsets",
+            "played_at": "25/10/2024 - 16:44:46"
+        },
+        {
+            "song_name": "wonder",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "wonder",
+            "played_at": "25/10/2024 - 16:43:18"
+        },
+        {
+            "song_name": "boulevard nights",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "boulevard nights",
+            "played_at": "25/10/2024 - 16:41:31"
+        },
+        {
+            "song_name": "Up There",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "25/10/2024 - 16:40:03"
+        },
+        {
+            "song_name": "THRU THE NIGHT (feat. Bryson Tiller)",
+            "artists": [
+                "Jack Harlow",
+                "Bryson Tiller"
+            ],
+            "album": "Confetti",
+            "played_at": "25/10/2024 - 16:36:48"
+        },
+        {
+            "song_name": "No Recognition",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "25/10/2024 - 16:34:39"
+        },
+        {
+            "song_name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "25/10/2024 - 16:32:11"
+        },
+        {
+            "song_name": "Topanga",
+            "artists": [
+                "Trippie Redd"
+            ],
+            "album": "A Love Letter To You 3",
+            "played_at": "25/10/2024 - 16:28:39"
+        },
+        {
+            "song_name": "Better",
+            "artists": [
+                "Khalid"
+            ],
+            "album": "Suncity",
+            "played_at": "25/10/2024 - 16:25:03"
+        },
+        {
+            "song_name": "Wrapped Around Your Finger",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "25/10/2024 - 16:21:13"
+        },
+        {
+            "song_name": "P2",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "25/10/2024 - 16:17:59"
+        },
+        {
+            "song_name": "Chains",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "Summer 19'",
+            "played_at": "25/10/2024 - 16:14:04"
+        },
+        {
+            "song_name": "Trance (with Travis Scott & Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "25/10/2024 - 16:11:33"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "25/10/2024 - 16:08:18"
+        },
+        {
+            "song_name": "BUTTERFLY EFFECT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "25/10/2024 - 16:05:02"
+        },
+        {
+            "song_name": "A Thousand Bad Times",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "25/10/2024 - 16:01:51"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "25/10/2024 - 15:57:07"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "25/10/2024 - 15:32:32"
+        },
+        {
+            "song_name": "Forever Yours",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "25/10/2024 - 15:03:41"
+        },
+        {
+            "song_name": "C U Girl",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "C U Girl",
+            "played_at": "25/10/2024 - 15:02:04"
+        },
+        {
+            "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
+            "artists": [
+                "Young Thug",
+                "A$AP Rocky",
+                "Post Malone"
+            ],
+            "album": "Punk",
+            "played_at": "25/10/2024 - 14:59:54"
+        },
+        {
+            "song_name": "Buyer Beware",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "25/10/2024 - 14:55:25"
+        },
+        {
+            "song_name": "HIDDEN VOICES",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
+            "played_at": "25/10/2024 - 14:52:31"
+        },
+        {
+            "song_name": "Phone Numbers",
+            "artists": [
+                "Dominic Fike",
+                "Kenny Beats"
+            ],
+            "album": "Phone Numbers",
+            "played_at": "25/10/2024 - 14:50:00"
+        },
+        {
+            "song_name": "20 Min",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "25/10/2024 - 14:47:32"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "25/10/2024 - 14:43:51"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "Bazzi"
+            ],
+            "album": "Soul Searching",
+            "played_at": "25/10/2024 - 14:41:52"
+        },
+        {
             "song_name": "Over You",
             "artists": [
                 "Madism",
@@ -83,341 +417,6 @@
             ],
             "album": "Dark Lane Demo Tapes",
             "played_at": "24/10/2024 - 20:49:13"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "24/10/2024 - 20:45:33"
-        },
-        {
-            "song_name": "The Thrill",
-            "artists": [
-                "Wiz Khalifa",
-                "Empire Of The Sun"
-            ],
-            "album": "The Thrill (feat. Empire of the Sun)",
-            "played_at": "24/10/2024 - 20:42:06"
-        },
-        {
-            "song_name": "fukumean",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "a Gift & a Curse",
-            "played_at": "24/10/2024 - 20:38:11"
-        },
-        {
-            "song_name": "I Know",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "24/10/2024 - 20:36:06"
-        },
-        {
-            "song_name": "Topanga",
-            "artists": [
-                "Trippie Redd"
-            ],
-            "album": "A Love Letter To You 3",
-            "played_at": "24/10/2024 - 20:33:44"
-        },
-        {
-            "song_name": "Blueberry Faygo",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "24/10/2024 - 20:30:09"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "24/10/2024 - 20:27:26"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "24/10/2024 - 20:23:25"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "24/10/2024 - 20:20:05"
-        },
-        {
-            "song_name": "Ballad of a Badman",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "24/10/2024 - 20:17:08"
-        },
-        {
-            "song_name": "Saint-Tropez",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "24/10/2024 - 20:12:53"
-        },
-        {
-            "song_name": "Talk To Me",
-            "artists": [
-                "Drakeo the Ruler",
-                "Drake"
-            ],
-            "album": "The Truth Hurts",
-            "played_at": "24/10/2024 - 20:10:22"
-        },
-        {
-            "song_name": "WHATS POPPIN",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Sweet Action",
-            "played_at": "24/10/2024 - 20:06:34"
-        },
-        {
-            "song_name": "RAPSTAR",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "Hall of Fame",
-            "played_at": "24/10/2024 - 20:04:14"
-        },
-        {
-            "song_name": "Slide (feat. Frank Ocean & Migos)",
-            "artists": [
-                "Calvin Harris",
-                "Frank Ocean",
-                "Migos",
-                "Funk Wav"
-            ],
-            "album": "Funk Wav Bounces Vol.1",
-            "played_at": "24/10/2024 - 20:01:28"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "24/10/2024 - 19:57:36"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "24/10/2024 - 19:54:26"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "24/10/2024 - 19:48:53"
-        },
-        {
-            "song_name": "Chemical",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Chemical",
-            "played_at": "24/10/2024 - 19:45:40"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "Bazzi"
-            ],
-            "album": "Soul Searching",
-            "played_at": "24/10/2024 - 17:21:06"
-        },
-        {
-            "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
-            "artists": [
-                "Post Malone",
-                "Gunna"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "24/10/2024 - 17:09:58"
-        },
-        {
-            "song_name": "Sorry 4 What? // LV BELT",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Sorry 4 What",
-            "played_at": "24/10/2024 - 17:07:08"
-        },
-        {
-            "song_name": "Funny Thing",
-            "artists": [
-                "Thundercat"
-            ],
-            "album": "It Is What It Is",
-            "played_at": "24/10/2024 - 17:04:32"
-        },
-        {
-            "song_name": "Make It",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "24/10/2024 - 17:02:30"
-        },
-        {
-            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
-            "artists": [
-                "Brent Faiyaz",
-                "FELIX!",
-                "Tommy Richman"
-            ],
-            "album": "Larger Than Life",
-            "played_at": "24/10/2024 - 17:01:12"
-        },
-        {
-            "song_name": "Fashion Killa",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LONG.LIVE.A$AP (Deluxe Version)",
-            "played_at": "24/10/2024 - 16:57:21"
-        },
-        {
-            "song_name": "Patient",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "24/10/2024 - 16:53:24"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "24/10/2024 - 16:53:08"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "24/10/2024 - 16:50:09"
-        },
-        {
-            "song_name": "CAN'T SAY",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "24/10/2024 - 16:47:37"
-        },
-        {
-            "song_name": "Blue Notes",
-            "artists": [
-                "Meek Mill"
-            ],
-            "album": "DC4",
-            "played_at": "24/10/2024 - 16:44:18"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "24/10/2024 - 16:40:30"
-        },
-        {
-            "song_name": "Sundress",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Sundress",
-            "played_at": "24/10/2024 - 16:36:47"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "24/10/2024 - 16:34:09"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "24/10/2024 - 16:30:54"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "24/10/2024 - 16:30:47"
-        },
-        {
-            "song_name": "Big 14 (feat. Moneybagg Yo)",
-            "artists": [
-                "Trippie Redd",
-                "Offset",
-                "Moneybagg Yo"
-            ],
-            "album": "Big 14 (feat. Moneybagg Yo)",
-            "played_at": "24/10/2024 - 16:29:51"
-        },
-        {
-            "song_name": "Break from Toronto",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR",
-            "played_at": "24/10/2024 - 16:29:10"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "24/10/2024 - 16:27:30"
-        },
-        {
-            "song_name": "MY EYES",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "UTOPIA",
-            "played_at": "24/10/2024 - 16:25:51"
         },
         {
             "song_name": "Moka",
