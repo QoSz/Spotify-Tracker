@@ -2,439 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Lucky Star",
-            "artists": [
-                "Sol Novaro",
-                "ROBINS"
-            ],
-            "album": "Lucky Star",
-            "played_at": "23/10/2024 - 12:40:51"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "VELMA"
-            ],
-            "album": "Alive",
-            "played_at": "23/10/2024 - 12:27:26"
-        },
-        {
-            "song_name": "Leaving",
-            "artists": [
-                "James Lacey",
-                "Jane Good"
-            ],
-            "album": "Leaving",
-            "played_at": "23/10/2024 - 12:25:01"
-        },
-        {
-            "song_name": "Your Love",
-            "artists": [
-                "Fella Sleep"
-            ],
-            "album": "Your Love",
-            "played_at": "23/10/2024 - 12:22:59"
-        },
-        {
-            "song_name": "Lullaby",
-            "artists": [
-                "Hobes"
-            ],
-            "album": "Lullaby",
-            "played_at": "23/10/2024 - 12:21:01"
-        },
-        {
-            "song_name": "Thinking 'bout Us",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "Thinking 'bout Us",
-            "played_at": "23/10/2024 - 12:19:02"
-        },
-        {
-            "song_name": "Go Insane",
-            "artists": [
-                "Sunmoon"
-            ],
-            "album": "Go Insane",
-            "played_at": "23/10/2024 - 12:16:49"
-        },
-        {
-            "song_name": "Sometimes On A Sunday",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Sometimes On A Sunday",
-            "played_at": "23/10/2024 - 12:14:38"
-        },
-        {
-            "song_name": "For You",
-            "artists": [
-                "Planetopia"
-            ],
-            "album": "For You",
-            "played_at": "23/10/2024 - 12:11:58"
-        },
-        {
-            "song_name": "Won't Let You Go",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Just One Night",
-            "played_at": "23/10/2024 - 12:09:08"
-        },
-        {
-            "song_name": "Still on My Mind",
-            "artists": [
-                "VELMA"
-            ],
-            "album": "Still on My Mind",
-            "played_at": "23/10/2024 - 12:07:14"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "23/10/2024 - 12:05:09"
-        },
-        {
-            "song_name": "I Can't Stop",
-            "artists": [
-                "Daniel Glaven",
-                "Will Church"
-            ],
-            "album": "I Can't Stop",
-            "played_at": "23/10/2024 - 12:02:44"
-        },
-        {
-            "song_name": "You're My Lover",
-            "artists": [
-                "No Treasure"
-            ],
-            "album": "You're My Lover",
-            "played_at": "23/10/2024 - 12:00:32"
-        },
-        {
-            "song_name": "Rest Of Our Lives",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Rest Of Our Lives",
-            "played_at": "23/10/2024 - 11:58:34"
-        },
-        {
-            "song_name": "Old Souls",
-            "artists": [
-                "Fella Sleep"
-            ],
-            "album": "Old Souls",
-            "played_at": "23/10/2024 - 11:56:33"
-        },
-        {
-            "song_name": "Stay Awhile",
-            "artists": [
-                "Slowtide"
-            ],
-            "album": "Stay Awhile",
-            "played_at": "23/10/2024 - 11:54:16"
-        },
-        {
-            "song_name": "can't sleep",
-            "artists": [
-                "Dimside"
-            ],
-            "album": "can't sleep",
-            "played_at": "23/10/2024 - 11:51:22"
-        },
-        {
-            "song_name": "Sunlight",
-            "artists": [
-                "FYDE"
-            ],
-            "album": "Sunlight",
-            "played_at": "23/10/2024 - 11:49:05"
-        },
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Pool Blue"
-            ],
-            "album": "Dreaming",
-            "played_at": "23/10/2024 - 11:46:58"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "23/10/2024 - 11:45:11"
-        },
-        {
-            "song_name": "Close To Me",
-            "artists": [
-                "Pablo Leo",
-                "nunsi"
-            ],
-            "album": "Close To Me",
-            "played_at": "23/10/2024 - 11:42:12"
-        },
-        {
-            "song_name": "Off My Mind",
-            "artists": [
-                "nourii",
-                "Axel Ehnström"
-            ],
-            "album": "Off My Mind",
-            "played_at": "23/10/2024 - 11:39:58"
-        },
-        {
-            "song_name": "Off My Mind",
-            "artists": [
-                "nourii",
-                "Axel Ehnström"
-            ],
-            "album": "Off My Mind",
-            "played_at": "22/10/2024 - 16:52:45"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "22/10/2024 - 16:41:31"
-        },
-        {
-            "song_name": "To the Moon",
-            "artists": [
-                "Hobes"
-            ],
-            "album": "To the Moon",
-            "played_at": "22/10/2024 - 16:38:50"
-        },
-        {
-            "song_name": "Longer",
-            "artists": [
-                "hølm",
-                "Willy Jules"
-            ],
-            "album": "Longer",
-            "played_at": "22/10/2024 - 16:36:44"
-        },
-        {
-            "song_name": "Summertime With You",
-            "artists": [
-                "Viva La Panda",
-                "Honey",
-                "JAYNIE"
-            ],
-            "album": "Summertime With You",
-            "played_at": "22/10/2024 - 16:34:37"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "22/10/2024 - 16:32:15"
-        },
-        {
-            "song_name": "Fire in Your Eyes",
-            "artists": [
-                "Shiek",
-                "OLIT"
-            ],
-            "album": "Fire in Your Eyes",
-            "played_at": "22/10/2024 - 16:29:57"
-        },
-        {
-            "song_name": "Girl",
-            "artists": [
-                "Young Jamie"
-            ],
-            "album": "Girl",
-            "played_at": "22/10/2024 - 16:27:42"
-        },
-        {
-            "song_name": "Seaside",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Seaside",
-            "played_at": "22/10/2024 - 16:25:39"
-        },
-        {
-            "song_name": "Pumped Up Kicks",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Pumped Up Kicks",
-            "played_at": "22/10/2024 - 16:23:33"
-        },
-        {
-            "song_name": "Lost In Paradise",
-            "artists": [
-                "Viva La Panda",
-                "Edwardo Atlas",
-                "Sirena"
-            ],
-            "album": "Lost In Paradise",
-            "played_at": "22/10/2024 - 16:21:17"
-        },
-        {
-            "song_name": "Heatwave (Lost and Found)",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "Heatwave (Lost and Found)",
-            "played_at": "22/10/2024 - 16:19:07"
-        },
-        {
-            "song_name": "Young Blood",
-            "artists": [
-                "James Lacey",
-                "Jane Good",
-                "Lesley Rains"
-            ],
-            "album": "Young Blood",
-            "played_at": "22/10/2024 - 16:16:59"
-        },
-        {
-            "song_name": "This Town",
-            "artists": [
-                "Saco",
-                "Sparkle",
-                "Isabel Prada"
-            ],
-            "album": "This Town",
-            "played_at": "22/10/2024 - 16:14:28"
-        },
-        {
-            "song_name": "Wanderlust",
-            "artists": [
-                "Steve Kroeger",
-                "Life of Kai"
-            ],
-            "album": "Wanderlust",
-            "played_at": "22/10/2024 - 16:11:21"
-        },
-        {
-            "song_name": "At The Beach",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "At The Beach",
-            "played_at": "22/10/2024 - 16:08:34"
-        },
-        {
-            "song_name": "In My Way",
-            "artists": [
-                "Viva La Panda",
-                "Swizznife",
-                "Justin Rhodes"
-            ],
-            "album": "In My Way",
-            "played_at": "22/10/2024 - 16:05:53"
-        },
-        {
-            "song_name": "Ocean Avenue",
-            "artists": [
-                "Creon Flips",
-                "Katata"
-            ],
-            "album": "Ocean Avenue",
-            "played_at": "22/10/2024 - 16:03:29"
-        },
-        {
-            "song_name": "Right Here Right Now",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "Right Here Right Now",
-            "played_at": "22/10/2024 - 16:01:34"
-        },
-        {
-            "song_name": "Hollywood",
-            "artists": [
-                "Natio",
-                "Nina Carr"
-            ],
-            "album": "Hollywood",
-            "played_at": "22/10/2024 - 15:59:04"
-        },
-        {
-            "song_name": "Sunday Vibe",
-            "artists": [
-                "James Lacey"
-            ],
-            "album": "Sunday Vibe",
-            "played_at": "22/10/2024 - 15:56:33"
-        },
-        {
-            "song_name": "My One Was You",
-            "artists": [
-                "Namic",
-                "NTRVL",
-                "Lucas Tillian"
-            ],
-            "album": "My One Was You",
-            "played_at": "22/10/2024 - 15:54:36"
-        },
-        {
-            "song_name": "Holiday",
-            "artists": [
-                "Toby Rose",
-                "Daniel McMillan"
-            ],
-            "album": "Holiday",
-            "played_at": "22/10/2024 - 15:52:26"
-        },
-        {
-            "song_name": "just like this",
-            "artists": [
-                "rayn",
-                "imallryt"
-            ],
-            "album": "just like this",
-            "played_at": "22/10/2024 - 15:49:55"
-        },
-        {
-            "song_name": "Island In The Sun",
-            "artists": [
-                "Nate VanDeusen",
-                "Bayshore Court"
-            ],
-            "album": "Island In The Sun",
-            "played_at": "22/10/2024 - 15:47:40"
-        },
-        {
-            "song_name": "So Now It Goes",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "So Now It Goes",
-            "played_at": "22/10/2024 - 15:45:05"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "22/10/2024 - 15:43:13"
-        },
-        {
             "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
             "artists": [
                 "Post Malone",
@@ -1691,6 +1258,424 @@
             ],
             "album": "Luv Is Rage 2 (Deluxe)",
             "played_at": "24/10/2024 - 16:13:08"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Madism",
+                "Philip Strand"
+            ],
+            "album": "Over You",
+            "played_at": "24/10/2024 - 21:30:10"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "24/10/2024 - 21:19:13"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "24/10/2024 - 21:16:28"
+        },
+        {
+            "song_name": "Why",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "24/10/2024 - 21:13:56"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "24/10/2024 - 21:11:36"
+        },
+        {
+            "song_name": "Uzi The Earthling! (TV Show Theme)",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Uzi The Earthling! (TV Show Theme)",
+            "played_at": "24/10/2024 - 21:08:30"
+        },
+        {
+            "song_name": "Saint-Tropez",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "24/10/2024 - 21:04:21"
+        },
+        {
+            "song_name": "Talk To Me",
+            "artists": [
+                "Drakeo the Ruler",
+                "Drake"
+            ],
+            "album": "The Truth Hurts",
+            "played_at": "24/10/2024 - 21:01:49"
+        },
+        {
+            "song_name": "HIGHEST IN THE ROOM",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "HIGHEST IN THE ROOM",
+            "played_at": "24/10/2024 - 20:52:10"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "Giveon"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "24/10/2024 - 20:49:13"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "24/10/2024 - 20:45:33"
+        },
+        {
+            "song_name": "The Thrill",
+            "artists": [
+                "Wiz Khalifa",
+                "Empire Of The Sun"
+            ],
+            "album": "The Thrill (feat. Empire of the Sun)",
+            "played_at": "24/10/2024 - 20:42:06"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "24/10/2024 - 20:38:11"
+        },
+        {
+            "song_name": "I Know",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "24/10/2024 - 20:36:06"
+        },
+        {
+            "song_name": "Topanga",
+            "artists": [
+                "Trippie Redd"
+            ],
+            "album": "A Love Letter To You 3",
+            "played_at": "24/10/2024 - 20:33:44"
+        },
+        {
+            "song_name": "Blueberry Faygo",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Certified Hitmaker",
+            "played_at": "24/10/2024 - 20:30:09"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "24/10/2024 - 20:27:26"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "24/10/2024 - 20:23:25"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "24/10/2024 - 20:20:05"
+        },
+        {
+            "song_name": "Ballad of a Badman",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "24/10/2024 - 20:17:08"
+        },
+        {
+            "song_name": "Saint-Tropez",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "24/10/2024 - 20:12:53"
+        },
+        {
+            "song_name": "Talk To Me",
+            "artists": [
+                "Drakeo the Ruler",
+                "Drake"
+            ],
+            "album": "The Truth Hurts",
+            "played_at": "24/10/2024 - 20:10:22"
+        },
+        {
+            "song_name": "WHATS POPPIN",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Sweet Action",
+            "played_at": "24/10/2024 - 20:06:34"
+        },
+        {
+            "song_name": "RAPSTAR",
+            "artists": [
+                "Polo G"
+            ],
+            "album": "Hall of Fame",
+            "played_at": "24/10/2024 - 20:04:14"
+        },
+        {
+            "song_name": "Slide (feat. Frank Ocean & Migos)",
+            "artists": [
+                "Calvin Harris",
+                "Frank Ocean",
+                "Migos",
+                "Funk Wav"
+            ],
+            "album": "Funk Wav Bounces Vol.1",
+            "played_at": "24/10/2024 - 20:01:28"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "24/10/2024 - 19:57:36"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "24/10/2024 - 19:54:26"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "24/10/2024 - 19:48:53"
+        },
+        {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "24/10/2024 - 19:45:40"
+        },
+        {
+            "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
+            "artists": [
+                "Post Malone",
+                "Gunna"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "24/10/2024 - 17:09:58"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "24/10/2024 - 17:07:08"
+        },
+        {
+            "song_name": "Funny Thing",
+            "artists": [
+                "Thundercat"
+            ],
+            "album": "It Is What It Is",
+            "played_at": "24/10/2024 - 17:04:32"
+        },
+        {
+            "song_name": "Make It",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "24/10/2024 - 17:02:30"
+        },
+        {
+            "song_name": "Upset (feat. Tommy Richman & FELIX!)",
+            "artists": [
+                "Brent Faiyaz",
+                "FELIX!",
+                "Tommy Richman"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "24/10/2024 - 17:01:12"
+        },
+        {
+            "song_name": "Fashion Killa",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LONG.LIVE.A$AP (Deluxe Version)",
+            "played_at": "24/10/2024 - 16:57:21"
+        },
+        {
+            "song_name": "Patient",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "24/10/2024 - 16:53:24"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "24/10/2024 - 16:53:08"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "24/10/2024 - 16:50:09"
+        },
+        {
+            "song_name": "CAN'T SAY",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "24/10/2024 - 16:47:37"
+        },
+        {
+            "song_name": "Blue Notes",
+            "artists": [
+                "Meek Mill"
+            ],
+            "album": "DC4",
+            "played_at": "24/10/2024 - 16:44:18"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "24/10/2024 - 16:40:30"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "24/10/2024 - 16:36:47"
+        },
+        {
+            "song_name": "Sign Me Up",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "24/10/2024 - 16:34:09"
+        },
+        {
+            "song_name": "Sign Me Up",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "24/10/2024 - 16:30:54"
+        },
+        {
+            "song_name": "Sign Me Up",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "24/10/2024 - 16:30:47"
+        },
+        {
+            "song_name": "Big 14 (feat. Moneybagg Yo)",
+            "artists": [
+                "Trippie Redd",
+                "Offset",
+                "Moneybagg Yo"
+            ],
+            "album": "Big 14 (feat. Moneybagg Yo)",
+            "played_at": "24/10/2024 - 16:29:51"
+        },
+        {
+            "song_name": "Break from Toronto",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR",
+            "played_at": "24/10/2024 - 16:29:10"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "24/10/2024 - 16:27:30"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "24/10/2024 - 16:25:51"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "24/10/2024 - 16:23:16"
         }
     ]
 }
