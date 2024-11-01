@@ -2,436 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Big 14 (feat. Moneybagg Yo)",
-            "artists": [
-                "Trippie Redd",
-                "Offset",
-                "Moneybagg Yo"
-            ],
-            "album": "Big 14 (feat. Moneybagg Yo)",
-            "played_at": "30/10/2024 - 20:12:56"
-        },
-        {
-            "song_name": "Holiday",
-            "artists": [
-                "Sutton"
-            ],
-            "album": "Holiday",
-            "played_at": "30/10/2024 - 19:58:01"
-        },
-        {
-            "song_name": "summer breeze",
-            "artists": [
-                ".clouds"
-            ],
-            "album": "twilight walks",
-            "played_at": "30/10/2024 - 19:56:10"
-        },
-        {
-            "song_name": "sinking",
-            "artists": [
-                "Billy Hammer"
-            ],
-            "album": "sinking",
-            "played_at": "30/10/2024 - 19:54:58"
-        },
-        {
-            "song_name": "L'aventure",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "30/10/2024 - 19:53:14"
-        },
-        {
-            "song_name": "Numb",
-            "artists": [
-                "Peaceful Melody",
-                "soave lofi"
-            ],
-            "album": "Numb",
-            "played_at": "30/10/2024 - 19:50:45"
-        },
-        {
-            "song_name": "Dreamy",
-            "artists": [
-                "Huey Daze"
-            ],
-            "album": "Opus",
-            "played_at": "30/10/2024 - 14:45:44"
-        },
-        {
-            "song_name": "not even the friendzone",
-            "artists": [
-                "Bassti"
-            ],
-            "album": "she says it's too much",
-            "played_at": "30/10/2024 - 14:44:52"
-        },
-        {
-            "song_name": "Sprinter",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Sprinter",
-            "played_at": "30/10/2024 - 14:11:45"
-        },
-        {
-            "song_name": "FE!N (feat. Playboi Carti)",
-            "artists": [
-                "Travis Scott",
-                "Playboi Carti"
-            ],
-            "album": "UTOPIA",
-            "played_at": "30/10/2024 - 13:54:04"
-        },
-        {
-            "song_name": "rodeo dr",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "a Gift & a Curse",
-            "played_at": "30/10/2024 - 13:51:00"
-        },
-        {
-            "song_name": "Rackz got më (feat. Gunna)",
-            "artists": [
-                "Yeat",
-                "Gunna"
-            ],
-            "album": "2 Alivë",
-            "played_at": "30/10/2024 - 13:42:29"
-        },
-        {
-            "song_name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-            "artists": [
-                "Young Thug",
-                "Travis Scott",
-                "Gunna"
-            ],
-            "album": "So Much Fun (Deluxe)",
-            "played_at": "30/10/2024 - 13:39:35"
-        },
-        {
-            "song_name": "fukumean",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "a Gift & a Curse",
-            "played_at": "30/10/2024 - 13:32:17"
-        },
-        {
-            "song_name": "HOTEL LOBBY (Unc & Phew)",
-            "artists": [
-                "Quavo",
-                "Takeoff"
-            ],
-            "album": "Only Built For Infinity Links",
-            "played_at": "30/10/2024 - 13:30:19"
-        },
-        {
-            "song_name": "wokeuplikethis*",
-            "artists": [
-                "Playboi Carti",
-                "Lil Uzi Vert"
-            ],
-            "album": "Playboi Carti",
-            "played_at": "30/10/2024 - 13:28:04"
-        },
-        {
-            "song_name": "CAN'T SAY",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "30/10/2024 - 13:24:15"
-        },
-        {
-            "song_name": "ASTROTHUNDER",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "30/10/2024 - 13:21:04"
-        },
-        {
-            "song_name": "Strike (Holster)",
-            "artists": [
-                "Lil Yachty"
-            ],
-            "album": "Strike (Holster)",
-            "played_at": "30/10/2024 - 13:18:48"
-        },
-        {
-            "song_name": "TOP FLOOR (feat. Travis Scott)",
-            "artists": [
-                "Gunna",
-                "Travis Scott"
-            ],
-            "album": "WUNNA",
-            "played_at": "30/10/2024 - 13:16:27"
-        },
-        {
-            "song_name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-            "artists": [
-                "Travis Scott",
-                "Swae Lee",
-                "Chief Keef"
-            ],
-            "album": "Rodeo",
-            "played_at": "30/10/2024 - 13:09:49"
-        },
-        {
-            "song_name": "200 FOR LUNCH",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "WUNNA (Deluxe)",
-            "played_at": "30/10/2024 - 13:04:34"
-        },
-        {
-            "song_name": "200 FOR LUNCH",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "WUNNA (Deluxe)",
-            "played_at": "26/10/2024 - 20:34:52"
-        },
-        {
-            "song_name": "Solid (feat. Drake)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Gunna",
-                "Drake"
-            ],
-            "album": "Slime Language 2",
-            "played_at": "26/10/2024 - 19:50:13"
-        },
-        {
-            "song_name": "BackOutsideBoyz",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "26/10/2024 - 19:32:06"
-        },
-        {
-            "song_name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
-            "artists": [
-                "DJ Khaled",
-                "Lil Baby",
-                "Lil Durk"
-            ],
-            "album": "KHALED KHALED",
-            "played_at": "26/10/2024 - 19:29:40"
-        },
-        {
-            "song_name": "NOSTYLIST",
-            "artists": [
-                "Destroy Lonely"
-            ],
-            "album": "NO STYLIST",
-            "played_at": "26/10/2024 - 19:25:50"
-        },
-        {
-            "song_name": "E.U.",
-            "artists": [
-                "Homixide Gang"
-            ],
-            "album": "5TH AMNDMNT",
-            "played_at": "26/10/2024 - 19:21:37"
-        },
-        {
-            "song_name": "AddXcts",
-            "artists": [
-                "Homixide Gang"
-            ],
-            "album": "5TH AMNDMNT",
-            "played_at": "26/10/2024 - 19:19:00"
-        },
-        {
-            "song_name": "T. TITAN",
-            "artists": [
-                "Thouxanbanfauni"
-            ],
-            "album": "Time of My Life",
-            "played_at": "26/10/2024 - 19:16:50"
-        },
-        {
-            "song_name": "HIM ALL ALONG",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "HIM ALL ALONG",
-            "played_at": "26/10/2024 - 19:11:35"
-        },
-        {
-            "song_name": "Gerskiway",
-            "artists": [
-                "LUCKI",
-                "Rylo Rodriguez",
-                "Veeze"
-            ],
-            "album": "GEMINI!",
-            "played_at": "26/10/2024 - 19:00:23"
-        },
-        {
-            "song_name": "Faneto",
-            "artists": [
-                "Chief Keef"
-            ],
-            "album": "Back from the Dead 2",
-            "played_at": "26/10/2024 - 15:54:25"
-        },
-        {
-            "song_name": "120",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "PLAN A",
-            "played_at": "26/10/2024 - 15:37:37"
-        },
-        {
-            "song_name": "Fell In Love (with Ken Carson)",
-            "artists": [
-                "Lil Tecca",
-                "Ken Carson"
-            ],
-            "album": "TEC",
-            "played_at": "26/10/2024 - 15:31:08"
-        },
-        {
-            "song_name": "Poland",
-            "artists": [
-                "Lil Yachty"
-            ],
-            "album": "Poland",
-            "played_at": "26/10/2024 - 15:27:25"
-        },
-        {
-            "song_name": "Sprinter",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Sprinter",
-            "played_at": "26/10/2024 - 15:20:47"
-        },
-        {
-            "song_name": "LUKAKU",
-            "artists": [
-                "Cochise"
-            ],
-            "album": "LUKAKU",
-            "played_at": "26/10/2024 - 15:17:01"
-        },
-        {
-            "song_name": "MET GALA",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "WUNNA",
-            "played_at": "26/10/2024 - 15:11:34"
-        },
-        {
-            "song_name": "Shoota (feat. Lil Uzi Vert)",
-            "artists": [
-                "Playboi Carti",
-                "Lil Uzi Vert"
-            ],
-            "album": "Die Lit",
-            "played_at": "26/10/2024 - 15:09:11"
-        },
-        {
-            "song_name": "Strike (Holster)",
-            "artists": [
-                "Lil Yachty"
-            ],
-            "album": "Strike (Holster)",
-            "played_at": "26/10/2024 - 15:04:18"
-        },
-        {
-            "song_name": "Strike (Holster)",
-            "artists": [
-                "Lil Yachty"
-            ],
-            "album": "Strike (Holster)",
-            "played_at": "26/10/2024 - 13:37:38"
-        },
-        {
-            "song_name": "TOP FLOOR (feat. Travis Scott)",
-            "artists": [
-                "Gunna",
-                "Travis Scott"
-            ],
-            "album": "WUNNA",
-            "played_at": "26/10/2024 - 13:18:29"
-        },
-        {
-            "song_name": "Helluva Price",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "Drip Season 3 (Deluxe)",
-            "played_at": "26/10/2024 - 13:13:56"
-        },
-        {
-            "song_name": "Streets Made Me A King",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "26/10/2024 - 13:11:38"
-        },
-        {
-            "song_name": "Swang",
-            "artists": [
-                "Rae Sremmurd"
-            ],
-            "album": "SremmLife 2 (Deluxe)",
-            "played_at": "26/10/2024 - 13:08:36"
-        },
-        {
-            "song_name": "Fried (She a Vibe)",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "26/10/2024 - 13:04:52"
-        },
-        {
-            "song_name": "whatsapp (wassam)",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "whatsapp (wassam)",
-            "played_at": "26/10/2024 - 12:58:31"
-        },
-        {
-            "song_name": "Stay Schemin",
-            "artists": [
-                "Rick Ross",
-                "French Montana",
-                "Drake"
-            ],
-            "album": "Stay Schemin",
-            "played_at": "26/10/2024 - 12:56:18"
-        },
-        {
-            "song_name": "Turn Yo Clic Up (feat. Future)",
-            "artists": [
-                "Quavo",
-                "Future"
-            ],
-            "album": "Turn Yo Clic Up (feat. Future)",
-            "played_at": "26/10/2024 - 12:51:51"
-        },
-        {
             "song_name": "Feeling For You",
             "artists": [
                 "Milky Chance"
@@ -1287,6 +857,425 @@
             ],
             "album": "Back from the Dead 2",
             "played_at": "26/10/2024 - 15:54:25"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "01/11/2024 - 20:52:32"
+        },
+        {
+            "song_name": "IRIS",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "01/11/2024 - 20:46:43"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "01/11/2024 - 20:44:11"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "01/11/2024 - 20:42:12"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "01/11/2024 - 20:39:46"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "01/11/2024 - 20:37:01"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "01/11/2024 - 20:34:19"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "01/11/2024 - 20:30:27"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "01/11/2024 - 20:27:43"
+        },
+        {
+            "song_name": "misses",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "14 minutes",
+            "played_at": "01/11/2024 - 20:23:30"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "01/11/2024 - 20:22:16"
+        },
+        {
+            "song_name": "Why",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "01/11/2024 - 20:19:39"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "01/11/2024 - 20:17:19"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "01/11/2024 - 20:14:02"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "01/11/2024 - 20:11:04"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "01/11/2024 - 19:51:08"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "01/11/2024 - 19:47:27"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "01/11/2024 - 19:44:48"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "01/11/2024 - 19:39:52"
+        },
+        {
+            "song_name": "Top",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage",
+            "played_at": "01/11/2024 - 19:36:44"
+        },
+        {
+            "song_name": "Light Year (Practice)",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake 2",
+            "played_at": "01/11/2024 - 19:24:31"
+        },
+        {
+            "song_name": "We Good",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake 2",
+            "played_at": "01/11/2024 - 19:21:47"
+        },
+        {
+            "song_name": "Feeling For You",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "01/11/2024 - 16:31:10"
+        },
+        {
+            "song_name": "New Beginnings",
+            "artists": [
+                "Sparkee"
+            ],
+            "album": "New Beginnings",
+            "played_at": "01/11/2024 - 16:18:23"
+        },
+        {
+            "song_name": "Thinking Of You",
+            "artists": [
+                "Pierse"
+            ],
+            "album": "Thinking Of You",
+            "played_at": "01/11/2024 - 16:15:15"
+        },
+        {
+            "song_name": "Paradise",
+            "artists": [
+                "Bazzi"
+            ],
+            "album": "Soul Searching",
+            "played_at": "01/11/2024 - 16:12:42"
+        },
+        {
+            "song_name": "Cooped Up / Return Of The Mack",
+            "artists": [
+                "Post Malone",
+                "Mark Morrison",
+                "Sickick"
+            ],
+            "album": "Cooped Up / Return Of The Mack",
+            "played_at": "01/11/2024 - 16:09:52"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "01/11/2024 - 16:07:44"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "01/11/2024 - 16:05:01"
+        },
+        {
+            "song_name": "Over You",
+            "artists": [
+                "Madism",
+                "Philip Strand"
+            ],
+            "album": "Over You",
+            "played_at": "01/11/2024 - 16:02:32"
+        },
+        {
+            "song_name": "Gatluak - Bakermat Remix",
+            "artists": [
+                "Kronan",
+                "Nyaruach",
+                "Bakermat"
+            ],
+            "album": "Gatluak (Bakermat Remix)",
+            "played_at": "01/11/2024 - 16:00:09"
+        },
+        {
+            "song_name": "Chemical",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Chemical",
+            "played_at": "01/11/2024 - 15:57:49"
+        },
+        {
+            "song_name": "Big 14 (feat. Moneybagg Yo)",
+            "artists": [
+                "Trippie Redd",
+                "Offset",
+                "Moneybagg Yo"
+            ],
+            "album": "Big 14 (feat. Moneybagg Yo)",
+            "played_at": "30/10/2024 - 20:12:56"
+        },
+        {
+            "song_name": "Holiday",
+            "artists": [
+                "Sutton"
+            ],
+            "album": "Holiday",
+            "played_at": "30/10/2024 - 19:58:01"
+        },
+        {
+            "song_name": "summer breeze",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "twilight walks",
+            "played_at": "30/10/2024 - 19:56:10"
+        },
+        {
+            "song_name": "sinking",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "sinking",
+            "played_at": "30/10/2024 - 19:54:58"
+        },
+        {
+            "song_name": "L'aventure",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "30/10/2024 - 19:53:14"
+        },
+        {
+            "song_name": "Numb",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Numb",
+            "played_at": "30/10/2024 - 19:50:45"
+        },
+        {
+            "song_name": "Dreamy",
+            "artists": [
+                "Huey Daze"
+            ],
+            "album": "Opus",
+            "played_at": "30/10/2024 - 14:45:44"
+        },
+        {
+            "song_name": "not even the friendzone",
+            "artists": [
+                "Bassti"
+            ],
+            "album": "she says it's too much",
+            "played_at": "30/10/2024 - 14:44:52"
+        },
+        {
+            "song_name": "Sprinter",
+            "artists": [
+                "Dave",
+                "Central Cee"
+            ],
+            "album": "Sprinter",
+            "played_at": "30/10/2024 - 14:11:45"
+        },
+        {
+            "song_name": "FE!N (feat. Playboi Carti)",
+            "artists": [
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "UTOPIA",
+            "played_at": "30/10/2024 - 13:54:04"
+        },
+        {
+            "song_name": "rodeo dr",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "30/10/2024 - 13:51:00"
+        },
+        {
+            "song_name": "Rackz got më (feat. Gunna)",
+            "artists": [
+                "Yeat",
+                "Gunna"
+            ],
+            "album": "2 Alivë",
+            "played_at": "30/10/2024 - 13:42:29"
+        },
+        {
+            "song_name": "Hot (Remix) [feat. Gunna and Travis Scott]",
+            "artists": [
+                "Young Thug",
+                "Travis Scott",
+                "Gunna"
+            ],
+            "album": "So Much Fun (Deluxe)",
+            "played_at": "30/10/2024 - 13:39:35"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "30/10/2024 - 13:32:17"
+        },
+        {
+            "song_name": "HOTEL LOBBY (Unc & Phew)",
+            "artists": [
+                "Quavo",
+                "Takeoff"
+            ],
+            "album": "Only Built For Infinity Links",
+            "played_at": "30/10/2024 - 13:30:19"
+        },
+        {
+            "song_name": "wokeuplikethis*",
+            "artists": [
+                "Playboi Carti",
+                "Lil Uzi Vert"
+            ],
+            "album": "Playboi Carti",
+            "played_at": "30/10/2024 - 13:28:04"
+        },
+        {
+            "song_name": "CAN'T SAY",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "30/10/2024 - 13:24:15"
+        },
+        {
+            "song_name": "ASTROTHUNDER",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "30/10/2024 - 13:21:04"
         },
         {
             "song_name": "Electric Feel",
