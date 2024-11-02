@@ -2,6 +2,128 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "01/11/2024 - 20:52:32"
+        },
+        {
+            "song_name": "IRIS",
+            "artists": [
+                "Ashes To Amber"
+            ],
+            "album": "Voodoo Blu",
+            "played_at": "01/11/2024 - 20:46:43"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "01/11/2024 - 20:44:11"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "01/11/2024 - 20:42:12"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "01/11/2024 - 20:39:46"
+        },
+        {
+            "song_name": "Lake Missoula",
+            "artists": [
+                "Richy Mitch & The Coal Miners"
+            ],
+            "album": "RMCM",
+            "played_at": "01/11/2024 - 20:37:01"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "01/11/2024 - 20:34:19"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "01/11/2024 - 20:30:27"
+        },
+        {
+            "song_name": "Brazil",
+            "artists": [
+                "Declan McKenna"
+            ],
+            "album": "What Do You Think About the Car?",
+            "played_at": "01/11/2024 - 20:27:43"
+        },
+        {
+            "song_name": "misses",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "14 minutes",
+            "played_at": "01/11/2024 - 20:23:30"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "01/11/2024 - 20:22:16"
+        },
+        {
+            "song_name": "Why",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "01/11/2024 - 20:19:39"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "01/11/2024 - 20:17:19"
+        },
+        {
+            "song_name": "3 Nights",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "01/11/2024 - 20:14:02"
+        },
+        {
+            "song_name": "Reflections",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "played_at": "01/11/2024 - 20:11:04"
+        },
+        {
             "song_name": "Babydoll",
             "artists": [
                 "Dominic Fike"
@@ -297,136 +419,6 @@
             ],
             "album": "ASTROWORLD",
             "played_at": "30/10/2024 - 13:21:04"
-        },
-        {
-            "song_name": "Strike (Holster)",
-            "artists": [
-                "Lil Yachty"
-            ],
-            "album": "Strike (Holster)",
-            "played_at": "30/10/2024 - 13:18:48"
-        },
-        {
-            "song_name": "TOP FLOOR (feat. Travis Scott)",
-            "artists": [
-                "Gunna",
-                "Travis Scott"
-            ],
-            "album": "WUNNA",
-            "played_at": "30/10/2024 - 13:16:27"
-        },
-        {
-            "song_name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-            "artists": [
-                "Travis Scott",
-                "Swae Lee",
-                "Chief Keef"
-            ],
-            "album": "Rodeo",
-            "played_at": "30/10/2024 - 13:09:49"
-        },
-        {
-            "song_name": "200 FOR LUNCH",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "WUNNA (Deluxe)",
-            "played_at": "30/10/2024 - 13:04:34"
-        },
-        {
-            "song_name": "200 FOR LUNCH",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "WUNNA (Deluxe)",
-            "played_at": "26/10/2024 - 20:34:52"
-        },
-        {
-            "song_name": "Solid (feat. Drake)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Gunna",
-                "Drake"
-            ],
-            "album": "Slime Language 2",
-            "played_at": "26/10/2024 - 19:50:13"
-        },
-        {
-            "song_name": "BackOutsideBoyz",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "26/10/2024 - 19:32:06"
-        },
-        {
-            "song_name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
-            "artists": [
-                "DJ Khaled",
-                "Lil Baby",
-                "Lil Durk"
-            ],
-            "album": "KHALED KHALED",
-            "played_at": "26/10/2024 - 19:29:40"
-        },
-        {
-            "song_name": "NOSTYLIST",
-            "artists": [
-                "Destroy Lonely"
-            ],
-            "album": "NO STYLIST",
-            "played_at": "26/10/2024 - 19:25:50"
-        },
-        {
-            "song_name": "E.U.",
-            "artists": [
-                "Homixide Gang"
-            ],
-            "album": "5TH AMNDMNT",
-            "played_at": "26/10/2024 - 19:21:37"
-        },
-        {
-            "song_name": "AddXcts",
-            "artists": [
-                "Homixide Gang"
-            ],
-            "album": "5TH AMNDMNT",
-            "played_at": "26/10/2024 - 19:19:00"
-        },
-        {
-            "song_name": "T. TITAN",
-            "artists": [
-                "Thouxanbanfauni"
-            ],
-            "album": "Time of My Life",
-            "played_at": "26/10/2024 - 19:16:50"
-        },
-        {
-            "song_name": "HIM ALL ALONG",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "HIM ALL ALONG",
-            "played_at": "26/10/2024 - 19:11:35"
-        },
-        {
-            "song_name": "Gerskiway",
-            "artists": [
-                "LUCKI",
-                "Rylo Rodriguez",
-                "Veeze"
-            ],
-            "album": "GEMINI!",
-            "played_at": "26/10/2024 - 19:00:23"
-        },
-        {
-            "song_name": "Faneto",
-            "artists": [
-                "Chief Keef"
-            ],
-            "album": "Back from the Dead 2",
-            "played_at": "26/10/2024 - 15:54:25"
         },
         {
             "song_name": "Electric Feel",
