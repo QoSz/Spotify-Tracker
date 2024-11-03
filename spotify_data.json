@@ -2,6 +2,46 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "The Other Side",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "The Other Side",
+            "played_at": "03/11/2024 - 12:42:32"
+        },
+        {
+            "song_name": "Sun to Me",
+            "artists": [
+                "Zach Bryan"
+            ],
+            "album": "American Heartbreak",
+            "played_at": "03/11/2024 - 09:48:04"
+        },
+        {
+            "song_name": "Keep The Wolves Away",
+            "artists": [
+                "Uncle Lucius"
+            ],
+            "album": "And You Are Me",
+            "played_at": "03/11/2024 - 09:34:44"
+        },
+        {
+            "song_name": "Lady May",
+            "artists": [
+                "Tyler Childers"
+            ],
+            "album": "Purgatory",
+            "played_at": "03/11/2024 - 09:30:15"
+        },
+        {
+            "song_name": "Straight and Narrow",
+            "artists": [
+                "Sam Barber"
+            ],
+            "album": "Million Eyes",
+            "played_at": "03/11/2024 - 09:27:19"
+        },
+        {
             "song_name": "Electric Feel",
             "artists": [
                 "MGMT"
@@ -377,48 +417,6 @@
             ],
             "album": "So Much Fun (Deluxe)",
             "played_at": "30/10/2024 - 13:39:35"
-        },
-        {
-            "song_name": "fukumean",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "a Gift & a Curse",
-            "played_at": "30/10/2024 - 13:32:17"
-        },
-        {
-            "song_name": "HOTEL LOBBY (Unc & Phew)",
-            "artists": [
-                "Quavo",
-                "Takeoff"
-            ],
-            "album": "Only Built For Infinity Links",
-            "played_at": "30/10/2024 - 13:30:19"
-        },
-        {
-            "song_name": "wokeuplikethis*",
-            "artists": [
-                "Playboi Carti",
-                "Lil Uzi Vert"
-            ],
-            "album": "Playboi Carti",
-            "played_at": "30/10/2024 - 13:28:04"
-        },
-        {
-            "song_name": "CAN'T SAY",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "30/10/2024 - 13:24:15"
-        },
-        {
-            "song_name": "ASTROTHUNDER",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "30/10/2024 - 13:21:04"
         },
         {
             "song_name": "The Other Side",
