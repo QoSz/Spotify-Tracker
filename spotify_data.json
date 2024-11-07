@@ -2,6 +2,122 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "AT.LONG.LAST.A$AP",
+            "played_at": "07/11/2024 - 15:39:11"
+        },
+        {
+            "song_name": "Two®",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "07/11/2024 - 15:37:04"
+        },
+        {
+            "song_name": "Ron Artest",
+            "artists": [
+                "Babyface Ray",
+                "42 Dugg"
+            ],
+            "album": "Ron Artest",
+            "played_at": "07/11/2024 - 15:31:51"
+        },
+        {
+            "song_name": "Kid Cudi - Remix",
+            "artists": [
+                "Xavier Wulf"
+            ],
+            "album": "Kid Cudi (Remix)",
+            "played_at": "07/11/2024 - 15:29:18"
+        },
+        {
+            "song_name": "No Handoutz (feat. Yeat)",
+            "artists": [
+                "Internet Money",
+                "Yeat"
+            ],
+            "album": "No Handoutz (feat. Yeat)",
+            "played_at": "07/11/2024 - 15:27:41"
+        },
+        {
+            "song_name": "1400 / 999 Freestyle (feat. Juice WRLD)",
+            "artists": [
+                "Trippie Redd",
+                "Juice WRLD"
+            ],
+            "album": "A Love Letter To You 3",
+            "played_at": "07/11/2024 - 15:25:10"
+        },
+        {
+            "song_name": "Amg",
+            "artists": [
+                "Baby Smoove"
+            ],
+            "album": "Why so Serious",
+            "played_at": "07/11/2024 - 15:22:14"
+        },
+        {
+            "song_name": "Bigger Than Life",
+            "artists": [
+                "Lil Uzi Vert",
+                "WanMor"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "07/11/2024 - 15:20:51"
+        },
+        {
+            "song_name": "Me and My Guitar",
+            "artists": [
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "Artist 2.0",
+            "played_at": "07/11/2024 - 15:17:37"
+        },
+        {
+            "song_name": "Father Stretch My Hands Pt. 1",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "The Life Of Pablo",
+            "played_at": "07/11/2024 - 15:13:05"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "07/11/2024 - 15:09:53"
+        },
+        {
+            "song_name": "Freestyle",
+            "artists": [
+                "Lil Baby"
+            ],
+            "album": "Too Hard",
+            "played_at": "07/11/2024 - 15:05:58"
+        },
+        {
+            "song_name": "REEL IT IN",
+            "artists": [
+                "Aminé"
+            ],
+            "album": "ONEPOINTFIVE",
+            "played_at": "07/11/2024 - 15:03:16"
+        },
+        {
+            "song_name": "Broke In A Minute",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "The New Toronto 3",
+            "played_at": "07/11/2024 - 15:01:14"
+        },
+        {
             "song_name": "Wet Dreamz",
             "artists": [
                 "J. Cole"
@@ -299,126 +415,6 @@
             ],
             "album": "The Perfect LUV Tape",
             "played_at": "07/11/2024 - 09:14:50"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "07/11/2024 - 07:29:42"
-        },
-        {
-            "song_name": "Top",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage",
-            "played_at": "06/11/2024 - 21:03:09"
-        },
-        {
-            "song_name": "Moving",
-            "artists": [
-                "Omah Lay"
-            ],
-            "album": "Moving",
-            "played_at": "06/11/2024 - 17:39:07"
-        },
-        {
-            "song_name": "Water",
-            "artists": [
-                "Chop Daily",
-                "Soundz",
-                "Eugy Official"
-            ],
-            "album": "Water",
-            "played_at": "06/11/2024 - 17:26:47"
-        },
-        {
-            "song_name": "Close To Me (feat. Krisirie & Gabzy)",
-            "artists": [
-                "melvitto",
-                "Krisirie",
-                "Gabzy"
-            ],
-            "album": "THENIGHTISYOUNG.",
-            "played_at": "06/11/2024 - 17:24:17"
-        },
-        {
-            "song_name": "Collabo",
-            "artists": [
-                "June Freedom"
-            ],
-            "album": "Anchor Baby",
-            "played_at": "06/11/2024 - 17:21:26"
-        },
-        {
-            "song_name": "Busy Body",
-            "artists": [
-                "Yarden"
-            ],
-            "album": "Busy Body",
-            "played_at": "06/11/2024 - 17:18:59"
-        },
-        {
-            "song_name": "Jambazz",
-            "artists": [
-                "Gabzy"
-            ],
-            "album": "Jambazz",
-            "played_at": "06/11/2024 - 17:16:17"
-        },
-        {
-            "song_name": "Location (feat. Burna Boy)",
-            "artists": [
-                "Dave",
-                "Burna Boy"
-            ],
-            "album": "PSYCHODRAMA",
-            "played_at": "06/11/2024 - 17:13:57"
-        },
-        {
-            "song_name": "Bae Bae",
-            "artists": [
-                "Ruger",
-                "Bnxn"
-            ],
-            "album": "RnB",
-            "played_at": "06/11/2024 - 17:09:55"
-        },
-        {
-            "song_name": "Usual",
-            "artists": [
-                "melvitto",
-                "Nonso Amadi"
-            ],
-            "album": "soon.",
-            "played_at": "06/11/2024 - 17:07:19"
-        },
-        {
-            "song_name": "Streets Don't Love You",
-            "artists": [
-                "June Freedom"
-            ],
-            "album": "Anchor Baby (Deluxe)",
-            "played_at": "06/11/2024 - 17:04:32"
-        },
-        {
-            "song_name": "Wetin",
-            "artists": [
-                "Yarden"
-            ],
-            "album": "Wetin",
-            "played_at": "06/11/2024 - 17:02:04"
-        },
-        {
-            "song_name": "Be Easy",
-            "artists": [
-                "Odeal",
-                "brazy"
-            ],
-            "album": "Be Easy",
-            "played_at": "06/11/2024 - 17:00:45"
         },
         {
             "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
