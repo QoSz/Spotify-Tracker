@@ -1307,6 +1307,14 @@
             "played_at": "06/11/2024 - 09:05:36"
         },
         {
+            "song_name": "Top",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage",
+            "played_at": "06/11/2024 - 21:03:09"
+        },
+        {
             "song_name": "Moving",
             "artists": [
                 "Omah Lay"
@@ -1732,14 +1740,6 @@
             ],
             "album": "The Second Wave (Deluxe)",
             "played_at": "06/11/2024 - 09:08:30"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "06/11/2024 - 09:05:36"
         }
     ]
 }
