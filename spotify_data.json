@@ -2,423 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "On Our Way",
-            "artists": [
-                "Meynberg",
-                "Oke"
-            ],
-            "album": "On Our Way",
-            "played_at": "08/11/2024 - 16:10:47"
-        },
-        {
-            "song_name": "Thinking 'bout Us",
-            "artists": [
-                "Creon Flips",
-                "Sarah Lahn"
-            ],
-            "album": "Thinking 'bout Us",
-            "played_at": "08/11/2024 - 16:07:44"
-        },
-        {
-            "song_name": "Alone with You",
-            "artists": [
-                "James Lacey"
-            ],
-            "album": "Alone with You",
-            "played_at": "08/11/2024 - 16:05:31"
-        },
-        {
-            "song_name": "One More Time",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "One More Time",
-            "played_at": "08/11/2024 - 16:03:46"
-        },
-        {
-            "song_name": "Smile",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Smile",
-            "played_at": "08/11/2024 - 16:01:38"
-        },
-        {
-            "song_name": "Summer",
-            "artists": [
-                "Lapsi"
-            ],
-            "album": "Summer",
-            "played_at": "08/11/2024 - 15:58:54"
-        },
-        {
-            "song_name": "Sometimes On A Sunday",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Sometimes On A Sunday",
-            "played_at": "08/11/2024 - 15:56:53"
-        },
-        {
-            "song_name": "Blossom",
-            "artists": [
-                "Willow",
-                "YVMV"
-            ],
-            "album": "Blossom",
-            "played_at": "08/11/2024 - 15:54:12"
-        },
-        {
-            "song_name": "So Now It Goes",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "So Now It Goes",
-            "played_at": "08/11/2024 - 15:52:01"
-        },
-        {
-            "song_name": "Leaving",
-            "artists": [
-                "James Lacey",
-                "Jane Good"
-            ],
-            "album": "Leaving",
-            "played_at": "08/11/2024 - 15:50:09"
-        },
-        {
-            "song_name": "Head Heart Body",
-            "artists": [
-                "Lost In Pacific",
-                "LeyeT"
-            ],
-            "album": "Head Heart Body",
-            "played_at": "08/11/2024 - 15:48:07"
-        },
-        {
-            "song_name": "Live a Lie",
-            "artists": [
-                "Thunder",
-                "ODBLU"
-            ],
-            "album": "Live a Lie",
-            "played_at": "08/11/2024 - 15:45:20"
-        },
-        {
-            "song_name": "Your Love",
-            "artists": [
-                "Fella Sleep"
-            ],
-            "album": "Your Love",
-            "played_at": "08/11/2024 - 15:43:04"
-        },
-        {
-            "song_name": "Following the Sun",
-            "artists": [
-                "SUPER-Hi",
-                "NEEKA"
-            ],
-            "album": "Following the Sun",
-            "played_at": "08/11/2024 - 15:41:06"
-        },
-        {
-            "song_name": "Tell Me Why",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Tell Me Why",
-            "played_at": "08/11/2024 - 15:37:40"
-        },
-        {
-            "song_name": "Lie To Me",
-            "artists": [
-                "Thom Merlin",
-                "Foínix",
-                "Brandon Chase"
-            ],
-            "album": "Lie To Me",
-            "played_at": "08/11/2024 - 15:35:46"
-        },
-        {
-            "song_name": "Won't Let You Go",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Just One Night",
-            "played_at": "08/11/2024 - 15:33:16"
-        },
-        {
-            "song_name": "Believe",
-            "artists": [
-                "James Lacey"
-            ],
-            "album": "Believe",
-            "played_at": "08/11/2024 - 15:31:21"
-        },
-        {
-            "song_name": "Walking On a Dream",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Walking On a Dream",
-            "played_at": "08/11/2024 - 15:28:37"
-        },
-        {
-            "song_name": "At The Beach",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "At The Beach",
-            "played_at": "08/11/2024 - 15:25:47"
-        },
-        {
-            "song_name": "Sunlight",
-            "artists": [
-                "FYDE"
-            ],
-            "album": "Sunlight",
-            "played_at": "08/11/2024 - 15:23:05"
-        },
-        {
-            "song_name": "Wanderlust",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Wanderlust",
-            "played_at": "08/11/2024 - 15:20:57"
-        },
-        {
-            "song_name": "Somebody Else",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Somebody Else",
-            "played_at": "08/11/2024 - 15:19:05"
-        },
-        {
-            "song_name": "Always Yours",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Always Yours",
-            "played_at": "08/11/2024 - 15:16:56"
-        },
-        {
-            "song_name": "Sunday Vibe",
-            "artists": [
-                "James Lacey"
-            ],
-            "album": "Sunday Vibe",
-            "played_at": "08/11/2024 - 15:14:55"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Life Goes On",
-            "played_at": "08/11/2024 - 15:12:58"
-        },
-        {
-            "song_name": "The One",
-            "artists": [
-                "Jane Good",
-                "Samuel Miller"
-            ],
-            "album": "The One",
-            "played_at": "08/11/2024 - 15:10:27"
-        },
-        {
-            "song_name": "Keep Burnin",
-            "artists": [
-                "Young Jamie"
-            ],
-            "album": "Keep Burnin",
-            "played_at": "08/11/2024 - 15:08:21"
-        },
-        {
-            "song_name": "Night Drive",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Night Drive",
-            "played_at": "08/11/2024 - 15:06:22"
-        },
-        {
-            "song_name": "In Too Deep",
-            "artists": [
-                "WEEKLESS",
-                "WEDONT",
-                "ROBINS"
-            ],
-            "album": "In Too Deep",
-            "played_at": "08/11/2024 - 15:03:53"
-        },
-        {
-            "song_name": "Lost in Daydreams",
-            "artists": [
-                "FYDE"
-            ],
-            "album": "Lost in Daydreams",
-            "played_at": "08/11/2024 - 15:01:07"
-        },
-        {
-            "song_name": "Old Souls",
-            "artists": [
-                "Fella Sleep"
-            ],
-            "album": "Old Souls",
-            "played_at": "08/11/2024 - 14:59:07"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Electric Feel",
-            "played_at": "08/11/2024 - 14:56:50"
-        },
-        {
-            "song_name": "I Know",
-            "artists": [
-                "POURI X",
-                "Boy Kiss Girl"
-            ],
-            "album": "I Know",
-            "played_at": "08/11/2024 - 14:53:15"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "08/11/2024 - 14:50:55"
-        },
-        {
-            "song_name": "Hold You",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Hold You",
-            "played_at": "08/11/2024 - 14:48:36"
-        },
-        {
-            "song_name": "miles (feat. Lil Uzi Vert)",
-            "artists": [
-                "skaiwater",
-                "Lil Uzi Vert"
-            ],
-            "album": "miles",
-            "played_at": "08/11/2024 - 14:47:59"
-        },
-        {
-            "song_name": "Hold You",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Hold You",
-            "played_at": "08/11/2024 - 11:55:36"
-        },
-        {
-            "song_name": "Talk To Me",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Talk To Me",
-            "played_at": "08/11/2024 - 11:28:56"
-        },
-        {
-            "song_name": "Pumped Up Kicks",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Pumped Up Kicks",
-            "played_at": "08/11/2024 - 11:26:55"
-        },
-        {
-            "song_name": "Stay Awhile",
-            "artists": [
-                "Slowtide"
-            ],
-            "album": "Stay Awhile",
-            "played_at": "08/11/2024 - 11:24:40"
-        },
-        {
-            "song_name": "We Fly",
-            "artists": [
-                "Creon Flips"
-            ],
-            "album": "We Fly",
-            "played_at": "08/11/2024 - 11:21:46"
-        },
-        {
-            "song_name": "Seaside",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Seaside",
-            "played_at": "08/11/2024 - 11:19:35"
-        },
-        {
-            "song_name": "Lost Again",
-            "artists": [
-                "Eneko Artola",
-                "KAJ",
-                "Megggi"
-            ],
-            "album": "Lost Again",
-            "played_at": "08/11/2024 - 11:17:29"
-        },
-        {
-            "song_name": "Lost in Paradise",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Lost in Paradise",
-            "played_at": "08/11/2024 - 11:15:10"
-        },
-        {
-            "song_name": "Sunny Day",
-            "artists": [
-                "MR TOUT LE MONDE"
-            ],
-            "album": "SUN",
-            "played_at": "08/11/2024 - 11:13:12"
-        },
-        {
-            "song_name": "Keeps Me High",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Keeps Me High",
-            "played_at": "08/11/2024 - 11:09:59"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Thunder"
-            ],
-            "album": "Moonlight",
-            "played_at": "08/11/2024 - 11:07:56"
-        },
-        {
-            "song_name": "Stop Us Now",
-            "artists": [
-                "NSH",
-                "DT James"
-            ],
-            "album": "Stop Us Now",
-            "played_at": "08/11/2024 - 11:05:48"
-        },
-        {
-            "song_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "07/11/2024 - 15:39:11"
-        },
-        {
             "song_name": "Maria Maria",
             "artists": [
                 "TECH IT DEEP",
@@ -1715,6 +1298,437 @@
             ],
             "album": "Following the Sun",
             "played_at": "08/11/2024 - 15:41:06"
+        },
+        {
+            "song_name": "Red Red Wine",
+            "artists": [
+                "UB40"
+            ],
+            "album": "The Best Of UB40 Volume I",
+            "played_at": "08/11/2024 - 21:58:45"
+        },
+        {
+            "song_name": "Sunk In The Mist",
+            "artists": [
+                "Jr Thomas & The Volcanos"
+            ],
+            "album": "Sunk In The Mist / Lava Rock",
+            "played_at": "08/11/2024 - 21:55:40"
+        },
+        {
+            "song_name": "(Sittin' On) the Dock of the Bay",
+            "artists": [
+                "Otis Redding"
+            ],
+            "album": "The Dock of the Bay (Mono)",
+            "played_at": "08/11/2024 - 21:53:10"
+        },
+        {
+            "song_name": "You Say You Love Me",
+            "artists": [
+                "Barrington Levy"
+            ],
+            "album": "21 Girls Salute",
+            "played_at": "08/11/2024 - 21:50:25"
+        },
+        {
+            "song_name": "Natural Mystic",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Exodus",
+            "played_at": "08/11/2024 - 21:48:53"
+        },
+        {
+            "song_name": "Punky Reggae Party - 12\" Version",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:45:24"
+        },
+        {
+            "song_name": "Jamming",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:38:32"
+        },
+        {
+            "song_name": "Exodus",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:35:01"
+        },
+        {
+            "song_name": "Satisfy My Soul",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:27:21"
+        },
+        {
+            "song_name": "Redemption Song",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:22:50"
+        },
+        {
+            "song_name": "Waiting In Vain",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:19:02"
+        },
+        {
+            "song_name": "I Shot The Sheriff",
+            "artists": [
+                "The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:14:46"
+        },
+        {
+            "song_name": "One Love / People Get Ready",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:10:05"
+        },
+        {
+            "song_name": "Easy Skanking",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:07:13"
+        },
+        {
+            "song_name": "Stir It Up",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 21:04:16"
+        },
+        {
+            "song_name": "Get Up, Stand Up",
+            "artists": [
+                "The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:58:45"
+        },
+        {
+            "song_name": "Buffalo Soldier",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:55:27"
+        },
+        {
+            "song_name": "No Woman, No Cry - Live At The Lyceum, London/1975",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:48:27"
+        },
+        {
+            "song_name": "Is This Love",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:41:19"
+        },
+        {
+            "song_name": "Three Little Birds",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:36:23"
+        },
+        {
+            "song_name": "Three Little Birds",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Legend - The Best Of Bob Marley And The Wailers",
+            "played_at": "08/11/2024 - 20:33:22"
+        },
+        {
+            "song_name": "STRIPEZ",
+            "artists": [
+                "K.E.F",
+                "Jake Webber",
+                "ConKi"
+            ],
+            "album": "STRIPEZ",
+            "played_at": "08/11/2024 - 20:04:57"
+        },
+        {
+            "song_name": "the lonely flower",
+            "artists": [
+                "swiftly",
+                "Mondo Loops"
+            ],
+            "album": "the lonely flower",
+            "played_at": "08/11/2024 - 20:01:22"
+        },
+        {
+            "song_name": "Seek Your Truth (A Vitória)",
+            "artists": [
+                "MEDUZA",
+                "Ayrton Senna"
+            ],
+            "album": "Senna Driven",
+            "played_at": "08/11/2024 - 19:59:08"
+        },
+        {
+            "song_name": "Little Love",
+            "artists": [
+                "TEMP!E",
+                "James Lacey"
+            ],
+            "album": "Little Love",
+            "played_at": "08/11/2024 - 19:56:05"
+        },
+        {
+            "song_name": "fire me up",
+            "artists": [
+                "Chaël",
+                "rayn",
+                "ODBLU"
+            ],
+            "album": "fire me up",
+            "played_at": "08/11/2024 - 19:53:04"
+        },
+        {
+            "song_name": "i want to forget everything (sped up)",
+            "artists": [
+                ".diedlonely",
+                "lonelyfeels"
+            ],
+            "album": "i want to forget everything",
+            "played_at": "08/11/2024 - 19:50:49"
+        },
+        {
+            "song_name": "Back Home to Me",
+            "artists": [
+                "Shiek",
+                "RED"
+            ],
+            "album": "Back Home to Me",
+            "played_at": "08/11/2024 - 19:48:53"
+        },
+        {
+            "song_name": "Slick Moves",
+            "artists": [
+                "YJKL"
+            ],
+            "album": "Slick Moves",
+            "played_at": "08/11/2024 - 19:46:34"
+        },
+        {
+            "song_name": "PINACOLADA REMIX (feat. Beéle, Ayra Starr, 6LACK)",
+            "artists": [
+                "Thisizlondon",
+                "Beéle",
+                "Ayra Starr"
+            ],
+            "album": "PINACOLADA REMIX (feat. Beéle, Ayra Starr, 6LACK)",
+            "played_at": "08/11/2024 - 19:45:16"
+        },
+        {
+            "song_name": "everything would have been different",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "everything would have been different",
+            "played_at": "08/11/2024 - 19:41:44"
+        },
+        {
+            "song_name": "Finally (with Alicia Keys) - Axwell Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Alicia Keys",
+                "Axwell"
+            ],
+            "album": "Finally (Remixes)",
+            "played_at": "08/11/2024 - 19:39:58"
+        },
+        {
+            "song_name": "I Wanna Be",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "I Wanna Be",
+            "played_at": "08/11/2024 - 19:33:57"
+        },
+        {
+            "song_name": "Everywhere",
+            "artists": [
+                "Brendan Mills",
+                "Surfin' Sam"
+            ],
+            "album": "Everywhere",
+            "played_at": "08/11/2024 - 19:31:40"
+        },
+        {
+            "song_name": "SOUTH OF FRANCE - REMIX",
+            "artists": [
+                "Future",
+                "Travis Scott"
+            ],
+            "album": "SOUTH OF FRANCE (REMIX)",
+            "played_at": "08/11/2024 - 19:29:23"
+        },
+        {
+            "song_name": "For Me",
+            "artists": [
+                "Loe Shimmy",
+                "Brent Faiyaz"
+            ],
+            "album": "For Me",
+            "played_at": "08/11/2024 - 19:26:18"
+        },
+        {
+            "song_name": "Supernova Love",
+            "artists": [
+                "IVE",
+                "David Guetta"
+            ],
+            "album": "Supernova Love",
+            "played_at": "08/11/2024 - 19:22:54"
+        },
+        {
+            "song_name": "Homesick 4 U",
+            "artists": [
+                "Tribbs",
+                "Madism",
+                "panicbaby"
+            ],
+            "album": "Homesick 4 U",
+            "played_at": "08/11/2024 - 19:19:34"
+        },
+        {
+            "song_name": "My Dearest Love",
+            "artists": [
+                "Deep Chills",
+                "Drew Schueler"
+            ],
+            "album": "My Dearest Love",
+            "played_at": "08/11/2024 - 19:16:44"
+        },
+        {
+            "song_name": "Still Gon Go (with Lil Yachty)",
+            "artists": [
+                "Real Boston Richey",
+                "Lil Yachty"
+            ],
+            "album": "Richey Rich",
+            "played_at": "08/11/2024 - 19:14:12"
+        },
+        {
+            "song_name": "Tantalizing",
+            "artists": [
+                "Tiësto",
+                "Soaky Siren"
+            ],
+            "album": "Tantalizing",
+            "played_at": "08/11/2024 - 19:12:00"
+        },
+        {
+            "song_name": "Self Made (Slowed + Reverb)",
+            "artists": [
+                "DS-33",
+                "Trippie Redd"
+            ],
+            "album": "Self Made (Slowed + Reverb)",
+            "played_at": "08/11/2024 - 19:09:33"
+        },
+        {
+            "song_name": "Start a Thing",
+            "artists": [
+                "Lucas Estrada",
+                "Twan Ray",
+                "Solar State"
+            ],
+            "album": "Start a Thing",
+            "played_at": "08/11/2024 - 19:06:21"
+        },
+        {
+            "song_name": "Si Antes Te Hubiera Conocido",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "The Chillers"
+            ],
+            "album": "Si Antes Te Hubiera Conocido",
+            "played_at": "08/11/2024 - 19:03:24"
+        },
+        {
+            "song_name": "Blessed - Lost Tapes 2019",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Blessed (Lost Tapes 2019)",
+            "played_at": "08/11/2024 - 19:00:54"
+        },
+        {
+            "song_name": "Maria Maria",
+            "artists": [
+                "TECH IT DEEP",
+                "Gordo"
+            ],
+            "album": "Maria Maria",
+            "played_at": "08/11/2024 - 18:58:35"
+        },
+        {
+            "song_name": "Deadpool",
+            "artists": [
+                "Heretic Klick",
+                "Jack Harlow"
+            ],
+            "album": "Deadpool",
+            "played_at": "08/11/2024 - 18:54:12"
+        },
+        {
+            "song_name": "Lumière",
+            "artists": [
+                "paris91",
+                "Slumberville"
+            ],
+            "album": "Lumière",
+            "played_at": "08/11/2024 - 18:52:19"
+        },
+        {
+            "song_name": "Chill Bae",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake 2",
+            "played_at": "08/11/2024 - 18:50:33"
+        },
+        {
+            "song_name": "To Be (Slowed + Reverb)",
+            "artists": [
+                "FLVR",
+                "Young Thug"
+            ],
+            "album": "To Be (Slowed + Reverb)",
+            "played_at": "08/11/2024 - 18:46:43"
         }
     ]
 }
