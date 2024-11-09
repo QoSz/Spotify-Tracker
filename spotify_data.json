@@ -2,6 +2,91 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "08/11/2024 - 22:36:30"
+        },
+        {
+            "song_name": "Self Care",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "08/11/2024 - 22:33:01"
+        },
+        {
+            "song_name": "Small Worlds",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "08/11/2024 - 22:27:15"
+        },
+        {
+            "song_name": "Congratulations (feat. Bilal)",
+            "artists": [
+                "Mac Miller",
+                "Bilal"
+            ],
+            "album": "The Divine Feminine",
+            "played_at": "08/11/2024 - 22:22:43"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "08/11/2024 - 22:18:26"
+        },
+        {
+            "song_name": "The Spins",
+            "artists": [
+                "Mac Miller",
+                "Empire Of The Sun"
+            ],
+            "album": "K.I.D.S. (Deluxe)",
+            "played_at": "08/11/2024 - 22:15:43"
+        },
+        {
+            "song_name": "Smokin' Love (with Collie Buddz)",
+            "artists": [
+                "Stick Figure",
+                "Collie Buddz"
+            ],
+            "album": "Set in Stone",
+            "played_at": "08/11/2024 - 22:11:09"
+        },
+        {
+            "song_name": "Ain't No Sunshine",
+            "artists": [
+                "Bill Withers"
+            ],
+            "album": "Just As I Am",
+            "played_at": "08/11/2024 - 22:07:34"
+        },
+        {
+            "song_name": "Real Situation",
+            "artists": [
+                "Bob Marley & The Wailers"
+            ],
+            "album": "Uprising",
+            "played_at": "08/11/2024 - 22:05:28"
+        },
+        {
+            "song_name": "Darling",
+            "artists": [
+                "Mo'Kalamity"
+            ],
+            "album": "Warriors of light",
+            "played_at": "08/11/2024 - 22:02:19"
+        },
+        {
             "song_name": "Red Red Wine",
             "artists": [
                 "UB40"
@@ -297,12 +382,12 @@
             "played_at": "08/11/2024 - 19:29:23"
         },
         {
-            "song_name": "For Me",
+            "song_name": "For Me (with Brent Faiyaz)",
             "artists": [
                 "Loe Shimmy",
                 "Brent Faiyaz"
             ],
-            "album": "For Me",
+            "album": "For Me (with Brent Faiyaz)",
             "played_at": "08/11/2024 - 19:26:18"
         },
         {
@@ -341,96 +426,6 @@
             ],
             "album": "Richey Rich",
             "played_at": "08/11/2024 - 19:14:12"
-        },
-        {
-            "song_name": "Tantalizing",
-            "artists": [
-                "Tiësto",
-                "Soaky Siren"
-            ],
-            "album": "Tantalizing",
-            "played_at": "08/11/2024 - 19:12:00"
-        },
-        {
-            "song_name": "Self Made (Slowed + Reverb)",
-            "artists": [
-                "DS-33",
-                "Trippie Redd"
-            ],
-            "album": "Self Made (Slowed + Reverb)",
-            "played_at": "08/11/2024 - 19:09:33"
-        },
-        {
-            "song_name": "Start a Thing",
-            "artists": [
-                "Lucas Estrada",
-                "Twan Ray",
-                "Solar State"
-            ],
-            "album": "Start a Thing",
-            "played_at": "08/11/2024 - 19:06:21"
-        },
-        {
-            "song_name": "Si Antes Te Hubiera Conocido",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "The Chillers"
-            ],
-            "album": "Si Antes Te Hubiera Conocido",
-            "played_at": "08/11/2024 - 19:03:24"
-        },
-        {
-            "song_name": "Blessed - Lost Tapes 2019",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Blessed (Lost Tapes 2019)",
-            "played_at": "08/11/2024 - 19:00:54"
-        },
-        {
-            "song_name": "Maria Maria",
-            "artists": [
-                "TECH IT DEEP",
-                "Gordo"
-            ],
-            "album": "Maria Maria",
-            "played_at": "08/11/2024 - 18:58:35"
-        },
-        {
-            "song_name": "Deadpool",
-            "artists": [
-                "Heretic Klick",
-                "Jack Harlow"
-            ],
-            "album": "Deadpool",
-            "played_at": "08/11/2024 - 18:54:12"
-        },
-        {
-            "song_name": "Lumière",
-            "artists": [
-                "paris91",
-                "Slumberville"
-            ],
-            "album": "Lumière",
-            "played_at": "08/11/2024 - 18:52:19"
-        },
-        {
-            "song_name": "Chill Bae",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake 2",
-            "played_at": "08/11/2024 - 18:50:33"
-        },
-        {
-            "song_name": "To Be (Slowed + Reverb)",
-            "artists": [
-                "FLVR",
-                "Young Thug"
-            ],
-            "album": "To Be (Slowed + Reverb)",
-            "played_at": "08/11/2024 - 18:46:43"
         },
         {
             "song_name": "Weekend (feat. Miguel)",
