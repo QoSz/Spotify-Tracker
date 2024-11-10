@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "People Under The Stairs",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "10/11/2024 - 11:50:49"
+        },
+        {
             "song_name": "I Love Life, Thank You",
             "artists": [
                 "Mac Miller"
@@ -405,14 +413,6 @@
             ],
             "album": "Legend - The Best Of Bob Marley And The Wailers",
             "played_at": "08/11/2024 - 21:14:46"
-        },
-        {
-            "song_name": "One Love / People Get Ready",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:10:05"
         },
         {
             "song_name": "People Under The Stairs",
