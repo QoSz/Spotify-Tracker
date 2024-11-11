@@ -1241,6 +1241,56 @@
             "played_at": "08/11/2024 - 21:14:46"
         },
         {
+            "song_name": "Counting Stars",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Native",
+            "played_at": "11/11/2024 - 10:59:29"
+        },
+        {
+            "song_name": "Heat Waves",
+            "artists": [
+                "Glass Animals"
+            ],
+            "album": "Dreamland",
+            "played_at": "11/11/2024 - 10:55:12"
+        },
+        {
+            "song_name": "Little Girl Gone",
+            "artists": [
+                "CHINCHILLA"
+            ],
+            "album": "Little Girl Gone",
+            "played_at": "11/11/2024 - 10:51:12"
+        },
+        {
+            "song_name": "Where Did You Go? (feat. MNEK)",
+            "artists": [
+                "Jax Jones",
+                "MNEK"
+            ],
+            "album": "Where Did You Go (feat. MNEK)",
+            "played_at": "11/11/2024 - 10:48:03"
+        },
+        {
+            "song_name": "10:35",
+            "artists": [
+                "Tiësto",
+                "Tate McRae"
+            ],
+            "album": "DRIVE",
+            "played_at": "11/11/2024 - 10:45:05"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Artificial Paradise (Deluxe)",
+            "played_at": "11/11/2024 - 10:42:13"
+        },
+        {
             "song_name": "People Under The Stairs",
             "artists": [
                 "Mac Miller"
@@ -1604,54 +1654,6 @@
             ],
             "album": "Legend - The Best Of Bob Marley And The Wailers",
             "played_at": "08/11/2024 - 21:45:24"
-        },
-        {
-            "song_name": "Jamming",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:38:32"
-        },
-        {
-            "song_name": "Exodus",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:35:01"
-        },
-        {
-            "song_name": "Satisfy My Soul",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:27:21"
-        },
-        {
-            "song_name": "Redemption Song",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:22:50"
-        },
-        {
-            "song_name": "Waiting In Vain",
-            "artists": [
-                "Bob Marley & The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:19:02"
-        },
-        {
-            "song_name": "I Shot The Sheriff",
-            "artists": [
-                "The Wailers"
-            ],
-            "album": "Legend - The Best Of Bob Marley And The Wailers",
-            "played_at": "08/11/2024 - 21:14:46"
         }
     ]
 }
