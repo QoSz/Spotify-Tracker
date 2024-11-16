@@ -433,6 +433,14 @@
             "played_at": "15/11/2024 - 13:37:29"
         },
         {
+            "song_name": "Up&Up",
+            "artists": [
+                "Coldplay"
+            ],
+            "album": "A Head Full of Dreams",
+            "played_at": "16/11/2024 - 15:24:29"
+        },
+        {
             "song_name": "Everglow - Edit",
             "artists": [
                 "Coldplay"
@@ -853,15 +861,6 @@
             ],
             "album": "Solaris (Sabb Radiant Mix)",
             "played_at": "15/11/2024 - 14:37:25"
-        },
-        {
-            "song_name": "Sawa",
-            "artists": [
-                "Ahmed Spins",
-                "Idd Aziz"
-            ],
-            "album": "Sawa",
-            "played_at": "15/11/2024 - 13:37:29"
         },
         {
             "song_name": "Up&Up",
