@@ -1292,6 +1292,46 @@
             "played_at": "15/11/2024 - 14:37:25"
         },
         {
+            "song_name": "Loaded",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "17/11/2024 - 11:54:34"
+        },
+        {
+            "song_name": "Avian",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "17/11/2024 - 11:45:32"
+        },
+        {
+            "song_name": "fukumean",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "a Gift & a Curse",
+            "played_at": "17/11/2024 - 11:38:09"
+        },
+        {
+            "song_name": "Taste",
+            "artists": [
+                "Sabrina Carpenter"
+            ],
+            "album": "Short n' Sweet",
+            "played_at": "17/11/2024 - 11:36:11"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "17/11/2024 - 11:29:32"
+        },
+        {
             "song_name": "Up&Up",
             "artists": [
                 "Coldplay"
@@ -1672,54 +1712,6 @@
             ],
             "album": "Lugar Favorito",
             "played_at": "15/11/2024 - 15:20:46"
-        },
-        {
-            "song_name": "World Hold On - THEMBA Remix",
-            "artists": [
-                "Bob Sinclar",
-                "THEMBA",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (THEMBA Remix)",
-            "played_at": "15/11/2024 - 15:18:36"
-        },
-        {
-            "song_name": "Conga Mongo",
-            "artists": [
-                "AMÉMÉ"
-            ],
-            "album": "Power",
-            "played_at": "15/11/2024 - 15:14:27"
-        },
-        {
-            "song_name": "San Juan - Band&Dos Remix",
-            "artists": [
-                "Calussa",
-                "Sebastian Rivero",
-                "Band&dos"
-            ],
-            "album": "San Juan",
-            "played_at": "15/11/2024 - 15:09:48"
-        },
-        {
-            "song_name": "Solaris - Sabb Radiant Mix",
-            "artists": [
-                "Nico Morano",
-                "Jinadu",
-                "Sabb"
-            ],
-            "album": "Solaris (Sabb Radiant Mix)",
-            "played_at": "15/11/2024 - 15:06:17"
-        },
-        {
-            "song_name": "Solaris - Sabb Radiant Mix",
-            "artists": [
-                "Nico Morano",
-                "Jinadu",
-                "Sabb"
-            ],
-            "album": "Solaris (Sabb Radiant Mix)",
-            "played_at": "15/11/2024 - 14:37:25"
         }
     ]
 }
