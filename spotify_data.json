@@ -1235,6 +1235,103 @@
             "played_at": "15/11/2024 - 15:53:48"
         },
         {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "18/11/2024 - 09:52:12"
+        },
+        {
+            "song_name": "hey ya",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "hey ya",
+            "played_at": "18/11/2024 - 09:50:28"
+        },
+        {
+            "song_name": "Going Back",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Going Back",
+            "played_at": "18/11/2024 - 09:48:46"
+        },
+        {
+            "song_name": "chasing the sun",
+            "artists": [
+                "ikeya"
+            ],
+            "album": "chasing the sun",
+            "played_at": "18/11/2024 - 09:46:44"
+        },
+        {
+            "song_name": "coconut tree",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "corals 3",
+            "played_at": "18/11/2024 - 09:45:08"
+        },
+        {
+            "song_name": "luvin'",
+            "artists": [
+                "wüsh"
+            ],
+            "album": "Places",
+            "played_at": "18/11/2024 - 09:41:44"
+        },
+        {
+            "song_name": "Chill With Me",
+            "artists": [
+                "Midnight Hour"
+            ],
+            "album": "Chill With Me",
+            "played_at": "18/11/2024 - 09:40:22"
+        },
+        {
+            "song_name": "wonder",
+            "artists": [
+                "Billy Hammer"
+            ],
+            "album": "wonder",
+            "played_at": "18/11/2024 - 09:38:08"
+        },
+        {
+            "song_name": "Growing Apart",
+            "artists": [
+                "Swørn"
+            ],
+            "album": "Reflection",
+            "played_at": "18/11/2024 - 09:36:21"
+        },
+        {
+            "song_name": "End of the Night",
+            "artists": [
+                "Slumberville",
+                "Jon Bryant"
+            ],
+            "album": "End of the Night",
+            "played_at": "18/11/2024 - 09:34:45"
+        },
+        {
+            "song_name": "boulevard nights",
+            "artists": [
+                "Fujitsu"
+            ],
+            "album": "boulevard nights",
+            "played_at": "18/11/2024 - 09:32:31"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "17/11/2024 - 16:13:30"
+        },
+        {
             "song_name": "Lonely in London",
             "artists": [
                 "Slumberville"
@@ -1538,112 +1635,6 @@
             ],
             "album": "Viva La Vida or Death and All His Friends",
             "played_at": "16/11/2024 - 12:42:31"
-        },
-        {
-            "song_name": "Broken Boy",
-            "artists": [
-                "Prvnci"
-            ],
-            "album": "Eternity",
-            "played_at": "16/11/2024 - 12:38:08"
-        },
-        {
-            "song_name": "Dandelions (Lofi Version) - Cause Im In A Field Of Dandelions",
-            "artists": [
-                "LoFi Remix Guys",
-                "Dj Rehan"
-            ],
-            "album": "Dandelions (Lofi Version) [Cause Im In A Field Of Dandelions]",
-            "played_at": "16/11/2024 - 12:35:33"
-        },
-        {
-            "song_name": "high love",
-            "artists": [
-                "rayn",
-                "cloudseven",
-                "MELINA"
-            ],
-            "album": "high love",
-            "played_at": "15/11/2024 - 17:47:16"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "15/11/2024 - 16:48:47"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "15/11/2024 - 16:46:21"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "15/11/2024 - 16:43:40"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "15/11/2024 - 16:41:06"
-        },
-        {
-            "song_name": "One More Time",
-            "artists": [
-                "Creon Flips",
-                "Harvey"
-            ],
-            "album": "One More Time",
-            "played_at": "15/11/2024 - 16:38:19"
-        },
-        {
-            "song_name": "Sunbeams",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Sunbeams",
-            "played_at": "15/11/2024 - 16:36:21"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "15/11/2024 - 16:33:54"
-        },
-        {
-            "song_name": "Ohiboki",
-            "artists": [
-                "Ankhoï",
-                "Rita Kassid"
-            ],
-            "album": "Ohiboki",
-            "played_at": "15/11/2024 - 16:30:52"
-        },
-        {
-            "song_name": "Mawu",
-            "artists": [
-                "Augusto Yepes",
-                "Presi On",
-                "Renate"
-            ],
-            "album": "Mawu",
-            "played_at": "15/11/2024 - 15:53:48"
         }
     ]
 }
