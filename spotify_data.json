@@ -2,439 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "21/11/2024 - 20:18:28"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "21/11/2024 - 11:26:20"
-        },
-        {
-            "song_name": "Circles",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "21/11/2024 - 11:04:38"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "21/11/2024 - 11:01:02"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "21/11/2024 - 10:58:02"
-        },
-        {
-            "song_name": "Be Easy",
-            "artists": [
-                "Odeal",
-                "brazy"
-            ],
-            "album": "Be Easy",
-            "played_at": "21/11/2024 - 10:55:32"
-        },
-        {
-            "song_name": "Nevermind",
-            "artists": [
-                "Dennis Lloyd"
-            ],
-            "album": "Nevermind",
-            "played_at": "21/11/2024 - 10:53:20"
-        },
-        {
-            "song_name": "I Like You (A Happier Song) (with Doja Cat)",
-            "artists": [
-                "Post Malone",
-                "Doja Cat"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "21/11/2024 - 10:50:42"
-        },
-        {
-            "song_name": "Taste",
-            "artists": [
-                "Sabrina Carpenter"
-            ],
-            "album": "Short n' Sweet",
-            "played_at": "21/11/2024 - 10:47:29"
-        },
-        {
-            "song_name": "Heat Waves",
-            "artists": [
-                "Glass Animals"
-            ],
-            "album": "Dreamland",
-            "played_at": "21/11/2024 - 10:44:51"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "21/11/2024 - 10:40:52"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Electric Feel",
-            "played_at": "21/11/2024 - 10:37:37"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Electric Feel",
-            "played_at": "21/11/2024 - 09:47:46"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Artificial Paradise (Deluxe)",
-            "played_at": "21/11/2024 - 09:25:45"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "21/11/2024 - 09:23:16"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Move Me",
-            "played_at": "21/11/2024 - 09:20:41"
-        },
-        {
-            "song_name": "Every Teardrop Is a Waterfall",
-            "artists": [
-                "Coldplay"
-            ],
-            "album": "Mylo Xyloto",
-            "played_at": "21/11/2024 - 09:18:21"
-        },
-        {
-            "song_name": "Hot Air Balloon",
-            "artists": [
-                "Don Diablo",
-                "AR/CO"
-            ],
-            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
-            "played_at": "21/11/2024 - 09:14:19"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "Kenn Colt",
-                "Adam Pickard"
-            ],
-            "album": "BALANCE",
-            "played_at": "21/11/2024 - 09:11:25"
-        },
-        {
-            "song_name": "Wrapped Around Your Finger",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "21/11/2024 - 09:08:02"
-        },
-        {
-            "song_name": "New Beginnings",
-            "artists": [
-                "Sparkee"
-            ],
-            "album": "New Beginnings",
-            "played_at": "21/11/2024 - 09:04:48"
-        },
-        {
-            "song_name": "She Said (Big Jet Plane)",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "She Said (Big Jet Plane)",
-            "played_at": "21/11/2024 - 09:01:39"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "21/11/2024 - 08:58:45"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "Brendan Mills",
-                "Surfin' Sam"
-            ],
-            "album": "Use Somebody",
-            "played_at": "21/11/2024 - 08:55:11"
-        },
-        {
-            "song_name": "Paradise",
-            "artists": [
-                "José Lucas"
-            ],
-            "album": "Paradise",
-            "played_at": "21/11/2024 - 08:51:55"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "21/11/2024 - 08:48:39"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "20/11/2024 - 14:26:36"
-        },
-        {
-            "song_name": "Fast Car",
-            "artists": [
-                "Jonas Blue",
-                "Dakota"
-            ],
-            "album": "Blue",
-            "played_at": "20/11/2024 - 14:03:34"
-        },
-        {
-            "song_name": "Something Just Like This",
-            "artists": [
-                "The Chainsmokers",
-                "Coldplay"
-            ],
-            "album": "Memories...Do Not Open",
-            "played_at": "20/11/2024 - 14:00:01"
-        },
-        {
-            "song_name": "Circuit",
-            "artists": [
-                "Yann Muller",
-                "Fex",
-                "Motik",
-                "Adam Woods"
-            ],
-            "album": "Circuit",
-            "played_at": "20/11/2024 - 13:55:53"
-        },
-        {
-            "song_name": "All I Want Is You",
-            "artists": [
-                "Lavern",
-                "NEIMY"
-            ],
-            "album": "All I Want Is You",
-            "played_at": "20/11/2024 - 13:52:51"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "20/11/2024 - 13:50:21"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "20/11/2024 - 09:39:46"
-        },
-        {
-            "song_name": "Synchronize",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Trip Tape II",
-            "played_at": "20/11/2024 - 09:21:47"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Sleepless",
-            "played_at": "20/11/2024 - 09:19:03"
-        },
-        {
-            "song_name": "Hymn for the Weekend",
-            "artists": [
-                "Coldplay"
-            ],
-            "album": "A Head Full of Dreams",
-            "played_at": "20/11/2024 - 09:15:56"
-        },
-        {
-            "song_name": "Saturday Night (Feel The Groove)",
-            "artists": [
-                "Brando",
-                "Ninetails"
-            ],
-            "album": "Saturday Night (Feel The Groove)",
-            "played_at": "20/11/2024 - 09:11:37"
-        },
-        {
-            "song_name": "Sabaii",
-            "artists": [
-                "Deep Chills",
-                "Five Corners",
-                "Natty Rico"
-            ],
-            "album": "Sabaii",
-            "played_at": "20/11/2024 - 09:09:03"
-        },
-        {
-            "song_name": "Slow Down",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Slow Down",
-            "played_at": "20/11/2024 - 09:06:39"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "20/11/2024 - 09:04:21"
-        },
-        {
-            "song_name": "Thinking Of You",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Thinking Of You",
-            "played_at": "20/11/2024 - 09:02:03"
-        },
-        {
-            "song_name": "House Of Cards",
-            "artists": [
-                "Lucas Estrada",
-                "Deepend",
-                "Dan Caplen"
-            ],
-            "album": "House Of Cards",
-            "played_at": "20/11/2024 - 08:59:30"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "20/11/2024 - 08:56:52"
-        },
-        {
-            "song_name": "Gatluak - Bakermat Remix",
-            "artists": [
-                "Kronan",
-                "Nyaruach",
-                "Bakermat"
-            ],
-            "album": "Gatluak (Bakermat Remix)",
-            "played_at": "20/11/2024 - 08:54:09"
-        },
-        {
-            "song_name": "Following the Sun",
-            "artists": [
-                "SUPER-Hi",
-                "NEEKA"
-            ],
-            "album": "Following the Sun",
-            "played_at": "20/11/2024 - 08:51:49"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "20/11/2024 - 08:48:24"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "20/11/2024 - 08:45:03"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "20/11/2024 - 08:42:20"
-        },
-        {
-            "song_name": "Ballad of a Badman",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "19/11/2024 - 13:41:56"
-        },
-        {
-            "song_name": "RAPSTAR",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "Hall of Fame",
-            "played_at": "19/11/2024 - 13:39:45"
-        },
-        {
             "song_name": "Miss You",
             "artists": [
                 "Nu Aspect",
@@ -1724,6 +1291,429 @@
             ],
             "album": "Hollywood's Bleeding",
             "played_at": "21/11/2024 - 11:04:38"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Slow It Down",
+            "played_at": "22/11/2024 - 11:41:59"
+        },
+        {
+            "song_name": "The Emptiness Machine",
+            "artists": [
+                "Linkin Park"
+            ],
+            "album": "The Emptiness Machine",
+            "played_at": "22/11/2024 - 11:39:17"
+        },
+        {
+            "song_name": "Alibi (feat. Rudimental)",
+            "artists": [
+                "Ella Henderson",
+                "Rudimental"
+            ],
+            "album": "Alibi (feat. Rudimental)",
+            "played_at": "22/11/2024 - 11:36:06"
+        },
+        {
+            "song_name": "i like the way you kiss me",
+            "artists": [
+                "Artemas"
+            ],
+            "album": "i like the way you kiss me",
+            "played_at": "22/11/2024 - 11:33:02"
+        },
+        {
+            "song_name": "Even (with Cat Burns)",
+            "artists": [
+                "Rachel Chinouriri",
+                "Cat Burns"
+            ],
+            "album": "Even (with Cat Burns)",
+            "played_at": "22/11/2024 - 11:06:00"
+        },
+        {
+            "song_name": "Burning Down",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "Burning Down",
+            "played_at": "22/11/2024 - 11:03:28"
+        },
+        {
+            "song_name": "KEHLANI (REMIX) [feat. Kehlani]",
+            "artists": [
+                "Jordan Adetunji",
+                "Kehlani"
+            ],
+            "album": "KEHLANI (REMIX) [feat. Kehlani]",
+            "played_at": "22/11/2024 - 11:00:29"
+        },
+        {
+            "song_name": "Bad Dreams",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "Bad Dreams",
+            "played_at": "22/11/2024 - 10:57:29"
+        },
+        {
+            "song_name": "Thick Of It (feat. Trippie Redd)",
+            "artists": [
+                "KSI",
+                "Trippie Redd"
+            ],
+            "album": "Thick Of It (feat. Trippie Redd) / Low",
+            "played_at": "22/11/2024 - 10:54:24"
+        },
+        {
+            "song_name": "On My Love",
+            "artists": [
+                "Zara Larsson",
+                "David Guetta"
+            ],
+            "album": "On My Love (Sped Up)",
+            "played_at": "22/11/2024 - 10:51:43"
+        },
+        {
+            "song_name": "Beautiful Things",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "22/11/2024 - 10:48:00"
+        },
+        {
+            "song_name": "Scared To Start",
+            "artists": [
+                "Michael Marcagi"
+            ],
+            "album": "Scared To Start",
+            "played_at": "22/11/2024 - 10:45:00"
+        },
+        {
+            "song_name": "Guess featuring billie eilish",
+            "artists": [
+                "Charli xcx",
+                "Billie Eilish"
+            ],
+            "album": "Guess featuring Billie Eilish",
+            "played_at": "22/11/2024 - 10:42:21"
+        },
+        {
+            "song_name": "Happier (feat. Clementine Douglas)",
+            "artists": [
+                "The Blessed Madonna",
+                "Clementine Douglas"
+            ],
+            "album": "Happier (feat. Clementine Douglas)",
+            "played_at": "22/11/2024 - 10:39:57"
+        },
+        {
+            "song_name": "BACKBONE",
+            "artists": [
+                "Chase & Status",
+                "Stormzy"
+            ],
+            "album": "BACKBONE",
+            "played_at": "22/11/2024 - 10:37:07"
+        },
+        {
+            "song_name": "Austin (Boots Stop Workin')",
+            "artists": [
+                "Dasha"
+            ],
+            "album": "Austin (Boots Stop Workin')",
+            "played_at": "22/11/2024 - 10:34:20"
+        },
+        {
+            "song_name": "Sailor Song",
+            "artists": [
+                "Gigi Perez"
+            ],
+            "album": "Sailor Song",
+            "played_at": "22/11/2024 - 10:06:37"
+        },
+        {
+            "song_name": "ALL MY LOVE",
+            "artists": [
+                "Coldplay"
+            ],
+            "album": "Moon Music",
+            "played_at": "22/11/2024 - 10:03:05"
+        },
+        {
+            "song_name": "Good Luck, Babe!",
+            "artists": [
+                "Chappell Roan"
+            ],
+            "album": "Good Luck, Babe!",
+            "played_at": "22/11/2024 - 09:59:23"
+        },
+        {
+            "song_name": "Kisses (feat. bbyclose)",
+            "artists": [
+                "BL3SS",
+                "CamrinWatsin",
+                "bbyclose"
+            ],
+            "album": "Kisses (feat. bbyclose)",
+            "played_at": "22/11/2024 - 09:55:44"
+        },
+        {
+            "song_name": "Sympathy is a knife featuring ariana grande",
+            "artists": [
+                "Charli xcx",
+                "Ariana Grande"
+            ],
+            "album": "Brat and it’s completely different but also still brat",
+            "played_at": "22/11/2024 - 09:53:26"
+        },
+        {
+            "song_name": "Die With A Smile",
+            "artists": [
+                "Lady Gaga",
+                "Bruno Mars"
+            ],
+            "album": "Die With A Smile",
+            "played_at": "22/11/2024 - 09:50:52"
+        },
+        {
+            "song_name": "Somedays",
+            "artists": [
+                "Sonny Fodera",
+                "Jazzy",
+                "D.O.D"
+            ],
+            "album": "Somedays",
+            "played_at": "22/11/2024 - 09:46:40"
+        },
+        {
+            "song_name": "Taste",
+            "artists": [
+                "Sabrina Carpenter"
+            ],
+            "album": "Short n' Sweet",
+            "played_at": "22/11/2024 - 09:43:13"
+        },
+        {
+            "song_name": "The Door",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "I've Tried Everything But Therapy (Part 1)",
+            "played_at": "22/11/2024 - 09:40:36"
+        },
+        {
+            "song_name": "APT.",
+            "artists": [
+                "ROSÉ",
+                "Bruno Mars"
+            ],
+            "album": "APT.",
+            "played_at": "22/11/2024 - 09:37:03"
+        },
+        {
+            "song_name": "Before The Sun",
+            "artists": [
+                "Panta Ray"
+            ],
+            "album": "Before The Sun",
+            "played_at": "22/11/2024 - 09:34:09"
+        },
+        {
+            "song_name": "Parrot Cay",
+            "artists": [
+                "Deep Chills"
+            ],
+            "album": "Parrot Cay",
+            "played_at": "22/11/2024 - 09:31:07"
+        },
+        {
+            "song_name": "Sunset",
+            "artists": [
+                "FYDE"
+            ],
+            "album": "Sunset",
+            "played_at": "22/11/2024 - 09:28:27"
+        },
+        {
+            "song_name": "Sun is Dark",
+            "artists": [
+                "BangLoud",
+                "Mateo"
+            ],
+            "album": "Sun is Dark",
+            "played_at": "22/11/2024 - 09:26:37"
+        },
+        {
+            "song_name": "Move Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Move Me",
+            "played_at": "22/11/2024 - 09:24:17"
+        },
+        {
+            "song_name": "She Said (Big Jet Plane)",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "She Said (Big Jet Plane)",
+            "played_at": "22/11/2024 - 09:21:57"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "TWOPILOTS",
+                "De Hofnar"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "22/11/2024 - 09:19:04"
+        },
+        {
+            "song_name": "This Is Love",
+            "artists": [
+                "Snazzy"
+            ],
+            "album": "Feels",
+            "played_at": "22/11/2024 - 09:16:09"
+        },
+        {
+            "song_name": "Too Close To The Sun",
+            "artists": [
+                "Portugal Sunset"
+            ],
+            "album": "Too Close To The Sun",
+            "played_at": "22/11/2024 - 09:14:01"
+        },
+        {
+            "song_name": "I Need To Feel",
+            "artists": [
+                "Two Muses After"
+            ],
+            "album": "I Need To Feel",
+            "played_at": "22/11/2024 - 09:11:38"
+        },
+        {
+            "song_name": "Golden Sunset",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Golden Sunset",
+            "played_at": "22/11/2024 - 09:08:19"
+        },
+        {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "22/11/2024 - 09:05:57"
+        },
+        {
+            "song_name": "Aural Therapy",
+            "artists": [
+                "fwd/slash"
+            ],
+            "album": "Aural Therapy",
+            "played_at": "22/11/2024 - 09:03:30"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "22/11/2024 - 09:00:54"
+        },
+        {
+            "song_name": "Miss You",
+            "artists": [
+                "Nu Aspect",
+                "Jamis",
+                "Poppy Baskcomb"
+            ],
+            "album": "Miss You",
+            "played_at": "22/11/2024 - 08:58:11"
+        },
+        {
+            "song_name": "Hold On",
+            "artists": [
+                "49th & Main",
+                "SHEE"
+            ],
+            "album": "Hold On",
+            "played_at": "22/11/2024 - 08:54:57"
+        },
+        {
+            "song_name": "All I Want Is You",
+            "artists": [
+                "Lavern",
+                "NEIMY"
+            ],
+            "album": "All I Want Is You",
+            "played_at": "22/11/2024 - 08:52:38"
+        },
+        {
+            "song_name": "Yebba's Heartbreak (I Do)",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Yebba's Heartbreak (I Do)",
+            "played_at": "22/11/2024 - 08:50:08"
+        },
+        {
+            "song_name": "Coast Ride",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Coast Ride",
+            "played_at": "22/11/2024 - 08:47:43"
+        },
+        {
+            "song_name": "Every Step",
+            "artists": [
+                "D.O.D"
+            ],
+            "album": "Every Step",
+            "played_at": "22/11/2024 - 08:45:24"
+        },
+        {
+            "song_name": "You Got Me",
+            "artists": [
+                "Fella Sleep"
+            ],
+            "album": "You Got Me",
+            "played_at": "22/11/2024 - 08:42:44"
+        },
+        {
+            "song_name": "Spring Rains",
+            "artists": [
+                "Drics"
+            ],
+            "album": "Spring Rains",
+            "played_at": "22/11/2024 - 08:40:58"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "22/11/2024 - 08:38:03"
+        },
+        {
+            "song_name": "Counting Stars",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Native",
+            "played_at": "22/11/2024 - 08:35:40"
         }
     ]
 }
