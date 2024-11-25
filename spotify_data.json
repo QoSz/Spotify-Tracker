@@ -2,446 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "The Feeling",
-            "artists": [
-                "Lost Frequencies",
-                "Bonn"
-            ],
-            "album": "All Stand Together",
-            "played_at": "25/11/2024 - 09:58:15"
-        },
-        {
-            "song_name": "Thinking Of You",
-            "artists": [
-                "Pierse"
-            ],
-            "album": "Thinking Of You",
-            "played_at": "25/11/2024 - 09:55:41"
-        },
-        {
-            "song_name": "Sugar Sweet",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Sugar Sweet",
-            "played_at": "25/11/2024 - 09:53:08"
-        },
-        {
-            "song_name": "Lady Love",
-            "artists": [
-                "Oden & Fatzo",
-                "Camden Cox"
-            ],
-            "album": "Lady Love",
-            "played_at": "25/11/2024 - 09:50:18"
-        },
-        {
-            "song_name": "Sunroof",
-            "artists": [
-                "Nicky Youre",
-                "dazy"
-            ],
-            "album": "Good Times Go",
-            "played_at": "25/11/2024 - 09:47:24"
-        },
-        {
-            "song_name": "The Door",
-            "artists": [
-                "Teddy Swims"
-            ],
-            "album": "I've Tried Everything But Therapy (Part 1)",
-            "played_at": "25/11/2024 - 09:44:41"
-        },
-        {
-            "song_name": "Where Are You Now",
-            "artists": [
-                "Lost Frequencies",
-                "Calum Scott"
-            ],
-            "album": "All Stand Together",
-            "played_at": "25/11/2024 - 09:41:08"
-        },
-        {
-            "song_name": "NIGHTS LIKE THESE",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Walk Me Home...",
-            "played_at": "25/11/2024 - 09:38:39"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "25/11/2024 - 09:35:46"
-        },
-        {
-            "song_name": "Following the Sun",
-            "artists": [
-                "SUPER-Hi",
-                "NEEKA"
-            ],
-            "album": "Following the Sun",
-            "played_at": "25/11/2024 - 09:33:21"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "25/11/2024 - 09:29:56"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "25/11/2024 - 09:27:24"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "25/11/2024 - 09:24:44"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "25/11/2024 - 09:21:33"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "25/11/2024 - 09:18:50"
-        },
-        {
-            "song_name": "Underneath the Tree",
-            "artists": [
-                "Kelly Clarkson"
-            ],
-            "album": "Wrapped In Red",
-            "played_at": "25/11/2024 - 09:14:50"
-        },
-        {
-            "song_name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",
-            "artists": [
-                "Kendrick Lamar",
-                "Wallie the Sensei",
-                "Siete7x",
-                "Roddy Ricch"
-            ],
-            "album": "GNX",
-            "played_at": "25/11/2024 - 09:11:01"
-        },
-        {
-            "song_name": "Good Luck, Babe!",
-            "artists": [
-                "Chappell Roan"
-            ],
-            "album": "Good Luck, Babe!",
-            "played_at": "25/11/2024 - 09:08:49"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "23/11/2024 - 17:54:28"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "23/11/2024 - 12:00:20"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "22/11/2024 - 18:34:59"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "22/11/2024 - 17:33:50"
-        },
-        {
-            "song_name": "Following the Sun",
-            "artists": [
-                "SUPER-Hi",
-                "NEEKA"
-            ],
-            "album": "Following the Sun",
-            "played_at": "22/11/2024 - 17:31:25"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "22/11/2024 - 17:28:00"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "22/11/2024 - 17:25:27"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "22/11/2024 - 17:23:06"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "22/11/2024 - 17:19:30"
-        },
-        {
-            "song_name": "Something Just Like This",
-            "artists": [
-                "The Chainsmokers",
-                "Coldplay"
-            ],
-            "album": "Memories...Do Not Open",
-            "played_at": "22/11/2024 - 17:16:30"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "22/11/2024 - 17:09:20"
-        },
-        {
-            "song_name": "Sweet Love",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "You Promised A Lifetime",
-            "played_at": "22/11/2024 - 17:07:52"
-        },
-        {
-            "song_name": "Young Again",
-            "artists": [
-                "Don Diablo",
-                "Sandro Cavazza"
-            ],
-            "album": "Young Again",
-            "played_at": "22/11/2024 - 17:05:23"
-        },
-        {
-            "song_name": "My Universe",
-            "artists": [
-                "Coldplay",
-                "BTS"
-            ],
-            "album": "Music Of The Spheres",
-            "played_at": "22/11/2024 - 17:02:06"
-        },
-        {
-            "song_name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework",
-            "artists": [
-                "HUGEL"
-            ],
-            "album": "Patadas de Ahogado / LATÍN MAFIA, HUMBE (Rework)",
-            "played_at": "22/11/2024 - 16:58:20"
-        },
-        {
-            "song_name": "World Hold On (Children Of The Sky) - FISHER Rework",
-            "artists": [
-                "Bob Sinclar",
-                "FISHER",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (Children Of The Sky) [FISHER Rework]",
-            "played_at": "22/11/2024 - 16:55:14"
-        },
-        {
-            "song_name": "Move (feat. Camila Cabello & Malachiii)",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Camila Cabello",
-                "Keinemusik",
-                "Malachiii",
-                "Orso"
-            ],
-            "album": "Move (feat. Camila Cabello & Malachiii)",
-            "played_at": "22/11/2024 - 16:52:15"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Ever-Shifting, Continual Blossoming",
-            "played_at": "22/11/2024 - 16:49:15"
-        },
-        {
-            "song_name": "Good News",
-            "artists": [
-                "Shaboozey"
-            ],
-            "album": "Good News",
-            "played_at": "22/11/2024 - 16:46:50"
-        },
-        {
-            "song_name": "ROOM FOR 2",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "ROOM FOR 2",
-            "played_at": "22/11/2024 - 16:43:31"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "22/11/2024 - 16:40:59"
-        },
-        {
-            "song_name": "The Feeling",
-            "artists": [
-                "Lost Frequencies",
-                "Bonn"
-            ],
-            "album": "All Stand Together",
-            "played_at": "22/11/2024 - 16:39:32"
-        },
-        {
-            "song_name": "I Adore You (feat. Daecolm)",
-            "artists": [
-                "HUGEL",
-                "Topic",
-                "Arash",
-                "Daecolm"
-            ],
-            "album": "I Adore You (feat. Daecolm)",
-            "played_at": "22/11/2024 - 16:36:58"
-        },
-        {
-            "song_name": "My Home",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "My Home",
-            "played_at": "22/11/2024 - 16:33:24"
-        },
-        {
-            "song_name": "Yellow",
-            "artists": [
-                "Coldplay"
-            ],
-            "album": "Parachutes",
-            "played_at": "22/11/2024 - 16:29:57"
-        },
-        {
-            "song_name": "Half of forever",
-            "artists": [
-                "Henrik"
-            ],
-            "album": "Half of forever",
-            "played_at": "22/11/2024 - 16:25:31"
-        },
-        {
-            "song_name": "Reflections",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "22/11/2024 - 16:22:57"
-        },
-        {
-            "song_name": "Sunroof",
-            "artists": [
-                "Nicky Youre",
-                "dazy"
-            ],
-            "album": "Good Times Go",
-            "played_at": "22/11/2024 - 16:18:53"
-        },
-        {
-            "song_name": "Mwaki",
-            "artists": [
-                "Zerb",
-                "Sofiya Nzau"
-            ],
-            "album": "Mwaki",
-            "played_at": "22/11/2024 - 16:16:10"
-        },
-        {
-            "song_name": "Lady Love",
-            "artists": [
-                "Oden & Fatzo",
-                "Camden Cox"
-            ],
-            "album": "Lady Love",
-            "played_at": "22/11/2024 - 16:12:42"
-        },
-        {
-            "song_name": "Sun to Me",
-            "artists": [
-                "Zach Bryan"
-            ],
-            "album": "American Heartbreak",
-            "played_at": "22/11/2024 - 16:09:48"
-        },
-        {
-            "song_name": "Back To You",
-            "artists": [
-                "Lost Frequencies",
-                "Elley Duhé",
-                "X Ambassadors"
-            ],
-            "album": "All Stand Together",
-            "played_at": "22/11/2024 - 16:07:05"
-        },
-        {
             "song_name": "Echo",
             "artists": [
                 "RSCL",
@@ -1756,6 +1316,443 @@
             ],
             "album": "All Stand Together",
             "played_at": "22/11/2024 - 16:39:32"
+        },
+        {
+            "song_name": "Ocean Sounds",
+            "artists": [
+                "Larry June",
+                "The Alchemist"
+            ],
+            "album": "The Great Escape",
+            "played_at": "25/11/2024 - 14:59:30"
+        },
+        {
+            "song_name": "Out Of My Hands",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "25/11/2024 - 14:56:53"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "25/11/2024 - 14:52:50"
+        },
+        {
+            "song_name": "Cream",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "25/11/2024 - 14:51:23"
+        },
+        {
+            "song_name": "Fever",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "25/11/2024 - 14:49:30"
+        },
+        {
+            "song_name": "sdp interlude",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "Birds In The Trap Sing McKnight",
+            "played_at": "25/11/2024 - 14:47:07"
+        },
+        {
+            "song_name": "Everyday Hustle",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Rick Ross"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "25/11/2024 - 14:43:55"
+        },
+        {
+            "song_name": "RAPSTAR",
+            "artists": [
+                "Polo G"
+            ],
+            "album": "Hall of Fame",
+            "played_at": "25/11/2024 - 14:40:08"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "25/11/2024 - 14:37:23"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "25/11/2024 - 14:34:44"
+        },
+        {
+            "song_name": "Chill Bae",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake 2",
+            "played_at": "25/11/2024 - 14:32:30"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "25/11/2024 - 14:30:11"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "25/11/2024 - 14:17:54"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "25/11/2024 - 14:17:11"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "25/11/2024 - 11:43:14"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "25/11/2024 - 11:06:51"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "25/11/2024 - 10:05:28"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Slow Down",
+            "played_at": "25/11/2024 - 10:03:09"
+        },
+        {
+            "song_name": "House Of Cards",
+            "artists": [
+                "Lucas Estrada",
+                "Deepend",
+                "Dan Caplen"
+            ],
+            "album": "House Of Cards",
+            "played_at": "25/11/2024 - 10:00:52"
+        },
+        {
+            "song_name": "The Feeling",
+            "artists": [
+                "Lost Frequencies",
+                "Bonn"
+            ],
+            "album": "All Stand Together",
+            "played_at": "25/11/2024 - 09:58:15"
+        },
+        {
+            "song_name": "Thinking Of You",
+            "artists": [
+                "Pierse"
+            ],
+            "album": "Thinking Of You",
+            "played_at": "25/11/2024 - 09:55:41"
+        },
+        {
+            "song_name": "Sugar Sweet",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Sugar Sweet",
+            "played_at": "25/11/2024 - 09:53:08"
+        },
+        {
+            "song_name": "Lady Love",
+            "artists": [
+                "Oden & Fatzo",
+                "Camden Cox"
+            ],
+            "album": "Lady Love",
+            "played_at": "25/11/2024 - 09:50:18"
+        },
+        {
+            "song_name": "Sunroof",
+            "artists": [
+                "Nicky Youre",
+                "dazy"
+            ],
+            "album": "Good Times Go",
+            "played_at": "25/11/2024 - 09:47:24"
+        },
+        {
+            "song_name": "The Door",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "I've Tried Everything But Therapy (Part 1)",
+            "played_at": "25/11/2024 - 09:44:41"
+        },
+        {
+            "song_name": "Where Are You Now",
+            "artists": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "album": "All Stand Together",
+            "played_at": "25/11/2024 - 09:41:08"
+        },
+        {
+            "song_name": "NIGHTS LIKE THESE",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Walk Me Home...",
+            "played_at": "25/11/2024 - 09:38:39"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "25/11/2024 - 09:35:46"
+        },
+        {
+            "song_name": "Following the Sun",
+            "artists": [
+                "SUPER-Hi",
+                "NEEKA"
+            ],
+            "album": "Following the Sun",
+            "played_at": "25/11/2024 - 09:33:21"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "25/11/2024 - 09:29:56"
+        },
+        {
+            "song_name": "Every Step",
+            "artists": [
+                "D.O.D"
+            ],
+            "album": "Every Step",
+            "played_at": "25/11/2024 - 09:27:24"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "25/11/2024 - 09:24:44"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "25/11/2024 - 09:21:33"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "25/11/2024 - 09:18:50"
+        },
+        {
+            "song_name": "Underneath the Tree",
+            "artists": [
+                "Kelly Clarkson"
+            ],
+            "album": "Wrapped In Red",
+            "played_at": "25/11/2024 - 09:14:50"
+        },
+        {
+            "song_name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",
+            "artists": [
+                "Kendrick Lamar",
+                "Wallie the Sensei",
+                "Siete7x",
+                "Roddy Ricch"
+            ],
+            "album": "GNX",
+            "played_at": "25/11/2024 - 09:11:01"
+        },
+        {
+            "song_name": "Good Luck, Babe!",
+            "artists": [
+                "Chappell Roan"
+            ],
+            "album": "Good Luck, Babe!",
+            "played_at": "25/11/2024 - 09:08:49"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "23/11/2024 - 17:54:28"
+        },
+        {
+            "song_name": "Prices",
+            "artists": [
+                "Lil Uzi Vert",
+                "WanMor"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "23/11/2024 - 14:07:09"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "23/11/2024 - 13:56:56"
+        },
+        {
+            "song_name": "Loaded",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "23/11/2024 - 13:54:25"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "23/11/2024 - 12:00:20"
+        },
+        {
+            "song_name": "Loaded",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "23/11/2024 - 11:16:22"
+        },
+        {
+            "song_name": "Avian",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "23/11/2024 - 11:08:28"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "23/11/2024 - 11:00:37"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "22/11/2024 - 18:34:59"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "22/11/2024 - 17:33:50"
+        },
+        {
+            "song_name": "Following the Sun",
+            "artists": [
+                "SUPER-Hi",
+                "NEEKA"
+            ],
+            "album": "Following the Sun",
+            "played_at": "22/11/2024 - 17:31:25"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "22/11/2024 - 17:28:00"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "22/11/2024 - 17:25:27"
         }
     ]
 }
