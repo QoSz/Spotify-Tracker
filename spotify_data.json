@@ -1289,6 +1289,59 @@
             "played_at": "26/11/2024 - 13:33:44"
         },
         {
+            "song_name": "Riot",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Riot",
+            "played_at": "28/11/2024 - 08:39:05"
+        },
+        {
+            "song_name": "Had Enough (feat. Quavo & Offset)",
+            "artists": [
+                "Don Toliver",
+                "Offset",
+                "Quavo"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "28/11/2024 - 08:37:14"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "28/11/2024 - 08:34:37"
+        },
+        {
+            "song_name": "Stay High",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Legends Never Die",
+            "played_at": "28/11/2024 - 08:32:00"
+        },
+        {
+            "song_name": "Thrusting (feat. Swae Lee & Future)",
+            "artists": [
+                "Internet Money",
+                "Swae Lee",
+                "Future"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "28/11/2024 - 08:29:11"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "28/11/2024 - 08:22:43"
+        },
+        {
             "song_name": "All Me",
             "artists": [
                 "Drake",
@@ -1666,56 +1719,6 @@
             ],
             "album": "Used To You",
             "played_at": "26/11/2024 - 14:23:50"
-        },
-        {
-            "song_name": "All Me",
-            "artists": [
-                "Drake",
-                "2 Chainz",
-                "Big Sean"
-            ],
-            "album": "Nothing Was The Same (Deluxe)",
-            "played_at": "26/11/2024 - 13:48:25"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "26/11/2024 - 13:44:00"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "26/11/2024 - 13:42:36"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "26/11/2024 - 13:38:43"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "26/11/2024 - 13:36:26"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "26/11/2024 - 13:33:44"
         }
     ]
 }
