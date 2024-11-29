@@ -2,435 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Let U Go",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "Let U Go",
-            "played_at": "28/11/2024 - 17:48:01"
-        },
-        {
-            "song_name": "Spinnin",
-            "artists": [
-                "Connor Price",
-                "Bens"
-            ],
-            "album": "Spin The Globe",
-            "played_at": "28/11/2024 - 17:45:53"
-        },
-        {
-            "song_name": "Her Eyes",
-            "artists": [
-                "Charlie Jeer"
-            ],
-            "album": "Her Eyes",
-            "played_at": "28/11/2024 - 17:44:02"
-        },
-        {
-            "song_name": "Star Shopping",
-            "artists": [
-                "Lil Peep"
-            ],
-            "album": "Star Shopping",
-            "played_at": "28/11/2024 - 17:40:27"
-        },
-        {
-            "song_name": "Through the Fire",
-            "artists": [
-                "PALASTIC",
-                "Sam Welch"
-            ],
-            "album": "Through the Fire",
-            "played_at": "28/11/2024 - 16:32:52"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "28/11/2024 - 16:30:22"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "28/11/2024 - 16:27:55"
-        },
-        {
-            "song_name": "Clouds",
-            "artists": [
-                "BUNT.",
-                "Nate Traveller"
-            ],
-            "album": "Levi Don't Do It",
-            "played_at": "28/11/2024 - 16:25:12"
-        },
-        {
-            "song_name": "Half of forever",
-            "artists": [
-                "Henrik"
-            ],
-            "album": "Half of forever",
-            "played_at": "28/11/2024 - 16:22:32"
-        },
-        {
-            "song_name": "Call You",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "Call You",
-            "played_at": "28/11/2024 - 16:19:59"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "28/11/2024 - 16:17:50"
-        },
-        {
-            "song_name": "Now or Never",
-            "artists": [
-                "Trinix",
-                "Dominic Neill"
-            ],
-            "album": "Now or Never",
-            "played_at": "28/11/2024 - 16:15:11"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "Levi"
-            ],
-            "album": "Jump",
-            "played_at": "28/11/2024 - 16:12:08"
-        },
-        {
-            "song_name": "I Only Smoke When I Drink",
-            "artists": [
-                "nimino"
-            ],
-            "album": "I Only Smoke When I Drink",
-            "played_at": "28/11/2024 - 16:09:33"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "28/11/2024 - 16:06:15"
-        },
-        {
-            "song_name": "dance with me",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "dance with me",
-            "played_at": "28/11/2024 - 16:03:08"
-        },
-        {
-            "song_name": "The Darkside",
-            "artists": [
-                "PALASTIC",
-                "Ekko"
-            ],
-            "album": "The Darkside",
-            "played_at": "28/11/2024 - 16:01:02"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "28/11/2024 - 15:58:17"
-        },
-        {
-            "song_name": "Anything For You",
-            "artists": [
-                "Nyday"
-            ],
-            "album": "Anything For You",
-            "played_at": "28/11/2024 - 15:55:33"
-        },
-        {
-            "song_name": "Out of Body",
-            "artists": [
-                "Ruffnux",
-                "le moon",
-                "soleil"
-            ],
-            "album": "Out of Body",
-            "played_at": "28/11/2024 - 15:53:29"
-        },
-        {
-            "song_name": "Chihiro",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Chihiro",
-            "played_at": "28/11/2024 - 15:51:03"
-        },
-        {
-            "song_name": "Gone",
-            "artists": [
-                "lucidbeatz",
-                "Ardeycat"
-            ],
-            "album": "Gone",
-            "played_at": "28/11/2024 - 15:48:54"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "28/11/2024 - 15:46:50"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "28/11/2024 - 15:44:08"
-        },
-        {
-            "song_name": "Riot",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Riot",
-            "played_at": "28/11/2024 - 15:44:07"
-        },
-        {
-            "song_name": "Prices",
-            "artists": [
-                "Lil Uzi Vert",
-                "WanMor"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "28/11/2024 - 15:41:41"
-        },
-        {
-            "song_name": "COLOGNE",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "COLOGNE",
-            "played_at": "28/11/2024 - 15:41:27"
-        },
-        {
-            "song_name": "Bad Dreams",
-            "artists": [
-                "Teddy Swims"
-            ],
-            "album": "Bad Dreams",
-            "played_at": "28/11/2024 - 15:38:07"
-        },
-        {
-            "song_name": "Riot",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Riot",
-            "played_at": "28/11/2024 - 15:37:28"
-        },
-        {
-            "song_name": "Riot",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Riot",
-            "played_at": "28/11/2024 - 15:34:55"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "28/11/2024 - 14:53:17"
-        },
-        {
-            "song_name": "you & i - sped up",
-            "artists": [
-                "lucidbeatz",
-                "Emilia Ali"
-            ],
-            "album": "you & i",
-            "played_at": "28/11/2024 - 14:51:02"
-        },
-        {
-            "song_name": "I Think I Like When It Rains",
-            "artists": [
-                "WILLIS"
-            ],
-            "album": "Locals 2",
-            "played_at": "28/11/2024 - 14:48:48"
-        },
-        {
-            "song_name": "Midas",
-            "artists": [
-                "Maribou State",
-                "Holly Walker"
-            ],
-            "album": "Portraits",
-            "played_at": "28/11/2024 - 14:44:10"
-        },
-        {
-            "song_name": "Smooth Operator - TikTok Remix",
-            "artists": [
-                "Scammacist",
-                "MYKA",
-                "KYRA"
-            ],
-            "album": "Smooth Operator - TikTok Remix",
-            "played_at": "28/11/2024 - 14:40:30"
-        },
-        {
-            "song_name": "Smooth Operator - TikTok Remix",
-            "artists": [
-                "Scammacist",
-                "MYKA",
-                "KYRA"
-            ],
-            "album": "Smooth Operator - TikTok Remix",
-            "played_at": "28/11/2024 - 12:18:42"
-        },
-        {
-            "song_name": "Champagne Shots",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Local Mvp",
-            "played_at": "28/11/2024 - 12:03:01"
-        },
-        {
-            "song_name": "LET'S GO",
-            "artists": [
-                "Jaden Bojsen",
-                "Sami Brielle"
-            ],
-            "album": "LET'S GO",
-            "played_at": "28/11/2024 - 12:00:36"
-        },
-        {
-            "song_name": "Wild Ones (feat. Jelly Roll)",
-            "artists": [
-                "Jessie Murph",
-                "Jelly Roll"
-            ],
-            "album": "That Ain't No Man That's The Devil",
-            "played_at": "28/11/2024 - 11:57:23"
-        },
-        {
-            "song_name": "Nothing Burns Like The Cold",
-            "artists": [
-                "Snoh Aalegra",
-                "Vince Staples"
-            ],
-            "album": "FEELS",
-            "played_at": "28/11/2024 - 11:55:01"
-        },
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Shallou"
-            ],
-            "album": "Magical Thinking",
-            "played_at": "28/11/2024 - 11:51:31"
-        },
-        {
-            "song_name": "Heatstroke",
-            "artists": [
-                "Khalid"
-            ],
-            "album": "Sincere",
-            "played_at": "28/11/2024 - 11:48:36"
-        },
-        {
-            "song_name": "Foreplay",
-            "artists": [
-                "Jalen Santoy"
-            ],
-            "album": "II Shepherds",
-            "played_at": "28/11/2024 - 11:44:41"
-        },
-        {
-            "song_name": "A Tear in Space (Airlock)",
-            "artists": [
-                "Glass Animals"
-            ],
-            "album": "I Love You So F***ing Much",
-            "played_at": "28/11/2024 - 11:41:49"
-        },
-        {
-            "song_name": "Only In My Mind",
-            "artists": [
-                "Kenya Grace"
-            ],
-            "album": "The After Taste",
-            "played_at": "28/11/2024 - 11:38:25"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "28/11/2024 - 11:35:43"
-        },
-        {
-            "song_name": "If U Need It",
-            "artists": [
-                "Sammy Virji"
-            ],
-            "album": "If U Need It",
-            "played_at": "28/11/2024 - 11:33:00"
-        },
-        {
-            "song_name": "Embrace It",
-            "artists": [
-                "Ndotz"
-            ],
-            "album": "Embrace It",
-            "played_at": "28/11/2024 - 11:30:00"
-        },
-        {
-            "song_name": "Original Sin",
-            "artists": [
-                "Sofi Tukker"
-            ],
-            "album": "WET TENNIS",
-            "played_at": "28/11/2024 - 11:28:15"
-        },
-        {
-            "song_name": "LET'S GET FKD UP",
-            "artists": [
-                "Alok",
-                "Mondello'G",
-                "CERES",
-                "Tribbs"
-            ],
-            "album": "LET'S GET FKD UP (feat. Tribbs)",
-            "played_at": "28/11/2024 - 11:25:23"
-        },
-        {
             "song_name": "The Chase",
             "artists": [
                 "Emmit Fenn"
@@ -1707,6 +1278,436 @@
             ],
             "album": "WET TENNIS",
             "played_at": "28/11/2024 - 11:28:15"
+        },
+        {
+            "song_name": "Saturday Night (Feel The Groove)",
+            "artists": [
+                "Brando",
+                "Ninetails"
+            ],
+            "album": "Saturday Night (Feel The Groove)",
+            "played_at": "29/11/2024 - 06:56:10"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "29/11/2024 - 06:53:36"
+        },
+        {
+            "song_name": "Every Step",
+            "artists": [
+                "D.O.D"
+            ],
+            "album": "Every Step",
+            "played_at": "29/11/2024 - 06:48:32"
+        },
+        {
+            "song_name": "Following the Sun",
+            "artists": [
+                "SUPER-Hi",
+                "NEEKA"
+            ],
+            "album": "Following the Sun",
+            "played_at": "29/11/2024 - 06:46:02"
+        },
+        {
+            "song_name": "The Chase",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "The Last Dance, Pt 2",
+            "played_at": "28/11/2024 - 18:47:25"
+        },
+        {
+            "song_name": "Let U Go",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Let U Go",
+            "played_at": "28/11/2024 - 17:48:01"
+        },
+        {
+            "song_name": "Spinnin",
+            "artists": [
+                "Connor Price",
+                "Bens"
+            ],
+            "album": "Spin The Globe",
+            "played_at": "28/11/2024 - 17:45:53"
+        },
+        {
+            "song_name": "Her Eyes",
+            "artists": [
+                "Charlie Jeer"
+            ],
+            "album": "Her Eyes",
+            "played_at": "28/11/2024 - 17:44:02"
+        },
+        {
+            "song_name": "Star Shopping",
+            "artists": [
+                "Lil Peep"
+            ],
+            "album": "Star Shopping",
+            "played_at": "28/11/2024 - 17:40:27"
+        },
+        {
+            "song_name": "Through the Fire",
+            "artists": [
+                "PALASTIC",
+                "Sam Welch"
+            ],
+            "album": "Through the Fire",
+            "played_at": "28/11/2024 - 16:32:52"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "28/11/2024 - 16:30:22"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "28/11/2024 - 16:27:55"
+        },
+        {
+            "song_name": "Clouds",
+            "artists": [
+                "BUNT.",
+                "Nate Traveller"
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "28/11/2024 - 16:25:12"
+        },
+        {
+            "song_name": "Half of forever",
+            "artists": [
+                "Henrik"
+            ],
+            "album": "Half of forever",
+            "played_at": "28/11/2024 - 16:22:32"
+        },
+        {
+            "song_name": "Call You",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Call You",
+            "played_at": "28/11/2024 - 16:19:59"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "28/11/2024 - 16:17:50"
+        },
+        {
+            "song_name": "Now or Never",
+            "artists": [
+                "Trinix",
+                "Dominic Neill"
+            ],
+            "album": "Now or Never",
+            "played_at": "28/11/2024 - 16:15:11"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "Levi"
+            ],
+            "album": "Jump",
+            "played_at": "28/11/2024 - 16:12:08"
+        },
+        {
+            "song_name": "I Only Smoke When I Drink",
+            "artists": [
+                "nimino"
+            ],
+            "album": "I Only Smoke When I Drink",
+            "played_at": "28/11/2024 - 16:09:33"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "28/11/2024 - 16:06:15"
+        },
+        {
+            "song_name": "dance with me",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "dance with me",
+            "played_at": "28/11/2024 - 16:03:08"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "28/11/2024 - 16:01:02"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "28/11/2024 - 15:58:17"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "28/11/2024 - 15:55:33"
+        },
+        {
+            "song_name": "Out of Body",
+            "artists": [
+                "Ruffnux",
+                "le moon",
+                "soleil"
+            ],
+            "album": "Out of Body",
+            "played_at": "28/11/2024 - 15:53:29"
+        },
+        {
+            "song_name": "Chihiro",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Chihiro",
+            "played_at": "28/11/2024 - 15:51:03"
+        },
+        {
+            "song_name": "Gone",
+            "artists": [
+                "lucidbeatz",
+                "Ardeycat"
+            ],
+            "album": "Gone",
+            "played_at": "28/11/2024 - 15:48:54"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "28/11/2024 - 15:46:50"
+        },
+        {
+            "song_name": "Every Step",
+            "artists": [
+                "D.O.D"
+            ],
+            "album": "Every Step",
+            "played_at": "28/11/2024 - 15:44:08"
+        },
+        {
+            "song_name": "Riot",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Riot",
+            "played_at": "28/11/2024 - 15:44:07"
+        },
+        {
+            "song_name": "Prices",
+            "artists": [
+                "Lil Uzi Vert",
+                "WanMor"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "28/11/2024 - 15:41:41"
+        },
+        {
+            "song_name": "COLOGNE",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "COLOGNE",
+            "played_at": "28/11/2024 - 15:41:27"
+        },
+        {
+            "song_name": "Bad Dreams",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "Bad Dreams",
+            "played_at": "28/11/2024 - 15:38:07"
+        },
+        {
+            "song_name": "Riot",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Riot",
+            "played_at": "28/11/2024 - 15:37:28"
+        },
+        {
+            "song_name": "Riot",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Riot",
+            "played_at": "28/11/2024 - 15:34:55"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "28/11/2024 - 14:53:17"
+        },
+        {
+            "song_name": "you & i - sped up",
+            "artists": [
+                "lucidbeatz",
+                "Emilia Ali"
+            ],
+            "album": "you & i",
+            "played_at": "28/11/2024 - 14:51:02"
+        },
+        {
+            "song_name": "I Think I Like When It Rains",
+            "artists": [
+                "WILLIS"
+            ],
+            "album": "Locals 2",
+            "played_at": "28/11/2024 - 14:48:48"
+        },
+        {
+            "song_name": "Midas",
+            "artists": [
+                "Maribou State",
+                "Holly Walker"
+            ],
+            "album": "Portraits",
+            "played_at": "28/11/2024 - 14:44:10"
+        },
+        {
+            "song_name": "Smooth Operator - TikTok Remix",
+            "artists": [
+                "Scammacist",
+                "MYKA",
+                "KYRA"
+            ],
+            "album": "Smooth Operator - TikTok Remix",
+            "played_at": "28/11/2024 - 14:40:30"
+        },
+        {
+            "song_name": "Smooth Operator - TikTok Remix",
+            "artists": [
+                "Scammacist",
+                "MYKA",
+                "KYRA"
+            ],
+            "album": "Smooth Operator - TikTok Remix",
+            "played_at": "28/11/2024 - 12:18:42"
+        },
+        {
+            "song_name": "Champagne Shots",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "28/11/2024 - 12:03:01"
+        },
+        {
+            "song_name": "LET'S GO",
+            "artists": [
+                "Jaden Bojsen",
+                "Sami Brielle"
+            ],
+            "album": "LET'S GO",
+            "played_at": "28/11/2024 - 12:00:36"
+        },
+        {
+            "song_name": "Wild Ones (feat. Jelly Roll)",
+            "artists": [
+                "Jessie Murph",
+                "Jelly Roll"
+            ],
+            "album": "That Ain't No Man That's The Devil",
+            "played_at": "28/11/2024 - 11:57:23"
+        },
+        {
+            "song_name": "Nothing Burns Like The Cold",
+            "artists": [
+                "Snoh Aalegra",
+                "Vince Staples"
+            ],
+            "album": "FEELS",
+            "played_at": "28/11/2024 - 11:55:01"
+        },
+        {
+            "song_name": "Make Believe",
+            "artists": [
+                "Shallou"
+            ],
+            "album": "Magical Thinking",
+            "played_at": "28/11/2024 - 11:51:31"
+        },
+        {
+            "song_name": "Heatstroke",
+            "artists": [
+                "Khalid"
+            ],
+            "album": "Sincere",
+            "played_at": "28/11/2024 - 11:48:36"
+        },
+        {
+            "song_name": "Foreplay",
+            "artists": [
+                "Jalen Santoy"
+            ],
+            "album": "II Shepherds",
+            "played_at": "28/11/2024 - 11:44:41"
+        },
+        {
+            "song_name": "A Tear in Space (Airlock)",
+            "artists": [
+                "Glass Animals"
+            ],
+            "album": "I Love You So F***ing Much",
+            "played_at": "28/11/2024 - 11:41:49"
+        },
+        {
+            "song_name": "Only In My Mind",
+            "artists": [
+                "Kenya Grace"
+            ],
+            "album": "The After Taste",
+            "played_at": "28/11/2024 - 11:38:25"
         }
     ]
 }
