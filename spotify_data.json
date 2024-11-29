@@ -2,432 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "29/11/2024 - 09:57:06"
-        },
-        {
-            "song_name": "Cooped Up (with Roddy Ricch)",
-            "artists": [
-                "Post Malone",
-                "Roddy Ricch"
-            ],
-            "album": "Cooped Up",
-            "played_at": "29/11/2024 - 09:54:09"
-        },
-        {
-            "song_name": "Love (feat. Lil Uzi Vert)",
-            "artists": [
-                "Felix Snow",
-                "Lil Uzi Vert"
-            ],
-            "album": "Love (feat. Lil Uzi Vert)",
-            "played_at": "29/11/2024 - 09:51:03"
-        },
-        {
-            "song_name": "HOTEL LOBBY (Unc & Phew)",
-            "artists": [
-                "Quavo",
-                "Takeoff"
-            ],
-            "album": "HOTEL LOBBY (Unc & Phew)",
-            "played_at": "29/11/2024 - 09:49:08"
-        },
-        {
-            "song_name": "Scott and Ramona",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "29/11/2024 - 09:46:46"
-        },
-        {
-            "song_name": "Maria",
-            "artists": [
-                "22 WVY"
-            ],
-            "album": "Enter The Void",
-            "played_at": "29/11/2024 - 09:43:04"
-        },
-        {
-            "song_name": "Marea (we’ve lost dancing)",
-            "artists": [
-                "Fred again..",
-                "The Blessed Madonna"
-            ],
-            "album": "Actual Life (April 14 - December 17 2020)",
-            "played_at": "29/11/2024 - 09:39:53"
-        },
-        {
-            "song_name": "arcade",
-            "artists": [
-                "omgkirby"
-            ],
-            "album": "arcade",
-            "played_at": "29/11/2024 - 09:35:08"
-        },
-        {
-            "song_name": "Way Of Life",
-            "artists": [
-                "Oren Major",
-                "Mama Only Son"
-            ],
-            "album": "Way Of Life",
-            "played_at": "29/11/2024 - 09:33:28"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake",
-                "Future"
-            ],
-            "album": "I Am Not A Human Being II (Deluxe)",
-            "played_at": "29/11/2024 - 09:30:06"
-        },
-        {
-            "song_name": "Believe Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake"
-            ],
-            "album": "Believe Me",
-            "played_at": "29/11/2024 - 09:25:51"
-        },
-        {
-            "song_name": "3:15 (Breathe)",
-            "artists": [
-                "Russ"
-            ],
-            "album": "3:15 (Breathe)",
-            "played_at": "29/11/2024 - 09:20:13"
-        },
-        {
-            "song_name": "Search & Rescue",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Search & Rescue",
-            "played_at": "29/11/2024 - 09:17:10"
-        },
-        {
-            "song_name": "Raindrops (Insane) [with Travis Scott]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "29/11/2024 - 09:12:37"
-        },
-        {
-            "song_name": "On The Radar Freestyle",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "On The Radar Freestyle",
-            "played_at": "29/11/2024 - 09:09:29"
-        },
-        {
-            "song_name": "Already Best Friends (feat. Chris Brown)",
-            "artists": [
-                "Jack Harlow",
-                "Chris Brown"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "29/11/2024 - 09:04:54"
-        },
-        {
-            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "artists": [
-                "JID",
-                "21 Savage",
-                "Baby Tate"
-            ],
-            "album": "The Forever Story (Extended Version)",
-            "played_at": "29/11/2024 - 09:01:36"
-        },
-        {
-            "song_name": "Imperfections (Interlude)",
-            "artists": [
-                "Pop Smoke"
-            ],
-            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
-            "played_at": "29/11/2024 - 08:57:47"
-        },
-        {
-            "song_name": "Keep Goin",
-            "artists": [
-                "2FeetBino"
-            ],
-            "album": "A Story Never Told",
-            "played_at": "29/11/2024 - 08:55:58"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "29/11/2024 - 08:53:25"
-        },
-        {
-            "song_name": "Man Of The Year",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Legends Never Die",
-            "played_at": "29/11/2024 - 08:50:46"
-        },
-        {
-            "song_name": "Did It Again",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "29/11/2024 - 08:48:30"
-        },
-        {
-            "song_name": "Who Told You (feat. Drake)",
-            "artists": [
-                "J Hus",
-                "Drake"
-            ],
-            "album": "Who Told You (feat. Drake)",
-            "played_at": "29/11/2024 - 08:46:33"
-        },
-        {
-            "song_name": "Demon High",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Demon High",
-            "played_at": "29/11/2024 - 08:43:05"
-        },
-        {
-            "song_name": "that way",
-            "artists": [
-                "Tate McRae"
-            ],
-            "album": "all the things i never said",
-            "played_at": "29/11/2024 - 08:39:47"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "29/11/2024 - 08:36:52"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "29/11/2024 - 08:33:58"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "29/11/2024 - 08:30:18"
-        },
-        {
-            "song_name": "Stumblin' In",
-            "artists": [
-                "CYRIL"
-            ],
-            "album": "Stumblin' In",
-            "played_at": "29/11/2024 - 08:27:04"
-        },
-        {
-            "song_name": "Shivers",
-            "artists": [
-                "Ed Sheeran"
-            ],
-            "album": "=",
-            "played_at": "29/11/2024 - 08:27:01"
-        },
-        {
-            "song_name": "Knock Knock",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "29/11/2024 - 08:23:36"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "29/11/2024 - 08:20:33"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "29/11/2024 - 08:17:28"
-        },
-        {
-            "song_name": "Strangers",
-            "artists": [
-                "Kenya Grace"
-            ],
-            "album": "The After Taste",
-            "played_at": "29/11/2024 - 08:14:05"
-        },
-        {
-            "song_name": "Speedometer",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "29/11/2024 - 08:11:15"
-        },
-        {
-            "song_name": "We Still Don't Trust You",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "The Weeknd"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "29/11/2024 - 08:08:43"
-        },
-        {
-            "song_name": "Is This Love - Remix",
-            "artists": [
-                "Bob Marley & The Wailers",
-                "LVNDSCAPE",
-                "Bolier"
-            ],
-            "album": "Is This Love (Remix)",
-            "played_at": "29/11/2024 - 08:04:52"
-        },
-        {
-            "song_name": "Starcrusin",
-            "artists": [
-                "Dubbygotbars",
-                "Charles Infamous"
-            ],
-            "album": "Starcrusin",
-            "played_at": "29/11/2024 - 08:01:53"
-        },
-        {
-            "song_name": "Present",
-            "artists": [
-                "Khalid"
-            ],
-            "album": "Scenic Drive (The Tape)",
-            "played_at": "29/11/2024 - 07:59:57"
-        },
-        {
-            "song_name": "Keep Goin",
-            "artists": [
-                "2FeetBino"
-            ],
-            "album": "A Story Never Told",
-            "played_at": "29/11/2024 - 07:57:35"
-        },
-        {
-            "song_name": "Sleepin With You",
-            "artists": [
-                "SADFACETHUGGIN",
-                "TOKINPOTENT"
-            ],
-            "album": "Emotionless - Sadface II",
-            "played_at": "29/11/2024 - 07:55:32"
-        },
-        {
-            "song_name": "Who Shot Cupid?",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "29/11/2024 - 07:53:04"
-        },
-        {
-            "song_name": "Demon High",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Demon High",
-            "played_at": "29/11/2024 - 07:48:08"
-        },
-        {
-            "song_name": "No Chill (feat. Lil Xxel)",
-            "artists": [
-                "Cheat Codes",
-                "Lil Xxel"
-            ],
-            "album": "No Chill (feat. Lil Xxel)",
-            "played_at": "29/11/2024 - 07:45:08"
-        },
-        {
-            "song_name": "Outside",
-            "artists": [
-                "Kota the Friend"
-            ],
-            "album": "Outside",
-            "played_at": "29/11/2024 - 07:42:32"
-        },
-        {
-            "song_name": "Calabasas",
-            "artists": [
-                "Skizzy Mars"
-            ],
-            "album": "Free Skizzy Mars",
-            "played_at": "29/11/2024 - 07:39:30"
-        },
-        {
-            "song_name": "Lady Love",
-            "artists": [
-                "Oden & Fatzo",
-                "Camden Cox"
-            ],
-            "album": "Lady Love",
-            "played_at": "29/11/2024 - 07:36:54"
-        },
-        {
-            "song_name": "Illusion",
-            "artists": [
-                "Dua Lipa"
-            ],
-            "album": "Radical Optimism",
-            "played_at": "29/11/2024 - 07:34:18"
-        },
-        {
-            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "artists": [
-                "VAVO",
-                "Tyler Mann",
-                "DJ PRESS PLAY"
-            ],
-            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "played_at": "29/11/2024 - 07:31:16"
-        },
-        {
-            "song_name": "New Beginnings",
-            "artists": [
-                "Sparkee"
-            ],
-            "album": "New Beginnings",
-            "played_at": "29/11/2024 - 07:26:52"
-        },
-        {
             "song_name": "Hold Me",
             "artists": [
                 "Lavern"
@@ -1706,6 +1280,428 @@
             ],
             "album": "Is This Love (Remix)",
             "played_at": "29/11/2024 - 08:04:52"
+        },
+        {
+            "song_name": "We Are The People",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "29/11/2024 - 13:48:53"
+        },
+        {
+            "song_name": "Aural Therapy",
+            "artists": [
+                "fwd/slash"
+            ],
+            "album": "Aural Therapy",
+            "played_at": "29/11/2024 - 13:44:52"
+        },
+        {
+            "song_name": "Fire in Your Eyes",
+            "artists": [
+                "Shiek",
+                "OLIT"
+            ],
+            "album": "Fire in Your Eyes",
+            "played_at": "29/11/2024 - 13:42:47"
+        },
+        {
+            "song_name": "Sun Goes Down",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Sun Goes Down",
+            "played_at": "29/11/2024 - 13:40:45"
+        },
+        {
+            "song_name": "I Need You",
+            "artists": [
+                "Coffee Cub"
+            ],
+            "album": "I Need You",
+            "played_at": "29/11/2024 - 13:38:49"
+        },
+        {
+            "song_name": "Sunrise Under Palms",
+            "artists": [
+                "Relŭm"
+            ],
+            "album": "Sunrise Under Palms",
+            "played_at": "29/11/2024 - 13:36:49"
+        },
+        {
+            "song_name": "Love Tonight (David Guetta Remix Edit)",
+            "artists": [
+                "Shouse",
+                "David Guetta"
+            ],
+            "album": "Love Tonight (David Guetta Remix)",
+            "played_at": "29/11/2024 - 13:34:45"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "29/11/2024 - 13:32:24"
+        },
+        {
+            "song_name": "Star Shopping",
+            "artists": [
+                "Lil Peep"
+            ],
+            "album": "Star Shopping",
+            "played_at": "29/11/2024 - 12:01:59"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "29/11/2024 - 10:59:10"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "29/11/2024 - 10:55:32"
+        },
+        {
+            "song_name": "[Admire Her] (with Gunna)",
+            "artists": [
+                "Bas",
+                "Gunna"
+            ],
+            "album": "[BUMP] Pick Me Up",
+            "played_at": "29/11/2024 - 10:53:12"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "played_at": "29/11/2024 - 10:47:59"
+        },
+        {
+            "song_name": "Overdose",
+            "artists": [
+                "Two Friends",
+                "Exit Friendzone",
+                "Nat Dunn"
+            ],
+            "album": "Overdose",
+            "played_at": "29/11/2024 - 10:45:31"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "29/11/2024 - 10:41:42"
+        },
+        {
+            "song_name": "Gas Me Up (Diligent)",
+            "artists": [
+                "Skepta"
+            ],
+            "album": "Gas Me Up (Diligent)",
+            "played_at": "29/11/2024 - 10:37:42"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "29/11/2024 - 10:34:51"
+        },
+        {
+            "song_name": "infinity (888) - feat. Joey Bada$$",
+            "artists": [
+                "XXXTENTACION",
+                "Joey Bada$$"
+            ],
+            "album": "?",
+            "played_at": "29/11/2024 - 10:32:22"
+        },
+        {
+            "song_name": "Feels Like Summer",
+            "artists": [
+                "Samuel Jack"
+            ],
+            "album": "Feels Like Summer",
+            "played_at": "29/11/2024 - 10:29:25"
+        },
+        {
+            "song_name": "Enough",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Enough",
+            "played_at": "29/11/2024 - 10:04:10"
+        },
+        {
+            "song_name": "Too Good",
+            "artists": [
+                "Drake",
+                "Rihanna"
+            ],
+            "album": "Views",
+            "played_at": "29/11/2024 - 10:01:30"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "29/11/2024 - 09:57:06"
+        },
+        {
+            "song_name": "Cooped Up (with Roddy Ricch)",
+            "artists": [
+                "Post Malone",
+                "Roddy Ricch"
+            ],
+            "album": "Cooped Up",
+            "played_at": "29/11/2024 - 09:54:09"
+        },
+        {
+            "song_name": "Love (feat. Lil Uzi Vert)",
+            "artists": [
+                "Felix Snow",
+                "Lil Uzi Vert"
+            ],
+            "album": "Love (feat. Lil Uzi Vert)",
+            "played_at": "29/11/2024 - 09:51:03"
+        },
+        {
+            "song_name": "HOTEL LOBBY (Unc & Phew)",
+            "artists": [
+                "Quavo",
+                "Takeoff"
+            ],
+            "album": "HOTEL LOBBY (Unc & Phew)",
+            "played_at": "29/11/2024 - 09:49:08"
+        },
+        {
+            "song_name": "Scott and Ramona",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "29/11/2024 - 09:46:46"
+        },
+        {
+            "song_name": "Maria",
+            "artists": [
+                "22 WVY"
+            ],
+            "album": "Enter The Void",
+            "played_at": "29/11/2024 - 09:43:04"
+        },
+        {
+            "song_name": "Marea (we’ve lost dancing)",
+            "artists": [
+                "Fred again..",
+                "The Blessed Madonna"
+            ],
+            "album": "Actual Life (April 14 - December 17 2020)",
+            "played_at": "29/11/2024 - 09:39:53"
+        },
+        {
+            "song_name": "arcade",
+            "artists": [
+                "omgkirby"
+            ],
+            "album": "arcade",
+            "played_at": "29/11/2024 - 09:35:08"
+        },
+        {
+            "song_name": "Way Of Life",
+            "artists": [
+                "Oren Major",
+                "Mama Only Son"
+            ],
+            "album": "Way Of Life",
+            "played_at": "29/11/2024 - 09:33:28"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake",
+                "Future"
+            ],
+            "album": "I Am Not A Human Being II (Deluxe)",
+            "played_at": "29/11/2024 - 09:30:06"
+        },
+        {
+            "song_name": "Believe Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake"
+            ],
+            "album": "Believe Me",
+            "played_at": "29/11/2024 - 09:25:51"
+        },
+        {
+            "song_name": "3:15 (Breathe)",
+            "artists": [
+                "Russ"
+            ],
+            "album": "3:15 (Breathe)",
+            "played_at": "29/11/2024 - 09:20:13"
+        },
+        {
+            "song_name": "Search & Rescue",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Search & Rescue",
+            "played_at": "29/11/2024 - 09:17:10"
+        },
+        {
+            "song_name": "Raindrops (Insane) [with Travis Scott]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "29/11/2024 - 09:12:37"
+        },
+        {
+            "song_name": "On The Radar Freestyle",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "On The Radar Freestyle",
+            "played_at": "29/11/2024 - 09:09:29"
+        },
+        {
+            "song_name": "Already Best Friends (feat. Chris Brown)",
+            "artists": [
+                "Jack Harlow",
+                "Chris Brown"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "29/11/2024 - 09:04:54"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "29/11/2024 - 09:01:36"
+        },
+        {
+            "song_name": "Imperfections (Interlude)",
+            "artists": [
+                "Pop Smoke"
+            ],
+            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+            "played_at": "29/11/2024 - 08:57:47"
+        },
+        {
+            "song_name": "Keep Goin",
+            "artists": [
+                "2FeetBino"
+            ],
+            "album": "A Story Never Told",
+            "played_at": "29/11/2024 - 08:55:58"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "29/11/2024 - 08:53:25"
+        },
+        {
+            "song_name": "Man Of The Year",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Legends Never Die",
+            "played_at": "29/11/2024 - 08:50:46"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "29/11/2024 - 08:48:30"
+        },
+        {
+            "song_name": "Who Told You (feat. Drake)",
+            "artists": [
+                "J Hus",
+                "Drake"
+            ],
+            "album": "Who Told You (feat. Drake)",
+            "played_at": "29/11/2024 - 08:46:33"
+        },
+        {
+            "song_name": "Demon High",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Demon High",
+            "played_at": "29/11/2024 - 08:43:05"
+        },
+        {
+            "song_name": "that way",
+            "artists": [
+                "Tate McRae"
+            ],
+            "album": "all the things i never said",
+            "played_at": "29/11/2024 - 08:39:47"
+        },
+        {
+            "song_name": "Do It Right",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "29/11/2024 - 08:36:52"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "29/11/2024 - 08:33:58"
+        },
+        {
+            "song_name": "Lady Of Namek",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "29/11/2024 - 08:30:18"
+        },
+        {
+            "song_name": "Stumblin' In",
+            "artists": [
+                "CYRIL"
+            ],
+            "album": "Stumblin' In",
+            "played_at": "29/11/2024 - 08:27:04"
         }
     ]
 }
