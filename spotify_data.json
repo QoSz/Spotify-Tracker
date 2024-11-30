@@ -2,6 +2,145 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "only one",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "only one",
+            "played_at": "30/11/2024 - 11:53:22"
+        },
+        {
+            "song_name": "Poppy",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "30/11/2024 - 11:53:16"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "30/11/2024 - 11:50:30"
+        },
+        {
+            "song_name": "Excuse Me",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "AT.LONG.LAST.A$AP",
+            "played_at": "30/11/2024 - 11:47:10"
+        },
+        {
+            "song_name": "Power Trip (feat. Miguel)",
+            "artists": [
+                "J. Cole",
+                "Miguel"
+            ],
+            "album": "Born Sinner (Deluxe Version)",
+            "played_at": "30/11/2024 - 11:43:11"
+        },
+        {
+            "song_name": "HONEST",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "30/11/2024 - 11:39:10"
+        },
+        {
+            "song_name": "5% TINT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "30/11/2024 - 11:36:16"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "30/11/2024 - 11:33:00"
+        },
+        {
+            "song_name": "Like That",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Kendrick Lamar"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "30/11/2024 - 11:30:25"
+        },
+        {
+            "song_name": "Hopeless Romantic (feat. Swae Lee)",
+            "artists": [
+                "Wiz Khalifa",
+                "Swae Lee"
+            ],
+            "album": "Rolling Papers 2",
+            "played_at": "30/11/2024 - 11:25:57"
+        },
+        {
+            "song_name": "Watch This - ARIZONATEARS Pluggnb Remix",
+            "artists": [
+                "Lil Uzi Vert",
+                "sped up nightcore",
+                "ARIZONATEARS"
+            ],
+            "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
+            "played_at": "30/11/2024 - 11:22:09"
+        },
+        {
+            "song_name": "Get It Together",
+            "artists": [
+                "Drake",
+                "Black Coffee",
+                "Jorja Smith"
+            ],
+            "album": "More Life",
+            "played_at": "30/11/2024 - 11:19:26"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "30/11/2024 - 11:15:15"
+        },
+        {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "30/11/2024 - 11:11:09"
+        },
+        {
+            "song_name": "I'll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I'll Keep You Safe",
+            "played_at": "30/11/2024 - 11:02:35"
+        },
+        {
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "30/11/2024 - 11:00:14"
+        },
+        {
             "song_name": "Lonely in London",
             "artists": [
                 "Slumberville"
@@ -292,156 +431,6 @@
             ],
             "album": "Playboy",
             "played_at": "29/11/2024 - 19:13:08"
-        },
-        {
-            "song_name": "Young Again",
-            "artists": [
-                "Don Diablo",
-                "Sandro Cavazza"
-            ],
-            "album": "Young Again",
-            "played_at": "29/11/2024 - 19:10:25"
-        },
-        {
-            "song_name": "Saint-Tropez",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "29/11/2024 - 19:07:28"
-        },
-        {
-            "song_name": "BackOutsideBoyz",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "29/11/2024 - 19:00:09"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "29/11/2024 - 18:57:39"
-        },
-        {
-            "song_name": "Everyday Hustle",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Rick Ross"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "29/11/2024 - 18:53:56"
-        },
-        {
-            "song_name": "Raindrops (Insane) [with Travis Scott]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "29/11/2024 - 18:50:40"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "29/11/2024 - 18:48:02"
-        },
-        {
-            "song_name": "Riptide",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "Riptide",
-            "played_at": "29/11/2024 - 16:35:47"
-        },
-        {
-            "song_name": "On The Radar Freestyle",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "On The Radar Freestyle",
-            "played_at": "29/11/2024 - 15:30:56"
-        },
-        {
-            "song_name": "Water - Remix",
-            "artists": [
-                "Tyla",
-                "Travis Scott"
-            ],
-            "album": "Water (Remix)",
-            "played_at": "29/11/2024 - 15:26:20"
-        },
-        {
-            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "artists": [
-                "A$AP Mob",
-                "A$AP Rocky",
-                "Playboi Carti",
-                "Quavo",
-                "Lil Uzi Vert",
-                "Frank Ocean"
-            ],
-            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "played_at": "29/11/2024 - 15:23:00"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake",
-                "Future"
-            ],
-            "album": "I Am Not A Human Being II (Deluxe)",
-            "played_at": "29/11/2024 - 15:18:45"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "29/11/2024 - 15:14:30"
-        },
-        {
-            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
-            "artists": [
-                "Brent Faiyaz",
-                "N3WYRKLA",
-                "A$AP Rocky"
-            ],
-            "album": "Larger Than Life",
-            "played_at": "29/11/2024 - 15:10:27"
-        },
-        {
-            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "artists": [
-                "JID",
-                "21 Savage",
-                "Baby Tate"
-            ],
-            "album": "The Forever Story (Extended Version)",
-            "played_at": "29/11/2024 - 15:07:04"
-        },
-        {
-            "song_name": "Chasing (feat. NEIMY)",
-            "artists": [
-                "Solar State",
-                "NSH",
-                "NEIMY"
-            ],
-            "album": "Chasing (feat. NEIMY)",
-            "played_at": "29/11/2024 - 15:03:14"
         },
         {
             "song_name": "only one",
