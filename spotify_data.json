@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Sun Goes Down",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Sun Goes Down",
+            "played_at": "30/11/2024 - 16:45:23"
+        },
+        {
             "song_name": "only one",
             "artists": [
                 "lucidbeatz"
@@ -422,15 +430,6 @@
             ],
             "album": "Nevermind",
             "played_at": "29/11/2024 - 19:15:25"
-        },
-        {
-            "song_name": "Peru",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran"
-            ],
-            "album": "Playboy",
-            "played_at": "29/11/2024 - 19:13:08"
         },
         {
             "song_name": "Sun Goes Down",
