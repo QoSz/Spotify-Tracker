@@ -2,6 +2,207 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Avian",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "02/12/2024 - 15:05:00"
+        },
+        {
+            "song_name": "Aquarium",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "02/12/2024 - 14:58:54"
+        },
+        {
+            "song_name": "/ (Forgotten)",
+            "artists": [
+                "mikeeysmind"
+            ],
+            "album": "/ (Forgotten)",
+            "played_at": "02/12/2024 - 14:54:10"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "02/12/2024 - 13:08:20"
+        },
+        {
+            "song_name": "Riot",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "Riot",
+            "played_at": "02/12/2024 - 12:49:59"
+        },
+        {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "02/12/2024 - 12:44:33"
+        },
+        {
+            "song_name": "King",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "King",
+            "played_at": "02/12/2024 - 12:37:56"
+        },
+        {
+            "song_name": "Jolene",
+            "artists": [
+                "Curl",
+                "Jorm",
+                "Ludvigsson"
+            ],
+            "album": "Jolene",
+            "played_at": "02/12/2024 - 12:22:02"
+        },
+        {
+            "song_name": "Follow the Sun",
+            "artists": [
+                "NEIMY"
+            ],
+            "album": "Follow the Sun",
+            "played_at": "02/12/2024 - 12:19:24"
+        },
+        {
+            "song_name": "Leave a Smile",
+            "artists": [
+                "Twan Ray",
+                "Moonshine",
+                "Solar State"
+            ],
+            "album": "Leave a Smile",
+            "played_at": "02/12/2024 - 12:16:52"
+        },
+        {
+            "song_name": "I Got U",
+            "artists": [
+                "Duke Dumont",
+                "Jax Jones"
+            ],
+            "album": "I Got U",
+            "played_at": "02/12/2024 - 12:14:28"
+        },
+        {
+            "song_name": "Unwanted (feat. Conor Maynard)",
+            "artists": [
+                "Martin Jensen",
+                "Sam Feldt",
+                "Conor Maynard"
+            ],
+            "album": "Unwanted (feat. Conor Maynard)",
+            "played_at": "02/12/2024 - 12:10:19"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "02/12/2024 - 12:07:44"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "02/12/2024 - 11:55:02"
+        },
+        {
+            "song_name": "Money",
+            "artists": [
+                "Jones Meadow",
+                "Nina Carr"
+            ],
+            "album": "Money",
+            "played_at": "02/12/2024 - 11:37:50"
+        },
+        {
+            "song_name": "Stop Us Now",
+            "artists": [
+                "NSH",
+                "DT James"
+            ],
+            "album": "Stop Us Now",
+            "played_at": "02/12/2024 - 11:33:14"
+        },
+        {
+            "song_name": "Time After Time",
+            "artists": [
+                "Paratone"
+            ],
+            "album": "Time After Time",
+            "played_at": "02/12/2024 - 11:31:14"
+        },
+        {
+            "song_name": "Money Trees",
+            "artists": [
+                "Phil Soda",
+                "Lucas Ariel"
+            ],
+            "album": "Money Trees",
+            "played_at": "02/12/2024 - 11:28:42"
+        },
+        {
+            "song_name": "Wrapped Around Your Finger",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "02/12/2024 - 11:07:55"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "02/12/2024 - 10:50:29"
+        },
+        {
+            "song_name": "In The Dark",
+            "artists": [
+                "Jend"
+            ],
+            "album": "In The Dark",
+            "played_at": "02/12/2024 - 10:46:38"
+        },
+        {
+            "song_name": "Thrusting (feat. Swae Lee & Future)",
+            "artists": [
+                "Internet Money",
+                "Swae Lee",
+                "Future"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "02/12/2024 - 10:44:50"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "02/12/2024 - 10:41:27"
+        },
+        {
             "song_name": "A Keeper",
             "artists": [
                 "Drake"
@@ -199,231 +400,30 @@
             "played_at": "01/12/2024 - 20:45:09"
         },
         {
+            "song_name": "Million Memories",
+            "artists": [
+                "Thierry Von Der Warth",
+                "Thomas Geelens"
+            ],
+            "album": "Million Memories",
+            "played_at": "01/12/2024 - 12:28:53"
+        },
+        {
+            "song_name": "Quedate Luna",
+            "artists": [
+                "Trinix",
+                "Natalia Doco"
+            ],
+            "album": "Quedate Luna",
+            "played_at": "30/11/2024 - 20:10:18"
+        },
+        {
             "song_name": "Sun Goes Down",
             "artists": [
                 "Sole Sole"
             ],
             "album": "Sun Goes Down",
             "played_at": "30/11/2024 - 16:45:23"
-        },
-        {
-            "song_name": "only one",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "only one",
-            "played_at": "30/11/2024 - 11:53:22"
-        },
-        {
-            "song_name": "Poppy",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "30/11/2024 - 11:53:16"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "30/11/2024 - 11:50:30"
-        },
-        {
-            "song_name": "Excuse Me",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "30/11/2024 - 11:47:10"
-        },
-        {
-            "song_name": "Power Trip (feat. Miguel)",
-            "artists": [
-                "J. Cole",
-                "Miguel"
-            ],
-            "album": "Born Sinner (Deluxe Version)",
-            "played_at": "30/11/2024 - 11:43:11"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "30/11/2024 - 11:39:10"
-        },
-        {
-            "song_name": "5% TINT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "30/11/2024 - 11:36:16"
-        },
-        {
-            "song_name": "Sorry 4 What? // LV BELT",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Sorry 4 What",
-            "played_at": "30/11/2024 - 11:33:00"
-        },
-        {
-            "song_name": "Like That",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Kendrick Lamar"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "30/11/2024 - 11:30:25"
-        },
-        {
-            "song_name": "Hopeless Romantic (feat. Swae Lee)",
-            "artists": [
-                "Wiz Khalifa",
-                "Swae Lee"
-            ],
-            "album": "Rolling Papers 2",
-            "played_at": "30/11/2024 - 11:25:57"
-        },
-        {
-            "song_name": "Watch This - ARIZONATEARS Pluggnb Remix",
-            "artists": [
-                "Lil Uzi Vert",
-                "sped up nightcore",
-                "ARIZONATEARS"
-            ],
-            "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
-            "played_at": "30/11/2024 - 11:22:09"
-        },
-        {
-            "song_name": "Get It Together",
-            "artists": [
-                "Drake",
-                "Black Coffee",
-                "Jorja Smith"
-            ],
-            "album": "More Life",
-            "played_at": "30/11/2024 - 11:19:26"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "30/11/2024 - 11:15:15"
-        },
-        {
-            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
-            "artists": [
-                "Trippie Redd",
-                "Lil Uzi Vert"
-            ],
-            "album": "Trip At Knight",
-            "played_at": "30/11/2024 - 11:11:09"
-        },
-        {
-            "song_name": "I'll Keep You Safe",
-            "artists": [
-                "Vluestar"
-            ],
-            "album": "I'll Keep You Safe",
-            "played_at": "30/11/2024 - 11:02:35"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "30/11/2024 - 11:00:14"
-        },
-        {
-            "song_name": "Lonely in London",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Tranquility",
-            "played_at": "30/11/2024 - 10:58:46"
-        },
-        {
-            "song_name": "FREEDOM FOR TUNISIA",
-            "artists": [
-                "White9",
-                "Nipsey Hussle"
-            ],
-            "album": "FREEDOM FOR TUNISIA",
-            "played_at": "30/11/2024 - 07:34:31"
-        },
-        {
-            "song_name": "Prayed Up",
-            "artists": [
-                "O.T",
-                "Elesia Iimura",
-                "50 Cent"
-            ],
-            "album": "Prayed Up",
-            "played_at": "29/11/2024 - 20:39:52"
-        },
-        {
-            "song_name": "GO (feat. Juice WRLD)",
-            "artists": [
-                "The Kid LAROI",
-                "Juice WRLD"
-            ],
-            "album": "F*CK LOVE 3+: OVER YOU",
-            "played_at": "29/11/2024 - 20:36:37"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "29/11/2024 - 20:33:48"
-        },
-        {
-            "song_name": "Blastoff (feat. Juice WRLD)",
-            "artists": [
-                "Internet Money",
-                "Trippie Redd",
-                "Diplo",
-                "Juice WRLD"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "29/11/2024 - 20:31:56"
-        },
-        {
-            "song_name": "Topanga",
-            "artists": [
-                "Trippie Redd"
-            ],
-            "album": "A Love Letter To You 3",
-            "played_at": "29/11/2024 - 20:29:34"
-        },
-        {
-            "song_name": "Loaded",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "29/11/2024 - 20:26:38"
-        },
-        {
-            "song_name": "Wish",
-            "artists": [
-                "Diplo",
-                "Trippie Redd"
-            ],
-            "album": "Wish (Sped Up)",
-            "played_at": "29/11/2024 - 20:23:01"
         },
         {
             "song_name": "Avian",
