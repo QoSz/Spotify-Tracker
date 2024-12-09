@@ -2,6 +2,267 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Show Me Love - EDX Remix / Radio Edit",
+            "artists": [
+                "Sam Feldt",
+                "Kimberly Anne",
+                "EDX"
+            ],
+            "album": "Show Me Love (EDX Remix / Radio Edit)",
+            "played_at": "08/12/2024 - 13:20:24"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "08/12/2024 - 13:09:04"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "08/12/2024 - 13:06:26"
+        },
+        {
+            "song_name": "Hell N Back (feat. Summer Walker)",
+            "artists": [
+                "Bakar",
+                "Summer Walker"
+            ],
+            "album": "Hell N Back (feat. Summer Walker)",
+            "played_at": "08/12/2024 - 13:03:46"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "08/12/2024 - 13:00:38"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "08/12/2024 - 11:45:17"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "08/12/2024 - 11:11:57"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Stargazing",
+            "played_at": "08/12/2024 - 11:08:45"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "08/12/2024 - 11:04:04"
+        },
+        {
+            "song_name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+            "artists": [
+                "Quavo",
+                "Teddy Swims",
+                "Luke Bryan"
+            ],
+            "album": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+            "played_at": "08/12/2024 - 09:20:38"
+        },
+        {
+            "song_name": "Sink Or Swim - Acoustic",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Artificial Paradise (Super Deluxe)",
+            "played_at": "08/12/2024 - 09:11:16"
+        },
+        {
+            "song_name": "Big Dawgs (Remix) [with A$AP Rocky]",
+            "artists": [
+                "Hanumankind",
+                "Kalmi",
+                "A$AP Rocky"
+            ],
+            "album": "Big Dawgs (Remix) [with A$AP Rocky]",
+            "played_at": "08/12/2024 - 09:08:39"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Viva La Panda",
+                "Swizznife",
+                "May Li"
+            ],
+            "album": "Hold Me",
+            "played_at": "08/12/2024 - 09:04:42"
+        },
+        {
+            "song_name": "Sunday Scaries",
+            "artists": [
+                "Flawed Mangoes"
+            ],
+            "album": "Sunday Scaries",
+            "played_at": "08/12/2024 - 09:02:29"
+        },
+        {
+            "song_name": "Cuffed",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "The Party Never Ends 2.0",
+            "played_at": "08/12/2024 - 08:56:13"
+        },
+        {
+            "song_name": "Fuck Love",
+            "artists": [
+                "XXXTENTACION",
+                "Trippie Redd"
+            ],
+            "album": "17",
+            "played_at": "08/12/2024 - 08:44:13"
+        },
+        {
+            "song_name": "Love Lost",
+            "artists": [
+                "Mac Miller",
+                "The Temper Trap"
+            ],
+            "album": "I Love Life, Thank You",
+            "played_at": "08/12/2024 - 08:41:46"
+        },
+        {
+            "song_name": "Way Out (feat. Big Sean)",
+            "artists": [
+                "Jack Harlow",
+                "Big Sean"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "08/12/2024 - 08:39:03"
+        },
+        {
+            "song_name": "BLEED",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "08/12/2024 - 08:35:31"
+        },
+        {
+            "song_name": "luther (with sza)",
+            "artists": [
+                "Kendrick Lamar",
+                "SZA"
+            ],
+            "album": "GNX",
+            "played_at": "08/12/2024 - 08:32:41"
+        },
+        {
+            "song_name": "Stay High",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Legends Never Die",
+            "played_at": "08/12/2024 - 08:29:43"
+        },
+        {
+            "song_name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+            "artists": [
+                "XXXTENTACION",
+                "PnB Rock",
+                "Trippie Redd"
+            ],
+            "album": "Bad Vibes Forever",
+            "played_at": "08/12/2024 - 08:26:54"
+        },
+        {
+            "song_name": "End of Beginning",
+            "artists": [
+                "Djo"
+            ],
+            "album": "DECIDE",
+            "played_at": "08/12/2024 - 08:24:23"
+        },
+        {
+            "song_name": "Star Shopping",
+            "artists": [
+                "Lil Peep"
+            ],
+            "album": "Star Shopping",
+            "played_at": "08/12/2024 - 08:21:44"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "08/12/2024 - 08:19:21"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "08/12/2024 - 08:17:54"
+        },
+        {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "08/12/2024 - 08:14:02"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "08/12/2024 - 08:11:00"
+        },
+        {
+            "song_name": "/ (Forgotten)",
+            "artists": [
+                "mikeeysmind"
+            ],
+            "album": "/ (Forgotten)",
+            "played_at": "08/12/2024 - 08:07:38"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "08/12/2024 - 08:05:02"
+        },
+        {
             "song_name": "Red Leather",
             "artists": [
                 "Future",
@@ -167,253 +428,6 @@
             ],
             "album": "She Said (Big Jet Plane)",
             "played_at": "06/12/2024 - 07:25:09"
-        },
-        {
-            "song_name": "Yebba's Heartbreak (I Do)",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Yebba's Heartbreak (I Do)",
-            "played_at": "06/12/2024 - 07:22:15"
-        },
-        {
-            "song_name": "Are You Bored Yet? (feat. Clairo)",
-            "artists": [
-                "Wallows",
-                "Clairo"
-            ],
-            "album": "Nothing Happens",
-            "played_at": "06/12/2024 - 07:19:49"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "06/12/2024 - 07:16:50"
-        },
-        {
-            "song_name": "Evergreen",
-            "artists": [
-                "Richy Mitch & The Coal Miners"
-            ],
-            "album": "RMCM",
-            "played_at": "06/12/2024 - 07:14:26"
-        },
-        {
-            "song_name": "Feel This Way",
-            "artists": [
-                "Lonely in the Rain",
-                "Panama"
-            ],
-            "album": "Feel This Way",
-            "played_at": "06/12/2024 - 07:12:25"
-        },
-        {
-            "song_name": "I Need You",
-            "artists": [
-                "Coffee Cub"
-            ],
-            "album": "I Need You",
-            "played_at": "06/12/2024 - 07:10:26"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "06/12/2024 - 07:08:04"
-        },
-        {
-            "song_name": "i am not who i was",
-            "artists": [
-                "Chance Peña"
-            ],
-            "album": "Ever-Shifting, Continual Blossoming",
-            "played_at": "06/12/2024 - 07:05:42"
-        },
-        {
-            "song_name": "Nothing Burns Like The Cold",
-            "artists": [
-                "Snoh Aalegra",
-                "Vince Staples"
-            ],
-            "album": "FEELS",
-            "played_at": "06/12/2024 - 07:03:16"
-        },
-        {
-            "song_name": "Los Santos",
-            "artists": [
-                "Current Blue"
-            ],
-            "album": "Los Santos",
-            "played_at": "06/12/2024 - 06:07:19"
-        },
-        {
-            "song_name": "Loaded",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "05/12/2024 - 15:34:02"
-        },
-        {
-            "song_name": "Avian",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "05/12/2024 - 15:12:07"
-        },
-        {
-            "song_name": "Red Leather",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "J. Cole"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "05/12/2024 - 13:05:04"
-        },
-        {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "05/12/2024 - 12:54:19"
-        },
-        {
-            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
-            "artists": [
-                "Trippie Redd",
-                "Lil Uzi Vert"
-            ],
-            "album": "Trip At Knight",
-            "played_at": "05/12/2024 - 12:48:58"
-        },
-        {
-            "song_name": "Bad Habit",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Gemini Rights",
-            "played_at": "05/12/2024 - 12:40:38"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Solo",
-            "played_at": "05/12/2024 - 11:40:36"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "05/12/2024 - 11:35:26"
-        },
-        {
-            "song_name": "Bad Dreams",
-            "artists": [
-                "Teddy Swims"
-            ],
-            "album": "Bad Dreams",
-            "played_at": "05/12/2024 - 11:33:04"
-        },
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Shallou"
-            ],
-            "album": "Magical Thinking",
-            "played_at": "05/12/2024 - 11:29:59"
-        },
-        {
-            "song_name": "Just One Night",
-            "artists": [
-                "POURI X"
-            ],
-            "album": "Just One Night",
-            "played_at": "05/12/2024 - 11:27:04"
-        },
-        {
-            "song_name": "Heatstroke",
-            "artists": [
-                "Khalid"
-            ],
-            "album": "Sincere",
-            "played_at": "05/12/2024 - 11:25:09"
-        },
-        {
-            "song_name": "Aural Therapy",
-            "artists": [
-                "fwd/slash"
-            ],
-            "album": "Aural Therapy",
-            "played_at": "05/12/2024 - 08:44:21"
-        },
-        {
-            "song_name": "Half of forever",
-            "artists": [
-                "Henrik"
-            ],
-            "album": "Half of forever",
-            "played_at": "05/12/2024 - 08:41:45"
-        },
-        {
-            "song_name": "Spring Rains",
-            "artists": [
-                "Drics"
-            ],
-            "album": "Spring Rains",
-            "played_at": "05/12/2024 - 08:39:11"
-        },
-        {
-            "song_name": "The Other Side",
-            "artists": [
-                "Michael Marcagi"
-            ],
-            "album": "The Other Side",
-            "played_at": "05/12/2024 - 08:35:08"
-        },
-        {
-            "song_name": "Follow the Sun",
-            "artists": [
-                "NEIMY"
-            ],
-            "album": "Follow the Sun",
-            "played_at": "05/12/2024 - 08:32:24"
-        },
-        {
-            "song_name": "Feel This Way",
-            "artists": [
-                "Lonely in the Rain",
-                "Panama"
-            ],
-            "album": "Feel This Way",
-            "played_at": "05/12/2024 - 08:29:49"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "05/12/2024 - 08:26:08"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "05/12/2024 - 08:23:45"
         },
         {
             "song_name": "Show Me Love - EDX Remix / Radio Edit",
