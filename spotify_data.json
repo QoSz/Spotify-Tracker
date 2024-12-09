@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Hello Miss Johnson",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Hello Miss Johnson",
+            "played_at": "09/12/2024 - 13:07:27"
+        },
+        {
             "song_name": "Help Me Lose My Mind",
             "artists": [
                 "Gravagerz"
@@ -422,15 +430,6 @@
             ],
             "album": "Electric Feel",
             "played_at": "06/12/2024 - 07:49:51"
-        },
-        {
-            "song_name": "you & i - sped up",
-            "artists": [
-                "lucidbeatz",
-                "Emilia Ali"
-            ],
-            "album": "you & i",
-            "played_at": "06/12/2024 - 07:46:16"
         },
         {
             "song_name": "Hello Miss Johnson",
