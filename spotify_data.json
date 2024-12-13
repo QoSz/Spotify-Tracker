@@ -2,438 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Solo",
-            "artists": [
-                "Future"
-            ],
-            "album": "HNDRXX",
-            "played_at": "10/12/2024 - 16:47:16"
-        },
-        {
-            "song_name": "Churchill Downs (feat. Drake)",
-            "artists": [
-                "Jack Harlow",
-                "Drake"
-            ],
-            "album": "Come Home The Kids Miss You",
-            "played_at": "10/12/2024 - 16:43:03"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "10/12/2024 - 16:38:24"
-        },
-        {
-            "song_name": "on one tonight",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "10/12/2024 - 16:36:12"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "10/12/2024 - 16:34:44"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "10/12/2024 - 16:31:34"
-        },
-        {
-            "song_name": "Circadian Rhythm",
-            "artists": [
-                "Drake"
-            ],
-            "album": "100 GIGS",
-            "played_at": "10/12/2024 - 16:28:11"
-        },
-        {
-            "song_name": "On The Radar Freestyle",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "On The Radar Freestyle",
-            "played_at": "10/12/2024 - 16:26:27"
-        },
-        {
-            "song_name": "Passionfruit",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "10/12/2024 - 16:22:05"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Drake",
-                "Majid Jordan"
-            ],
-            "album": "Nothing Was The Same (Deluxe)",
-            "played_at": "10/12/2024 - 16:17:23"
-        },
-        {
-            "song_name": "Basquiat - AUGUSTE Remix",
-            "artists": [
-                "Asake",
-                "AUGUSTE"
-            ],
-            "album": "Basquiat (AUGUSTE Remix)",
-            "played_at": "10/12/2024 - 16:13:54"
-        },
-        {
-            "song_name": "Ando High",
-            "artists": [
-                "Tom & Collins",
-                "AMÉMÉ"
-            ],
-            "album": "Ando High",
-            "played_at": "10/12/2024 - 16:10:17"
-        },
-        {
-            "song_name": "Angelina",
-            "artists": [
-                "GUAPO (AO)"
-            ],
-            "album": "This is Caribbean House, Vol.3",
-            "played_at": "10/12/2024 - 16:07:45"
-        },
-        {
-            "song_name": "Bo Bom",
-            "artists": [
-                "Moeaike"
-            ],
-            "album": "Bo Bom",
-            "played_at": "10/12/2024 - 16:03:47"
-        },
-        {
-            "song_name": "You & Me - Rivo Remix",
-            "artists": [
-                "Disclosure",
-                "Eliza Doolittle",
-                "Rivo"
-            ],
-            "album": "You & Me (Rivo Remix)",
-            "played_at": "10/12/2024 - 16:00:03"
-        },
-        {
-            "song_name": "World Hold On (Children Of The Sky) - FISHER Rework",
-            "artists": [
-                "Bob Sinclar",
-                "FISHER",
-                "Steve Edwards"
-            ],
-            "album": "World Hold On (Children Of The Sky) [FISHER Rework]",
-            "played_at": "10/12/2024 - 15:56:34"
-        },
-        {
-            "song_name": "It's Not Right But It's Okay",
-            "artists": [
-                "Mr. Belt & Wezol"
-            ],
-            "album": "It's Not Right But It's Okay",
-            "played_at": "10/12/2024 - 15:53:36"
-        },
-        {
-            "song_name": "Marea (we’ve lost dancing)",
-            "artists": [
-                "Fred again..",
-                "The Blessed Madonna"
-            ],
-            "album": "Actual Life (April 14 - December 17 2020)",
-            "played_at": "10/12/2024 - 15:51:06"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "10/12/2024 - 15:46:10"
-        },
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "Zerb",
-                "The Chainsmokers",
-                "Ink"
-            ],
-            "album": "Addicted",
-            "played_at": "10/12/2024 - 15:43:08"
-        },
-        {
-            "song_name": "Make Up Your Mind",
-            "artists": [
-                "Cordae"
-            ],
-            "album": "Make Up Your Mind",
-            "played_at": "10/12/2024 - 15:40:40"
-        },
-        {
-            "song_name": "What Once Was",
-            "artists": [
-                "Her's"
-            ],
-            "album": "Songs of Her's",
-            "played_at": "10/12/2024 - 15:37:54"
-        },
-        {
-            "song_name": "Cocoa Butter Kisses",
-            "artists": [
-                "Chance the Rapper",
-                "VIC MENSA",
-                "Twista"
-            ],
-            "album": "Acid Rap",
-            "played_at": "10/12/2024 - 15:34:07"
-        },
-        {
-            "song_name": "Weak",
-            "artists": [
-                "Vintage Culture",
-                "Maverick Sabre",
-                "Tom Breu"
-            ],
-            "album": "Promised Land",
-            "played_at": "10/12/2024 - 15:29:17"
-        },
-        {
-            "song_name": "Twirlanta",
-            "artists": [
-                "22Gz"
-            ],
-            "album": "The Blixky Tape 2",
-            "played_at": "10/12/2024 - 15:26:13"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "10/12/2024 - 15:23:31"
-        },
-        {
-            "song_name": "sdp interlude",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "Birds In The Trap Sing McKnight",
-            "played_at": "10/12/2024 - 15:20:38"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "10/12/2024 - 15:18:07"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "10/12/2024 - 14:21:22"
-        },
-        {
-            "song_name": "The Thrill",
-            "artists": [
-                "Wiz Khalifa",
-                "Empire Of The Sun"
-            ],
-            "album": "The Thrill (feat. Empire of the Sun)",
-            "played_at": "10/12/2024 - 14:08:55"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "10/12/2024 - 14:08:53"
-        },
-        {
-            "song_name": "Love Lost",
-            "artists": [
-                "Mac Miller",
-                "The Temper Trap"
-            ],
-            "album": "I Love Life, Thank You",
-            "played_at": "10/12/2024 - 14:03:10"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "10/12/2024 - 14:00:28"
-        },
-        {
-            "song_name": "The Spins",
-            "artists": [
-                "Mac Miller",
-                "Empire Of The Sun"
-            ],
-            "album": "K.I.D.S. (Deluxe)",
-            "played_at": "10/12/2024 - 13:58:28"
-        },
-        {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "10/12/2024 - 13:55:19"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "10/12/2024 - 13:52:23"
-        },
-        {
-            "song_name": "Reflections (1111 Hz)",
-            "artists": [
-                "Malte Marten"
-            ],
-            "album": "Healing Frequencies",
-            "played_at": "09/12/2024 - 20:36:53"
-        },
-        {
-            "song_name": "For you (1111 Hz)",
-            "artists": [
-                "Malte Marten"
-            ],
-            "album": "Healing Frequencies",
-            "played_at": "09/12/2024 - 20:36:06"
-        },
-        {
-            "song_name": "For you (1111 Hz)",
-            "artists": [
-                "Malte Marten"
-            ],
-            "album": "Healing Frequencies",
-            "played_at": "09/12/2024 - 20:34:17"
-        },
-        {
-            "song_name": "For you (1111 Hz)",
-            "artists": [
-                "Malte Marten"
-            ],
-            "album": "Healing Frequencies",
-            "played_at": "09/12/2024 - 20:33:48"
-        },
-        {
-            "song_name": "For you (1111 Hz)",
-            "artists": [
-                "Malte Marten"
-            ],
-            "album": "Healing Frequencies",
-            "played_at": "09/12/2024 - 20:33:37"
-        },
-        {
-            "song_name": "Hello Miss Johnson",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Hello Miss Johnson",
-            "played_at": "09/12/2024 - 13:07:27"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "09/12/2024 - 12:55:38"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "09/12/2024 - 12:49:51"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "09/12/2024 - 12:45:14"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "09/12/2024 - 12:43:39"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "09/12/2024 - 12:41:21"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "09/12/2024 - 12:38:42"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "09/12/2024 - 11:46:29"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "08/12/2024 - 13:20:24"
-        },
-        {
             "song_name": "Damages",
             "artists": [
                 "Tems"
@@ -860,6 +428,435 @@
             ],
             "album": "Help Me Lose My Mind",
             "played_at": "09/12/2024 - 12:55:38"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "12/12/2024 - 11:17:12"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "12/12/2024 - 11:04:32"
+        },
+        {
+            "song_name": "Sugar Sweet",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Sugar Sweet",
+            "played_at": "12/12/2024 - 10:51:36"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "12/12/2024 - 10:48:53"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "RSCL",
+                "it's murph",
+                "Twin Diplomacy",
+                "Jack August"
+            ],
+            "album": "Lost",
+            "played_at": "12/12/2024 - 10:46:40"
+        },
+        {
+            "song_name": "Shivers",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "album": "=",
+            "played_at": "12/12/2024 - 10:43:06"
+        },
+        {
+            "song_name": "Make Up Your Mind",
+            "artists": [
+                "Cordae"
+            ],
+            "album": "Make Up Your Mind",
+            "played_at": "12/12/2024 - 10:01:20"
+        },
+        {
+            "song_name": "Praying To A God - LUKE Remix",
+            "artists": [
+                "Mr. Probz",
+                "LUKE"
+            ],
+            "album": "Praying To A God (Remixes)",
+            "played_at": "12/12/2024 - 09:55:25"
+        },
+        {
+            "song_name": "Make Up Your Mind",
+            "artists": [
+                "Cordae"
+            ],
+            "album": "Make Up Your Mind",
+            "played_at": "12/12/2024 - 09:51:00"
+        },
+        {
+            "song_name": "Like Paradise",
+            "artists": [
+                "Steve Kroeger",
+                "Skye Holland"
+            ],
+            "album": "Like Paradise",
+            "played_at": "12/12/2024 - 08:59:56"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "12/12/2024 - 08:56:47"
+        },
+        {
+            "song_name": "Where Are You Now",
+            "artists": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "album": "All Stand Together",
+            "played_at": "12/12/2024 - 08:54:04"
+        },
+        {
+            "song_name": "Gatluak - Bakermat Remix",
+            "artists": [
+                "Kronan",
+                "Nyaruach",
+                "Bakermat"
+            ],
+            "album": "Gatluak (Bakermat Remix)",
+            "played_at": "12/12/2024 - 08:51:35"
+        },
+        {
+            "song_name": "Viva La Vida",
+            "artists": [
+                "Coldplay"
+            ],
+            "album": "Viva La Vida or Death and All His Friends",
+            "played_at": "12/12/2024 - 08:49:16"
+        },
+        {
+            "song_name": "Something Just Like This",
+            "artists": [
+                "The Chainsmokers",
+                "Coldplay"
+            ],
+            "album": "Memories...Do Not Open",
+            "played_at": "12/12/2024 - 08:45:13"
+        },
+        {
+            "song_name": "Bad Dreams",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "Bad Dreams",
+            "played_at": "12/12/2024 - 08:41:06"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Artificial Paradise (Deluxe)",
+            "played_at": "12/12/2024 - 08:38:02"
+        },
+        {
+            "song_name": "Fine Apple",
+            "artists": [
+                "Nic D"
+            ],
+            "album": "Fine Apple",
+            "played_at": "12/12/2024 - 08:35:33"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "12/12/2024 - 08:33:00"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Human (Deluxe)",
+            "played_at": "12/12/2024 - 08:30:46"
+        },
+        {
+            "song_name": "Saturday Night (Feel The Groove)",
+            "artists": [
+                "Brando",
+                "Ninetails"
+            ],
+            "album": "Saturday Night (Feel The Groove)",
+            "played_at": "12/12/2024 - 08:27:57"
+        },
+        {
+            "song_name": "Dance For Me (1, 2, 3) - Stutter Techno",
+            "artists": [
+                "Sonny Wern",
+                "Lyente",
+                "Quinten Circle",
+                "ZANA"
+            ],
+            "album": "Dance For Me (1, 2, 3) [Stutter Techno]",
+            "played_at": "12/12/2024 - 08:23:03"
+        },
+        {
+            "song_name": "Self Sabotage",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Self Sabotage",
+            "played_at": "12/12/2024 - 08:20:35"
+        },
+        {
+            "song_name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
+            "artists": [
+                "Zack Bia",
+                "347aidan",
+                "Lil Yachty"
+            ],
+            "album": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
+            "played_at": "12/12/2024 - 08:18:10"
+        },
+        {
+            "song_name": "Designer",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Find A Way",
+            "played_at": "12/12/2024 - 08:15:43"
+        },
+        {
+            "song_name": "Stay For A While",
+            "artists": [
+                "Victor Ray"
+            ],
+            "album": "Stay For A While",
+            "played_at": "12/12/2024 - 08:12:32"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "12/12/2024 - 08:10:48"
+        },
+        {
+            "song_name": "Stockholmsvy",
+            "artists": [
+                "Hannes",
+                "waterbaby"
+            ],
+            "album": "Stockholmsvy",
+            "played_at": "12/12/2024 - 08:09:23"
+        },
+        {
+            "song_name": "Superstar Sh*t",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "12/12/2024 - 08:05:54"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "12/12/2024 - 08:03:47"
+        },
+        {
+            "song_name": "Superstar Sh*t",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "12/12/2024 - 08:03:28"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "12/12/2024 - 08:01:28"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "11/12/2024 - 13:56:04"
+        },
+        {
+            "song_name": "Superstar Sh*t",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "11/12/2024 - 13:49:34"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "11/12/2024 - 12:42:29"
+        },
+        {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "11/12/2024 - 12:29:00"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "11/12/2024 - 12:26:05"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "11/12/2024 - 12:22:20"
+        },
+        {
+            "song_name": "10 Freaky Girls (with 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "21 Savage"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "10/12/2024 - 17:00:59"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "10/12/2024 - 16:47:16"
+        },
+        {
+            "song_name": "Churchill Downs (feat. Drake)",
+            "artists": [
+                "Jack Harlow",
+                "Drake"
+            ],
+            "album": "Come Home The Kids Miss You",
+            "played_at": "10/12/2024 - 16:43:03"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "10/12/2024 - 16:38:24"
+        },
+        {
+            "song_name": "on one tonight",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "10/12/2024 - 16:36:12"
+        },
+        {
+            "song_name": "Sign Me Up",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "10/12/2024 - 16:34:44"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "10/12/2024 - 16:31:34"
+        },
+        {
+            "song_name": "Circadian Rhythm",
+            "artists": [
+                "Drake"
+            ],
+            "album": "100 GIGS",
+            "played_at": "10/12/2024 - 16:28:11"
+        },
+        {
+            "song_name": "On The Radar Freestyle",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "On The Radar Freestyle",
+            "played_at": "10/12/2024 - 16:26:27"
+        },
+        {
+            "song_name": "Passionfruit",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "10/12/2024 - 16:22:05"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Drake",
+                "Majid Jordan"
+            ],
+            "album": "Nothing Was The Same (Deluxe)",
+            "played_at": "10/12/2024 - 16:17:23"
+        },
+        {
+            "song_name": "Basquiat - AUGUSTE Remix",
+            "artists": [
+                "Asake",
+                "AUGUSTE"
+            ],
+            "album": "Basquiat (AUGUSTE Remix)",
+            "played_at": "10/12/2024 - 16:13:54"
         },
         {
             "song_name": "Love That We Need",
