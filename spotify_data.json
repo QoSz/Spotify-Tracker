@@ -2,6 +2,40 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Chills (LA Hills)",
+            "artists": [
+                "Tiësto",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "DRIVE",
+            "played_at": "14/12/2024 - 19:32:09"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "14/12/2024 - 19:29:04"
+        },
+        {
+            "song_name": "Last Night",
+            "artists": [
+                "Rivo"
+            ],
+            "album": "Last Night",
+            "played_at": "14/12/2024 - 19:25:14"
+        },
+        {
+            "song_name": "Last Night",
+            "artists": [
+                "Rivo"
+            ],
+            "album": "Last Night",
+            "played_at": "14/12/2024 - 18:58:48"
+        },
+        {
             "song_name": "Ferrari",
             "artists": [
                 "Allstark",
@@ -408,39 +442,6 @@
             ],
             "album": "What Could Possibly Go Wrong",
             "played_at": "11/12/2024 - 13:49:34"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "11/12/2024 - 12:42:29"
-        },
-        {
-            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
-            "artists": [
-                "Trippie Redd",
-                "Lil Uzi Vert"
-            ],
-            "album": "Trip At Knight",
-            "played_at": "11/12/2024 - 12:29:00"
-        },
-        {
-            "song_name": "Bad Habit",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Gemini Rights",
-            "played_at": "11/12/2024 - 12:26:05"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "11/12/2024 - 12:22:20"
         },
         {
             "song_name": "Chills (LA Hills)",
