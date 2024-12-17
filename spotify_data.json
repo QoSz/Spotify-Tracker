@@ -2,6 +2,102 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Talk To",
+            "artists": [
+                "Lost In Pacific",
+                "ALLKNIGHT"
+            ],
+            "album": "Talk To",
+            "played_at": "17/12/2024 - 08:45:58"
+        },
+        {
+            "song_name": "Price",
+            "artists": [
+                "PALASTIC"
+            ],
+            "album": "Price",
+            "played_at": "17/12/2024 - 08:42:43"
+        },
+        {
+            "song_name": "Hallucinogenics",
+            "artists": [
+                "Nounours",
+                "Queen D"
+            ],
+            "album": "Hallucinogenics",
+            "played_at": "17/12/2024 - 08:40:08"
+        },
+        {
+            "song_name": "My Sunshine",
+            "artists": [
+                "Coffee Cub"
+            ],
+            "album": "My Sunshine",
+            "played_at": "17/12/2024 - 08:36:50"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "PLÜM",
+                "FRENCHGRL"
+            ],
+            "album": "Stolen Dance",
+            "played_at": "17/12/2024 - 08:34:29"
+        },
+        {
+            "song_name": "Self Sabotage",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Self Sabotage",
+            "played_at": "17/12/2024 - 08:31:03"
+        },
+        {
+            "song_name": "Follow The Sun",
+            "artists": [
+                "Lost In Pacific",
+                "Noah Kulaga"
+            ],
+            "album": "Follow The Sun",
+            "played_at": "17/12/2024 - 08:28:37"
+        },
+        {
+            "song_name": "I Adore You (feat. Daecolm)",
+            "artists": [
+                "HUGEL",
+                "Topic",
+                "Arash",
+                "Daecolm"
+            ],
+            "album": "I Adore You (feat. Daecolm)",
+            "played_at": "17/12/2024 - 08:25:40"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "17/12/2024 - 08:22:06"
+        },
+        {
+            "song_name": "Now or Never",
+            "artists": [
+                "Trinix",
+                "Dominic Neill"
+            ],
+            "album": "Now or Never",
+            "played_at": "17/12/2024 - 08:20:01"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Forever",
+            "played_at": "17/12/2024 - 08:16:58"
+        },
+        {
             "song_name": "If You Wanna",
             "artists": [
                 "Nu Aspect",
@@ -352,103 +448,6 @@
             ],
             "album": "Alelele",
             "played_at": "16/12/2024 - 12:02:39"
-        },
-        {
-            "song_name": "You & Me - Rivo Remix",
-            "artists": [
-                "Disclosure",
-                "Eliza Doolittle",
-                "Rivo"
-            ],
-            "album": "You & Me (Rivo Remix)",
-            "played_at": "16/12/2024 - 11:58:29"
-        },
-        {
-            "song_name": "Kundu",
-            "artists": [
-                "Kanslor",
-                "Ann Stable"
-            ],
-            "album": "Kundu",
-            "played_at": "16/12/2024 - 11:55:00"
-        },
-        {
-            "song_name": "Music Is the Answer",
-            "artists": [
-                "Mannymore",
-                "Orfa"
-            ],
-            "album": "Music Is the Answer",
-            "played_at": "16/12/2024 - 11:52:08"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "Not Kiddin"
-            ],
-            "album": "Use Somebody",
-            "played_at": "16/12/2024 - 11:49:42"
-        },
-        {
-            "song_name": "Wildside",
-            "artists": [
-                "MEYSTA"
-            ],
-            "album": "Wildside",
-            "played_at": "16/12/2024 - 11:46:56"
-        },
-        {
-            "song_name": "She Doesn't Mind",
-            "artists": [
-                "Mannymore",
-                "Orfa"
-            ],
-            "album": "She Doesn't Mind",
-            "played_at": "16/12/2024 - 11:44:12"
-        },
-        {
-            "song_name": "Clareou - Radio Edit",
-            "artists": [
-                "ATKÖ"
-            ],
-            "album": "Clareou",
-            "played_at": "16/12/2024 - 11:41:28"
-        },
-        {
-            "song_name": "Story of My Life",
-            "artists": [
-                "Not Kiddin"
-            ],
-            "album": "Story of My Life",
-            "played_at": "16/12/2024 - 11:38:17"
-        },
-        {
-            "song_name": "Running Up That Hill - feva. Remix",
-            "artists": [
-                "Kilian K",
-                "Blaze U",
-                "feva."
-            ],
-            "album": "Running Up That Hill (feva. Remix)",
-            "played_at": "16/12/2024 - 11:35:20"
-        },
-        {
-            "song_name": "The Rhythm of the Night",
-            "artists": [
-                "Giorgio Gee",
-                "Geeyo Ibra"
-            ],
-            "album": "The Rhythm of the Night",
-            "played_at": "16/12/2024 - 11:32:50"
-        },
-        {
-            "song_name": "Make You Mine",
-            "artists": [
-                "Not Kiddin",
-                "Ann Stable"
-            ],
-            "album": "Make You Mine",
-            "played_at": "16/12/2024 - 11:29:54"
         },
         {
             "song_name": "Talk To",
