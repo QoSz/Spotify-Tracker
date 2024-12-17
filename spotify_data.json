@@ -2,462 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "17/12/2024 - 07:47:33"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "17/12/2024 - 07:43:47"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "17/12/2024 - 07:41:09"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "17/12/2024 - 07:38:14"
-        },
-        {
-            "song_name": "Forever (feat. Malou & Yuna)",
-            "artists": [
-                "HUGEL",
-                "Diplo",
-                "Malou",
-                "Yuna"
-            ],
-            "album": "Forever (feat. Malou & Yuna)",
-            "played_at": "17/12/2024 - 07:14:39"
-        },
-        {
-            "song_name": "I Just Can't Get Enough",
-            "artists": [
-                "Mizmo",
-                "Queen D"
-            ],
-            "album": "I Just Can't Get Enough",
-            "played_at": "17/12/2024 - 07:12:18"
-        },
-        {
-            "song_name": "ten",
-            "artists": [
-                "Fred again..",
-                "Jozzy",
-                "Jim Legxacy"
-            ],
-            "album": "ten days",
-            "played_at": "17/12/2024 - 07:09:08"
-        },
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "17/12/2024 - 07:06:06"
-        },
-        {
-            "song_name": "Quedate Luna",
-            "artists": [
-                "Trinix",
-                "Natalia Doco"
-            ],
-            "album": "Quedate Luna",
-            "played_at": "17/12/2024 - 07:01:02"
-        },
-        {
-            "song_name": "Greedy",
-            "artists": [
-                "Bleu Azur",
-                "Queen D"
-            ],
-            "album": "Greedy",
-            "played_at": "17/12/2024 - 06:57:57"
-        },
-        {
-            "song_name": "The Source",
-            "artists": [
-                "PLÜM",
-                "Sara Costa"
-            ],
-            "album": "The Source",
-            "played_at": "17/12/2024 - 06:55:34"
-        },
-        {
-            "song_name": "Hello Miss Johnson",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Hello Miss Johnson",
-            "played_at": "17/12/2024 - 06:51:56"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "17/12/2024 - 06:49:11"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "Levi"
-            ],
-            "album": "Jump",
-            "played_at": "17/12/2024 - 06:45:54"
-        },
-        {
-            "song_name": "Tainted Love",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "Tainted Love",
-            "played_at": "17/12/2024 - 06:43:20"
-        },
-        {
-            "song_name": "Move",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Keinemusik",
-                "Orso",
-                "Malachiii"
-            ],
-            "album": "Move",
-            "played_at": "17/12/2024 - 06:40:15"
-        },
-        {
-            "song_name": "Hey Ya!",
-            "artists": [
-                "PLÜM",
-                "Trinix"
-            ],
-            "album": "Hey Ya!",
-            "played_at": "17/12/2024 - 06:37:17"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "17/12/2024 - 06:34:27"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "17/12/2024 - 06:33:00"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "17/12/2024 - 06:30:06"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "17/12/2024 - 06:27:44"
-        },
-        {
-            "song_name": "Red Leather",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "J. Cole"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "16/12/2024 - 15:28:11"
-        },
-        {
-            "song_name": "Dame Mas",
-            "artists": [
-                "feva.",
-                "Kanslor"
-            ],
-            "album": "Dame Mas",
-            "played_at": "16/12/2024 - 15:18:01"
-        },
-        {
-            "song_name": "Lioness - Francis Mercier Remix",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove",
-                "Francis Mercier"
-            ],
-            "album": "Lioness (Francis Mercier Remix)",
-            "played_at": "16/12/2024 - 15:16:54"
-        },
-        {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "16/12/2024 - 15:07:54"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "16/12/2024 - 15:04:35"
-        },
-        {
-            "song_name": "Lioness - Francis Mercier Remix",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove",
-                "Francis Mercier"
-            ],
-            "album": "Lioness (Francis Mercier Remix)",
-            "played_at": "16/12/2024 - 13:12:26"
-        },
-        {
-            "song_name": "Wicked Game",
-            "artists": [
-                "F3DEN"
-            ],
-            "album": "Wicked Game",
-            "played_at": "16/12/2024 - 12:18:41"
-        },
-        {
-            "song_name": "Feel My Love",
-            "artists": [
-                "LFox",
-                "Exlls"
-            ],
-            "album": "Feel My Love",
-            "played_at": "16/12/2024 - 12:15:56"
-        },
-        {
-            "song_name": "Sauti",
-            "artists": [
-                "Francis Mercier",
-                "Faul & Wad",
-                "African Children's Choir"
-            ],
-            "album": "Sauti",
-            "played_at": "16/12/2024 - 12:13:16"
-        },
-        {
-            "song_name": "Spectrum (Say My Name) - Afro House Version",
-            "artists": [
-                "Anthony Keyrouz",
-                "Felix Schorn"
-            ],
-            "album": "Spectrum (Say My Name) [Afro House Version]",
-            "played_at": "16/12/2024 - 12:09:47"
-        },
-        {
-            "song_name": "I Follow Rivers",
-            "artists": [
-                "KALUMA",
-                "Kilian K",
-                "Micano"
-            ],
-            "album": "I Follow Rivers",
-            "played_at": "16/12/2024 - 12:07:04"
-        },
-        {
-            "song_name": "Maria Maria",
-            "artists": [
-                "Mannymore",
-                "feva.",
-                "Orfa"
-            ],
-            "album": "Maria Maria",
-            "played_at": "16/12/2024 - 12:05:08"
-        },
-        {
-            "song_name": "Alelele",
-            "artists": [
-                "Natascha Polké",
-                "PÆDE"
-            ],
-            "album": "Alelele",
-            "played_at": "16/12/2024 - 12:02:39"
-        },
-        {
-            "song_name": "You & Me - Rivo Remix",
-            "artists": [
-                "Disclosure",
-                "Eliza Doolittle",
-                "Rivo"
-            ],
-            "album": "You & Me (Rivo Remix)",
-            "played_at": "16/12/2024 - 11:58:29"
-        },
-        {
-            "song_name": "Kundu",
-            "artists": [
-                "Kanslor",
-                "Ann Stable"
-            ],
-            "album": "Kundu",
-            "played_at": "16/12/2024 - 11:55:00"
-        },
-        {
-            "song_name": "Music Is the Answer",
-            "artists": [
-                "Mannymore",
-                "Orfa"
-            ],
-            "album": "Music Is the Answer",
-            "played_at": "16/12/2024 - 11:52:08"
-        },
-        {
-            "song_name": "Use Somebody",
-            "artists": [
-                "Not Kiddin"
-            ],
-            "album": "Use Somebody",
-            "played_at": "16/12/2024 - 11:49:42"
-        },
-        {
-            "song_name": "Wildside",
-            "artists": [
-                "MEYSTA"
-            ],
-            "album": "Wildside",
-            "played_at": "16/12/2024 - 11:46:56"
-        },
-        {
-            "song_name": "She Doesn't Mind",
-            "artists": [
-                "Mannymore",
-                "Orfa"
-            ],
-            "album": "She Doesn't Mind",
-            "played_at": "16/12/2024 - 11:44:12"
-        },
-        {
-            "song_name": "Clareou - Radio Edit",
-            "artists": [
-                "ATKÖ"
-            ],
-            "album": "Clareou",
-            "played_at": "16/12/2024 - 11:41:28"
-        },
-        {
-            "song_name": "Story of My Life",
-            "artists": [
-                "Not Kiddin"
-            ],
-            "album": "Story of My Life",
-            "played_at": "16/12/2024 - 11:38:17"
-        },
-        {
-            "song_name": "Running Up That Hill - feva. Remix",
-            "artists": [
-                "Kilian K",
-                "Blaze U",
-                "feva."
-            ],
-            "album": "Running Up That Hill (feva. Remix)",
-            "played_at": "16/12/2024 - 11:35:20"
-        },
-        {
-            "song_name": "The Rhythm of the Night",
-            "artists": [
-                "Giorgio Gee",
-                "Geeyo Ibra"
-            ],
-            "album": "The Rhythm of the Night",
-            "played_at": "16/12/2024 - 11:32:50"
-        },
-        {
-            "song_name": "Make You Mine",
-            "artists": [
-                "Not Kiddin",
-                "Ann Stable"
-            ],
-            "album": "Make You Mine",
-            "played_at": "16/12/2024 - 11:29:54"
-        },
-        {
-            "song_name": "Yamore - Edit Version",
-            "artists": [
-                "MoBlack",
-                "Salif Keita",
-                "Benja (NL)",
-                "Franc Fala",
-                "Cesária Evora"
-            ],
-            "album": "Yamore (Edit Version)",
-            "played_at": "16/12/2024 - 11:26:13"
-        },
-        {
-            "song_name": "Makeda",
-            "artists": [
-                "Alice DiMar"
-            ],
-            "album": "Makeda",
-            "played_at": "16/12/2024 - 10:54:58"
-        },
-        {
-            "song_name": "Why Does My Heart Feel so Bad?",
-            "artists": [
-                "Mannymore",
-                "feva.",
-                "Orfa"
-            ],
-            "album": "Why Does My Heart Feel so Bad?",
-            "played_at": "16/12/2024 - 10:50:58"
-        },
-        {
-            "song_name": "Gabriel",
-            "artists": [
-                "Hydawai",
-                "CMC$",
-                "Benji (UK)"
-            ],
-            "album": "Gabriel",
-            "played_at": "16/12/2024 - 10:48:33"
-        },
-        {
-            "song_name": "My Love (2024)",
-            "artists": [
-                "Alex Wann",
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love (2024)",
-            "played_at": "16/12/2024 - 10:45:16"
-        },
-        {
             "song_name": "If You Wanna",
             "artists": [
                 "Nu Aspect",
@@ -905,6 +449,454 @@
             ],
             "album": "Make You Mine",
             "played_at": "16/12/2024 - 11:29:54"
+        },
+        {
+            "song_name": "Talk To",
+            "artists": [
+                "Lost In Pacific",
+                "ALLKNIGHT"
+            ],
+            "album": "Talk To",
+            "played_at": "17/12/2024 - 08:45:58"
+        },
+        {
+            "song_name": "Price",
+            "artists": [
+                "PALASTIC"
+            ],
+            "album": "Price",
+            "played_at": "17/12/2024 - 08:42:43"
+        },
+        {
+            "song_name": "Hallucinogenics",
+            "artists": [
+                "Nounours",
+                "Queen D"
+            ],
+            "album": "Hallucinogenics",
+            "played_at": "17/12/2024 - 08:40:08"
+        },
+        {
+            "song_name": "My Sunshine",
+            "artists": [
+                "Coffee Cub"
+            ],
+            "album": "My Sunshine",
+            "played_at": "17/12/2024 - 08:36:50"
+        },
+        {
+            "song_name": "Stolen Dance",
+            "artists": [
+                "PLÜM",
+                "FRENCHGRL"
+            ],
+            "album": "Stolen Dance",
+            "played_at": "17/12/2024 - 08:34:29"
+        },
+        {
+            "song_name": "Self Sabotage",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Self Sabotage",
+            "played_at": "17/12/2024 - 08:31:03"
+        },
+        {
+            "song_name": "Follow The Sun",
+            "artists": [
+                "Lost In Pacific",
+                "Noah Kulaga"
+            ],
+            "album": "Follow The Sun",
+            "played_at": "17/12/2024 - 08:28:37"
+        },
+        {
+            "song_name": "I Adore You (feat. Daecolm)",
+            "artists": [
+                "HUGEL",
+                "Topic",
+                "Arash",
+                "Daecolm"
+            ],
+            "album": "I Adore You (feat. Daecolm)",
+            "played_at": "17/12/2024 - 08:25:40"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "17/12/2024 - 08:22:06"
+        },
+        {
+            "song_name": "Now or Never",
+            "artists": [
+                "Trinix",
+                "Dominic Neill"
+            ],
+            "album": "Now or Never",
+            "played_at": "17/12/2024 - 08:20:01"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Forever",
+            "played_at": "17/12/2024 - 08:16:58"
+        },
+        {
+            "song_name": "If You Wanna",
+            "artists": [
+                "Nu Aspect",
+                "Coach Harrison"
+            ],
+            "album": "If You Wanna",
+            "played_at": "17/12/2024 - 08:14:27"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "17/12/2024 - 08:11:47"
+        },
+        {
+            "song_name": "Talk About Us",
+            "artists": [
+                "Thierry Von Der Warth"
+            ],
+            "album": "Talk About Us",
+            "played_at": "17/12/2024 - 08:09:24"
+        },
+        {
+            "song_name": "Be Your Friend",
+            "artists": [
+                "XYSM",
+                "EDGR"
+            ],
+            "album": "Be Your Friend",
+            "played_at": "17/12/2024 - 08:07:05"
+        },
+        {
+            "song_name": "She Said (Big Jet Plane)",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "She Said (Big Jet Plane)",
+            "played_at": "17/12/2024 - 08:04:21"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "17/12/2024 - 07:47:33"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "17/12/2024 - 07:43:47"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "17/12/2024 - 07:41:09"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "17/12/2024 - 07:38:14"
+        },
+        {
+            "song_name": "Forever (feat. Malou & Yuna)",
+            "artists": [
+                "HUGEL",
+                "Diplo",
+                "Malou",
+                "Yuna"
+            ],
+            "album": "Forever (feat. Malou & Yuna)",
+            "played_at": "17/12/2024 - 07:14:39"
+        },
+        {
+            "song_name": "I Just Can't Get Enough",
+            "artists": [
+                "Mizmo",
+                "Queen D"
+            ],
+            "album": "I Just Can't Get Enough",
+            "played_at": "17/12/2024 - 07:12:18"
+        },
+        {
+            "song_name": "ten",
+            "artists": [
+                "Fred again..",
+                "Jozzy",
+                "Jim Legxacy"
+            ],
+            "album": "ten days",
+            "played_at": "17/12/2024 - 07:09:08"
+        },
+        {
+            "song_name": "Illuminate",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "17/12/2024 - 07:06:06"
+        },
+        {
+            "song_name": "Quedate Luna",
+            "artists": [
+                "Trinix",
+                "Natalia Doco"
+            ],
+            "album": "Quedate Luna",
+            "played_at": "17/12/2024 - 07:01:02"
+        },
+        {
+            "song_name": "Greedy",
+            "artists": [
+                "Bleu Azur",
+                "Queen D"
+            ],
+            "album": "Greedy",
+            "played_at": "17/12/2024 - 06:57:57"
+        },
+        {
+            "song_name": "The Source",
+            "artists": [
+                "PLÜM",
+                "Sara Costa"
+            ],
+            "album": "The Source",
+            "played_at": "17/12/2024 - 06:55:34"
+        },
+        {
+            "song_name": "Hello Miss Johnson",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Hello Miss Johnson",
+            "played_at": "17/12/2024 - 06:51:56"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "17/12/2024 - 06:49:11"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "Levi"
+            ],
+            "album": "Jump",
+            "played_at": "17/12/2024 - 06:45:54"
+        },
+        {
+            "song_name": "Tainted Love",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "Tainted Love",
+            "played_at": "17/12/2024 - 06:43:20"
+        },
+        {
+            "song_name": "Move",
+            "artists": [
+                "Adam Port",
+                "Stryv",
+                "Keinemusik",
+                "Orso",
+                "Malachiii"
+            ],
+            "album": "Move",
+            "played_at": "17/12/2024 - 06:40:15"
+        },
+        {
+            "song_name": "Hey Ya!",
+            "artists": [
+                "PLÜM",
+                "Trinix"
+            ],
+            "album": "Hey Ya!",
+            "played_at": "17/12/2024 - 06:37:17"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "17/12/2024 - 06:34:27"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "17/12/2024 - 06:33:00"
+        },
+        {
+            "song_name": "Golden Sunset",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Golden Sunset",
+            "played_at": "17/12/2024 - 06:30:06"
+        },
+        {
+            "song_name": "Sun Goes Down",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Sun Goes Down",
+            "played_at": "17/12/2024 - 06:27:44"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "16/12/2024 - 15:28:11"
+        },
+        {
+            "song_name": "Dame Mas",
+            "artists": [
+                "feva.",
+                "Kanslor"
+            ],
+            "album": "Dame Mas",
+            "played_at": "16/12/2024 - 15:18:01"
+        },
+        {
+            "song_name": "Lioness - Francis Mercier Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove",
+                "Francis Mercier"
+            ],
+            "album": "Lioness (Francis Mercier Remix)",
+            "played_at": "16/12/2024 - 15:16:54"
+        },
+        {
+            "song_name": "/ (Forgotten)",
+            "artists": [
+                "mikeeysmind"
+            ],
+            "album": "/ (Forgotten)",
+            "played_at": "16/12/2024 - 15:07:54"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "16/12/2024 - 15:04:35"
+        },
+        {
+            "song_name": "Lioness - Francis Mercier Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove",
+                "Francis Mercier"
+            ],
+            "album": "Lioness (Francis Mercier Remix)",
+            "played_at": "16/12/2024 - 13:12:26"
+        },
+        {
+            "song_name": "Wicked Game",
+            "artists": [
+                "F3DEN"
+            ],
+            "album": "Wicked Game",
+            "played_at": "16/12/2024 - 12:18:41"
+        },
+        {
+            "song_name": "Feel My Love",
+            "artists": [
+                "LFox",
+                "Exlls"
+            ],
+            "album": "Feel My Love",
+            "played_at": "16/12/2024 - 12:15:56"
+        },
+        {
+            "song_name": "Sauti",
+            "artists": [
+                "Francis Mercier",
+                "Faul & Wad",
+                "African Children's Choir"
+            ],
+            "album": "Sauti",
+            "played_at": "16/12/2024 - 12:13:16"
+        },
+        {
+            "song_name": "Spectrum (Say My Name) - Afro House Version",
+            "artists": [
+                "Anthony Keyrouz",
+                "Felix Schorn"
+            ],
+            "album": "Spectrum (Say My Name) [Afro House Version]",
+            "played_at": "16/12/2024 - 12:09:47"
+        },
+        {
+            "song_name": "I Follow Rivers",
+            "artists": [
+                "KALUMA",
+                "Kilian K",
+                "Micano"
+            ],
+            "album": "I Follow Rivers",
+            "played_at": "16/12/2024 - 12:07:04"
+        },
+        {
+            "song_name": "Maria Maria",
+            "artists": [
+                "Mannymore",
+                "feva.",
+                "Orfa"
+            ],
+            "album": "Maria Maria",
+            "played_at": "16/12/2024 - 12:05:08"
+        },
+        {
+            "song_name": "Alelele",
+            "artists": [
+                "Natascha Polké",
+                "PÆDE"
+            ],
+            "album": "Alelele",
+            "played_at": "16/12/2024 - 12:02:39"
         },
         {
             "song_name": "Talk To",
