@@ -1346,6 +1346,16 @@
             "played_at": "16/12/2024 - 12:02:39"
         },
         {
+            "song_name": "Regret",
+            "artists": [
+                "Astrality",
+                "Arinn",
+                "B-Goss"
+            ],
+            "album": "Regret",
+            "played_at": "17/12/2024 - 21:11:08"
+        },
+        {
             "song_name": "Talk To",
             "artists": [
                 "Lost In Pacific",
@@ -1783,15 +1793,6 @@
             ],
             "album": "Maria Maria",
             "played_at": "16/12/2024 - 12:05:08"
-        },
-        {
-            "song_name": "Alelele",
-            "artists": [
-                "Natascha Polké",
-                "PÆDE"
-            ],
-            "album": "Alelele",
-            "played_at": "16/12/2024 - 12:02:39"
         }
     ]
 }
