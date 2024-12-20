@@ -2,6 +2,22 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Smile",
+            "artists": [
+                "Silence Concertos"
+            ],
+            "album": "Smile",
+            "played_at": "20/12/2024 - 09:03:42"
+        },
+        {
+            "song_name": "Pure Ambience",
+            "artists": [
+                "Jon Derison"
+            ],
+            "album": "Pure Ambience",
+            "played_at": "20/12/2024 - 09:00:55"
+        },
+        {
             "song_name": "Poemy",
             "artists": [
                 "Emanuel Kulo"
@@ -409,23 +425,6 @@
             ],
             "album": "Legends Never Die",
             "played_at": "20/12/2024 - 00:34:44"
-        },
-        {
-            "song_name": "Memory Lane",
-            "artists": [
-                "Martian"
-            ],
-            "album": "Memory Lane",
-            "played_at": "20/12/2024 - 00:32:27"
-        },
-        {
-            "song_name": "On the Loose",
-            "artists": [
-                "Will Claye",
-                "Reagan Capaci"
-            ],
-            "album": "Quoted",
-            "played_at": "20/12/2024 - 00:29:11"
         },
         {
             "song_name": "Smile",
