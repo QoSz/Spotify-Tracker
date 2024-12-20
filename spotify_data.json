@@ -2,6 +2,31 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "19/12/2024 - 12:24:46"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "19/12/2024 - 12:21:51"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "19/12/2024 - 12:18:06"
+        },
+        {
             "song_name": "Horizon",
             "artists": [
                 "Lonely Night"
@@ -388,30 +413,6 @@
             ],
             "album": "Ridin' Like",
             "played_at": "18/12/2024 - 15:59:57"
-        },
-        {
-            "song_name": "Baby I Got You",
-            "artists": [
-                "Portugal Sunset"
-            ],
-            "album": "Baby I Got You",
-            "played_at": "18/12/2024 - 15:57:56"
-        },
-        {
-            "song_name": "Ibiza",
-            "artists": [
-                "Coffee Cub"
-            ],
-            "album": "Ibiza",
-            "played_at": "18/12/2024 - 15:55:57"
-        },
-        {
-            "song_name": "Falling In Love",
-            "artists": [
-                "Planetopia"
-            ],
-            "album": "Falling In Love",
-            "played_at": "18/12/2024 - 15:53:31"
         },
         {
             "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
