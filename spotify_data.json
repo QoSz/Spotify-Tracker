@@ -2,6 +2,14 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Rosetta",
+            "artists": [
+                "Pascal Dirac"
+            ],
+            "album": "Rosetta",
+            "played_at": "20/12/2024 - 09:05:23"
+        },
+        {
             "song_name": "Smile",
             "artists": [
                 "Silence Concertos"
@@ -417,14 +425,6 @@
             ],
             "album": "Water (Remix)",
             "played_at": "20/12/2024 - 00:38:04"
-        },
-        {
-            "song_name": "Man Of The Year",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Legends Never Die",
-            "played_at": "20/12/2024 - 00:34:44"
         },
         {
             "song_name": "Rosetta",
