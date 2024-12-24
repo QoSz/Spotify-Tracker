@@ -2,431 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Rosetta",
-            "artists": [
-                "Pascal Dirac"
-            ],
-            "album": "Rosetta",
-            "played_at": "20/12/2024 - 09:05:23"
-        },
-        {
-            "song_name": "Smile",
-            "artists": [
-                "Silence Concertos"
-            ],
-            "album": "Smile",
-            "played_at": "20/12/2024 - 09:03:42"
-        },
-        {
-            "song_name": "Pure Ambience",
-            "artists": [
-                "Jon Derison"
-            ],
-            "album": "Pure Ambience",
-            "played_at": "20/12/2024 - 09:00:55"
-        },
-        {
-            "song_name": "Poemy",
-            "artists": [
-                "Emanuel Kulo"
-            ],
-            "album": "Poemy",
-            "played_at": "20/12/2024 - 08:58:10"
-        },
-        {
-            "song_name": "Super Moon",
-            "artists": [
-                "Europa Falls"
-            ],
-            "album": "Super Moon",
-            "played_at": "20/12/2024 - 08:55:37"
-        },
-        {
-            "song_name": "Eclipse",
-            "artists": [
-                "Solar Collective"
-            ],
-            "album": "Eclipse",
-            "played_at": "20/12/2024 - 08:52:47"
-        },
-        {
-            "song_name": "Submerged",
-            "artists": [
-                "Rizzolo"
-            ],
-            "album": "Submerged",
-            "played_at": "20/12/2024 - 08:50:26"
-        },
-        {
-            "song_name": "Into the Peace",
-            "artists": [
-                "Airship Express"
-            ],
-            "album": "Into the Peace",
-            "played_at": "20/12/2024 - 08:47:21"
-        },
-        {
-            "song_name": "Itemized",
-            "artists": [
-                "Holzer"
-            ],
-            "album": "Itemized",
-            "played_at": "20/12/2024 - 08:45:04"
-        },
-        {
-            "song_name": "Evanescent",
-            "artists": [
-                "Amos Stovall"
-            ],
-            "album": "Evanescent",
-            "played_at": "20/12/2024 - 08:42:26"
-        },
-        {
-            "song_name": "Magnetic Reflections",
-            "artists": [
-                "The Endity"
-            ],
-            "album": "Magnetic Reflections",
-            "played_at": "20/12/2024 - 08:39:58"
-        },
-        {
-            "song_name": "Subdued",
-            "artists": [
-                "Calil"
-            ],
-            "album": "Subdued",
-            "played_at": "20/12/2024 - 08:37:31"
-        },
-        {
-            "song_name": "Still",
-            "artists": [
-                "Benjamin Rhey"
-            ],
-            "album": "Still",
-            "played_at": "20/12/2024 - 08:35:25"
-        },
-        {
-            "song_name": "Exploration",
-            "artists": [
-                "Photoautotroph"
-            ],
-            "album": "Exploration",
-            "played_at": "20/12/2024 - 08:32:55"
-        },
-        {
-            "song_name": "Sensations",
-            "artists": [
-                "Zane Cassidy"
-            ],
-            "album": "Sensations",
-            "played_at": "20/12/2024 - 08:30:14"
-        },
-        {
-            "song_name": "Choose Calm",
-            "artists": [
-                "Noor Alston"
-            ],
-            "album": "Choose Calm",
-            "played_at": "20/12/2024 - 08:27:53"
-        },
-        {
-            "song_name": "Hiemal",
-            "artists": [
-                "Klaangen"
-            ],
-            "album": "Hiemal",
-            "played_at": "20/12/2024 - 08:25:41"
-        },
-        {
-            "song_name": "Logi Calm",
-            "artists": [
-                "Sara Kisha"
-            ],
-            "album": "Forever",
-            "played_at": "20/12/2024 - 08:23:05"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Hans Jacob"
-            ],
-            "album": "Time Flies",
-            "played_at": "20/12/2024 - 08:20:03"
-        },
-        {
-            "song_name": "Circuits",
-            "artists": [
-                "Nelumbo Lutea"
-            ],
-            "album": "Circuits",
-            "played_at": "20/12/2024 - 08:17:53"
-        },
-        {
-            "song_name": "Lunar",
-            "artists": [
-                "So Lis"
-            ],
-            "album": "Lunar",
-            "played_at": "20/12/2024 - 08:15:24"
-        },
-        {
-            "song_name": "Tranquil Oasis",
-            "artists": [
-                "Kazuhiro Hotaru"
-            ],
-            "album": "Tranquil Oasis",
-            "played_at": "20/12/2024 - 08:13:14"
-        },
-        {
-            "song_name": "Calm Lunar",
-            "artists": [
-                "Calil"
-            ],
-            "album": "Calm Lunar",
-            "played_at": "20/12/2024 - 08:10:38"
-        },
-        {
-            "song_name": "Monism",
-            "artists": [
-                "Elijah Edwards"
-            ],
-            "album": "Monism",
-            "played_at": "20/12/2024 - 08:08:20"
-        },
-        {
-            "song_name": "Aesthetics",
-            "artists": [
-                "Celestial Echoes"
-            ],
-            "album": "Aesthetics",
-            "played_at": "20/12/2024 - 08:06:04"
-        },
-        {
-            "song_name": "Nightfall",
-            "artists": [
-                "Ceilidh"
-            ],
-            "album": "Nightfall",
-            "played_at": "20/12/2024 - 08:03:11"
-        },
-        {
-            "song_name": "Like That",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Kendrick Lamar"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "20/12/2024 - 02:06:11"
-        },
-        {
-            "song_name": "Like That",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Kendrick Lamar"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "20/12/2024 - 01:51:54"
-        },
-        {
-            "song_name": "High Heels - Whistle While You Twerk",
-            "artists": [
-                "Flo Rida",
-                "Walker Hayes",
-                "secs on the beach"
-            ],
-            "album": "High Heels (Whistle While You Twerk)",
-            "played_at": "20/12/2024 - 01:51:46"
-        },
-        {
-            "song_name": "Faucet Failure",
-            "artists": [
-                "Ski Mask The Slump God"
-            ],
-            "album": "STOKELEY",
-            "played_at": "20/12/2024 - 01:49:03"
-        },
-        {
-            "song_name": "Way Of Life",
-            "artists": [
-                "Oren Major",
-                "Mama Only Son"
-            ],
-            "album": "Way Of Life",
-            "played_at": "20/12/2024 - 01:46:37"
-        },
-        {
-            "song_name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "Lil Uzi Vert"
-            ],
-            "album": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-            "played_at": "20/12/2024 - 01:43:15"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "20/12/2024 - 01:39:30"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "20/12/2024 - 01:35:43"
-        },
-        {
-            "song_name": "BACK TO ME",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "20/12/2024 - 01:29:03"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "20/12/2024 - 01:24:07"
-        },
-        {
-            "song_name": "Sdp Interlude",
-            "artists": [
-                "Lucidity"
-            ],
-            "album": "Sdp Interlude",
-            "played_at": "20/12/2024 - 01:21:45"
-        },
-        {
-            "song_name": "Overdose",
-            "artists": [
-                "Two Friends",
-                "Exit Friendzone",
-                "Nat Dunn"
-            ],
-            "album": "Overdose",
-            "played_at": "20/12/2024 - 01:16:17"
-        },
-        {
-            "song_name": "Let It Out (feat. Myiah Lynnae)",
-            "artists": [
-                "Trippie Redd",
-                "Myiah Lynnae"
-            ],
-            "album": "Pegasus",
-            "played_at": "20/12/2024 - 01:12:28"
-        },
-        {
-            "song_name": "I'm Good (Blue)",
-            "artists": [
-                "David Guetta",
-                "Bebe Rexha"
-            ],
-            "album": "I'm Good (Blue)",
-            "played_at": "20/12/2024 - 01:09:31"
-        },
-        {
-            "song_name": "infinity (888) - feat. Joey Bada$$",
-            "artists": [
-                "XXXTENTACION",
-                "Joey Bada$$"
-            ],
-            "album": "?",
-            "played_at": "20/12/2024 - 01:06:35"
-        },
-        {
-            "song_name": "Since I Got On",
-            "artists": [
-                "Kevin Powers",
-                "fernospazzin"
-            ],
-            "album": "Since I Got On",
-            "played_at": "20/12/2024 - 01:03:38"
-        },
-        {
-            "song_name": "Doomsday (with Juice WRLD & Cordae)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Juice WRLD",
-                "Cordae"
-            ],
-            "album": "Doomsday",
-            "played_at": "20/12/2024 - 01:00:57"
-        },
-        {
-            "song_name": "Faster",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "Faster",
-            "played_at": "20/12/2024 - 00:58:26"
-        },
-        {
-            "song_name": "Rich And Blind",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Rich And Blind",
-            "played_at": "20/12/2024 - 00:56:16"
-        },
-        {
-            "song_name": "Big 14 (feat. Moneybagg Yo)",
-            "artists": [
-                "Trippie Redd",
-                "Offset",
-                "Moneybagg Yo"
-            ],
-            "album": "Big 14 (feat. Moneybagg Yo)",
-            "played_at": "20/12/2024 - 00:52:26"
-        },
-        {
-            "song_name": "Keep It Light",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "20/12/2024 - 00:48:18"
-        },
-        {
-            "song_name": "I Wonder",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "20/12/2024 - 00:44:55"
-        },
-        {
-            "song_name": "Caught in a Dream",
-            "artists": [
-                "PALASTIC",
-                "LissA"
-            ],
-            "album": "Caught in a Dream",
-            "played_at": "20/12/2024 - 00:40:51"
-        },
-        {
-            "song_name": "Water - Remix",
-            "artists": [
-                "Tyla",
-                "Travis Scott"
-            ],
-            "album": "Water (Remix)",
-            "played_at": "20/12/2024 - 00:38:04"
-        },
-        {
             "song_name": "Sunroof",
             "artists": [
                 "Nicky Youre",
@@ -1646,6 +1221,413 @@
             ],
             "album": "Smile",
             "played_at": "20/12/2024 - 09:03:42"
+        },
+        {
+            "song_name": "Pure Ambience",
+            "artists": [
+                "Jon Derison"
+            ],
+            "album": "Pure Ambience",
+            "played_at": "24/12/2024 - 13:30:46"
+        },
+        {
+            "song_name": "Evanescent",
+            "artists": [
+                "Amos Stovall"
+            ],
+            "album": "Evanescent",
+            "played_at": "24/12/2024 - 06:45:28"
+        },
+        {
+            "song_name": "Lotus",
+            "artists": [
+                "Sol Reya"
+            ],
+            "album": "Lotus",
+            "played_at": "24/12/2024 - 06:43:01"
+        },
+        {
+            "song_name": "Lively Bluebottle",
+            "artists": [
+                "Mari Cafferty"
+            ],
+            "album": "Silk Under Rain",
+            "played_at": "24/12/2024 - 06:40:53"
+        },
+        {
+            "song_name": "Buscando",
+            "artists": [
+                "Lidia Peralta"
+            ],
+            "album": "Buscando",
+            "played_at": "24/12/2024 - 06:37:53"
+        },
+        {
+            "song_name": "Into the Peace",
+            "artists": [
+                "Airship Express"
+            ],
+            "album": "Into the Peace",
+            "played_at": "24/12/2024 - 06:35:39"
+        },
+        {
+            "song_name": "Tranquil Oasis",
+            "artists": [
+                "Kazuhiro Hotaru"
+            ],
+            "album": "Tranquil Oasis",
+            "played_at": "24/12/2024 - 06:33:22"
+        },
+        {
+            "song_name": "Sleep Drone In C",
+            "artists": [
+                "Kamila Tait"
+            ],
+            "album": "Sleep Drone In C",
+            "played_at": "24/12/2024 - 06:30:46"
+        },
+        {
+            "song_name": "Ultraviolet",
+            "artists": [
+                "Nebuu"
+            ],
+            "album": "Ultraviolet",
+            "played_at": "24/12/2024 - 06:28:09"
+        },
+        {
+            "song_name": "Nocturnal Mind",
+            "artists": [
+                "Hans Jacob"
+            ],
+            "album": "Nocturnal Mind",
+            "played_at": "24/12/2024 - 06:26:00"
+        },
+        {
+            "song_name": "Opening Skies",
+            "artists": [
+                "Elysio Stone"
+            ],
+            "album": "Opening Skies",
+            "played_at": "24/12/2024 - 06:23:13"
+        },
+        {
+            "song_name": "Release Me",
+            "artists": [
+                "Vincent La Rossi"
+            ],
+            "album": "From Above",
+            "played_at": "24/12/2024 - 06:20:15"
+        },
+        {
+            "song_name": "Out Of This World",
+            "artists": [
+                "Freefall Forest"
+            ],
+            "album": "Out Of This World",
+            "played_at": "24/12/2024 - 06:17:38"
+        },
+        {
+            "song_name": "Never Say Ever",
+            "artists": [
+                "Seimar"
+            ],
+            "album": "Never Say Ever",
+            "played_at": "24/12/2024 - 06:14:43"
+        },
+        {
+            "song_name": "Memories From The Sky",
+            "artists": [
+                "Shamanic Life"
+            ],
+            "album": "Memories From The Sky",
+            "played_at": "24/12/2024 - 06:12:15"
+        },
+        {
+            "song_name": "Enceladus",
+            "artists": [
+                "Hirenth"
+            ],
+            "album": "Enceladus",
+            "played_at": "24/12/2024 - 06:08:55"
+        },
+        {
+            "song_name": "Fragile Voices",
+            "artists": [
+                "Meadow Rose"
+            ],
+            "album": "Fragile Voices",
+            "played_at": "24/12/2024 - 06:05:51"
+        },
+        {
+            "song_name": "Smile",
+            "artists": [
+                "Silence Concertos"
+            ],
+            "album": "Smile",
+            "played_at": "24/12/2024 - 06:02:33"
+        },
+        {
+            "song_name": "Peaceful Harmony",
+            "artists": [
+                "Jasmine Bordeaux"
+            ],
+            "album": "Peaceful Harmony",
+            "played_at": "24/12/2024 - 05:59:45"
+        },
+        {
+            "song_name": "To Let Go",
+            "artists": [
+                "Foora"
+            ],
+            "album": "To Let Go",
+            "played_at": "24/12/2024 - 05:57:43"
+        },
+        {
+            "song_name": "Southward Bound (432 Hz)",
+            "artists": [
+                "Halcyon Wings"
+            ],
+            "album": "Southward Bound",
+            "played_at": "24/12/2024 - 05:54:48"
+        },
+        {
+            "song_name": "Gentle",
+            "artists": [
+                "William Edessa"
+            ],
+            "album": "Gentle",
+            "played_at": "24/12/2024 - 05:52:27"
+        },
+        {
+            "song_name": "Rosetta",
+            "artists": [
+                "Pascal Dirac"
+            ],
+            "album": "Rosetta",
+            "played_at": "24/12/2024 - 05:49:46"
+        },
+        {
+            "song_name": "Sunroof",
+            "artists": [
+                "Nicky Youre",
+                "dazy"
+            ],
+            "album": "Good Times Go",
+            "played_at": "23/12/2024 - 12:31:30"
+        },
+        {
+            "song_name": "Like You Do",
+            "artists": [
+                "D.O.D",
+                "Raphaella"
+            ],
+            "album": "Like You Do",
+            "played_at": "23/12/2024 - 12:21:17"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "23/12/2024 - 12:14:21"
+        },
+        {
+            "song_name": "Numb",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Numb",
+            "played_at": "23/12/2024 - 12:06:35"
+        },
+        {
+            "song_name": "Himalayas",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Himalayas",
+            "played_at": "23/12/2024 - 12:02:59"
+        },
+        {
+            "song_name": "Himalayas",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Himalayas",
+            "played_at": "23/12/2024 - 11:03:19"
+        },
+        {
+            "song_name": "The Prophecy",
+            "artists": [
+                "Mondo Loops"
+            ],
+            "album": "Golden Age",
+            "played_at": "23/12/2024 - 10:52:53"
+        },
+        {
+            "song_name": "Suffocation - Slowed",
+            "artists": [
+                "noturgf"
+            ],
+            "album": "Suffocation (Slowed)",
+            "played_at": "23/12/2024 - 10:50:46"
+        },
+        {
+            "song_name": "Horizon",
+            "artists": [
+                "Lonely Night"
+            ],
+            "album": "Horizon",
+            "played_at": "23/12/2024 - 10:49:41"
+        },
+        {
+            "song_name": "Canals",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Chillhop Essentials Summer 2016",
+            "played_at": "23/12/2024 - 10:47:40"
+        },
+        {
+            "song_name": "you not the same",
+            "artists": [
+                "TileKid"
+            ],
+            "album": "you not the same",
+            "played_at": "23/12/2024 - 10:45:05"
+        },
+        {
+            "song_name": "Life",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Mirage",
+            "played_at": "23/12/2024 - 10:42:56"
+        },
+        {
+            "song_name": "School Rooftop (Bird Sounds)",
+            "artists": [
+                "Hisohkah",
+                "WMD"
+            ],
+            "album": "School Rooftop (Bird Sounds)",
+            "played_at": "23/12/2024 - 10:40:46"
+        },
+        {
+            "song_name": "Roi - Instrumental Slowed",
+            "artists": [
+                "Mckyyy"
+            ],
+            "album": "Roi",
+            "played_at": "23/12/2024 - 10:39:20"
+        },
+        {
+            "song_name": "Numb",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Numb",
+            "played_at": "23/12/2024 - 10:37:47"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "23/12/2024 - 10:35:33"
+        },
+        {
+            "song_name": "no enemies - lofi version",
+            "artists": [
+                "Medafiziks"
+            ],
+            "album": "i have no enemies",
+            "played_at": "23/12/2024 - 10:33:34"
+        },
+        {
+            "song_name": "i was only temporary (Slowed + Reverb)",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "i was only temporary (Remixes)",
+            "played_at": "23/12/2024 - 10:30:05"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "23/12/2024 - 10:28:22"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tiramisu",
+            "played_at": "23/12/2024 - 10:24:28"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "23/12/2024 - 10:22:13"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "23/12/2024 - 10:19:17"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "23/12/2024 - 10:15:24"
+        },
+        {
+            "song_name": "Ball W/O You - Instrumental",
+            "artists": [
+                "DJ Glacier"
+            ],
+            "album": "Ball W/O You (Instrumental)",
+            "played_at": "23/12/2024 - 10:12:13"
+        },
+        {
+            "song_name": "Solo - Sped Up + Instrumental",
+            "artists": [
+                "dopuu"
+            ],
+            "album": "Solo - Sped Up + Instrumental",
+            "played_at": "23/12/2024 - 10:08:58"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "23/12/2024 - 10:03:33"
+        },
+        {
+            "song_name": "Rosetta",
+            "artists": [
+                "Pascal Dirac"
+            ],
+            "album": "Rosetta",
+            "played_at": "20/12/2024 - 09:05:23"
         }
     ]
 }
