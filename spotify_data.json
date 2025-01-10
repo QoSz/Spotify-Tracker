@@ -1277,6 +1277,15 @@
                 "Aaron Pfeiffer"
             ],
             "album": "Feel So Close",
+            "played_at": "09/01/2025 - 13:58:08"
+        },
+        {
+            "song_name": "Feel So Close",
+            "artists": [
+                "Y.V.E. 48",
+                "Aaron Pfeiffer"
+            ],
+            "album": "Feel So Close",
             "played_at": "09/01/2025 - 13:38:21"
         },
         {
@@ -1684,14 +1693,6 @@
             ],
             "album": "Echo",
             "played_at": "09/01/2025 - 09:28:30"
-        },
-        {
-            "song_name": "Chihiro",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Chihiro",
-            "played_at": "09/01/2025 - 09:18:08"
         }
     ]
 }
