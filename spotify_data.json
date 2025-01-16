@@ -2,450 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "What You Got",
-            "artists": [
-                "Quail P"
-            ],
-            "album": "Who Is Quail?",
-            "played_at": "16/01/2025 - 09:25:55"
-        },
-        {
-            "song_name": "Live This Wild",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "16/01/2025 - 09:22:41"
-        },
-        {
-            "song_name": "That Way - Bonus Track",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "16/01/2025 - 09:20:37"
-        },
-        {
-            "song_name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Lil Tecca",
-                "The Kid LAROI",
-                "Lil Skies"
-            ],
-            "album": "All Is Yellow",
-            "played_at": "16/01/2025 - 09:17:05"
-        },
-        {
-            "song_name": "Shots",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "16/01/2025 - 09:14:12"
-        },
-        {
-            "song_name": "Big 14 (feat. Moneybagg Yo)",
-            "artists": [
-                "Trippie Redd",
-                "Offset",
-                "Moneybagg Yo"
-            ],
-            "album": "Big 14 (feat. Moneybagg Yo)",
-            "played_at": "16/01/2025 - 09:12:25"
-        },
-        {
-            "song_name": "Somebody",
-            "artists": [
-                "Internet Money",
-                "Lil Tecca",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "16/01/2025 - 09:08:17"
-        },
-        {
-            "song_name": "Mystery Lady",
-            "artists": [
-                "Masego",
-                "Don Toliver"
-            ],
-            "album": "Studying Abroad: Extended Stay",
-            "played_at": "16/01/2025 - 09:05:22"
-        },
-        {
-            "song_name": "Stuck In A Dream (feat. Gunna)",
-            "artists": [
-                "Lil Mosey",
-                "Gunna"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "16/01/2025 - 09:01:33"
-        },
-        {
-            "song_name": "XO Tour Llif3",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "16/01/2025 - 08:59:29"
-        },
-        {
-            "song_name": "500lbs",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC",
-            "played_at": "16/01/2025 - 08:56:06"
-        },
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Lil Baby",
-                "Gunna",
-                "Lil Uzi Vert"
-            ],
-            "album": "Harder Than Ever",
-            "played_at": "16/01/2025 - 08:53:41"
-        },
-        {
-            "song_name": "Blastoff (feat. Juice WRLD)",
-            "artists": [
-                "Internet Money",
-                "Trippie Redd",
-                "Diplo",
-                "Juice WRLD"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "16/01/2025 - 08:49:33"
-        },
-        {
-            "song_name": "2055",
-            "artists": [
-                "Sleepy Hallow"
-            ],
-            "album": "Still Sleep?",
-            "played_at": "16/01/2025 - 08:46:38"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "16/01/2025 - 08:44:33"
-        },
-        {
-            "song_name": "Bigger Than Life",
-            "artists": [
-                "Lil Uzi Vert",
-                "WanMor"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "16/01/2025 - 08:42:11"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "16/01/2025 - 08:38:58"
-        },
-        {
-            "song_name": "Not So Bad (Leans Gone Cold)",
-            "artists": [
-                "Rae Sremmurd"
-            ],
-            "album": "Sremm 4 Life",
-            "played_at": "16/01/2025 - 08:34:55"
-        },
-        {
-            "song_name": "Sprinter",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Sprinter",
-            "played_at": "16/01/2025 - 08:31:36"
-        },
-        {
-            "song_name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-            "artists": [
-                "Internet Money",
-                "Gunna",
-                "Don Toliver",
-                "Lil Uzi Vert"
-            ],
-            "album": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
-            "played_at": "16/01/2025 - 08:27:46"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "16/01/2025 - 08:24:02"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Anybody",
-            "played_at": "16/01/2025 - 08:22:04"
-        },
-        {
-            "song_name": "Myron",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake (Deluxe) - LUV vs. The World 2",
-            "played_at": "16/01/2025 - 08:16:47"
-        },
-        {
-            "song_name": "JETSKI",
-            "artists": [
-                "Internet Money",
-                "Lil Tecca",
-                "Lil Mosey"
-            ],
-            "album": "JETSKI",
-            "played_at": "16/01/2025 - 08:10:28"
-        },
-        {
-            "song_name": "2055",
-            "artists": [
-                "Sleepy Hallow"
-            ],
-            "album": "Still Sleep?",
-            "played_at": "16/01/2025 - 08:07:43"
-        },
-        {
-            "song_name": "Watch My Back",
-            "artists": [
-                "KAZEY J"
-            ],
-            "album": "Watch My Back",
-            "played_at": "16/01/2025 - 08:05:38"
-        },
-        {
-            "song_name": "Mask Off",
-            "artists": [
-                "Future"
-            ],
-            "album": "FUTURE",
-            "played_at": "16/01/2025 - 08:02:59"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "16/01/2025 - 07:59:34"
-        },
-        {
-            "song_name": "All Time Low",
-            "artists": [
-                "Jon Bellion"
-            ],
-            "album": "The Human Condition",
-            "played_at": "16/01/2025 - 07:56:36"
-        },
-        {
-            "song_name": "Crown",
-            "artists": [
-                "KP"
-            ],
-            "album": "Moments Turned Memories",
-            "played_at": "16/01/2025 - 07:52:25"
-        },
-        {
-            "song_name": "Another Late Night (feat. Lil Yachty)",
-            "artists": [
-                "Drake",
-                "Lil Yachty"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "16/01/2025 - 07:49:46"
-        },
-        {
-            "song_name": "The Mob",
-            "artists": [
-                "YNW BSlime",
-                "YNW Melly",
-                "Trippie Redd",
-                "YNW Bortlen"
-            ],
-            "album": "The Mob",
-            "played_at": "16/01/2025 - 07:45:06"
-        },
-        {
-            "song_name": "Maria",
-            "artists": [
-                "22 WVY"
-            ],
-            "album": "Enter The Void",
-            "played_at": "16/01/2025 - 07:41:08"
-        },
-        {
-            "song_name": "MIDDLE CHILD",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "MIDDLE CHILD",
-            "played_at": "16/01/2025 - 07:37:56"
-        },
-        {
-            "song_name": "Los Pollos Hermanos",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "16/01/2025 - 07:34:22"
-        },
-        {
-            "song_name": "Die Young (feat. 347aidan)",
-            "artists": [
-                "Sleepy Hallow",
-                "347aidan"
-            ],
-            "album": "Die Young (feat. 347aidan)",
-            "played_at": "16/01/2025 - 07:32:46"
-        },
-        {
-            "song_name": "Route 66 (feat. EST Gee)",
-            "artists": [
-                "Jack Harlow",
-                "EST Gee"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "16/01/2025 - 07:30:17"
-        },
-        {
-            "song_name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
-            "artists": [
-                "Pusha T",
-                "Lil Uzi Vert",
-                "Don Toliver"
-            ],
-            "album": "It's Almost Dry",
-            "played_at": "16/01/2025 - 07:27:42"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake",
-                "Future"
-            ],
-            "album": "I Am Not A Human Being II (Deluxe)",
-            "played_at": "16/01/2025 - 07:25:10"
-        },
-        {
-            "song_name": "Amen (feat. Teezo Touchdown)",
-            "artists": [
-                "Drake",
-                "Teezo Touchdown"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "16/01/2025 - 07:19:40"
-        },
-        {
-            "song_name": "The Door",
-            "artists": [
-                "Teddy Swims"
-            ],
-            "album": "I've Tried Everything But Therapy (Part 1)",
-            "played_at": "15/01/2025 - 17:49:24"
-        },
-        {
-            "song_name": "Don't You Worry Child - Radio Edit",
-            "artists": [
-                "Swedish House Mafia",
-                "John Martin"
-            ],
-            "album": "Don't You Worry Child",
-            "played_at": "15/01/2025 - 17:45:51"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Artificial Paradise (Deluxe)",
-            "played_at": "15/01/2025 - 17:42:18"
-        },
-        {
-            "song_name": "We Are The People",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Walking On A Dream (10th Anniversary Edition)",
-            "played_at": "15/01/2025 - 17:39:33"
-        },
-        {
-            "song_name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
-            "artists": [
-                "A$AP Rocky",
-                "Kendrick Lamar",
-                "Joey Bada$$",
-                "Yelawolf",
-                "Danny Brown",
-                "Action Bronson",
-                "Big K.R.I.T."
-            ],
-            "album": "LONG.LIVE.A$AP (Deluxe Version)",
-            "played_at": "15/01/2025 - 17:09:33"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "15/01/2025 - 15:52:52"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "15/01/2025 - 15:49:02"
-        },
-        {
-            "song_name": "Buck 50",
-            "artists": [
-                "DJ Scheme",
-                "Juice WRLD"
-            ],
-            "album": "FAMILY (Deluxe)",
-            "played_at": "15/01/2025 - 15:45:48"
-        },
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "15/01/2025 - 15:42:11"
-        },
-        {
-            "song_name": "MELTDOWN (feat. Drake)",
-            "artists": [
-                "Travis Scott",
-                "Drake"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/01/2025 - 15:37:55"
-        },
-        {
             "song_name": "500lbs",
             "artists": [
                 "Lil Tecca"
@@ -1747,6 +1303,423 @@
             ],
             "album": "- TRAGEDY +",
             "played_at": "16/01/2025 - 10:31:00"
+        },
+        {
+            "song_name": "Need U Tonite (with Genia)",
+            "artists": [
+                "Breez Kennedy",
+                "Genia"
+            ],
+            "album": "Need U Tonite",
+            "played_at": "16/01/2025 - 17:38:21"
+        },
+        {
+            "song_name": "Diamonds 'n' Pearls",
+            "artists": [
+                "OSA"
+            ],
+            "album": "N E B U L A (Extended)",
+            "played_at": "16/01/2025 - 17:35:53"
+        },
+        {
+            "song_name": "Nobody's Perfect",
+            "artists": [
+                "J. Cole",
+                "Missy Elliott"
+            ],
+            "album": "Cole World: The Sideline Story",
+            "played_at": "16/01/2025 - 17:32:40"
+        },
+        {
+            "song_name": "Solar Drive @ Night",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "DAYSTAR",
+            "played_at": "16/01/2025 - 17:29:29"
+        },
+        {
+            "song_name": "550's & Leon Dore",
+            "artists": [
+                "Karri"
+            ],
+            "album": "550's & Leon Dore",
+            "played_at": "16/01/2025 - 17:26:58"
+        },
+        {
+            "song_name": "Imperfections (Interlude)",
+            "artists": [
+                "Pop Smoke"
+            ],
+            "album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+            "played_at": "16/01/2025 - 17:24:52"
+        },
+        {
+            "song_name": "Intro (Landmine)",
+            "artists": [
+                "Odeal"
+            ],
+            "album": "Thoughts I Never Said",
+            "played_at": "16/01/2025 - 17:23:04"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "16/01/2025 - 17:21:56"
+        },
+        {
+            "song_name": "Midnight's Interlude",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "16/01/2025 - 17:19:43"
+        },
+        {
+            "song_name": "Deja Vu",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "4 Your Eyez Only",
+            "played_at": "16/01/2025 - 17:17:47"
+        },
+        {
+            "song_name": "Impromptu",
+            "artists": [
+                "Karri"
+            ],
+            "album": "Impromptu",
+            "played_at": "16/01/2025 - 17:13:22"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "16/01/2025 - 17:10:17"
+        },
+        {
+            "song_name": "Sin on Purpose",
+            "artists": [
+                "Isaiah Falls"
+            ],
+            "album": "Sin on Purpose",
+            "played_at": "16/01/2025 - 17:08:19"
+        },
+        {
+            "song_name": "Hennessy Memories",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "16/01/2025 - 17:05:55"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "16/01/2025 - 17:02:33"
+        },
+        {
+            "song_name": "Stealth Mode (feat. Bas)",
+            "artists": [
+                "J. Cole",
+                "Bas"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "16/01/2025 - 16:59:38"
+        },
+        {
+            "song_name": "Vybez",
+            "artists": [
+                "Mj Grizz",
+                "Tory Lanez"
+            ],
+            "album": "Vybez",
+            "played_at": "16/01/2025 - 16:57:23"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "16/01/2025 - 16:53:33"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "16/01/2025 - 16:50:57"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "16/01/2025 - 16:48:25"
+        },
+        {
+            "song_name": "Oakland Pt. 2",
+            "artists": [
+                "Karri"
+            ],
+            "album": "Oakland Pt. 2",
+            "played_at": "16/01/2025 - 16:45:10"
+        },
+        {
+            "song_name": "Love Yourz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "2014 Forest Hills Drive",
+            "played_at": "16/01/2025 - 16:42:34"
+        },
+        {
+            "song_name": "BUTTERFLIES",
+            "artists": [
+                "Isaiah Falls",
+                "Joyce Wrice"
+            ],
+            "album": "LUCKY ME",
+            "played_at": "16/01/2025 - 16:39:02"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "16/01/2025 - 16:36:19"
+        },
+        {
+            "song_name": "Smoke + Mirrors",
+            "artists": [
+                "Leo Waters"
+            ],
+            "album": "Smoke + Mirrors",
+            "played_at": "16/01/2025 - 16:32:34"
+        },
+        {
+            "song_name": "MUTT",
+            "artists": [
+                "Leon Thomas"
+            ],
+            "album": "MUTT",
+            "played_at": "16/01/2025 - 16:30:32"
+        },
+        {
+            "song_name": "Chill Bae",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake 2",
+            "played_at": "16/01/2025 - 16:27:19"
+        },
+        {
+            "song_name": "Are You Even Real (feat. Givēon)",
+            "artists": [
+                "Teddy Swims",
+                "Giveon"
+            ],
+            "album": "Are You Even Real (feat. Givēon)",
+            "played_at": "16/01/2025 - 16:25:01"
+        },
+        {
+            "song_name": "Hurt From Mercury",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "16/01/2025 - 16:22:33"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "16/01/2025 - 16:19:10"
+        },
+        {
+            "song_name": "Righteous",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Legends Never Die",
+            "played_at": "16/01/2025 - 15:32:33"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "16/01/2025 - 15:28:31"
+        },
+        {
+            "song_name": "January 28th",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "2014 Forest Hills Drive",
+            "played_at": "16/01/2025 - 15:25:21"
+        },
+        {
+            "song_name": "I Had Some Help (Feat. Morgan Wallen)",
+            "artists": [
+                "Post Malone",
+                "Morgan Wallen"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "16/01/2025 - 15:21:19"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "16/01/2025 - 15:18:20"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "16/01/2025 - 15:14:52"
+        },
+        {
+            "song_name": "Barking",
+            "artists": [
+                "Ramz"
+            ],
+            "album": "Blockbuster",
+            "played_at": "16/01/2025 - 15:11:08"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "16/01/2025 - 15:07:41"
+        },
+        {
+            "song_name": "I Like You (A Happier Song) (with Doja Cat)",
+            "artists": [
+                "Post Malone",
+                "Doja Cat"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "16/01/2025 - 15:04:11"
+        },
+        {
+            "song_name": "I KNOW ?",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "16/01/2025 - 15:00:57"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "16/01/2025 - 14:57:26"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "16/01/2025 - 14:54:14"
+        },
+        {
+            "song_name": "Rich And Blind",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Fighting Demons (Deluxe)",
+            "played_at": "16/01/2025 - 14:50:24"
+        },
+        {
+            "song_name": "Circles",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "16/01/2025 - 14:46:36"
+        },
+        {
+            "song_name": "BackOutsideBoyz",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "16/01/2025 - 14:43:01"
+        },
+        {
+            "song_name": "Starcrusin",
+            "artists": [
+                "Dubbygotbars",
+                "Charles Infamous"
+            ],
+            "album": "Starcrusin",
+            "played_at": "16/01/2025 - 14:40:28"
+        },
+        {
+            "song_name": "No Role Modelz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "2014 Forest Hills Drive",
+            "played_at": "16/01/2025 - 14:38:12"
+        },
+        {
+            "song_name": "Heavy (with Nigo)",
+            "artists": [
+                "Nigo",
+                "Lil Uzi Vert"
+            ],
+            "album": "I Know NIGO!",
+            "played_at": "16/01/2025 - 14:33:19"
+        },
+        {
+            "song_name": "Guy For That (Feat. Luke Combs)",
+            "artists": [
+                "Post Malone",
+                "Luke Combs"
+            ],
+            "album": "F-1 Trillion",
+            "played_at": "16/01/2025 - 14:30:00"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "16/01/2025 - 14:27:16"
         }
     ]
 }
