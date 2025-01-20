@@ -2,434 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Run This Town",
-            "artists": [
-                "JAY-Z",
-                "Rihanna",
-                "Kanye West"
-            ],
-            "album": "The Blueprint 3",
-            "played_at": "20/01/2025 - 06:56:06"
-        },
-        {
-            "song_name": "Water - Remix",
-            "artists": [
-                "Tyla",
-                "Travis Scott"
-            ],
-            "album": "Water (Remix)",
-            "played_at": "18/01/2025 - 20:42:29"
-        },
-        {
-            "song_name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
-            "artists": [
-                "Jack Harlow",
-                "jetsonmade"
-            ],
-            "album": "Sweet Action",
-            "played_at": "18/01/2025 - 20:39:56"
-        },
-        {
-            "song_name": "Martin & Gina",
-            "artists": [
-                "Polo G"
-            ],
-            "album": "THE GOAT",
-            "played_at": "18/01/2025 - 20:37:58"
-        },
-        {
-            "song_name": "Faucet Failure",
-            "artists": [
-                "Ski Mask The Slump God"
-            ],
-            "album": "STOKELEY",
-            "played_at": "18/01/2025 - 20:35:52"
-        },
-        {
-            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
-            "artists": [
-                "J. Cole",
-                "Bas",
-                "Central Cee"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "18/01/2025 - 20:33:34"
-        },
-        {
-            "song_name": "Feels Like Summer",
-            "artists": [
-                "Samuel Jack"
-            ],
-            "album": "Feels Like Summer",
-            "played_at": "18/01/2025 - 20:29:46"
-        },
-        {
-            "song_name": "Feelings Mutual",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "18/01/2025 - 20:26:46"
-        },
-        {
-            "song_name": "The Percocet & Stripper Joint",
-            "artists": [
-                "Future"
-            ],
-            "album": "DS2 (Deluxe)",
-            "played_at": "18/01/2025 - 20:22:59"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "18/01/2025 - 20:19:54"
-        },
-        {
-            "song_name": "The Night We Met",
-            "artists": [
-                "Lord Huron"
-            ],
-            "album": "The Night We Met",
-            "played_at": "18/01/2025 - 20:16:21"
-        },
-        {
-            "song_name": "ROS",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "18/01/2025 - 20:13:00"
-        },
-        {
-            "song_name": "MAFIA",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ESCAPE PLAN / MAFIA",
-            "played_at": "18/01/2025 - 20:07:24"
-        },
-        {
-            "song_name": "Keep It Light",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "18/01/2025 - 20:03:31"
-        },
-        {
-            "song_name": "Dolly (with Lil Uzi Vert)",
-            "artists": [
-                "Lil Tecca",
-                "Lil Uzi Vert"
-            ],
-            "album": "Virgo World",
-            "played_at": "18/01/2025 - 20:00:14"
-        },
-        {
-            "song_name": "Doomsday (with Juice WRLD & Cordae)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Juice WRLD",
-                "Cordae"
-            ],
-            "album": "Doomsday",
-            "played_at": "18/01/2025 - 19:57:21"
-        },
-        {
-            "song_name": "Hide (feat. Seezyn)",
-            "artists": [
-                "Juice WRLD",
-                "Seezyn"
-            ],
-            "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-            "played_at": "18/01/2025 - 19:54:57"
-        },
-        {
-            "song_name": "Lemonade - Remix",
-            "artists": [
-                "Internet Money",
-                "Don Toliver",
-                "Roddy Ricch"
-            ],
-            "album": "B4 The Storm",
-            "played_at": "18/01/2025 - 19:51:39"
-        },
-        {
-            "song_name": "Gas Me Up (Diligent)",
-            "artists": [
-                "Skepta"
-            ],
-            "album": "Gas Me Up (Diligent)",
-            "played_at": "18/01/2025 - 19:48:44"
-        },
-        {
-            "song_name": "On The Radar Freestyle",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "On The Radar Freestyle",
-            "played_at": "18/01/2025 - 19:46:00"
-        },
-        {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "18/01/2025 - 19:41:22"
-        },
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "18/01/2025 - 19:38:53"
-        },
-        {
-            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
-            "artists": [
-                "Trippie Redd",
-                "Lil Uzi Vert"
-            ],
-            "album": "Trip At Knight",
-            "played_at": "18/01/2025 - 19:35:39"
-        },
-        {
-            "song_name": "Bad Habit",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Gemini Rights",
-            "played_at": "18/01/2025 - 19:32:45"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "18/01/2025 - 19:28:59"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Anybody",
-            "played_at": "18/01/2025 - 19:26:13"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "18/01/2025 - 19:24:10"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "18/01/2025 - 19:20:49"
-        },
-        {
-            "song_name": "The Count (feat. Wiz Khalifa)",
-            "artists": [
-                "Curren$y",
-                "Harry Fraud",
-                "Wiz Khalifa"
-            ],
-            "album": "The Marina",
-            "played_at": "18/01/2025 - 19:18:14"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "18/01/2025 - 18:56:54"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "18/01/2025 - 11:11:03"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "18/01/2025 - 10:58:53"
-        },
-        {
-            "song_name": "The Count (feat. Wiz Khalifa)",
-            "artists": [
-                "Curren$y",
-                "Harry Fraud",
-                "Wiz Khalifa"
-            ],
-            "album": "The Marina",
-            "played_at": "18/01/2025 - 10:56:18"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "Sideways",
-            "played_at": "18/01/2025 - 10:24:16"
-        },
-        {
-            "song_name": "Used To You",
-            "artists": [
-                "Madism",
-                "Brendan Mills",
-                "Philip Strand"
-            ],
-            "album": "Used To You",
-            "played_at": "18/01/2025 - 10:02:13"
-        },
-        {
-            "song_name": "All Me",
-            "artists": [
-                "Drake",
-                "2 Chainz",
-                "Big Sean"
-            ],
-            "album": "Nothing Was The Same (Deluxe)",
-            "played_at": "18/01/2025 - 09:59:27"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "18/01/2025 - 09:55:02"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "18/01/2025 - 09:52:16"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "18/01/2025 - 09:49:59"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "18/01/2025 - 09:47:17"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "18/01/2025 - 09:45:03"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "18/01/2025 - 09:42:28"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "18/01/2025 - 09:39:38"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "18/01/2025 - 09:37:03"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "18/01/2025 - 09:33:33"
-        },
-        {
-            "song_name": "Superstar Sh*t",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "What Could Possibly Go Wrong",
-            "played_at": "18/01/2025 - 09:30:51"
-        },
-        {
-            "song_name": "Riot",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Riot",
-            "played_at": "18/01/2025 - 09:20:09"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "18/01/2025 - 09:15:56"
-        },
-        {
-            "song_name": "Loaded",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "18/01/2025 - 09:13:25"
-        },
-        {
-            "song_name": "Avian",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "18/01/2025 - 09:09:52"
-        },
-        {
             "song_name": "Bad Dreams",
             "artists": [
                 "Teddy Swims"
@@ -1297,6 +869,441 @@
             ],
             "album": "On The Radar Freestyle",
             "played_at": "18/01/2025 - 19:46:00"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "20/01/2025 - 09:04:32"
+        },
+        {
+            "song_name": "Been A Boss",
+            "artists": [
+                "The Massholez",
+                "Nipsey Hussle",
+                "Anno Domini Beats"
+            ],
+            "album": "Been A Boss",
+            "played_at": "20/01/2025 - 08:59:40"
+        },
+        {
+            "song_name": "winter moon",
+            "artists": [
+                ".clouds"
+            ],
+            "album": "winter moon",
+            "played_at": "20/01/2025 - 08:55:32"
+        },
+        {
+            "song_name": "Down 2 Ride - Latin Remix",
+            "artists": [
+                "Alonestar",
+                "Jethro Sheeran",
+                "Chris Brown",
+                "Saak",
+                "Bellsavvy"
+            ],
+            "album": "Down 2 Ride (Latin Remix)",
+            "played_at": "20/01/2025 - 08:53:38"
+        },
+        {
+            "song_name": "Berlin Sunrise",
+            "artists": [
+                "Relŭm"
+            ],
+            "album": "Berlin Sunrise",
+            "played_at": "20/01/2025 - 08:49:59"
+        },
+        {
+            "song_name": "Zaroori Tha",
+            "artists": [
+                "Nabeel Lakhani",
+                "MiDN8",
+                "Uevo",
+                "Malte Marten"
+            ],
+            "album": "Zaroori Tha",
+            "played_at": "20/01/2025 - 08:47:48"
+        },
+        {
+            "song_name": "Better Man",
+            "artists": [
+                "Nate VanDeusen",
+                "The Ready Set"
+            ],
+            "album": "Better Man",
+            "played_at": "20/01/2025 - 08:44:59"
+        },
+        {
+            "song_name": "its just easier to be alone",
+            "artists": [
+                "my head is empty"
+            ],
+            "album": "its just easier to be alone",
+            "played_at": "20/01/2025 - 08:42:25"
+        },
+        {
+            "song_name": "Shake It",
+            "artists": [
+                "Ajmw"
+            ],
+            "album": "Shake It",
+            "played_at": "20/01/2025 - 08:40:19"
+        },
+        {
+            "song_name": "What Could've Been Love",
+            "artists": [
+                "Eneko Artola",
+                "Namté"
+            ],
+            "album": "What Could've Been Love",
+            "played_at": "20/01/2025 - 08:38:27"
+        },
+        {
+            "song_name": "Unfazed",
+            "artists": [
+                "Kig$",
+                "Kxffy",
+                "King Kerby"
+            ],
+            "album": "Unfazed",
+            "played_at": "20/01/2025 - 08:35:52"
+        },
+        {
+            "song_name": "SCARY",
+            "artists": [
+                "XYSM"
+            ],
+            "album": "SCARY",
+            "played_at": "20/01/2025 - 08:19:20"
+        },
+        {
+            "song_name": "Funny Papers",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Balloonerism",
+            "played_at": "20/01/2025 - 08:14:11"
+        },
+        {
+            "song_name": "Feel It - From The Original Series “Invincible”",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Feel It (From The Original Series “Invincible”)",
+            "played_at": "20/01/2025 - 08:08:11"
+        },
+        {
+            "song_name": "Words (feat. Zara Larsson)",
+            "artists": [
+                "Alesso",
+                "Zara Larsson"
+            ],
+            "album": "Words (feat. Zara Larsson)",
+            "played_at": "20/01/2025 - 08:05:33"
+        },
+        {
+            "song_name": "Speedometer",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "20/01/2025 - 08:02:17"
+        },
+        {
+            "song_name": "Bad Dreams",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "Bad Dreams",
+            "played_at": "20/01/2025 - 07:59:34"
+        },
+        {
+            "song_name": "Don't You Worry Child - Radio Edit",
+            "artists": [
+                "Swedish House Mafia",
+                "John Martin"
+            ],
+            "album": "Don't You Worry Child",
+            "played_at": "20/01/2025 - 07:56:29"
+        },
+        {
+            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+            "artists": [
+                "Mike Posner",
+                "Seeb"
+            ],
+            "album": "At Night, Alone.",
+            "played_at": "20/01/2025 - 07:47:56"
+        },
+        {
+            "song_name": "We Are The People",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "20/01/2025 - 07:43:25"
+        },
+        {
+            "song_name": "Strangers",
+            "artists": [
+                "Kenya Grace"
+            ],
+            "album": "The After Taste",
+            "played_at": "20/01/2025 - 07:38:56"
+        },
+        {
+            "song_name": "Sugar Sweet",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Sugar Sweet",
+            "played_at": "20/01/2025 - 07:35:06"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "20/01/2025 - 07:32:16"
+        },
+        {
+            "song_name": "Sunroof",
+            "artists": [
+                "Nicky Youre",
+                "dazy"
+            ],
+            "album": "Good Times Go",
+            "played_at": "20/01/2025 - 07:29:18"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Stargazing",
+            "played_at": "20/01/2025 - 07:26:35"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "KYGO",
+            "played_at": "20/01/2025 - 07:23:42"
+        },
+        {
+            "song_name": "Low Life (feat. The Weeknd)",
+            "artists": [
+                "Future",
+                "The Weeknd"
+            ],
+            "album": "EVOL",
+            "played_at": "20/01/2025 - 07:15:10"
+        },
+        {
+            "song_name": "Love Yourz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "2014 Forest Hills Drive",
+            "played_at": "20/01/2025 - 07:10:03"
+        },
+        {
+            "song_name": "No Bad News (feat. Kanye West)",
+            "artists": [
+                "Cordae",
+                "Kanye West"
+            ],
+            "album": "The Crossroads",
+            "played_at": "20/01/2025 - 07:06:31"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "20/01/2025 - 07:03:58"
+        },
+        {
+            "song_name": "Young Forever",
+            "artists": [
+                "JAY-Z",
+                "Mr Hudson"
+            ],
+            "album": "The Blueprint 3",
+            "played_at": "20/01/2025 - 07:00:21"
+        },
+        {
+            "song_name": "Run This Town",
+            "artists": [
+                "JAY-Z",
+                "Rihanna",
+                "Kanye West"
+            ],
+            "album": "The Blueprint 3",
+            "played_at": "20/01/2025 - 06:56:06"
+        },
+        {
+            "song_name": "Water - Remix",
+            "artists": [
+                "Tyla",
+                "Travis Scott"
+            ],
+            "album": "Water (Remix)",
+            "played_at": "18/01/2025 - 20:42:29"
+        },
+        {
+            "song_name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
+            "artists": [
+                "Jack Harlow",
+                "jetsonmade"
+            ],
+            "album": "Sweet Action",
+            "played_at": "18/01/2025 - 20:39:56"
+        },
+        {
+            "song_name": "Martin & Gina",
+            "artists": [
+                "Polo G"
+            ],
+            "album": "THE GOAT",
+            "played_at": "18/01/2025 - 20:37:58"
+        },
+        {
+            "song_name": "Faucet Failure",
+            "artists": [
+                "Ski Mask The Slump God"
+            ],
+            "album": "STOKELEY",
+            "played_at": "18/01/2025 - 20:35:52"
+        },
+        {
+            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
+            "artists": [
+                "J. Cole",
+                "Bas",
+                "Central Cee"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "18/01/2025 - 20:33:34"
+        },
+        {
+            "song_name": "Feels Like Summer",
+            "artists": [
+                "Samuel Jack"
+            ],
+            "album": "Feels Like Summer",
+            "played_at": "18/01/2025 - 20:29:46"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "18/01/2025 - 20:26:46"
+        },
+        {
+            "song_name": "The Percocet & Stripper Joint",
+            "artists": [
+                "Future"
+            ],
+            "album": "DS2 (Deluxe)",
+            "played_at": "18/01/2025 - 20:22:59"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "18/01/2025 - 20:19:54"
+        },
+        {
+            "song_name": "The Night We Met",
+            "artists": [
+                "Lord Huron"
+            ],
+            "album": "The Night We Met",
+            "played_at": "18/01/2025 - 20:16:21"
+        },
+        {
+            "song_name": "ROS",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "18/01/2025 - 20:13:00"
+        },
+        {
+            "song_name": "MAFIA",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "18/01/2025 - 20:07:24"
+        },
+        {
+            "song_name": "Keep It Light",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "18/01/2025 - 20:03:31"
+        },
+        {
+            "song_name": "Dolly (with Lil Uzi Vert)",
+            "artists": [
+                "Lil Tecca",
+                "Lil Uzi Vert"
+            ],
+            "album": "Virgo World",
+            "played_at": "18/01/2025 - 20:00:14"
+        },
+        {
+            "song_name": "Doomsday (with Juice WRLD & Cordae)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Juice WRLD",
+                "Cordae"
+            ],
+            "album": "Doomsday",
+            "played_at": "18/01/2025 - 19:57:21"
+        },
+        {
+            "song_name": "Hide (feat. Seezyn)",
+            "artists": [
+                "Juice WRLD",
+                "Seezyn"
+            ],
+            "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "played_at": "18/01/2025 - 19:54:57"
+        },
+        {
+            "song_name": "Lemonade - Remix",
+            "artists": [
+                "Internet Money",
+                "Don Toliver",
+                "Roddy Ricch"
+            ],
+            "album": "B4 The Storm",
+            "played_at": "18/01/2025 - 19:51:39"
+        },
+        {
+            "song_name": "Gas Me Up (Diligent)",
+            "artists": [
+                "Skepta"
+            ],
+            "album": "Gas Me Up (Diligent)",
+            "played_at": "18/01/2025 - 19:48:44"
         },
         {
             "song_name": "Replay",
