@@ -1373,6 +1373,51 @@
             "played_at": "20/01/2025 - 12:00:06"
         },
         {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "21/01/2025 - 08:08:43"
+        },
+        {
+            "song_name": "Greet Her",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "21/01/2025 - 08:05:31"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "21/01/2025 - 08:02:36"
+        },
+        {
+            "song_name": "5% TINT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "21/01/2025 - 07:58:23"
+        },
+        {
+            "song_name": "Mwaki",
+            "artists": [
+                "Zerb",
+                "Sofiya Nzau"
+            ],
+            "album": "SURRENDER",
+            "played_at": "21/01/2025 - 07:55:06"
+        },
+        {
             "song_name": "My Love (2024)",
             "artists": [
                 "Alex Wann",
@@ -1787,47 +1832,6 @@
             ],
             "album": "Liberation",
             "played_at": "20/01/2025 - 12:11:45"
-        },
-        {
-            "song_name": "Bliss",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Bliss",
-            "played_at": "20/01/2025 - 12:09:59"
-        },
-        {
-            "song_name": "Chérie",
-            "artists": [
-                "C4C",
-                "kokoro"
-            ],
-            "album": "L'aventure EP",
-            "played_at": "20/01/2025 - 12:07:53"
-        },
-        {
-            "song_name": "Fever Dream",
-            "artists": [
-                "Ethan Rebel"
-            ],
-            "album": "Fever Dream",
-            "played_at": "20/01/2025 - 12:04:25"
-        },
-        {
-            "song_name": "Caribbean Waters",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Caribbean Waters",
-            "played_at": "20/01/2025 - 12:02:03"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "20/01/2025 - 12:00:06"
         }
     ]
 }
