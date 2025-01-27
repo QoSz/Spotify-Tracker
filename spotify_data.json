@@ -1343,6 +1343,24 @@
             "played_at": "25/01/2025 - 09:16:55"
         },
         {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "27/01/2025 - 08:51:41"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "27/01/2025 - 08:48:31"
+        },
+        {
             "song_name": "Lose You",
             "artists": [
                 "Lonely in the Rain",
@@ -1769,25 +1787,6 @@
             ],
             "album": "RED & WHITE",
             "played_at": "25/01/2025 - 10:45:45"
-        },
-        {
-            "song_name": "Gangsta",
-            "artists": [
-                "Free Nationals",
-                "A$AP Rocky",
-                "Anderson .Paak"
-            ],
-            "album": "Gangsta",
-            "played_at": "25/01/2025 - 09:20:10"
-        },
-        {
-            "song_name": "Wandered To LA (with Justin Bieber)",
-            "artists": [
-                "Juice WRLD",
-                "Justin Bieber"
-            ],
-            "album": "Fighting Demons (Deluxe)",
-            "played_at": "25/01/2025 - 09:16:55"
         }
     ]
 }
