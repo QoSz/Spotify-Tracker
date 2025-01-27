@@ -2,6 +2,70 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Lose You",
+            "artists": [
+                "Lonely in the Rain",
+                "Nick Wilson"
+            ],
+            "album": "Lose You",
+            "played_at": "26/01/2025 - 18:45:56"
+        },
+        {
+            "song_name": "Trust",
+            "artists": [
+                "Lonely Night",
+                "Lost Dreamers"
+            ],
+            "album": "Trust",
+            "played_at": "26/01/2025 - 18:06:50"
+        },
+        {
+            "song_name": "Night In Detroit (feat. Fedde Le Grand)",
+            "artists": [
+                "MORTEN",
+                "David Guetta",
+                "Fedde Le Grand"
+            ],
+            "album": "Night In Detroit (feat. Fedde Le Grand)",
+            "played_at": "26/01/2025 - 18:04:42"
+        },
+        {
+            "song_name": "Tokyo Seaside",
+            "artists": [
+                "Vindu",
+                "Slumberville"
+            ],
+            "album": "Tokyo Seaside",
+            "played_at": "26/01/2025 - 18:01:54"
+        },
+        {
+            "song_name": "Pop It Off",
+            "artists": [
+                "Tyga",
+                "Lil Wayne"
+            ],
+            "album": "Pop It Off",
+            "played_at": "26/01/2025 - 17:59:13"
+        },
+        {
+            "song_name": "CRG (feat. Dave)",
+            "artists": [
+                "Central Cee",
+                "Dave"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "26/01/2025 - 17:56:03"
+        },
+        {
+            "song_name": "Mountain Creek",
+            "artists": [
+                "Deep Chills",
+                "summer sax"
+            ],
+            "album": "Mountain Creek",
+            "played_at": "26/01/2025 - 16:51:58"
+        },
+        {
             "song_name": "Pretty Lucid Dream",
             "artists": [
                 "NSH"
@@ -383,69 +447,6 @@
             ],
             "album": "Fighting Demons (Deluxe)",
             "played_at": "25/01/2025 - 09:16:55"
-        },
-        {
-            "song_name": "Same Old Story",
-            "artists": [
-                "Skepta"
-            ],
-            "album": "Ignorance is Bliss",
-            "played_at": "25/01/2025 - 09:13:47"
-        },
-        {
-            "song_name": "Excuse Me",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "25/01/2025 - 09:10:26"
-        },
-        {
-            "song_name": "Power Trip (feat. Miguel)",
-            "artists": [
-                "J. Cole",
-                "Miguel"
-            ],
-            "album": "Born Sinner (Deluxe Version)",
-            "played_at": "25/01/2025 - 09:06:28"
-        },
-        {
-            "song_name": "Reflections",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Hard To Imagine The Neighbourhood Ever Changing",
-            "played_at": "25/01/2025 - 09:02:26"
-        },
-        {
-            "song_name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
-            "artists": [
-                "Jack Harlow",
-                "Tory Lanez",
-                "DaBaby",
-                "Lil Wayne"
-            ],
-            "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-            "played_at": "25/01/2025 - 08:58:22"
-        },
-        {
-            "song_name": "Lemon Pepper Freestyle (feat. Rick Ross)",
-            "artists": [
-                "Drake",
-                "Rick Ross"
-            ],
-            "album": "Scary Hours 2",
-            "played_at": "25/01/2025 - 08:54:35"
-        },
-        {
-            "song_name": "I Remember (feat. Roddy Ricch & Kodak Black)",
-            "artists": [
-                "Internet Money",
-                "Roddy Ricch",
-                "Kodak Black"
-            ],
-            "album": "I Remember (feat. Roddy Ricch & Kodak Black)",
-            "played_at": "25/01/2025 - 08:48:12"
         },
         {
             "song_name": "Lose You",
