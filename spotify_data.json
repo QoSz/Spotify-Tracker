@@ -2,449 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Dare U",
-            "artists": [
-                "NLE Choppa",
-                "Imagine Dragons"
-            ],
-            "album": "Dare U",
-            "played_at": "28/01/2025 - 09:56:50"
-        },
-        {
-            "song_name": "Too Easy",
-            "artists": [
-                "Connor Price",
-                "Nic D"
-            ],
-            "album": "Too Easy",
-            "played_at": "28/01/2025 - 09:54:28"
-        },
-        {
-            "song_name": "Summer Feeling",
-            "artists": [
-                "Steve Kroeger",
-                "Skye Holland",
-                "Tep No"
-            ],
-            "album": "Summer Feeling",
-            "played_at": "28/01/2025 - 09:52:14"
-        },
-        {
-            "song_name": "Blame U (No Drums)",
-            "artists": [
-                "Odeal"
-            ],
-            "album": "Lustropolis: Melody Avenue",
-            "played_at": "28/01/2025 - 09:49:01"
-        },
-        {
-            "song_name": "Night In Detroit (feat. Fedde Le Grand)",
-            "artists": [
-                "MORTEN",
-                "David Guetta",
-                "Fedde Le Grand"
-            ],
-            "album": "Night In Detroit (feat. Fedde Le Grand)",
-            "played_at": "28/01/2025 - 09:46:13"
-        },
-        {
-            "song_name": "Pop It Off",
-            "artists": [
-                "Tyga",
-                "Lil Wayne"
-            ],
-            "album": "Pop It Off",
-            "played_at": "28/01/2025 - 09:43:27"
-        },
-        {
-            "song_name": "Tokyo Seaside",
-            "artists": [
-                "Vindu",
-                "Slumberville"
-            ],
-            "album": "Tokyo Seaside",
-            "played_at": "28/01/2025 - 09:40:17"
-        },
-        {
-            "song_name": "One More Night",
-            "artists": [
-                "Coffee Cub"
-            ],
-            "album": "One More Night",
-            "played_at": "28/01/2025 - 09:37:35"
-        },
-        {
-            "song_name": "Baddie",
-            "artists": [
-                "Tom Enzy",
-                "Lucas Estrada",
-                "Tanaka"
-            ],
-            "album": "Baddie",
-            "played_at": "28/01/2025 - 09:35:27"
-        },
-        {
-            "song_name": "I Like Me Better",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "I Like Me Better",
-            "played_at": "28/01/2025 - 09:32:56"
-        },
-        {
-            "song_name": "A Tear in Space (Airlock) - Jakwob Remix",
-            "artists": [
-                "Glass Animals",
-                "Jakwob"
-            ],
-            "album": "A Tear in Space (Airlock) [Jakwob Remix]",
-            "played_at": "28/01/2025 - 09:29:50"
-        },
-        {
-            "song_name": "Truth In The Lies (feat. Lil Durk)",
-            "artists": [
-                "Central Cee",
-                "Lil Durk"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "28/01/2025 - 09:25:58"
-        },
-        {
-            "song_name": "Maniac",
-            "artists": [
-                "Control Alt Delete",
-                "Don Diablo"
-            ],
-            "album": "Maniac",
-            "played_at": "28/01/2025 - 09:23:35"
-        },
-        {
-            "song_name": "Miss a Thing",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Miss a Thing",
-            "played_at": "28/01/2025 - 09:20:09"
-        },
-        {
-            "song_name": "COLOGNE - nowifi remix",
-            "artists": [
-                "Emmit Fenn",
-                "nowifi"
-            ],
-            "album": "COLOGNE (nowifi remix)",
-            "played_at": "28/01/2025 - 09:18:12"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "28/01/2025 - 09:15:35"
-        },
-        {
-            "song_name": "Limitless",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 19:16:00"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:14:10"
-        },
-        {
-            "song_name": "Up North",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:11:08"
-        },
-        {
-            "song_name": "Top Freestyle",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:08:24"
-        },
-        {
-            "song_name": "GBP (feat. 21 Savage)",
-            "artists": [
-                "Central Cee",
-                "21 Savage"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:05:19"
-        },
-        {
-            "song_name": "St. Patrick's",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:02:45"
-        },
-        {
-            "song_name": "Gata (feat. Young Miko)",
-            "artists": [
-                "Central Cee",
-                "Young Miko"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 18:00:04"
-        },
-        {
-            "song_name": "5 Star",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 17:56:39"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 17:53:59"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/01/2025 - 17:51:29"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "27/01/2025 - 08:51:41"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Future"
-            ],
-            "album": "HNDRXX",
-            "played_at": "27/01/2025 - 08:48:31"
-        },
-        {
-            "song_name": "Lose You",
-            "artists": [
-                "Lonely in the Rain",
-                "Nick Wilson"
-            ],
-            "album": "Lose You",
-            "played_at": "26/01/2025 - 18:45:56"
-        },
-        {
-            "song_name": "Trust",
-            "artists": [
-                "Lonely Night",
-                "Lost Dreamers"
-            ],
-            "album": "Trust",
-            "played_at": "26/01/2025 - 18:06:50"
-        },
-        {
-            "song_name": "Night In Detroit (feat. Fedde Le Grand)",
-            "artists": [
-                "MORTEN",
-                "David Guetta",
-                "Fedde Le Grand"
-            ],
-            "album": "Night In Detroit (feat. Fedde Le Grand)",
-            "played_at": "26/01/2025 - 18:04:42"
-        },
-        {
-            "song_name": "Tokyo Seaside",
-            "artists": [
-                "Vindu",
-                "Slumberville"
-            ],
-            "album": "Tokyo Seaside",
-            "played_at": "26/01/2025 - 18:01:54"
-        },
-        {
-            "song_name": "Pop It Off",
-            "artists": [
-                "Tyga",
-                "Lil Wayne"
-            ],
-            "album": "Pop It Off",
-            "played_at": "26/01/2025 - 17:59:13"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "26/01/2025 - 17:56:03"
-        },
-        {
-            "song_name": "Mountain Creek",
-            "artists": [
-                "Deep Chills",
-                "summer sax"
-            ],
-            "album": "Mountain Creek",
-            "played_at": "26/01/2025 - 16:51:58"
-        },
-        {
-            "song_name": "Pretty Lucid Dream",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Pretty Lucid Dream",
-            "played_at": "26/01/2025 - 15:45:45"
-        },
-        {
-            "song_name": "Too Easy",
-            "artists": [
-                "Connor Price",
-                "Nic D"
-            ],
-            "album": "Too Easy",
-            "played_at": "26/01/2025 - 15:42:14"
-        },
-        {
-            "song_name": "Trust",
-            "artists": [
-                "Lonely Night",
-                "Lost Dreamers"
-            ],
-            "album": "Trust",
-            "played_at": "26/01/2025 - 15:40:00"
-        },
-        {
-            "song_name": "SXY",
-            "artists": [
-                "HUGEL",
-                "Vidojean X Oliver Loenn",
-                "Mr Alameyo"
-            ],
-            "album": "SXY",
-            "played_at": "26/01/2025 - 15:37:52"
-        },
-        {
-            "song_name": "I Like Me Better",
-            "artists": [
-                "TWOPILOTS"
-            ],
-            "album": "I Like Me Better",
-            "played_at": "26/01/2025 - 15:35:42"
-        },
-        {
-            "song_name": "Night In Detroit (feat. Fedde Le Grand)",
-            "artists": [
-                "MORTEN",
-                "David Guetta",
-                "Fedde Le Grand"
-            ],
-            "album": "Night In Detroit (feat. Fedde Le Grand)",
-            "played_at": "26/01/2025 - 15:32:36"
-        },
-        {
-            "song_name": "Truth In The Lies (feat. Lil Durk)",
-            "artists": [
-                "Central Cee",
-                "Lil Durk"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "26/01/2025 - 15:29:50"
-        },
-        {
-            "song_name": "Bad Choices",
-            "artists": [
-                "Larry June",
-                "2 Chainz",
-                "The Alchemist"
-            ],
-            "album": "Bad Choices",
-            "played_at": "26/01/2025 - 15:27:27"
-        },
-        {
-            "song_name": "Lose You",
-            "artists": [
-                "Lonely in the Rain",
-                "Nick Wilson"
-            ],
-            "album": "Lose You",
-            "played_at": "26/01/2025 - 15:24:23"
-        },
-        {
-            "song_name": "Guilty",
-            "artists": [
-                "Teddy Swims"
-            ],
-            "album": "I've Tried Everything But Therapy (Part 2)",
-            "played_at": "26/01/2025 - 15:21:45"
-        },
-        {
-            "song_name": "Tokyo Seaside",
-            "artists": [
-                "Vindu",
-                "Slumberville"
-            ],
-            "album": "Tokyo Seaside",
-            "played_at": "26/01/2025 - 15:18:49"
-        },
-        {
-            "song_name": "Heal Me",
-            "artists": [
-                "Mannymore",
-                "MVNA",
-                "Chris Crone"
-            ],
-            "album": "Heal Me",
-            "played_at": "26/01/2025 - 15:16:08"
-        },
-        {
-            "song_name": "What We Doing",
-            "artists": [
-                "Lil Unky",
-                "Quavo"
-            ],
-            "album": "What We Doing",
-            "played_at": "26/01/2025 - 15:13:10"
-        },
-        {
-            "song_name": "Pop It Off",
-            "artists": [
-                "Tyga",
-                "Lil Wayne"
-            ],
-            "album": "Pop It Off",
-            "played_at": "26/01/2025 - 15:10:44"
-        },
-        {
-            "song_name": "One More Night",
-            "artists": [
-                "Coffee Cub"
-            ],
-            "album": "One More Night",
-            "played_at": "26/01/2025 - 15:07:35"
-        },
-        {
             "song_name": "Bad Choices",
             "artists": [
                 "Larry June",
@@ -1775,6 +1332,447 @@
             ],
             "album": "CAN'T RUSH GREATNESS",
             "played_at": "27/01/2025 - 19:16:00"
+        },
+        {
+            "song_name": "Sugar Sweet",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Sugar Sweet",
+            "played_at": "31/01/2025 - 18:02:45"
+        },
+        {
+            "song_name": "A Tear in Space (Airlock) - Jakwob Remix",
+            "artists": [
+                "Glass Animals",
+                "Jakwob"
+            ],
+            "album": "A Tear in Space (Airlock) [Jakwob Remix]",
+            "played_at": "31/01/2025 - 17:00:42"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "31/01/2025 - 16:56:50"
+        },
+        {
+            "song_name": "The Door - CYRIL Remix",
+            "artists": [
+                "Teddy Swims",
+                "CYRIL"
+            ],
+            "album": "The Door (CYRIL Remix)",
+            "played_at": "31/01/2025 - 16:53:39"
+        },
+        {
+            "song_name": "Catching Eyes",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Catching Eyes",
+            "played_at": "31/01/2025 - 16:50:09"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "31/01/2025 - 16:45:59"
+        },
+        {
+            "song_name": "Feel It - From The Original Series “Invincible”",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Feel It (From The Original Series “Invincible”)",
+            "played_at": "31/01/2025 - 16:43:33"
+        },
+        {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "31/01/2025 - 16:40:55"
+        },
+        {
+            "song_name": "Never Walk Alone",
+            "artists": [
+                "BLOND:ISH",
+                "Stevie Appleton"
+            ],
+            "album": "Never Walk Alone",
+            "played_at": "31/01/2025 - 16:38:17"
+        },
+        {
+            "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+            "artists": [
+                "Mike Posner",
+                "Seeb"
+            ],
+            "album": "At Night, Alone.",
+            "played_at": "31/01/2025 - 16:35:09"
+        },
+        {
+            "song_name": "Fine Apple",
+            "artists": [
+                "Nic D"
+            ],
+            "album": "Fine Apple",
+            "played_at": "31/01/2025 - 16:31:51"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "31/01/2025 - 16:29:18"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "31/01/2025 - 16:26:35"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "31/01/2025 - 12:01:21"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Home",
+            "played_at": "31/01/2025 - 10:59:29"
+        },
+        {
+            "song_name": "Catching Eyes",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Catching Eyes",
+            "played_at": "31/01/2025 - 10:56:52"
+        },
+        {
+            "song_name": "Be Easy",
+            "artists": [
+                "Odeal",
+                "brazy"
+            ],
+            "album": "Be Easy",
+            "played_at": "31/01/2025 - 10:52:42"
+        },
+        {
+            "song_name": "Lady Love",
+            "artists": [
+                "Oden & Fatzo",
+                "Camden Cox"
+            ],
+            "album": "Lady Love",
+            "played_at": "31/01/2025 - 10:50:30"
+        },
+        {
+            "song_name": "Love That We Need",
+            "artists": [
+                "Silience",
+                "Loyal"
+            ],
+            "album": "Love That We Need",
+            "played_at": "31/01/2025 - 10:47:36"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "Human (Deluxe)",
+            "played_at": "31/01/2025 - 10:44:38"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "31/01/2025 - 10:41:50"
+        },
+        {
+            "song_name": "Fine Apple",
+            "artists": [
+                "Nic D"
+            ],
+            "album": "Fine Apple",
+            "played_at": "31/01/2025 - 10:38:34"
+        },
+        {
+            "song_name": "Beef",
+            "artists": [
+                "Ethereal",
+                "Playboi Carti"
+            ],
+            "album": "Beef",
+            "played_at": "31/01/2025 - 10:35:27"
+        },
+        {
+            "song_name": "Kernkraft 400 (A Better Day)",
+            "artists": [
+                "Topic",
+                "A7S"
+            ],
+            "album": "Kernkraft 400 (A Better Day)",
+            "played_at": "31/01/2025 - 10:19:12"
+        },
+        {
+            "song_name": "Prayer in C - Robin Schulz Radio Edit",
+            "artists": [
+                "Lilly Wood and The Prick",
+                "Robin Schulz"
+            ],
+            "album": "Prayer in C",
+            "played_at": "31/01/2025 - 10:16:26"
+        },
+        {
+            "song_name": "Beckham",
+            "artists": [
+                "Dee Billz",
+                "Kyle Richh",
+                "Kai Swervo",
+                "KJ Swervo",
+                "41"
+            ],
+            "album": "Beckham",
+            "played_at": "31/01/2025 - 10:13:16"
+        },
+        {
+            "song_name": "Champs Élysées (feat. Gunna)",
+            "artists": [
+                "Toosii",
+                "Gunna"
+            ],
+            "album": "JADED",
+            "played_at": "31/01/2025 - 10:11:10"
+        },
+        {
+            "song_name": "Glow In The Dark",
+            "artists": [
+                "Skepta",
+                "Lay-Z",
+                "Wizkid"
+            ],
+            "album": "Ignorance is Bliss",
+            "played_at": "31/01/2025 - 10:08:34"
+        },
+        {
+            "song_name": "Because You Move Me",
+            "artists": [
+                "Tinlicker",
+                "Helsloot"
+            ],
+            "album": "Because You Move Me",
+            "played_at": "31/01/2025 - 10:05:38"
+        },
+        {
+            "song_name": "ONCE UPON A TIME (FREESTYLE)",
+            "artists": [
+                "IDK",
+                "Denzel Curry"
+            ],
+            "album": "IDK & FRIENDS :)",
+            "played_at": "31/01/2025 - 10:02:21"
+        },
+        {
+            "song_name": "Brilliant Mind II",
+            "artists": [
+                "Blanco",
+                "Nemzzz"
+            ],
+            "album": "Brilliant Mind II",
+            "played_at": "31/01/2025 - 09:59:50"
+        },
+        {
+            "song_name": "HDMI",
+            "artists": [
+                "BONES"
+            ],
+            "album": "Rotten",
+            "played_at": "31/01/2025 - 09:55:15"
+        },
+        {
+            "song_name": "Tailor Swif",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Tailor Swif",
+            "played_at": "31/01/2025 - 09:52:55"
+        },
+        {
+            "song_name": "where's the confetti?",
+            "artists": [
+                "jev."
+            ],
+            "album": "the color grey.",
+            "played_at": "31/01/2025 - 09:50:02"
+        },
+        {
+            "song_name": "Moments - Ben Böhmer & Nils Hoffmann Remix",
+            "artists": [
+                "Kidnap",
+                "Leo Stannard",
+                "Ben Böhmer",
+                "Nils Hoffmann"
+            ],
+            "album": "Grow (The Remixes)",
+            "played_at": "31/01/2025 - 09:45:22"
+        },
+        {
+            "song_name": "Violent Crimes x jerseyclub",
+            "artists": [
+                "prodbycpkshawn"
+            ],
+            "album": "Violent Crimes x jerseyclub",
+            "played_at": "31/01/2025 - 09:40:06"
+        },
+        {
+            "song_name": "Karibu",
+            "artists": [
+                "WITH U"
+            ],
+            "album": "Karibu",
+            "played_at": "31/01/2025 - 09:38:08"
+        },
+        {
+            "song_name": "Jumbotron Shit Poppin",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "31/01/2025 - 09:31:52"
+        },
+        {
+            "song_name": "STAY (with Justin Bieber)",
+            "artists": [
+                "The Kid LAROI",
+                "Justin Bieber"
+            ],
+            "album": "F*CK LOVE 3+: OVER YOU",
+            "played_at": "30/01/2025 - 19:46:51"
+        },
+        {
+            "song_name": "Is This Love - Remix",
+            "artists": [
+                "Bob Marley & The Wailers",
+                "LVNDSCAPE",
+                "Bolier"
+            ],
+            "album": "Is This Love (Remix)",
+            "played_at": "30/01/2025 - 18:45:24"
+        },
+        {
+            "song_name": "Walking On A Dream",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "30/01/2025 - 18:42:04"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "30/01/2025 - 18:38:46"
+        },
+        {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artists": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "30/01/2025 - 18:36:01"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "30/01/2025 - 18:33:24"
+        },
+        {
+            "song_name": "Lady Love",
+            "artists": [
+                "Oden & Fatzo",
+                "Camden Cox"
+            ],
+            "album": "Lady Love",
+            "played_at": "30/01/2025 - 18:31:06"
+        },
+        {
+            "song_name": "Praying To A God - LUKE Remix",
+            "artists": [
+                "Mr. Probz",
+                "LUKE"
+            ],
+            "album": "Praying To A God (Remixes)",
+            "played_at": "30/01/2025 - 18:28:11"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "KYGO",
+            "played_at": "30/01/2025 - 18:24:56"
+        },
+        {
+            "song_name": "For Life (feat. Nile Rodgers)",
+            "artists": [
+                "Kygo",
+                "Zak Abel",
+                "Nile Rodgers"
+            ],
+            "album": "KYGO",
+            "played_at": "30/01/2025 - 18:21:58"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "30/01/2025 - 18:19:02"
+        },
+        {
+            "song_name": "Like You Do",
+            "artists": [
+                "D.O.D",
+                "Raphaella"
+            ],
+            "album": "Like You Do",
+            "played_at": "30/01/2025 - 18:15:41"
         }
     ]
 }
