@@ -2,6 +2,76 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Chasing Paradise",
+            "artists": [
+                "Kygo",
+                "OneRepublic"
+            ],
+            "album": "Chasing Paradise",
+            "played_at": "03/02/2025 - 08:58:30"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "03/02/2025 - 08:55:29"
+        },
+        {
+            "song_name": "Keeps Me High",
+            "artists": [
+                "Jane Good"
+            ],
+            "album": "Keeps Me High",
+            "played_at": "03/02/2025 - 08:52:45"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "03/02/2025 - 08:50:42"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "03/02/2025 - 08:47:48"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "03/02/2025 - 08:37:18"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "03/02/2025 - 08:33:45"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "03/02/2025 - 08:29:27"
+        },
+        {
             "song_name": "back to the moon",
             "artists": [
                 "Gunna"
@@ -346,71 +416,6 @@
             ],
             "album": "Can't Go Wrong",
             "played_at": "01/02/2025 - 15:48:33"
-        },
-        {
-            "song_name": "Touch Tight",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Touch Tight",
-            "played_at": "01/02/2025 - 15:46:27"
-        },
-        {
-            "song_name": "Leon the Professional",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "01/02/2025 - 15:44:55"
-        },
-        {
-            "song_name": "Circadian Rhythm",
-            "artists": [
-                "Drake"
-            ],
-            "album": "100 GIGS",
-            "played_at": "01/02/2025 - 15:41:35"
-        },
-        {
-            "song_name": "on one tonight",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "01/02/2025 - 15:39:29"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "01/02/2025 - 15:37:58"
-        },
-        {
-            "song_name": "Don't Know Anymore",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "01/02/2025 - 15:34:56"
-        },
-        {
-            "song_name": "Must Be",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "01/02/2025 - 15:31:08"
-        },
-        {
-            "song_name": "Walk In Wardrobe",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "01/02/2025 - 15:28:22"
         },
         {
             "song_name": "Chasing Paradise",
