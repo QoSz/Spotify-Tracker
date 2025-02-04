@@ -453,6 +453,15 @@
             "played_at": "03/02/2025 - 20:12:22"
         },
         {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "04/02/2025 - 10:00:38"
+        },
+        {
             "song_name": "Out of Body",
             "artists": [
                 "Ruffnux",
@@ -894,14 +903,6 @@
             ],
             "album": "Living In A Haze",
             "played_at": "03/02/2025 - 20:16:03"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "03/02/2025 - 20:12:22"
         },
         {
             "song_name": "Inside Out",
