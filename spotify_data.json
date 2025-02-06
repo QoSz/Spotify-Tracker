@@ -1285,6 +1285,14 @@
                 "J. Cole"
             ],
             "album": "Might Delete Later",
+            "played_at": "06/02/2025 - 07:58:27"
+        },
+        {
+            "song_name": "Huntin’ Wabbitz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
             "played_at": "05/02/2025 - 14:41:55"
         },
         {
@@ -1696,14 +1704,6 @@
             ],
             "album": "Might Delete Later",
             "played_at": "04/02/2025 - 21:08:25"
-        },
-        {
-            "song_name": "goosebumps",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "Birds In The Trap Sing McKnight",
-            "played_at": "04/02/2025 - 21:05:43"
         }
     ]
 }
