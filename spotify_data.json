@@ -2,6 +2,105 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Lioness - Francis Mercier Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove",
+                "Francis Mercier"
+            ],
+            "album": "Lioness (Francis Mercier Remix)",
+            "played_at": "07/02/2025 - 23:28:53"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "07/02/2025 - 22:29:05"
+        },
+        {
+            "song_name": "Premier Gaou - Nitefreak Remix",
+            "artists": [
+                "Francis Mercier",
+                "Magic System",
+                "Nitefreak"
+            ],
+            "album": "Premier Gaou (Nitefreak Remix)",
+            "played_at": "07/02/2025 - 22:27:01"
+        },
+        {
+            "song_name": "Words (feat. Zara Larsson)",
+            "artists": [
+                "Alesso",
+                "Zara Larsson"
+            ],
+            "album": "Words (feat. Zara Larsson)",
+            "played_at": "07/02/2025 - 22:23:18"
+        },
+        {
+            "song_name": "ten",
+            "artists": [
+                "Fred again..",
+                "Jozzy",
+                "Jim Legxacy"
+            ],
+            "album": "ten days",
+            "played_at": "07/02/2025 - 22:20:55"
+        },
+        {
+            "song_name": "Don't You Worry Child - Radio Edit",
+            "artists": [
+                "Swedish House Mafia",
+                "John Martin"
+            ],
+            "album": "Don't You Worry Child",
+            "played_at": "07/02/2025 - 22:17:54"
+        },
+        {
+            "song_name": "Halele - Alex Wann Remix",
+            "artists": [
+                "&friends",
+                "Samuel Cosmic",
+                "Oluwadamvic",
+                "Alex Wann"
+            ],
+            "album": "Ominira Remix EP",
+            "played_at": "07/02/2025 - 22:14:21"
+        },
+        {
+            "song_name": "Summertime With You",
+            "artists": [
+                "Viva La Panda",
+                "Honey",
+                "JAYNIE"
+            ],
+            "album": "Summertime With You",
+            "played_at": "07/02/2025 - 22:10:33"
+        },
+        {
+            "song_name": "Forever (feat. Malou & Yuna)",
+            "artists": [
+                "HUGEL",
+                "Diplo",
+                "Malou",
+                "Yuna"
+            ],
+            "album": "Forever (feat. Malou & Yuna)",
+            "played_at": "07/02/2025 - 22:08:12"
+        },
+        {
+            "song_name": "Forever (feat. Malou & Yuna)",
+            "artists": [
+                "HUGEL",
+                "Diplo",
+                "Malou",
+                "Yuna"
+            ],
+            "album": "Forever (feat. Malou & Yuna)",
+            "played_at": "07/02/2025 - 21:27:35"
+        },
+        {
             "song_name": "My Love (2024)",
             "artists": [
                 "Alex Wann",
@@ -379,101 +478,6 @@
             ],
             "album": "Baddie",
             "played_at": "07/02/2025 - 15:29:36"
-        },
-        {
-            "song_name": "In The Dark",
-            "artists": [
-                "Jend"
-            ],
-            "album": "In The Dark",
-            "played_at": "07/02/2025 - 15:27:06"
-        },
-        {
-            "song_name": "Words (feat. Zara Larsson)",
-            "artists": [
-                "Alesso",
-                "Zara Larsson"
-            ],
-            "album": "Words (feat. Zara Larsson)",
-            "played_at": "07/02/2025 - 15:25:02"
-        },
-        {
-            "song_name": "The Chase",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "The Last Dance, Pt 2",
-            "played_at": "07/02/2025 - 15:22:40"
-        },
-        {
-            "song_name": "She Said (Big Jet Plane)",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "She Said (Big Jet Plane)",
-            "played_at": "07/02/2025 - 15:19:26"
-        },
-        {
-            "song_name": "Over You",
-            "artists": [
-                "Refeci",
-                "Alex D'Rosso",
-                "Aili"
-            ],
-            "album": "Over You",
-            "played_at": "07/02/2025 - 15:16:32"
-        },
-        {
-            "song_name": "Move (feat. Camila Cabello & Malachiii)",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Camila Cabello",
-                "Keinemusik",
-                "Malachiii",
-                "Orso"
-            ],
-            "album": "Move (feat. Camila Cabello & Malachiii)",
-            "played_at": "07/02/2025 - 15:14:06"
-        },
-        {
-            "song_name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "artists": [
-                "VAVO",
-                "Tyler Mann",
-                "DJ PRESS PLAY"
-            ],
-            "album": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-            "played_at": "07/02/2025 - 15:11:06"
-        },
-        {
-            "song_name": "Spectrum (Say My Name) - Afro House Version",
-            "artists": [
-                "Anthony Keyrouz",
-                "Felix Schorn"
-            ],
-            "album": "Spectrum (Say My Name) [Afro House Version]",
-            "played_at": "07/02/2025 - 15:08:26"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "I",
-            "played_at": "07/02/2025 - 15:05:43"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "KYGO",
-            "played_at": "07/02/2025 - 15:02:37"
         },
         {
             "song_name": "Lioness - Francis Mercier Remix",
