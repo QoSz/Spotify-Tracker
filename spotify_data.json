@@ -1436,6 +1436,46 @@
             "played_at": "07/02/2025 - 15:29:36"
         },
         {
+            "song_name": "My Love (2024)",
+            "artists": [
+                "Alex Wann",
+                "Route 94",
+                "Jess Glynne"
+            ],
+            "album": "My Love (2024)",
+            "played_at": "08/02/2025 - 19:13:15"
+        },
+        {
+            "song_name": "Asking",
+            "artists": [
+                "Sonny Fodera",
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Asking",
+            "played_at": "08/02/2025 - 18:11:27"
+        },
+        {
+            "song_name": "You & Me - Rivo Remix",
+            "artists": [
+                "Disclosure",
+                "Eliza Doolittle",
+                "Rivo"
+            ],
+            "album": "You & Me (Rivo Remix)",
+            "played_at": "08/02/2025 - 18:08:16"
+        },
+        {
+            "song_name": "Gonna Need Ya",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "Rachelle Jenkens"
+            ],
+            "album": "Gonna Need Ya",
+            "played_at": "08/02/2025 - 18:04:47"
+        },
+        {
             "song_name": "Lioness - Francis Mercier Remix",
             "artists": [
                 "Swedish House Mafia",
@@ -1873,45 +1913,6 @@
             ],
             "album": "Summertime With You",
             "played_at": "07/02/2025 - 15:41:20"
-        },
-        {
-            "song_name": "Premier Gaou - Nitefreak Remix",
-            "artists": [
-                "Francis Mercier",
-                "Magic System",
-                "Nitefreak"
-            ],
-            "album": "Premier Gaou (Nitefreak Remix)",
-            "played_at": "07/02/2025 - 15:38:59"
-        },
-        {
-            "song_name": "Sauti",
-            "artists": [
-                "Francis Mercier",
-                "Faul & Wad",
-                "African Children's Choir"
-            ],
-            "album": "Sauti",
-            "played_at": "07/02/2025 - 15:35:17"
-        },
-        {
-            "song_name": "Be Easy",
-            "artists": [
-                "Odeal",
-                "brazy"
-            ],
-            "album": "Be Easy",
-            "played_at": "07/02/2025 - 15:31:48"
-        },
-        {
-            "song_name": "Baddie",
-            "artists": [
-                "Tom Enzy",
-                "Lucas Estrada",
-                "Tanaka"
-            ],
-            "album": "Baddie",
-            "played_at": "07/02/2025 - 15:29:36"
         }
     ]
 }
