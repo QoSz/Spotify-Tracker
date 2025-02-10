@@ -2,6 +2,24 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Money Longer",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Lil Uzi Vert vs. The World",
+            "played_at": "09/02/2025 - 15:12:07"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "09/02/2025 - 13:21:48"
+        },
+        {
             "song_name": "Baianá",
             "artists": [
                 "Bakermat"
@@ -448,24 +466,6 @@
             ],
             "album": "Duality",
             "played_at": "07/02/2025 - 17:08:24"
-        },
-        {
-            "song_name": "The Chase",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "The Last Dance, Pt 2",
-            "played_at": "07/02/2025 - 17:05:58"
-        },
-        {
-            "song_name": "For Life (feat. Nile Rodgers)",
-            "artists": [
-                "Kygo",
-                "Zak Abel",
-                "Nile Rodgers"
-            ],
-            "album": "KYGO",
-            "played_at": "07/02/2025 - 17:02:45"
         },
         {
             "song_name": "Money Longer",
