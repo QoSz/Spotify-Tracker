@@ -2,451 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "10/02/2025 - 13:32:35"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "10/02/2025 - 13:20:27"
-        },
-        {
-            "song_name": "Superstar Sh*t",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "What Could Possibly Go Wrong",
-            "played_at": "10/02/2025 - 12:58:03"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "10/02/2025 - 12:53:25"
-        },
-        {
-            "song_name": "Riot",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "Riot",
-            "played_at": "10/02/2025 - 12:50:19"
-        },
-        {
-            "song_name": "Prices",
-            "artists": [
-                "Lil Uzi Vert",
-                "WanMor"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "10/02/2025 - 12:49:07"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "10/02/2025 - 12:45:21"
-        },
-        {
-            "song_name": "Loaded",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "10/02/2025 - 12:42:49"
-        },
-        {
-            "song_name": "Avian",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "10/02/2025 - 12:38:31"
-        },
-        {
-            "song_name": "Aquarium",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "10/02/2025 - 12:35:22"
-        },
-        {
-            "song_name": "Red Leather",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "J. Cole"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "10/02/2025 - 12:30:51"
-        },
-        {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "10/02/2025 - 12:24:03"
-        },
-        {
-            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
-            "artists": [
-                "Trippie Redd",
-                "Lil Uzi Vert"
-            ],
-            "album": "Trip At Knight",
-            "played_at": "10/02/2025 - 12:20:33"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "10/02/2025 - 12:15:24"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Anybody",
-            "played_at": "10/02/2025 - 12:12:38"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "10/02/2025 - 12:08:35"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "10/02/2025 - 12:05:14"
-        },
-        {
-            "song_name": "The Count (feat. Wiz Khalifa)",
-            "artists": [
-                "Curren$y",
-                "Harry Fraud",
-                "Wiz Khalifa"
-            ],
-            "album": "The Marina",
-            "played_at": "10/02/2025 - 12:02:38"
-        },
-        {
-            "song_name": "Mwaki",
-            "artists": [
-                "Zerb",
-                "Sofiya Nzau"
-            ],
-            "album": "SURRENDER",
-            "played_at": "10/02/2025 - 11:59:31"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "10/02/2025 - 11:56:10"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "10/02/2025 - 11:53:04"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "10/02/2025 - 11:50:30"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "10/02/2025 - 11:45:44"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "10/02/2025 - 11:40:23"
-        },
-        {
-            "song_name": "Money Longer",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "09/02/2025 - 15:12:07"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "09/02/2025 - 13:21:48"
-        },
-        {
-            "song_name": "Baianá",
-            "artists": [
-                "Bakermat"
-            ],
-            "album": "The Ringmaster",
-            "played_at": "09/02/2025 - 13:11:42"
-        },
-        {
-            "song_name": "Chihiro",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Chihiro",
-            "played_at": "09/02/2025 - 13:08:48"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "09/02/2025 - 13:06:46"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "09/02/2025 - 13:03:33"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "09/02/2025 - 13:00:53"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "09/02/2025 - 11:58:01"
-        },
-        {
-            "song_name": "whoa (mind in awe)",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "SKINS",
-            "played_at": "09/02/2025 - 11:45:36"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "09/02/2025 - 11:43:05"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "09/02/2025 - 11:40:48"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "09/02/2025 - 11:37:54"
-        },
-        {
-            "song_name": "WHAT YOU WANT",
-            "artists": [
-                "Switch Disco"
-            ],
-            "album": "VACANCY EP",
-            "played_at": "09/02/2025 - 11:34:42"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "09/02/2025 - 11:32:39"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "09/02/2025 - 11:29:43"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Hell N Back (feat. Summer Walker)",
-            "played_at": "09/02/2025 - 11:26:52"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "09/02/2025 - 11:23:44"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "09/02/2025 - 11:20:58"
-        },
-        {
-            "song_name": "Yebba's Heartbreak (I Do)",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Yebba's Heartbreak (I Do)",
-            "played_at": "09/02/2025 - 11:18:22"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "09/02/2025 - 11:15:59"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "09/02/2025 - 11:12:41"
-        },
-        {
-            "song_name": "My Love (2024)",
-            "artists": [
-                "Alex Wann",
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love (2024)",
-            "played_at": "08/02/2025 - 19:13:15"
-        },
-        {
-            "song_name": "Asking",
-            "artists": [
-                "Sonny Fodera",
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Asking",
-            "played_at": "08/02/2025 - 18:11:27"
-        },
-        {
-            "song_name": "You & Me - Rivo Remix",
-            "artists": [
-                "Disclosure",
-                "Eliza Doolittle",
-                "Rivo"
-            ],
-            "album": "You & Me (Rivo Remix)",
-            "played_at": "08/02/2025 - 18:08:16"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "08/02/2025 - 18:04:47"
-        },
-        {
-            "song_name": "Lioness - Francis Mercier Remix",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove",
-                "Francis Mercier"
-            ],
-            "album": "Lioness (Francis Mercier Remix)",
-            "played_at": "07/02/2025 - 23:28:53"
-        },
-        {
             "song_name": "Sleepless",
             "artists": [
                 "AVAION",
@@ -891,6 +446,438 @@
             ],
             "album": "SURRENDER",
             "played_at": "10/02/2025 - 11:59:31"
+        },
+        {
+            "song_name": "Human",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Human",
+            "played_at": "13/02/2025 - 16:41:42"
+        },
+        {
+            "song_name": "Often",
+            "artists": [
+                "Jend",
+                "Paccu"
+            ],
+            "album": "Often",
+            "played_at": "13/02/2025 - 16:39:28"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "13/02/2025 - 16:37:17"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "13/02/2025 - 16:35:02"
+        },
+        {
+            "song_name": "No Bad Vibes",
+            "artists": [
+                "Jazzy",
+                "KILIMANJARO"
+            ],
+            "album": "No Bad Vibes",
+            "played_at": "13/02/2025 - 16:31:36"
+        },
+        {
+            "song_name": "Now or Never",
+            "artists": [
+                "Trinix",
+                "Dominic Neill"
+            ],
+            "album": "Now or Never",
+            "played_at": "13/02/2025 - 16:28:54"
+        },
+        {
+            "song_name": "Milkshake",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Milkshake",
+            "played_at": "13/02/2025 - 16:25:50"
+        },
+        {
+            "song_name": "Never Walk Alone",
+            "artists": [
+                "BLOND:ISH",
+                "Stevie Appleton"
+            ],
+            "album": "Never Walk Alone",
+            "played_at": "13/02/2025 - 16:22:38"
+        },
+        {
+            "song_name": "Hold Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold Me",
+            "played_at": "13/02/2025 - 16:19:29"
+        },
+        {
+            "song_name": "By Your Side",
+            "artists": [
+                "Vandelux",
+                "Tailor"
+            ],
+            "album": "When The Light Breaks",
+            "played_at": "13/02/2025 - 16:17:08"
+        },
+        {
+            "song_name": "Chihiro - Ice Version",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Chihiro (The Elements)",
+            "played_at": "13/02/2025 - 16:13:28"
+        },
+        {
+            "song_name": "Anytime",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "Anytime",
+            "played_at": "13/02/2025 - 16:11:07"
+        },
+        {
+            "song_name": "Be Your Friend",
+            "artists": [
+                "XYSM",
+                "EDGR"
+            ],
+            "album": "Be Your Friend",
+            "played_at": "13/02/2025 - 16:02:46"
+        },
+        {
+            "song_name": "Got Me Like",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Got Me Like",
+            "played_at": "13/02/2025 - 16:00:02"
+        },
+        {
+            "song_name": "Lost in You",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Lost in You",
+            "played_at": "13/02/2025 - 15:57:51"
+        },
+        {
+            "song_name": "Madan (King)",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "Madan (King)",
+            "played_at": "13/02/2025 - 15:54:49"
+        },
+        {
+            "song_name": "Coast Ride",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Coast Ride",
+            "played_at": "13/02/2025 - 15:51:45"
+        },
+        {
+            "song_name": "Because You Move Me",
+            "artists": [
+                "Tinlicker",
+                "Helsloot"
+            ],
+            "album": "Because You Move Me",
+            "played_at": "13/02/2025 - 15:49:25"
+        },
+        {
+            "song_name": "Wanna Be Somewhere With You",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Wanna Be Somewhere With You",
+            "played_at": "13/02/2025 - 15:19:14"
+        },
+        {
+            "song_name": "Take You High",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Take You High",
+            "played_at": "13/02/2025 - 15:15:33"
+        },
+        {
+            "song_name": "Running Back to You",
+            "artists": [
+                "Astrality",
+                "Miggy Dela Rosa"
+            ],
+            "album": "Running Back to You",
+            "played_at": "13/02/2025 - 15:13:23"
+        },
+        {
+            "song_name": "Lie Machine",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Lie Machine",
+            "played_at": "13/02/2025 - 15:09:18"
+        },
+        {
+            "song_name": "Hold On",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "Hold On",
+            "played_at": "13/02/2025 - 15:06:27"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "13/02/2025 - 15:03:27"
+        },
+        {
+            "song_name": "Move Me",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Move Me",
+            "played_at": "13/02/2025 - 15:00:40"
+        },
+        {
+            "song_name": "Love Me The Same",
+            "artists": [
+                "Astrality",
+                "Krysta Youngs"
+            ],
+            "album": "Love Me The Same",
+            "played_at": "13/02/2025 - 14:58:20"
+        },
+        {
+            "song_name": "Sun Is Dark",
+            "artists": [
+                "Jend",
+                "Paccu",
+                "Nosi"
+            ],
+            "album": "Sun Is Dark",
+            "played_at": "13/02/2025 - 14:54:36"
+        },
+        {
+            "song_name": "Matter of Time",
+            "artists": [
+                "Vandelux",
+                "Alex Maher"
+            ],
+            "album": "When The Light Breaks",
+            "played_at": "13/02/2025 - 14:51:48"
+        },
+        {
+            "song_name": "Low Again",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "Low Again",
+            "played_at": "13/02/2025 - 14:47:47"
+        },
+        {
+            "song_name": "Sunset Memories",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "Sunset Memories",
+            "played_at": "13/02/2025 - 14:44:38"
+        },
+        {
+            "song_name": "All I Want Is You",
+            "artists": [
+                "Lavern",
+                "NEIMY"
+            ],
+            "album": "All I Want Is You",
+            "played_at": "13/02/2025 - 14:41:32"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "13/02/2025 - 14:39:02"
+        },
+        {
+            "song_name": "ten",
+            "artists": [
+                "Fred again..",
+                "Jozzy",
+                "Jim Legxacy"
+            ],
+            "album": "ten days",
+            "played_at": "13/02/2025 - 14:36:54"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "13/02/2025 - 14:33:52"
+        },
+        {
+            "song_name": "In The Dark",
+            "artists": [
+                "Jend"
+            ],
+            "album": "In The Dark",
+            "played_at": "13/02/2025 - 14:30:48"
+        },
+        {
+            "song_name": "Illuminate",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "13/02/2025 - 14:28:43"
+        },
+        {
+            "song_name": "Refuse You",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Refuse You",
+            "played_at": "13/02/2025 - 14:26:00"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "13/02/2025 - 14:23:44"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "13/02/2025 - 14:20:27"
+        },
+        {
+            "song_name": "She Said (Big Jet Plane)",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "She Said (Big Jet Plane)",
+            "played_at": "13/02/2025 - 14:18:00"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "13/02/2025 - 14:15:06"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "13/02/2025 - 14:13:02"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "13/02/2025 - 14:10:29"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "13/02/2025 - 14:08:06"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "13/02/2025 - 14:05:01"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "13/02/2025 - 14:02:15"
+        },
+        {
+            "song_name": "Chasing Paradise",
+            "artists": [
+                "Kygo",
+                "OneRepublic"
+            ],
+            "album": "Chasing Paradise",
+            "played_at": "13/02/2025 - 14:00:00"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "13/02/2025 - 13:56:59"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "13/02/2025 - 13:53:40"
+        },
+        {
+            "song_name": "Hell N Back (feat. Summer Walker)",
+            "artists": [
+                "Bakar",
+                "Summer Walker"
+            ],
+            "album": "Hell N Back (feat. Summer Walker)",
+            "played_at": "13/02/2025 - 13:52:08"
         },
         {
             "song_name": "Human",
