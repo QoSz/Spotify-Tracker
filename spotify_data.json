@@ -2,442 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Like You Do",
-            "artists": [
-                "D.O.D",
-                "Raphaella"
-            ],
-            "album": "Like You Do",
-            "played_at": "15/02/2025 - 08:59:36"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "15/02/2025 - 08:57:04"
-        },
-        {
-            "song_name": "God's Plan",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "14/02/2025 - 21:47:01"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:43:39"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:37:00"
-        },
-        {
-            "song_name": "Spin Bout U",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:29:19"
-        },
-        {
-            "song_name": "No Idea",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "14/02/2025 - 21:28:01"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "14/02/2025 - 21:25:26"
-        },
-        {
-            "song_name": "20 Min",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "14/02/2025 - 21:23:16"
-        },
-        {
-            "song_name": "Live This Wild",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "14/02/2025 - 21:19:35"
-        },
-        {
-            "song_name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Chris Brown"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "14/02/2025 - 21:16:33"
-        },
-        {
-            "song_name": "Shots",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "14/02/2025 - 21:12:56"
-        },
-        {
-            "song_name": "Type Shit",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Travis Scott",
-                "Playboi Carti"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "14/02/2025 - 21:10:24"
-        },
-        {
-            "song_name": "Watch (feat. Lil Uzi Vert & Kanye West)",
-            "artists": [
-                "Travis Scott",
-                "Lil Uzi Vert",
-                "Kanye West"
-            ],
-            "album": "Watch (feat. Lil Uzi Vert & Kanye West)",
-            "played_at": "14/02/2025 - 21:06:35"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "14/02/2025 - 21:02:57"
-        },
-        {
-            "song_name": "Push Ups",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Push Ups",
-            "played_at": "14/02/2025 - 20:41:03"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "14/02/2025 - 20:37:10"
-        },
-        {
-            "song_name": "Wanna Be Somewhere With You",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Wanna Be Somewhere With You",
-            "played_at": "14/02/2025 - 16:39:11"
-        },
-        {
-            "song_name": "Feeling The Same",
-            "artists": [
-                "Nyday"
-            ],
-            "album": "Feeling The Same",
-            "played_at": "14/02/2025 - 15:37:30"
-        },
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "14/02/2025 - 15:35:01"
-        },
-        {
-            "song_name": "All Day",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "All Day",
-            "played_at": "14/02/2025 - 14:36:01"
-        },
-        {
-            "song_name": "Nobody Else",
-            "artists": [
-                "Amés"
-            ],
-            "album": "Nobody Else",
-            "played_at": "14/02/2025 - 14:32:21"
-        },
-        {
-            "song_name": "Nver",
-            "artists": [
-                "Lost Prince",
-                "Villns"
-            ],
-            "album": "Nver",
-            "played_at": "14/02/2025 - 14:29:27"
-        },
-        {
-            "song_name": "About U",
-            "artists": [
-                "Reel Mood",
-                "Tima Dee"
-            ],
-            "album": "About U",
-            "played_at": "14/02/2025 - 14:26:27"
-        },
-        {
-            "song_name": "Us - Selected Mix",
-            "artists": [
-                "Chace"
-            ],
-            "album": "Us",
-            "played_at": "14/02/2025 - 14:23:13"
-        },
-        {
-            "song_name": "Everything You Do",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Everything You Do",
-            "played_at": "14/02/2025 - 14:20:30"
-        },
-        {
-            "song_name": "Remember",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Remember",
-            "played_at": "14/02/2025 - 14:17:29"
-        },
-        {
-            "song_name": "Loving You More",
-            "artists": [
-                "Amés",
-                "Nalestar"
-            ],
-            "album": "Loving You More",
-            "played_at": "14/02/2025 - 14:14:20"
-        },
-        {
-            "song_name": "I Don't Wanna Wait - Anto Remix",
-            "artists": [
-                "Zak Joshua",
-                "Anto",
-                "Alice Kübe"
-            ],
-            "album": "I Don't Wanna Wait (Anto Remix)",
-            "played_at": "14/02/2025 - 14:11:58"
-        },
-        {
-            "song_name": "Deep of You - Extended",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "14/02/2025 - 14:09:19"
-        },
-        {
-            "song_name": "I Don't Wanna Wait - Nalestar & DRAY Remix",
-            "artists": [
-                "Zak Joshua",
-                "Nalestar",
-                "DRAY",
-                "Alice Kübe"
-            ],
-            "album": "I Don't Wanna Wait (Nalestar & DRAY Remix)",
-            "played_at": "14/02/2025 - 14:05:57"
-        },
-        {
-            "song_name": "I Don't Wanna Wait - Nalestar & DRAY Remix",
-            "artists": [
-                "Zak Joshua",
-                "Nalestar",
-                "DRAY",
-                "Alice Kübe"
-            ],
-            "album": "I Don't Wanna Wait (Nalestar & DRAY Remix)",
-            "played_at": "14/02/2025 - 14:05:51"
-        },
-        {
-            "song_name": "A Different Way",
-            "artists": [
-                "Nalestar",
-                "Miavono"
-            ],
-            "album": "A Different Way",
-            "played_at": "14/02/2025 - 14:01:06"
-        },
-        {
-            "song_name": "Loving Me",
-            "artists": [
-                "Amés"
-            ],
-            "album": "Loving Me",
-            "played_at": "14/02/2025 - 13:01:21"
-        },
-        {
-            "song_name": "Figure It Out",
-            "artists": [
-                "Zak Joshua"
-            ],
-            "album": "Figure It Out",
-            "played_at": "14/02/2025 - 12:59:10"
-        },
-        {
-            "song_name": "All I Ever Wanted",
-            "artists": [
-                "Meanetik"
-            ],
-            "album": "All I Ever Wanted",
-            "played_at": "14/02/2025 - 12:55:58"
-        },
-        {
-            "song_name": "You Got Me",
-            "artists": [
-                "Yoru"
-            ],
-            "album": "You Got Me",
-            "played_at": "14/02/2025 - 12:52:50"
-        },
-        {
-            "song_name": "I Will Love You",
-            "artists": [
-                "Yoru"
-            ],
-            "album": "I Will Love You",
-            "played_at": "14/02/2025 - 12:49:10"
-        },
-        {
-            "song_name": "Outlaw (Inspired by 'The Outlaw Ocean' a book by Ian Urbina)",
-            "artists": [
-                "Nalestar",
-                "Ian Urbina"
-            ],
-            "album": "Outlaw (Inspired by 'The Outlaw Ocean' a book by Ian Urbina)",
-            "played_at": "14/02/2025 - 12:06:13"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Love Me",
-            "played_at": "14/02/2025 - 12:03:50"
-        },
-        {
-            "song_name": "Far From Me",
-            "artists": [
-                "Dizaro"
-            ],
-            "album": "Far From Me",
-            "played_at": "14/02/2025 - 12:00:55"
-        },
-        {
-            "song_name": "Closer Every Day",
-            "artists": [
-                "Midnight Purple",
-                "Jamie A"
-            ],
-            "album": "Closer Every Day",
-            "played_at": "14/02/2025 - 11:58:15"
-        },
-        {
-            "song_name": "Night to Remember",
-            "artists": [
-                "Piece Wise",
-                "Eloi El"
-            ],
-            "album": "Night to Remember",
-            "played_at": "14/02/2025 - 11:54:26"
-        },
-        {
-            "song_name": "The Depths",
-            "artists": [
-                "JARP",
-                "Tenjo"
-            ],
-            "album": "The Depths",
-            "played_at": "14/02/2025 - 11:52:12"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "TEEMID"
-            ],
-            "album": "Sing On",
-            "played_at": "14/02/2025 - 11:49:42"
-        },
-        {
-            "song_name": "Don't",
-            "artists": [
-                "TEEMID",
-                "Chris"
-            ],
-            "album": "Don't",
-            "played_at": "14/02/2025 - 11:45:12"
-        },
-        {
-            "song_name": "Hold You In The Moonlight",
-            "artists": [
-                "Plastic Jungle",
-                "Aimi"
-            ],
-            "album": "Hold You In The Moonlight",
-            "played_at": "14/02/2025 - 10:59:16"
-        },
-        {
-            "song_name": "Too Much Time",
-            "artists": [
-                "Moment in Time"
-            ],
-            "album": "Too Much Time",
-            "played_at": "14/02/2025 - 10:56:45"
-        },
-        {
-            "song_name": "I Care",
-            "artists": [
-                "PALASTIC",
-                "Youkii"
-            ],
-            "album": "I Care",
-            "played_at": "14/02/2025 - 10:53:41"
-        },
-        {
-            "song_name": "Belong",
-            "artists": [
-                "Astrality",
-                "soleil",
-                "Kleeve"
-            ],
-            "album": "Belong",
-            "played_at": "14/02/2025 - 10:50:57"
-        },
-        {
             "song_name": "Right Here Right Now",
             "artists": [
                 "Y.V.E. 48"
@@ -1745,6 +1309,441 @@
             ],
             "album": "Loving You More",
             "played_at": "14/02/2025 - 14:14:20"
+        },
+        {
+            "song_name": "Drop Top",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "UNI",
+            "played_at": "15/02/2025 - 12:23:33"
+        },
+        {
+            "song_name": "TR666 (feat. Swae Lee)",
+            "artists": [
+                "Trippie Redd",
+                "Swae Lee"
+            ],
+            "album": "Pegasus",
+            "played_at": "15/02/2025 - 12:20:51"
+        },
+        {
+            "song_name": "late at night",
+            "artists": [
+                "Roddy Ricch"
+            ],
+            "album": "LIVE LIFE FAST",
+            "played_at": "15/02/2025 - 12:17:20"
+        },
+        {
+            "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
+            "artists": [
+                "Young Thug",
+                "A$AP Rocky",
+                "Post Malone"
+            ],
+            "album": "Punk",
+            "played_at": "15/02/2025 - 12:14:25"
+        },
+        {
+            "song_name": "MELTDOWN (feat. Drake)",
+            "artists": [
+                "Travis Scott",
+                "Drake"
+            ],
+            "album": "UTOPIA",
+            "played_at": "15/02/2025 - 12:08:13"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "15/02/2025 - 12:04:06"
+        },
+        {
+            "song_name": "Company Pt. 3",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "15/02/2025 - 12:00:04"
+        },
+        {
+            "song_name": "Lovin On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Lovin On Me",
+            "played_at": "15/02/2025 - 11:57:02"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "15/02/2025 - 11:54:43"
+        },
+        {
+            "song_name": "Pull Up",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 11:52:46"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "15/02/2025 - 11:49:42"
+        },
+        {
+            "song_name": "infinity (888) - feat. Joey Bada$$",
+            "artists": [
+                "XXXTENTACION",
+                "Joey Bada$$"
+            ],
+            "album": "?",
+            "played_at": "15/02/2025 - 11:47:31"
+        },
+        {
+            "song_name": "Speak",
+            "artists": [
+                "Internet Money",
+                "The Kid LAROI"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "15/02/2025 - 11:44:34"
+        },
+        {
+            "song_name": "Headlines",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Headlines",
+            "played_at": "15/02/2025 - 11:42:31"
+        },
+        {
+            "song_name": "I KNOW ?",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "15/02/2025 - 11:38:34"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "15/02/2025 - 11:35:02"
+        },
+        {
+            "song_name": "Spin Bout U",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "15/02/2025 - 11:31:31"
+        },
+        {
+            "song_name": "Lioness - Francis Mercier Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove",
+                "Francis Mercier"
+            ],
+            "album": "Lioness (Francis Mercier Remix)",
+            "played_at": "15/02/2025 - 10:36:38"
+        },
+        {
+            "song_name": "Right Here Right Now",
+            "artists": [
+                "Y.V.E. 48"
+            ],
+            "album": "Right Here Right Now",
+            "played_at": "15/02/2025 - 09:29:02"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "15/02/2025 - 09:26:32"
+        },
+        {
+            "song_name": "Alone Together",
+            "artists": [
+                "Astrality",
+                "Georgia Blackwell"
+            ],
+            "album": "Alone Together",
+            "played_at": "15/02/2025 - 09:24:31"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "15/02/2025 - 09:21:11"
+        },
+        {
+            "song_name": "Disappear",
+            "artists": [
+                "THEMBA",
+                "Nico de Andrea",
+                "Tasan"
+            ],
+            "album": "Disappear",
+            "played_at": "15/02/2025 - 09:18:53"
+        },
+        {
+            "song_name": "Afraid To Feel",
+            "artists": [
+                "LF SYSTEM"
+            ],
+            "album": "Afraid To Feel",
+            "played_at": "15/02/2025 - 09:14:57"
+        },
+        {
+            "song_name": "Aural Therapy",
+            "artists": [
+                "fwd/slash"
+            ],
+            "album": "Aural Therapy",
+            "played_at": "15/02/2025 - 09:12:00"
+        },
+        {
+            "song_name": "Lost in You",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Lost in You",
+            "played_at": "15/02/2025 - 09:09:23"
+        },
+        {
+            "song_name": "Forever (feat. Malou & Yuna)",
+            "artists": [
+                "HUGEL",
+                "Diplo",
+                "Malou",
+                "Yuna"
+            ],
+            "album": "Forever (feat. Malou & Yuna)",
+            "played_at": "15/02/2025 - 09:06:22"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "15/02/2025 - 09:04:01"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "15/02/2025 - 09:01:54"
+        },
+        {
+            "song_name": "Like You Do",
+            "artists": [
+                "D.O.D",
+                "Raphaella"
+            ],
+            "album": "Like You Do",
+            "played_at": "15/02/2025 - 08:59:36"
+        },
+        {
+            "song_name": "You Got The Love",
+            "artists": [
+                "Deep Chills",
+                "Coral Reef",
+                "Bikini Bandits"
+            ],
+            "album": "You Got The Love",
+            "played_at": "15/02/2025 - 08:57:04"
+        },
+        {
+            "song_name": "God's Plan",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Scorpion",
+            "played_at": "14/02/2025 - 21:47:01"
+        },
+        {
+            "song_name": "Hours In Silence",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "14/02/2025 - 21:43:39"
+        },
+        {
+            "song_name": "Hours In Silence",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "14/02/2025 - 21:37:00"
+        },
+        {
+            "song_name": "Spin Bout U",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "14/02/2025 - 21:29:19"
+        },
+        {
+            "song_name": "No Idea",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "14/02/2025 - 21:28:01"
+        },
+        {
+            "song_name": "Bird Call",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off (10th Anniversary)",
+            "played_at": "14/02/2025 - 21:25:26"
+        },
+        {
+            "song_name": "20 Min",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "14/02/2025 - 21:23:16"
+        },
+        {
+            "song_name": "Live This Wild",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Certified Hitmaker",
+            "played_at": "14/02/2025 - 21:19:35"
+        },
+        {
+            "song_name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+            "artists": [
+                "Metro Boomin",
+                "Future",
+                "Chris Brown"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "14/02/2025 - 21:16:33"
+        },
+        {
+            "song_name": "Shots",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "14/02/2025 - 21:12:56"
+        },
+        {
+            "song_name": "Type Shit",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott",
+                "Playboi Carti"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "14/02/2025 - 21:10:24"
+        },
+        {
+            "song_name": "Watch (feat. Lil Uzi Vert & Kanye West)",
+            "artists": [
+                "Travis Scott",
+                "Lil Uzi Vert",
+                "Kanye West"
+            ],
+            "album": "Watch (feat. Lil Uzi Vert & Kanye West)",
+            "played_at": "14/02/2025 - 21:06:35"
+        },
+        {
+            "song_name": "Feel No Ways",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "14/02/2025 - 21:02:57"
+        },
+        {
+            "song_name": "Push Ups",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Push Ups",
+            "played_at": "14/02/2025 - 20:41:03"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "14/02/2025 - 20:37:10"
+        },
+        {
+            "song_name": "Wanna Be Somewhere With You",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Wanna Be Somewhere With You",
+            "played_at": "14/02/2025 - 16:39:11"
+        },
+        {
+            "song_name": "Feeling The Same",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Feeling The Same",
+            "played_at": "14/02/2025 - 15:37:30"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "14/02/2025 - 15:35:01"
+        },
+        {
+            "song_name": "All Day",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "All Day",
+            "played_at": "14/02/2025 - 14:36:01"
         }
     ]
 }
