@@ -2,441 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Drop Top",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "UNI",
-            "played_at": "15/02/2025 - 12:23:33"
-        },
-        {
-            "song_name": "TR666 (feat. Swae Lee)",
-            "artists": [
-                "Trippie Redd",
-                "Swae Lee"
-            ],
-            "album": "Pegasus",
-            "played_at": "15/02/2025 - 12:20:51"
-        },
-        {
-            "song_name": "late at night",
-            "artists": [
-                "Roddy Ricch"
-            ],
-            "album": "LIVE LIFE FAST",
-            "played_at": "15/02/2025 - 12:17:20"
-        },
-        {
-            "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
-            "artists": [
-                "Young Thug",
-                "A$AP Rocky",
-                "Post Malone"
-            ],
-            "album": "Punk",
-            "played_at": "15/02/2025 - 12:14:25"
-        },
-        {
-            "song_name": "MELTDOWN (feat. Drake)",
-            "artists": [
-                "Travis Scott",
-                "Drake"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/02/2025 - 12:08:13"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "15/02/2025 - 12:04:06"
-        },
-        {
-            "song_name": "Company Pt. 3",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "15/02/2025 - 12:00:04"
-        },
-        {
-            "song_name": "Lovin On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Lovin On Me",
-            "played_at": "15/02/2025 - 11:57:02"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "15/02/2025 - 11:54:43"
-        },
-        {
-            "song_name": "Pull Up",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "15/02/2025 - 11:52:46"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "15/02/2025 - 11:49:42"
-        },
-        {
-            "song_name": "infinity (888) - feat. Joey Bada$$",
-            "artists": [
-                "XXXTENTACION",
-                "Joey Bada$$"
-            ],
-            "album": "?",
-            "played_at": "15/02/2025 - 11:47:31"
-        },
-        {
-            "song_name": "Speak",
-            "artists": [
-                "Internet Money",
-                "The Kid LAROI"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "15/02/2025 - 11:44:34"
-        },
-        {
-            "song_name": "Headlines",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Headlines",
-            "played_at": "15/02/2025 - 11:42:31"
-        },
-        {
-            "song_name": "I KNOW ?",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/02/2025 - 11:38:34"
-        },
-        {
-            "song_name": "Heartless",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "808s & Heartbreak",
-            "played_at": "15/02/2025 - 11:35:02"
-        },
-        {
-            "song_name": "Spin Bout U",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "15/02/2025 - 11:31:31"
-        },
-        {
-            "song_name": "Lioness - Francis Mercier Remix",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove",
-                "Francis Mercier"
-            ],
-            "album": "Lioness (Francis Mercier Remix)",
-            "played_at": "15/02/2025 - 10:36:38"
-        },
-        {
-            "song_name": "Right Here Right Now",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "Right Here Right Now",
-            "played_at": "15/02/2025 - 09:29:02"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "15/02/2025 - 09:26:32"
-        },
-        {
-            "song_name": "Alone Together",
-            "artists": [
-                "Astrality",
-                "Georgia Blackwell"
-            ],
-            "album": "Alone Together",
-            "played_at": "15/02/2025 - 09:24:31"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "15/02/2025 - 09:21:11"
-        },
-        {
-            "song_name": "Disappear",
-            "artists": [
-                "THEMBA",
-                "Nico de Andrea",
-                "Tasan"
-            ],
-            "album": "Disappear",
-            "played_at": "15/02/2025 - 09:18:53"
-        },
-        {
-            "song_name": "Afraid To Feel",
-            "artists": [
-                "LF SYSTEM"
-            ],
-            "album": "Afraid To Feel",
-            "played_at": "15/02/2025 - 09:14:57"
-        },
-        {
-            "song_name": "Aural Therapy",
-            "artists": [
-                "fwd/slash"
-            ],
-            "album": "Aural Therapy",
-            "played_at": "15/02/2025 - 09:12:00"
-        },
-        {
-            "song_name": "Lost in You",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Lost in You",
-            "played_at": "15/02/2025 - 09:09:23"
-        },
-        {
-            "song_name": "Forever (feat. Malou & Yuna)",
-            "artists": [
-                "HUGEL",
-                "Diplo",
-                "Malou",
-                "Yuna"
-            ],
-            "album": "Forever (feat. Malou & Yuna)",
-            "played_at": "15/02/2025 - 09:06:22"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "15/02/2025 - 09:04:01"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "15/02/2025 - 09:01:54"
-        },
-        {
-            "song_name": "Like You Do",
-            "artists": [
-                "D.O.D",
-                "Raphaella"
-            ],
-            "album": "Like You Do",
-            "played_at": "15/02/2025 - 08:59:36"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "15/02/2025 - 08:57:04"
-        },
-        {
-            "song_name": "God's Plan",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "14/02/2025 - 21:47:01"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:43:39"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:37:00"
-        },
-        {
-            "song_name": "Spin Bout U",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:29:19"
-        },
-        {
-            "song_name": "No Idea",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "14/02/2025 - 21:28:01"
-        },
-        {
-            "song_name": "Bird Call",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off (10th Anniversary)",
-            "played_at": "14/02/2025 - 21:25:26"
-        },
-        {
-            "song_name": "20 Min",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "14/02/2025 - 21:23:16"
-        },
-        {
-            "song_name": "Live This Wild",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "14/02/2025 - 21:19:35"
-        },
-        {
-            "song_name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Chris Brown"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "14/02/2025 - 21:16:33"
-        },
-        {
-            "song_name": "Shots",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "14/02/2025 - 21:12:56"
-        },
-        {
-            "song_name": "Type Shit",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "Travis Scott",
-                "Playboi Carti"
-            ],
-            "album": "WE DON'T TRUST YOU",
-            "played_at": "14/02/2025 - 21:10:24"
-        },
-        {
-            "song_name": "Watch (feat. Lil Uzi Vert & Kanye West)",
-            "artists": [
-                "Travis Scott",
-                "Lil Uzi Vert",
-                "Kanye West"
-            ],
-            "album": "Watch (feat. Lil Uzi Vert & Kanye West)",
-            "played_at": "14/02/2025 - 21:06:35"
-        },
-        {
-            "song_name": "Feel No Ways",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "14/02/2025 - 21:02:57"
-        },
-        {
-            "song_name": "Push Ups",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Push Ups",
-            "played_at": "14/02/2025 - 20:41:03"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "14/02/2025 - 20:37:10"
-        },
-        {
-            "song_name": "Wanna Be Somewhere With You",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Wanna Be Somewhere With You",
-            "played_at": "14/02/2025 - 16:39:11"
-        },
-        {
-            "song_name": "Feeling The Same",
-            "artists": [
-                "Nyday"
-            ],
-            "album": "Feeling The Same",
-            "played_at": "14/02/2025 - 15:37:30"
-        },
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "14/02/2025 - 15:35:01"
-        },
-        {
-            "song_name": "All Day",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "All Day",
-            "played_at": "14/02/2025 - 14:36:01"
-        },
-        {
             "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
             "artists": [
                 "Drake",
@@ -1746,6 +1311,439 @@
             ],
             "album": "Her Loss",
             "played_at": "14/02/2025 - 21:43:39"
+        },
+        {
+            "song_name": "Coming for You (feat. A1 x J1)",
+            "artists": [
+                "SwitchOTR",
+                "A1 x J1"
+            ],
+            "album": "Coming for You (feat. A1 x J1)",
+            "played_at": "15/02/2025 - 19:59:28"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "15/02/2025 - 19:56:29"
+        },
+        {
+            "song_name": "Drankin N Smokin",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto",
+            "played_at": "15/02/2025 - 19:52:16"
+        },
+        {
+            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
+            "artists": [
+                "$NOT",
+                "Maggie Lindemann"
+            ],
+            "album": "- TRAGEDY +",
+            "played_at": "15/02/2025 - 19:48:42"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "15/02/2025 - 19:45:34"
+        },
+        {
+            "song_name": "Outside (Better Days)",
+            "artists": [
+                "Blueface",
+                "OG Bobby Billions"
+            ],
+            "album": "Outside (Better Days)",
+            "played_at": "15/02/2025 - 19:40:19"
+        },
+        {
+            "song_name": "Too Fast",
+            "artists": [
+                "Sonder"
+            ],
+            "album": "Into",
+            "played_at": "15/02/2025 - 19:35:40"
+        },
+        {
+            "song_name": "prada dem (feat. Offset)",
+            "artists": [
+                "Gunna",
+                "Offset"
+            ],
+            "album": "One of Wun",
+            "played_at": "15/02/2025 - 19:30:44"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 19:27:51"
+        },
+        {
+            "song_name": "Rush Hour",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "15/02/2025 - 19:23:50"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "15/02/2025 - 16:10:11"
+        },
+        {
+            "song_name": "Sanguine Paradise",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Sanguine Paradise",
+            "played_at": "15/02/2025 - 15:55:17"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "15/02/2025 - 15:50:49"
+        },
+        {
+            "song_name": "Potato Salad",
+            "artists": [
+                "Tyler, The Creator",
+                "A$AP Rocky"
+            ],
+            "album": "Potato Salad",
+            "played_at": "15/02/2025 - 15:27:14"
+        },
+        {
+            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+            "artists": [
+                "J. Cole",
+                "Lil Baby"
+            ],
+            "album": "The Off-Season",
+            "played_at": "15/02/2025 - 15:24:12"
+        },
+        {
+            "song_name": "Already Best Friends (feat. Chris Brown)",
+            "artists": [
+                "Jack Harlow",
+                "Chris Brown"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "15/02/2025 - 15:20:33"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "15/02/2025 - 15:17:15"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "played_at": "15/02/2025 - 15:12:34"
+        },
+        {
+            "song_name": "Believe Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake"
+            ],
+            "album": "Believe Me",
+            "played_at": "15/02/2025 - 15:10:05"
+        },
+        {
+            "song_name": "True Love",
+            "artists": [
+                "Kanye West",
+                "XXXTENTACION"
+            ],
+            "album": "True Love",
+            "played_at": "15/02/2025 - 15:04:27"
+        },
+        {
+            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
+            "artists": [
+                "Quavo",
+                "Takeoff",
+                "YoungBoy Never Broke Again"
+            ],
+            "album": "Only Built For Infinity Links",
+            "played_at": "15/02/2025 - 15:01:11"
+        },
+        {
+            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artists": [
+                "Drake",
+                "Lil Durk"
+            ],
+            "album": "Laugh Now Cry Later (feat. Lil Durk)",
+            "played_at": "15/02/2025 - 14:56:27"
+        },
+        {
+            "song_name": "Cinderella (feat. Toro y Moi)",
+            "artists": [
+                "Don Toliver",
+                "Toro y Moi"
+            ],
+            "album": "Love Sick",
+            "played_at": "15/02/2025 - 14:52:05"
+        },
+        {
+            "song_name": "Hell N Back",
+            "artists": [
+                "Bakar"
+            ],
+            "album": "Hell N Back (Sped Up)",
+            "played_at": "15/02/2025 - 14:48:18"
+        },
+        {
+            "song_name": "Nail Tech",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Nail Tech",
+            "played_at": "15/02/2025 - 14:44:44"
+        },
+        {
+            "song_name": "MIDDLE CHILD",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "MIDDLE CHILD",
+            "played_at": "15/02/2025 - 14:41:17"
+        },
+        {
+            "song_name": "Marea (we’ve lost dancing)",
+            "artists": [
+                "Fred again..",
+                "The Blessed Madonna"
+            ],
+            "album": "Actual Life (April 14 - December 17 2020)",
+            "played_at": "15/02/2025 - 14:37:44"
+        },
+        {
+            "song_name": "Drop Top",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "UNI",
+            "played_at": "15/02/2025 - 12:23:33"
+        },
+        {
+            "song_name": "TR666 (feat. Swae Lee)",
+            "artists": [
+                "Trippie Redd",
+                "Swae Lee"
+            ],
+            "album": "Pegasus",
+            "played_at": "15/02/2025 - 12:20:51"
+        },
+        {
+            "song_name": "late at night",
+            "artists": [
+                "Roddy Ricch"
+            ],
+            "album": "LIVE LIFE FAST",
+            "played_at": "15/02/2025 - 12:17:20"
+        },
+        {
+            "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
+            "artists": [
+                "Young Thug",
+                "A$AP Rocky",
+                "Post Malone"
+            ],
+            "album": "Punk",
+            "played_at": "15/02/2025 - 12:14:25"
+        },
+        {
+            "song_name": "MELTDOWN (feat. Drake)",
+            "artists": [
+                "Travis Scott",
+                "Drake"
+            ],
+            "album": "UTOPIA",
+            "played_at": "15/02/2025 - 12:08:13"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "15/02/2025 - 12:04:06"
+        },
+        {
+            "song_name": "Company Pt. 3",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "15/02/2025 - 12:00:04"
+        },
+        {
+            "song_name": "Lovin On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Lovin On Me",
+            "played_at": "15/02/2025 - 11:57:02"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "15/02/2025 - 11:54:43"
+        },
+        {
+            "song_name": "Pull Up",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 11:52:46"
+        },
+        {
+            "song_name": "ORANGE SODA",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "DIE FOR MY BITCH",
+            "played_at": "15/02/2025 - 11:49:42"
+        },
+        {
+            "song_name": "infinity (888) - feat. Joey Bada$$",
+            "artists": [
+                "XXXTENTACION",
+                "Joey Bada$$"
+            ],
+            "album": "?",
+            "played_at": "15/02/2025 - 11:47:31"
+        },
+        {
+            "song_name": "Speak",
+            "artists": [
+                "Internet Money",
+                "The Kid LAROI"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "15/02/2025 - 11:44:34"
+        },
+        {
+            "song_name": "Headlines",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Headlines",
+            "played_at": "15/02/2025 - 11:42:31"
+        },
+        {
+            "song_name": "I KNOW ?",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "15/02/2025 - 11:38:34"
+        },
+        {
+            "song_name": "Heartless",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "808s & Heartbreak",
+            "played_at": "15/02/2025 - 11:35:02"
+        },
+        {
+            "song_name": "Spin Bout U",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "15/02/2025 - 11:31:31"
+        },
+        {
+            "song_name": "Lioness - Francis Mercier Remix",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove",
+                "Francis Mercier"
+            ],
+            "album": "Lioness (Francis Mercier Remix)",
+            "played_at": "15/02/2025 - 10:36:38"
+        },
+        {
+            "song_name": "Right Here Right Now",
+            "artists": [
+                "Y.V.E. 48"
+            ],
+            "album": "Right Here Right Now",
+            "played_at": "15/02/2025 - 09:29:02"
+        },
+        {
+            "song_name": "Before the Sun Sets",
+            "artists": [
+                "Nimus",
+                "RED"
+            ],
+            "album": "Before the Sun Sets",
+            "played_at": "15/02/2025 - 09:26:32"
+        },
+        {
+            "song_name": "Alone Together",
+            "artists": [
+                "Astrality",
+                "Georgia Blackwell"
+            ],
+            "album": "Alone Together",
+            "played_at": "15/02/2025 - 09:24:31"
+        },
+        {
+            "song_name": "Like a Mystery",
+            "artists": [
+                "Eneko Artola"
+            ],
+            "album": "Like a Mystery",
+            "played_at": "15/02/2025 - 09:21:11"
+        },
+        {
+            "song_name": "Disappear",
+            "artists": [
+                "THEMBA",
+                "Nico de Andrea",
+                "Tasan"
+            ],
+            "album": "Disappear",
+            "played_at": "15/02/2025 - 09:18:53"
         }
     ]
 }
