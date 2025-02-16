@@ -2,6 +2,75 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "16/02/2025 - 10:59:33"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "16/02/2025 - 10:55:43"
+        },
+        {
+            "song_name": "Mad World",
+            "artists": [
+                "Sickick"
+            ],
+            "album": "Mad World",
+            "played_at": "16/02/2025 - 10:50:51"
+        },
+        {
+            "song_name": "Rewind",
+            "artists": [
+                "YLA Howe"
+            ],
+            "album": "Rewind",
+            "played_at": "16/02/2025 - 10:47:41"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "16/02/2025 - 10:45:29"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "16/02/2025 - 10:43:28"
+        },
+        {
+            "song_name": "ay! (feat. Lil Wayne)",
+            "artists": [
+                "mgk",
+                "Lil Wayne"
+            ],
+            "album": "mainstream sellout",
+            "played_at": "16/02/2025 - 10:40:31"
+        },
+        {
+            "song_name": "Objects in the Mirror",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off",
+            "played_at": "16/02/2025 - 09:28:09"
+        },
+        {
             "song_name": "Coming for You (feat. A1 x J1)",
             "artists": [
                 "SwitchOTR",
@@ -364,506 +433,1019 @@
             "played_at": "15/02/2025 - 11:38:34"
         },
         {
-            "song_name": "Heartless",
+            "song_name": "Who Needs Love",
+            "artists": [
+                "Trippie Redd"
+            ],
+            "album": "A Love Letter To You 4",
+            "played_at": "16/02/2025 - 11:57:59"
+        },
+        {
+            "song_name": "Overdose",
+            "artists": [
+                "Two Friends",
+                "Exit Friendzone",
+                "Nat Dunn"
+            ],
+            "album": "Overdose",
+            "played_at": "16/02/2025 - 11:55:20"
+        },
+        {
+            "song_name": "Ladbroke Grove",
+            "artists": [
+                "AJ Tracey"
+            ],
+            "album": "AJ Tracey",
+            "played_at": "16/02/2025 - 11:51:31"
+        },
+        {
+            "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "Wizkid"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "16/02/2025 - 11:48:20"
+        },
+        {
+            "song_name": "Sleepin With You",
+            "artists": [
+                "SADFACETHUGGIN",
+                "TOKINPOTENT"
+            ],
+            "album": "Emotionless - Sadface II",
+            "played_at": "16/02/2025 - 11:44:29"
+        },
+        {
+            "song_name": "Late October",
+            "artists": [
+                "Young Dinero Banks"
+            ],
+            "album": "Late October",
+            "played_at": "16/02/2025 - 11:41:38"
+        },
+        {
+            "song_name": "ESCAPE PLAN",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "16/02/2025 - 11:39:04"
+        },
+        {
+            "song_name": "Watch My Back",
+            "artists": [
+                "KAZEY J"
+            ],
+            "album": "Watch My Back",
+            "played_at": "16/02/2025 - 11:36:34"
+        },
+        {
+            "song_name": "Pause Play",
+            "artists": [
+                "Preme"
+            ],
+            "album": "Pause Play",
+            "played_at": "16/02/2025 - 11:33:54"
+        },
+        {
+            "song_name": "Jimmy Cooks (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "16/02/2025 - 11:31:09"
+        },
+        {
+            "song_name": "Outside",
+            "artists": [
+                "Kota the Friend"
+            ],
+            "album": "Outside",
+            "played_at": "16/02/2025 - 11:27:30"
+        },
+        {
+            "song_name": "Red Light",
+            "artists": [
+                "Elijah the Boy"
+            ],
+            "album": "Red Light",
+            "played_at": "16/02/2025 - 11:24:06"
+        },
+        {
+            "song_name": "PUFFIN ON ZOOTIEZ",
+            "artists": [
+                "Future"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "16/02/2025 - 11:21:44"
+        },
+        {
+            "song_name": "Don't Think About It (Too Much)",
+            "artists": [
+                "Druzu"
+            ],
+            "album": "Don't Think About It (Too Much)",
+            "played_at": "16/02/2025 - 11:18:50"
+        },
+        {
+            "song_name": "Wildflower",
+            "artists": [
+                "MDMA"
+            ],
+            "album": "Peak Of Molly",
+            "played_at": "16/02/2025 - 11:15:13"
+        },
+        {
+            "song_name": "Had Enough (feat. Quavo & Offset)",
+            "artists": [
+                "Don Toliver",
+                "Offset",
+                "Quavo"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "16/02/2025 - 11:12:42"
+        },
+        {
+            "song_name": "Anxious",
+            "artists": [
+                "AJ Tracey"
+            ],
+            "album": "Flu Game",
+            "played_at": "16/02/2025 - 11:10:04"
+        },
+        {
+            "song_name": "Calabasas",
+            "artists": [
+                "Skizzy Mars"
+            ],
+            "album": "Free Skizzy Mars",
+            "played_at": "16/02/2025 - 11:07:23"
+        },
+        {
+            "song_name": "P power (feat. Drake)",
+            "artists": [
+                "Gunna",
+                "Drake"
+            ],
+            "album": "DS4EVER",
+            "played_at": "16/02/2025 - 11:04:42"
+        },
+        {
+            "song_name": "Love (feat. Lil Uzi Vert)",
+            "artists": [
+                "Felix Snow",
+                "Lil Uzi Vert"
+            ],
+            "album": "Love (feat. Lil Uzi Vert)",
+            "played_at": "16/02/2025 - 11:01:29"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "16/02/2025 - 10:59:33"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "16/02/2025 - 10:55:43"
+        },
+        {
+            "song_name": "Mad World",
+            "artists": [
+                "Sickick"
+            ],
+            "album": "Mad World",
+            "played_at": "16/02/2025 - 10:50:51"
+        },
+        {
+            "song_name": "Rewind",
+            "artists": [
+                "YLA Howe"
+            ],
+            "album": "Rewind",
+            "played_at": "16/02/2025 - 10:47:41"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "16/02/2025 - 10:45:29"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "16/02/2025 - 10:43:28"
+        },
+        {
+            "song_name": "ay! (feat. Lil Wayne)",
+            "artists": [
+                "mgk",
+                "Lil Wayne"
+            ],
+            "album": "mainstream sellout",
+            "played_at": "16/02/2025 - 10:40:31"
+        },
+        {
+            "song_name": "Objects in the Mirror",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off",
+            "played_at": "16/02/2025 - 09:28:09"
+        },
+        {
+            "song_name": "Coming for You (feat. A1 x J1)",
+            "artists": [
+                "SwitchOTR",
+                "A1 x J1"
+            ],
+            "album": "Coming for You (feat. A1 x J1)",
+            "played_at": "15/02/2025 - 19:59:28"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "15/02/2025 - 19:56:29"
+        },
+        {
+            "song_name": "Drankin N Smokin",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto",
+            "played_at": "15/02/2025 - 19:52:16"
+        },
+        {
+            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
+            "artists": [
+                "$NOT",
+                "Maggie Lindemann"
+            ],
+            "album": "- TRAGEDY +",
+            "played_at": "15/02/2025 - 19:48:42"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "15/02/2025 - 19:45:34"
+        },
+        {
+            "song_name": "Outside (Better Days)",
+            "artists": [
+                "Blueface",
+                "OG Bobby Billions"
+            ],
+            "album": "Outside (Better Days)",
+            "played_at": "15/02/2025 - 19:40:19"
+        },
+        {
+            "song_name": "Too Fast",
+            "artists": [
+                "Sonder"
+            ],
+            "album": "Into",
+            "played_at": "15/02/2025 - 19:35:40"
+        },
+        {
+            "song_name": "prada dem (feat. Offset)",
+            "artists": [
+                "Gunna",
+                "Offset"
+            ],
+            "album": "One of Wun",
+            "played_at": "15/02/2025 - 19:30:44"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 19:27:51"
+        },
+        {
+            "song_name": "Rush Hour",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "15/02/2025 - 19:23:50"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "15/02/2025 - 16:10:11"
+        },
+        {
+            "song_name": "Sanguine Paradise",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Sanguine Paradise",
+            "played_at": "15/02/2025 - 15:55:17"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "15/02/2025 - 15:50:49"
+        },
+        {
+            "song_name": "Potato Salad",
+            "artists": [
+                "Tyler, The Creator",
+                "A$AP Rocky"
+            ],
+            "album": "Potato Salad",
+            "played_at": "15/02/2025 - 15:27:14"
+        },
+        {
+            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+            "artists": [
+                "J. Cole",
+                "Lil Baby"
+            ],
+            "album": "The Off-Season",
+            "played_at": "15/02/2025 - 15:24:12"
+        },
+        {
+            "song_name": "Already Best Friends (feat. Chris Brown)",
+            "artists": [
+                "Jack Harlow",
+                "Chris Brown"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "15/02/2025 - 15:20:33"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "15/02/2025 - 15:17:15"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "played_at": "15/02/2025 - 15:12:34"
+        },
+        {
+            "song_name": "Believe Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake"
+            ],
+            "album": "Believe Me",
+            "played_at": "15/02/2025 - 15:10:05"
+        },
+        {
+            "song_name": "True Love",
+            "artists": [
+                "Kanye West",
+                "XXXTENTACION"
+            ],
+            "album": "True Love",
+            "played_at": "15/02/2025 - 15:04:27"
+        },
+        {
+            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
+            "artists": [
+                "Quavo",
+                "Takeoff",
+                "YoungBoy Never Broke Again"
+            ],
+            "album": "Only Built For Infinity Links",
+            "played_at": "15/02/2025 - 15:01:11"
+        },
+        {
+            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artists": [
+                "Drake",
+                "Lil Durk"
+            ],
+            "album": "Laugh Now Cry Later (feat. Lil Durk)",
+            "played_at": "15/02/2025 - 14:56:27"
+        },
+        {
+            "song_name": "Who Needs Love",
+            "artists": [
+                "Trippie Redd"
+            ],
+            "album": "A Love Letter To You 4",
+            "played_at": "16/02/2025 - 11:57:59"
+        },
+        {
+            "song_name": "Overdose",
+            "artists": [
+                "Two Friends",
+                "Exit Friendzone",
+                "Nat Dunn"
+            ],
+            "album": "Overdose",
+            "played_at": "16/02/2025 - 11:55:20"
+        },
+        {
+            "song_name": "Ladbroke Grove",
+            "artists": [
+                "AJ Tracey"
+            ],
+            "album": "AJ Tracey",
+            "played_at": "16/02/2025 - 11:51:31"
+        },
+        {
+            "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "Wizkid"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "16/02/2025 - 11:48:20"
+        },
+        {
+            "song_name": "Sleepin With You",
+            "artists": [
+                "SADFACETHUGGIN",
+                "TOKINPOTENT"
+            ],
+            "album": "Emotionless - Sadface II",
+            "played_at": "16/02/2025 - 11:44:29"
+        },
+        {
+            "song_name": "Late October",
+            "artists": [
+                "Young Dinero Banks"
+            ],
+            "album": "Late October",
+            "played_at": "16/02/2025 - 11:41:38"
+        },
+        {
+            "song_name": "ESCAPE PLAN",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "16/02/2025 - 11:39:04"
+        },
+        {
+            "song_name": "Watch My Back",
+            "artists": [
+                "KAZEY J"
+            ],
+            "album": "Watch My Back",
+            "played_at": "16/02/2025 - 11:36:34"
+        },
+        {
+            "song_name": "Pause Play",
+            "artists": [
+                "Preme"
+            ],
+            "album": "Pause Play",
+            "played_at": "16/02/2025 - 11:33:54"
+        },
+        {
+            "song_name": "Jimmy Cooks (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "16/02/2025 - 11:31:09"
+        },
+        {
+            "song_name": "Outside",
+            "artists": [
+                "Kota the Friend"
+            ],
+            "album": "Outside",
+            "played_at": "16/02/2025 - 11:27:30"
+        },
+        {
+            "song_name": "Red Light",
+            "artists": [
+                "Elijah the Boy"
+            ],
+            "album": "Red Light",
+            "played_at": "16/02/2025 - 11:24:06"
+        },
+        {
+            "song_name": "PUFFIN ON ZOOTIEZ",
+            "artists": [
+                "Future"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "16/02/2025 - 11:21:44"
+        },
+        {
+            "song_name": "Don't Think About It (Too Much)",
+            "artists": [
+                "Druzu"
+            ],
+            "album": "Don't Think About It (Too Much)",
+            "played_at": "16/02/2025 - 11:18:50"
+        },
+        {
+            "song_name": "Wildflower",
+            "artists": [
+                "MDMA"
+            ],
+            "album": "Peak Of Molly",
+            "played_at": "16/02/2025 - 11:15:13"
+        },
+        {
+            "song_name": "Had Enough (feat. Quavo & Offset)",
+            "artists": [
+                "Don Toliver",
+                "Offset",
+                "Quavo"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "16/02/2025 - 11:12:42"
+        },
+        {
+            "song_name": "Anxious",
+            "artists": [
+                "AJ Tracey"
+            ],
+            "album": "Flu Game",
+            "played_at": "16/02/2025 - 11:10:04"
+        },
+        {
+            "song_name": "Calabasas",
+            "artists": [
+                "Skizzy Mars"
+            ],
+            "album": "Free Skizzy Mars",
+            "played_at": "16/02/2025 - 11:07:23"
+        },
+        {
+            "song_name": "P power (feat. Drake)",
+            "artists": [
+                "Gunna",
+                "Drake"
+            ],
+            "album": "DS4EVER",
+            "played_at": "16/02/2025 - 11:04:42"
+        },
+        {
+            "song_name": "Love (feat. Lil Uzi Vert)",
+            "artists": [
+                "Felix Snow",
+                "Lil Uzi Vert"
+            ],
+            "album": "Love (feat. Lil Uzi Vert)",
+            "played_at": "16/02/2025 - 11:01:29"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "16/02/2025 - 10:59:33"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "16/02/2025 - 10:55:43"
+        },
+        {
+            "song_name": "Mad World",
+            "artists": [
+                "Sickick"
+            ],
+            "album": "Mad World",
+            "played_at": "16/02/2025 - 10:50:51"
+        },
+        {
+            "song_name": "Rewind",
+            "artists": [
+                "YLA Howe"
+            ],
+            "album": "Rewind",
+            "played_at": "16/02/2025 - 10:47:41"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "16/02/2025 - 10:45:29"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "16/02/2025 - 10:43:28"
+        },
+        {
+            "song_name": "ay! (feat. Lil Wayne)",
+            "artists": [
+                "mgk",
+                "Lil Wayne"
+            ],
+            "album": "mainstream sellout",
+            "played_at": "16/02/2025 - 10:40:31"
+        },
+        {
+            "song_name": "Objects in the Mirror",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off",
+            "played_at": "16/02/2025 - 09:28:09"
+        },
+        {
+            "song_name": "Coming for You (feat. A1 x J1)",
+            "artists": [
+                "SwitchOTR",
+                "A1 x J1"
+            ],
+            "album": "Coming for You (feat. A1 x J1)",
+            "played_at": "15/02/2025 - 19:59:28"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "15/02/2025 - 19:56:29"
+        },
+        {
+            "song_name": "Drankin N Smokin",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto",
+            "played_at": "15/02/2025 - 19:52:16"
+        },
+        {
+            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
+            "artists": [
+                "$NOT",
+                "Maggie Lindemann"
+            ],
+            "album": "- TRAGEDY +",
+            "played_at": "15/02/2025 - 19:48:42"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "15/02/2025 - 19:45:34"
+        },
+        {
+            "song_name": "Outside (Better Days)",
+            "artists": [
+                "Blueface",
+                "OG Bobby Billions"
+            ],
+            "album": "Outside (Better Days)",
+            "played_at": "15/02/2025 - 19:40:19"
+        },
+        {
+            "song_name": "Too Fast",
+            "artists": [
+                "Sonder"
+            ],
+            "album": "Into",
+            "played_at": "15/02/2025 - 19:35:40"
+        },
+        {
+            "song_name": "prada dem (feat. Offset)",
+            "artists": [
+                "Gunna",
+                "Offset"
+            ],
+            "album": "One of Wun",
+            "played_at": "15/02/2025 - 19:30:44"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 19:27:51"
+        },
+        {
+            "song_name": "Rush Hour",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "15/02/2025 - 19:23:50"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "15/02/2025 - 16:10:11"
+        },
+        {
+            "song_name": "Sanguine Paradise",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Sanguine Paradise",
+            "played_at": "15/02/2025 - 15:55:17"
+        },
+        {
+            "song_name": "THE REV3NGE",
+            "artists": [
+                "Joey Bada$$"
+            ],
+            "album": "THE REV3NGE",
+            "played_at": "15/02/2025 - 15:50:49"
+        },
+        {
+            "song_name": "Potato Salad",
+            "artists": [
+                "Tyler, The Creator",
+                "A$AP Rocky"
+            ],
+            "album": "Potato Salad",
+            "played_at": "15/02/2025 - 15:27:14"
+        },
+        {
+            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+            "artists": [
+                "J. Cole",
+                "Lil Baby"
+            ],
+            "album": "The Off-Season",
+            "played_at": "15/02/2025 - 15:24:12"
+        },
+        {
+            "song_name": "Already Best Friends (feat. Chris Brown)",
+            "artists": [
+                "Jack Harlow",
+                "Chris Brown"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "15/02/2025 - 15:20:33"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "15/02/2025 - 15:17:15"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "OneRepublic"
+            ],
+            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+            "played_at": "15/02/2025 - 15:12:34"
+        },
+        {
+            "song_name": "Believe Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake"
+            ],
+            "album": "Believe Me",
+            "played_at": "15/02/2025 - 15:10:05"
+        },
+        {
+            "song_name": "True Love",
+            "artists": [
+                "Kanye West",
+                "XXXTENTACION"
+            ],
+            "album": "True Love",
+            "played_at": "15/02/2025 - 15:04:27"
+        },
+        {
+            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
+            "artists": [
+                "Quavo",
+                "Takeoff",
+                "YoungBoy Never Broke Again"
+            ],
+            "album": "Only Built For Infinity Links",
+            "played_at": "15/02/2025 - 15:01:11"
+        },
+        {
+            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artists": [
+                "Drake",
+                "Lil Durk"
+            ],
+            "album": "Laugh Now Cry Later (feat. Lil Durk)",
+            "played_at": "15/02/2025 - 14:56:27"
+        },
+        {
+            "song_name": "The Night We Met",
+            "artists": [
+                "Lord Huron"
+            ],
+            "album": "The Night We Met",
+            "played_at": "16/02/2025 - 12:58:56"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2 (Deluxe)",
+            "played_at": "16/02/2025 - 12:55:27"
+        },
+        {
+            "song_name": "Sucka Or Sum",
+            "artists": [
+                "Rae Sremmurd"
+            ],
+            "album": "Sucka Or Sum",
+            "played_at": "16/02/2025 - 12:51:33"
+        },
+        {
+            "song_name": "Used To You",
+            "artists": [
+                "Madism",
+                "Brendan Mills",
+                "Philip Strand"
+            ],
+            "album": "Used To You",
+            "played_at": "16/02/2025 - 12:48:24"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "16/02/2025 - 12:45:31"
+        },
+        {
+            "song_name": "Daily Duppy (feat. GRM Daily)",
+            "artists": [
+                "Central Cee",
+                "GRM Daily"
+            ],
+            "album": "Daily Duppy (feat. GRM Daily)",
+            "played_at": "16/02/2025 - 12:44:03"
+        },
+        {
+            "song_name": "Healing",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "DIAMANTE",
+            "played_at": "16/02/2025 - 12:39:24"
+        },
+        {
+            "song_name": "All Me",
+            "artists": [
+                "Drake",
+                "2 Chainz",
+                "Big Sean"
+            ],
+            "album": "Nothing Was The Same (Deluxe)",
+            "played_at": "16/02/2025 - 12:34:30"
+        },
+        {
+            "song_name": "Canal St. (feat. Bones)",
+            "artists": [
+                "A$AP Rocky",
+                "BONES"
+            ],
+            "album": "AT.LONG.LAST.A$AP",
+            "played_at": "16/02/2025 - 12:29:58"
+        },
+        {
+            "song_name": "Floor İt",
+            "artists": [
+                "Undebah404"
+            ],
+            "album": "Floor İt",
+            "played_at": "16/02/2025 - 12:25:44"
+        },
+        {
+            "song_name": "Way Of Life",
+            "artists": [
+                "Oren Major",
+                "Mama Only Son"
+            ],
+            "album": "Way Of Life",
+            "played_at": "16/02/2025 - 12:22:06"
+        },
+        {
+            "song_name": "10 Freaky Girls (with 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "21 Savage"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "16/02/2025 - 12:18:44"
+        },
+        {
+            "song_name": "NUMBER 2",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "PLAN A",
+            "played_at": "16/02/2025 - 12:15:15"
+        },
+        {
+            "song_name": "High",
+            "artists": [
+                "The Chainsmokers"
+            ],
+            "album": "So Far So Good",
+            "played_at": "16/02/2025 - 12:12:57"
+        },
+        {
+            "song_name": "Retro Feelings",
+            "artists": [
+                "Bby Yoshando"
+            ],
+            "album": "Retro Feelings",
+            "played_at": "16/02/2025 - 12:10:01"
+        },
+        {
+            "song_name": "Hurricane",
             "artists": [
                 "Kanye West"
             ],
-            "album": "808s & Heartbreak",
-            "played_at": "15/02/2025 - 11:35:02"
+            "album": "Donda",
+            "played_at": "16/02/2025 - 12:07:27"
         },
         {
-            "song_name": "Spin Bout U",
+            "song_name": "Stronger",
             "artists": [
-                "Drake",
-                "21 Savage"
+                "SAM LEX"
             ],
-            "album": "Her Loss",
-            "played_at": "15/02/2025 - 11:31:31"
+            "album": "Stronger",
+            "played_at": "16/02/2025 - 12:03:24"
         },
         {
-            "song_name": "Lioness - Francis Mercier Remix",
+            "song_name": "Keep Goin",
             "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove",
-                "Francis Mercier"
+                "2FeetBino"
             ],
-            "album": "Lioness (Francis Mercier Remix)",
-            "played_at": "15/02/2025 - 10:36:38"
-        },
-        {
-            "song_name": "Right Here Right Now",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "Right Here Right Now",
-            "played_at": "15/02/2025 - 09:29:02"
-        },
-        {
-            "song_name": "Before the Sun Sets",
-            "artists": [
-                "Nimus",
-                "RED"
-            ],
-            "album": "Before the Sun Sets",
-            "played_at": "15/02/2025 - 09:26:32"
-        },
-        {
-            "song_name": "Alone Together",
-            "artists": [
-                "Astrality",
-                "Georgia Blackwell"
-            ],
-            "album": "Alone Together",
-            "played_at": "15/02/2025 - 09:24:31"
-        },
-        {
-            "song_name": "Like a Mystery",
-            "artists": [
-                "Eneko Artola"
-            ],
-            "album": "Like a Mystery",
-            "played_at": "15/02/2025 - 09:21:11"
-        },
-        {
-            "song_name": "Disappear",
-            "artists": [
-                "THEMBA",
-                "Nico de Andrea",
-                "Tasan"
-            ],
-            "album": "Disappear",
-            "played_at": "15/02/2025 - 09:18:53"
-        },
-        {
-            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "artists": [
-                "JID",
-                "21 Savage",
-                "Baby Tate"
-            ],
-            "album": "The Forever Story (Extended Version)",
-            "played_at": "16/02/2025 - 10:59:33"
-        },
-        {
-            "song_name": "Fair Trade (with Travis Scott)",
-            "artists": [
-                "Drake",
-                "Travis Scott"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "16/02/2025 - 10:55:43"
-        },
-        {
-            "song_name": "Mad World",
-            "artists": [
-                "Sickick"
-            ],
-            "album": "Mad World",
-            "played_at": "16/02/2025 - 10:50:51"
-        },
-        {
-            "song_name": "Rewind",
-            "artists": [
-                "YLA Howe"
-            ],
-            "album": "Rewind",
-            "played_at": "16/02/2025 - 10:47:41"
-        },
-        {
-            "song_name": "Down With Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC (Bonus)",
-            "played_at": "16/02/2025 - 10:45:29"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "16/02/2025 - 10:43:28"
-        },
-        {
-            "song_name": "ay! (feat. Lil Wayne)",
-            "artists": [
-                "mgk",
-                "Lil Wayne"
-            ],
-            "album": "mainstream sellout",
-            "played_at": "16/02/2025 - 10:40:31"
-        },
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "16/02/2025 - 09:28:09"
-        },
-        {
-            "song_name": "Coming for You (feat. A1 x J1)",
-            "artists": [
-                "SwitchOTR",
-                "A1 x J1"
-            ],
-            "album": "Coming for You (feat. A1 x J1)",
-            "played_at": "15/02/2025 - 19:59:28"
-        },
-        {
-            "song_name": "Fantasy (feat. Don Toliver)",
-            "artists": [
-                "Kali Uchis",
-                "Don Toliver"
-            ],
-            "album": "Red Moon In Venus",
-            "played_at": "15/02/2025 - 19:56:29"
-        },
-        {
-            "song_name": "Drankin N Smokin",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto",
-            "played_at": "15/02/2025 - 19:52:16"
-        },
-        {
-            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
-            "artists": [
-                "$NOT",
-                "Maggie Lindemann"
-            ],
-            "album": "- TRAGEDY +",
-            "played_at": "15/02/2025 - 19:48:42"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "15/02/2025 - 19:45:34"
-        },
-        {
-            "song_name": "Outside (Better Days)",
-            "artists": [
-                "Blueface",
-                "OG Bobby Billions"
-            ],
-            "album": "Outside (Better Days)",
-            "played_at": "15/02/2025 - 19:40:19"
-        },
-        {
-            "song_name": "Too Fast",
-            "artists": [
-                "Sonder"
-            ],
-            "album": "Into",
-            "played_at": "15/02/2025 - 19:35:40"
-        },
-        {
-            "song_name": "prada dem (feat. Offset)",
-            "artists": [
-                "Gunna",
-                "Offset"
-            ],
-            "album": "One of Wun",
-            "played_at": "15/02/2025 - 19:30:44"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "15/02/2025 - 19:27:51"
-        },
-        {
-            "song_name": "Rush Hour",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "15/02/2025 - 19:23:50"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "15/02/2025 - 16:10:11"
-        },
-        {
-            "song_name": "Sanguine Paradise",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Sanguine Paradise",
-            "played_at": "15/02/2025 - 15:55:17"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "15/02/2025 - 15:50:49"
-        },
-        {
-            "song_name": "Potato Salad",
-            "artists": [
-                "Tyler, The Creator",
-                "A$AP Rocky"
-            ],
-            "album": "Potato Salad",
-            "played_at": "15/02/2025 - 15:27:14"
-        },
-        {
-            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-            "artists": [
-                "J. Cole",
-                "Lil Baby"
-            ],
-            "album": "The Off-Season",
-            "played_at": "15/02/2025 - 15:24:12"
-        },
-        {
-            "song_name": "Already Best Friends (feat. Chris Brown)",
-            "artists": [
-                "Jack Harlow",
-                "Chris Brown"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "15/02/2025 - 15:20:33"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "15/02/2025 - 15:17:15"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-            "played_at": "15/02/2025 - 15:12:34"
-        },
-        {
-            "song_name": "Believe Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake"
-            ],
-            "album": "Believe Me",
-            "played_at": "15/02/2025 - 15:10:05"
-        },
-        {
-            "song_name": "True Love",
-            "artists": [
-                "Kanye West",
-                "XXXTENTACION"
-            ],
-            "album": "True Love",
-            "played_at": "15/02/2025 - 15:04:27"
-        },
-        {
-            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
-            "artists": [
-                "Quavo",
-                "Takeoff",
-                "YoungBoy Never Broke Again"
-            ],
-            "album": "Only Built For Infinity Links",
-            "played_at": "15/02/2025 - 15:01:11"
-        },
-        {
-            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
-            "artists": [
-                "Drake",
-                "Lil Durk"
-            ],
-            "album": "Laugh Now Cry Later (feat. Lil Durk)",
-            "played_at": "15/02/2025 - 14:56:27"
-        },
-        {
-            "song_name": "Cinderella (feat. Toro y Moi)",
-            "artists": [
-                "Don Toliver",
-                "Toro y Moi"
-            ],
-            "album": "Love Sick",
-            "played_at": "15/02/2025 - 14:52:05"
-        },
-        {
-            "song_name": "Hell N Back",
-            "artists": [
-                "Bakar"
-            ],
-            "album": "Hell N Back (Sped Up)",
-            "played_at": "15/02/2025 - 14:48:18"
-        },
-        {
-            "song_name": "Nail Tech",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Nail Tech",
-            "played_at": "15/02/2025 - 14:44:44"
-        },
-        {
-            "song_name": "MIDDLE CHILD",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "MIDDLE CHILD",
-            "played_at": "15/02/2025 - 14:41:17"
-        },
-        {
-            "song_name": "Marea (we’ve lost dancing)",
-            "artists": [
-                "Fred again..",
-                "The Blessed Madonna"
-            ],
-            "album": "Actual Life (April 14 - December 17 2020)",
-            "played_at": "15/02/2025 - 14:37:44"
-        },
-        {
-            "song_name": "Drop Top",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "UNI",
-            "played_at": "15/02/2025 - 12:23:33"
-        },
-        {
-            "song_name": "TR666 (feat. Swae Lee)",
-            "artists": [
-                "Trippie Redd",
-                "Swae Lee"
-            ],
-            "album": "Pegasus",
-            "played_at": "15/02/2025 - 12:20:51"
-        },
-        {
-            "song_name": "late at night",
-            "artists": [
-                "Roddy Ricch"
-            ],
-            "album": "LIVE LIFE FAST",
-            "played_at": "15/02/2025 - 12:17:20"
-        },
-        {
-            "song_name": "Livin It Up (with Post Malone & A$AP Rocky)",
-            "artists": [
-                "Young Thug",
-                "A$AP Rocky",
-                "Post Malone"
-            ],
-            "album": "Punk",
-            "played_at": "15/02/2025 - 12:14:25"
-        },
-        {
-            "song_name": "MELTDOWN (feat. Drake)",
-            "artists": [
-                "Travis Scott",
-                "Drake"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/02/2025 - 12:08:13"
-        },
-        {
-            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Jack Harlow",
-                "Dave"
-            ],
-            "album": "Stop Giving Me Advice",
-            "played_at": "15/02/2025 - 12:04:06"
-        },
-        {
-            "song_name": "Company Pt. 3",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "15/02/2025 - 12:00:04"
-        },
-        {
-            "song_name": "Lovin On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Lovin On Me",
-            "played_at": "15/02/2025 - 11:57:02"
-        },
-        {
-            "song_name": "Love Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "15/02/2025 - 11:54:43"
-        },
-        {
-            "song_name": "Pull Up",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "15/02/2025 - 11:52:46"
-        },
-        {
-            "song_name": "ORANGE SODA",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "15/02/2025 - 11:49:42"
-        },
-        {
-            "song_name": "infinity (888) - feat. Joey Bada$$",
-            "artists": [
-                "XXXTENTACION",
-                "Joey Bada$$"
-            ],
-            "album": "?",
-            "played_at": "15/02/2025 - 11:47:31"
-        },
-        {
-            "song_name": "Speak",
-            "artists": [
-                "Internet Money",
-                "The Kid LAROI"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "15/02/2025 - 11:44:34"
-        },
-        {
-            "song_name": "Headlines",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Headlines",
-            "played_at": "15/02/2025 - 11:42:31"
-        },
-        {
-            "song_name": "I KNOW ?",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "UTOPIA",
-            "played_at": "15/02/2025 - 11:38:34"
+            "album": "A Story Never Told",
+            "played_at": "16/02/2025 - 12:00:33"
         },
         {
             "song_name": "Who Needs Love",
@@ -1139,593 +1721,6 @@
             ],
             "album": "- TRAGEDY +",
             "played_at": "15/02/2025 - 19:48:42"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "15/02/2025 - 19:45:34"
-        },
-        {
-            "song_name": "Outside (Better Days)",
-            "artists": [
-                "Blueface",
-                "OG Bobby Billions"
-            ],
-            "album": "Outside (Better Days)",
-            "played_at": "15/02/2025 - 19:40:19"
-        },
-        {
-            "song_name": "Too Fast",
-            "artists": [
-                "Sonder"
-            ],
-            "album": "Into",
-            "played_at": "15/02/2025 - 19:35:40"
-        },
-        {
-            "song_name": "prada dem (feat. Offset)",
-            "artists": [
-                "Gunna",
-                "Offset"
-            ],
-            "album": "One of Wun",
-            "played_at": "15/02/2025 - 19:30:44"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "15/02/2025 - 19:27:51"
-        },
-        {
-            "song_name": "Rush Hour",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "15/02/2025 - 19:23:50"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "15/02/2025 - 16:10:11"
-        },
-        {
-            "song_name": "Sanguine Paradise",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Sanguine Paradise",
-            "played_at": "15/02/2025 - 15:55:17"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "15/02/2025 - 15:50:49"
-        },
-        {
-            "song_name": "Potato Salad",
-            "artists": [
-                "Tyler, The Creator",
-                "A$AP Rocky"
-            ],
-            "album": "Potato Salad",
-            "played_at": "15/02/2025 - 15:27:14"
-        },
-        {
-            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-            "artists": [
-                "J. Cole",
-                "Lil Baby"
-            ],
-            "album": "The Off-Season",
-            "played_at": "15/02/2025 - 15:24:12"
-        },
-        {
-            "song_name": "Already Best Friends (feat. Chris Brown)",
-            "artists": [
-                "Jack Harlow",
-                "Chris Brown"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "15/02/2025 - 15:20:33"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "15/02/2025 - 15:17:15"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-            "played_at": "15/02/2025 - 15:12:34"
-        },
-        {
-            "song_name": "Believe Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake"
-            ],
-            "album": "Believe Me",
-            "played_at": "15/02/2025 - 15:10:05"
-        },
-        {
-            "song_name": "True Love",
-            "artists": [
-                "Kanye West",
-                "XXXTENTACION"
-            ],
-            "album": "True Love",
-            "played_at": "15/02/2025 - 15:04:27"
-        },
-        {
-            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
-            "artists": [
-                "Quavo",
-                "Takeoff",
-                "YoungBoy Never Broke Again"
-            ],
-            "album": "Only Built For Infinity Links",
-            "played_at": "15/02/2025 - 15:01:11"
-        },
-        {
-            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
-            "artists": [
-                "Drake",
-                "Lil Durk"
-            ],
-            "album": "Laugh Now Cry Later (feat. Lil Durk)",
-            "played_at": "15/02/2025 - 14:56:27"
-        },
-        {
-            "song_name": "Who Needs Love",
-            "artists": [
-                "Trippie Redd"
-            ],
-            "album": "A Love Letter To You 4",
-            "played_at": "16/02/2025 - 11:57:59"
-        },
-        {
-            "song_name": "Overdose",
-            "artists": [
-                "Two Friends",
-                "Exit Friendzone",
-                "Nat Dunn"
-            ],
-            "album": "Overdose",
-            "played_at": "16/02/2025 - 11:55:20"
-        },
-        {
-            "song_name": "Ladbroke Grove",
-            "artists": [
-                "AJ Tracey"
-            ],
-            "album": "AJ Tracey",
-            "played_at": "16/02/2025 - 11:51:31"
-        },
-        {
-            "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "Wizkid"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "16/02/2025 - 11:48:20"
-        },
-        {
-            "song_name": "Sleepin With You",
-            "artists": [
-                "SADFACETHUGGIN",
-                "TOKINPOTENT"
-            ],
-            "album": "Emotionless - Sadface II",
-            "played_at": "16/02/2025 - 11:44:29"
-        },
-        {
-            "song_name": "Late October",
-            "artists": [
-                "Young Dinero Banks"
-            ],
-            "album": "Late October",
-            "played_at": "16/02/2025 - 11:41:38"
-        },
-        {
-            "song_name": "ESCAPE PLAN",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ESCAPE PLAN / MAFIA",
-            "played_at": "16/02/2025 - 11:39:04"
-        },
-        {
-            "song_name": "Watch My Back",
-            "artists": [
-                "KAZEY J"
-            ],
-            "album": "Watch My Back",
-            "played_at": "16/02/2025 - 11:36:34"
-        },
-        {
-            "song_name": "Pause Play",
-            "artists": [
-                "Preme"
-            ],
-            "album": "Pause Play",
-            "played_at": "16/02/2025 - 11:33:54"
-        },
-        {
-            "song_name": "Jimmy Cooks (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "16/02/2025 - 11:31:09"
-        },
-        {
-            "song_name": "Outside",
-            "artists": [
-                "Kota the Friend"
-            ],
-            "album": "Outside",
-            "played_at": "16/02/2025 - 11:27:30"
-        },
-        {
-            "song_name": "Red Light",
-            "artists": [
-                "Elijah the Boy"
-            ],
-            "album": "Red Light",
-            "played_at": "16/02/2025 - 11:24:06"
-        },
-        {
-            "song_name": "PUFFIN ON ZOOTIEZ",
-            "artists": [
-                "Future"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "16/02/2025 - 11:21:44"
-        },
-        {
-            "song_name": "Don't Think About It (Too Much)",
-            "artists": [
-                "Druzu"
-            ],
-            "album": "Don't Think About It (Too Much)",
-            "played_at": "16/02/2025 - 11:18:50"
-        },
-        {
-            "song_name": "Wildflower",
-            "artists": [
-                "MDMA"
-            ],
-            "album": "Peak Of Molly",
-            "played_at": "16/02/2025 - 11:15:13"
-        },
-        {
-            "song_name": "Had Enough (feat. Quavo & Offset)",
-            "artists": [
-                "Don Toliver",
-                "Offset",
-                "Quavo"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "16/02/2025 - 11:12:42"
-        },
-        {
-            "song_name": "Anxious",
-            "artists": [
-                "AJ Tracey"
-            ],
-            "album": "Flu Game",
-            "played_at": "16/02/2025 - 11:10:04"
-        },
-        {
-            "song_name": "Calabasas",
-            "artists": [
-                "Skizzy Mars"
-            ],
-            "album": "Free Skizzy Mars",
-            "played_at": "16/02/2025 - 11:07:23"
-        },
-        {
-            "song_name": "P power (feat. Drake)",
-            "artists": [
-                "Gunna",
-                "Drake"
-            ],
-            "album": "DS4EVER",
-            "played_at": "16/02/2025 - 11:04:42"
-        },
-        {
-            "song_name": "Love (feat. Lil Uzi Vert)",
-            "artists": [
-                "Felix Snow",
-                "Lil Uzi Vert"
-            ],
-            "album": "Love (feat. Lil Uzi Vert)",
-            "played_at": "16/02/2025 - 11:01:29"
-        },
-        {
-            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "artists": [
-                "JID",
-                "21 Savage",
-                "Baby Tate"
-            ],
-            "album": "The Forever Story (Extended Version)",
-            "played_at": "16/02/2025 - 10:59:33"
-        },
-        {
-            "song_name": "Fair Trade (with Travis Scott)",
-            "artists": [
-                "Drake",
-                "Travis Scott"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "16/02/2025 - 10:55:43"
-        },
-        {
-            "song_name": "Mad World",
-            "artists": [
-                "Sickick"
-            ],
-            "album": "Mad World",
-            "played_at": "16/02/2025 - 10:50:51"
-        },
-        {
-            "song_name": "Rewind",
-            "artists": [
-                "YLA Howe"
-            ],
-            "album": "Rewind",
-            "played_at": "16/02/2025 - 10:47:41"
-        },
-        {
-            "song_name": "Down With Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC (Bonus)",
-            "played_at": "16/02/2025 - 10:45:29"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "16/02/2025 - 10:43:28"
-        },
-        {
-            "song_name": "ay! (feat. Lil Wayne)",
-            "artists": [
-                "mgk",
-                "Lil Wayne"
-            ],
-            "album": "mainstream sellout",
-            "played_at": "16/02/2025 - 10:40:31"
-        },
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "16/02/2025 - 09:28:09"
-        },
-        {
-            "song_name": "Coming for You (feat. A1 x J1)",
-            "artists": [
-                "SwitchOTR",
-                "A1 x J1"
-            ],
-            "album": "Coming for You (feat. A1 x J1)",
-            "played_at": "15/02/2025 - 19:59:28"
-        },
-        {
-            "song_name": "Fantasy (feat. Don Toliver)",
-            "artists": [
-                "Kali Uchis",
-                "Don Toliver"
-            ],
-            "album": "Red Moon In Venus",
-            "played_at": "15/02/2025 - 19:56:29"
-        },
-        {
-            "song_name": "Drankin N Smokin",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto",
-            "played_at": "15/02/2025 - 19:52:16"
-        },
-        {
-            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
-            "artists": [
-                "$NOT",
-                "Maggie Lindemann"
-            ],
-            "album": "- TRAGEDY +",
-            "played_at": "15/02/2025 - 19:48:42"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "15/02/2025 - 19:45:34"
-        },
-        {
-            "song_name": "Outside (Better Days)",
-            "artists": [
-                "Blueface",
-                "OG Bobby Billions"
-            ],
-            "album": "Outside (Better Days)",
-            "played_at": "15/02/2025 - 19:40:19"
-        },
-        {
-            "song_name": "Too Fast",
-            "artists": [
-                "Sonder"
-            ],
-            "album": "Into",
-            "played_at": "15/02/2025 - 19:35:40"
-        },
-        {
-            "song_name": "prada dem (feat. Offset)",
-            "artists": [
-                "Gunna",
-                "Offset"
-            ],
-            "album": "One of Wun",
-            "played_at": "15/02/2025 - 19:30:44"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "15/02/2025 - 19:27:51"
-        },
-        {
-            "song_name": "Rush Hour",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "15/02/2025 - 19:23:50"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "15/02/2025 - 16:10:11"
-        },
-        {
-            "song_name": "Sanguine Paradise",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Sanguine Paradise",
-            "played_at": "15/02/2025 - 15:55:17"
-        },
-        {
-            "song_name": "THE REV3NGE",
-            "artists": [
-                "Joey Bada$$"
-            ],
-            "album": "THE REV3NGE",
-            "played_at": "15/02/2025 - 15:50:49"
-        },
-        {
-            "song_name": "Potato Salad",
-            "artists": [
-                "Tyler, The Creator",
-                "A$AP Rocky"
-            ],
-            "album": "Potato Salad",
-            "played_at": "15/02/2025 - 15:27:14"
-        },
-        {
-            "song_name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-            "artists": [
-                "J. Cole",
-                "Lil Baby"
-            ],
-            "album": "The Off-Season",
-            "played_at": "15/02/2025 - 15:24:12"
-        },
-        {
-            "song_name": "Already Best Friends (feat. Chris Brown)",
-            "artists": [
-                "Jack Harlow",
-                "Chris Brown"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "15/02/2025 - 15:20:33"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "15/02/2025 - 15:17:15"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-            "played_at": "15/02/2025 - 15:12:34"
-        },
-        {
-            "song_name": "Believe Me",
-            "artists": [
-                "Lil Wayne",
-                "Drake"
-            ],
-            "album": "Believe Me",
-            "played_at": "15/02/2025 - 15:10:05"
-        },
-        {
-            "song_name": "True Love",
-            "artists": [
-                "Kanye West",
-                "XXXTENTACION"
-            ],
-            "album": "True Love",
-            "played_at": "15/02/2025 - 15:04:27"
-        },
-        {
-            "song_name": "To The Bone (feat. YoungBoy Never Broke Again)",
-            "artists": [
-                "Quavo",
-                "Takeoff",
-                "YoungBoy Never Broke Again"
-            ],
-            "album": "Only Built For Infinity Links",
-            "played_at": "15/02/2025 - 15:01:11"
-        },
-        {
-            "song_name": "Laugh Now Cry Later (feat. Lil Durk)",
-            "artists": [
-                "Drake",
-                "Lil Durk"
-            ],
-            "album": "Laugh Now Cry Later (feat. Lil Durk)",
-            "played_at": "15/02/2025 - 14:56:27"
         }
     ]
 }
