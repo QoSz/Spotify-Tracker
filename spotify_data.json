@@ -2,6 +2,92 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Coming for You (feat. A1 x J1)",
+            "artists": [
+                "SwitchOTR",
+                "A1 x J1"
+            ],
+            "album": "Coming for You (feat. A1 x J1)",
+            "played_at": "15/02/2025 - 19:59:28"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "15/02/2025 - 19:56:29"
+        },
+        {
+            "song_name": "Drankin N Smokin",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto",
+            "played_at": "15/02/2025 - 19:52:16"
+        },
+        {
+            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
+            "artists": [
+                "$NOT",
+                "Maggie Lindemann"
+            ],
+            "album": "- TRAGEDY +",
+            "played_at": "15/02/2025 - 19:48:42"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "15/02/2025 - 19:45:34"
+        },
+        {
+            "song_name": "Outside (Better Days)",
+            "artists": [
+                "Blueface",
+                "OG Bobby Billions"
+            ],
+            "album": "Outside (Better Days)",
+            "played_at": "15/02/2025 - 19:40:19"
+        },
+        {
+            "song_name": "Too Fast",
+            "artists": [
+                "Sonder"
+            ],
+            "album": "Into",
+            "played_at": "15/02/2025 - 19:35:40"
+        },
+        {
+            "song_name": "prada dem (feat. Offset)",
+            "artists": [
+                "Gunna",
+                "Offset"
+            ],
+            "album": "One of Wun",
+            "played_at": "15/02/2025 - 19:30:44"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "15/02/2025 - 19:27:51"
+        },
+        {
+            "song_name": "Rush Hour",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "15/02/2025 - 19:23:50"
+        },
+        {
             "song_name": "The Way Life Goes (feat. Oh Wonder)",
             "artists": [
                 "Lil Uzi Vert",
@@ -347,96 +433,6 @@
             ],
             "album": "Disappear",
             "played_at": "15/02/2025 - 09:18:53"
-        },
-        {
-            "song_name": "Afraid To Feel",
-            "artists": [
-                "LF SYSTEM"
-            ],
-            "album": "Afraid To Feel",
-            "played_at": "15/02/2025 - 09:14:57"
-        },
-        {
-            "song_name": "Aural Therapy",
-            "artists": [
-                "fwd/slash"
-            ],
-            "album": "Aural Therapy",
-            "played_at": "15/02/2025 - 09:12:00"
-        },
-        {
-            "song_name": "Lost in You",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Lost in You",
-            "played_at": "15/02/2025 - 09:09:23"
-        },
-        {
-            "song_name": "Forever (feat. Malou & Yuna)",
-            "artists": [
-                "HUGEL",
-                "Diplo",
-                "Malou",
-                "Yuna"
-            ],
-            "album": "Forever (feat. Malou & Yuna)",
-            "played_at": "15/02/2025 - 09:06:22"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "15/02/2025 - 09:04:01"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "15/02/2025 - 09:01:54"
-        },
-        {
-            "song_name": "Like You Do",
-            "artists": [
-                "D.O.D",
-                "Raphaella"
-            ],
-            "album": "Like You Do",
-            "played_at": "15/02/2025 - 08:59:36"
-        },
-        {
-            "song_name": "You Got The Love",
-            "artists": [
-                "Deep Chills",
-                "Coral Reef",
-                "Bikini Bandits"
-            ],
-            "album": "You Got The Love",
-            "played_at": "15/02/2025 - 08:57:04"
-        },
-        {
-            "song_name": "God's Plan",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "14/02/2025 - 21:47:01"
-        },
-        {
-            "song_name": "Hours In Silence",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Her Loss",
-            "played_at": "14/02/2025 - 21:43:39"
         },
         {
             "song_name": "Coming for You (feat. A1 x J1)",
