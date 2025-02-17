@@ -2,6 +2,92 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "High Life",
+            "artists": [
+                "Moment in Time"
+            ],
+            "album": "High Life",
+            "played_at": "17/02/2025 - 12:24:14"
+        },
+        {
+            "song_name": "Close My Eyes",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Close My Eyes",
+            "played_at": "17/02/2025 - 12:21:51"
+        },
+        {
+            "song_name": "Worlds Away",
+            "artists": [
+                "Jane Good",
+                "Samuel Miller"
+            ],
+            "album": "Worlds Away",
+            "played_at": "17/02/2025 - 12:18:51"
+        },
+        {
+            "song_name": "Price",
+            "artists": [
+                "PALASTIC"
+            ],
+            "album": "Price",
+            "played_at": "17/02/2025 - 12:16:10"
+        },
+        {
+            "song_name": "Coasting",
+            "artists": [
+                "Piece Wise",
+                "De Rien"
+            ],
+            "album": "Coasting",
+            "played_at": "17/02/2025 - 12:13:36"
+        },
+        {
+            "song_name": "Lost in You",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Lost in You",
+            "played_at": "17/02/2025 - 12:10:20"
+        },
+        {
+            "song_name": "Feeling The Same",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Feeling The Same",
+            "played_at": "17/02/2025 - 12:07:18"
+        },
+        {
+            "song_name": "If You Wanna",
+            "artists": [
+                "Nu Aspect",
+                "Coach Harrison"
+            ],
+            "album": "If You Wanna",
+            "played_at": "17/02/2025 - 12:04:49"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "17/02/2025 - 12:02:09"
+        },
+        {
+            "song_name": "Satellite",
+            "artists": [
+                "Dizaro"
+            ],
+            "album": "Satellite",
+            "played_at": "17/02/2025 - 12:00:01"
+        },
+        {
             "song_name": "Through the Fire",
             "artists": [
                 "PALASTIC",
@@ -343,91 +429,6 @@
             ],
             "album": "Graduation",
             "played_at": "16/02/2025 - 16:28:06"
-        },
-        {
-            "song_name": "Can't Tell Me Nothing",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "16/02/2025 - 16:24:51"
-        },
-        {
-            "song_name": "The Way I Are",
-            "artists": [
-                "Timbaland",
-                "Keri Hilson",
-                "D.O.E."
-            ],
-            "album": "Shock Value",
-            "played_at": "16/02/2025 - 16:20:19"
-        },
-        {
-            "song_name": "Midnight City",
-            "artists": [
-                "M83"
-            ],
-            "album": "Hurry up, We're Dreaming",
-            "played_at": "16/02/2025 - 16:17:20"
-        },
-        {
-            "song_name": "Bible",
-            "artists": [
-                "Knucks",
-                "Youngs Teflon"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "16/02/2025 - 16:11:14"
-        },
-        {
-            "song_name": "Nice & Good",
-            "artists": [
-                "Knucks",
-                "SL"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "16/02/2025 - 16:07:57"
-        },
-        {
-            "song_name": "SKATE",
-            "artists": [
-                "Bawo"
-            ],
-            "album": "Surf That Well/SKATE",
-            "played_at": "16/02/2025 - 15:18:53"
-        },
-        {
-            "song_name": "hakuna matata",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "16/02/2025 - 15:17:13"
-        },
-        {
-            "song_name": "Council Housing",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "Get Home Safe (Deluxe)",
-            "played_at": "16/02/2025 - 15:14:10"
-        },
-        {
-            "song_name": "4am",
-            "artists": [
-                "JBEE"
-            ],
-            "album": "4am",
-            "played_at": "16/02/2025 - 15:09:21"
-        },
-        {
-            "song_name": "Yungen (feat. Jack Harlow)",
-            "artists": [
-                "Rod Wave",
-                "Jack Harlow"
-            ],
-            "album": "Beautiful Mind",
-            "played_at": "16/02/2025 - 15:06:07"
         },
         {
             "song_name": "High Life",
