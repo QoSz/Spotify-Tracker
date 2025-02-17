@@ -2,436 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "Waking Up to the Rain",
-            "artists": [
-                "Piano Peace"
-            ],
-            "album": "Piano in the Rain",
-            "played_at": "16/02/2025 - 17:56:49"
-        },
-        {
-            "song_name": "Sleep Meditation",
-            "artists": [
-                "Piano Peace"
-            ],
-            "album": "Piano Therapy: Spa & Sleep Healing",
-            "played_at": "16/02/2025 - 17:53:17"
-        },
-        {
-            "song_name": "Wellness",
-            "artists": [
-                "Piano Peace"
-            ],
-            "album": "Piano Therapy: Spa & Sleep Healing",
-            "played_at": "16/02/2025 - 17:49:42"
-        },
-        {
-            "song_name": "Wellness",
-            "artists": [
-                "Piano Peace"
-            ],
-            "album": "Piano Therapy: Spa & Sleep Healing",
-            "played_at": "16/02/2025 - 17:46:02"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "16/02/2025 - 17:44:39"
-        },
-        {
-            "song_name": "Day 'N' Nite (Nightmare)",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "16/02/2025 - 17:40:49"
-        },
-        {
-            "song_name": "Family Business",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "The College Dropout",
-            "played_at": "16/02/2025 - 17:37:08"
-        },
-        {
-            "song_name": "Dangerous",
-            "artists": [
-                "Kardinal Offishall",
-                "Akon"
-            ],
-            "album": "Not 4 Sale",
-            "played_at": "16/02/2025 - 17:32:29"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "16/02/2025 - 17:28:23"
-        },
-        {
-            "song_name": "Locked Up",
-            "artists": [
-                "Akon"
-            ],
-            "album": "Trouble Deluxe Edition",
-            "played_at": "16/02/2025 - 17:23:28"
-        },
-        {
-            "song_name": "Kiss Me Thru The Phone",
-            "artists": [
-                "Soulja Boy",
-                "Sammie"
-            ],
-            "album": "iSouljaBoyTellem",
-            "played_at": "16/02/2025 - 17:19:33"
-        },
-        {
-            "song_name": "All Falls Down",
-            "artists": [
-                "Kanye West",
-                "Syleena Johnson"
-            ],
-            "album": "The College Dropout",
-            "played_at": "16/02/2025 - 17:16:19"
-        },
-        {
-            "song_name": "Whatever You Like",
-            "artists": [
-                "T.I."
-            ],
-            "album": "Paper Trail",
-            "played_at": "16/02/2025 - 17:12:36"
-        },
-        {
-            "song_name": "Meet Me Halfway",
-            "artists": [
-                "Black Eyed Peas"
-            ],
-            "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-            "played_at": "16/02/2025 - 17:08:26"
-        },
-        {
-            "song_name": "If I Can't",
-            "artists": [
-                "50 Cent"
-            ],
-            "album": "Get Rich Or Die Tryin'",
-            "played_at": "16/02/2025 - 17:03:42"
-        },
-        {
-            "song_name": "Touch The Sky",
-            "artists": [
-                "Kanye West",
-                "Lupe Fiasco"
-            ],
-            "album": "Late Registration",
-            "played_at": "16/02/2025 - 17:00:25"
-        },
-        {
-            "song_name": "Through The Wire",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "The College Dropout",
-            "played_at": "16/02/2025 - 16:56:29"
-        },
-        {
-            "song_name": "Lollipop",
-            "artists": [
-                "Lil Wayne",
-                "Static Major"
-            ],
-            "album": "Tha Carter III",
-            "played_at": "16/02/2025 - 16:52:48"
-        },
-        {
-            "song_name": "Bulletproof",
-            "artists": [
-                "La Roux",
-                "GAMPER & DADONI"
-            ],
-            "album": "Bulletproof",
-            "played_at": "16/02/2025 - 16:47:48"
-        },
-        {
-            "song_name": "Right Now (Na Na Na)",
-            "artists": [
-                "Akon"
-            ],
-            "album": "Freedom",
-            "played_at": "16/02/2025 - 16:45:06"
-        },
-        {
-            "song_name": "Bartender (feat. Akon)",
-            "artists": [
-                "T-Pain",
-                "Akon"
-            ],
-            "album": "Epiphany (Expanded Edition)",
-            "played_at": "16/02/2025 - 16:41:05"
-        },
-        {
-            "song_name": "Young Forever",
-            "artists": [
-                "JAY-Z",
-                "Mr Hudson"
-            ],
-            "album": "The Blueprint 3",
-            "played_at": "16/02/2025 - 16:37:07"
-        },
-        {
-            "song_name": "Mrs. Officer",
-            "artists": [
-                "Lil Wayne",
-                "Bobby V.",
-                "Kidd Kidd"
-            ],
-            "album": "Tha Carter III",
-            "played_at": "16/02/2025 - 16:32:53"
-        },
-        {
-            "song_name": "Good Morning",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "16/02/2025 - 16:28:06"
-        },
-        {
-            "song_name": "Can't Tell Me Nothing",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "16/02/2025 - 16:24:51"
-        },
-        {
-            "song_name": "The Way I Are",
-            "artists": [
-                "Timbaland",
-                "Keri Hilson",
-                "D.O.E."
-            ],
-            "album": "Shock Value",
-            "played_at": "16/02/2025 - 16:20:19"
-        },
-        {
-            "song_name": "Midnight City",
-            "artists": [
-                "M83"
-            ],
-            "album": "Hurry up, We're Dreaming",
-            "played_at": "16/02/2025 - 16:17:20"
-        },
-        {
-            "song_name": "Bible",
-            "artists": [
-                "Knucks",
-                "Youngs Teflon"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "16/02/2025 - 16:11:14"
-        },
-        {
-            "song_name": "Nice & Good",
-            "artists": [
-                "Knucks",
-                "SL"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "16/02/2025 - 16:07:57"
-        },
-        {
-            "song_name": "SKATE",
-            "artists": [
-                "Bawo"
-            ],
-            "album": "Surf That Well/SKATE",
-            "played_at": "16/02/2025 - 15:18:53"
-        },
-        {
-            "song_name": "hakuna matata",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "16/02/2025 - 15:17:13"
-        },
-        {
-            "song_name": "Council Housing",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "Get Home Safe (Deluxe)",
-            "played_at": "16/02/2025 - 15:14:10"
-        },
-        {
-            "song_name": "4am",
-            "artists": [
-                "JBEE"
-            ],
-            "album": "4am",
-            "played_at": "16/02/2025 - 15:09:21"
-        },
-        {
-            "song_name": "Yungen (feat. Jack Harlow)",
-            "artists": [
-                "Rod Wave",
-                "Jack Harlow"
-            ],
-            "album": "Beautiful Mind",
-            "played_at": "16/02/2025 - 15:06:07"
-        },
-        {
-            "song_name": "Heavy (with Nigo)",
-            "artists": [
-                "Nigo",
-                "Lil Uzi Vert"
-            ],
-            "album": "I Know NIGO!",
-            "played_at": "16/02/2025 - 15:02:20"
-        },
-        {
-            "song_name": "Blueberry Faygo",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Certified Hitmaker",
-            "played_at": "16/02/2025 - 14:59:00"
-        },
-        {
-            "song_name": "10 Feet",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "16/02/2025 - 14:56:17"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Lose It All (I Don't Wanna)",
-            "played_at": "16/02/2025 - 14:52:44"
-        },
-        {
-            "song_name": "Money Trees",
-            "artists": [
-                "Kendrick Lamar",
-                "Jay Rock"
-            ],
-            "album": "good kid, m.A.A.d city",
-            "played_at": "16/02/2025 - 14:50:25"
-        },
-        {
-            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "artists": [
-                "A$AP Mob",
-                "A$AP Rocky",
-                "Playboi Carti",
-                "Quavo",
-                "Lil Uzi Vert",
-                "Frank Ocean"
-            ],
-            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-            "played_at": "16/02/2025 - 14:43:57"
-        },
-        {
-            "song_name": "Fell In Love",
-            "artists": [
-                "Marshmello",
-                "Brent Faiyaz"
-            ],
-            "album": "Fell In Love",
-            "played_at": "16/02/2025 - 14:39:41"
-        },
-        {
-            "song_name": "Some",
-            "artists": [
-                "Steve Lacy"
-            ],
-            "album": "Some",
-            "played_at": "16/02/2025 - 14:37:40"
-        },
-        {
-            "song_name": "Need 2",
-            "artists": [
-                "Pinegrove"
-            ],
-            "album": "Everything So Far",
-            "played_at": "16/02/2025 - 14:35:41"
-        },
-        {
-            "song_name": "Mary",
-            "artists": [
-                "Alex G"
-            ],
-            "album": "Trick",
-            "played_at": "16/02/2025 - 14:32:28"
-        },
-        {
-            "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
-            "artists": [
-                "Post Malone",
-                "Gunna"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "16/02/2025 - 14:29:10"
-        },
-        {
-            "song_name": "Propeller (feat. Dave & BNXN)",
-            "artists": [
-                "JAE5",
-                "Dave",
-                "Bnxn"
-            ],
-            "album": "Propeller (feat. Dave & BNXN)",
-            "played_at": "16/02/2025 - 14:26:20"
-        },
-        {
-            "song_name": "505",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "Favourite Worst Nightmare",
-            "played_at": "16/02/2025 - 14:22:55"
-        },
-        {
-            "song_name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-            "artists": [
-                "Travis Scott",
-                "Swae Lee",
-                "Chief Keef"
-            ],
-            "album": "Rodeo",
-            "played_at": "16/02/2025 - 14:18:41"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Levi Don't Do It",
-            "played_at": "16/02/2025 - 14:13:19"
-        },
-        {
-            "song_name": "Energy",
-            "artists": [
-                "Drake"
-            ],
-            "album": "If You're Reading This It's Too Late",
-            "played_at": "16/02/2025 - 14:10:59"
-        },
-        {
             "song_name": "Elevate",
             "artists": [
                 "Piano Peace"
@@ -861,6 +431,435 @@
             ],
             "album": "Rodeo",
             "played_at": "16/02/2025 - 14:18:41"
+        },
+        {
+            "song_name": "Solitude",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano Therapy: Spa & Sleep Healing",
+            "played_at": "16/02/2025 - 19:22:50"
+        },
+        {
+            "song_name": "Elevate",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano Therapy: Spa & Sleep Healing",
+            "played_at": "16/02/2025 - 18:23:20"
+        },
+        {
+            "song_name": "Nice & Good",
+            "artists": [
+                "Knucks",
+                "SL"
+            ],
+            "album": "ALPHA PLACE",
+            "played_at": "16/02/2025 - 18:23:13"
+        },
+        {
+            "song_name": "Waking Up to the Rain",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano in the Rain",
+            "played_at": "16/02/2025 - 17:56:49"
+        },
+        {
+            "song_name": "Sleep Meditation",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano Therapy: Spa & Sleep Healing",
+            "played_at": "16/02/2025 - 17:53:17"
+        },
+        {
+            "song_name": "Wellness",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano Therapy: Spa & Sleep Healing",
+            "played_at": "16/02/2025 - 17:49:42"
+        },
+        {
+            "song_name": "Wellness",
+            "artists": [
+                "Piano Peace"
+            ],
+            "album": "Piano Therapy: Spa & Sleep Healing",
+            "played_at": "16/02/2025 - 17:46:02"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "16/02/2025 - 17:44:39"
+        },
+        {
+            "song_name": "Day 'N' Nite (Nightmare)",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "16/02/2025 - 17:40:49"
+        },
+        {
+            "song_name": "Family Business",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "The College Dropout",
+            "played_at": "16/02/2025 - 17:37:08"
+        },
+        {
+            "song_name": "Dangerous",
+            "artists": [
+                "Kardinal Offishall",
+                "Akon"
+            ],
+            "album": "Not 4 Sale",
+            "played_at": "16/02/2025 - 17:32:29"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "16/02/2025 - 17:28:23"
+        },
+        {
+            "song_name": "Locked Up",
+            "artists": [
+                "Akon"
+            ],
+            "album": "Trouble Deluxe Edition",
+            "played_at": "16/02/2025 - 17:23:28"
+        },
+        {
+            "song_name": "Kiss Me Thru The Phone",
+            "artists": [
+                "Soulja Boy",
+                "Sammie"
+            ],
+            "album": "iSouljaBoyTellem",
+            "played_at": "16/02/2025 - 17:19:33"
+        },
+        {
+            "song_name": "All Falls Down",
+            "artists": [
+                "Kanye West",
+                "Syleena Johnson"
+            ],
+            "album": "The College Dropout",
+            "played_at": "16/02/2025 - 17:16:19"
+        },
+        {
+            "song_name": "Whatever You Like",
+            "artists": [
+                "T.I."
+            ],
+            "album": "Paper Trail",
+            "played_at": "16/02/2025 - 17:12:36"
+        },
+        {
+            "song_name": "Meet Me Halfway",
+            "artists": [
+                "Black Eyed Peas"
+            ],
+            "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+            "played_at": "16/02/2025 - 17:08:26"
+        },
+        {
+            "song_name": "If I Can't",
+            "artists": [
+                "50 Cent"
+            ],
+            "album": "Get Rich Or Die Tryin'",
+            "played_at": "16/02/2025 - 17:03:42"
+        },
+        {
+            "song_name": "Touch The Sky",
+            "artists": [
+                "Kanye West",
+                "Lupe Fiasco"
+            ],
+            "album": "Late Registration",
+            "played_at": "16/02/2025 - 17:00:25"
+        },
+        {
+            "song_name": "Through The Wire",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "The College Dropout",
+            "played_at": "16/02/2025 - 16:56:29"
+        },
+        {
+            "song_name": "Lollipop",
+            "artists": [
+                "Lil Wayne",
+                "Static Major"
+            ],
+            "album": "Tha Carter III",
+            "played_at": "16/02/2025 - 16:52:48"
+        },
+        {
+            "song_name": "Bulletproof",
+            "artists": [
+                "La Roux",
+                "GAMPER & DADONI"
+            ],
+            "album": "Bulletproof",
+            "played_at": "16/02/2025 - 16:47:48"
+        },
+        {
+            "song_name": "Right Now (Na Na Na)",
+            "artists": [
+                "Akon"
+            ],
+            "album": "Freedom",
+            "played_at": "16/02/2025 - 16:45:06"
+        },
+        {
+            "song_name": "Bartender (feat. Akon)",
+            "artists": [
+                "T-Pain",
+                "Akon"
+            ],
+            "album": "Epiphany (Expanded Edition)",
+            "played_at": "16/02/2025 - 16:41:05"
+        },
+        {
+            "song_name": "Young Forever",
+            "artists": [
+                "JAY-Z",
+                "Mr Hudson"
+            ],
+            "album": "The Blueprint 3",
+            "played_at": "16/02/2025 - 16:37:07"
+        },
+        {
+            "song_name": "Mrs. Officer",
+            "artists": [
+                "Lil Wayne",
+                "Bobby V.",
+                "Kidd Kidd"
+            ],
+            "album": "Tha Carter III",
+            "played_at": "16/02/2025 - 16:32:53"
+        },
+        {
+            "song_name": "Good Morning",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Graduation",
+            "played_at": "16/02/2025 - 16:28:06"
+        },
+        {
+            "song_name": "Can't Tell Me Nothing",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Graduation",
+            "played_at": "16/02/2025 - 16:24:51"
+        },
+        {
+            "song_name": "The Way I Are",
+            "artists": [
+                "Timbaland",
+                "Keri Hilson",
+                "D.O.E."
+            ],
+            "album": "Shock Value",
+            "played_at": "16/02/2025 - 16:20:19"
+        },
+        {
+            "song_name": "Midnight City",
+            "artists": [
+                "M83"
+            ],
+            "album": "Hurry up, We're Dreaming",
+            "played_at": "16/02/2025 - 16:17:20"
+        },
+        {
+            "song_name": "Bible",
+            "artists": [
+                "Knucks",
+                "Youngs Teflon"
+            ],
+            "album": "ALPHA PLACE",
+            "played_at": "16/02/2025 - 16:11:14"
+        },
+        {
+            "song_name": "Nice & Good",
+            "artists": [
+                "Knucks",
+                "SL"
+            ],
+            "album": "ALPHA PLACE",
+            "played_at": "16/02/2025 - 16:07:57"
+        },
+        {
+            "song_name": "SKATE",
+            "artists": [
+                "Bawo"
+            ],
+            "album": "Surf That Well/SKATE",
+            "played_at": "16/02/2025 - 15:18:53"
+        },
+        {
+            "song_name": "hakuna matata",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "16/02/2025 - 15:17:13"
+        },
+        {
+            "song_name": "Council Housing",
+            "artists": [
+                "Damzz"
+            ],
+            "album": "Get Home Safe (Deluxe)",
+            "played_at": "16/02/2025 - 15:14:10"
+        },
+        {
+            "song_name": "4am",
+            "artists": [
+                "JBEE"
+            ],
+            "album": "4am",
+            "played_at": "16/02/2025 - 15:09:21"
+        },
+        {
+            "song_name": "Yungen (feat. Jack Harlow)",
+            "artists": [
+                "Rod Wave",
+                "Jack Harlow"
+            ],
+            "album": "Beautiful Mind",
+            "played_at": "16/02/2025 - 15:06:07"
+        },
+        {
+            "song_name": "Heavy (with Nigo)",
+            "artists": [
+                "Nigo",
+                "Lil Uzi Vert"
+            ],
+            "album": "I Know NIGO!",
+            "played_at": "16/02/2025 - 15:02:20"
+        },
+        {
+            "song_name": "Blueberry Faygo",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Certified Hitmaker",
+            "played_at": "16/02/2025 - 14:59:00"
+        },
+        {
+            "song_name": "10 Feet",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "16/02/2025 - 14:56:17"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Lose It All (I Don't Wanna)",
+            "played_at": "16/02/2025 - 14:52:44"
+        },
+        {
+            "song_name": "Money Trees",
+            "artists": [
+                "Kendrick Lamar",
+                "Jay Rock"
+            ],
+            "album": "good kid, m.A.A.d city",
+            "played_at": "16/02/2025 - 14:50:25"
+        },
+        {
+            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "artists": [
+                "A$AP Mob",
+                "A$AP Rocky",
+                "Playboi Carti",
+                "Quavo",
+                "Lil Uzi Vert",
+                "Frank Ocean"
+            ],
+            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "played_at": "16/02/2025 - 14:43:57"
+        },
+        {
+            "song_name": "Fell In Love",
+            "artists": [
+                "Marshmello",
+                "Brent Faiyaz"
+            ],
+            "album": "Fell In Love",
+            "played_at": "16/02/2025 - 14:39:41"
+        },
+        {
+            "song_name": "Some",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Some",
+            "played_at": "16/02/2025 - 14:37:40"
+        },
+        {
+            "song_name": "Need 2",
+            "artists": [
+                "Pinegrove"
+            ],
+            "album": "Everything So Far",
+            "played_at": "16/02/2025 - 14:35:41"
+        },
+        {
+            "song_name": "Mary",
+            "artists": [
+                "Alex G"
+            ],
+            "album": "Trick",
+            "played_at": "16/02/2025 - 14:32:28"
+        },
+        {
+            "song_name": "I Cannot Be (A Sadder Song) (with Gunna)",
+            "artists": [
+                "Post Malone",
+                "Gunna"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "16/02/2025 - 14:29:10"
+        },
+        {
+            "song_name": "Propeller (feat. Dave & BNXN)",
+            "artists": [
+                "JAE5",
+                "Dave",
+                "Bnxn"
+            ],
+            "album": "Propeller (feat. Dave & BNXN)",
+            "played_at": "16/02/2025 - 14:26:20"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "16/02/2025 - 14:22:55"
         },
         {
             "song_name": "Solitude",
