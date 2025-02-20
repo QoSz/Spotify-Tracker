@@ -2,6 +2,126 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Way 2 Sexy (with Future & Young Thug)",
+            "artists": [
+                "Drake",
+                "Future",
+                "Young Thug"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "19/02/2025 - 16:01:21"
+        },
+        {
+            "song_name": "Drip or Drown",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "Drip or Drown",
+            "played_at": "19/02/2025 - 15:46:41"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Solo",
+            "played_at": "19/02/2025 - 15:44:42"
+        },
+        {
+            "song_name": "Not So Bad (Leans Gone Cold)",
+            "artists": [
+                "Rae Sremmurd"
+            ],
+            "album": "Sremm 4 Life",
+            "played_at": "19/02/2025 - 15:39:19"
+        },
+        {
+            "song_name": "Dolly (with Lil Uzi Vert)",
+            "artists": [
+                "Lil Tecca",
+                "Lil Uzi Vert"
+            ],
+            "album": "Virgo World",
+            "played_at": "19/02/2025 - 15:36:07"
+        },
+        {
+            "song_name": "Talk No More",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Donny Womack",
+            "played_at": "19/02/2025 - 15:33:15"
+        },
+        {
+            "song_name": "Us vs. Them (feat Gucci Mane)",
+            "artists": [
+                "Quavo",
+                "Takeoff",
+                "Gucci Mane"
+            ],
+            "album": "Only Built For Infinity Links",
+            "played_at": "19/02/2025 - 15:29:51"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "19/02/2025 - 15:26:22"
+        },
+        {
+            "song_name": "BACK TO ME",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "19/02/2025 - 15:23:09"
+        },
+        {
+            "song_name": "Passionfruit",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "19/02/2025 - 15:18:20"
+        },
+        {
+            "song_name": "Paid Up",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "UNI",
+            "played_at": "19/02/2025 - 15:13:28"
+        },
+        {
+            "song_name": "I'M ON ONE (feat. Drake)",
+            "artists": [
+                "Future",
+                "Drake"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "19/02/2025 - 15:10:55"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "19/02/2025 - 15:05:54"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "19/02/2025 - 15:03:19"
+        },
+        {
             "song_name": "Rich Flex",
             "artists": [
                 "Drake",
@@ -74,6 +194,15 @@
             ],
             "album": "ASTROWORLD",
             "played_at": "19/02/2025 - 14:37:50"
+        },
+        {
+            "song_name": "Everything I Had",
+            "artists": [
+                "Ruffnux",
+                "sunsett."
+            ],
+            "album": "Everything I Had",
+            "played_at": "19/02/2025 - 05:42:28"
         },
         {
             "song_name": "Hope You Don't Mind",
@@ -301,134 +430,6 @@
             ],
             "album": "Old Souls",
             "played_at": "17/02/2025 - 19:34:10"
-        },
-        {
-            "song_name": "Follow The Vibe",
-            "artists": [
-                "Portugal Sunset",
-                "Rya Rey"
-            ],
-            "album": "Follow The Vibe",
-            "played_at": "17/02/2025 - 19:31:54"
-        },
-        {
-            "song_name": "Night Drive",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Night Drive",
-            "played_at": "17/02/2025 - 19:29:41"
-        },
-        {
-            "song_name": "Stay With You",
-            "artists": [
-                "Plastic Jungle",
-                "Rya Rey"
-            ],
-            "album": "Stay With You",
-            "played_at": "17/02/2025 - 19:27:11"
-        },
-        {
-            "song_name": "Belong",
-            "artists": [
-                "Astrality",
-                "soleil",
-                "Kleeve"
-            ],
-            "album": "Belong",
-            "played_at": "17/02/2025 - 19:24:15"
-        },
-        {
-            "song_name": "Need To Breathe",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Need To Breathe",
-            "played_at": "17/02/2025 - 19:21:13"
-        },
-        {
-            "song_name": "Floating",
-            "artists": [
-                "Moment in Time"
-            ],
-            "album": "Floating",
-            "played_at": "17/02/2025 - 19:18:39"
-        },
-        {
-            "song_name": "Memories",
-            "artists": [
-                "Piece Wise",
-                "Polar Inc.",
-                "Francis Skyes"
-            ],
-            "album": "Memories",
-            "played_at": "17/02/2025 - 19:15:58"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "17/02/2025 - 19:12:39"
-        },
-        {
-            "song_name": "All This Time",
-            "artists": [
-                "Y.V.E. 48"
-            ],
-            "album": "All This Time",
-            "played_at": "17/02/2025 - 19:09:14"
-        },
-        {
-            "song_name": "Hit Me Up",
-            "artists": [
-                "Relŭm"
-            ],
-            "album": "Hit Me Up",
-            "played_at": "17/02/2025 - 19:06:53"
-        },
-        {
-            "song_name": "Rain",
-            "artists": [
-                "Astrality",
-                "MNRT",
-                "S:NE"
-            ],
-            "album": "Rain",
-            "played_at": "17/02/2025 - 19:04:47"
-        },
-        {
-            "song_name": "Sometimes On A Sunday",
-            "artists": [
-                "Jane Good"
-            ],
-            "album": "Sometimes On A Sunday",
-            "played_at": "17/02/2025 - 19:02:14"
-        },
-        {
-            "song_name": "Too Much Time",
-            "artists": [
-                "Moment in Time"
-            ],
-            "album": "Too Much Time",
-            "played_at": "17/02/2025 - 18:59:33"
-        },
-        {
-            "song_name": "The Highway",
-            "artists": [
-                "Portugal Sunset"
-            ],
-            "album": "The Highway",
-            "played_at": "17/02/2025 - 18:56:29"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Lost In Pacific"
-            ],
-            "album": "Follow The Sun",
-            "played_at": "17/02/2025 - 18:54:02"
         },
         {
             "song_name": "Way 2 Sexy (with Future & Young Thug)",
