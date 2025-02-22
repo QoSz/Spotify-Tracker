@@ -2,6 +2,231 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Shiver",
+            "artists": [
+                "John Summit",
+                "HAYLA"
+            ],
+            "album": "Comfort In Chaos",
+            "played_at": "21/02/2025 - 23:59:20"
+        },
+        {
+            "song_name": "Your Love - Antdot Remix",
+            "artists": [
+                "PLS&TY",
+                "Sofiya Nzau",
+                "Antdot"
+            ],
+            "album": "Your Love (Antdot Remix)",
+            "played_at": "21/02/2025 - 22:55:53"
+        },
+        {
+            "song_name": "summer on the inside",
+            "artists": [
+                "warner case",
+                "Jean Tonique",
+                "Max Kaluza"
+            ],
+            "album": "summer on the inside",
+            "played_at": "21/02/2025 - 22:52:55"
+        },
+        {
+            "song_name": "City Of Love",
+            "artists": [
+                "Surf Mesa",
+                "Selah Sol"
+            ],
+            "album": "City Of Love",
+            "played_at": "21/02/2025 - 22:49:30"
+        },
+        {
+            "song_name": "Done To Me",
+            "artists": [
+                "Amés"
+            ],
+            "album": "Done To Me",
+            "played_at": "21/02/2025 - 22:46:44"
+        },
+        {
+            "song_name": "Fallin' In Love",
+            "artists": [
+                "Ruxolf",
+                "Marphil"
+            ],
+            "album": "Fallin' In Love",
+            "played_at": "21/02/2025 - 22:44:18"
+        },
+        {
+            "song_name": "Somedays",
+            "artists": [
+                "Sonny Fodera",
+                "Jazzy",
+                "D.O.D"
+            ],
+            "album": "Somedays",
+            "played_at": "21/02/2025 - 22:41:40"
+        },
+        {
+            "song_name": "Your Way",
+            "artists": [
+                "Johannes Jungleson",
+                "Tropical Fairytale"
+            ],
+            "album": "Beach House",
+            "played_at": "21/02/2025 - 22:38:13"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "21/02/2025 - 22:35:44"
+        },
+        {
+            "song_name": "Premier Gaou - Nitefreak Remix",
+            "artists": [
+                "Francis Mercier",
+                "Magic System",
+                "Nitefreak"
+            ],
+            "album": "Premier Gaou (Nitefreak Remix)",
+            "played_at": "21/02/2025 - 22:32:38"
+        },
+        {
+            "song_name": "Say My Name - Remix",
+            "artists": [
+                "Morgan Seatree",
+                "Florence + The Machine"
+            ],
+            "album": "Say My Name (Remix)",
+            "played_at": "21/02/2025 - 22:28:56"
+        },
+        {
+            "song_name": "Price",
+            "artists": [
+                "PALASTIC"
+            ],
+            "album": "Price",
+            "played_at": "21/02/2025 - 22:26:08"
+        },
+        {
+            "song_name": "Temptation (feat. Poppy Baskcomb)",
+            "artists": [
+                "Jess Bays",
+                "Poppy Baskcomb"
+            ],
+            "album": "Temptation (feat. Poppy Baskcomb)",
+            "played_at": "21/02/2025 - 22:23:34"
+        },
+        {
+            "song_name": "Real Love",
+            "artists": [
+                "Retrowaves"
+            ],
+            "album": "Real Love",
+            "played_at": "21/02/2025 - 22:20:41"
+        },
+        {
+            "song_name": "Nothing Better",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Nothing Better",
+            "played_at": "21/02/2025 - 22:18:14"
+        },
+        {
+            "song_name": "Ain't Giving Up",
+            "artists": [
+                "Duke Dumont",
+                "Clementine Douglas"
+            ],
+            "album": "Ain’t Giving Up",
+            "played_at": "21/02/2025 - 22:15:25"
+        },
+        {
+            "song_name": "ten",
+            "artists": [
+                "Fred again..",
+                "Jozzy",
+                "Jim Legxacy"
+            ],
+            "album": "ten days",
+            "played_at": "21/02/2025 - 22:12:13"
+        },
+        {
+            "song_name": "Wacuka",
+            "artists": [
+                "AVAION",
+                "Sofiya Nzau"
+            ],
+            "album": "Wacuka",
+            "played_at": "21/02/2025 - 22:09:12"
+        },
+        {
+            "song_name": "Where You Are",
+            "artists": [
+                "John Summit",
+                "HAYLA"
+            ],
+            "album": "Comfort In Chaos",
+            "played_at": "21/02/2025 - 22:06:02"
+        },
+        {
+            "song_name": "Ferrari",
+            "artists": [
+                "Allstark",
+                "Cramoki",
+                "Daniel Best",
+                "Chris Crone"
+            ],
+            "album": "Ferrari",
+            "played_at": "21/02/2025 - 22:02:06"
+        },
+        {
+            "song_name": "Miss a Thing",
+            "artists": [
+                "Patrick Lite"
+            ],
+            "album": "Miss a Thing",
+            "played_at": "21/02/2025 - 21:59:24"
+        },
+        {
+            "song_name": "COLOGNE - nowifi remix",
+            "artists": [
+                "Emmit Fenn",
+                "nowifi"
+            ],
+            "album": "COLOGNE (nowifi remix)",
+            "played_at": "21/02/2025 - 21:57:28"
+        },
+        {
+            "song_name": "A Fire Inside Of Me",
+            "artists": [
+                "Lucas Dekker"
+            ],
+            "album": "A Fire Inside Of Me",
+            "played_at": "21/02/2025 - 21:54:51"
+        },
+        {
+            "song_name": "Better Than This",
+            "artists": [
+                "John Summit",
+                "Parachute Youth"
+            ],
+            "album": "Better Than This",
+            "played_at": "21/02/2025 - 21:50:53"
+        },
+        {
+            "song_name": "The Days - NOTION Remix",
+            "artists": [
+                "Chrystal",
+                "NOTION"
+            ],
+            "album": "The Days (NOTION Remix)",
+            "played_at": "21/02/2025 - 21:47:45"
+        },
+        {
             "song_name": "The Days - NOTION Remix",
             "artists": [
                 "Chrystal",
@@ -224,226 +449,6 @@
             ],
             "album": "Temptation (feat. Poppy Baskcomb)",
             "played_at": "21/02/2025 - 15:51:46"
-        },
-        {
-            "song_name": "U Know",
-            "artists": [
-                "Jend"
-            ],
-            "album": "U Know",
-            "played_at": "21/02/2025 - 15:48:54"
-        },
-        {
-            "song_name": "Your Love - Antdot Remix",
-            "artists": [
-                "PLS&TY",
-                "Sofiya Nzau",
-                "Antdot"
-            ],
-            "album": "Your Love (Antdot Remix)",
-            "played_at": "21/02/2025 - 15:46:47"
-        },
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "21/02/2025 - 15:43:49"
-        },
-        {
-            "song_name": "Wacuka",
-            "artists": [
-                "AVAION",
-                "Sofiya Nzau"
-            ],
-            "album": "Wacuka",
-            "played_at": "21/02/2025 - 15:41:03"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Sleepless",
-            "played_at": "21/02/2025 - 15:37:53"
-        },
-        {
-            "song_name": "How It Feels",
-            "artists": [
-                "Barry Can't Swim"
-            ],
-            "album": "When Will We Land?",
-            "played_at": "21/02/2025 - 15:34:47"
-        },
-        {
-            "song_name": "Miss a Thing",
-            "artists": [
-                "Patrick Lite"
-            ],
-            "album": "Miss a Thing",
-            "played_at": "21/02/2025 - 15:32:28"
-        },
-        {
-            "song_name": "Old Souls",
-            "artists": [
-                "Fella Sleep"
-            ],
-            "album": "Old Souls",
-            "played_at": "21/02/2025 - 15:30:32"
-        },
-        {
-            "song_name": "set me free",
-            "artists": [
-                "Aaron Hibell",
-                "Alex Wann"
-            ],
-            "album": "set me free",
-            "played_at": "21/02/2025 - 15:28:16"
-        },
-        {
-            "song_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-            "artists": [
-                "Felix Jaehn",
-                "Jasmine Thompson"
-            ],
-            "album": "I",
-            "played_at": "21/02/2025 - 15:24:38"
-        },
-        {
-            "song_name": "Because You Move Me",
-            "artists": [
-                "Tinlicker",
-                "Helsloot"
-            ],
-            "album": "Because You Move Me",
-            "played_at": "21/02/2025 - 15:21:31"
-        },
-        {
-            "song_name": "Relax My Eyes",
-            "artists": [
-                "ANOTR",
-                "Abel Balder"
-            ],
-            "album": "Relax My Eyes",
-            "played_at": "21/02/2025 - 15:18:15"
-        },
-        {
-            "song_name": "Love Me The Same",
-            "artists": [
-                "Astrality",
-                "Krysta Youngs"
-            ],
-            "album": "Love Me The Same",
-            "played_at": "21/02/2025 - 15:15:03"
-        },
-        {
-            "song_name": "Lioness",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove"
-            ],
-            "album": "Lioness",
-            "played_at": "21/02/2025 - 15:11:19"
-        },
-        {
-            "song_name": "The Days - NOTION Remix",
-            "artists": [
-                "Chrystal",
-                "NOTION"
-            ],
-            "album": "The Days (NOTION Remix)",
-            "played_at": "21/02/2025 - 15:04:08"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "21/02/2025 - 15:00:15"
-        },
-        {
-            "song_name": "U Know",
-            "artists": [
-                "Jend"
-            ],
-            "album": "U Know",
-            "played_at": "21/02/2025 - 14:58:07"
-        },
-        {
-            "song_name": "One More Time",
-            "artists": [
-                "Creon Flips",
-                "Harvey"
-            ],
-            "album": "One More Time",
-            "played_at": "21/02/2025 - 14:56:01"
-        },
-        {
-            "song_name": "adore u",
-            "artists": [
-                "Fred again..",
-                "Obongjayar"
-            ],
-            "album": "ten days",
-            "played_at": "21/02/2025 - 14:54:03"
-        },
-        {
-            "song_name": "I Only Smoke When I Drink",
-            "artists": [
-                "nimino"
-            ],
-            "album": "I Only Smoke When I Drink",
-            "played_at": "21/02/2025 - 14:50:22"
-        },
-        {
-            "song_name": "Tough - Gravagerz Remix",
-            "artists": [
-                "Quavo",
-                "Lana Del Rey",
-                "Gravagerz"
-            ],
-            "album": "Tough (Gravagerz Remix)",
-            "played_at": "21/02/2025 - 14:47:04"
-        },
-        {
-            "song_name": "Can You Feel It?",
-            "artists": [
-                "Coffee Cub"
-            ],
-            "album": "Can You Feel It?",
-            "played_at": "21/02/2025 - 14:43:24"
-        },
-        {
-            "song_name": "Bulletproof",
-            "artists": [
-                "La Roux",
-                "GAMPER & DADONI"
-            ],
-            "album": "Bulletproof",
-            "played_at": "21/02/2025 - 14:41:22"
-        },
-        {
-            "song_name": "Because You Move Me",
-            "artists": [
-                "Tinlicker",
-                "Helsloot"
-            ],
-            "album": "Because You Move Me",
-            "played_at": "21/02/2025 - 14:38:39"
-        },
-        {
-            "song_name": "Everything I Had",
-            "artists": [
-                "Ruffnux",
-                "sunsett."
-            ],
-            "album": "Everything I Had",
-            "played_at": "21/02/2025 - 14:35:23"
         },
         {
             "song_name": "Shiver",
