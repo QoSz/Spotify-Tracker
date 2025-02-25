@@ -2,6 +2,74 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Dreams",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "25/02/2025 - 10:59:20"
+        },
+        {
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "25/02/2025 - 10:55:52"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "25/02/2025 - 10:54:24"
+        },
+        {
+            "song_name": "Before It's Too Late",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "25/02/2025 - 10:52:25"
+        },
+        {
+            "song_name": "Ball W/O You - Instrumental",
+            "artists": [
+                "DJ Glacier"
+            ],
+            "album": "Ball W/O You (Instrumental)",
+            "played_at": "25/02/2025 - 10:51:23"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "25/02/2025 - 10:48:08"
+        },
+        {
+            "song_name": "Silver Moon",
+            "artists": [
+                "Two Scents",
+                "Mondo Loops"
+            ],
+            "album": "Lately",
+            "played_at": "25/02/2025 - 10:45:12"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "25/02/2025 - 10:30:51"
+        },
+        {
             "song_name": "Jimmy Cooks (feat. 21 Savage)",
             "artists": [
                 "Drake",
@@ -361,45 +429,858 @@
             "played_at": "22/02/2025 - 21:52:29"
         },
         {
-            "song_name": "Night Walks",
-            "artists": [
-                "Ethan Rebel"
-            ],
-            "album": "Night Walks",
-            "played_at": "22/02/2025 - 21:48:20"
-        },
-        {
-            "song_name": "Catch a Vibe",
+            "song_name": "Dreams",
             "artists": [
                 "CHILL TAPES"
             ],
             "album": "LOFI VIBES",
-            "played_at": "22/02/2025 - 21:46:37"
+            "played_at": "25/02/2025 - 10:59:20"
         },
         {
-            "song_name": "Bliss",
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "25/02/2025 - 10:55:52"
+        },
+        {
+            "song_name": "Aconcagua",
             "artists": [
                 "Slumberville"
             ],
-            "album": "Bliss",
-            "played_at": "22/02/2025 - 21:44:42"
+            "album": "Aconcagua",
+            "played_at": "25/02/2025 - 10:54:24"
         },
         {
-            "song_name": "a walk in the park",
+            "song_name": "Before It's Too Late",
             "artists": [
-                "YJKL",
-                "Andrew Simpson"
+                "Kasper Lindmark"
             ],
-            "album": "a walk in the park",
-            "played_at": "22/02/2025 - 21:42:36"
+            "album": "While You Were Away",
+            "played_at": "25/02/2025 - 10:52:25"
         },
         {
-            "song_name": "i was only temporary (Slowed + Reverb)",
+            "song_name": "Ball W/O You - Instrumental",
             "artists": [
-                "my head is empty"
+                "DJ Glacier"
             ],
-            "album": "i was only temporary (Remixes)",
-            "played_at": "22/02/2025 - 21:41:23"
+            "album": "Ball W/O You (Instrumental)",
+            "played_at": "25/02/2025 - 10:51:23"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "25/02/2025 - 10:48:08"
+        },
+        {
+            "song_name": "Silver Moon",
+            "artists": [
+                "Two Scents",
+                "Mondo Loops"
+            ],
+            "album": "Lately",
+            "played_at": "25/02/2025 - 10:45:12"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "25/02/2025 - 10:30:51"
+        },
+        {
+            "song_name": "Jimmy Cooks (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "25/02/2025 - 09:58:13"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "25/02/2025 - 09:54:35"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "25/02/2025 - 09:51:58"
+        },
+        {
+            "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+            "artists": [
+                "A$AP Rocky",
+                "Skepta"
+            ],
+            "album": "TESTING",
+            "played_at": "25/02/2025 - 09:48:11"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "25/02/2025 - 09:44:45"
+        },
+        {
+            "song_name": "Sticky",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "25/02/2025 - 09:42:13"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "25/02/2025 - 09:38:10"
+        },
+        {
+            "song_name": "CAN'T SAY",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "25/02/2025 - 09:35:54"
+        },
+        {
+            "song_name": "Alone Together",
+            "artists": [
+                "Astrality",
+                "Georgia Blackwell"
+            ],
+            "album": "Alone Together",
+            "played_at": "25/02/2025 - 09:32:37"
+        },
+        {
+            "song_name": "The One",
+            "artists": [
+                "Jane Good",
+                "Samuel Miller"
+            ],
+            "album": "The One",
+            "played_at": "25/02/2025 - 08:12:35"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "25/02/2025 - 07:21:31"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "25/02/2025 - 07:19:47"
+        },
+        {
+            "song_name": "Rooibos",
+            "artists": [
+                "YJKL"
+            ],
+            "album": "Rooibos",
+            "played_at": "25/02/2025 - 07:17:49"
+        },
+        {
+            "song_name": "I'll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I'll Keep You Safe",
+            "played_at": "25/02/2025 - 07:16:15"
+        },
+        {
+            "song_name": "Butterfly Season",
+            "artists": [
+                "Lucas Melan",
+                "bearbare"
+            ],
+            "album": "Butterfly Season",
+            "played_at": "25/02/2025 - 07:13:54"
+        },
+        {
+            "song_name": "Walking Together",
+            "artists": [
+                "Mindeliq",
+                "Neele Harder"
+            ],
+            "album": "New Horizons",
+            "played_at": "25/02/2025 - 07:11:12"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "25/02/2025 - 07:09:03"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "25/02/2025 - 07:05:52"
+        },
+        {
+            "song_name": "Plant",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "25/02/2025 - 07:00:45"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "25/02/2025 - 06:59:34"
+        },
+        {
+            "song_name": "Whispering",
+            "artists": [
+                "Bumblebee",
+                "Silky",
+                "Wist"
+            ],
+            "album": "Whispering",
+            "played_at": "25/02/2025 - 06:56:10"
+        },
+        {
+            "song_name": "Spaghetti from the island",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "25/02/2025 - 06:54:17"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "25/02/2025 - 06:52:32"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "25/02/2025 - 06:50:17"
+        },
+        {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "24/02/2025 - 05:35:30"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "23/02/2025 - 12:21:00"
+        },
+        {
+            "song_name": "Chasing Paradise",
+            "artists": [
+                "Kygo",
+                "OneRepublic"
+            ],
+            "album": "Chasing Paradise",
+            "played_at": "23/02/2025 - 12:18:47"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "23/02/2025 - 12:15:54"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "23/02/2025 - 12:14:29"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "23/02/2025 - 11:13:07"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "23/02/2025 - 11:08:36"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "23/02/2025 - 11:05:38"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "23/02/2025 - 11:02:47"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "23/02/2025 - 11:00:02"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "23/02/2025 - 10:57:24"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Stargazing",
+            "played_at": "23/02/2025 - 10:54:47"
+        },
+        {
+            "song_name": "Yebba's Heartbreak (I Do)",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Yebba's Heartbreak (I Do)",
+            "played_at": "23/02/2025 - 09:25:10"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "23/02/2025 - 09:14:05"
+        },
+        {
+            "song_name": "Good Life (feat. Elderbrook)",
+            "artists": [
+                "goodlife",
+                "Elderbrook"
+            ],
+            "album": "Good Life (feat. Elderbrook)",
+            "played_at": "23/02/2025 - 09:10:58"
+        },
+        {
+            "song_name": "Chills (LA Hills)",
+            "artists": [
+                "Tiësto",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "DRIVE",
+            "played_at": "23/02/2025 - 09:08:14"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "DJ ZeeZee"
+            ],
+            "album": "Dreams",
+            "played_at": "22/02/2025 - 21:56:12"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Ark Patrol",
+                "Veronika Redd"
+            ],
+            "album": "Let Go",
+            "played_at": "22/02/2025 - 21:52:29"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "25/02/2025 - 10:59:20"
+        },
+        {
+            "song_name": "Dance with Me",
+            "artists": [
+                "CORBAL",
+                "Shiloh Dynasty",
+                "itssvd"
+            ],
+            "album": "Love Is the Same as Sadness",
+            "played_at": "25/02/2025 - 10:55:52"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "25/02/2025 - 10:54:24"
+        },
+        {
+            "song_name": "Before It's Too Late",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "25/02/2025 - 10:52:25"
+        },
+        {
+            "song_name": "Ball W/O You - Instrumental",
+            "artists": [
+                "DJ Glacier"
+            ],
+            "album": "Ball W/O You (Instrumental)",
+            "played_at": "25/02/2025 - 10:51:23"
+        },
+        {
+            "song_name": "Winding Roads",
+            "artists": [
+                "Mondo Loops",
+                "Quist"
+            ],
+            "album": "In Nature",
+            "played_at": "25/02/2025 - 10:48:08"
+        },
+        {
+            "song_name": "Silver Moon",
+            "artists": [
+                "Two Scents",
+                "Mondo Loops"
+            ],
+            "album": "Lately",
+            "played_at": "25/02/2025 - 10:45:12"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "25/02/2025 - 10:30:51"
+        },
+        {
+            "song_name": "Jimmy Cooks (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "25/02/2025 - 09:58:13"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "25/02/2025 - 09:54:35"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "25/02/2025 - 09:51:58"
+        },
+        {
+            "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+            "artists": [
+                "A$AP Rocky",
+                "Skepta"
+            ],
+            "album": "TESTING",
+            "played_at": "25/02/2025 - 09:48:11"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "25/02/2025 - 09:44:45"
+        },
+        {
+            "song_name": "Sticky",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "25/02/2025 - 09:42:13"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "25/02/2025 - 09:38:10"
+        },
+        {
+            "song_name": "CAN'T SAY",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "25/02/2025 - 09:35:54"
+        },
+        {
+            "song_name": "Alone Together",
+            "artists": [
+                "Astrality",
+                "Georgia Blackwell"
+            ],
+            "album": "Alone Together",
+            "played_at": "25/02/2025 - 09:32:37"
+        },
+        {
+            "song_name": "The One",
+            "artists": [
+                "Jane Good",
+                "Samuel Miller"
+            ],
+            "album": "The One",
+            "played_at": "25/02/2025 - 08:12:35"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "25/02/2025 - 07:21:31"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "25/02/2025 - 07:19:47"
+        },
+        {
+            "song_name": "Rooibos",
+            "artists": [
+                "YJKL"
+            ],
+            "album": "Rooibos",
+            "played_at": "25/02/2025 - 07:17:49"
+        },
+        {
+            "song_name": "I'll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I'll Keep You Safe",
+            "played_at": "25/02/2025 - 07:16:15"
+        },
+        {
+            "song_name": "Butterfly Season",
+            "artists": [
+                "Lucas Melan",
+                "bearbare"
+            ],
+            "album": "Butterfly Season",
+            "played_at": "25/02/2025 - 07:13:54"
+        },
+        {
+            "song_name": "Walking Together",
+            "artists": [
+                "Mindeliq",
+                "Neele Harder"
+            ],
+            "album": "New Horizons",
+            "played_at": "25/02/2025 - 07:11:12"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "25/02/2025 - 07:09:03"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "25/02/2025 - 07:05:52"
+        },
+        {
+            "song_name": "Plant",
+            "artists": [
+                "Kasper Lindmark"
+            ],
+            "album": "While You Were Away",
+            "played_at": "25/02/2025 - 07:00:45"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "25/02/2025 - 06:59:34"
+        },
+        {
+            "song_name": "Whispering",
+            "artists": [
+                "Bumblebee",
+                "Silky",
+                "Wist"
+            ],
+            "album": "Whispering",
+            "played_at": "25/02/2025 - 06:56:10"
+        },
+        {
+            "song_name": "Spaghetti from the island",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "25/02/2025 - 06:54:17"
+        },
+        {
+            "song_name": "Aconcagua",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Aconcagua",
+            "played_at": "25/02/2025 - 06:52:32"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "25/02/2025 - 06:50:17"
+        },
+        {
+            "song_name": "tea in the evening",
+            "artists": [
+                "Bert"
+            ],
+            "album": "about love",
+            "played_at": "24/02/2025 - 05:35:30"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "23/02/2025 - 12:21:00"
+        },
+        {
+            "song_name": "Chasing Paradise",
+            "artists": [
+                "Kygo",
+                "OneRepublic"
+            ],
+            "album": "Chasing Paradise",
+            "played_at": "23/02/2025 - 12:18:47"
+        },
+        {
+            "song_name": "Formula",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "23/02/2025 - 12:15:54"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "23/02/2025 - 12:14:29"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "23/02/2025 - 11:13:07"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "23/02/2025 - 11:08:36"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "23/02/2025 - 11:05:38"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "23/02/2025 - 11:02:47"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "23/02/2025 - 11:00:02"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "23/02/2025 - 10:57:24"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Stargazing",
+            "played_at": "23/02/2025 - 10:54:47"
+        },
+        {
+            "song_name": "Yebba's Heartbreak (I Do)",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Yebba's Heartbreak (I Do)",
+            "played_at": "23/02/2025 - 09:25:10"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "23/02/2025 - 09:14:05"
+        },
+        {
+            "song_name": "Good Life (feat. Elderbrook)",
+            "artists": [
+                "goodlife",
+                "Elderbrook"
+            ],
+            "album": "Good Life (feat. Elderbrook)",
+            "played_at": "23/02/2025 - 09:10:58"
+        },
+        {
+            "song_name": "Chills (LA Hills)",
+            "artists": [
+                "Tiësto",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "DRIVE",
+            "played_at": "23/02/2025 - 09:08:14"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "DJ ZeeZee"
+            ],
+            "album": "Dreams",
+            "played_at": "22/02/2025 - 21:56:12"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Ark Patrol",
+                "Veronika Redd"
+            ],
+            "album": "Let Go",
+            "played_at": "22/02/2025 - 21:52:29"
         },
         {
             "song_name": "Everything Would Be Fine",
@@ -407,15 +1288,32 @@
                 "Alx Beats"
             ],
             "album": "Instrumentals, Vol. 7",
-            "played_at": "22/02/2025 - 21:39:41"
+            "played_at": "25/02/2025 - 13:56:45"
         },
         {
-            "song_name": "wonder",
+            "song_name": "Butterfly Season",
             "artists": [
-                "Billy Hammer"
+                "Lucas Melan",
+                "bearbare"
             ],
-            "album": "wonder",
-            "played_at": "22/02/2025 - 21:37:42"
+            "album": "Butterfly Season",
+            "played_at": "25/02/2025 - 13:54:46"
+        },
+        {
+            "song_name": "no enemies - lofi version",
+            "artists": [
+                "Medafiziks"
+            ],
+            "album": "i have no enemies",
+            "played_at": "25/02/2025 - 13:52:04"
+        },
+        {
+            "song_name": "Caribbean Waters",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Caribbean Waters",
+            "played_at": "25/02/2025 - 13:48:36"
         },
         {
             "song_name": "Mary - Guitar Version",
@@ -423,7 +1321,146 @@
                 "noturgf"
             ],
             "album": "Mary (Guitar Version)",
-            "played_at": "22/02/2025 - 21:35:55"
+            "played_at": "25/02/2025 - 13:46:38"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Musqitone"
+            ],
+            "album": "Broken Glass",
+            "played_at": "25/02/2025 - 13:43:44"
+        },
+        {
+            "song_name": "What If You Fly?",
+            "artists": [
+                "Mg.",
+                "soave lofi"
+            ],
+            "album": "What If You Fly?",
+            "played_at": "25/02/2025 - 13:41:40"
+        },
+        {
+            "song_name": "Lonely in London",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tranquility",
+            "played_at": "25/02/2025 - 13:39:56"
+        },
+        {
+            "song_name": "Bliss",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Bliss",
+            "played_at": "25/02/2025 - 13:37:41"
+        },
+        {
+            "song_name": "Gon Be Alright",
+            "artists": [
+                "twuan"
+            ],
+            "album": "Gon Be Alright",
+            "played_at": "25/02/2025 - 13:35:34"
+        },
+        {
+            "song_name": "Solo - Sped Up + Instrumental",
+            "artists": [
+                "dopuu"
+            ],
+            "album": "Solo - Sped Up + Instrumental",
+            "played_at": "25/02/2025 - 13:34:00"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "DJ ZeeZee"
+            ],
+            "album": "Dreams",
+            "played_at": "25/02/2025 - 13:29:55"
+        },
+        {
+            "song_name": "Spaghetti from the island",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Liberation",
+            "played_at": "25/02/2025 - 13:26:12"
+        },
+        {
+            "song_name": "I'll Keep You Safe",
+            "artists": [
+                "Vluestar"
+            ],
+            "album": "I'll Keep You Safe",
+            "played_at": "25/02/2025 - 13:24:27"
+        },
+        {
+            "song_name": "Crickets in My Backyard",
+            "artists": [
+                "Creative Self"
+            ],
+            "album": "On My Way",
+            "played_at": "25/02/2025 - 13:22:06"
+        },
+        {
+            "song_name": "The Lamp Is Low",
+            "artists": [
+                "Laurindo Almeida"
+            ],
+            "album": "Classical Current",
+            "played_at": "25/02/2025 - 13:19:41"
+        },
+        {
+            "song_name": "Chérie",
+            "artists": [
+                "C4C",
+                "kokoro"
+            ],
+            "album": "L'aventure EP",
+            "played_at": "25/02/2025 - 13:16:05"
+        },
+        {
+            "song_name": "Fever Dream",
+            "artists": [
+                "Ethan Rebel"
+            ],
+            "album": "Fever Dream",
+            "played_at": "25/02/2025 - 13:12:37"
+        },
+        {
+            "song_name": "Numb",
+            "artists": [
+                "Peaceful Melody",
+                "soave lofi"
+            ],
+            "album": "Numb",
+            "played_at": "25/02/2025 - 13:10:15"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Slumberville"
+            ],
+            "album": "Tiramisu",
+            "played_at": "25/02/2025 - 13:08:01"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "25/02/2025 - 13:05:46"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "Joakim Karud"
+            ],
+            "album": "Dreams",
+            "played_at": "25/02/2025 - 11:22:36"
         },
         {
             "song_name": "Dreams",
@@ -659,1052 +1696,6 @@
             ],
             "album": "Broken Glass",
             "played_at": "25/02/2025 - 06:59:34"
-        },
-        {
-            "song_name": "Whispering",
-            "artists": [
-                "Bumblebee",
-                "Silky",
-                "Wist"
-            ],
-            "album": "Whispering",
-            "played_at": "25/02/2025 - 06:56:10"
-        },
-        {
-            "song_name": "Spaghetti from the island",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "25/02/2025 - 06:54:17"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "25/02/2025 - 06:52:32"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "25/02/2025 - 06:50:17"
-        },
-        {
-            "song_name": "tea in the evening",
-            "artists": [
-                "Bert"
-            ],
-            "album": "about love",
-            "played_at": "24/02/2025 - 05:35:30"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "23/02/2025 - 12:21:00"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "23/02/2025 - 12:18:47"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "23/02/2025 - 12:15:54"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 12:14:29"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 11:13:07"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "23/02/2025 - 11:08:36"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "23/02/2025 - 11:05:38"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "23/02/2025 - 11:02:47"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "23/02/2025 - 11:00:02"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "23/02/2025 - 10:57:24"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "23/02/2025 - 10:54:47"
-        },
-        {
-            "song_name": "Yebba's Heartbreak (I Do)",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Yebba's Heartbreak (I Do)",
-            "played_at": "23/02/2025 - 09:25:10"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "23/02/2025 - 09:14:05"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "23/02/2025 - 09:10:58"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "23/02/2025 - 09:08:14"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "DJ ZeeZee"
-            ],
-            "album": "Dreams",
-            "played_at": "22/02/2025 - 21:56:12"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Ark Patrol",
-                "Veronika Redd"
-            ],
-            "album": "Let Go",
-            "played_at": "22/02/2025 - 21:52:29"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "25/02/2025 - 10:59:20"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "25/02/2025 - 10:55:52"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "25/02/2025 - 10:54:24"
-        },
-        {
-            "song_name": "Before It's Too Late",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "25/02/2025 - 10:52:25"
-        },
-        {
-            "song_name": "Ball W/O You - Instrumental",
-            "artists": [
-                "DJ Glacier"
-            ],
-            "album": "Ball W/O You (Instrumental)",
-            "played_at": "25/02/2025 - 10:51:23"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "25/02/2025 - 10:48:08"
-        },
-        {
-            "song_name": "Silver Moon",
-            "artists": [
-                "Two Scents",
-                "Mondo Loops"
-            ],
-            "album": "Lately",
-            "played_at": "25/02/2025 - 10:45:12"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "25/02/2025 - 10:30:51"
-        },
-        {
-            "song_name": "Jimmy Cooks (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/02/2025 - 09:58:13"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "25/02/2025 - 09:54:35"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/02/2025 - 09:51:58"
-        },
-        {
-            "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-            "artists": [
-                "A$AP Rocky",
-                "Skepta"
-            ],
-            "album": "TESTING",
-            "played_at": "25/02/2025 - 09:48:11"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "25/02/2025 - 09:44:45"
-        },
-        {
-            "song_name": "Sticky",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/02/2025 - 09:42:13"
-        },
-        {
-            "song_name": "I'm Good Luv, Enjoy.",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "25/02/2025 - 09:38:10"
-        },
-        {
-            "song_name": "CAN'T SAY",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "25/02/2025 - 09:35:54"
-        },
-        {
-            "song_name": "Alone Together",
-            "artists": [
-                "Astrality",
-                "Georgia Blackwell"
-            ],
-            "album": "Alone Together",
-            "played_at": "25/02/2025 - 09:32:37"
-        },
-        {
-            "song_name": "The One",
-            "artists": [
-                "Jane Good",
-                "Samuel Miller"
-            ],
-            "album": "The One",
-            "played_at": "25/02/2025 - 08:12:35"
-        },
-        {
-            "song_name": "What If You Fly?",
-            "artists": [
-                "Mg.",
-                "soave lofi"
-            ],
-            "album": "What If You Fly?",
-            "played_at": "25/02/2025 - 07:21:31"
-        },
-        {
-            "song_name": "Caribbean Waters",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Caribbean Waters",
-            "played_at": "25/02/2025 - 07:19:47"
-        },
-        {
-            "song_name": "Rooibos",
-            "artists": [
-                "YJKL"
-            ],
-            "album": "Rooibos",
-            "played_at": "25/02/2025 - 07:17:49"
-        },
-        {
-            "song_name": "I'll Keep You Safe",
-            "artists": [
-                "Vluestar"
-            ],
-            "album": "I'll Keep You Safe",
-            "played_at": "25/02/2025 - 07:16:15"
-        },
-        {
-            "song_name": "Butterfly Season",
-            "artists": [
-                "Lucas Melan",
-                "bearbare"
-            ],
-            "album": "Butterfly Season",
-            "played_at": "25/02/2025 - 07:13:54"
-        },
-        {
-            "song_name": "Walking Together",
-            "artists": [
-                "Mindeliq",
-                "Neele Harder"
-            ],
-            "album": "New Horizons",
-            "played_at": "25/02/2025 - 07:11:12"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "Joakim Karud"
-            ],
-            "album": "Dreams",
-            "played_at": "25/02/2025 - 07:09:03"
-        },
-        {
-            "song_name": "The Lamp Is Low",
-            "artists": [
-                "Laurindo Almeida"
-            ],
-            "album": "Classical Current",
-            "played_at": "25/02/2025 - 07:05:52"
-        },
-        {
-            "song_name": "Plant",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "25/02/2025 - 07:00:45"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "25/02/2025 - 06:59:34"
-        },
-        {
-            "song_name": "Whispering",
-            "artists": [
-                "Bumblebee",
-                "Silky",
-                "Wist"
-            ],
-            "album": "Whispering",
-            "played_at": "25/02/2025 - 06:56:10"
-        },
-        {
-            "song_name": "Spaghetti from the island",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "25/02/2025 - 06:54:17"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "25/02/2025 - 06:52:32"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "25/02/2025 - 06:50:17"
-        },
-        {
-            "song_name": "tea in the evening",
-            "artists": [
-                "Bert"
-            ],
-            "album": "about love",
-            "played_at": "24/02/2025 - 05:35:30"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "23/02/2025 - 12:21:00"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "23/02/2025 - 12:18:47"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "23/02/2025 - 12:15:54"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 12:14:29"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 11:13:07"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "23/02/2025 - 11:08:36"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "23/02/2025 - 11:05:38"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "23/02/2025 - 11:02:47"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "23/02/2025 - 11:00:02"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "23/02/2025 - 10:57:24"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "23/02/2025 - 10:54:47"
-        },
-        {
-            "song_name": "Yebba's Heartbreak (I Do)",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Yebba's Heartbreak (I Do)",
-            "played_at": "23/02/2025 - 09:25:10"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "23/02/2025 - 09:14:05"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "23/02/2025 - 09:10:58"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "23/02/2025 - 09:08:14"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "DJ ZeeZee"
-            ],
-            "album": "Dreams",
-            "played_at": "22/02/2025 - 21:56:12"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Ark Patrol",
-                "Veronika Redd"
-            ],
-            "album": "Let Go",
-            "played_at": "22/02/2025 - 21:52:29"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "25/02/2025 - 10:59:20"
-        },
-        {
-            "song_name": "Dance with Me",
-            "artists": [
-                "CORBAL",
-                "Shiloh Dynasty",
-                "itssvd"
-            ],
-            "album": "Love Is the Same as Sadness",
-            "played_at": "25/02/2025 - 10:55:52"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "25/02/2025 - 10:54:24"
-        },
-        {
-            "song_name": "Before It's Too Late",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "25/02/2025 - 10:52:25"
-        },
-        {
-            "song_name": "Ball W/O You - Instrumental",
-            "artists": [
-                "DJ Glacier"
-            ],
-            "album": "Ball W/O You (Instrumental)",
-            "played_at": "25/02/2025 - 10:51:23"
-        },
-        {
-            "song_name": "Winding Roads",
-            "artists": [
-                "Mondo Loops",
-                "Quist"
-            ],
-            "album": "In Nature",
-            "played_at": "25/02/2025 - 10:48:08"
-        },
-        {
-            "song_name": "Silver Moon",
-            "artists": [
-                "Two Scents",
-                "Mondo Loops"
-            ],
-            "album": "Lately",
-            "played_at": "25/02/2025 - 10:45:12"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "25/02/2025 - 10:30:51"
-        },
-        {
-            "song_name": "Jimmy Cooks (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/02/2025 - 09:58:13"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "25/02/2025 - 09:54:35"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/02/2025 - 09:51:58"
-        },
-        {
-            "song_name": "Praise The Lord (Da Shine) (feat. Skepta)",
-            "artists": [
-                "A$AP Rocky",
-                "Skepta"
-            ],
-            "album": "TESTING",
-            "played_at": "25/02/2025 - 09:48:11"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "25/02/2025 - 09:44:45"
-        },
-        {
-            "song_name": "Sticky",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "25/02/2025 - 09:42:13"
-        },
-        {
-            "song_name": "I'm Good Luv, Enjoy.",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "25/02/2025 - 09:38:10"
-        },
-        {
-            "song_name": "CAN'T SAY",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "25/02/2025 - 09:35:54"
-        },
-        {
-            "song_name": "Alone Together",
-            "artists": [
-                "Astrality",
-                "Georgia Blackwell"
-            ],
-            "album": "Alone Together",
-            "played_at": "25/02/2025 - 09:32:37"
-        },
-        {
-            "song_name": "The One",
-            "artists": [
-                "Jane Good",
-                "Samuel Miller"
-            ],
-            "album": "The One",
-            "played_at": "25/02/2025 - 08:12:35"
-        },
-        {
-            "song_name": "What If You Fly?",
-            "artists": [
-                "Mg.",
-                "soave lofi"
-            ],
-            "album": "What If You Fly?",
-            "played_at": "25/02/2025 - 07:21:31"
-        },
-        {
-            "song_name": "Caribbean Waters",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Caribbean Waters",
-            "played_at": "25/02/2025 - 07:19:47"
-        },
-        {
-            "song_name": "Rooibos",
-            "artists": [
-                "YJKL"
-            ],
-            "album": "Rooibos",
-            "played_at": "25/02/2025 - 07:17:49"
-        },
-        {
-            "song_name": "I'll Keep You Safe",
-            "artists": [
-                "Vluestar"
-            ],
-            "album": "I'll Keep You Safe",
-            "played_at": "25/02/2025 - 07:16:15"
-        },
-        {
-            "song_name": "Butterfly Season",
-            "artists": [
-                "Lucas Melan",
-                "bearbare"
-            ],
-            "album": "Butterfly Season",
-            "played_at": "25/02/2025 - 07:13:54"
-        },
-        {
-            "song_name": "Walking Together",
-            "artists": [
-                "Mindeliq",
-                "Neele Harder"
-            ],
-            "album": "New Horizons",
-            "played_at": "25/02/2025 - 07:11:12"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "Joakim Karud"
-            ],
-            "album": "Dreams",
-            "played_at": "25/02/2025 - 07:09:03"
-        },
-        {
-            "song_name": "The Lamp Is Low",
-            "artists": [
-                "Laurindo Almeida"
-            ],
-            "album": "Classical Current",
-            "played_at": "25/02/2025 - 07:05:52"
-        },
-        {
-            "song_name": "Plant",
-            "artists": [
-                "Kasper Lindmark"
-            ],
-            "album": "While You Were Away",
-            "played_at": "25/02/2025 - 07:00:45"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Musqitone"
-            ],
-            "album": "Broken Glass",
-            "played_at": "25/02/2025 - 06:59:34"
-        },
-        {
-            "song_name": "Whispering",
-            "artists": [
-                "Bumblebee",
-                "Silky",
-                "Wist"
-            ],
-            "album": "Whispering",
-            "played_at": "25/02/2025 - 06:56:10"
-        },
-        {
-            "song_name": "Spaghetti from the island",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Liberation",
-            "played_at": "25/02/2025 - 06:54:17"
-        },
-        {
-            "song_name": "Aconcagua",
-            "artists": [
-                "Slumberville"
-            ],
-            "album": "Aconcagua",
-            "played_at": "25/02/2025 - 06:52:32"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "25/02/2025 - 06:50:17"
-        },
-        {
-            "song_name": "tea in the evening",
-            "artists": [
-                "Bert"
-            ],
-            "album": "about love",
-            "played_at": "24/02/2025 - 05:35:30"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "23/02/2025 - 12:21:00"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "23/02/2025 - 12:18:47"
-        },
-        {
-            "song_name": "Formula",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "23/02/2025 - 12:15:54"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 12:14:29"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "23/02/2025 - 11:13:07"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "23/02/2025 - 11:08:36"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "23/02/2025 - 11:05:38"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "23/02/2025 - 11:02:47"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "23/02/2025 - 11:00:02"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "23/02/2025 - 10:57:24"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "23/02/2025 - 10:54:47"
-        },
-        {
-            "song_name": "Yebba's Heartbreak (I Do)",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Yebba's Heartbreak (I Do)",
-            "played_at": "23/02/2025 - 09:25:10"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "23/02/2025 - 09:14:05"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "23/02/2025 - 09:10:58"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "23/02/2025 - 09:08:14"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "DJ ZeeZee"
-            ],
-            "album": "Dreams",
-            "played_at": "22/02/2025 - 21:56:12"
-        },
-        {
-            "song_name": "Let Go",
-            "artists": [
-                "Ark Patrol",
-                "Veronika Redd"
-            ],
-            "album": "Let Go",
-            "played_at": "22/02/2025 - 21:52:29"
         }
     ]
 }
