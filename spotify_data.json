@@ -2,442 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "26/02/2025 - 16:46:56"
-        },
-        {
-            "song_name": "Island in the Sun",
-            "artists": [
-                "GAMPER & DADONI",
-                "Conor Byrne"
-            ],
-            "album": "Island in the Sun",
-            "played_at": "26/02/2025 - 16:45:48"
-        },
-        {
-            "song_name": "Kyoto",
-            "artists": [
-                "Innocent Panda"
-            ],
-            "album": "Kyoto",
-            "played_at": "26/02/2025 - 16:41:52"
-        },
-        {
-            "song_name": "Fallin' In Love",
-            "artists": [
-                "Ruxolf",
-                "Marphil"
-            ],
-            "album": "Fallin' In Love",
-            "played_at": "26/02/2025 - 16:38:10"
-        },
-        {
-            "song_name": "set me free",
-            "artists": [
-                "Aaron Hibell",
-                "Alex Wann"
-            ],
-            "album": "set me free",
-            "played_at": "26/02/2025 - 16:35:31"
-        },
-        {
-            "song_name": "The Chase - Rebūke Remix",
-            "artists": [
-                "Emmit Fenn",
-                "Rebūke"
-            ],
-            "album": "The Chase (Remixes)",
-            "played_at": "26/02/2025 - 16:31:52"
-        },
-        {
-            "song_name": "FORMATIONS",
-            "artists": [
-                "Mild Minds"
-            ],
-            "album": "MOOD",
-            "played_at": "26/02/2025 - 16:28:43"
-        },
-        {
-            "song_name": "Sunrise",
-            "artists": [
-                "Tungevaag"
-            ],
-            "album": "Sunrise",
-            "played_at": "26/02/2025 - 16:25:46"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Moonkids"
-            ],
-            "album": "Waiting",
-            "played_at": "26/02/2025 - 16:23:27"
-        },
-        {
-            "song_name": "Tate (how i feel)",
-            "artists": [
-                "Fred again.."
-            ],
-            "album": "Actual Life 2 (February 2 - October 15 2021)",
-            "played_at": "26/02/2025 - 16:20:47"
-        },
-        {
-            "song_name": "Gonna Need Ya",
-            "artists": [
-                "Viva La Panda",
-                "Tyron Dixon",
-                "Rachelle Jenkens"
-            ],
-            "album": "Gonna Need Ya",
-            "played_at": "26/02/2025 - 16:17:05"
-        },
-        {
-            "song_name": "I Only Smoke When I Drink",
-            "artists": [
-                "nimino"
-            ],
-            "album": "I Only Smoke When I Drink",
-            "played_at": "26/02/2025 - 16:14:06"
-        },
-        {
-            "song_name": "DNA (Loving You) [feat. Hannah Boleyn]",
-            "artists": [
-                "Billy Gillies",
-                "Hannah Boleyn"
-            ],
-            "album": "DNA (Loving You) [feat. Hannah Boleyn]",
-            "played_at": "26/02/2025 - 16:10:47"
-        },
-        {
-            "song_name": "The Rhythm",
-            "artists": [
-                "THEMBA"
-            ],
-            "album": "The Rhythm",
-            "played_at": "26/02/2025 - 16:08:01"
-        },
-        {
-            "song_name": "OUT OUT (feat. Charli XCX & Saweetie)",
-            "artists": [
-                "Joel Corry",
-                "Jax Jones",
-                "Charli xcx",
-                "Saweetie"
-            ],
-            "album": "OUT OUT (feat. Charli XCX & Saweetie)",
-            "played_at": "26/02/2025 - 16:04:42"
-        },
-        {
-            "song_name": "Forever (feat. Malou & Yuna)",
-            "artists": [
-                "HUGEL",
-                "Diplo",
-                "Malou",
-                "Yuna"
-            ],
-            "album": "Forever (feat. Malou & Yuna)",
-            "played_at": "26/02/2025 - 16:01:59"
-        },
-        {
-            "song_name": "Where Did You Go? (feat. MNEK)",
-            "artists": [
-                "Jax Jones",
-                "MNEK"
-            ],
-            "album": "Where Did You Go (feat. MNEK)",
-            "played_at": "26/02/2025 - 15:59:38"
-        },
-        {
-            "song_name": "She’s Gone, Dance On",
-            "artists": [
-                "Disclosure"
-            ],
-            "album": "She’s Gone, Dance On",
-            "played_at": "26/02/2025 - 15:56:40"
-        },
-        {
-            "song_name": "Alone",
-            "artists": [
-                "Tobiahs"
-            ],
-            "album": "Alone",
-            "played_at": "26/02/2025 - 15:52:52"
-        },
-        {
-            "song_name": "New Beginnings",
-            "artists": [
-                "Sparkee"
-            ],
-            "album": "New Beginnings",
-            "played_at": "26/02/2025 - 15:49:55"
-        },
-        {
-            "song_name": "Alone Together",
-            "artists": [
-                "Astrality",
-                "Georgia Blackwell"
-            ],
-            "album": "Alone Together",
-            "played_at": "26/02/2025 - 15:46:46"
-        },
-        {
-            "song_name": "Mind Still (feat. blythe)",
-            "artists": [
-                "Sonny Fodera",
-                "blythe"
-            ],
-            "album": "Mind Still (feat. blythe)",
-            "played_at": "26/02/2025 - 15:43:26"
-        },
-        {
-            "song_name": "Go Back (feat. Julia Church)",
-            "artists": [
-                "John Summit",
-                "Sub Focus",
-                "Julia Church"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "26/02/2025 - 15:40:48"
-        },
-        {
-            "song_name": "Sunny Day",
-            "artists": [
-                "MR TOUT LE MONDE"
-            ],
-            "album": "SUN",
-            "played_at": "26/02/2025 - 15:37:07"
-        },
-        {
-            "song_name": "Backyard Stories",
-            "artists": [
-                "Sum Wave"
-            ],
-            "album": "Backyard Stories — Summer Forever",
-            "played_at": "26/02/2025 - 15:33:55"
-        },
-        {
-            "song_name": "Fast Life",
-            "artists": [
-                "GEE LEE",
-                "India Shan"
-            ],
-            "album": "Fast Life",
-            "played_at": "26/02/2025 - 15:30:48"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "26/02/2025 - 15:28:27"
-        },
-        {
-            "song_name": "Only If",
-            "artists": [
-                "Night Tales"
-            ],
-            "album": "Only If",
-            "played_at": "26/02/2025 - 15:25:55"
-        },
-        {
-            "song_name": "El Vento",
-            "artists": [
-                "Stephan Jolk",
-                "Malóne"
-            ],
-            "album": "El Vento",
-            "played_at": "26/02/2025 - 15:23:15"
-        },
-        {
-            "song_name": "Drifting",
-            "artists": [
-                "Tiësto",
-                "Poppy Baskcomb"
-            ],
-            "album": "Drifting",
-            "played_at": "26/02/2025 - 15:19:42"
-        },
-        {
-            "song_name": "Matter of Time",
-            "artists": [
-                "Vandelux",
-                "Alex Maher"
-            ],
-            "album": "When The Light Breaks",
-            "played_at": "26/02/2025 - 15:17:14"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "26/02/2025 - 15:13:14"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love",
-            "played_at": "26/02/2025 - 15:10:07"
-        },
-        {
-            "song_name": "NOW IT'S GONE",
-            "artists": [
-                "IN PARALLEL"
-            ],
-            "album": "NOW IT'S GONE",
-            "played_at": "26/02/2025 - 15:05:47"
-        },
-        {
-            "song_name": "House Of Cards",
-            "artists": [
-                "Lucas Estrada",
-                "Deepend",
-                "Dan Caplen"
-            ],
-            "album": "House Of Cards",
-            "played_at": "26/02/2025 - 15:03:23"
-        },
-        {
-            "song_name": "Ocean Drive",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Ocean Drive",
-            "played_at": "26/02/2025 - 15:00:45"
-        },
-        {
-            "song_name": "For You",
-            "artists": [
-                "Planetopia"
-            ],
-            "album": "For You",
-            "played_at": "26/02/2025 - 14:58:04"
-        },
-        {
-            "song_name": "How It Feels",
-            "artists": [
-                "Barry Can't Swim"
-            ],
-            "album": "When Will We Land?",
-            "played_at": "26/02/2025 - 14:55:15"
-        },
-        {
-            "song_name": "What A Life",
-            "artists": [
-                "John Summit",
-                "Guz",
-                "Stevie Appleton"
-            ],
-            "album": "What A Life",
-            "played_at": "26/02/2025 - 14:52:56"
-        },
-        {
-            "song_name": "Fake ID (Coke & Rum Remix)",
-            "artists": [
-                "Riton",
-                "Kah-Lo",
-                "GEE LEE"
-            ],
-            "album": "Fake ID (Coke & Rum Remix)",
-            "played_at": "26/02/2025 - 14:50:04"
-        },
-        {
-            "song_name": "The Days - NOTION Remix",
-            "artists": [
-                "Chrystal",
-                "NOTION"
-            ],
-            "album": "The Days (NOTION Remix)",
-            "played_at": "26/02/2025 - 14:47:57"
-        },
-        {
-            "song_name": "Price",
-            "artists": [
-                "PALASTIC"
-            ],
-            "album": "Price",
-            "played_at": "26/02/2025 - 14:44:03"
-        },
-        {
-            "song_name": "All Mine",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "All Mine",
-            "played_at": "26/02/2025 - 14:41:28"
-        },
-        {
-            "song_name": "Shiver",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "26/02/2025 - 14:38:56"
-        },
-        {
-            "song_name": "Better Than This",
-            "artists": [
-                "John Summit",
-                "Parachute Youth"
-            ],
-            "album": "Better Than This",
-            "played_at": "26/02/2025 - 14:35:01"
-        },
-        {
-            "song_name": "A Fire Inside Of Me",
-            "artists": [
-                "Lucas Dekker"
-            ],
-            "album": "A Fire Inside Of Me",
-            "played_at": "26/02/2025 - 14:31:53"
-        },
-        {
-            "song_name": "Giving Me",
-            "artists": [
-                "Jazzy"
-            ],
-            "album": "Giving Me",
-            "played_at": "26/02/2025 - 14:27:54"
-        },
-        {
-            "song_name": "Tell Me What You Want",
-            "artists": [
-                "Oden & Fatzo",
-                "Poppy Baskcomb"
-            ],
-            "album": "Tell Me What You Want",
-            "played_at": "26/02/2025 - 14:23:29"
-        },
-        {
-            "song_name": "Check Out",
-            "artists": [
-                "J. Worra",
-                "Leo Stannard"
-            ],
-            "album": "Check Out",
-            "played_at": "26/02/2025 - 14:20:49"
-        },
-        {
-            "song_name": "DESTINATIONS",
-            "artists": [
-                "Mild Minds"
-            ],
-            "album": "MOOD",
-            "played_at": "26/02/2025 - 14:17:54"
-        },
-        {
             "song_name": "/ (Forgotten)",
             "artists": [
                 "mikeeysmind"
@@ -1753,6 +1317,443 @@
             ],
             "album": "SUN",
             "played_at": "26/02/2025 - 15:37:07"
+        },
+        {
+            "song_name": "on one tonight",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "28/02/2025 - 06:59:38"
+        },
+        {
+            "song_name": "Denver",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "28/02/2025 - 06:58:14"
+        },
+        {
+            "song_name": "DO IT",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "28/02/2025 - 06:55:44"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "28/02/2025 - 06:52:05"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "28/02/2025 - 06:49:36"
+        },
+        {
+            "song_name": "Sundress",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Sundress",
+            "played_at": "28/02/2025 - 06:46:15"
+        },
+        {
+            "song_name": "collage",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "28/02/2025 - 06:43:44"
+        },
+        {
+            "song_name": "PROMOTION",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 2",
+            "played_at": "28/02/2025 - 06:41:23"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "28/02/2025 - 06:38:46"
+        },
+        {
+            "song_name": "Red Leather",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "J. Cole"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "28/02/2025 - 06:37:08"
+        },
+        {
+            "song_name": "/ (Forgotten)",
+            "artists": [
+                "mikeeysmind"
+            ],
+            "album": "/ (Forgotten)",
+            "played_at": "27/02/2025 - 19:56:09"
+        },
+        {
+            "song_name": "Next Exit",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "No Place Like Home",
+            "played_at": "27/02/2025 - 19:53:32"
+        },
+        {
+            "song_name": "Holy Smokes (feat. Lil Uzi Vert)",
+            "artists": [
+                "Trippie Redd",
+                "Lil Uzi Vert"
+            ],
+            "album": "Trip At Knight",
+            "played_at": "27/02/2025 - 19:50:11"
+        },
+        {
+            "song_name": "Bad Habit",
+            "artists": [
+                "Steve Lacy"
+            ],
+            "album": "Gemini Rights",
+            "played_at": "27/02/2025 - 19:47:08"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "27/02/2025 - 19:43:16"
+        },
+        {
+            "song_name": "Anybody",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Anybody",
+            "played_at": "27/02/2025 - 19:40:22"
+        },
+        {
+            "song_name": "All Bad (feat. Lil Uzi Vert)",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "High Off Life",
+            "played_at": "27/02/2025 - 19:38:12"
+        },
+        {
+            "song_name": "Huntin’ Wabbitz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "27/02/2025 - 19:34:44"
+        },
+        {
+            "song_name": "The Count (feat. Wiz Khalifa)",
+            "artists": [
+                "Curren$y",
+                "Harry Fraud",
+                "Wiz Khalifa"
+            ],
+            "album": "The Marina",
+            "played_at": "27/02/2025 - 19:32:01"
+        },
+        {
+            "song_name": "Mwaki",
+            "artists": [
+                "Zerb",
+                "Sofiya Nzau"
+            ],
+            "album": "SURRENDER",
+            "played_at": "27/02/2025 - 19:28:46"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
+                "Drake",
+                "Tems"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "27/02/2025 - 19:25:17"
+        },
+        {
+            "song_name": "No Introduction",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "27/02/2025 - 19:22:04"
+        },
+        {
+            "song_name": "Brilliant Mind II",
+            "artists": [
+                "Blanco",
+                "Nemzzz"
+            ],
+            "album": "Brilliant Mind II",
+            "played_at": "27/02/2025 - 19:19:23"
+        },
+        {
+            "song_name": "90mph",
+            "artists": [
+                "JBEE",
+                "Sillage"
+            ],
+            "album": "90mph",
+            "played_at": "27/02/2025 - 19:14:20"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "27/02/2025 - 19:11:52"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "27/02/2025 - 19:07:01"
+        },
+        {
+            "song_name": "Canal St. (feat. Bones)",
+            "artists": [
+                "A$AP Rocky",
+                "BONES"
+            ],
+            "album": "AT.LONG.LAST.A$AP",
+            "played_at": "27/02/2025 - 19:04:34"
+        },
+        {
+            "song_name": "I'M ON ONE (feat. Drake)",
+            "artists": [
+                "Future",
+                "Drake"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "27/02/2025 - 19:00:16"
+        },
+        {
+            "song_name": "Novocaine 2",
+            "artists": [
+                "Cloke",
+                "Shiloh Dynasty"
+            ],
+            "album": "Novocaine 2",
+            "played_at": "27/02/2025 - 18:53:35"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "27/02/2025 - 18:51:08"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "27/02/2025 - 18:45:56"
+        },
+        {
+            "song_name": "Somedays",
+            "artists": [
+                "Sonny Fodera",
+                "Jazzy",
+                "D.O.D"
+            ],
+            "album": "Somedays",
+            "played_at": "27/02/2025 - 10:00:39"
+        },
+        {
+            "song_name": "Illuminate",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "27/02/2025 - 09:57:12"
+        },
+        {
+            "song_name": "Divine",
+            "artists": [
+                "Blair Muir"
+            ],
+            "album": "Divine",
+            "played_at": "27/02/2025 - 09:54:27"
+        },
+        {
+            "song_name": "adore u",
+            "artists": [
+                "Fred again..",
+                "Obongjayar"
+            ],
+            "album": "ten days",
+            "played_at": "27/02/2025 - 09:51:44"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "26/02/2025 - 16:46:56"
+        },
+        {
+            "song_name": "adore u",
+            "artists": [
+                "Fred again..",
+                "Obongjayar"
+            ],
+            "album": "ten days",
+            "played_at": "26/02/2025 - 16:46:23"
+        },
+        {
+            "song_name": "Island in the Sun",
+            "artists": [
+                "GAMPER & DADONI",
+                "Conor Byrne"
+            ],
+            "album": "Island in the Sun",
+            "played_at": "26/02/2025 - 16:45:48"
+        },
+        {
+            "song_name": "Kyoto",
+            "artists": [
+                "Innocent Panda"
+            ],
+            "album": "Kyoto",
+            "played_at": "26/02/2025 - 16:41:52"
+        },
+        {
+            "song_name": "Fallin' In Love",
+            "artists": [
+                "Ruxolf",
+                "Marphil"
+            ],
+            "album": "Fallin' In Love",
+            "played_at": "26/02/2025 - 16:38:10"
+        },
+        {
+            "song_name": "set me free",
+            "artists": [
+                "Aaron Hibell",
+                "Alex Wann"
+            ],
+            "album": "set me free",
+            "played_at": "26/02/2025 - 16:35:31"
+        },
+        {
+            "song_name": "The Chase - Rebūke Remix",
+            "artists": [
+                "Emmit Fenn",
+                "Rebūke"
+            ],
+            "album": "The Chase (Remixes)",
+            "played_at": "26/02/2025 - 16:31:52"
+        },
+        {
+            "song_name": "FORMATIONS",
+            "artists": [
+                "Mild Minds"
+            ],
+            "album": "MOOD",
+            "played_at": "26/02/2025 - 16:28:43"
+        },
+        {
+            "song_name": "Sunrise",
+            "artists": [
+                "Tungevaag"
+            ],
+            "album": "Sunrise",
+            "played_at": "26/02/2025 - 16:25:46"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Moonkids"
+            ],
+            "album": "Waiting",
+            "played_at": "26/02/2025 - 16:23:27"
+        },
+        {
+            "song_name": "Tate (how i feel)",
+            "artists": [
+                "Fred again.."
+            ],
+            "album": "Actual Life 2 (February 2 - October 15 2021)",
+            "played_at": "26/02/2025 - 16:20:47"
+        },
+        {
+            "song_name": "Gonna Need Ya",
+            "artists": [
+                "Viva La Panda",
+                "Tyron Dixon",
+                "Rachelle Jenkens"
+            ],
+            "album": "Gonna Need Ya",
+            "played_at": "26/02/2025 - 16:17:05"
+        },
+        {
+            "song_name": "I Only Smoke When I Drink",
+            "artists": [
+                "nimino"
+            ],
+            "album": "I Only Smoke When I Drink",
+            "played_at": "26/02/2025 - 16:14:06"
+        },
+        {
+            "song_name": "DNA (Loving You) [feat. Hannah Boleyn]",
+            "artists": [
+                "Billy Gillies",
+                "Hannah Boleyn"
+            ],
+            "album": "DNA (Loving You) [feat. Hannah Boleyn]",
+            "played_at": "26/02/2025 - 16:10:47"
+        },
+        {
+            "song_name": "The Rhythm",
+            "artists": [
+                "THEMBA"
+            ],
+            "album": "The Rhythm",
+            "played_at": "26/02/2025 - 16:08:01"
         }
     ]
 }
