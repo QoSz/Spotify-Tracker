@@ -418,6 +418,15 @@
             "played_at": "27/02/2025 - 18:45:56"
         },
         {
+            "song_name": "No Bad Vibes",
+            "artists": [
+                "Jazzy",
+                "KILIMANJARO"
+            ],
+            "album": "No Bad Vibes",
+            "played_at": "27/02/2025 - 10:26:04"
+        },
+        {
             "song_name": "Somedays",
             "artists": [
                 "Sonny Fodera",
@@ -428,13 +437,22 @@
             "played_at": "27/02/2025 - 10:00:39"
         },
         {
-            "song_name": "Illuminate",
+            "song_name": "Call My Phone",
             "artists": [
-                "Astrality",
-                "Leo Stannard"
+                "Lil Mosey"
             ],
-            "album": "Illuminate",
-            "played_at": "27/02/2025 - 09:57:12"
+            "album": "Call My Phone",
+            "played_at": "28/02/2025 - 10:49:34"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "28/02/2025 - 10:46:46"
         },
         {
             "song_name": "Hello Miss Johnson",
@@ -851,25 +869,6 @@
             ],
             "album": "VULTURES 1",
             "played_at": "27/02/2025 - 18:45:56"
-        },
-        {
-            "song_name": "No Bad Vibes",
-            "artists": [
-                "Jazzy",
-                "KILIMANJARO"
-            ],
-            "album": "No Bad Vibes",
-            "played_at": "27/02/2025 - 10:26:04"
-        },
-        {
-            "song_name": "Somedays",
-            "artists": [
-                "Sonny Fodera",
-                "Jazzy",
-                "D.O.D"
-            ],
-            "album": "Somedays",
-            "played_at": "27/02/2025 - 10:00:39"
         },
         {
             "song_name": "Call My Phone",
