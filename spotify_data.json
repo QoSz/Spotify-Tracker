@@ -2,453 +2,6 @@
     "total_plays": 50,
     "tracks": [
         {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "07/03/2025 - 07:38:17"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "07/03/2025 - 07:25:02"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "07/03/2025 - 07:17:02"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "07/03/2025 - 07:11:22"
-        },
-        {
-            "song_name": "Canal St. (feat. Bones)",
-            "artists": [
-                "A$AP Rocky",
-                "BONES"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "07/03/2025 - 07:09:03"
-        },
-        {
-            "song_name": "I'M ON ONE (feat. Drake)",
-            "artists": [
-                "Future",
-                "Drake"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "07/03/2025 - 06:53:55"
-        },
-        {
-            "song_name": "I'M ON ONE (feat. Drake)",
-            "artists": [
-                "Future",
-                "Drake"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "06/03/2025 - 08:10:53"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "06/03/2025 - 07:58:22"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "06/03/2025 - 07:56:28"
-        },
-        {
-            "song_name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
-            "artists": [
-                "41",
-                "Kyle Richh",
-                "Jenn Carter",
-                "TaTa",
-                "Dee Billz"
-            ],
-            "album": "Stomp Stomp",
-            "played_at": "06/03/2025 - 07:51:31"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Anybody",
-            "played_at": "04/03/2025 - 10:24:38"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "04/03/2025 - 10:23:52"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "04/03/2025 - 10:20:25"
-        },
-        {
-            "song_name": "The Count (feat. Wiz Khalifa)",
-            "artists": [
-                "Curren$y",
-                "Harry Fraud",
-                "Wiz Khalifa"
-            ],
-            "album": "The Marina",
-            "played_at": "04/03/2025 - 10:17:42"
-        },
-        {
-            "song_name": "Mwaki",
-            "artists": [
-                "Zerb",
-                "Sofiya Nzau"
-            ],
-            "album": "SURRENDER",
-            "played_at": "04/03/2025 - 10:14:27"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "04/03/2025 - 10:10:59"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "04/03/2025 - 10:07:46"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "04/03/2025 - 10:05:04"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "04/03/2025 - 10:02:14"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "04/03/2025 - 09:59:46"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "04/03/2025 - 09:55:33"
-        },
-        {
-            "song_name": "Canal St. (feat. Bones)",
-            "artists": [
-                "A$AP Rocky",
-                "BONES"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "04/03/2025 - 09:53:06"
-        },
-        {
-            "song_name": "I'M ON ONE (feat. Drake)",
-            "artists": [
-                "Future",
-                "Drake"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "04/03/2025 - 09:44:29"
-        },
-        {
-            "song_name": "Novocaine 2",
-            "artists": [
-                "Cloke",
-                "Shiloh Dynasty"
-            ],
-            "album": "Novocaine 2",
-            "played_at": "04/03/2025 - 09:39:39"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "04/03/2025 - 09:37:12"
-        },
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "04/03/2025 - 09:33:24"
-        },
-        {
-            "song_name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
-            "artists": [
-                "41",
-                "Kyle Richh",
-                "Jenn Carter",
-                "TaTa",
-                "Dee Billz"
-            ],
-            "album": "Stomp Stomp",
-            "played_at": "04/03/2025 - 09:31:32"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "02/03/2025 - 12:17:32"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "02/03/2025 - 11:35:55"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "02/03/2025 - 11:16:09"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "02/03/2025 - 11:13:16"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "01/03/2025 - 11:18:29"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "01/03/2025 - 11:18:29"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "01/03/2025 - 10:59:23"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "01/03/2025 - 10:45:56"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "01/03/2025 - 10:33:58"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "01/03/2025 - 10:31:37"
-        },
-        {
-            "song_name": "Canal St. (feat. Bones)",
-            "artists": [
-                "A$AP Rocky",
-                "BONES"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "01/03/2025 - 10:25:25"
-        },
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "01/03/2025 - 10:22:35"
-        },
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "28/02/2025 - 20:41:28"
-        },
-        {
-            "song_name": "Novocaine 2",
-            "artists": [
-                "Cloke",
-                "Shiloh Dynasty"
-            ],
-            "album": "Novocaine 2",
-            "played_at": "28/02/2025 - 14:06:59"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "28/02/2025 - 10:49:34"
-        },
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "28/02/2025 - 10:46:46"
-        },
-        {
-            "song_name": "STARS",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "28/02/2025 - 08:33:29"
-        },
-        {
-            "song_name": "Hello Miss Johnson",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Hello Miss Johnson",
-            "played_at": "28/02/2025 - 07:47:58"
-        },
-        {
-            "song_name": "BLUE SKY",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "INSANO",
-            "played_at": "28/02/2025 - 07:45:20"
-        },
-        {
-            "song_name": "TiFFANY (B)",
-            "artists": [
-                "IDK",
-                "Gunna"
-            ],
-            "album": "BRAVADO + INTiMO",
-            "played_at": "28/02/2025 - 07:41:46"
-        },
-        {
-            "song_name": "Fly god manners",
-            "artists": [
-                "jev."
-            ],
-            "album": "LONERWRLD, vol 1",
-            "played_at": "28/02/2025 - 07:39:30"
-        },
-        {
-            "song_name": "FIELD TRIP",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 2",
-            "played_at": "28/02/2025 - 07:37:27"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "28/02/2025 - 07:34:51"
-        },
-        {
             "song_name": "9",
             "artists": [
                 "Drake"
@@ -885,6 +438,434 @@
             ],
             "album": "Show Me Love (EDX Remix / Radio Edit)",
             "played_at": "02/03/2025 - 11:16:09"
+        },
+        {
+            "song_name": "Lovin On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Lovin On Me",
+            "played_at": "07/03/2025 - 12:36:44"
+        },
+        {
+            "song_name": "Retro Feelings",
+            "artists": [
+                "Bby Yoshando"
+            ],
+            "album": "Retro Feelings",
+            "played_at": "07/03/2025 - 12:34:23"
+        },
+        {
+            "song_name": "Careless",
+            "artists": [
+                "Gyyps"
+            ],
+            "album": "Careless",
+            "played_at": "07/03/2025 - 12:32:09"
+        },
+        {
+            "song_name": "Since I Got On",
+            "artists": [
+                "Kevin Powers",
+                "fernospazzin"
+            ],
+            "album": "Since I Got On",
+            "played_at": "07/03/2025 - 12:29:18"
+        },
+        {
+            "song_name": "Watch My Back",
+            "artists": [
+                "KAZEY J"
+            ],
+            "album": "Watch My Back",
+            "played_at": "07/03/2025 - 12:27:09"
+        },
+        {
+            "song_name": "Wildflower",
+            "artists": [
+                "MDMA"
+            ],
+            "album": "Peak Of Molly",
+            "played_at": "07/03/2025 - 12:25:04"
+        },
+        {
+            "song_name": "BackOutsideBoyz",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "07/03/2025 - 12:19:07"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "07/03/2025 - 12:16:37"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "07/03/2025 - 12:09:55"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "07/03/2025 - 12:07:54"
+        },
+        {
+            "song_name": "Huntin’ Wabbitz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "07/03/2025 - 12:04:58"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "07/03/2025 - 12:02:26"
+        },
+        {
+            "song_name": "9",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "07/03/2025 - 11:58:47"
+        },
+        {
+            "song_name": "No Idea",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "07/03/2025 - 11:55:35"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "07/03/2025 - 11:53:20"
+        },
+        {
+            "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "Wizkid"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "07/03/2025 - 11:50:33"
+        },
+        {
+            "song_name": "Sleepin With You",
+            "artists": [
+                "SADFACETHUGGIN",
+                "TOKINPOTENT"
+            ],
+            "album": "Emotionless - Sadface II",
+            "played_at": "07/03/2025 - 11:47:13"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "07/03/2025 - 11:44:29"
+        },
+        {
+            "song_name": "Try Me",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Try Me",
+            "played_at": "07/03/2025 - 11:40:58"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "07/03/2025 - 11:39:07"
+        },
+        {
+            "song_name": "Energy",
+            "artists": [
+                "Drake"
+            ],
+            "album": "If You're Reading This It's Too Late",
+            "played_at": "07/03/2025 - 11:36:52"
+        },
+        {
+            "song_name": "Truth In The Lies (feat. Lil Durk)",
+            "artists": [
+                "Central Cee",
+                "Lil Durk"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "07/03/2025 - 11:33:50"
+        },
+        {
+            "song_name": "I Just Need (with Lyrah)",
+            "artists": [
+                "Daniel Allan",
+                "Lyrah"
+            ],
+            "album": "Duality",
+            "played_at": "07/03/2025 - 11:31:37"
+        },
+        {
+            "song_name": "hakuna matata",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "07/03/2025 - 11:29:27"
+        },
+        {
+            "song_name": "Giving Me",
+            "artists": [
+                "Jazzy"
+            ],
+            "album": "Giving Me",
+            "played_at": "07/03/2025 - 11:27:36"
+        },
+        {
+            "song_name": "Catching Eyes",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Catching Eyes",
+            "played_at": "07/03/2025 - 11:25:05"
+        },
+        {
+            "song_name": "Anything For You",
+            "artists": [
+                "Nyday"
+            ],
+            "album": "Anything For You",
+            "played_at": "07/03/2025 - 11:20:57"
+        },
+        {
+            "song_name": "CRG (feat. Dave)",
+            "artists": [
+                "Central Cee",
+                "Dave"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "07/03/2025 - 11:19:01"
+        },
+        {
+            "song_name": "BURN",
+            "artists": [
+                "¥$",
+                "Kanye West",
+                "Ty Dolla $ign"
+            ],
+            "album": "VULTURES 1",
+            "played_at": "07/03/2025 - 11:13:10"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "07/03/2025 - 11:11:20"
+        },
+        {
+            "song_name": "90mph",
+            "artists": [
+                "JBEE",
+                "Sillage"
+            ],
+            "album": "90mph",
+            "played_at": "07/03/2025 - 11:09:03"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "07/03/2025 - 11:02:06"
+        },
+        {
+            "song_name": "/ (Forgotten)",
+            "artists": [
+                "mikeeysmind"
+            ],
+            "album": "/ (Forgotten)",
+            "played_at": "07/03/2025 - 07:38:17"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
+                "Drake",
+                "Tems"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "07/03/2025 - 07:25:02"
+        },
+        {
+            "song_name": "90mph",
+            "artists": [
+                "JBEE",
+                "Sillage"
+            ],
+            "album": "90mph",
+            "played_at": "07/03/2025 - 07:17:02"
+        },
+        {
+            "song_name": "Burberry Headband",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "07/03/2025 - 07:11:22"
+        },
+        {
+            "song_name": "Canal St. (feat. Bones)",
+            "artists": [
+                "A$AP Rocky",
+                "BONES"
+            ],
+            "album": "AT.LONG.LAST.A$AP",
+            "played_at": "07/03/2025 - 07:09:03"
+        },
+        {
+            "song_name": "I'M ON ONE (feat. Drake)",
+            "artists": [
+                "Future",
+                "Drake"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "07/03/2025 - 06:53:55"
+        },
+        {
+            "song_name": "I'M ON ONE (feat. Drake)",
+            "artists": [
+                "Future",
+                "Drake"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "06/03/2025 - 08:10:53"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "06/03/2025 - 07:58:22"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "06/03/2025 - 07:56:28"
+        },
+        {
+            "song_name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
+            "artists": [
+                "41",
+                "Kyle Richh",
+                "Jenn Carter",
+                "TaTa",
+                "Dee Billz"
+            ],
+            "album": "Stomp Stomp",
+            "played_at": "06/03/2025 - 07:51:31"
+        },
+        {
+            "song_name": "Anybody",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Anybody",
+            "played_at": "04/03/2025 - 10:24:38"
+        },
+        {
+            "song_name": "All Bad (feat. Lil Uzi Vert)",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "High Off Life",
+            "played_at": "04/03/2025 - 10:23:52"
+        },
+        {
+            "song_name": "Huntin’ Wabbitz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "04/03/2025 - 10:20:25"
+        },
+        {
+            "song_name": "The Count (feat. Wiz Khalifa)",
+            "artists": [
+                "Curren$y",
+                "Harry Fraud",
+                "Wiz Khalifa"
+            ],
+            "album": "The Marina",
+            "played_at": "04/03/2025 - 10:17:42"
+        },
+        {
+            "song_name": "Mwaki",
+            "artists": [
+                "Zerb",
+                "Sofiya Nzau"
+            ],
+            "album": "SURRENDER",
+            "played_at": "04/03/2025 - 10:14:27"
+        },
+        {
+            "song_name": "Fountains (with Tems)",
+            "artists": [
+                "Drake",
+                "Tems"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "04/03/2025 - 10:10:59"
+        },
+        {
+            "song_name": "No Introduction",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "04/03/2025 - 10:07:46"
+        },
+        {
+            "song_name": "Brilliant Mind II",
+            "artists": [
+                "Blanco",
+                "Nemzzz"
+            ],
+            "album": "Brilliant Mind II",
+            "played_at": "04/03/2025 - 10:05:04"
         },
         {
             "song_name": "Lovin On Me",
