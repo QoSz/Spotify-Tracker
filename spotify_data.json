@@ -2,6 +2,105 @@
     "total_plays": 50,
     "tracks": [
         {
+            "song_name": "Lovin On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Lovin On Me",
+            "played_at": "07/03/2025 - 12:36:44"
+        },
+        {
+            "song_name": "Retro Feelings",
+            "artists": [
+                "Bby Yoshando"
+            ],
+            "album": "Retro Feelings",
+            "played_at": "07/03/2025 - 12:34:23"
+        },
+        {
+            "song_name": "Careless",
+            "artists": [
+                "Gyyps"
+            ],
+            "album": "Careless",
+            "played_at": "07/03/2025 - 12:32:09"
+        },
+        {
+            "song_name": "Since I Got On",
+            "artists": [
+                "Kevin Powers",
+                "fernospazzin"
+            ],
+            "album": "Since I Got On",
+            "played_at": "07/03/2025 - 12:29:18"
+        },
+        {
+            "song_name": "Watch My Back",
+            "artists": [
+                "KAZEY J"
+            ],
+            "album": "Watch My Back",
+            "played_at": "07/03/2025 - 12:27:09"
+        },
+        {
+            "song_name": "Wildflower",
+            "artists": [
+                "MDMA"
+            ],
+            "album": "Peak Of Molly",
+            "played_at": "07/03/2025 - 12:25:04"
+        },
+        {
+            "song_name": "BackOutsideBoyz",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "07/03/2025 - 12:19:07"
+        },
+        {
+            "song_name": "MY EYES",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "07/03/2025 - 12:16:37"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "07/03/2025 - 12:09:55"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "07/03/2025 - 12:07:54"
+        },
+        {
+            "song_name": "Huntin’ Wabbitz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "07/03/2025 - 12:04:58"
+        },
+        {
+            "song_name": "Feelings Mutual",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "07/03/2025 - 12:02:26"
+        },
+        {
             "song_name": "9",
             "artists": [
                 "Drake"
@@ -329,115 +428,6 @@
             ],
             "album": "Brilliant Mind II",
             "played_at": "04/03/2025 - 10:05:04"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "04/03/2025 - 10:02:14"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "04/03/2025 - 09:59:46"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "04/03/2025 - 09:55:33"
-        },
-        {
-            "song_name": "Canal St. (feat. Bones)",
-            "artists": [
-                "A$AP Rocky",
-                "BONES"
-            ],
-            "album": "AT.LONG.LAST.A$AP",
-            "played_at": "04/03/2025 - 09:53:06"
-        },
-        {
-            "song_name": "I'M ON ONE (feat. Drake)",
-            "artists": [
-                "Future",
-                "Drake"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "04/03/2025 - 09:44:29"
-        },
-        {
-            "song_name": "Novocaine 2",
-            "artists": [
-                "Cloke",
-                "Shiloh Dynasty"
-            ],
-            "album": "Novocaine 2",
-            "played_at": "04/03/2025 - 09:39:39"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "04/03/2025 - 09:37:12"
-        },
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "04/03/2025 - 09:33:24"
-        },
-        {
-            "song_name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
-            "artists": [
-                "41",
-                "Kyle Richh",
-                "Jenn Carter",
-                "TaTa",
-                "Dee Billz"
-            ],
-            "album": "Stomp Stomp",
-            "played_at": "04/03/2025 - 09:31:32"
-        },
-        {
-            "song_name": "Covered By The Clouds",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Covered By The Clouds",
-            "played_at": "02/03/2025 - 12:17:32"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "02/03/2025 - 11:35:55"
-        },
-        {
-            "song_name": "Show Me Love - EDX Remix / Radio Edit",
-            "artists": [
-                "Sam Feldt",
-                "Kimberly Anne",
-                "EDX"
-            ],
-            "album": "Show Me Love (EDX Remix / Radio Edit)",
-            "played_at": "02/03/2025 - 11:16:09"
         },
         {
             "song_name": "Lovin On Me",
