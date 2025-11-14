@@ -48,6 +48,14 @@ def save_to_json(data, play_count, filename='spotify_data.json'):
 
     london_tz = pytz.timezone('Europe/London')
 
+    # Create a set of existing track signatures to avoid duplicates
+    existing_signatures = {
+        (track['song_name'], track['album'], tuple(track['artists']), track['played_at'])
+        for track in simplified_data
+    }
+
+    new_tracks_count = 0
+
     for item in data['items']:
         track = item['track']
         played_at = item['played_at']
@@ -55,7 +63,7 @@ def save_to_json(data, play_count, filename='spotify_data.json'):
             played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%S.%fZ')
         except ValueError:
             played_at_dt = datetime.strptime(played_at, '%Y-%m-%dT%H:%M:%SZ')
-        
+
         played_at_dt = pytz.utc.localize(played_at_dt).astimezone(london_tz)
         formatted_played_at = played_at_dt.strftime('%d/%m/%Y - %H:%M:%S')
 
@@ -65,15 +73,32 @@ def save_to_json(data, play_count, filename='spotify_data.json'):
             'album': track['album']['name'],
             'played_at': formatted_played_at
         }
-        simplified_data.append(track_info)
 
+        # Create signature for this track
+        track_signature = (
+            track_info['song_name'],
+            track_info['album'],
+            tuple(track_info['artists']),
+            track_info['played_at']
+        )
+
+        # Only add if not already present
+        if track_signature not in existing_signatures:
+            simplified_data.append(track_info)
+            existing_signatures.add(track_signature)
+            new_tracks_count += 1
+
+    # Keep only the last 200 tracks
     simplified_data = simplified_data[-200:]
+
+    # Update play count with new tracks
+    updated_play_count = play_count + new_tracks_count
 
     with open(filename, 'w', encoding='utf-8') as outfile:
         # Include the play count in the JSON file
-        json.dump({'total_plays': play_count, 'tracks': simplified_data}, outfile, ensure_ascii=False, indent=4)
+        json.dump({'total_plays': updated_play_count, 'tracks': simplified_data}, outfile, ensure_ascii=False, indent=4)
 
-    save_play_count(play_count)
+    save_play_count(updated_play_count)
 
 
 
