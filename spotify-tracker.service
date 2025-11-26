@@ -1,0 +1,22 @@
+[Unit]
+Description=Spotify Listening History Tracker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/yash/Documents/Coding-Projects/Python/Spotify-Tracker/run-spotify-tracker.sh
+WorkingDirectory=/home/yash/Documents/Coding-Projects/Python/Spotify-Tracker
+User=yash
+Environment="HOME=/home/yash"
+
+# Timeout settings
+TimeoutStartSec=300
+
+# Restart on failure (handled by timer, not service)
+# Logging to journal
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

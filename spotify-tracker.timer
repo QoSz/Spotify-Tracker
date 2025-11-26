@@ -1,0 +1,13 @@
+[Unit]
+Description=Run Spotify Tracker every 30 minutes
+
+[Timer]
+# Run every 30 minutes
+OnCalendar=*:00,30
+# Run missed jobs after suspend/shutdown/resume
+Persistent=true
+# Randomize start time by up to 2 minutes to avoid exact timing
+RandomizedDelaySec=120
+
+[Install]
+WantedBy=timers.target
