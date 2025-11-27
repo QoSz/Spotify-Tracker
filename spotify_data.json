@@ -1,5 +1,5 @@
 {
-    "total_plays": 69,
+    "total_plays": 70,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -996,6 +996,15 @@
             ],
             "album": "Man On The Moon: The End Of Day (Int'l Version)",
             "played_at": "26/11/2025 - 21:48:53"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "27/11/2025 - 06:59:50"
         }
     ]
 }
