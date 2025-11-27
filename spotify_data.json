@@ -1,5 +1,5 @@
 {
-    "total_plays": 66,
+    "total_plays": 69,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -971,6 +971,31 @@
             ],
             "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
             "played_at": "26/11/2025 - 15:56:52"
+        },
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "27/11/2025 - 06:19:08"
+        },
+        {
+            "song_name": "Fall Back (feat. Lil Tjay)",
+            "artists": [
+                "Lithe",
+                "Lil Tjay"
+            ],
+            "album": "Fall Back (feat. Lil Tjay)",
+            "played_at": "27/11/2025 - 06:06:38"
+        },
+        {
+            "song_name": "Soundtrack 2 My Life",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "26/11/2025 - 21:48:53"
         }
     ]
 }
