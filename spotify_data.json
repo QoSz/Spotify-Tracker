@@ -1,5 +1,5 @@
 {
-    "total_plays": 70,
+    "total_plays": 71,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1005,6 +1005,14 @@
             ],
             "album": "NOW OR NEVER",
             "played_at": "27/11/2025 - 06:59:50"
+        },
+        {
+            "song_name": "Man of the Year",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Man of the Year",
+            "played_at": "27/11/2025 - 12:21:37"
         }
     ]
 }
