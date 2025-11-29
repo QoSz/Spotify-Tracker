@@ -1,5 +1,5 @@
 {
-    "total_plays": 82,
+    "total_plays": 83,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1112,6 +1112,14 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "29/11/2025 - 06:20:20"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/11/2025 - 13:37:10"
         }
     ]
 }
