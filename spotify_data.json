@@ -1,5 +1,5 @@
 {
-    "total_plays": 81,
+    "total_plays": 82,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1103,6 +1103,15 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "28/11/2025 - 09:49:34"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "29/11/2025 - 06:20:20"
         }
     ]
 }
