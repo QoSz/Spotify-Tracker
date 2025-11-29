@@ -1,5 +1,5 @@
 {
-    "total_plays": 83,
+    "total_plays": 86,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1120,6 +1120,34 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "29/11/2025 - 13:37:10"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "29/11/2025 - 18:18:27"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "29/11/2025 - 18:18:22"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "29/11/2025 - 18:18:21"
         }
     ]
 }
