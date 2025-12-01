@@ -1,5 +1,5 @@
 {
-    "total_plays": 91,
+    "total_plays": 103,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1188,6 +1188,104 @@
             ],
             "album": "TELL 'EM YOU'RE MINE",
             "played_at": "01/12/2025 - 06:04:05"
+        },
+        {
+            "song_name": "Bruise",
+            "artists": [
+                "BETWEEN FRIENDS"
+            ],
+            "album": "I Love My Girl, She's My Boy",
+            "played_at": "01/12/2025 - 09:02:32"
+        },
+        {
+            "song_name": "it only gets worse, i promise",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "01/12/2025 - 08:59:33"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "01/12/2025 - 08:57:04"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "channel ORANGE",
+            "played_at": "01/12/2025 - 08:52:32"
+        },
+        {
+            "song_name": "Frisky",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "01/12/2025 - 08:51:23"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "01/12/2025 - 08:50:27"
+        },
+        {
+            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
+            "artists": [
+                "SAINt JHN",
+                "Lil Uzi Vert"
+            ],
+            "album": "While The World Was Burning",
+            "played_at": "01/12/2025 - 08:49:02"
+        },
+        {
+            "song_name": "The Prayer",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "A Kid Named Cudi",
+            "played_at": "01/12/2025 - 08:45:32"
+        },
+        {
+            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
+            "artists": [
+                "Drake",
+                "Peter Bjorn and John"
+            ],
+            "album": "So Far Gone",
+            "played_at": "01/12/2025 - 08:38:46"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "01/12/2025 - 08:37:04"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "01/12/2025 - 08:32:52"
+        },
+        {
+            "song_name": "Leave Her",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Withering",
+            "played_at": "01/12/2025 - 08:30:26"
         }
     ]
 }
