@@ -1,56 +1,6 @@
 {
-    "total_plays": 154,
+    "total_plays": 160,
     "tracks": [
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "04/03/2025 - 10:10:59"
-        },
-        {
-            "song_name": "No Introduction",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "04/03/2025 - 10:07:46"
-        },
-        {
-            "song_name": "Lovin On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Lovin On Me",
-            "played_at": "07/03/2025 - 12:36:44"
-        },
-        {
-            "song_name": "Retro Feelings",
-            "artists": [
-                "Bby Yoshando"
-            ],
-            "album": "Retro Feelings",
-            "played_at": "07/03/2025 - 12:34:23"
-        },
-        {
-            "song_name": "Careless",
-            "artists": [
-                "Gyyps"
-            ],
-            "album": "Careless",
-            "played_at": "07/03/2025 - 12:32:09"
-        },
-        {
-            "song_name": "Since I Got On",
-            "artists": [
-                "Kevin Powers",
-                "fernospazzin"
-            ],
-            "album": "Since I Got On",
-            "played_at": "07/03/2025 - 12:29:18"
-        },
         {
             "song_name": "Watch My Back",
             "artists": [
@@ -1698,6 +1648,58 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "01/12/2025 - 12:22:02"
+        },
+        {
+            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 13:57:52"
+        },
+        {
+            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 13:54:45"
+        },
+        {
+            "song_name": "Why",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "What Could Possibly Go Wrong",
+            "played_at": "01/12/2025 - 13:54:17"
+        },
+        {
+            "song_name": "BABY I'M BACK",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME (DELUXE VERSION)",
+            "played_at": "01/12/2025 - 13:52:16"
+        },
+        {
+            "song_name": "The Beach",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "01/12/2025 - 13:49:17"
+        },
+        {
+            "song_name": "The Beach",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "01/12/2025 - 13:47:19"
         }
     ]
 }
