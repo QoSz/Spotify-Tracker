@@ -1,5 +1,5 @@
 {
-    "total_plays": 89,
+    "total_plays": 91,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1172,6 +1172,22 @@
             ],
             "album": "Sofa Kings",
             "played_at": "30/11/2025 - 17:44:14"
+        },
+        {
+            "song_name": "No Sleep Leak",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "01/12/2025 - 06:15:42"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "TELL 'EM YOU'RE MINE",
+            "played_at": "01/12/2025 - 06:04:05"
         }
     ]
 }
