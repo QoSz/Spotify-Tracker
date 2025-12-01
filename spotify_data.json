@@ -1,14 +1,6 @@
 {
-    "total_plays": 180,
+    "total_plays": 181,
     "tracks": [
-        {
-            "song_name": "Giving Me",
-            "artists": [
-                "Jazzy"
-            ],
-            "album": "Giving Me",
-            "played_at": "07/03/2025 - 11:27:36"
-        },
         {
             "song_name": "Catching Eyes",
             "artists": [
@@ -1709,6 +1701,14 @@
             ],
             "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
             "played_at": "01/12/2025 - 14:31:48"
+        },
+        {
+            "song_name": "Situation",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Situation",
+            "played_at": "01/12/2025 - 18:01:27"
         }
     ]
 }
