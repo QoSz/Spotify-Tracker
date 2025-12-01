@@ -1,5 +1,5 @@
 {
-    "total_plays": 120,
+    "total_plays": 125,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1428,6 +1428,48 @@
             ],
             "album": "Rocket",
             "played_at": "01/12/2025 - 09:33:02"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "01/12/2025 - 10:29:23"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "01/12/2025 - 10:27:53"
+        },
+        {
+            "song_name": "YUKON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "01/12/2025 - 10:07:32"
+        },
+        {
+            "song_name": "Homecoming",
+            "artists": [
+                "Kanye West",
+                "Chris Martin"
+            ],
+            "album": "Graduation",
+            "played_at": "01/12/2025 - 10:05:04"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "01/12/2025 - 10:01:33"
         }
     ]
 }
