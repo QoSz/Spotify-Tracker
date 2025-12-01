@@ -1,84 +1,6 @@
 {
-    "total_plays": 171,
+    "total_plays": 180,
     "tracks": [
-        {
-            "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "Wizkid"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "07/03/2025 - 11:50:33"
-        },
-        {
-            "song_name": "Sleepin With You",
-            "artists": [
-                "SADFACETHUGGIN",
-                "TOKINPOTENT"
-            ],
-            "album": "Emotionless - Sadface II",
-            "played_at": "07/03/2025 - 11:47:13"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "07/03/2025 - 11:44:29"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "07/03/2025 - 11:40:58"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "07/03/2025 - 11:39:07"
-        },
-        {
-            "song_name": "Energy",
-            "artists": [
-                "Drake"
-            ],
-            "album": "If You're Reading This It's Too Late",
-            "played_at": "07/03/2025 - 11:36:52"
-        },
-        {
-            "song_name": "Truth In The Lies (feat. Lil Durk)",
-            "artists": [
-                "Central Cee",
-                "Lil Durk"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "07/03/2025 - 11:33:50"
-        },
-        {
-            "song_name": "I Just Need (with Lyrah)",
-            "artists": [
-                "Daniel Allan",
-                "Lyrah"
-            ],
-            "album": "Duality",
-            "played_at": "07/03/2025 - 11:31:37"
-        },
-        {
-            "song_name": "hakuna matata",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "07/03/2025 - 11:29:27"
-        },
         {
             "song_name": "Giving Me",
             "artists": [
@@ -1707,6 +1629,86 @@
             ],
             "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
             "played_at": "01/12/2025 - 14:00:42"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "01/12/2025 - 14:58:45"
+        },
+        {
+            "song_name": "How I Am",
+            "artists": [
+                "Aaron May",
+                "JAY Millz"
+            ],
+            "album": "No Recognition",
+            "played_at": "01/12/2025 - 14:54:45"
+        },
+        {
+            "song_name": "BLESSING",
+            "artists": [
+                "TWXN",
+                "LL Clawz",
+                "507KAZ"
+            ],
+            "album": "Project YVL",
+            "played_at": "01/12/2025 - 14:52:20"
+        },
+        {
+            "song_name": "On Time (with John Legend)",
+            "artists": [
+                "Metro Boomin",
+                "John Legend"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "01/12/2025 - 14:49:42"
+        },
+        {
+            "song_name": "Overdrive",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "01/12/2025 - 14:47:12"
+        },
+        {
+            "song_name": "Leather Coat",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "01/12/2025 - 14:43:32"
+        },
+        {
+            "song_name": "It Can't Be",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "01/12/2025 - 14:37:50"
+        },
+        {
+            "song_name": "Last Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "01/12/2025 - 14:35:46"
+        },
+        {
+            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "James Blake",
+                "A$AP Rocky",
+                "21 Savage"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 14:31:48"
         }
     ]
 }
