@@ -1,5 +1,5 @@
 {
-    "total_plays": 111,
+    "total_plays": 120,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1354,6 +1354,80 @@
             ],
             "album": "Swimming",
             "played_at": "01/12/2025 - 09:06:32"
+        },
+        {
+            "song_name": "The Hardest Part",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Messy",
+            "played_at": "01/12/2025 - 09:58:37"
+        },
+        {
+            "song_name": "Cudi Zone",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "01/12/2025 - 09:55:33"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "01/12/2025 - 09:51:32"
+        },
+        {
+            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+            "artists": [
+                "Metro Boomin",
+                "Coi Leray"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 09:48:33"
+        },
+        {
+            "song_name": "Cherry Flavoured",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Chip Chrome & The Mono-Tones",
+            "played_at": "01/12/2025 - 09:45:38"
+        },
+        {
+            "song_name": "Flashing Lights",
+            "artists": [
+                "Kanye West",
+                "Dwele"
+            ],
+            "album": "Graduation",
+            "played_at": "01/12/2025 - 09:42:02"
+        },
+        {
+            "song_name": "DAISIES",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "01/12/2025 - 09:38:02"
+        },
+        {
+            "song_name": "ENDZONE",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "ENDZONE",
+            "played_at": "01/12/2025 - 09:35:02"
+        },
+        {
+            "song_name": "Great Pretender",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Rocket",
+            "played_at": "01/12/2025 - 09:33:02"
         }
     ]
 }
