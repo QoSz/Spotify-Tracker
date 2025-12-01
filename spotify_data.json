@@ -1,96 +1,6 @@
 {
-    "total_plays": 160,
+    "total_plays": 171,
     "tracks": [
-        {
-            "song_name": "Watch My Back",
-            "artists": [
-                "KAZEY J"
-            ],
-            "album": "Watch My Back",
-            "played_at": "07/03/2025 - 12:27:09"
-        },
-        {
-            "song_name": "Wildflower",
-            "artists": [
-                "MDMA"
-            ],
-            "album": "Peak Of Molly",
-            "played_at": "07/03/2025 - 12:25:04"
-        },
-        {
-            "song_name": "BackOutsideBoyz",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "07/03/2025 - 12:19:07"
-        },
-        {
-            "song_name": "MY EYES",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "UTOPIA",
-            "played_at": "07/03/2025 - 12:16:37"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "07/03/2025 - 12:09:55"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "07/03/2025 - 12:07:54"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "07/03/2025 - 12:04:58"
-        },
-        {
-            "song_name": "Feelings Mutual",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "07/03/2025 - 12:02:26"
-        },
-        {
-            "song_name": "9",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "07/03/2025 - 11:58:47"
-        },
-        {
-            "song_name": "No Idea",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "07/03/2025 - 11:55:35"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "07/03/2025 - 11:53:20"
-        },
         {
             "song_name": "Borrowed Love (feat. Swae Lee & WizKid)",
             "artists": [
@@ -1700,6 +1610,103 @@
             ],
             "album": "Wiped Out!",
             "played_at": "01/12/2025 - 13:47:19"
+        },
+        {
+            "song_name": "ALL EYES",
+            "artists": [
+                "TWXN",
+                "LL Clawz",
+                "507KAZ"
+            ],
+            "album": "Project YVL",
+            "played_at": "01/12/2025 - 14:28:15"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "01/12/2025 - 14:26:20"
+        },
+        {
+            "song_name": "Wasted",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "01/12/2025 - 14:21:46"
+        },
+        {
+            "song_name": "Forever & Again (From Barbie The Album)",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "Forever & Again (From Barbie The Album)",
+            "played_at": "01/12/2025 - 14:18:50"
+        },
+        {
+            "song_name": "Lock On Me (with Travis Scott & Future)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Future"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "01/12/2025 - 14:16:13"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "01/12/2025 - 14:13:16"
+        },
+        {
+            "song_name": "Temporary (feat. Don Toliver)",
+            "artists": [
+                "6LACK",
+                "Don Toliver"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "01/12/2025 - 14:10:17"
+        },
+        {
+            "song_name": "What Would Pluto Do",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs",
+            "played_at": "01/12/2025 - 14:07:17"
+        },
+        {
+            "song_name": "Geronimo",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "01/12/2025 - 14:04:19"
+        },
+        {
+            "song_name": "All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 14:02:17"
+        },
+        {
+            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "01/12/2025 - 14:00:42"
         }
     ]
 }
