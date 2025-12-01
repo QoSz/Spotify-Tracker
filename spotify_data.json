@@ -1,5 +1,5 @@
 {
-    "total_plays": 103,
+    "total_plays": 111,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1286,6 +1286,74 @@
             ],
             "album": "Withering",
             "played_at": "01/12/2025 - 08:30:26"
+        },
+        {
+            "song_name": "MAFIA",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "01/12/2025 - 09:30:02"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "01/12/2025 - 09:26:03"
+        },
+        {
+            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
+            "artists": [
+                "Metro Boomin",
+                "Future",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "01/12/2025 - 09:23:31"
+        },
+        {
+            "song_name": "NO LOWER",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "NO LOWER",
+            "played_at": "01/12/2025 - 09:20:02"
+        },
+        {
+            "song_name": "Why Is It Light Out?",
+            "artists": [
+                "The Kilans"
+            ],
+            "album": "Why Is It Light Out?",
+            "played_at": "01/12/2025 - 09:17:32"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "01/12/2025 - 09:13:32"
+        },
+        {
+            "song_name": "hospital beach",
+            "artists": [
+                "Cottonwood Firing Squad"
+            ],
+            "album": "you missed the best part",
+            "played_at": "01/12/2025 - 09:08:32"
+        },
+        {
+            "song_name": "Dunno",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "01/12/2025 - 09:06:32"
         }
     ]
 }
