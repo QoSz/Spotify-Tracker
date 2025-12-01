@@ -1,5 +1,5 @@
 {
-    "total_plays": 136,
+    "total_plays": 145,
     "tracks": [
         {
             "song_name": "Mwaki",
@@ -1560,6 +1560,79 @@
             ],
             "album": "Chip Chrome & The Mono-Tones (Deluxe)",
             "played_at": "01/12/2025 - 10:33:22"
+        },
+        {
+            "song_name": "Navajo",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Navajo",
+            "played_at": "01/12/2025 - 11:29:52"
+        },
+        {
+            "song_name": "LIKE WOW",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "LIKE WOW",
+            "played_at": "01/12/2025 - 11:26:56"
+        },
+        {
+            "song_name": "Pain 1993 (with Playboi Carti)",
+            "artists": [
+                "Drake",
+                "Playboi Carti"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "01/12/2025 - 11:24:22"
+        },
+        {
+            "song_name": "Moon",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Donda",
+            "played_at": "01/12/2025 - 11:21:53"
+        },
+        {
+            "song_name": "Thoughts from a Balcony",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Macadelic",
+            "played_at": "01/12/2025 - 11:19:23"
+        },
+        {
+            "song_name": "Eventually",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "01/12/2025 - 11:16:12"
+        },
+        {
+            "song_name": "Casita",
+            "artists": [
+                "Goth Babe"
+            ],
+            "album": "Casita",
+            "played_at": "01/12/2025 - 11:10:52"
+        },
+        {
+            "song_name": "collage",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "01/12/2025 - 11:07:23"
+        },
+        {
+            "song_name": "Fire for You",
+            "artists": [
+                "Cannons"
+            ],
+            "album": "Shadows",
+            "played_at": "01/12/2025 - 11:04:57"
         }
     ]
 }
