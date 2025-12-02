@@ -1,14 +1,6 @@
 {
-    "total_plays": 220,
+    "total_plays": 221,
     "tracks": [
-        {
-            "song_name": "back to friends",
-            "artists": [
-                "sombr"
-            ],
-            "album": "I Barely Know Her",
-            "played_at": "26/11/2025 - 13:21:03"
-        },
         {
             "song_name": "Good for You",
             "artists": [
@@ -1706,6 +1698,16 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "02/12/2025 - 18:43:11"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "02/12/2025 - 19:23:07"
         }
     ]
 }
