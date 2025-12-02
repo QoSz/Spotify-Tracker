@@ -1,23 +1,6 @@
 {
-    "total_plays": 182,
+    "total_plays": 184,
     "tracks": [
-        {
-            "song_name": "Anything For You",
-            "artists": [
-                "Nyday"
-            ],
-            "album": "Anything For You",
-            "played_at": "07/03/2025 - 11:20:57"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "07/03/2025 - 11:19:01"
-        },
         {
             "song_name": "BURN",
             "artists": [
@@ -1709,6 +1692,23 @@
             ],
             "album": "Man On The Moon II: The Legend Of Mr. Rager",
             "played_at": "01/12/2025 - 20:21:58"
+        },
+        {
+            "song_name": "Time Heals All",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "02/12/2025 - 09:59:27"
+        },
+        {
+            "song_name": "I CAN’T LET GO",
+            "artists": [
+                "Lil Tecca",
+                "Don Toliver"
+            ],
+            "album": "PLAN A",
+            "played_at": "02/12/2025 - 09:55:34"
         }
     ]
 }
