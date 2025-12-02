@@ -1,85 +1,6 @@
 {
-    "total_plays": 184,
+    "total_plays": 193,
     "tracks": [
-        {
-            "song_name": "BURN",
-            "artists": [
-                "¥$",
-                "Kanye West",
-                "Ty Dolla $ign"
-            ],
-            "album": "VULTURES 1",
-            "played_at": "07/03/2025 - 11:13:10"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "07/03/2025 - 11:11:20"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "07/03/2025 - 11:09:03"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "07/03/2025 - 11:02:06"
-        },
-        {
-            "song_name": "Red Leather",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "J. Cole"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "07/03/2025 - 07:45:47"
-        },
-        {
-            "song_name": "/ (Forgotten)",
-            "artists": [
-                "mikeeysmind"
-            ],
-            "album": "/ (Forgotten)",
-            "played_at": "07/03/2025 - 07:38:17"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "07/03/2025 - 07:25:02"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "07/03/2025 - 07:17:02"
-        },
-        {
-            "song_name": "Burberry Headband",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "07/03/2025 - 07:11:22"
-        },
         {
             "song_name": "Canal St. (feat. Bones)",
             "artists": [
@@ -1709,6 +1630,88 @@
             ],
             "album": "PLAN A",
             "played_at": "02/12/2025 - 09:55:34"
+        },
+        {
+            "song_name": "Hunnids",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "02/12/2025 - 10:27:19"
+        },
+        {
+            "song_name": "Somewhere to Fly (with Don Toliver)",
+            "artists": [
+                "Kid Cudi",
+                "Don Toliver"
+            ],
+            "album": "Entergalactic",
+            "played_at": "02/12/2025 - 10:24:31"
+        },
+        {
+            "song_name": "Common Ground",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "02/12/2025 - 10:21:34"
+        },
+        {
+            "song_name": "Metro Spider (with Young Thug)",
+            "artists": [
+                "Metro Boomin",
+                "Young Thug"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "02/12/2025 - 10:19:54"
+        },
+        {
+            "song_name": "KAPITOL DENIM",
+            "artists": [
+                "LUCKI",
+                "Future"
+            ],
+            "album": "FLAWLESS LIKE ME",
+            "played_at": "02/12/2025 - 10:15:17"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "02/12/2025 - 10:13:19"
+        },
+        {
+            "song_name": "Jonesboro",
+            "artists": [
+                "Young Thug"
+            ],
+            "album": "BUSINESS IS BUSINESS",
+            "played_at": "02/12/2025 - 10:08:26"
+        },
+        {
+            "song_name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+            "artists": [
+                "Jack Harlow",
+                "Static Major",
+                "Bryson Tiller"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "02/12/2025 - 10:05:41"
+        },
+        {
+            "song_name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Wizkid",
+                "BEAM",
+                "Toian"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "02/12/2025 - 10:02:44"
         }
     ]
 }
