@@ -1,14 +1,6 @@
 {
-    "total_plays": 217,
+    "total_plays": 218,
     "tracks": [
-        {
-            "song_name": "messy",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "messy",
-            "played_at": "26/11/2025 - 14:21:30"
-        },
         {
             "song_name": "Talk of the Town",
             "artists": [
@@ -1707,6 +1699,15 @@
             ],
             "album": "Love Sick",
             "played_at": "02/12/2025 - 14:48:31"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "02/12/2025 - 17:35:13"
         }
     ]
 }

@@ -4,12 +4,12 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**217** songs listened to
+**218** songs listened to
 
 - **172** unique artists
 - **164** unique albums
 - **216** unique songs
-- **26.4** songs per day (average)
+- **26.5** songs per day (average)
 
 ## Top Artists (All Time)
 
@@ -17,7 +17,7 @@ Tracking my Spotify listening history.
 2. Drake (28 plays)
 3. Kid Cudi (25 plays)
 4. Metro Boomin (19 plays)
-5. Lil Uzi Vert (12 plays)
+5. Lil Uzi Vert (13 plays)
 
 ## Listening Streak
 
