@@ -1,33 +1,6 @@
 {
-    "total_plays": 203,
+    "total_plays": 206,
     "tracks": [
-        {
-            "song_name": "Same Thing",
-            "artists": [
-                "Ely Oaks",
-                "LAVINIA"
-            ],
-            "album": "Same Thing",
-            "played_at": "26/11/2025 - 15:03:54"
-        },
-        {
-            "song_name": "Beside Of Me",
-            "artists": [
-                "nimino",
-                "Maverick Sabre"
-            ],
-            "album": "Beside Of Me",
-            "played_at": "26/11/2025 - 15:01:54"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "26/11/2025 - 14:58:22"
-        },
         {
             "song_name": "Miss Your Body",
             "artists": [
@@ -1710,6 +1683,30 @@
             ],
             "album": "Flu Game",
             "played_at": "02/12/2025 - 11:01:11"
+        },
+        {
+            "song_name": "Self Love - Spider-Man: Across the Spider-Verse - Instrumental",
+            "artists": [
+                "Metro Boomin"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)]",
+            "played_at": "02/12/2025 - 13:28:34"
+        },
+        {
+            "song_name": "Situation",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Situation",
+            "played_at": "02/12/2025 - 13:25:20"
+        },
+        {
+            "song_name": "Leather Coat",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "02/12/2025 - 13:24:41"
         }
     ]
 }
