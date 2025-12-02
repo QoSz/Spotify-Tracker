@@ -1,24 +1,6 @@
 {
-    "total_plays": 218,
+    "total_plays": 220,
     "tracks": [
-        {
-            "song_name": "Talk of the Town",
-            "artists": [
-                "Fred again..",
-                "Sammy Virji",
-                "Reggie"
-            ],
-            "album": "Talk of the Town",
-            "played_at": "26/11/2025 - 14:17:51"
-        },
-        {
-            "song_name": "Goodie Bag",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Goodie Bag",
-            "played_at": "26/11/2025 - 13:23:33"
-        },
         {
             "song_name": "back to friends",
             "artists": [
@@ -1708,6 +1690,22 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "02/12/2025 - 17:35:13"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "02/12/2025 - 18:49:06"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "02/12/2025 - 18:43:11"
         }
     ]
 }
