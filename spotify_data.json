@@ -1,94 +1,6 @@
 {
-    "total_plays": 206,
+    "total_plays": 216,
     "tracks": [
-        {
-            "song_name": "Miss Your Body",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Miss Your Body",
-            "played_at": "26/11/2025 - 14:55:22"
-        },
-        {
-            "song_name": "Victory Lap",
-            "artists": [
-                "Fred again..",
-                "Skepta",
-                "PlaqueBoyMax"
-            ],
-            "album": "Victory Lap",
-            "played_at": "26/11/2025 - 14:48:52"
-        },
-        {
-            "song_name": "All I Know (with Khalid)",
-            "artists": [
-                "Rudimental",
-                "Khalid"
-            ],
-            "album": "RUDIM3NTAL",
-            "played_at": "26/11/2025 - 14:46:22"
-        },
-        {
-            "song_name": "Fire Fire",
-            "artists": [
-                "Shimza",
-                "AR/CO",
-                "Kasango"
-            ],
-            "album": "Fire Fire",
-            "played_at": "26/11/2025 - 14:43:21"
-        },
-        {
-            "song_name": "tell you straight",
-            "artists": [
-                "jigitz"
-            ],
-            "album": "all my exes live in brooklyn",
-            "played_at": "26/11/2025 - 14:40:52"
-        },
-        {
-            "song_name": "Maui Wowie",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "The Boy Who Flew To The Moon (Vol. 1)",
-            "played_at": "26/11/2025 - 14:38:21"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "26/11/2025 - 14:36:21"
-        },
-        {
-            "song_name": "Crazy",
-            "artists": [
-                "Myles Lloyd",
-                "BUNT."
-            ],
-            "album": "Crazy",
-            "played_at": "26/11/2025 - 14:34:10"
-        },
-        {
-            "song_name": "Sweet Disposition (a moment, a love)",
-            "artists": [
-                "Lost Frequencies",
-                "The Temper Trap"
-            ],
-            "album": "Sweet Disposition (a moment, a love)",
-            "played_at": "26/11/2025 - 14:31:31"
-        },
-        {
-            "song_name": "Shiver",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "26/11/2025 - 14:28:02"
-        },
         {
             "song_name": "Location",
             "artists": [
@@ -1707,6 +1619,95 @@
             ],
             "album": "Love Sick",
             "played_at": "02/12/2025 - 13:24:41"
+        },
+        {
+            "song_name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+            "artists": [
+                "Pusha T",
+                "Lil Uzi Vert",
+                "Don Toliver"
+            ],
+            "album": "It's Almost Dry",
+            "played_at": "02/12/2025 - 14:01:04"
+        },
+        {
+            "song_name": "What It Take",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "Outside Lookin In",
+            "played_at": "02/12/2025 - 13:58:49"
+        },
+        {
+            "song_name": "Blame On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "02/12/2025 - 13:56:26"
+        },
+        {
+            "song_name": "Amen (feat. Teezo Touchdown)",
+            "artists": [
+                "Drake",
+                "Teezo Touchdown"
+            ],
+            "album": "For All The Dogs",
+            "played_at": "02/12/2025 - 13:51:47"
+        },
+        {
+            "song_name": "Am I Dreaming - Instrumental",
+            "artists": [
+                "Metro Boomin"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)]",
+            "played_at": "02/12/2025 - 13:49:04"
+        },
+        {
+            "song_name": "Cinderella (feat. Toro y Moi)",
+            "artists": [
+                "Don Toliver",
+                "Toro y Moi"
+            ],
+            "album": "Love Sick",
+            "played_at": "02/12/2025 - 13:44:35"
+        },
+        {
+            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
+            "artists": [
+                "Young Stoner Life",
+                "Young Thug",
+                "Bslime",
+                "Don Toliver"
+            ],
+            "album": "Slime Language 2 (Deluxe)",
+            "played_at": "02/12/2025 - 13:41:09"
+        },
+        {
+            "song_name": "No Recognition",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "02/12/2025 - 13:37:04"
+        },
+        {
+            "song_name": "I CAN’T LET GO",
+            "artists": [
+                "Lil Tecca",
+                "Don Toliver"
+            ],
+            "album": "PLAN A",
+            "played_at": "02/12/2025 - 13:34:33"
+        },
+        {
+            "song_name": "All The Parties (feat. Chief Keef)",
+            "artists": [
+                "Drake",
+                "Chief Keef"
+            ],
+            "album": "For All The Dogs",
+            "played_at": "02/12/2025 - 13:32:04"
         }
     ]
 }
