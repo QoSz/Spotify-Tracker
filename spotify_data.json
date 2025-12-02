@@ -1,14 +1,6 @@
 {
-    "total_plays": 181,
+    "total_plays": 182,
     "tracks": [
-        {
-            "song_name": "Catching Eyes",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Catching Eyes",
-            "played_at": "07/03/2025 - 11:25:05"
-        },
         {
             "song_name": "Anything For You",
             "artists": [
@@ -1709,6 +1701,14 @@
             ],
             "album": "Situation",
             "played_at": "01/12/2025 - 18:01:27"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "01/12/2025 - 20:21:58"
         }
     ]
 }
