@@ -1,16 +1,6 @@
 {
-    "total_plays": 216,
+    "total_plays": 217,
     "tracks": [
-        {
-            "song_name": "Location",
-            "artists": [
-                "Zerb",
-                "Ty Dolla $ign",
-                "Wiz Khalifa"
-            ],
-            "album": "Location",
-            "played_at": "26/11/2025 - 14:24:11"
-        },
         {
             "song_name": "messy",
             "artists": [
@@ -1708,6 +1698,15 @@
             ],
             "album": "For All The Dogs",
             "played_at": "02/12/2025 - 13:32:04"
+        },
+        {
+            "song_name": "Go Down (feat. TisaKorean)",
+            "artists": [
+                "Don Toliver",
+                "TisaKorean"
+            ],
+            "album": "Love Sick",
+            "played_at": "02/12/2025 - 14:48:31"
         }
     ]
 }
