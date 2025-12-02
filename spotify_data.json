@@ -1,53 +1,6 @@
 {
-    "total_plays": 198,
+    "total_plays": 203,
     "tracks": [
-        {
-            "song_name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
-            "artists": [
-                "41",
-                "Kyle Richh",
-                "Jenn Carter",
-                "TaTa",
-                "Dee Billz"
-            ],
-            "album": "Stomp Stomp",
-            "played_at": "06/03/2025 - 07:51:31"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Anybody",
-            "played_at": "04/03/2025 - 10:24:38"
-        },
-        {
-            "song_name": "All Bad (feat. Lil Uzi Vert)",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "High Off Life",
-            "played_at": "04/03/2025 - 10:23:52"
-        },
-        {
-            "song_name": "Huntin’ Wabbitz",
-            "artists": [
-                "J. Cole"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "04/03/2025 - 10:20:25"
-        },
-        {
-            "song_name": "The Count (feat. Wiz Khalifa)",
-            "artists": [
-                "Curren$y",
-                "Harry Fraud",
-                "Wiz Khalifa"
-            ],
-            "album": "The Marina",
-            "played_at": "04/03/2025 - 10:17:42"
-        },
         {
             "song_name": "Same Thing",
             "artists": [
@@ -1714,6 +1667,49 @@
             ],
             "album": "Project YVL",
             "played_at": "02/12/2025 - 10:46:28"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "02/12/2025 - 11:15:25"
+        },
+        {
+            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "21 Savage"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "02/12/2025 - 11:11:05"
+        },
+        {
+            "song_name": "THANK GOD",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "UTOPIA",
+            "played_at": "02/12/2025 - 11:07:37"
+        },
+        {
+            "song_name": "Fact (feat. Lil Uzi Vert)",
+            "artists": [
+                "Ghostluvme",
+                "Lil Uzi Vert"
+            ],
+            "album": "Bohunk",
+            "played_at": "02/12/2025 - 11:05:04"
+        },
+        {
+            "song_name": "Flu Game",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Flu Game",
+            "played_at": "02/12/2025 - 11:01:11"
         }
     ]
 }
