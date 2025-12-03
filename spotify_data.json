@@ -1,23 +1,6 @@
 {
-    "total_plays": 260,
+    "total_plays": 262,
     "tracks": [
-        {
-            "song_name": "OWA OWA",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "26/11/2025 - 16:12:01"
-        },
-        {
-            "song_name": "Erase Me - Main",
-            "artists": [
-                "Kid Cudi",
-                "Kanye West"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "26/11/2025 - 16:09:52"
-        },
         {
             "song_name": "My Love (2024)",
             "artists": [
@@ -1724,6 +1707,23 @@
             ],
             "album": "Man On The Moon: The End Of Day (Int'l Version)",
             "played_at": "03/12/2025 - 17:43:25"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "03/12/2025 - 18:27:54"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "03/12/2025 - 18:23:33"
         }
     ]
 }
