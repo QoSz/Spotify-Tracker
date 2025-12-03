@@ -1,115 +1,6 @@
 {
-    "total_plays": 245,
+    "total_plays": 258,
     "tracks": [
-        {
-            "song_name": "Same Thing",
-            "artists": [
-                "Ely Oaks",
-                "LAVINIA"
-            ],
-            "album": "Same Thing",
-            "played_at": "26/11/2025 - 06:48:55"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "26/11/2025 - 06:48:53"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "26/11/2025 - 06:48:43"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "26/11/2025 - 06:48:37"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "26/11/2025 - 06:48:30"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "26/11/2025 - 15:45:48"
-        },
-        {
-            "song_name": "CLARITY",
-            "artists": [
-                "xxtristanxo"
-            ],
-            "album": "CLARITY",
-            "played_at": "26/11/2025 - 16:44:03"
-        },
-        {
-            "song_name": "Midnight Life",
-            "artists": [
-                "White Panda"
-            ],
-            "album": "Midnight Life",
-            "played_at": "26/11/2025 - 16:41:03"
-        },
-        {
-            "song_name": "Why'd You Only Call Me When You're High?",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "AM",
-            "played_at": "26/11/2025 - 16:36:26"
-        },
-        {
-            "song_name": "Stronger",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "26/11/2025 - 16:33:22"
-        },
-        {
-            "song_name": "Big City Life",
-            "artists": [
-                "Luude",
-                "Mattafix"
-            ],
-            "album": "Big City Life",
-            "played_at": "26/11/2025 - 16:28:22"
-        },
-        {
-            "song_name": "High and I Like it",
-            "artists": [
-                "it's murph",
-                "Evalyn"
-            ],
-            "album": "High and I Like it",
-            "played_at": "26/11/2025 - 16:26:07"
-        },
-        {
-            "song_name": "Drugs I Like",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Drugs I Like",
-            "played_at": "26/11/2025 - 16:22:15"
-        },
         {
             "song_name": "NOW OR NEVER",
             "artists": [
@@ -1721,6 +1612,115 @@
             ],
             "album": "Soweto (with Don Toliver, Rema and Tempoe)",
             "played_at": "03/12/2025 - 09:05:10"
+        },
+        {
+            "song_name": "Infatuation",
+            "artists": [
+                "Takeoff"
+            ],
+            "album": "The Last Rocket",
+            "played_at": "03/12/2025 - 16:56:47"
+        },
+        {
+            "song_name": "NIGHT RIDER",
+            "artists": [
+                "Joji"
+            ],
+            "album": "SMITHEREENS",
+            "played_at": "03/12/2025 - 16:53:18"
+        },
+        {
+            "song_name": "Overload",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "03/12/2025 - 16:50:47"
+        },
+        {
+            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+            "artists": [
+                "Metro Boomin",
+                "Coi Leray"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "03/12/2025 - 16:46:38"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "03/12/2025 - 16:42:47"
+        },
+        {
+            "song_name": "there he go",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "03/12/2025 - 16:40:49"
+        },
+        {
+            "song_name": "No Enhancers",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "03/12/2025 - 16:37:49"
+        },
+        {
+            "song_name": "SNAKE EYES",
+            "artists": [
+                "Aries"
+            ],
+            "album": "SNAKE EYES",
+            "played_at": "03/12/2025 - 16:36:18"
+        },
+        {
+            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
+            "artists": [
+                "Metro Boomin",
+                "Future",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "03/12/2025 - 16:34:18"
+        },
+        {
+            "song_name": "Drink N Dance",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "03/12/2025 - 16:30:47"
+        },
+        {
+            "song_name": "Company Pt. 3",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "03/12/2025 - 16:27:22"
+        },
+        {
+            "song_name": "Flooded The Face",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Pink Tape",
+            "played_at": "03/12/2025 - 16:23:48"
+        },
+        {
+            "song_name": "Flooded The Face",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Pink Tape",
+            "played_at": "03/12/2025 - 16:22:48"
         }
     ]
 }
