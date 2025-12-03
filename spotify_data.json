@@ -1,23 +1,6 @@
 {
-    "total_plays": 258,
+    "total_plays": 260,
     "tracks": [
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "26/11/2025 - 16:19:17"
-        },
-        {
-            "song_name": "Not Like Us",
-            "artists": [
-                "Kendrick Lamar"
-            ],
-            "album": "Not Like Us",
-            "played_at": "26/11/2025 - 16:16:51"
-        },
         {
             "song_name": "OWA OWA",
             "artists": [
@@ -1721,6 +1704,26 @@
             ],
             "album": "Pink Tape",
             "played_at": "03/12/2025 - 16:22:48"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "03/12/2025 - 17:48:47"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "03/12/2025 - 17:43:25"
         }
     ]
 }
