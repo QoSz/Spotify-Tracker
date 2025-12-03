@@ -1,24 +1,6 @@
 {
-    "total_plays": 262,
+    "total_plays": 264,
     "tracks": [
-        {
-            "song_name": "My Love (2024)",
-            "artists": [
-                "Alex Wann",
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love (2024)",
-            "played_at": "26/11/2025 - 16:06:22"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "26/11/2025 - 16:03:22"
-        },
         {
             "song_name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
             "artists": [
@@ -1724,6 +1706,24 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "03/12/2025 - 18:23:33"
+        },
+        {
+            "song_name": "My Legacy",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "03/12/2025 - 18:40:32"
+        },
+        {
+            "song_name": "Tic Tac",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "03/12/2025 - 18:37:19"
         }
     ]
 }
