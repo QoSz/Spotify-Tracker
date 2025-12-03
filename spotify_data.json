@@ -1,100 +1,6 @@
 {
-    "total_plays": 229,
+    "total_plays": 240,
     "tracks": [
-        {
-            "song_name": "Fake Friends",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Distro Kid",
-            "played_at": "26/11/2025 - 12:15:20"
-        },
-        {
-            "song_name": "3am",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "3am",
-            "played_at": "26/11/2025 - 12:06:50"
-        },
-        {
-            "song_name": "Mona Lisa",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Sunburn",
-            "played_at": "26/11/2025 - 12:04:20"
-        },
-        {
-            "song_name": "Black Friday (pretty like the sun)",
-            "artists": [
-                "Lost Frequencies",
-                "Tom Odell"
-            ],
-            "album": "Black Friday (pretty like the sun)",
-            "played_at": "26/11/2025 - 12:00:50"
-        },
-        {
-            "song_name": "TRIPPIN",
-            "artists": [
-                "BUNT.",
-                "Mapei"
-            ],
-            "album": "TRIPPIN",
-            "played_at": "26/11/2025 - 11:58:50"
-        },
-        {
-            "song_name": "TRIPPIN",
-            "artists": [
-                "BUNT.",
-                "Mapei"
-            ],
-            "album": "TRIPPIN",
-            "played_at": "26/11/2025 - 11:55:52"
-        },
-        {
-            "song_name": "Drugs I Like",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Drugs I Like",
-            "played_at": "26/11/2025 - 11:44:20"
-        },
-        {
-            "song_name": "Mwaki",
-            "artists": [
-                "Zerb",
-                "Sofiya Nzau"
-            ],
-            "album": "Mwaki (Major Lazer Remix)",
-            "played_at": "26/11/2025 - 11:40:50"
-        },
-        {
-            "song_name": "messy",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "messy",
-            "played_at": "26/11/2025 - 11:37:20"
-        },
-        {
-            "song_name": "Focus (feat. CLOVES)",
-            "artists": [
-                "John Summit",
-                "CLOVES"
-            ],
-            "album": "Focus (feat. CLOVES)",
-            "played_at": "26/11/2025 - 11:33:43"
-        },
-        {
-            "song_name": "Neverender",
-            "artists": [
-                "Justice",
-                "Tame Impala"
-            ],
-            "album": "Hyperdrama",
-            "played_at": "26/11/2025 - 11:29:50"
-        },
         {
             "song_name": "Backstage Pass (with Monte Booker & The Drums)",
             "artists": [
@@ -1714,6 +1620,100 @@
             ],
             "album": "Love Sick",
             "played_at": "03/12/2025 - 08:07:10"
+        },
+        {
+            "song_name": "LoveSickness",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "03/12/2025 - 09:00:58"
+        },
+        {
+            "song_name": "ASTROTHUNDER",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "03/12/2025 - 08:59:00"
+        },
+        {
+            "song_name": "Feel A Way (feat. Don Toliver)",
+            "artists": [
+                "KAYTRANADA",
+                "Don Toliver"
+            ],
+            "album": "TIMELESS",
+            "played_at": "03/12/2025 - 08:56:28"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "03/12/2025 - 08:53:32"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "03/12/2025 - 08:50:01"
+        },
+        {
+            "song_name": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Kodak Black",
+                "21 Savage"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "03/12/2025 - 08:47:58"
+        },
+        {
+            "song_name": "Time Heals All",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "03/12/2025 - 08:43:28"
+        },
+        {
+            "song_name": "Survivor’s Remorse",
+            "artists": [
+                "Roddy Ricch"
+            ],
+            "album": "Survivor’s Remorse",
+            "played_at": "03/12/2025 - 08:39:30"
+        },
+        {
+            "song_name": "Ambitious",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "03/12/2025 - 08:37:00"
+        },
+        {
+            "song_name": "FaceTime (feat. Don Toliver)",
+            "artists": [
+                "Lithe",
+                "Don Toliver"
+            ],
+            "album": "Euphoria",
+            "played_at": "03/12/2025 - 08:34:01"
+        },
+        {
+            "song_name": "Honest (feat. Don Toliver)",
+            "artists": [
+                "Justin Bieber",
+                "Don Toliver"
+            ],
+            "album": "Honest",
+            "played_at": "03/12/2025 - 08:31:17"
         }
     ]
 }
