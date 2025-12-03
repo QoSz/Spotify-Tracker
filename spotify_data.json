@@ -1,48 +1,6 @@
 {
-    "total_plays": 240,
+    "total_plays": 245,
     "tracks": [
-        {
-            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
-            "artists": [
-                "Smino",
-                "monte booker",
-                "The Drums"
-            ],
-            "album": "Backstage Pass (with Monte Booker & The Drums)",
-            "played_at": "26/11/2025 - 11:25:06"
-        },
-        {
-            "song_name": "Disparate Youth",
-            "artists": [
-                "Santigold"
-            ],
-            "album": "Master of My Make-Believe",
-            "played_at": "26/11/2025 - 11:21:06"
-        },
-        {
-            "song_name": "Disparate Youth",
-            "artists": [
-                "Santigold"
-            ],
-            "album": "Master of My Make-Believe",
-            "played_at": "26/11/2025 - 11:16:37"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "26/11/2025 - 08:41:48"
-        },
-        {
-            "song_name": "Key To My Heart",
-            "artists": [
-                "BOVSKI"
-            ],
-            "album": "Key To My Heart",
-            "played_at": "26/11/2025 - 08:38:48"
-        },
         {
             "song_name": "Same Thing",
             "artists": [
@@ -1714,6 +1672,55 @@
             ],
             "album": "Honest",
             "played_at": "03/12/2025 - 08:31:17"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "03/12/2025 - 09:27:16"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "03/12/2025 - 09:19:10"
+        },
+        {
+            "song_name": "Came and Saw (feat. Rowdy Rebel)",
+            "artists": [
+                "Young Stoner Life",
+                "Young Thug",
+                "Rowdy Rebel"
+            ],
+            "album": "Slime Language 2",
+            "played_at": "03/12/2025 - 09:12:09"
+        },
+        {
+            "song_name": "Nights Like This",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "03/12/2025 - 09:09:09"
+        },
+        {
+            "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
+            "artists": [
+                "Victony",
+                "Rema",
+                "Tempoe",
+                "Don Toliver"
+            ],
+            "album": "Soweto (with Don Toliver, Rema and Tempoe)",
+            "played_at": "03/12/2025 - 09:05:10"
         }
     ]
 }
