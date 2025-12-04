@@ -1,66 +1,6 @@
 {
-    "total_plays": 305,
+    "total_plays": 312,
     "tracks": [
-        {
-            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "01/12/2025 - 09:23:31"
-        },
-        {
-            "song_name": "NO LOWER",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "NO LOWER",
-            "played_at": "01/12/2025 - 09:20:02"
-        },
-        {
-            "song_name": "Why Is It Light Out?",
-            "artists": [
-                "The Kilans"
-            ],
-            "album": "Why Is It Light Out?",
-            "played_at": "01/12/2025 - 09:17:32"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "01/12/2025 - 09:13:32"
-        },
-        {
-            "song_name": "hospital beach",
-            "artists": [
-                "Cottonwood Firing Squad"
-            ],
-            "album": "you missed the best part",
-            "played_at": "01/12/2025 - 09:08:32"
-        },
-        {
-            "song_name": "Dunno",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "01/12/2025 - 09:06:32"
-        },
-        {
-            "song_name": "The Hardest Part",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Messy",
-            "played_at": "01/12/2025 - 09:58:37"
-        },
         {
             "song_name": "Cudi Zone",
             "artists": [
@@ -1716,6 +1656,65 @@
             ],
             "album": "Swimming",
             "played_at": "04/12/2025 - 13:33:23"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "04/12/2025 - 14:32:30"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "04/12/2025 - 14:31:35"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "04/12/2025 - 14:29:56"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "04/12/2025 - 14:27:40"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "04/12/2025 - 14:26:40"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "04/12/2025 - 14:21:40"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "04/12/2025 - 14:19:27"
         }
     ]
 }
