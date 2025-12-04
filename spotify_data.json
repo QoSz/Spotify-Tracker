@@ -1,26 +1,6 @@
 {
-    "total_plays": 264,
+    "total_plays": 266,
     "tracks": [
-        {
-            "song_name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "artists": [
-                "Don Toliver",
-                "Doja Cat",
-                "F1 The Album"
-            ],
-            "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "played_at": "26/11/2025 - 16:00:22"
-        },
-        {
-            "song_name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "artists": [
-                "Don Toliver",
-                "Doja Cat",
-                "F1 The Album"
-            ],
-            "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "played_at": "26/11/2025 - 15:56:52"
-        },
         {
             "song_name": "Bando",
             "artists": [
@@ -1724,6 +1704,23 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "03/12/2025 - 18:37:19"
+        },
+        {
+            "song_name": "BUTTERFLY EFFECT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "03/12/2025 - 21:40:14"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "03/12/2025 - 20:40:57"
         }
     ]
 }
