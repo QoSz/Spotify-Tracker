@@ -1,70 +1,6 @@
 {
-    "total_plays": 289,
+    "total_plays": 297,
     "tracks": [
-        {
-            "song_name": "No Sleep Leak",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "01/12/2025 - 06:15:42"
-        },
-        {
-            "song_name": "TELL 'EM YOU'RE MINE",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "TELL 'EM YOU'RE MINE",
-            "played_at": "01/12/2025 - 06:04:05"
-        },
-        {
-            "song_name": "Bruise",
-            "artists": [
-                "BETWEEN FRIENDS"
-            ],
-            "album": "I Love My Girl, She's My Boy",
-            "played_at": "01/12/2025 - 09:02:32"
-        },
-        {
-            "song_name": "it only gets worse, i promise",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "01/12/2025 - 08:59:33"
-        },
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "01/12/2025 - 08:57:04"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "01/12/2025 - 08:52:32"
-        },
-        {
-            "song_name": "Frisky",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Sunburn",
-            "played_at": "01/12/2025 - 08:51:23"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "01/12/2025 - 08:50:27"
-        },
         {
             "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
             "artists": [
@@ -1715,6 +1651,72 @@
             ],
             "album": "Dark Lane Demo Tapes",
             "played_at": "04/12/2025 - 11:33:48"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "04/12/2025 - 13:27:16"
+        },
+        {
+            "song_name": "Virginia Beach",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs",
+            "played_at": "04/12/2025 - 13:24:15"
+        },
+        {
+            "song_name": "Crossfaded",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Life of a DON",
+            "played_at": "04/12/2025 - 13:19:44"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "04/12/2025 - 13:17:14"
+        },
+        {
+            "song_name": "FaceTime (feat. Don Toliver)",
+            "artists": [
+                "Lithe",
+                "Don Toliver"
+            ],
+            "album": "Euphoria",
+            "played_at": "04/12/2025 - 13:14:44"
+        },
+        {
+            "song_name": "DAISIES",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "04/12/2025 - 13:12:15"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "04/12/2025 - 13:08:47"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "04/12/2025 - 13:02:18"
         }
     ]
 }
