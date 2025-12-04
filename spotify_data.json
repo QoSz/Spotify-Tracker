@@ -1,75 +1,6 @@
 {
-    "total_plays": 281,
+    "total_plays": 289,
     "tracks": [
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "29/11/2025 - 06:20:20"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "29/11/2025 - 13:37:10"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "29/11/2025 - 18:18:27"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "29/11/2025 - 18:18:22"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "29/11/2025 - 18:18:21"
-        },
-        {
-            "song_name": "Is It True",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "30/11/2025 - 17:45:26"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "30/11/2025 - 17:44:15"
-        },
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "30/11/2025 - 17:44:14"
-        },
         {
             "song_name": "No Sleep Leak",
             "artists": [
@@ -1716,6 +1647,74 @@
             ],
             "album": "Swimming",
             "played_at": "04/12/2025 - 11:06:45"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "04/12/2025 - 12:00:38"
+        },
+        {
+            "song_name": "Pretty Little Fears (feat. J. Cole)",
+            "artists": [
+                "6LACK",
+                "J. Cole"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "04/12/2025 - 11:58:38"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "04/12/2025 - 11:54:24"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "04/12/2025 - 11:40:43"
+        },
+        {
+            "song_name": "Fall Back",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Fall Back / Selfish Game",
+            "played_at": "04/12/2025 - 11:39:34"
+        },
+        {
+            "song_name": "No Enhancers",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "04/12/2025 - 11:38:49"
+        },
+        {
+            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+            "artists": [
+                "Bakar",
+                "Dominic Fike"
+            ],
+            "album": "Will You Be My Yellow?",
+            "played_at": "04/12/2025 - 11:36:56"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "04/12/2025 - 11:33:48"
         }
     ]
 }
