@@ -1,23 +1,6 @@
 {
-    "total_plays": 266,
+    "total_plays": 268,
     "tracks": [
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "27/11/2025 - 06:19:08"
-        },
-        {
-            "song_name": "Fall Back (feat. Lil Tjay)",
-            "artists": [
-                "Lithe",
-                "Lil Tjay"
-            ],
-            "album": "Fall Back (feat. Lil Tjay)",
-            "played_at": "27/11/2025 - 06:06:38"
-        },
         {
             "song_name": "Soundtrack 2 My Life",
             "artists": [
@@ -1721,6 +1704,24 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "03/12/2025 - 20:40:57"
+        },
+        {
+            "song_name": "Feel A Way (feat. Don Toliver)",
+            "artists": [
+                "KAYTRANADA",
+                "Don Toliver"
+            ],
+            "album": "TIMELESS",
+            "played_at": "04/12/2025 - 10:29:52"
+        },
+        {
+            "song_name": "Because of You",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "04/12/2025 - 10:25:57"
         }
     ]
 }
