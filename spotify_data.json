@@ -1,58 +1,6 @@
 {
-    "total_plays": 268,
+    "total_plays": 274,
     "tracks": [
-        {
-            "song_name": "Soundtrack 2 My Life",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "26/11/2025 - 21:48:53"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "27/11/2025 - 06:59:50"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "27/11/2025 - 12:21:37"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "27/11/2025 - 13:25:46"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "28/11/2025 - 06:04:22"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "28/11/2025 - 06:03:57"
-        },
         {
             "song_name": "IMY2 (with Kid Cudi)",
             "artists": [
@@ -1722,6 +1670,58 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "04/12/2025 - 10:25:57"
+        },
+        {
+            "song_name": "Mystery Lady",
+            "artists": [
+                "Masego",
+                "Don Toliver"
+            ],
+            "album": "Studying Abroad: Extended Stay",
+            "played_at": "04/12/2025 - 11:01:09"
+        },
+        {
+            "song_name": "Let U Go",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Let U Go",
+            "played_at": "04/12/2025 - 10:56:21"
+        },
+        {
+            "song_name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+            "artists": [
+                "Jack Harlow",
+                "Static Major",
+                "Bryson Tiller"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "04/12/2025 - 10:54:21"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "04/12/2025 - 10:51:28"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "04/12/2025 - 10:48:23"
+        },
+        {
+            "song_name": "Ride",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "Ride",
+            "played_at": "04/12/2025 - 10:33:24"
         }
     ]
 }
