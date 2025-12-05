@@ -1,39 +1,6 @@
 {
-    "total_plays": 312,
+    "total_plays": 316,
     "tracks": [
-        {
-            "song_name": "Cudi Zone",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "01/12/2025 - 09:55:33"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "01/12/2025 - 09:51:32"
-        },
-        {
-            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-            "artists": [
-                "Metro Boomin",
-                "Coi Leray"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "01/12/2025 - 09:48:33"
-        },
-        {
-            "song_name": "Cherry Flavoured",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Chip Chrome & The Mono-Tones",
-            "played_at": "01/12/2025 - 09:45:38"
-        },
         {
             "song_name": "Flashing Lights",
             "artists": [
@@ -1715,6 +1682,40 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "04/12/2025 - 14:19:27"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "05/12/2025 - 06:45:51"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "05/12/2025 - 06:45:50"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "05/12/2025 - 06:35:36"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "04/12/2025 - 21:03:30"
         }
     ]
 }
