@@ -1,63 +1,6 @@
 {
-    "total_plays": 317,
+    "total_plays": 324,
     "tracks": [
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "01/12/2025 - 09:38:02"
-        },
-        {
-            "song_name": "ENDZONE",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "ENDZONE",
-            "played_at": "01/12/2025 - 09:35:02"
-        },
-        {
-            "song_name": "Great Pretender",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Rocket",
-            "played_at": "01/12/2025 - 09:33:02"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "01/12/2025 - 10:29:23"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "01/12/2025 - 10:27:53"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "01/12/2025 - 10:07:32"
-        },
-        {
-            "song_name": "Homecoming",
-            "artists": [
-                "Kanye West",
-                "Chris Martin"
-            ],
-            "album": "Graduation",
-            "played_at": "01/12/2025 - 10:05:04"
-        },
         {
             "song_name": "Overdue (with Travis Scott)",
             "artists": [
@@ -1717,6 +1660,63 @@
             ],
             "album": "Man On The Moon: The End Of Day (Int'l Version)",
             "played_at": "05/12/2025 - 06:57:00"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "05/12/2025 - 08:31:38"
+        },
+        {
+            "song_name": "chronic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "05/12/2025 - 08:29:09"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "05/12/2025 - 08:26:38"
+        },
+        {
+            "song_name": "Royal Oak",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Euphoria",
+            "played_at": "05/12/2025 - 08:23:08"
+        },
+        {
+            "song_name": "STARGAZING",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "05/12/2025 - 08:21:08"
+        },
+        {
+            "song_name": "LIFE IS A GAMBLE",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "LIFE IS A GAMBLE",
+            "played_at": "05/12/2025 - 08:16:38"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "05/12/2025 - 08:13:38"
         }
     ]
 }
