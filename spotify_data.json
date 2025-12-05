@@ -1,15 +1,6 @@
 {
-    "total_plays": 316,
+    "total_plays": 317,
     "tracks": [
-        {
-            "song_name": "Flashing Lights",
-            "artists": [
-                "Kanye West",
-                "Dwele"
-            ],
-            "album": "Graduation",
-            "played_at": "01/12/2025 - 09:42:02"
-        },
         {
             "song_name": "DAISIES",
             "artists": [
@@ -1716,6 +1707,16 @@
             ],
             "album": "JACKBOYS 2",
             "played_at": "04/12/2025 - 21:03:30"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "05/12/2025 - 06:57:00"
         }
     ]
 }
