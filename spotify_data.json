@@ -1,16 +1,6 @@
 {
-    "total_plays": 360,
+    "total_plays": 361,
     "tracks": [
-        {
-            "song_name": "ALL EYES",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "01/12/2025 - 14:28:15"
-        },
         {
             "song_name": "A Keeper",
             "artists": [
@@ -1719,6 +1709,14 @@
             ],
             "album": "Blonde",
             "played_at": "05/12/2025 - 12:07:36"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "05/12/2025 - 16:29:00"
         }
     ]
 }
