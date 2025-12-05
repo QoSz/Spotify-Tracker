@@ -1,23 +1,6 @@
 {
-    "total_plays": 331,
+    "total_plays": 333,
     "tracks": [
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "01/12/2025 - 10:43:52"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "01/12/2025 - 10:41:25"
-        },
         {
             "song_name": "Inwood Hill Park",
             "artists": [
@@ -1717,6 +1700,22 @@
             ],
             "album": "Birds In The Trap Sing McKnight",
             "played_at": "05/12/2025 - 08:35:08"
+        },
+        {
+            "song_name": "Moon",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Donda",
+            "played_at": "05/12/2025 - 10:58:55"
+        },
+        {
+            "song_name": "4 Raws",
+            "artists": [
+                "EsDeeKid"
+            ],
+            "album": "Rebel",
+            "played_at": "05/12/2025 - 10:34:38"
         }
     ]
 }
