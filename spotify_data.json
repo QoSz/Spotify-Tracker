@@ -1,94 +1,6 @@
 {
-    "total_plays": 362,
+    "total_plays": 372,
     "tracks": [
-        {
-            "song_name": "Wasted",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "01/12/2025 - 14:21:46"
-        },
-        {
-            "song_name": "Forever & Again (From Barbie The Album)",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "Forever & Again (From Barbie The Album)",
-            "played_at": "01/12/2025 - 14:18:50"
-        },
-        {
-            "song_name": "Lock On Me (with Travis Scott & Future)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Future"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "01/12/2025 - 14:16:13"
-        },
-        {
-            "song_name": "Time",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "01/12/2025 - 14:13:16"
-        },
-        {
-            "song_name": "Temporary (feat. Don Toliver)",
-            "artists": [
-                "6LACK",
-                "Don Toliver"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "01/12/2025 - 14:10:17"
-        },
-        {
-            "song_name": "What Would Pluto Do",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "01/12/2025 - 14:07:17"
-        },
-        {
-            "song_name": "Geronimo",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "01/12/2025 - 14:04:19"
-        },
-        {
-            "song_name": "All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "01/12/2025 - 14:02:17"
-        },
-        {
-            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver",
-                "Lil Uzi Vert"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "01/12/2025 - 14:00:42"
-        },
-        {
-            "song_name": "Fantasy (feat. Don Toliver)",
-            "artists": [
-                "Kali Uchis",
-                "Don Toliver"
-            ],
-            "album": "Red Moon In Venus",
-            "played_at": "01/12/2025 - 14:58:45"
-        },
         {
             "song_name": "How I Am",
             "artists": [
@@ -1717,6 +1629,91 @@
             ],
             "album": "Honestly, Nevermind",
             "played_at": "06/12/2025 - 10:27:49"
+        },
+        {
+            "song_name": "YUKON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "06/12/2025 - 10:59:11"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "06/12/2025 - 10:56:27"
+        },
+        {
+            "song_name": "Come Back to Earth",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "06/12/2025 - 10:52:47"
+        },
+        {
+            "song_name": "My House Is Not A Home",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "My House Is Not A Home",
+            "played_at": "06/12/2025 - 10:50:28"
+        },
+        {
+            "song_name": "So Easy (To Fall In Love)",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "The Art of Loving",
+            "played_at": "06/12/2025 - 10:46:06"
+        },
+        {
+            "song_name": "Let U Go",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Let U Go",
+            "played_at": "06/12/2025 - 10:43:17"
+        },
+        {
+            "song_name": "People (feat. Ayra Starr & Omah Lay)",
+            "artists": [
+                "Libianca",
+                "Ayra Starr",
+                "Omah Lay"
+            ],
+            "album": "People (Remixes)",
+            "played_at": "06/12/2025 - 10:41:09"
+        },
+        {
+            "song_name": "Violent Crimes",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "ye",
+            "played_at": "06/12/2025 - 10:38:05"
+        },
+        {
+            "song_name": "Mystery Lady",
+            "artists": [
+                "Masego",
+                "Don Toliver"
+            ],
+            "album": "Studying Abroad: Extended Stay",
+            "played_at": "06/12/2025 - 10:34:29"
+        },
+        {
+            "song_name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+            "artists": [
+                "Jack Harlow",
+                "Static Major",
+                "Bryson Tiller"
+            ],
+            "album": "Thats What They All Say",
+            "played_at": "06/12/2025 - 10:30:41"
         }
     ]
 }
