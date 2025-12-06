@@ -1,63 +1,6 @@
 {
-    "total_plays": 392,
+    "total_plays": 398,
     "tracks": [
-        {
-            "song_name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver",
-                "Wizkid",
-                "BEAM",
-                "Toian"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "02/12/2025 - 10:02:44"
-        },
-        {
-            "song_name": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "02/12/2025 - 10:58:56"
-        },
-        {
-            "song_name": "Midnight's Interlude",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "02/12/2025 - 10:56:31"
-        },
-        {
-            "song_name": "Desires (with Future)",
-            "artists": [
-                "Drake",
-                "Future"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "02/12/2025 - 10:53:59"
-        },
-        {
-            "song_name": "Encouragement",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "02/12/2025 - 10:49:25"
-        },
-        {
-            "song_name": "TELESCOPE",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "02/12/2025 - 10:46:28"
-        },
         {
             "song_name": "Flight's Booked",
             "artists": [
@@ -1702,6 +1645,57 @@
             ],
             "album": "Blonde",
             "played_at": "06/12/2025 - 11:32:17"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "06/12/2025 - 12:23:10"
+        },
+        {
+            "song_name": "Is there free breakfast here?",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "06/12/2025 - 12:18:03"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "06/12/2025 - 12:15:31"
+        },
+        {
+            "song_name": "Swim Good",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "Swim Good",
+            "played_at": "06/12/2025 - 12:12:57"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "06/12/2025 - 12:08:06"
+        },
+        {
+            "song_name": "Navajo",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Navajo",
+            "played_at": "06/12/2025 - 12:03:16"
         }
     ]
 }
