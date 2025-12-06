@@ -1,14 +1,6 @@
 {
-    "total_plays": 398,
+    "total_plays": 399,
     "tracks": [
-        {
-            "song_name": "Flight's Booked",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "02/12/2025 - 11:15:25"
-        },
         {
             "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
             "artists": [
@@ -1696,6 +1688,15 @@
             ],
             "album": "Navajo",
             "played_at": "06/12/2025 - 12:03:16"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "06/12/2025 - 13:20:29"
         }
     ]
 }
