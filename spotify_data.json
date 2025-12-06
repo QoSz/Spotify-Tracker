@@ -1,93 +1,6 @@
 {
-    "total_plays": 372,
+    "total_plays": 382,
     "tracks": [
-        {
-            "song_name": "How I Am",
-            "artists": [
-                "Aaron May",
-                "JAY Millz"
-            ],
-            "album": "No Recognition",
-            "played_at": "01/12/2025 - 14:54:45"
-        },
-        {
-            "song_name": "BLESSING",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "01/12/2025 - 14:52:20"
-        },
-        {
-            "song_name": "On Time (with John Legend)",
-            "artists": [
-                "Metro Boomin",
-                "John Legend"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "01/12/2025 - 14:49:42"
-        },
-        {
-            "song_name": "Overdrive",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "01/12/2025 - 14:47:12"
-        },
-        {
-            "song_name": "Leather Coat",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "01/12/2025 - 14:43:32"
-        },
-        {
-            "song_name": "It Can't Be",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "01/12/2025 - 14:37:50"
-        },
-        {
-            "song_name": "Last Time",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "01/12/2025 - 14:35:46"
-        },
-        {
-            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-            "artists": [
-                "Metro Boomin",
-                "James Blake",
-                "A$AP Rocky",
-                "21 Savage"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "01/12/2025 - 14:31:48"
-        },
-        {
-            "song_name": "Situation",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Situation",
-            "played_at": "01/12/2025 - 18:01:27"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "01/12/2025 - 20:21:58"
-        },
         {
             "song_name": "Time Heals All",
             "artists": [
@@ -1714,6 +1627,87 @@
             ],
             "album": "Thats What They All Say",
             "played_at": "06/12/2025 - 10:30:41"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "06/12/2025 - 11:28:33"
+        },
+        {
+            "song_name": "Embarrassed (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "06/12/2025 - 11:24:55"
+        },
+        {
+            "song_name": "Someone Else - Lost Tapes 2015",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Someone Else (Lost Tapes 2015)",
+            "played_at": "06/12/2025 - 11:24:34"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "06/12/2025 - 11:19:05"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "06/12/2025 - 11:17:13"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "06/12/2025 - 11:15:02"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "06/12/2025 - 11:11:58"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "06/12/2025 - 11:10:45"
+        },
+        {
+            "song_name": "Time Heals All",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "06/12/2025 - 11:06:58"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "channel ORANGE",
+            "played_at": "06/12/2025 - 11:03:05"
         }
     ]
 }
