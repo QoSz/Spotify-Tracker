@@ -1,41 +1,6 @@
 {
-    "total_plays": 399,
+    "total_plays": 403,
     "tracks": [
-        {
-            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "21 Savage"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "02/12/2025 - 11:11:05"
-        },
-        {
-            "song_name": "THANK GOD",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "UTOPIA",
-            "played_at": "02/12/2025 - 11:07:37"
-        },
-        {
-            "song_name": "Fact (feat. Lil Uzi Vert)",
-            "artists": [
-                "Ghostluvme",
-                "Lil Uzi Vert"
-            ],
-            "album": "Bohunk",
-            "played_at": "02/12/2025 - 11:05:04"
-        },
-        {
-            "song_name": "Flu Game",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Flu Game",
-            "played_at": "02/12/2025 - 11:01:11"
-        },
         {
             "song_name": "Self Love - Spider-Man: Across the Spider-Verse - Instrumental",
             "artists": [
@@ -1697,6 +1662,43 @@
             ],
             "album": "Slime & B",
             "played_at": "06/12/2025 - 13:20:29"
+        },
+        {
+            "song_name": "Fire Fire",
+            "artists": [
+                "Shimza",
+                "AR/CO",
+                "Kasango"
+            ],
+            "album": "Fire Fire",
+            "played_at": "08/12/2025 - 08:30:55"
+        },
+        {
+            "song_name": "Moon Man",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "I Should Be Home",
+            "played_at": "08/12/2025 - 08:28:26"
+        },
+        {
+            "song_name": "tell you straight - Sped Up",
+            "artists": [
+                "Strn.",
+                "ALEXYS"
+            ],
+            "album": "tell you straight (Speed Garage)",
+            "played_at": "08/12/2025 - 08:24:55"
+        },
+        {
+            "song_name": "Think About Us",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb"
+            ],
+            "album": "Think About Us",
+            "played_at": "08/12/2025 - 08:23:26"
         }
     ]
 }
