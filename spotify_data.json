@@ -1,43 +1,6 @@
 {
-    "total_plays": 412,
+    "total_plays": 416,
     "tracks": [
-        {
-            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Bslime",
-                "Don Toliver"
-            ],
-            "album": "Slime Language 2 (Deluxe)",
-            "played_at": "02/12/2025 - 13:41:09"
-        },
-        {
-            "song_name": "No Recognition",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "02/12/2025 - 13:37:04"
-        },
-        {
-            "song_name": "I CAN’T LET GO",
-            "artists": [
-                "Lil Tecca",
-                "Don Toliver"
-            ],
-            "album": "PLAN A",
-            "played_at": "02/12/2025 - 13:34:33"
-        },
-        {
-            "song_name": "All The Parties (feat. Chief Keef)",
-            "artists": [
-                "Drake",
-                "Chief Keef"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "02/12/2025 - 13:32:04"
-        },
         {
             "song_name": "Go Down (feat. TisaKorean)",
             "artists": [
@@ -1701,6 +1664,40 @@
             ],
             "album": "Wish I Never Met You",
             "played_at": "08/12/2025 - 08:33:55"
+        },
+        {
+            "song_name": "All I Know (with Khalid)",
+            "artists": [
+                "Rudimental",
+                "Khalid"
+            ],
+            "album": "RUDIM3NTAL",
+            "played_at": "08/12/2025 - 09:10:56"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "08/12/2025 - 09:07:55"
+        },
+        {
+            "song_name": "Low Again",
+            "artists": [
+                "BOVSKI"
+            ],
+            "album": "Low Again",
+            "played_at": "08/12/2025 - 09:04:55"
+        },
+        {
+            "song_name": "Miss Your Body",
+            "artists": [
+                "nate band"
+            ],
+            "album": "Miss Your Body",
+            "played_at": "08/12/2025 - 09:02:55"
         }
     ]
 }
