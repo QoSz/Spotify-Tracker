@@ -1,79 +1,6 @@
 {
-    "total_plays": 420,
+    "total_plays": 428,
     "tracks": [
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "02/12/2025 - 19:23:07"
-        },
-        {
-            "song_name": "Nas Morales (Metro Boomin & Nas)",
-            "artists": [
-                "Metro Boomin",
-                "Nas"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "03/12/2025 - 08:28:13"
-        },
-        {
-            "song_name": "Crossfaded",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Life of a DON",
-            "played_at": "03/12/2025 - 08:24:58"
-        },
-        {
-            "song_name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
-            "artists": [
-                "The Kid LAROI",
-                "Future",
-                "BabyDrill"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "03/12/2025 - 08:21:56"
-        },
-        {
-            "song_name": "Cream",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "03/12/2025 - 08:18:54"
-        },
-        {
-            "song_name": "Denver",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "03/12/2025 - 08:16:57"
-        },
-        {
-            "song_name": "Another Dimension",
-            "artists": [
-                "Pop Money"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-            "played_at": "03/12/2025 - 08:14:27"
-        },
-        {
-            "song_name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver",
-                "Wizkid",
-                "BEAM",
-                "Toian"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "03/12/2025 - 08:10:11"
-        },
         {
             "song_name": "Go Down (feat. TisaKorean)",
             "artists": [
@@ -1700,6 +1627,74 @@
             ],
             "album": "Episode III",
             "played_at": "08/12/2025 - 11:14:52"
+        },
+        {
+            "song_name": "Talk of the Town",
+            "artists": [
+                "Fred again..",
+                "Sammy Virji",
+                "Reggie"
+            ],
+            "album": "Talk of the Town",
+            "played_at": "08/12/2025 - 12:21:42"
+        },
+        {
+            "song_name": "London2Paris",
+            "artists": [
+                "Tkandz"
+            ],
+            "album": "London2Paris",
+            "played_at": "08/12/2025 - 12:20:46"
+        },
+        {
+            "song_name": "Crazy",
+            "artists": [
+                "Myles Lloyd",
+                "BUNT."
+            ],
+            "album": "Crazy",
+            "played_at": "08/12/2025 - 12:20:44"
+        },
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "08/12/2025 - 12:20:37"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "08/12/2025 - 12:20:34"
+        },
+        {
+            "song_name": "Fake Friends",
+            "artists": [
+                "Kidwild"
+            ],
+            "album": "Distro Kid",
+            "played_at": "08/12/2025 - 12:20:31"
+        },
+        {
+            "song_name": "Magic",
+            "artists": [
+                "Olympic Ayres"
+            ],
+            "album": "Episode III",
+            "played_at": "08/12/2025 - 11:46:42"
+        },
+        {
+            "song_name": "Magic",
+            "artists": [
+                "Olympic Ayres"
+            ],
+            "album": "Episode III",
+            "played_at": "08/12/2025 - 11:42:06"
         }
     ]
 }
