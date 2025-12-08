@@ -1,82 +1,6 @@
 {
-    "total_plays": 403,
+    "total_plays": 412,
     "tracks": [
-        {
-            "song_name": "Self Love - Spider-Man: Across the Spider-Verse - Instrumental",
-            "artists": [
-                "Metro Boomin"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)]",
-            "played_at": "02/12/2025 - 13:28:34"
-        },
-        {
-            "song_name": "Situation",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Situation",
-            "played_at": "02/12/2025 - 13:25:20"
-        },
-        {
-            "song_name": "Leather Coat",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "02/12/2025 - 13:24:41"
-        },
-        {
-            "song_name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
-            "artists": [
-                "Pusha T",
-                "Lil Uzi Vert",
-                "Don Toliver"
-            ],
-            "album": "It's Almost Dry",
-            "played_at": "02/12/2025 - 14:01:04"
-        },
-        {
-            "song_name": "What It Take",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "Outside Lookin In",
-            "played_at": "02/12/2025 - 13:58:49"
-        },
-        {
-            "song_name": "Blame On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "02/12/2025 - 13:56:26"
-        },
-        {
-            "song_name": "Amen (feat. Teezo Touchdown)",
-            "artists": [
-                "Drake",
-                "Teezo Touchdown"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "02/12/2025 - 13:51:47"
-        },
-        {
-            "song_name": "Am I Dreaming - Instrumental",
-            "artists": [
-                "Metro Boomin"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)]",
-            "played_at": "02/12/2025 - 13:49:04"
-        },
-        {
-            "song_name": "Cinderella (feat. Toro y Moi)",
-            "artists": [
-                "Don Toliver",
-                "Toro y Moi"
-            ],
-            "album": "Love Sick",
-            "played_at": "02/12/2025 - 13:44:35"
-        },
         {
             "song_name": "No Surprise (feat. Don Toliver & Bslime)",
             "artists": [
@@ -1699,6 +1623,84 @@
             ],
             "album": "Think About Us",
             "played_at": "08/12/2025 - 08:23:26"
+        },
+        {
+            "song_name": "Summer Uptown (feat. d4vd)",
+            "artists": [
+                "jasontheween",
+                "d4vd"
+            ],
+            "album": "Summer Uptown (feat. d4vd)",
+            "played_at": "08/12/2025 - 09:00:25"
+        },
+        {
+            "song_name": "Midnight Life",
+            "artists": [
+                "White Panda"
+            ],
+            "album": "Midnight Life",
+            "played_at": "08/12/2025 - 08:57:55"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "08/12/2025 - 08:53:55"
+        },
+        {
+            "song_name": "Now Or Never - Bonus Track",
+            "artists": [
+                "Kendrick Lamar",
+                "Mary J. Blige"
+            ],
+            "album": "good kid, m.A.A.d city (Deluxe)",
+            "played_at": "08/12/2025 - 08:50:25"
+        },
+        {
+            "song_name": "REHAB",
+            "artists": [
+                "Blair Muir"
+            ],
+            "album": "REHAB",
+            "played_at": "08/12/2025 - 08:46:25"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "08/12/2025 - 08:42:55"
+        },
+        {
+            "song_name": "nobody (make me feel)",
+            "artists": [
+                "oskar med k",
+                "Khalid"
+            ],
+            "album": "nobody (make me feel)",
+            "played_at": "08/12/2025 - 08:40:25"
+        },
+        {
+            "song_name": "Go Back (feat. Julia Church)",
+            "artists": [
+                "John Summit",
+                "Sub Focus",
+                "Julia Church"
+            ],
+            "album": "Comfort In Chaos",
+            "played_at": "08/12/2025 - 08:37:55"
+        },
+        {
+            "song_name": "Wish I Never Met You",
+            "artists": [
+                "Jacob Vallen",
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You",
+            "played_at": "08/12/2025 - 08:33:55"
         }
     ]
 }
