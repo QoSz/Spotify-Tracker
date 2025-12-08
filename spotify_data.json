@@ -1,425 +1,6 @@
 {
-    "total_plays": 429,
+    "total_plays": 477,
     "tracks": [
-        {
-            "song_name": "LoveSickness",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "03/12/2025 - 09:00:58"
-        },
-        {
-            "song_name": "ASTROTHUNDER",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "03/12/2025 - 08:59:00"
-        },
-        {
-            "song_name": "Feel A Way (feat. Don Toliver)",
-            "artists": [
-                "KAYTRANADA",
-                "Don Toliver"
-            ],
-            "album": "TIMELESS",
-            "played_at": "03/12/2025 - 08:56:28"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "03/12/2025 - 08:53:32"
-        },
-        {
-            "song_name": "I Ain't Worried",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "03/12/2025 - 08:50:01"
-        },
-        {
-            "song_name": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Kodak Black",
-                "21 Savage"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "03/12/2025 - 08:47:58"
-        },
-        {
-            "song_name": "Time Heals All",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "03/12/2025 - 08:43:28"
-        },
-        {
-            "song_name": "Survivor’s Remorse",
-            "artists": [
-                "Roddy Ricch"
-            ],
-            "album": "Survivor’s Remorse",
-            "played_at": "03/12/2025 - 08:39:30"
-        },
-        {
-            "song_name": "Ambitious",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "03/12/2025 - 08:37:00"
-        },
-        {
-            "song_name": "FaceTime (feat. Don Toliver)",
-            "artists": [
-                "Lithe",
-                "Don Toliver"
-            ],
-            "album": "Euphoria",
-            "played_at": "03/12/2025 - 08:34:01"
-        },
-        {
-            "song_name": "Honest (feat. Don Toliver)",
-            "artists": [
-                "Justin Bieber",
-                "Don Toliver"
-            ],
-            "album": "Honest",
-            "played_at": "03/12/2025 - 08:31:17"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "03/12/2025 - 09:27:16"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "03/12/2025 - 09:19:10"
-        },
-        {
-            "song_name": "Came and Saw (feat. Rowdy Rebel)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Rowdy Rebel"
-            ],
-            "album": "Slime Language 2",
-            "played_at": "03/12/2025 - 09:12:09"
-        },
-        {
-            "song_name": "Nights Like This",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "03/12/2025 - 09:09:09"
-        },
-        {
-            "song_name": "Soweto (with Don Toliver, Rema & Tempoe)",
-            "artists": [
-                "Victony",
-                "Rema",
-                "Tempoe",
-                "Don Toliver"
-            ],
-            "album": "Soweto (with Don Toliver, Rema and Tempoe)",
-            "played_at": "03/12/2025 - 09:05:10"
-        },
-        {
-            "song_name": "Infatuation",
-            "artists": [
-                "Takeoff"
-            ],
-            "album": "The Last Rocket",
-            "played_at": "03/12/2025 - 16:56:47"
-        },
-        {
-            "song_name": "NIGHT RIDER",
-            "artists": [
-                "Joji"
-            ],
-            "album": "SMITHEREENS",
-            "played_at": "03/12/2025 - 16:53:18"
-        },
-        {
-            "song_name": "Overload",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "03/12/2025 - 16:50:47"
-        },
-        {
-            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-            "artists": [
-                "Metro Boomin",
-                "Coi Leray"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "03/12/2025 - 16:46:38"
-        },
-        {
-            "song_name": "On Me",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Local Mvp",
-            "played_at": "03/12/2025 - 16:42:47"
-        },
-        {
-            "song_name": "there he go",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "03/12/2025 - 16:40:49"
-        },
-        {
-            "song_name": "No Enhancers",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "03/12/2025 - 16:37:49"
-        },
-        {
-            "song_name": "SNAKE EYES",
-            "artists": [
-                "Aries"
-            ],
-            "album": "SNAKE EYES",
-            "played_at": "03/12/2025 - 16:36:18"
-        },
-        {
-            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "03/12/2025 - 16:34:18"
-        },
-        {
-            "song_name": "Drink N Dance",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "03/12/2025 - 16:30:47"
-        },
-        {
-            "song_name": "Company Pt. 3",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "03/12/2025 - 16:27:22"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "03/12/2025 - 16:23:48"
-        },
-        {
-            "song_name": "Flooded The Face",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "03/12/2025 - 16:22:48"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "03/12/2025 - 17:48:47"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "03/12/2025 - 17:43:25"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "03/12/2025 - 18:27:54"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "03/12/2025 - 18:23:33"
-        },
-        {
-            "song_name": "My Legacy",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "03/12/2025 - 18:40:32"
-        },
-        {
-            "song_name": "Tic Tac",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "03/12/2025 - 18:37:19"
-        },
-        {
-            "song_name": "BUTTERFLY EFFECT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "03/12/2025 - 21:40:14"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "03/12/2025 - 20:40:57"
-        },
-        {
-            "song_name": "Feel A Way (feat. Don Toliver)",
-            "artists": [
-                "KAYTRANADA",
-                "Don Toliver"
-            ],
-            "album": "TIMELESS",
-            "played_at": "04/12/2025 - 10:29:52"
-        },
-        {
-            "song_name": "Because of You",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "04/12/2025 - 10:25:57"
-        },
-        {
-            "song_name": "Mystery Lady",
-            "artists": [
-                "Masego",
-                "Don Toliver"
-            ],
-            "album": "Studying Abroad: Extended Stay",
-            "played_at": "04/12/2025 - 11:01:09"
-        },
-        {
-            "song_name": "Let U Go",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "Let U Go",
-            "played_at": "04/12/2025 - 10:56:21"
-        },
-        {
-            "song_name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-            "artists": [
-                "Jack Harlow",
-                "Static Major",
-                "Bryson Tiller"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "04/12/2025 - 10:54:21"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "04/12/2025 - 10:51:28"
-        },
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "04/12/2025 - 10:48:23"
-        },
-        {
-            "song_name": "Ride",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "Ride",
-            "played_at": "04/12/2025 - 10:33:24"
-        },
-        {
-            "song_name": "Pink + White",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "04/12/2025 - 11:30:44"
-        },
-        {
-            "song_name": "The Morning",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "House Of Balloons (Original)",
-            "played_at": "04/12/2025 - 11:27:44"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "04/12/2025 - 11:21:08"
-        },
         {
             "song_name": "A Keeper",
             "artists": [
@@ -1694,6 +1275,416 @@
             ],
             "album": "Wish I Never Met You (Prison Tapes)",
             "played_at": "08/12/2025 - 12:30:28"
+        },
+        {
+            "song_name": "If I Lose",
+            "artists": [
+                "JBEE",
+                "Kidwild"
+            ],
+            "album": "If I Lose",
+            "played_at": "08/12/2025 - 16:45:02"
+        },
+        {
+            "song_name": "PAID",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "RENT'S DUE (DELUXE)",
+            "played_at": "08/12/2025 - 16:41:19"
+        },
+        {
+            "song_name": "Booga",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "Booga",
+            "played_at": "08/12/2025 - 16:38:47"
+        },
+        {
+            "song_name": "Miss Them Days",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 16:36:37"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 16:35:21"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 15:31:38"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 15:17:06"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 15:14:05"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "08/12/2025 - 15:12:36"
+        },
+        {
+            "song_name": "HIGHJACK (right back)",
+            "artists": [
+                "Alok",
+                "Łaszewo",
+                "A$AP Rocky"
+            ],
+            "album": "HIGHJACK (right back)",
+            "played_at": "08/12/2025 - 15:12:22"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "08/12/2025 - 15:11:16"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "08/12/2025 - 15:11:01"
+        },
+        {
+            "song_name": "Nemzz x Did It First",
+            "artists": [
+                "dawnpercs"
+            ],
+            "album": "Nemzz x Did It First",
+            "played_at": "08/12/2025 - 15:10:59"
+        },
+        {
+            "song_name": "Fake Friends",
+            "artists": [
+                "Kidwild"
+            ],
+            "album": "Distro Kid",
+            "played_at": "08/12/2025 - 15:10:57"
+        },
+        {
+            "song_name": "Fake Friends",
+            "artists": [
+                "Kidwild"
+            ],
+            "album": "Distro Kid",
+            "played_at": "08/12/2025 - 15:10:53"
+        },
+        {
+            "song_name": "Moth To A Flame (with The Weeknd)",
+            "artists": [
+                "Swedish House Mafia",
+                "The Weeknd"
+            ],
+            "album": "Paradise Again",
+            "played_at": "08/12/2025 - 15:01:01"
+        },
+        {
+            "song_name": "TRIPPIN",
+            "artists": [
+                "BUNT.",
+                "Mapei"
+            ],
+            "album": "TRIPPIN",
+            "played_at": "08/12/2025 - 14:56:32"
+        },
+        {
+            "song_name": "No Bad Vibes",
+            "artists": [
+                "Jazzy",
+                "KILIMANJARO"
+            ],
+            "album": "No Bad Vibes",
+            "played_at": "08/12/2025 - 14:53:02"
+        },
+        {
+            "song_name": "Undercover Martyn",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "08/12/2025 - 14:49:00"
+        },
+        {
+            "song_name": "Location",
+            "artists": [
+                "Zerb",
+                "Ty Dolla $ign",
+                "Wiz Khalifa"
+            ],
+            "album": "Location",
+            "played_at": "08/12/2025 - 14:46:00"
+        },
+        {
+            "song_name": "Better",
+            "artists": [
+                "nimino",
+                "Manta"
+            ],
+            "album": "Better",
+            "played_at": "08/12/2025 - 14:43:30"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "08/12/2025 - 14:39:04"
+        },
+        {
+            "song_name": "Professional",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Professional",
+            "played_at": "08/12/2025 - 14:26:00"
+        },
+        {
+            "song_name": "They Wanna Have Fun",
+            "artists": [
+                "Metro Boomin",
+                "Travis Porter",
+                "Young Dro",
+                "Gucci Mane",
+                "DJ Spinz"
+            ],
+            "album": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+            "played_at": "08/12/2025 - 14:23:00"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "08/12/2025 - 14:19:00"
+        },
+        {
+            "song_name": "OWA OWA",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "DOPAMINE",
+            "played_at": "08/12/2025 - 14:16:01"
+        },
+        {
+            "song_name": "Desires (with Future)",
+            "artists": [
+                "Drake",
+                "Future"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "08/12/2025 - 14:13:30"
+        },
+        {
+            "song_name": "Hell Night",
+            "artists": [
+                "Pooh Shiesty",
+                "BIG30"
+            ],
+            "album": "Hell Night",
+            "played_at": "08/12/2025 - 14:10:00"
+        },
+        {
+            "song_name": "Calm 3",
+            "artists": [
+                "Sleepy Hallow"
+            ],
+            "album": "Calm 3",
+            "played_at": "08/12/2025 - 14:06:30"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "08/12/2025 - 14:04:33"
+        },
+        {
+            "song_name": "Casper",
+            "artists": [
+                "Takeoff"
+            ],
+            "album": "The Last Rocket",
+            "played_at": "08/12/2025 - 14:02:01"
+        },
+        {
+            "song_name": "Clash (feat. Stormzy)",
+            "artists": [
+                "Dave",
+                "Stormzy"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "08/12/2025 - 13:58:30"
+        },
+        {
+            "song_name": "Different Species (feat. Gunna)",
+            "artists": [
+                "Offset",
+                "Gunna"
+            ],
+            "album": "KIARI",
+            "played_at": "08/12/2025 - 13:54:31"
+        },
+        {
+            "song_name": "21 Years",
+            "artists": [
+                "Skepta",
+                "Fred again.."
+            ],
+            "album": "Skepta .. Fred",
+            "played_at": "08/12/2025 - 13:51:32"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "08/12/2025 - 13:47:31"
+        },
+        {
+            "song_name": "shiloh type beat",
+            "artists": [
+                "Jessy Blakemore"
+            ],
+            "album": "burna",
+            "played_at": "08/12/2025 - 13:44:30"
+        },
+        {
+            "song_name": "Kool Aid",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Sofa Kings",
+            "played_at": "08/12/2025 - 13:42:30"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "08/12/2025 - 13:38:31"
+        },
+        {
+            "song_name": "Magic In The Hamptons (feat. Lil Yachty)",
+            "artists": [
+                "Social House",
+                "Lil Yachty"
+            ],
+            "album": "Magic In The Hamptons (feat. Lil Yachty)",
+            "played_at": "08/12/2025 - 13:33:31"
+        },
+        {
+            "song_name": "Ray Of Solar",
+            "artists": [
+                "Swedish House Mafia"
+            ],
+            "album": "Ray Of Solar",
+            "played_at": "08/12/2025 - 13:31:01"
+        },
+        {
+            "song_name": "Middle",
+            "artists": [
+                "DJ Snake",
+                "Bipolar Sunshine"
+            ],
+            "album": "Encore",
+            "played_at": "08/12/2025 - 13:27:00"
+        },
+        {
+            "song_name": "Runaway (U & I)",
+            "artists": [
+                "Ian Asher",
+                "Galantis"
+            ],
+            "album": "Runaway (U & I)",
+            "played_at": "08/12/2025 - 13:23:01"
+        },
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "08/12/2025 - 13:20:31"
+        },
+        {
+            "song_name": "Go Ahead",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Love U Forever",
+            "played_at": "08/12/2025 - 13:17:31"
+        },
+        {
+            "song_name": "Fake Friends",
+            "artists": [
+                "Kidwild"
+            ],
+            "album": "Distro Kid",
+            "played_at": "08/12/2025 - 13:16:17"
+        },
+        {
+            "song_name": "Nemzz x Did It First",
+            "artists": [
+                "dawnpercs"
+            ],
+            "album": "Nemzz x Did It First",
+            "played_at": "08/12/2025 - 13:15:58"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "08/12/2025 - 13:14:54"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "08/12/2025 - 13:09:06"
         }
     ]
 }
