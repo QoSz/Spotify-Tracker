@@ -1,32 +1,6 @@
 {
-    "total_plays": 416,
+    "total_plays": 419,
     "tracks": [
-        {
-            "song_name": "Go Down (feat. TisaKorean)",
-            "artists": [
-                "Don Toliver",
-                "TisaKorean"
-            ],
-            "album": "Love Sick",
-            "played_at": "02/12/2025 - 14:48:31"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "02/12/2025 - 17:35:13"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "02/12/2025 - 18:49:06"
-        },
         {
             "song_name": "Word is Bond",
             "artists": [
@@ -1698,6 +1672,34 @@
             ],
             "album": "Miss Your Body",
             "played_at": "08/12/2025 - 09:02:55"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "08/12/2025 - 10:30:11"
+        },
+        {
+            "song_name": "How You Feel (ft Leven Kali)",
+            "artists": [
+                "ANOTR",
+                "Leven Kali",
+                "Erik Bandt"
+            ],
+            "album": "On A Trip",
+            "played_at": "08/12/2025 - 10:27:10"
+        },
+        {
+            "song_name": "How You Feel (ft Leven Kali)",
+            "artists": [
+                "ANOTR",
+                "Leven Kali",
+                "Erik Bandt"
+            ],
+            "album": "On A Trip",
+            "played_at": "08/12/2025 - 10:26:15"
         }
     ]
 }
