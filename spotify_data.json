@@ -1,14 +1,6 @@
 {
-    "total_plays": 419,
+    "total_plays": 420,
     "tracks": [
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "02/12/2025 - 18:43:11"
-        },
         {
             "song_name": "Pursuit Of Happiness (Nightmare)",
             "artists": [
@@ -1700,6 +1692,14 @@
             ],
             "album": "On A Trip",
             "played_at": "08/12/2025 - 10:26:15"
+        },
+        {
+            "song_name": "Magic",
+            "artists": [
+                "Olympic Ayres"
+            ],
+            "album": "Episode III",
+            "played_at": "08/12/2025 - 11:14:52"
         }
     ]
 }
