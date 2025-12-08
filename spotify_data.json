@@ -1,15 +1,6 @@
 {
-    "total_plays": 428,
+    "total_plays": 429,
     "tracks": [
-        {
-            "song_name": "Go Down (feat. TisaKorean)",
-            "artists": [
-                "Don Toliver",
-                "TisaKorean"
-            ],
-            "album": "Love Sick",
-            "played_at": "03/12/2025 - 08:07:10"
-        },
         {
             "song_name": "LoveSickness",
             "artists": [
@@ -1695,6 +1686,14 @@
             ],
             "album": "Episode III",
             "played_at": "08/12/2025 - 11:42:06"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "08/12/2025 - 12:30:28"
         }
     ]
 }
