@@ -1,22 +1,6 @@
 {
-    "total_plays": 478,
+    "total_plays": 480,
     "tracks": [
-        {
-            "song_name": "Swim Good",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Swim Good",
-            "played_at": "04/12/2025 - 11:13:44"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "04/12/2025 - 11:09:16"
-        },
         {
             "song_name": "Self Care",
             "artists": [
@@ -1686,6 +1670,24 @@
             ],
             "album": "NOW OR NEVER",
             "played_at": "09/12/2025 - 06:29:16"
+        },
+        {
+            "song_name": "Tokyo Drifting",
+            "artists": [
+                "Glass Animals",
+                "Denzel Curry"
+            ],
+            "album": "Dreamland",
+            "played_at": "09/12/2025 - 09:30:12"
+        },
+        {
+            "song_name": "tell you straight - Sped Up",
+            "artists": [
+                "Strn.",
+                "ALEXYS"
+            ],
+            "album": "tell you straight (Speed Garage)",
+            "played_at": "09/12/2025 - 09:26:41"
         }
     ]
 }
