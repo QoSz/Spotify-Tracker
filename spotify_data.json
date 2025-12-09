@@ -1,81 +1,6 @@
 {
-    "total_plays": 492,
+    "total_plays": 501,
     "tracks": [
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "04/12/2025 - 13:17:14"
-        },
-        {
-            "song_name": "FaceTime (feat. Don Toliver)",
-            "artists": [
-                "Lithe",
-                "Don Toliver"
-            ],
-            "album": "Euphoria",
-            "played_at": "04/12/2025 - 13:14:44"
-        },
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "04/12/2025 - 13:12:15"
-        },
-        {
-            "song_name": "On Me",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Local Mvp",
-            "played_at": "04/12/2025 - 13:08:47"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "04/12/2025 - 13:02:18"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "04/12/2025 - 14:03:38"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "04/12/2025 - 13:58:29"
-        },
-        {
-            "song_name": "Another Dimension",
-            "artists": [
-                "Pop Money"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-            "played_at": "04/12/2025 - 13:57:29"
-        },
-        {
-            "song_name": "Drugs You Should Try It",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "DAYS BEFORE RODEO",
-            "played_at": "04/12/2025 - 13:54:30"
-        },
         {
             "song_name": "Midnight's Interlude",
             "artists": [
@@ -1694,6 +1619,85 @@
             ],
             "album": "Never Walk Alone",
             "played_at": "09/12/2025 - 10:34:02"
+        },
+        {
+            "song_name": "Blessings",
+            "artists": [
+                "Calvin Harris",
+                "Clementine Douglas"
+            ],
+            "album": "Blessings",
+            "played_at": "09/12/2025 - 11:29:42"
+        },
+        {
+            "song_name": "SNAKE EYES",
+            "artists": [
+                "Aries"
+            ],
+            "album": "SNAKE EYES",
+            "played_at": "09/12/2025 - 11:26:06"
+        },
+        {
+            "song_name": "ten",
+            "artists": [
+                "Fred again..",
+                "Jozzy"
+            ],
+            "album": "ten days",
+            "played_at": "09/12/2025 - 11:23:35"
+        },
+        {
+            "song_name": "Disparate Youth",
+            "artists": [
+                "Santigold"
+            ],
+            "album": "Master of My Make-Believe",
+            "played_at": "09/12/2025 - 11:20:35"
+        },
+        {
+            "song_name": "Take My Mind",
+            "artists": [
+                "WizTheMc",
+                "bees & honey"
+            ],
+            "album": "YEBO",
+            "played_at": "09/12/2025 - 11:15:34"
+        },
+        {
+            "song_name": "Focus (feat. CLOVES)",
+            "artists": [
+                "John Summit",
+                "CLOVES"
+            ],
+            "album": "Focus (feat. CLOVES)",
+            "played_at": "09/12/2025 - 11:12:33"
+        },
+        {
+            "song_name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
+            "artists": [
+                "Don Toliver",
+                "Doja Cat",
+                "F1 The Album"
+            ],
+            "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
+            "played_at": "09/12/2025 - 11:08:34"
+        },
+        {
+            "song_name": "Drugs I Like",
+            "artists": [
+                "nate band"
+            ],
+            "album": "Drugs I Like",
+            "played_at": "09/12/2025 - 11:05:02"
+        },
+        {
+            "song_name": "Sunrise (feat. Jason Walker)",
+            "artists": [
+                "Kygo",
+                "Jason Walker"
+            ],
+            "album": "Kids in Love",
+            "played_at": "09/12/2025 - 11:02:02"
         }
     ]
 }
