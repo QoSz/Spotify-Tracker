@@ -1,30 +1,6 @@
 {
-    "total_plays": 531,
+    "total_plays": 534,
     "tracks": [
-        {
-            "song_name": "Moon",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Donda",
-            "played_at": "05/12/2025 - 10:58:55"
-        },
-        {
-            "song_name": "4 Raws",
-            "artists": [
-                "EsDeeKid"
-            ],
-            "album": "Rebel",
-            "played_at": "05/12/2025 - 10:34:38"
-        },
-        {
-            "song_name": "Pink + White",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "05/12/2025 - 12:05:14"
-        },
         {
             "song_name": "Violent Crimes",
             "artists": [
@@ -1700,6 +1676,32 @@
             ],
             "album": "Twelve Carat Toothache",
             "played_at": "09/12/2025 - 18:22:55"
+        },
+        {
+            "song_name": "Take My Mind",
+            "artists": [
+                "WizTheMc",
+                "bees & honey"
+            ],
+            "album": "YEBO",
+            "played_at": "09/12/2025 - 18:38:17"
+        },
+        {
+            "song_name": "Shiver",
+            "artists": [
+                "John Summit",
+                "HAYLA"
+            ],
+            "album": "Comfort In Chaos",
+            "played_at": "09/12/2025 - 18:37:14"
+        },
+        {
+            "song_name": "Chihiro",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Chihiro",
+            "played_at": "09/12/2025 - 18:33:14"
         }
     ]
 }
