@@ -1,81 +1,6 @@
 {
-    "total_plays": 483,
+    "total_plays": 492,
     "tracks": [
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "04/12/2025 - 11:54:24"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "04/12/2025 - 11:40:43"
-        },
-        {
-            "song_name": "Fall Back",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Fall Back / Selfish Game",
-            "played_at": "04/12/2025 - 11:39:34"
-        },
-        {
-            "song_name": "No Enhancers",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "04/12/2025 - 11:38:49"
-        },
-        {
-            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-            "artists": [
-                "Bakar",
-                "Dominic Fike"
-            ],
-            "album": "Will You Be My Yellow?",
-            "played_at": "04/12/2025 - 11:36:56"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "04/12/2025 - 11:33:48"
-        },
-        {
-            "song_name": "Time",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "04/12/2025 - 13:27:16"
-        },
-        {
-            "song_name": "Virginia Beach",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "04/12/2025 - 13:24:15"
-        },
-        {
-            "song_name": "Crossfaded",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Life of a DON",
-            "played_at": "04/12/2025 - 13:19:44"
-        },
         {
             "song_name": "Lavender Sunflower",
             "artists": [
@@ -1688,6 +1613,87 @@
             ],
             "album": "3am",
             "played_at": "09/12/2025 - 10:20:20"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "09/12/2025 - 10:58:03"
+        },
+        {
+            "song_name": "Addicted (feat. TIMID.)",
+            "artists": [
+                "Naarly",
+                "Daytona",
+                "LEWS",
+                "FIRSTCLASS",
+                "TIMID."
+            ],
+            "album": "Addicted (feat. TIMID.)",
+            "played_at": "09/12/2025 - 10:55:02"
+        },
+        {
+            "song_name": "Intimidated (feat. H.E.R.)",
+            "artists": [
+                "KAYTRANADA",
+                "H.E.R."
+            ],
+            "album": "Intimidated",
+            "played_at": "09/12/2025 - 10:53:13"
+        },
+        {
+            "song_name": "Shiver",
+            "artists": [
+                "John Summit",
+                "HAYLA"
+            ],
+            "album": "Comfort In Chaos",
+            "played_at": "09/12/2025 - 10:49:39"
+        },
+        {
+            "song_name": "Favorite Lie",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "DOPAMINE",
+            "played_at": "09/12/2025 - 10:45:33"
+        },
+        {
+            "song_name": "Used To Be In Love",
+            "artists": [
+                "The Jungle Giants"
+            ],
+            "album": "Quiet Ferocity",
+            "played_at": "09/12/2025 - 10:42:33"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "Zerb",
+                "The Chainsmokers",
+                "Ink"
+            ],
+            "album": "Addicted",
+            "played_at": "09/12/2025 - 10:39:17"
+        },
+        {
+            "song_name": "Starry Eyed",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "09/12/2025 - 10:36:32"
+        },
+        {
+            "song_name": "Never Walk Alone",
+            "artists": [
+                "BLOND:ISH",
+                "Stevie Appleton"
+            ],
+            "album": "Never Walk Alone",
+            "played_at": "09/12/2025 - 10:34:02"
         }
     ]
 }
