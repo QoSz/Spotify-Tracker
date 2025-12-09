@@ -1,47 +1,6 @@
 {
-    "total_plays": 526,
+    "total_plays": 531,
     "tracks": [
-        {
-            "song_name": "narcotics",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "05/12/2025 - 08:45:38"
-        },
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Tiramisu",
-            "played_at": "05/12/2025 - 08:43:08"
-        },
-        {
-            "song_name": "has to be you 2",
-            "artists": [
-                "Kidwild",
-                "Thiago Sub"
-            ],
-            "album": "has to be you 2",
-            "played_at": "05/12/2025 - 08:41:08"
-        },
-        {
-            "song_name": "No Friends In The Industry",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "05/12/2025 - 08:38:38"
-        },
-        {
-            "song_name": "coordinate",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "Birds In The Trap Sing McKnight",
-            "played_at": "05/12/2025 - 08:35:08"
-        },
         {
             "song_name": "Moon",
             "artists": [
@@ -1699,6 +1658,48 @@
             ],
             "album": "THE FIRST TIME",
             "played_at": "09/12/2025 - 15:30:25"
+        },
+        {
+            "song_name": "Dark Thoughts",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "DOPAMINE",
+            "played_at": "09/12/2025 - 18:31:14"
+        },
+        {
+            "song_name": "Key To My Heart",
+            "artists": [
+                "BOVSKI"
+            ],
+            "album": "Key To My Heart",
+            "played_at": "09/12/2025 - 18:28:44"
+        },
+        {
+            "song_name": "messy",
+            "artists": [
+                "Łaszewo"
+            ],
+            "album": "messy",
+            "played_at": "09/12/2025 - 18:26:44"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "09/12/2025 - 18:23:03"
+        },
+        {
+            "song_name": "One Right Now (with The Weeknd)",
+            "artists": [
+                "Post Malone",
+                "The Weeknd"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "09/12/2025 - 18:22:55"
         }
     ]
 }
