@@ -1,14 +1,6 @@
 {
-    "total_plays": 477,
+    "total_plays": 478,
     "tracks": [
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "04/12/2025 - 11:16:50"
-        },
         {
             "song_name": "Swim Good",
             "artists": [
@@ -1685,6 +1677,15 @@
             ],
             "album": "Make Me Feel",
             "played_at": "08/12/2025 - 13:09:06"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "09/12/2025 - 06:29:16"
         }
     ]
 }
