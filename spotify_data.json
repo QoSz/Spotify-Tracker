@@ -1,15 +1,6 @@
 {
-    "total_plays": 514,
+    "total_plays": 515,
     "tracks": [
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "05/12/2025 - 06:35:36"
-        },
         {
             "song_name": "KICK OUT",
             "artists": [
@@ -1701,6 +1692,14 @@
             ],
             "album": "Big City Life",
             "played_at": "09/12/2025 - 13:39:53"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "09/12/2025 - 14:58:51"
         }
     ]
 }
