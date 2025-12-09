@@ -1,47 +1,6 @@
 {
-    "total_plays": 501,
+    "total_plays": 506,
     "tracks": [
-        {
-            "song_name": "Midnight's Interlude",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "04/12/2025 - 13:42:37"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "04/12/2025 - 13:40:37"
-        },
-        {
-            "song_name": "Situation",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Situation",
-            "played_at": "04/12/2025 - 13:35:54"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "04/12/2025 - 13:33:23"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "04/12/2025 - 14:32:30"
-        },
         {
             "song_name": "KICK OUT",
             "artists": [
@@ -1698,6 +1657,49 @@
             ],
             "album": "Kids in Love",
             "played_at": "09/12/2025 - 11:02:02"
+        },
+        {
+            "song_name": "Lioness",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove"
+            ],
+            "album": "Lioness",
+            "played_at": "09/12/2025 - 11:56:28"
+        },
+        {
+            "song_name": "My Love (2024)",
+            "artists": [
+                "Alex Wann",
+                "Route 94",
+                "Jess Glynne"
+            ],
+            "album": "My Love (2024)",
+            "played_at": "09/12/2025 - 11:53:28"
+        },
+        {
+            "song_name": "Maui Wowie",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "The Boy Who Flew To The Moon (Vol. 1)",
+            "played_at": "09/12/2025 - 11:50:30"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "09/12/2025 - 11:47:59"
+        },
+        {
+            "song_name": "Senior Skip Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "K.I.D.S.",
+            "played_at": "09/12/2025 - 11:46:31"
         }
     ]
 }
