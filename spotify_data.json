@@ -1,24 +1,6 @@
 {
-    "total_plays": 515,
+    "total_plays": 517,
     "tracks": [
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "04/12/2025 - 21:03:30"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "05/12/2025 - 06:57:00"
-        },
         {
             "song_name": "Sorry 4 What? // LV BELT",
             "artists": [
@@ -1700,6 +1682,22 @@
             ],
             "album": "Circles",
             "played_at": "09/12/2025 - 14:58:51"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "09/12/2025 - 15:28:59"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "09/12/2025 - 15:24:39"
         }
     ]
 }
