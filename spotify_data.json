@@ -1,14 +1,6 @@
 {
-    "total_plays": 506,
+    "total_plays": 507,
     "tracks": [
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "04/12/2025 - 14:31:35"
-        },
         {
             "song_name": "KICK OUT",
             "artists": [
@@ -1700,6 +1692,14 @@
             ],
             "album": "K.I.D.S.",
             "played_at": "09/12/2025 - 11:46:31"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "09/12/2025 - 12:15:12"
         }
     ]
 }
