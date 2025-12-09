@@ -1,79 +1,6 @@
 {
-    "total_plays": 517,
+    "total_plays": 526,
     "tracks": [
-        {
-            "song_name": "Sorry 4 What? // LV BELT",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Sorry 4 What",
-            "played_at": "05/12/2025 - 08:31:38"
-        },
-        {
-            "song_name": "chronic",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "05/12/2025 - 08:29:09"
-        },
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "05/12/2025 - 08:26:38"
-        },
-        {
-            "song_name": "Royal Oak",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Euphoria",
-            "played_at": "05/12/2025 - 08:23:08"
-        },
-        {
-            "song_name": "STARGAZING",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "05/12/2025 - 08:21:08"
-        },
-        {
-            "song_name": "LIFE IS A GAMBLE",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "LIFE IS A GAMBLE",
-            "played_at": "05/12/2025 - 08:16:38"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "05/12/2025 - 08:13:38"
-        },
-        {
-            "song_name": "Dora",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Dora",
-            "played_at": "05/12/2025 - 08:51:10"
-        },
-        {
-            "song_name": "DA WIZARD",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "05/12/2025 - 08:48:08"
-        },
         {
             "song_name": "narcotics",
             "artists": [
@@ -1698,6 +1625,80 @@
             ],
             "album": "Local Mvp",
             "played_at": "09/12/2025 - 15:24:39"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "09/12/2025 - 16:33:23"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "09/12/2025 - 16:30:23"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "09/12/2025 - 16:26:27"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "09/12/2025 - 16:24:23"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "09/12/2025 - 16:14:28"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "09/12/2025 - 16:10:58"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "09/12/2025 - 15:37:14"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "09/12/2025 - 15:33:41"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "09/12/2025 - 15:30:25"
         }
     ]
 }
