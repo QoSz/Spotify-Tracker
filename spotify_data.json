@@ -1,31 +1,6 @@
 {
-    "total_plays": 480,
+    "total_plays": 483,
     "tracks": [
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "04/12/2025 - 11:06:45"
-        },
-        {
-            "song_name": "I LIKE",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "I LIKE",
-            "played_at": "04/12/2025 - 12:00:38"
-        },
-        {
-            "song_name": "Pretty Little Fears (feat. J. Cole)",
-            "artists": [
-                "6LACK",
-                "J. Cole"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "04/12/2025 - 11:58:38"
-        },
         {
             "song_name": "DIE TRYING",
             "artists": [
@@ -1688,6 +1663,31 @@
             ],
             "album": "tell you straight (Speed Garage)",
             "played_at": "09/12/2025 - 09:26:41"
+        },
+        {
+            "song_name": "The Days - NOTION Remix",
+            "artists": [
+                "Chrystal",
+                "NOTION"
+            ],
+            "album": "The Days (NOTION Remix)",
+            "played_at": "09/12/2025 - 10:31:02"
+        },
+        {
+            "song_name": "3am",
+            "artists": [
+                "Łaszewo"
+            ],
+            "album": "3am",
+            "played_at": "09/12/2025 - 10:25:19"
+        },
+        {
+            "song_name": "3am",
+            "artists": [
+                "Łaszewo"
+            ],
+            "album": "3am",
+            "played_at": "09/12/2025 - 10:20:20"
         }
     ]
 }
