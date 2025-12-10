@@ -1,14 +1,6 @@
 {
-    "total_plays": 538,
+    "total_plays": 539,
     "tracks": [
-        {
-            "song_name": "Let U Go",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "Let U Go",
-            "played_at": "05/12/2025 - 11:53:40"
-        },
         {
             "song_name": "Same Thing",
             "artists": [
@@ -1702,6 +1694,15 @@
             ],
             "album": "From Me 2 U",
             "played_at": "10/12/2025 - 06:56:06"
+        },
+        {
+            "song_name": "Take My Mind",
+            "artists": [
+                "WizTheMc",
+                "bees & honey"
+            ],
+            "album": "YEBO",
+            "played_at": "10/12/2025 - 08:27:12"
         }
     ]
 }
