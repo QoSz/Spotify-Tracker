@@ -1,14 +1,6 @@
 {
-    "total_plays": 584,
+    "total_plays": 585,
     "tracks": [
-        {
-            "song_name": "Ride",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "Ride",
-            "played_at": "06/12/2025 - 11:53:11"
-        },
         {
             "song_name": "Situation",
             "artists": [
@@ -1711,6 +1703,14 @@
             ],
             "album": "Living In A Haze",
             "played_at": "10/12/2025 - 13:19:16"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "10/12/2025 - 19:02:35"
         }
     ]
 }
