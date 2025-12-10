@@ -1,14 +1,6 @@
 {
-    "total_plays": 537,
+    "total_plays": 538,
     "tracks": [
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "05/12/2025 - 11:58:39"
-        },
         {
             "song_name": "Let U Go",
             "artists": [
@@ -1702,6 +1694,14 @@
             ],
             "album": "Circles",
             "played_at": "09/12/2025 - 20:42:37"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "10/12/2025 - 06:56:06"
         }
     ]
 }
