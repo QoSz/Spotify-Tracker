@@ -1,40 +1,6 @@
 {
-    "total_plays": 551,
+    "total_plays": 555,
     "tracks": [
-        {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "05/12/2025 - 11:20:20"
-        },
-        {
-            "song_name": "Around Me (feat. Don Toliver)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "05/12/2025 - 11:16:49"
-        },
-        {
-            "song_name": "Swim Good",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Swim Good",
-            "played_at": "05/12/2025 - 11:12:50"
-        },
-        {
-            "song_name": "Is there free breakfast here?",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "05/12/2025 - 11:08:52"
-        },
         {
             "song_name": "Come Back to Earth",
             "artists": [
@@ -1702,6 +1668,42 @@
             ],
             "album": "Hit the Ground",
             "played_at": "10/12/2025 - 09:00:40"
+        },
+        {
+            "song_name": "Still Sleepless",
+            "artists": [
+                "D.O.D",
+                "Carla Monroe"
+            ],
+            "album": "Still Sleepless",
+            "played_at": "10/12/2025 - 10:28:03"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "10/12/2025 - 10:25:34"
+        },
+        {
+            "song_name": "Delilah (pull me out of this)",
+            "artists": [
+                "Fred again..",
+                "Delilah Montagu"
+            ],
+            "album": "Actual Life 3 (January 1 - September 9 2022)",
+            "played_at": "10/12/2025 - 10:22:34"
+        },
+        {
+            "song_name": "Delilah (pull me out of this)",
+            "artists": [
+                "Fred again..",
+                "Delilah Montagu"
+            ],
+            "album": "Actual Life 3 (January 1 - September 9 2022)",
+            "played_at": "10/12/2025 - 10:20:04"
         }
     ]
 }
