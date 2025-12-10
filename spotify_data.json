@@ -1,71 +1,6 @@
 {
-    "total_plays": 555,
+    "total_plays": 563,
     "tracks": [
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "05/12/2025 - 11:06:22"
-        },
-        {
-            "song_name": "So Easy (To Fall In Love)",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "The Art of Loving",
-            "played_at": "05/12/2025 - 11:03:49"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "05/12/2025 - 12:18:40"
-        },
-        {
-            "song_name": "Mystery Lady",
-            "artists": [
-                "Masego",
-                "Don Toliver"
-            ],
-            "album": "Studying Abroad: Extended Stay",
-            "played_at": "05/12/2025 - 12:15:45"
-        },
-        {
-            "song_name": "Pink + White",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "05/12/2025 - 12:07:36"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "05/12/2025 - 16:29:00"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "06/12/2025 - 10:27:49"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "06/12/2025 - 10:59:11"
-        },
         {
             "song_name": "Teenage Fever",
             "artists": [
@@ -1704,6 +1639,72 @@
             ],
             "album": "Actual Life 3 (January 1 - September 9 2022)",
             "played_at": "10/12/2025 - 10:20:04"
+        },
+        {
+            "song_name": "Lose It All (I Don't Wanna)",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Don't Do It",
+            "played_at": "10/12/2025 - 10:59:50"
+        },
+        {
+            "song_name": "Mona Lisa",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "10/12/2025 - 10:57:20"
+        },
+        {
+            "song_name": "Sweet Nothing (feat. Florence Welch)",
+            "artists": [
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "18 Months",
+            "played_at": "10/12/2025 - 10:54:18"
+        },
+        {
+            "song_name": "Dancing In The Flames",
+            "artists": [
+                "The Weeknd"
+            ],
+            "album": "Dancing In The Flames",
+            "played_at": "10/12/2025 - 10:50:53"
+        },
+        {
+            "song_name": "3005",
+            "artists": [
+                "Childish Gambino"
+            ],
+            "album": "Because the Internet",
+            "played_at": "10/12/2025 - 10:46:49"
+        },
+        {
+            "song_name": "Too Easy",
+            "artists": [
+                "Connor Price",
+                "Nic D"
+            ],
+            "album": "ICONIC",
+            "played_at": "10/12/2025 - 10:40:39"
+        },
+        {
+            "song_name": "On Your Way Down",
+            "artists": [
+                "The Jungle Giants"
+            ],
+            "album": "Quiet Ferocity",
+            "played_at": "10/12/2025 - 10:34:43"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "10/12/2025 - 10:30:37"
         }
     ]
 }
