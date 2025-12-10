@@ -1,48 +1,6 @@
 {
-    "total_plays": 546,
+    "total_plays": 551,
     "tracks": [
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "05/12/2025 - 11:35:21"
-        },
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "05/12/2025 - 11:31:51"
-        },
-        {
-            "song_name": "Denver",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "05/12/2025 - 11:28:51"
-        },
-        {
-            "song_name": "Desires (with Future)",
-            "artists": [
-                "Drake",
-                "Future"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "05/12/2025 - 11:26:21"
-        },
-        {
-            "song_name": "Cream",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "05/12/2025 - 11:22:21"
-        },
         {
             "song_name": "Weekend (feat. Miguel)",
             "artists": [
@@ -1701,6 +1659,49 @@
             ],
             "album": "Cracker Island",
             "played_at": "10/12/2025 - 08:33:19"
+        },
+        {
+            "song_name": "Hurts Me",
+            "artists": [
+                "Tory Lanez",
+                "Trippie Redd",
+                "Yoko Gold"
+            ],
+            "album": "Hurts Me",
+            "played_at": "10/12/2025 - 09:13:37"
+        },
+        {
+            "song_name": "Better",
+            "artists": [
+                "nimino",
+                "Manta"
+            ],
+            "album": "Better",
+            "played_at": "10/12/2025 - 09:11:10"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "10/12/2025 - 09:07:08"
+        },
+        {
+            "song_name": "What Are You Waiting For",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "WITHERED",
+            "played_at": "10/12/2025 - 09:03:08"
+        },
+        {
+            "song_name": "Hit the Ground",
+            "artists": [
+                "Texture"
+            ],
+            "album": "Hit the Ground",
+            "played_at": "10/12/2025 - 09:00:40"
         }
     ]
 }
