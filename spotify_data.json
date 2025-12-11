@@ -1,85 +1,6 @@
 {
-    "total_plays": 613,
+    "total_plays": 622,
     "tracks": [
-        {
-            "song_name": "Hot Air Balloon",
-            "artists": [
-                "Don Diablo",
-                "AR/CO"
-            ],
-            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
-            "played_at": "08/12/2025 - 09:07:55"
-        },
-        {
-            "song_name": "Low Again",
-            "artists": [
-                "BOVSKI"
-            ],
-            "album": "Low Again",
-            "played_at": "08/12/2025 - 09:04:55"
-        },
-        {
-            "song_name": "Miss Your Body",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Miss Your Body",
-            "played_at": "08/12/2025 - 09:02:55"
-        },
-        {
-            "song_name": "Ripple",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "08/12/2025 - 10:30:11"
-        },
-        {
-            "song_name": "How You Feel (ft Leven Kali)",
-            "artists": [
-                "ANOTR",
-                "Leven Kali",
-                "Erik Bandt"
-            ],
-            "album": "On A Trip",
-            "played_at": "08/12/2025 - 10:27:10"
-        },
-        {
-            "song_name": "How You Feel (ft Leven Kali)",
-            "artists": [
-                "ANOTR",
-                "Leven Kali",
-                "Erik Bandt"
-            ],
-            "album": "On A Trip",
-            "played_at": "08/12/2025 - 10:26:15"
-        },
-        {
-            "song_name": "Magic",
-            "artists": [
-                "Olympic Ayres"
-            ],
-            "album": "Episode III",
-            "played_at": "08/12/2025 - 11:14:52"
-        },
-        {
-            "song_name": "Talk of the Town",
-            "artists": [
-                "Fred again..",
-                "Sammy Virji",
-                "Reggie"
-            ],
-            "album": "Talk of the Town",
-            "played_at": "08/12/2025 - 12:21:42"
-        },
-        {
-            "song_name": "London2Paris",
-            "artists": [
-                "Tkandz"
-            ],
-            "album": "London2Paris",
-            "played_at": "08/12/2025 - 12:20:46"
-        },
         {
             "song_name": "Crazy",
             "artists": [
@@ -1707,6 +1628,80 @@
             ],
             "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
             "played_at": "11/12/2025 - 09:02:08"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "11/12/2025 - 09:58:09"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "11/12/2025 - 09:56:39"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "11/12/2025 - 09:52:38"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "11/12/2025 - 09:49:09"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "11/12/2025 - 09:46:09"
+        },
+        {
+            "song_name": "Violent Crimes",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "ye",
+            "played_at": "11/12/2025 - 09:42:08"
+        },
+        {
+            "song_name": "I Ain't Worried",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "11/12/2025 - 09:38:12"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "11/12/2025 - 09:36:08"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "11/12/2025 - 09:33:16"
         }
     ]
 }
