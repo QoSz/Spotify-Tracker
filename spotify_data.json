@@ -1,14 +1,6 @@
 {
-    "total_plays": 664,
+    "total_plays": 665,
     "tracks": [
-        {
-            "song_name": "shiloh type beat",
-            "artists": [
-                "Jessy Blakemore"
-            ],
-            "album": "burna",
-            "played_at": "08/12/2025 - 13:44:30"
-        },
         {
             "song_name": "Kool Aid",
             "artists": [
@@ -1686,6 +1678,14 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/12/2025 - 13:42:14"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 15:08:57"
         }
     ]
 }
