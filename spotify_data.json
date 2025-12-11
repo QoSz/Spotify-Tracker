@@ -1,93 +1,6 @@
 {
-    "total_plays": 603,
+    "total_plays": 613,
     "tracks": [
-        {
-            "song_name": "Summer Uptown (feat. d4vd)",
-            "artists": [
-                "jasontheween",
-                "d4vd"
-            ],
-            "album": "Summer Uptown (feat. d4vd)",
-            "played_at": "08/12/2025 - 09:00:25"
-        },
-        {
-            "song_name": "Midnight Life",
-            "artists": [
-                "White Panda"
-            ],
-            "album": "Midnight Life",
-            "played_at": "08/12/2025 - 08:57:55"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "08/12/2025 - 08:53:55"
-        },
-        {
-            "song_name": "Now Or Never - Bonus Track",
-            "artists": [
-                "Kendrick Lamar",
-                "Mary J. Blige"
-            ],
-            "album": "good kid, m.A.A.d city (Deluxe)",
-            "played_at": "08/12/2025 - 08:50:25"
-        },
-        {
-            "song_name": "REHAB",
-            "artists": [
-                "Blair Muir"
-            ],
-            "album": "REHAB",
-            "played_at": "08/12/2025 - 08:46:25"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "08/12/2025 - 08:42:55"
-        },
-        {
-            "song_name": "nobody (make me feel)",
-            "artists": [
-                "oskar med k",
-                "Khalid"
-            ],
-            "album": "nobody (make me feel)",
-            "played_at": "08/12/2025 - 08:40:25"
-        },
-        {
-            "song_name": "Go Back (feat. Julia Church)",
-            "artists": [
-                "John Summit",
-                "Sub Focus",
-                "Julia Church"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "08/12/2025 - 08:37:55"
-        },
-        {
-            "song_name": "Wish I Never Met You",
-            "artists": [
-                "Jacob Vallen",
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You",
-            "played_at": "08/12/2025 - 08:33:55"
-        },
-        {
-            "song_name": "All I Know (with Khalid)",
-            "artists": [
-                "Rudimental",
-                "Khalid"
-            ],
-            "album": "RUDIM3NTAL",
-            "played_at": "08/12/2025 - 09:10:56"
-        },
         {
             "song_name": "Hot Air Balloon",
             "artists": [
@@ -1705,6 +1618,95 @@
             ],
             "album": "Thats What They All Say",
             "played_at": "11/12/2025 - 08:33:10"
+        },
+        {
+            "song_name": "Drugs You Should Try It",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "DAYS BEFORE RODEO",
+            "played_at": "11/12/2025 - 09:30:09"
+        },
+        {
+            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+            "artists": [
+                "Bakar",
+                "Dominic Fike"
+            ],
+            "album": "Will You Be My Yellow?",
+            "played_at": "11/12/2025 - 09:26:39"
+        },
+        {
+            "song_name": "One Right Now (with The Weeknd)",
+            "artists": [
+                "Post Malone",
+                "The Weeknd"
+            ],
+            "album": "Twelve Carat Toothache",
+            "played_at": "11/12/2025 - 09:24:09"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "11/12/2025 - 09:20:39"
+        },
+        {
+            "song_name": "Fantasy (feat. Don Toliver)",
+            "artists": [
+                "Kali Uchis",
+                "Don Toliver"
+            ],
+            "album": "Red Moon In Venus",
+            "played_at": "11/12/2025 - 09:17:38"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "11/12/2025 - 09:14:39"
+        },
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "11/12/2025 - 09:11:39"
+        },
+        {
+            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "11/12/2025 - 09:07:38"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "11/12/2025 - 09:04:39"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "11/12/2025 - 09:02:08"
         }
     ]
 }
