@@ -1,22 +1,6 @@
 {
-    "total_plays": 585,
+    "total_plays": 587,
     "tracks": [
-        {
-            "song_name": "Situation",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Situation",
-            "played_at": "06/12/2025 - 11:46:38"
-        },
-        {
-            "song_name": "No Recognition",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "06/12/2025 - 11:44:21"
-        },
         {
             "song_name": "DEEP IN YOUR SOUL",
             "artists": [
@@ -1711,6 +1695,22 @@
             ],
             "album": "Shut up My Moms Calling",
             "played_at": "10/12/2025 - 19:02:35"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 06:30:20"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 06:30:19"
         }
     ]
 }
