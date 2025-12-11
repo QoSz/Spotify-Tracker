@@ -1,95 +1,6 @@
 {
-    "total_plays": 626,
+    "total_plays": 637,
     "tracks": [
-        {
-            "song_name": "Magic",
-            "artists": [
-                "Olympic Ayres"
-            ],
-            "album": "Episode III",
-            "played_at": "08/12/2025 - 11:46:42"
-        },
-        {
-            "song_name": "Magic",
-            "artists": [
-                "Olympic Ayres"
-            ],
-            "album": "Episode III",
-            "played_at": "08/12/2025 - 11:42:06"
-        },
-        {
-            "song_name": "Wish I Never Met You - Prison Tapes",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You (Prison Tapes)",
-            "played_at": "08/12/2025 - 12:30:28"
-        },
-        {
-            "song_name": "If I Lose",
-            "artists": [
-                "JBEE",
-                "Kidwild"
-            ],
-            "album": "If I Lose",
-            "played_at": "08/12/2025 - 16:45:02"
-        },
-        {
-            "song_name": "PAID",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "RENT'S DUE (DELUXE)",
-            "played_at": "08/12/2025 - 16:41:19"
-        },
-        {
-            "song_name": "Booga",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "Booga",
-            "played_at": "08/12/2025 - 16:38:47"
-        },
-        {
-            "song_name": "Miss Them Days",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "08/12/2025 - 16:36:37"
-        },
-        {
-            "song_name": "MR DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "08/12/2025 - 16:35:21"
-        },
-        {
-            "song_name": "MR DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "08/12/2025 - 15:31:38"
-        },
-        {
-            "song_name": "8PM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "08/12/2025 - 15:17:06"
-        },
-        {
-            "song_name": "Grand Prix",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "08/12/2025 - 15:14:05"
-        },
         {
             "song_name": "G7X",
             "artists": [
@@ -1702,6 +1613,97 @@
             ],
             "album": "Love Sick (Deluxe)",
             "played_at": "11/12/2025 - 10:15:48"
+        },
+        {
+            "song_name": "Intimidated (feat. H.E.R.)",
+            "artists": [
+                "KAYTRANADA",
+                "H.E.R."
+            ],
+            "album": "Intimidated",
+            "played_at": "11/12/2025 - 10:59:53"
+        },
+        {
+            "song_name": "Cream",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "11/12/2025 - 10:56:48"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "11/12/2025 - 10:54:48"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "11/12/2025 - 10:51:18"
+        },
+        {
+            "song_name": "NIGHTS LIKE THIS",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME",
+            "played_at": "11/12/2025 - 10:47:49"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "11/12/2025 - 10:46:18"
+        },
+        {
+            "song_name": "DEEP IN YOUR SOUL",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "DEEP IN YOUR SOUL",
+            "played_at": "11/12/2025 - 10:42:18"
+        },
+        {
+            "song_name": "Denver",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "11/12/2025 - 10:38:18"
+        },
+        {
+            "song_name": "16",
+            "artists": [
+                "Baby Keem"
+            ],
+            "album": "The Melodic Blue",
+            "played_at": "11/12/2025 - 10:35:18"
+        },
+        {
+            "song_name": "Let U Go",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Let U Go",
+            "played_at": "11/12/2025 - 10:32:48"
+        },
+        {
+            "song_name": "My House Is Not A Home",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "My House Is Not A Home",
+            "played_at": "11/12/2025 - 10:30:48"
         }
     ]
 }
