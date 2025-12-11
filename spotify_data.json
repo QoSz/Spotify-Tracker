@@ -1,55 +1,6 @@
 {
-    "total_plays": 588,
+    "total_plays": 594,
     "tracks": [
-        {
-            "song_name": "Fall Back",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Fall Back / Selfish Game",
-            "played_at": "06/12/2025 - 11:40:24"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "06/12/2025 - 11:37:12"
-        },
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "06/12/2025 - 11:34:43"
-        },
-        {
-            "song_name": "Pink + White",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "06/12/2025 - 11:32:17"
-        },
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "06/12/2025 - 12:23:10"
-        },
-        {
-            "song_name": "Is there free breakfast here?",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "06/12/2025 - 12:18:03"
-        },
         {
             "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
             "artists": [
@@ -1711,6 +1662,55 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/12/2025 - 06:36:57"
+        },
+        {
+            "song_name": "Crossfaded",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Life of a DON",
+            "played_at": "11/12/2025 - 08:30:08"
+        },
+        {
+            "song_name": "Temporary (feat. Don Toliver)",
+            "artists": [
+                "6LACK",
+                "Don Toliver"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "11/12/2025 - 08:27:38"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 08:23:39"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 08:20:39"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 08:19:10"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 08:18:01"
         }
     ]
 }
