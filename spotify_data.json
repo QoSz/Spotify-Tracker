@@ -1,31 +1,6 @@
 {
-    "total_plays": 665,
+    "total_plays": 668,
     "tracks": [
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "08/12/2025 - 13:42:30"
-        },
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "08/12/2025 - 13:38:31"
-        },
-        {
-            "song_name": "Magic In The Hamptons (feat. Lil Yachty)",
-            "artists": [
-                "Social House",
-                "Lil Yachty"
-            ],
-            "album": "Magic In The Hamptons (feat. Lil Yachty)",
-            "played_at": "08/12/2025 - 13:33:31"
-        },
         {
             "song_name": "Ray Of Solar",
             "artists": [
@@ -1686,6 +1661,30 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/12/2025 - 15:08:57"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 16:51:03"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 16:51:00"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 16:50:58"
         }
     ]
 }
