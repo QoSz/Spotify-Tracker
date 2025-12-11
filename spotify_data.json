@@ -1,40 +1,6 @@
 {
-    "total_plays": 622,
+    "total_plays": 626,
     "tracks": [
-        {
-            "song_name": "Crazy",
-            "artists": [
-                "Myles Lloyd",
-                "BUNT."
-            ],
-            "album": "Crazy",
-            "played_at": "08/12/2025 - 12:20:44"
-        },
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "08/12/2025 - 12:20:37"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "08/12/2025 - 12:20:34"
-        },
-        {
-            "song_name": "Fake Friends",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Distro Kid",
-            "played_at": "08/12/2025 - 12:20:31"
-        },
         {
             "song_name": "Magic",
             "artists": [
@@ -1702,6 +1668,40 @@
             ],
             "album": "no service",
             "played_at": "11/12/2025 - 09:33:16"
+        },
+        {
+            "song_name": "Someone Else - Lost Tapes 2015",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Someone Else (Lost Tapes 2015)",
+            "played_at": "11/12/2025 - 10:26:48"
+        },
+        {
+            "song_name": "Ladders",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "11/12/2025 - 10:24:18"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "11/12/2025 - 10:19:56"
+        },
+        {
+            "song_name": "Embarrassed (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "11/12/2025 - 10:15:48"
         }
     ]
 }
