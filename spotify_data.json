@@ -1,14 +1,6 @@
 {
-    "total_plays": 668,
+    "total_plays": 669,
     "tracks": [
-        {
-            "song_name": "Ray Of Solar",
-            "artists": [
-                "Swedish House Mafia"
-            ],
-            "album": "Ray Of Solar",
-            "played_at": "08/12/2025 - 13:31:01"
-        },
         {
             "song_name": "Middle",
             "artists": [
@@ -1685,6 +1677,14 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/12/2025 - 16:50:58"
+        },
+        {
+            "song_name": "Nice To Each Other",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Nice To Each Other",
+            "played_at": "11/12/2025 - 17:57:21"
         }
     ]
 }
