@@ -1,97 +1,6 @@
 {
-    "total_plays": 646,
+    "total_plays": 656,
     "tracks": [
-        {
-            "song_name": "No Bad Vibes",
-            "artists": [
-                "Jazzy",
-                "KILIMANJARO"
-            ],
-            "album": "No Bad Vibes",
-            "played_at": "08/12/2025 - 14:53:02"
-        },
-        {
-            "song_name": "Undercover Martyn",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "08/12/2025 - 14:49:00"
-        },
-        {
-            "song_name": "Location",
-            "artists": [
-                "Zerb",
-                "Ty Dolla $ign",
-                "Wiz Khalifa"
-            ],
-            "album": "Location",
-            "played_at": "08/12/2025 - 14:46:00"
-        },
-        {
-            "song_name": "Better",
-            "artists": [
-                "nimino",
-                "Manta"
-            ],
-            "album": "Better",
-            "played_at": "08/12/2025 - 14:43:30"
-        },
-        {
-            "song_name": "Sad People",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon III: The Chosen",
-            "played_at": "08/12/2025 - 14:39:04"
-        },
-        {
-            "song_name": "Professional",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Professional",
-            "played_at": "08/12/2025 - 14:26:00"
-        },
-        {
-            "song_name": "They Wanna Have Fun",
-            "artists": [
-                "Metro Boomin",
-                "Travis Porter",
-                "Young Dro",
-                "Gucci Mane",
-                "DJ Spinz"
-            ],
-            "album": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-            "played_at": "08/12/2025 - 14:23:00"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "08/12/2025 - 14:19:00"
-        },
-        {
-            "song_name": "OWA OWA",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "08/12/2025 - 14:16:01"
-        },
-        {
-            "song_name": "Desires (with Future)",
-            "artists": [
-                "Drake",
-                "Future"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "08/12/2025 - 14:13:30"
-        },
         {
             "song_name": "Hell Night",
             "artists": [
@@ -1700,6 +1609,88 @@
             ],
             "album": "If Orange Was A Place",
             "played_at": "11/12/2025 - 11:03:28"
+        },
+        {
+            "song_name": "Sign Me Up",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "AUSTIN",
+            "played_at": "11/12/2025 - 12:01:18"
+        },
+        {
+            "song_name": "Dunno",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "11/12/2025 - 11:57:48"
+        },
+        {
+            "song_name": "Wassup",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "11/12/2025 - 11:53:48"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "11/12/2025 - 11:51:19"
+        },
+        {
+            "song_name": "Burning",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "11/12/2025 - 11:47:48"
+        },
+        {
+            "song_name": "A Couple Minutes",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "The Art of Loving",
+            "played_at": "11/12/2025 - 11:44:50"
+        },
+        {
+            "song_name": "don’t panic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "11/12/2025 - 11:41:20"
+        },
+        {
+            "song_name": "Complicated",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "11/12/2025 - 11:38:48"
+        },
+        {
+            "song_name": "Pink Dolphin Sunset (feat. Tee)",
+            "artists": [
+                "Tory Lanez",
+                "Tee"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "11/12/2025 - 11:35:18"
+        },
+        {
+            "song_name": "How Much Is Weed?",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "11/12/2025 - 11:31:49"
         }
     ]
 }
