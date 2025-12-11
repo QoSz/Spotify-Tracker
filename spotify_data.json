@@ -1,14 +1,6 @@
 {
-    "total_plays": 587,
+    "total_plays": 588,
     "tracks": [
-        {
-            "song_name": "DEEP IN YOUR SOUL",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "DEEP IN YOUR SOUL",
-            "played_at": "06/12/2025 - 11:43:01"
-        },
         {
             "song_name": "Fall Back",
             "artists": [
@@ -1711,6 +1703,14 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/12/2025 - 06:30:19"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/12/2025 - 06:36:57"
         }
     ]
 }
