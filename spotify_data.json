@@ -1,57 +1,6 @@
 {
-    "total_plays": 656,
+    "total_plays": 662,
     "tracks": [
-        {
-            "song_name": "Hell Night",
-            "artists": [
-                "Pooh Shiesty",
-                "BIG30"
-            ],
-            "album": "Hell Night",
-            "played_at": "08/12/2025 - 14:10:00"
-        },
-        {
-            "song_name": "Calm 3",
-            "artists": [
-                "Sleepy Hallow"
-            ],
-            "album": "Calm 3",
-            "played_at": "08/12/2025 - 14:06:30"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "08/12/2025 - 14:04:33"
-        },
-        {
-            "song_name": "Casper",
-            "artists": [
-                "Takeoff"
-            ],
-            "album": "The Last Rocket",
-            "played_at": "08/12/2025 - 14:02:01"
-        },
-        {
-            "song_name": "Clash (feat. Stormzy)",
-            "artists": [
-                "Dave",
-                "Stormzy"
-            ],
-            "album": "We're All Alone In This Together",
-            "played_at": "08/12/2025 - 13:58:30"
-        },
-        {
-            "song_name": "Different Species (feat. Gunna)",
-            "artists": [
-                "Offset",
-                "Gunna"
-            ],
-            "album": "KIARI",
-            "played_at": "08/12/2025 - 13:54:31"
-        },
         {
             "song_name": "21 Years",
             "artists": [
@@ -1691,6 +1640,54 @@
             ],
             "album": "Sunburn",
             "played_at": "11/12/2025 - 11:31:49"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "TELL 'EM YOU'RE MINE",
+            "played_at": "11/12/2025 - 12:19:48"
+        },
+        {
+            "song_name": "Once A Day",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "11/12/2025 - 12:16:48"
+        },
+        {
+            "song_name": "Hurt From Mercury",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "11/12/2025 - 12:13:57"
+        },
+        {
+            "song_name": "SKELETONS",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "11/12/2025 - 12:10:22"
+        },
+        {
+            "song_name": "5 TO 10",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "11/12/2025 - 12:07:49"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Messy",
+            "played_at": "11/12/2025 - 12:04:49"
         }
     ]
 }
