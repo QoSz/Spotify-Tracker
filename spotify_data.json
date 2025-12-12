@@ -1,68 +1,6 @@
 {
-    "total_plays": 681,
+    "total_plays": 688,
     "tracks": [
-        {
-            "song_name": "3am",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "3am",
-            "played_at": "09/12/2025 - 10:25:19"
-        },
-        {
-            "song_name": "3am",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "3am",
-            "played_at": "09/12/2025 - 10:20:20"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "09/12/2025 - 10:58:03"
-        },
-        {
-            "song_name": "Addicted (feat. TIMID.)",
-            "artists": [
-                "Naarly",
-                "Daytona",
-                "LEWS",
-                "FIRSTCLASS",
-                "TIMID."
-            ],
-            "album": "Addicted (feat. TIMID.)",
-            "played_at": "09/12/2025 - 10:55:02"
-        },
-        {
-            "song_name": "Intimidated (feat. H.E.R.)",
-            "artists": [
-                "KAYTRANADA",
-                "H.E.R."
-            ],
-            "album": "Intimidated",
-            "played_at": "09/12/2025 - 10:53:13"
-        },
-        {
-            "song_name": "Shiver",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "09/12/2025 - 10:49:39"
-        },
-        {
-            "song_name": "Favorite Lie",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "09/12/2025 - 10:45:33"
-        },
         {
             "song_name": "Used To Be In Love",
             "artists": [
@@ -1679,6 +1617,62 @@
             ],
             "album": "All I See In You",
             "played_at": "12/12/2025 - 19:27:40"
+        },
+        {
+            "song_name": "All The Sunsets",
+            "artists": [
+                "Midnight Trio"
+            ],
+            "album": "All The Sunsets",
+            "played_at": "12/12/2025 - 20:00:12"
+        },
+        {
+            "song_name": "Young At Heart",
+            "artists": [
+                "Most Iverson"
+            ],
+            "album": "Young At Heart",
+            "played_at": "12/12/2025 - 19:57:16"
+        },
+        {
+            "song_name": "You Go To My Head",
+            "artists": [
+                "Tim Franks Trio"
+            ],
+            "album": "You Go To My Head",
+            "played_at": "12/12/2025 - 19:52:39"
+        },
+        {
+            "song_name": "Autumn serenade",
+            "artists": [
+                "Dave Oakley trio"
+            ],
+            "album": "Autumn serenade",
+            "played_at": "12/12/2025 - 19:48:27"
+        },
+        {
+            "song_name": "Lonely Streets",
+            "artists": [
+                "Trio Del Norte"
+            ],
+            "album": "At Least I Know",
+            "played_at": "12/12/2025 - 19:45:36"
+        },
+        {
+            "song_name": "Beautiful Sunrise",
+            "artists": [
+                "Arta Porting"
+            ],
+            "album": "Beautiful Sunrise",
+            "played_at": "12/12/2025 - 19:39:33"
+        },
+        {
+            "song_name": "I Get Along Without You Very Well",
+            "artists": [
+                "Eric Rowland"
+            ],
+            "album": "I Get Along Without You Very Well",
+            "played_at": "12/12/2025 - 19:34:44"
         }
     ]
 }
