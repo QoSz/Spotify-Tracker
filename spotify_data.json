@@ -1,40 +1,6 @@
 {
-    "total_plays": 675,
+    "total_plays": 679,
     "tracks": [
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "08/12/2025 - 13:14:54"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "08/12/2025 - 13:09:06"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "09/12/2025 - 06:29:16"
-        },
-        {
-            "song_name": "Tokyo Drifting",
-            "artists": [
-                "Glass Animals",
-                "Denzel Curry"
-            ],
-            "album": "Dreamland",
-            "played_at": "09/12/2025 - 09:30:12"
-        },
         {
             "song_name": "tell you straight - Sped Up",
             "artists": [
@@ -1683,6 +1649,38 @@
             ],
             "album": "RENT'S DUE (DELUXE)",
             "played_at": "12/12/2025 - 12:31:40"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "12/12/2025 - 16:24:54"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "12/12/2025 - 16:10:20"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "12/12/2025 - 16:08:38"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "12/12/2025 - 16:07:08"
         }
     ]
 }
