@@ -1,14 +1,6 @@
 {
-    "total_plays": 674,
+    "total_plays": 675,
     "tracks": [
-        {
-            "song_name": "Nemzz x Did It First",
-            "artists": [
-                "dawnpercs"
-            ],
-            "album": "Nemzz x Did It First",
-            "played_at": "08/12/2025 - 13:15:58"
-        },
         {
             "song_name": "Woods",
             "artists": [
@@ -1683,6 +1675,14 @@
             ],
             "album": "Miss Summer",
             "played_at": "12/12/2025 - 12:19:55"
+        },
+        {
+            "song_name": "COLD",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "RENT'S DUE (DELUXE)",
+            "played_at": "12/12/2025 - 12:31:40"
         }
     ]
 }
