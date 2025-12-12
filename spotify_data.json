@@ -1,24 +1,6 @@
 {
-    "total_plays": 679,
+    "total_plays": 681,
     "tracks": [
-        {
-            "song_name": "tell you straight - Sped Up",
-            "artists": [
-                "Strn.",
-                "ALEXYS"
-            ],
-            "album": "tell you straight (Speed Garage)",
-            "played_at": "09/12/2025 - 09:26:41"
-        },
-        {
-            "song_name": "The Days - NOTION Remix",
-            "artists": [
-                "Chrystal",
-                "NOTION"
-            ],
-            "album": "The Days (NOTION Remix)",
-            "played_at": "09/12/2025 - 10:31:02"
-        },
         {
             "song_name": "3am",
             "artists": [
@@ -1681,6 +1663,22 @@
             ],
             "album": "From Me 2 U",
             "played_at": "12/12/2025 - 16:07:08"
+        },
+        {
+            "song_name": "Coffee with My Baby",
+            "artists": [
+                "James Jackson Jazz Trio"
+            ],
+            "album": "Winter in New York",
+            "played_at": "12/12/2025 - 19:30:24"
+        },
+        {
+            "song_name": "All I See In You",
+            "artists": [
+                "Most Iverson"
+            ],
+            "album": "All I See In You",
+            "played_at": "12/12/2025 - 19:27:40"
         }
     ]
 }
