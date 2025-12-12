@@ -1,40 +1,6 @@
 {
-    "total_plays": 702,
+    "total_plays": 706,
     "tracks": [
-        {
-            "song_name": "My Love (2024)",
-            "artists": [
-                "Alex Wann",
-                "Route 94",
-                "Jess Glynne"
-            ],
-            "album": "My Love (2024)",
-            "played_at": "09/12/2025 - 11:53:28"
-        },
-        {
-            "song_name": "Maui Wowie",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "The Boy Who Flew To The Moon (Vol. 1)",
-            "played_at": "09/12/2025 - 11:50:30"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "09/12/2025 - 11:47:59"
-        },
-        {
-            "song_name": "Senior Skip Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "K.I.D.S.",
-            "played_at": "09/12/2025 - 11:46:31"
-        },
         {
             "song_name": "Wish I Never Met You - Prison Tapes",
             "artists": [
@@ -1662,6 +1628,43 @@
             ],
             "album": "Story of My Dream",
             "played_at": "12/12/2025 - 20:32:13"
+        },
+        {
+            "song_name": "Pompeii",
+            "artists": [
+                "Bastille"
+            ],
+            "album": "Bad Blood",
+            "played_at": "12/12/2025 - 21:27:28"
+        },
+        {
+            "song_name": "Ordinary",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "Ordinary",
+            "played_at": "12/12/2025 - 21:14:58"
+        },
+        {
+            "song_name": "Hookah Bar",
+            "artists": [
+                "Himesh Reshammiya",
+                "Vineet Singh",
+                "Aaman Trikha"
+            ],
+            "album": "Khiladi 786",
+            "played_at": "12/12/2025 - 21:08:30"
+        },
+        {
+            "song_name": "Deva Deva (From \"Brahmastra\")",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Amitabh Bhattacharya",
+                "Jonita Gandhi"
+            ],
+            "album": "Deva Deva (From \"Brahmastra\")",
+            "played_at": "12/12/2025 - 21:04:28"
         }
     ]
 }
