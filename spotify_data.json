@@ -1,24 +1,6 @@
 {
-    "total_plays": 669,
+    "total_plays": 671,
     "tracks": [
-        {
-            "song_name": "Middle",
-            "artists": [
-                "DJ Snake",
-                "Bipolar Sunshine"
-            ],
-            "album": "Encore",
-            "played_at": "08/12/2025 - 13:27:00"
-        },
-        {
-            "song_name": "Runaway (U & I)",
-            "artists": [
-                "Ian Asher",
-                "Galantis"
-            ],
-            "album": "Runaway (U & I)",
-            "played_at": "08/12/2025 - 13:23:01"
-        },
         {
             "song_name": "The Less I Know The Better",
             "artists": [
@@ -1685,6 +1667,22 @@
             ],
             "album": "Nice To Each Other",
             "played_at": "11/12/2025 - 17:57:21"
+        },
+        {
+            "song_name": "back to friends",
+            "artists": [
+                "sombr"
+            ],
+            "album": "I Barely Know Her",
+            "played_at": "12/12/2025 - 09:48:46"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "12/12/2025 - 09:35:42"
         }
     ]
 }
