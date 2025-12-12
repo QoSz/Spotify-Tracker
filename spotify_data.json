@@ -1,51 +1,6 @@
 {
-    "total_plays": 697,
+    "total_plays": 702,
     "tracks": [
-        {
-            "song_name": "Focus (feat. CLOVES)",
-            "artists": [
-                "John Summit",
-                "CLOVES"
-            ],
-            "album": "Focus (feat. CLOVES)",
-            "played_at": "09/12/2025 - 11:12:33"
-        },
-        {
-            "song_name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "artists": [
-                "Don Toliver",
-                "Doja Cat",
-                "F1 The Album"
-            ],
-            "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
-            "played_at": "09/12/2025 - 11:08:34"
-        },
-        {
-            "song_name": "Drugs I Like",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Drugs I Like",
-            "played_at": "09/12/2025 - 11:05:02"
-        },
-        {
-            "song_name": "Sunrise (feat. Jason Walker)",
-            "artists": [
-                "Kygo",
-                "Jason Walker"
-            ],
-            "album": "Kids in Love",
-            "played_at": "09/12/2025 - 11:02:02"
-        },
-        {
-            "song_name": "Lioness",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove"
-            ],
-            "album": "Lioness",
-            "played_at": "09/12/2025 - 11:56:28"
-        },
         {
             "song_name": "My Love (2024)",
             "artists": [
@@ -1667,6 +1622,46 @@
             ],
             "album": "Every Time (You Say You Love Me)",
             "played_at": "12/12/2025 - 20:02:49"
+        },
+        {
+            "song_name": "Short Intermission",
+            "artists": [
+                "Arto Ferrara"
+            ],
+            "album": "Short Intermission",
+            "played_at": "12/12/2025 - 20:45:38"
+        },
+        {
+            "song_name": "I Waited For You",
+            "artists": [
+                "Avery Miller"
+            ],
+            "album": "I Waited For You",
+            "played_at": "12/12/2025 - 20:43:12"
+        },
+        {
+            "song_name": "Chasing Raindrops",
+            "artists": [
+                "Shay Walsh"
+            ],
+            "album": "Chasing Raindrops",
+            "played_at": "12/12/2025 - 20:40:12"
+        },
+        {
+            "song_name": "Fools Rush In",
+            "artists": [
+                "The Southern Belle"
+            ],
+            "album": "Fools Rush In",
+            "played_at": "12/12/2025 - 20:36:40"
+        },
+        {
+            "song_name": "Story of My Dream",
+            "artists": [
+                "Almost Here"
+            ],
+            "album": "Story of My Dream",
+            "played_at": "12/12/2025 - 20:32:13"
         }
     ]
 }
