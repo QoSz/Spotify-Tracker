@@ -1,22 +1,6 @@
 {
-    "total_plays": 727,
+    "total_plays": 729,
     "tracks": [
-        {
-            "song_name": "Key To My Heart",
-            "artists": [
-                "BOVSKI"
-            ],
-            "album": "Key To My Heart",
-            "played_at": "09/12/2025 - 18:28:44"
-        },
-        {
-            "song_name": "messy",
-            "artists": [
-                "Łaszewo"
-            ],
-            "album": "messy",
-            "played_at": "09/12/2025 - 18:26:44"
-        },
         {
             "song_name": "You (feat. Travis Scott)",
             "artists": [
@@ -1659,6 +1643,22 @@
             ],
             "album": "Cub",
             "played_at": "14/12/2025 - 13:09:35"
+        },
+        {
+            "song_name": "Cry For Me",
+            "artists": [
+                "The Weeknd"
+            ],
+            "album": "Hurry Up Tomorrow",
+            "played_at": "14/12/2025 - 15:31:34"
+        },
+        {
+            "song_name": "Cardigan",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "14/12/2025 - 15:20:46"
         }
     ]
 }
