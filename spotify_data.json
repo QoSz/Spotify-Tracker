@@ -1,42 +1,6 @@
 {
-    "total_plays": 729,
+    "total_plays": 733,
     "tracks": [
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "09/12/2025 - 18:23:03"
-        },
-        {
-            "song_name": "One Right Now (with The Weeknd)",
-            "artists": [
-                "Post Malone",
-                "The Weeknd"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "09/12/2025 - 18:22:55"
-        },
-        {
-            "song_name": "Take My Mind",
-            "artists": [
-                "WizTheMc",
-                "bees & honey"
-            ],
-            "album": "YEBO",
-            "played_at": "09/12/2025 - 18:38:17"
-        },
-        {
-            "song_name": "Shiver",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "09/12/2025 - 18:37:14"
-        },
         {
             "song_name": "Chihiro",
             "artists": [
@@ -1659,6 +1623,39 @@
             ],
             "album": "Heaven Or Hell",
             "played_at": "14/12/2025 - 15:20:46"
+        },
+        {
+            "song_name": "Alive",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Ice On The Dune",
+            "played_at": "14/12/2025 - 15:53:45"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "14/12/2025 - 15:53:22"
+        },
+        {
+            "song_name": "Leader of the Pack",
+            "artists": [
+                "Wunderhorse"
+            ],
+            "album": "Cub",
+            "played_at": "14/12/2025 - 15:53:21"
+        },
+        {
+            "song_name": "Lioness",
+            "artists": [
+                "Swedish House Mafia",
+                "Niki & The Dove"
+            ],
+            "album": "Lioness",
+            "played_at": "14/12/2025 - 15:34:18"
         }
     ]
 }
