@@ -1,14 +1,6 @@
 {
-    "total_plays": 726,
+    "total_plays": 727,
     "tracks": [
-        {
-            "song_name": "Dark Thoughts",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "09/12/2025 - 18:31:14"
-        },
         {
             "song_name": "Key To My Heart",
             "artists": [
@@ -1659,6 +1651,14 @@
             ],
             "album": "Boy Alone",
             "played_at": "12/12/2025 - 21:34:14"
+        },
+        {
+            "song_name": "Leader of the Pack",
+            "artists": [
+                "Wunderhorse"
+            ],
+            "album": "Cub",
+            "played_at": "14/12/2025 - 13:09:35"
         }
     ]
 }
