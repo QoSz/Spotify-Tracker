@@ -1,31 +1,6 @@
 {
-    "total_plays": 749,
+    "total_plays": 752,
     "tracks": [
-        {
-            "song_name": "What Are You Waiting For",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "WITHERED",
-            "played_at": "10/12/2025 - 09:03:08"
-        },
-        {
-            "song_name": "Hit the Ground",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Hit the Ground",
-            "played_at": "10/12/2025 - 09:00:40"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "10/12/2025 - 10:28:03"
-        },
         {
             "song_name": "Hot Air Balloon",
             "artists": [
@@ -1654,6 +1629,33 @@
             ],
             "album": "Recognize",
             "played_at": "15/12/2025 - 10:34:42"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "15/12/2025 - 11:09:12"
+        },
+        {
+            "song_name": "DAISIES",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "15/12/2025 - 11:05:12"
+        },
+        {
+            "song_name": "Is there free breakfast here?",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Ugly Duck",
+            "played_at": "15/12/2025 - 11:02:42"
         }
     ]
 }
