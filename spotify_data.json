@@ -1,39 +1,6 @@
 {
-    "total_plays": 736,
+    "total_plays": 740,
     "tracks": [
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "09/12/2025 - 20:42:37"
-        },
-        {
-            "song_name": "Grand Prix",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "10/12/2025 - 06:56:06"
-        },
-        {
-            "song_name": "Take My Mind",
-            "artists": [
-                "WizTheMc",
-                "bees & honey"
-            ],
-            "album": "YEBO",
-            "played_at": "10/12/2025 - 08:27:12"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Ice On The Dune",
-            "played_at": "10/12/2025 - 08:57:58"
-        },
         {
             "song_name": "4:25",
             "artists": [
@@ -1657,6 +1624,39 @@
             ],
             "album": "Lazy Art",
             "played_at": "15/12/2025 - 07:46:18"
+        },
+        {
+            "song_name": "Embarrassed (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "15/12/2025 - 10:23:00"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Messy",
+            "played_at": "15/12/2025 - 10:19:30"
+        },
+        {
+            "song_name": "Time Flies",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "15/12/2025 - 10:16:01"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "15/12/2025 - 10:13:00"
         }
     ]
 }
