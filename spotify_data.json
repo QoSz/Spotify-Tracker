@@ -1,14 +1,6 @@
 {
-    "total_plays": 734,
+    "total_plays": 735,
     "tracks": [
-        {
-            "song_name": "Innit",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "10/12/2025 - 06:20:08"
-        },
         {
             "song_name": "Innit",
             "artists": [
@@ -1656,6 +1648,15 @@
             ],
             "album": "Get A Good Look",
             "played_at": "15/12/2025 - 06:19:46"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "15/12/2025 - 06:32:49"
         }
     ]
 }
