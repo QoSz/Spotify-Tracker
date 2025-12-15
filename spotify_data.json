@@ -1,14 +1,6 @@
 {
-    "total_plays": 733,
+    "total_plays": 734,
     "tracks": [
-        {
-            "song_name": "Chihiro",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Chihiro",
-            "played_at": "09/12/2025 - 18:33:14"
-        },
         {
             "song_name": "Innit",
             "artists": [
@@ -1656,6 +1648,14 @@
             ],
             "album": "Lioness",
             "played_at": "14/12/2025 - 15:34:18"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "15/12/2025 - 06:19:46"
         }
     ]
 }
