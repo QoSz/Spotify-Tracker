@@ -1,85 +1,6 @@
 {
-    "total_plays": 740,
+    "total_plays": 749,
     "tracks": [
-        {
-            "song_name": "4:25",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "10/12/2025 - 08:53:25"
-        },
-        {
-            "song_name": "Touch The Sky",
-            "artists": [
-                "Kanye West",
-                "Lupe Fiasco"
-            ],
-            "album": "Late Registration",
-            "played_at": "10/12/2025 - 08:47:34"
-        },
-        {
-            "song_name": "Feel Good Inc.",
-            "artists": [
-                "Gorillaz",
-                "De La Soul"
-            ],
-            "album": "Demon Days",
-            "played_at": "10/12/2025 - 08:42:19"
-        },
-        {
-            "song_name": "Can't Help But Worry (Every Night Every Day)",
-            "artists": [
-                "Soluna"
-            ],
-            "album": "Can't Help But Worry (Every Night Every Day)",
-            "played_at": "10/12/2025 - 08:38:19"
-        },
-        {
-            "song_name": "Mr. Miracle",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Free",
-            "played_at": "10/12/2025 - 08:36:48"
-        },
-        {
-            "song_name": "New Gold (feat. Tame Impala and Bootie Brown)",
-            "artists": [
-                "Gorillaz",
-                "Tame Impala",
-                "Bootie Brown"
-            ],
-            "album": "Cracker Island",
-            "played_at": "10/12/2025 - 08:33:19"
-        },
-        {
-            "song_name": "Hurts Me",
-            "artists": [
-                "Tory Lanez",
-                "Trippie Redd",
-                "Yoko Gold"
-            ],
-            "album": "Hurts Me",
-            "played_at": "10/12/2025 - 09:13:37"
-        },
-        {
-            "song_name": "Better",
-            "artists": [
-                "nimino",
-                "Manta"
-            ],
-            "album": "Better",
-            "played_at": "10/12/2025 - 09:11:10"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "10/12/2025 - 09:07:08"
-        },
         {
             "song_name": "What Are You Waiting For",
             "artists": [
@@ -1657,6 +1578,82 @@
             ],
             "album": "no service",
             "played_at": "15/12/2025 - 10:13:00"
+        },
+        {
+            "song_name": "Temporary (feat. Don Toliver)",
+            "artists": [
+                "6LACK",
+                "Don Toliver"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "15/12/2025 - 11:00:22"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "15/12/2025 - 10:57:12"
+        },
+        {
+            "song_name": "Wings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "15/12/2025 - 10:54:12"
+        },
+        {
+            "song_name": "NIGHT RIDER",
+            "artists": [
+                "Joji"
+            ],
+            "album": "SMITHEREENS",
+            "played_at": "15/12/2025 - 10:49:42"
+        },
+        {
+            "song_name": "Violent Crimes",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "ye",
+            "played_at": "15/12/2025 - 10:47:42"
+        },
+        {
+            "song_name": "Pink Dolphin Sunset (feat. Tee)",
+            "artists": [
+                "Tory Lanez",
+                "Tee"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "15/12/2025 - 10:44:12"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "channel ORANGE",
+            "played_at": "15/12/2025 - 10:40:42"
+        },
+        {
+            "song_name": "shiloh type beat",
+            "artists": [
+                "Jessy Blakemore"
+            ],
+            "album": "if you need me, i'm a few missed calls away",
+            "played_at": "15/12/2025 - 10:36:42"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "15/12/2025 - 10:34:42"
         }
     ]
 }
