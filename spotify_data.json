@@ -1,87 +1,6 @@
 {
-    "total_plays": 788,
+    "total_plays": 798,
     "tracks": [
-        {
-            "song_name": "Crossfaded",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Life of a DON",
-            "played_at": "11/12/2025 - 08:30:08"
-        },
-        {
-            "song_name": "Temporary (feat. Don Toliver)",
-            "artists": [
-                "6LACK",
-                "Don Toliver"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "11/12/2025 - 08:27:38"
-        },
-        {
-            "song_name": "8PM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 08:23:39"
-        },
-        {
-            "song_name": "Grand Prix",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 08:20:39"
-        },
-        {
-            "song_name": "G7X",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 08:19:10"
-        },
-        {
-            "song_name": "Innit",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 08:18:01"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "11/12/2025 - 08:59:09"
-        },
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "11/12/2025 - 08:56:09"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "11/12/2025 - 08:53:09"
-        },
-        {
-            "song_name": "So Easy (To Fall In Love)",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "The Art of Loving",
-            "played_at": "11/12/2025 - 08:50:39"
-        },
         {
             "song_name": "I Think I Left the Stove On",
             "artists": [
@@ -1653,6 +1572,92 @@
             ],
             "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
             "played_at": "16/12/2025 - 08:34:06"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "16/12/2025 - 09:29:26"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "16/12/2025 - 09:25:57"
+        },
+        {
+            "song_name": "FaceTime (feat. Don Toliver)",
+            "artists": [
+                "Lithe",
+                "Don Toliver"
+            ],
+            "album": "Euphoria",
+            "played_at": "16/12/2025 - 09:22:26"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "16/12/2025 - 09:20:26"
+        },
+        {
+            "song_name": "Ride",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "Ride",
+            "played_at": "16/12/2025 - 09:17:56"
+        },
+        {
+            "song_name": "Swim Good",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "Swim Good",
+            "played_at": "16/12/2025 - 09:14:56"
+        },
+        {
+            "song_name": "Moon",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "Donda",
+            "played_at": "16/12/2025 - 09:10:26"
+        },
+        {
+            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+            "artists": [
+                "Bakar",
+                "Dominic Fike"
+            ],
+            "album": "Will You Be My Yellow?",
+            "played_at": "16/12/2025 - 09:07:57"
+        },
+        {
+            "song_name": "Let U Go",
+            "artists": [
+                "lucidbeatz"
+            ],
+            "album": "Let U Go",
+            "played_at": "16/12/2025 - 09:04:56"
+        },
+        {
+            "song_name": "Hurts Me",
+            "artists": [
+                "Tory Lanez",
+                "Trippie Redd",
+                "Yoko Gold"
+            ],
+            "album": "Hurts Me",
+            "played_at": "16/12/2025 - 09:02:56"
         }
     ]
 }
