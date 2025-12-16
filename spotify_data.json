@@ -1,14 +1,6 @@
 {
-    "total_plays": 774,
+    "total_plays": 775,
     "tracks": [
-        {
-            "song_name": "8PM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "10/12/2025 - 13:39:24"
-        },
         {
             "song_name": "Miss Them Days",
             "artists": [
@@ -1656,6 +1648,15 @@
             ],
             "album": "Dawn",
             "played_at": "15/12/2025 - 13:55:23"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "16/12/2025 - 06:16:39"
         }
     ]
 }
