@@ -1,93 +1,6 @@
 {
-    "total_plays": 778,
+    "total_plays": 788,
     "tracks": [
-        {
-            "song_name": "Where You Are",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "10/12/2025 - 13:34:51"
-        },
-        {
-            "song_name": "On My Knees",
-            "artists": [
-                "RÜFÜS DU SOL"
-            ],
-            "album": "Surrender",
-            "played_at": "10/12/2025 - 13:31:22"
-        },
-        {
-            "song_name": "Clouds",
-            "artists": [
-                "BUNT.",
-                "Nate Traveller"
-            ],
-            "album": "Levi Don't Do It",
-            "played_at": "10/12/2025 - 13:28:31"
-        },
-        {
-            "song_name": "Particula",
-            "artists": [
-                "Major Lazer",
-                "Nasty C",
-                "Ice Prince",
-                "Patoranking",
-                "Jidenna",
-                "DJ Maphorisa"
-            ],
-            "album": "Know No Better",
-            "played_at": "10/12/2025 - 13:24:23"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "10/12/2025 - 13:20:52"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "10/12/2025 - 13:19:16"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "10/12/2025 - 19:02:35"
-        },
-        {
-            "song_name": "G7X",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 06:30:20"
-        },
-        {
-            "song_name": "Innit",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 06:30:19"
-        },
-        {
-            "song_name": "MR DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/12/2025 - 06:36:57"
-        },
         {
             "song_name": "Crossfaded",
             "artists": [
@@ -1658,6 +1571,88 @@
             ],
             "album": "DAYS BEFORE RODEO",
             "played_at": "16/12/2025 - 08:07:54"
+        },
+        {
+            "song_name": "In Love",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "16/12/2025 - 09:00:26"
+        },
+        {
+            "song_name": "Come Back to Earth",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "16/12/2025 - 08:56:56"
+        },
+        {
+            "song_name": "Fall Back",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Fall Back / Selfish Game",
+            "played_at": "16/12/2025 - 08:53:56"
+        },
+        {
+            "song_name": "DEEP IN YOUR SOUL",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "DEEP IN YOUR SOUL",
+            "played_at": "16/12/2025 - 08:51:57"
+        },
+        {
+            "song_name": "5 TO 10",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "16/12/2025 - 08:48:26"
+        },
+        {
+            "song_name": "BABY I'M BACK",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "THE FIRST TIME (DELUXE VERSION)",
+            "played_at": "16/12/2025 - 08:45:26"
+        },
+        {
+            "song_name": "Denver",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "16/12/2025 - 08:42:27"
+        },
+        {
+            "song_name": "Intimidated (feat. H.E.R.)",
+            "artists": [
+                "KAYTRANADA",
+                "H.E.R."
+            ],
+            "album": "Intimidated",
+            "played_at": "16/12/2025 - 08:39:56"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "16/12/2025 - 08:36:26"
+        },
+        {
+            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+            "artists": [
+                "Metro Boomin",
+                "Coi Leray"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "16/12/2025 - 08:34:06"
         }
     ]
 }
