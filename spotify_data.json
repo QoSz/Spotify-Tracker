@@ -1,49 +1,6 @@
 {
-    "total_plays": 807,
+    "total_plays": 812,
     "tracks": [
-        {
-            "song_name": "Fantasy (feat. Don Toliver)",
-            "artists": [
-                "Kali Uchis",
-                "Don Toliver"
-            ],
-            "album": "Red Moon In Venus",
-            "played_at": "11/12/2025 - 09:17:38"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "11/12/2025 - 09:14:39"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "11/12/2025 - 09:11:39"
-        },
-        {
-            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver",
-                "Lil Uzi Vert"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "11/12/2025 - 09:07:38"
-        },
-        {
-            "song_name": "I LIKE",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "I LIKE",
-            "played_at": "11/12/2025 - 09:04:39"
-        },
         {
             "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
             "artists": [
@@ -1654,6 +1611,46 @@
             ],
             "album": "Alone At Prom",
             "played_at": "16/12/2025 - 09:32:56"
+        },
+        {
+            "song_name": "Sax Fifth Avenue",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "16/12/2025 - 10:29:38"
+        },
+        {
+            "song_name": "Objects in the Mirror",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off",
+            "played_at": "16/12/2025 - 10:14:56"
+        },
+        {
+            "song_name": "No Photos",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "16/12/2025 - 10:10:27"
+        },
+        {
+            "song_name": "Enchanted Waterfall",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone at Prom (Deluxe)",
+            "played_at": "16/12/2025 - 10:07:28"
+        },
+        {
+            "song_name": "Ok Love You Bye",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Ok Love You Bye",
+            "played_at": "16/12/2025 - 10:03:56"
         }
     ]
 }
