@@ -1,14 +1,6 @@
 {
-    "total_plays": 775,
+    "total_plays": 776,
     "tracks": [
-        {
-            "song_name": "Miss Them Days",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "10/12/2025 - 13:39:23"
-        },
         {
             "song_name": "Innit",
             "artists": [
@@ -1657,6 +1649,15 @@
             ],
             "album": "Dawn",
             "played_at": "16/12/2025 - 06:16:39"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "16/12/2025 - 07:20:19"
         }
     ]
 }
