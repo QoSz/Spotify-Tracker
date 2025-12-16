@@ -1,85 +1,6 @@
 {
-    "total_plays": 798,
+    "total_plays": 807,
     "tracks": [
-        {
-            "song_name": "I Think I Left the Stove On",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "I Think I Left the Stove On",
-            "played_at": "11/12/2025 - 08:47:39"
-        },
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "11/12/2025 - 08:44:39"
-        },
-        {
-            "song_name": "Feel A Way (feat. Don Toliver)",
-            "artists": [
-                "KAYTRANADA",
-                "Don Toliver"
-            ],
-            "album": "TIMELESS",
-            "played_at": "11/12/2025 - 08:38:39"
-        },
-        {
-            "song_name": "Fall Back",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Fall Back / Selfish Game",
-            "played_at": "11/12/2025 - 08:35:39"
-        },
-        {
-            "song_name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-            "artists": [
-                "Jack Harlow",
-                "Static Major",
-                "Bryson Tiller"
-            ],
-            "album": "Thats What They All Say",
-            "played_at": "11/12/2025 - 08:33:10"
-        },
-        {
-            "song_name": "Drugs You Should Try It",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "DAYS BEFORE RODEO",
-            "played_at": "11/12/2025 - 09:30:09"
-        },
-        {
-            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-            "artists": [
-                "Bakar",
-                "Dominic Fike"
-            ],
-            "album": "Will You Be My Yellow?",
-            "played_at": "11/12/2025 - 09:26:39"
-        },
-        {
-            "song_name": "One Right Now (with The Weeknd)",
-            "artists": [
-                "Post Malone",
-                "The Weeknd"
-            ],
-            "album": "Twelve Carat Toothache",
-            "played_at": "11/12/2025 - 09:24:09"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "11/12/2025 - 09:20:39"
-        },
         {
             "song_name": "Fantasy (feat. Don Toliver)",
             "artists": [
@@ -1658,6 +1579,81 @@
             ],
             "album": "Hurts Me",
             "played_at": "16/12/2025 - 09:02:56"
+        },
+        {
+            "song_name": "made for this shit",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "The Last Wun",
+            "played_at": "16/12/2025 - 10:01:27"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "16/12/2025 - 09:59:26"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Tiramisu",
+            "played_at": "16/12/2025 - 09:55:26"
+        },
+        {
+            "song_name": "Hurt Feelings",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "16/12/2025 - 09:53:27"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "16/12/2025 - 09:48:57"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "16/12/2025 - 09:46:09"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "16/12/2025 - 09:40:56"
+        },
+        {
+            "song_name": "Mystery Lady",
+            "artists": [
+                "Masego",
+                "Don Toliver"
+            ],
+            "album": "Studying Abroad: Extended Stay",
+            "played_at": "16/12/2025 - 09:36:26"
+        },
+        {
+            "song_name": "Lady Of Namek",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "16/12/2025 - 09:32:56"
         }
     ]
 }
