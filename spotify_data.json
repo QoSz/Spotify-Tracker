@@ -1,22 +1,6 @@
 {
-    "total_plays": 776,
+    "total_plays": 778,
     "tracks": [
-        {
-            "song_name": "Innit",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "10/12/2025 - 13:39:22"
-        },
-        {
-            "song_name": "Casita",
-            "artists": [
-                "Goth Babe"
-            ],
-            "album": "Casita",
-            "played_at": "10/12/2025 - 13:38:21"
-        },
         {
             "song_name": "Where You Are",
             "artists": [
@@ -1658,6 +1642,22 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "16/12/2025 - 07:20:19"
+        },
+        {
+            "song_name": "Drugs You Should Try It",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "DAYS BEFORE RODEO",
+            "played_at": "16/12/2025 - 08:30:26"
+        },
+        {
+            "song_name": "Drugs You Should Try It",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "DAYS BEFORE RODEO",
+            "played_at": "16/12/2025 - 08:07:54"
         }
     ]
 }
