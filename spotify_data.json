@@ -1,30 +1,6 @@
 {
-    "total_plays": 821,
+    "total_plays": 824,
     "tracks": [
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "11/12/2025 - 09:33:16"
-        },
-        {
-            "song_name": "Someone Else - Lost Tapes 2015",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Someone Else (Lost Tapes 2015)",
-            "played_at": "11/12/2025 - 10:26:48"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "11/12/2025 - 10:24:18"
-        },
         {
             "song_name": "Raindance (feat. Tems)",
             "artists": [
@@ -1654,6 +1630,31 @@
             ],
             "album": "have to.",
             "played_at": "16/12/2025 - 11:33:55"
+        },
+        {
+            "song_name": "3am",
+            "artists": [
+                "Łaszewo"
+            ],
+            "album": "3am",
+            "played_at": "16/12/2025 - 12:07:05"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "16/12/2025 - 12:04:05"
+        },
+        {
+            "song_name": "High and I Like it",
+            "artists": [
+                "it's murph",
+                "Evalyn"
+            ],
+            "album": "High and I Like it",
+            "played_at": "16/12/2025 - 12:01:05"
         }
     ]
 }
