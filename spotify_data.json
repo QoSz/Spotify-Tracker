@@ -1,79 +1,6 @@
 {
-    "total_plays": 850,
+    "total_plays": 859,
     "tracks": [
-        {
-            "song_name": "Burning",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "11/12/2025 - 11:47:48"
-        },
-        {
-            "song_name": "A Couple Minutes",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "The Art of Loving",
-            "played_at": "11/12/2025 - 11:44:50"
-        },
-        {
-            "song_name": "don’t panic",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "11/12/2025 - 11:41:20"
-        },
-        {
-            "song_name": "Complicated",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "11/12/2025 - 11:38:48"
-        },
-        {
-            "song_name": "Pink Dolphin Sunset (feat. Tee)",
-            "artists": [
-                "Tory Lanez",
-                "Tee"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "11/12/2025 - 11:35:18"
-        },
-        {
-            "song_name": "How Much Is Weed?",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Sunburn",
-            "played_at": "11/12/2025 - 11:31:49"
-        },
-        {
-            "song_name": "TELL 'EM YOU'RE MINE",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "TELL 'EM YOU'RE MINE",
-            "played_at": "11/12/2025 - 12:19:48"
-        },
-        {
-            "song_name": "Once A Day",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "11/12/2025 - 12:16:48"
-        },
-        {
-            "song_name": "Hurt From Mercury",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "11/12/2025 - 12:13:57"
-        },
         {
             "song_name": "SKELETONS",
             "artists": [
@@ -1662,6 +1589,84 @@
             ],
             "album": "Masego",
             "played_at": "17/12/2025 - 10:03:41"
+        },
+        {
+            "song_name": "LIFE IS A GAMBLE",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "LIFE IS A GAMBLE",
+            "played_at": "17/12/2025 - 10:59:24"
+        },
+        {
+            "song_name": "Thoughts from a Balcony",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Macadelic",
+            "played_at": "17/12/2025 - 10:56:33"
+        },
+        {
+            "song_name": "Pretty Little Fears (feat. J. Cole)",
+            "artists": [
+                "6LACK",
+                "J. Cole"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "17/12/2025 - 10:51:28"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "17/12/2025 - 10:47:27"
+        },
+        {
+            "song_name": "Noticed",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "17/12/2025 - 10:44:40"
+        },
+        {
+            "song_name": "again",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "The Last Wun",
+            "played_at": "17/12/2025 - 10:41:55"
+        },
+        {
+            "song_name": "Flashing Lights",
+            "artists": [
+                "Kanye West",
+                "Dwele"
+            ],
+            "album": "Graduation",
+            "played_at": "17/12/2025 - 10:38:54"
+        },
+        {
+            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
+            "artists": [
+                "Young Stoner Life",
+                "Young Thug",
+                "Bslime",
+                "Don Toliver"
+            ],
+            "album": "Slime Language 2 (Deluxe)",
+            "played_at": "17/12/2025 - 10:34:56"
+        },
+        {
+            "song_name": "LIKE WOW",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "LIKE WOW",
+            "played_at": "17/12/2025 - 10:31:11"
         }
     ]
 }
