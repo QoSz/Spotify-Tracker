@@ -1,62 +1,6 @@
 {
-    "total_plays": 894,
+    "total_plays": 901,
     "tracks": [
-        {
-            "song_name": "A Window to Your Soul",
-            "artists": [
-                "Glass Trio"
-            ],
-            "album": "New York City Dreamin'",
-            "played_at": "12/12/2025 - 20:09:53"
-        },
-        {
-            "song_name": "Unspoken",
-            "artists": [
-                "Charlie James-Walker"
-            ],
-            "album": "Unspoken",
-            "played_at": "12/12/2025 - 20:06:20"
-        },
-        {
-            "song_name": "Every Time (You Say You Love Me)",
-            "artists": [
-                "The Grace Smith Gang"
-            ],
-            "album": "Every Time (You Say You Love Me)",
-            "played_at": "12/12/2025 - 20:02:49"
-        },
-        {
-            "song_name": "Short Intermission",
-            "artists": [
-                "Arto Ferrara"
-            ],
-            "album": "Short Intermission",
-            "played_at": "12/12/2025 - 20:45:38"
-        },
-        {
-            "song_name": "I Waited For You",
-            "artists": [
-                "Avery Miller"
-            ],
-            "album": "I Waited For You",
-            "played_at": "12/12/2025 - 20:43:12"
-        },
-        {
-            "song_name": "Chasing Raindrops",
-            "artists": [
-                "Shay Walsh"
-            ],
-            "album": "Chasing Raindrops",
-            "played_at": "12/12/2025 - 20:40:12"
-        },
-        {
-            "song_name": "Fools Rush In",
-            "artists": [
-                "The Southern Belle"
-            ],
-            "album": "Fools Rush In",
-            "played_at": "12/12/2025 - 20:36:40"
-        },
         {
             "song_name": "Story of My Dream",
             "artists": [
@@ -1687,6 +1631,64 @@
             ],
             "album": "Food for the Soul",
             "played_at": "17/12/2025 - 16:00:47"
+        },
+        {
+            "song_name": "Shut up My Moms Calling",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "Shut up My Moms Calling",
+            "played_at": "17/12/2025 - 18:29:52"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "17/12/2025 - 18:26:47"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "17/12/2025 - 18:22:52"
+        },
+        {
+            "song_name": "Navajo",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Navajo",
+            "played_at": "17/12/2025 - 18:18:53"
+        },
+        {
+            "song_name": "Somewhere to Fly (with Don Toliver)",
+            "artists": [
+                "Kid Cudi",
+                "Don Toliver"
+            ],
+            "album": "Entergalactic",
+            "played_at": "17/12/2025 - 18:15:19"
+        },
+        {
+            "song_name": "Feel A Way (feat. Don Toliver)",
+            "artists": [
+                "KAYTRANADA",
+                "Don Toliver"
+            ],
+            "album": "TIMELESS",
+            "played_at": "17/12/2025 - 18:12:17"
+        },
+        {
+            "song_name": "messy",
+            "artists": [
+                "Łaszewo"
+            ],
+            "album": "messy",
+            "played_at": "17/12/2025 - 18:08:48"
         }
     ]
 }
