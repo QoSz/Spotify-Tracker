@@ -1,75 +1,6 @@
 {
-    "total_plays": 901,
+    "total_plays": 909,
     "tracks": [
-        {
-            "song_name": "Story of My Dream",
-            "artists": [
-                "Almost Here"
-            ],
-            "album": "Story of My Dream",
-            "played_at": "12/12/2025 - 20:32:13"
-        },
-        {
-            "song_name": "Pompeii",
-            "artists": [
-                "Bastille"
-            ],
-            "album": "Bad Blood",
-            "played_at": "12/12/2025 - 21:27:28"
-        },
-        {
-            "song_name": "Ordinary",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "Ordinary",
-            "played_at": "12/12/2025 - 21:14:58"
-        },
-        {
-            "song_name": "Hookah Bar",
-            "artists": [
-                "Himesh Reshammiya",
-                "Vineet Singh",
-                "Aaman Trikha"
-            ],
-            "album": "Khiladi 786",
-            "played_at": "12/12/2025 - 21:08:30"
-        },
-        {
-            "song_name": "Deva Deva (From \"Brahmastra\")",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Amitabh Bhattacharya",
-                "Jonita Gandhi"
-            ],
-            "album": "Deva Deva (From \"Brahmastra\")",
-            "played_at": "12/12/2025 - 21:04:28"
-        },
-        {
-            "song_name": "Orange Blossoms",
-            "artists": [
-                "GoldFord"
-            ],
-            "album": "Orange Blossoms",
-            "played_at": "13/12/2025 - 15:02:02"
-        },
-        {
-            "song_name": "505",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "Favourite Worst Nightmare",
-            "played_at": "13/12/2025 - 14:59:06"
-        },
-        {
-            "song_name": "AP Freestyle",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "AP Freestyle",
-            "played_at": "13/12/2025 - 10:40:54"
-        },
         {
             "song_name": "Speed & Drift",
             "artists": [
@@ -1689,6 +1620,73 @@
             ],
             "album": "messy",
             "played_at": "17/12/2025 - 18:08:48"
+        },
+        {
+            "song_name": "East Liberty",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR TWO",
+            "played_at": "17/12/2025 - 18:57:17"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "17/12/2025 - 18:54:17"
+        },
+        {
+            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver",
+                "Lil Uzi Vert"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "17/12/2025 - 18:50:17"
+        },
+        {
+            "song_name": "Blame On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "17/12/2025 - 18:46:47"
+        },
+        {
+            "song_name": "have to.",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "have to.",
+            "played_at": "17/12/2025 - 18:42:47"
+        },
+        {
+            "song_name": "Pink + White",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "Blonde",
+            "played_at": "17/12/2025 - 18:39:17"
+        },
+        {
+            "song_name": "Enchanted Waterfall",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone at Prom (Deluxe)",
+            "played_at": "17/12/2025 - 18:36:17"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "17/12/2025 - 18:33:17"
         }
     ]
 }
