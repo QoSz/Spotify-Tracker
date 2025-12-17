@@ -1,14 +1,6 @@
 {
-    "total_plays": 893,
+    "total_plays": 894,
     "tracks": [
-        {
-            "song_name": "Dancing Shadows",
-            "artists": [
-                "Dries Riesen"
-            ],
-            "album": "Dancing Shadows",
-            "played_at": "12/12/2025 - 20:13:12"
-        },
         {
             "song_name": "A Window to Your Soul",
             "artists": [
@@ -1687,6 +1679,14 @@
             ],
             "album": "Midnight Life",
             "played_at": "17/12/2025 - 15:33:23"
+        },
+        {
+            "song_name": "Food for the Soul",
+            "artists": [
+                "it's murph"
+            ],
+            "album": "Food for the Soul",
+            "played_at": "17/12/2025 - 16:00:47"
         }
     ]
 }
