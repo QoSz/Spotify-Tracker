@@ -1,81 +1,6 @@
 {
-    "total_plays": 841,
+    "total_plays": 850,
     "tracks": [
-        {
-            "song_name": "In Love",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "11/12/2025 - 11:16:34"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "11/12/2025 - 11:12:18"
-        },
-        {
-            "song_name": "Midnight's Interlude",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "11/12/2025 - 11:08:48"
-        },
-        {
-            "song_name": "Mystery Lady",
-            "artists": [
-                "Masego",
-                "Don Toliver"
-            ],
-            "album": "Studying Abroad: Extended Stay",
-            "played_at": "11/12/2025 - 11:06:48"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "11/12/2025 - 11:03:28"
-        },
-        {
-            "song_name": "Sign Me Up",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "AUSTIN",
-            "played_at": "11/12/2025 - 12:01:18"
-        },
-        {
-            "song_name": "Dunno",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "11/12/2025 - 11:57:48"
-        },
-        {
-            "song_name": "Wassup",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "11/12/2025 - 11:53:48"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "11/12/2025 - 11:51:19"
-        },
         {
             "song_name": "Burning",
             "artists": [
@@ -1660,6 +1585,83 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "17/12/2025 - 06:56:09"
+        },
+        {
+            "song_name": "Go Flex",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "17/12/2025 - 10:28:59"
+        },
+        {
+            "song_name": "Los Pollos Hermanos",
+            "artists": [
+                "Knucks"
+            ],
+            "album": "ALPHA PLACE",
+            "played_at": "17/12/2025 - 10:25:59"
+        },
+        {
+            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
+            "artists": [
+                "SAINt JHN",
+                "Lil Uzi Vert"
+            ],
+            "album": "While The World Was Burning",
+            "played_at": "17/12/2025 - 10:24:22"
+        },
+        {
+            "song_name": "Lock On Me (with Travis Scott & Future)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Future"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "17/12/2025 - 10:20:57"
+        },
+        {
+            "song_name": "DA WIZARD",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "17/12/2025 - 10:18:01"
+        },
+        {
+            "song_name": "RELENTLESS (feat. Lil Uzi Vert)",
+            "artists": [
+                "Gunna",
+                "Lil Uzi Vert"
+            ],
+            "album": "WUNNA (Deluxe)",
+            "played_at": "17/12/2025 - 10:15:25"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "17/12/2025 - 10:12:28"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "17/12/2025 - 10:08:08"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "17/12/2025 - 10:03:41"
         }
     ]
 }
