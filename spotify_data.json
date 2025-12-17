@@ -1,14 +1,6 @@
 {
-    "total_plays": 840,
+    "total_plays": 841,
     "tracks": [
-        {
-            "song_name": "Wings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "11/12/2025 - 11:20:48"
-        },
         {
             "song_name": "In Love",
             "artists": [
@@ -1660,6 +1652,14 @@
             ],
             "album": "Dawn",
             "played_at": "17/12/2025 - 06:18:11"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "17/12/2025 - 06:56:09"
         }
     ]
 }
