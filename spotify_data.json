@@ -1,70 +1,6 @@
 {
-    "total_plays": 885,
+    "total_plays": 893,
     "tracks": [
-        {
-            "song_name": "Lonely Streets",
-            "artists": [
-                "Trio Del Norte"
-            ],
-            "album": "At Least I Know",
-            "played_at": "12/12/2025 - 19:45:36"
-        },
-        {
-            "song_name": "Beautiful Sunrise",
-            "artists": [
-                "Arta Porting"
-            ],
-            "album": "Beautiful Sunrise",
-            "played_at": "12/12/2025 - 19:39:33"
-        },
-        {
-            "song_name": "I Get Along Without You Very Well",
-            "artists": [
-                "Eric Rowland"
-            ],
-            "album": "I Get Along Without You Very Well",
-            "played_at": "12/12/2025 - 19:34:44"
-        },
-        {
-            "song_name": "Nocturnal Whispers",
-            "artists": [
-                "Dan Evans-Parker"
-            ],
-            "album": "Nocturnal Whispers",
-            "played_at": "12/12/2025 - 20:29:23"
-        },
-        {
-            "song_name": "Romeo's Mood",
-            "artists": [
-                "6th Street Jazz"
-            ],
-            "album": "Romeo's Mood",
-            "played_at": "12/12/2025 - 20:25:01"
-        },
-        {
-            "song_name": "Worry and Gossip",
-            "artists": [
-                "Courtney Salas Group"
-            ],
-            "album": "Worry and Gossip",
-            "played_at": "12/12/2025 - 20:22:18"
-        },
-        {
-            "song_name": "Flow",
-            "artists": [
-                "Isaiah Lewis"
-            ],
-            "album": "Flow",
-            "played_at": "12/12/2025 - 20:18:42"
-        },
-        {
-            "song_name": "Twenty Somethings",
-            "artists": [
-                "The Central Park North"
-            ],
-            "album": "Twenty Somethings",
-            "played_at": "12/12/2025 - 20:15:42"
-        },
         {
             "song_name": "Dancing Shadows",
             "artists": [
@@ -1682,6 +1618,75 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "17/12/2025 - 14:15:42"
+        },
+        {
+            "song_name": "How You Feel (ft Leven Kali)",
+            "artists": [
+                "ANOTR",
+                "Leven Kali",
+                "Erik Bandt"
+            ],
+            "album": "On A Trip",
+            "played_at": "17/12/2025 - 15:56:30"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "17/12/2025 - 15:53:26"
+        },
+        {
+            "song_name": "So Good",
+            "artists": [
+                "Nosi"
+            ],
+            "album": "So Good",
+            "played_at": "17/12/2025 - 15:50:47"
+        },
+        {
+            "song_name": "Disparate Youth",
+            "artists": [
+                "Santigold"
+            ],
+            "album": "Master of My Make-Believe",
+            "played_at": "17/12/2025 - 15:46:22"
+        },
+        {
+            "song_name": "Hot Air Balloon",
+            "artists": [
+                "Don Diablo",
+                "AR/CO"
+            ],
+            "album": "FORΞVΞR (DΞLUXΞ ΞDITION)",
+            "played_at": "17/12/2025 - 15:41:22"
+        },
+        {
+            "song_name": "Black Friday (pretty like the sun)",
+            "artists": [
+                "Lost Frequencies",
+                "Tom Odell"
+            ],
+            "album": "Black Friday (pretty like the sun)",
+            "played_at": "17/12/2025 - 15:38:23"
+        },
+        {
+            "song_name": "Moth To A Flame (with The Weeknd)",
+            "artists": [
+                "Swedish House Mafia",
+                "The Weeknd"
+            ],
+            "album": "Paradise Again",
+            "played_at": "17/12/2025 - 15:35:53"
+        },
+        {
+            "song_name": "Midnight Life",
+            "artists": [
+                "White Panda"
+            ],
+            "album": "Midnight Life",
+            "played_at": "17/12/2025 - 15:33:23"
         }
     ]
 }
