@@ -1,82 +1,6 @@
 {
-    "total_plays": 970,
+    "total_plays": 979,
     "tracks": [
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "15/12/2025 - 13:55:51"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "15/12/2025 - 13:55:32"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "15/12/2025 - 13:55:29"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "15/12/2025 - 13:55:23"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "16/12/2025 - 06:16:39"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "16/12/2025 - 07:20:19"
-        },
-        {
-            "song_name": "Drugs You Should Try It",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "DAYS BEFORE RODEO",
-            "played_at": "16/12/2025 - 08:30:26"
-        },
-        {
-            "song_name": "Drugs You Should Try It",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "DAYS BEFORE RODEO",
-            "played_at": "16/12/2025 - 08:07:54"
-        },
-        {
-            "song_name": "In Love",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "CHASE",
-            "played_at": "16/12/2025 - 09:00:26"
-        },
         {
             "song_name": "Come Back to Earth",
             "artists": [
@@ -1689,6 +1613,80 @@
             ],
             "album": "Blue Sky Mentality",
             "played_at": "18/12/2025 - 12:02:28"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "18/12/2025 - 15:06:07"
+        },
+        {
+            "song_name": "Great Pretender",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Rocket",
+            "played_at": "18/12/2025 - 15:02:51"
+        },
+        {
+            "song_name": "moody",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "18/12/2025 - 14:59:51"
+        },
+        {
+            "song_name": "Casita",
+            "artists": [
+                "Goth Babe"
+            ],
+            "album": "Casita",
+            "played_at": "18/12/2025 - 14:57:20"
+        },
+        {
+            "song_name": "Casita",
+            "artists": [
+                "Goth Babe"
+            ],
+            "album": "Casita",
+            "played_at": "18/12/2025 - 14:51:51"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "18/12/2025 - 14:46:33"
+        },
+        {
+            "song_name": "Crazy",
+            "artists": [
+                "Myles Lloyd",
+                "BUNT."
+            ],
+            "album": "Crazy",
+            "played_at": "18/12/2025 - 13:57:59"
+        },
+        {
+            "song_name": "London2Paris",
+            "artists": [
+                "Tkandz"
+            ],
+            "album": "London2Paris",
+            "played_at": "18/12/2025 - 13:57:00"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "18/12/2025 - 13:56:59"
         }
     ]
 }
