@@ -1,16 +1,6 @@
 {
-    "total_plays": 969,
+    "total_plays": 970,
     "tracks": [
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "15/12/2025 - 14:02:45"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1691,6 +1681,14 @@
             ],
             "album": "Cracker Island",
             "played_at": "18/12/2025 - 11:31:58"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "18/12/2025 - 12:02:28"
         }
     ]
 }
