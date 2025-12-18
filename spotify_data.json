@@ -1,81 +1,6 @@
 {
-    "total_plays": 960,
+    "total_plays": 969,
     "tracks": [
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "15/12/2025 - 14:29:41"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "15/12/2025 - 14:25:41"
-        },
-        {
-            "song_name": "Navajo",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Navajo",
-            "played_at": "15/12/2025 - 14:24:41"
-        },
-        {
-            "song_name": "Time Heals All",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "15/12/2025 - 14:21:11"
-        },
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "15/12/2025 - 14:17:11"
-        },
-        {
-            "song_name": "Wish I Never Met You - Prison Tapes",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You (Prison Tapes)",
-            "played_at": "15/12/2025 - 14:11:11"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "15/12/2025 - 14:08:04"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "15/12/2025 - 14:06:34"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "15/12/2025 - 14:03:21"
-        },
         {
             "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
             "artists": [
@@ -1691,6 +1616,81 @@
             ],
             "album": "So Far Gone",
             "played_at": "18/12/2025 - 11:04:28"
+        },
+        {
+            "song_name": "Again And Again",
+            "artists": [
+                "Jagged Jaw",
+                "MINOVA"
+            ],
+            "album": "Again And Again",
+            "played_at": "18/12/2025 - 12:00:01"
+        },
+        {
+            "song_name": "The Dress",
+            "artists": [
+                "Dijon"
+            ],
+            "album": "Absolutely",
+            "played_at": "18/12/2025 - 11:55:58"
+        },
+        {
+            "song_name": "Kids",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "18/12/2025 - 11:52:58"
+        },
+        {
+            "song_name": "Window",
+            "artists": [
+                "Still Woozy"
+            ],
+            "album": "If This Isn’t Nice, I Don’t Know What Is",
+            "played_at": "18/12/2025 - 11:47:57"
+        },
+        {
+            "song_name": "Private",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "(((((ultraSOUND)))))",
+            "played_at": "18/12/2025 - 11:45:58"
+        },
+        {
+            "song_name": "do i ever cross your mind",
+            "artists": [
+                "sombr"
+            ],
+            "album": "do i ever cross your mind",
+            "played_at": "18/12/2025 - 11:41:57"
+        },
+        {
+            "song_name": "Moments",
+            "artists": [
+                "MOIO"
+            ],
+            "album": "Moments",
+            "played_at": "18/12/2025 - 11:38:57"
+        },
+        {
+            "song_name": "Bruise",
+            "artists": [
+                "BETWEEN FRIENDS"
+            ],
+            "album": "I Love My Girl, She's My Boy",
+            "played_at": "18/12/2025 - 11:34:57"
+        },
+        {
+            "song_name": "New Gold (feat. Tame Impala and Bootie Brown)",
+            "artists": [
+                "Gorillaz",
+                "Tame Impala",
+                "Bootie Brown"
+            ],
+            "album": "Cracker Island",
+            "played_at": "18/12/2025 - 11:31:58"
         }
     ]
 }
