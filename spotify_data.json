@@ -1,15 +1,6 @@
 {
-    "total_plays": 995,
+    "total_plays": 996,
     "tracks": [
-        {
-            "song_name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-            "artists": [
-                "Bakar",
-                "Dominic Fike"
-            ],
-            "album": "Will You Be My Yellow?",
-            "played_at": "16/12/2025 - 09:07:57"
-        },
         {
             "song_name": "Let U Go",
             "artists": [
@@ -1682,6 +1673,14 @@
             ],
             "album": "NEGATIVE",
             "played_at": "18/12/2025 - 15:31:24"
+        },
+        {
+            "song_name": "Cry Baby",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "18/12/2025 - 16:03:51"
         }
     ]
 }
