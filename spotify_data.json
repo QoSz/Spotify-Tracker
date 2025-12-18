@@ -1,83 +1,6 @@
 {
-    "total_plays": 942,
+    "total_plays": 951,
     "tracks": [
-        {
-            "song_name": "Wings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "15/12/2025 - 10:54:12"
-        },
-        {
-            "song_name": "NIGHT RIDER",
-            "artists": [
-                "Joji"
-            ],
-            "album": "SMITHEREENS",
-            "played_at": "15/12/2025 - 10:49:42"
-        },
-        {
-            "song_name": "Violent Crimes",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "ye",
-            "played_at": "15/12/2025 - 10:47:42"
-        },
-        {
-            "song_name": "Pink Dolphin Sunset (feat. Tee)",
-            "artists": [
-                "Tory Lanez",
-                "Tee"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "15/12/2025 - 10:44:12"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "15/12/2025 - 10:40:42"
-        },
-        {
-            "song_name": "shiloh type beat",
-            "artists": [
-                "Jessy Blakemore"
-            ],
-            "album": "if you need me, i'm a few missed calls away",
-            "played_at": "15/12/2025 - 10:36:42"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "15/12/2025 - 10:34:42"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "15/12/2025 - 11:09:12"
-        },
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "15/12/2025 - 11:05:12"
-        },
         {
             "song_name": "Is there free breakfast here?",
             "artists": [
@@ -1696,6 +1619,80 @@
             ],
             "album": "Intimidated",
             "played_at": "18/12/2025 - 10:02:57"
+        },
+        {
+            "song_name": "Half Mast",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "18/12/2025 - 11:00:27"
+        },
+        {
+            "song_name": "Mary",
+            "artists": [
+                "Alex G"
+            ],
+            "album": "Trick",
+            "played_at": "18/12/2025 - 10:56:27"
+        },
+        {
+            "song_name": "Afterthought",
+            "artists": [
+                "Joji",
+                "BENEE"
+            ],
+            "album": "Nectar",
+            "played_at": "18/12/2025 - 10:53:27"
+        },
+        {
+            "song_name": "Rainbow",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Neon Pill",
+            "played_at": "18/12/2025 - 10:49:57"
+        },
+        {
+            "song_name": "Youth",
+            "artists": [
+                "Glass Animals"
+            ],
+            "album": "How To Be A Human Being",
+            "played_at": "18/12/2025 - 10:46:57"
+        },
+        {
+            "song_name": "Undercover Martyn",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "18/12/2025 - 10:42:57"
+        },
+        {
+            "song_name": "misses",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "14 minutes",
+            "played_at": "18/12/2025 - 10:40:27"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "18/12/2025 - 10:36:57"
+        },
+        {
+            "song_name": "Swim Good",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "Swim Good",
+            "played_at": "18/12/2025 - 10:34:01"
         }
     ]
 }
