@@ -1,14 +1,6 @@
 {
-    "total_plays": 996,
+    "total_plays": 997,
     "tracks": [
-        {
-            "song_name": "Let U Go",
-            "artists": [
-                "lucidbeatz"
-            ],
-            "album": "Let U Go",
-            "played_at": "16/12/2025 - 09:04:56"
-        },
         {
             "song_name": "Hurts Me",
             "artists": [
@@ -1681,6 +1673,14 @@
             ],
             "album": "Wiped Out!",
             "played_at": "18/12/2025 - 16:03:51"
+        },
+        {
+            "song_name": "White Keys",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "White Keys",
+            "played_at": "18/12/2025 - 19:33:24"
         }
     ]
 }
