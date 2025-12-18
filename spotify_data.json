@@ -1,63 +1,6 @@
 {
-    "total_plays": 979,
+    "total_plays": 986,
     "tracks": [
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "16/12/2025 - 08:56:56"
-        },
-        {
-            "song_name": "Fall Back",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Fall Back / Selfish Game",
-            "played_at": "16/12/2025 - 08:53:56"
-        },
-        {
-            "song_name": "DEEP IN YOUR SOUL",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "DEEP IN YOUR SOUL",
-            "played_at": "16/12/2025 - 08:51:57"
-        },
-        {
-            "song_name": "5 TO 10",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "HARDSTONE PSYCHO",
-            "played_at": "16/12/2025 - 08:48:26"
-        },
-        {
-            "song_name": "BABY I'M BACK",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME (DELUXE VERSION)",
-            "played_at": "16/12/2025 - 08:45:26"
-        },
-        {
-            "song_name": "Denver",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "16/12/2025 - 08:42:27"
-        },
-        {
-            "song_name": "Intimidated (feat. H.E.R.)",
-            "artists": [
-                "KAYTRANADA",
-                "H.E.R."
-            ],
-            "album": "Intimidated",
-            "played_at": "16/12/2025 - 08:39:56"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1687,6 +1630,62 @@
             ],
             "album": "NOW OR NEVER",
             "played_at": "18/12/2025 - 13:56:59"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "The Kooks"
+            ],
+            "album": "Inside In / Inside Out",
+            "played_at": "18/12/2025 - 15:28:53"
+        },
+        {
+            "song_name": "I Think I Left the Stove On",
+            "artists": [
+                "Hotel Ugly"
+            ],
+            "album": "I Think I Left the Stove On",
+            "played_at": "18/12/2025 - 15:25:32"
+        },
+        {
+            "song_name": "How To Fly",
+            "artists": [
+                "Sticky Fingers"
+            ],
+            "album": "Caress Your Soul",
+            "played_at": "18/12/2025 - 15:22:39"
+        },
+        {
+            "song_name": "What Are You Waiting For",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "WITHERED",
+            "played_at": "18/12/2025 - 15:18:52"
+        },
+        {
+            "song_name": "Eventually",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "18/12/2025 - 15:16:21"
+        },
+        {
+            "song_name": "Dirty Love",
+            "artists": [
+                "Mt. Joy"
+            ],
+            "album": "Mt. Joy",
+            "played_at": "18/12/2025 - 15:10:57"
+        },
+        {
+            "song_name": "Relax",
+            "artists": [
+                "Vacations"
+            ],
+            "album": "Vibes",
+            "played_at": "18/12/2025 - 15:08:42"
         }
     ]
 }
