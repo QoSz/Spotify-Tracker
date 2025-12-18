@@ -1,81 +1,6 @@
 {
-    "total_plays": 951,
+    "total_plays": 960,
     "tracks": [
-        {
-            "song_name": "Is there free breakfast here?",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Ugly Duck",
-            "played_at": "15/12/2025 - 11:02:42"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "15/12/2025 - 14:59:13"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "15/12/2025 - 14:57:30"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "15/12/2025 - 14:54:05"
-        },
-        {
-            "song_name": "The Morning",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "House Of Balloons (Original)",
-            "played_at": "15/12/2025 - 14:51:13"
-        },
-        {
-            "song_name": "Pink + White",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Blonde",
-            "played_at": "15/12/2025 - 14:43:07"
-        },
-        {
-            "song_name": "Home (Metro Boomin & Don Toliver, Lil Uzi Vert)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver",
-                "Lil Uzi Vert"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "15/12/2025 - 14:39:41"
-        },
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "15/12/2025 - 14:35:41"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "15/12/2025 - 14:32:11"
-        },
         {
             "song_name": "Raindance (feat. Tems)",
             "artists": [
@@ -1693,6 +1618,79 @@
             ],
             "album": "Swim Good",
             "played_at": "18/12/2025 - 10:34:01"
+        },
+        {
+            "song_name": "Motels",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Motels",
+            "played_at": "18/12/2025 - 11:28:27"
+        },
+        {
+            "song_name": "Moon Man",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "I Should Be Home",
+            "played_at": "18/12/2025 - 11:24:58"
+        },
+        {
+            "song_name": "Fire for You",
+            "artists": [
+                "Cannons"
+            ],
+            "album": "Shadows",
+            "played_at": "18/12/2025 - 11:21:27"
+        },
+        {
+            "song_name": "Piha Lounging",
+            "artists": [
+                "Day We Ran"
+            ],
+            "album": "Piha Lounging",
+            "played_at": "18/12/2025 - 11:17:28"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Chip Chrome & The Mono-Tones (Deluxe)",
+            "played_at": "18/12/2025 - 11:13:29"
+        },
+        {
+            "song_name": "Within You, Within Me",
+            "artists": [
+                "Meltt"
+            ],
+            "album": "Eternal Embers",
+            "played_at": "18/12/2025 - 11:09:57"
+        },
+        {
+            "song_name": "don’t panic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "18/12/2025 - 11:06:48"
+        },
+        {
+            "song_name": "hospital beach",
+            "artists": [
+                "Cottonwood Firing Squad"
+            ],
+            "album": "you missed the best part",
+            "played_at": "18/12/2025 - 11:06:29"
+        },
+        {
+            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
+            "artists": [
+                "Drake",
+                "Peter Bjorn and John"
+            ],
+            "album": "So Far Gone",
+            "played_at": "18/12/2025 - 11:04:28"
         }
     ]
 }
