@@ -1,22 +1,6 @@
 {
-    "total_plays": 929,
+    "total_plays": 931,
     "tracks": [
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Ice On The Dune",
-            "played_at": "14/12/2025 - 15:53:45"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "14/12/2025 - 15:53:22"
-        },
         {
             "song_name": "Leader of the Pack",
             "artists": [
@@ -1696,6 +1680,24 @@
             ],
             "album": "NOW OR NEVER",
             "played_at": "18/12/2025 - 06:35:39"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "18/12/2025 - 09:59:27"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "18/12/2025 - 09:57:28"
         }
     ]
 }
