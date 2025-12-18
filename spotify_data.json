@@ -1,14 +1,6 @@
 {
-    "total_plays": 928,
+    "total_plays": 929,
     "tracks": [
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "14/12/2025 - 15:20:46"
-        },
         {
             "song_name": "Alive",
             "artists": [
@@ -1695,6 +1687,15 @@
             ],
             "album": "Watching Movies with the Sound Off",
             "played_at": "17/12/2025 - 22:54:55"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "18/12/2025 - 06:35:39"
         }
     ]
 }
