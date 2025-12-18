@@ -1,99 +1,6 @@
 {
-    "total_plays": 931,
+    "total_plays": 942,
     "tracks": [
-        {
-            "song_name": "Leader of the Pack",
-            "artists": [
-                "Wunderhorse"
-            ],
-            "album": "Cub",
-            "played_at": "14/12/2025 - 15:53:21"
-        },
-        {
-            "song_name": "Lioness",
-            "artists": [
-                "Swedish House Mafia",
-                "Niki & The Dove"
-            ],
-            "album": "Lioness",
-            "played_at": "14/12/2025 - 15:34:18"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "15/12/2025 - 06:19:46"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "15/12/2025 - 06:32:49"
-        },
-        {
-            "song_name": "You Never Say You're Sorry",
-            "artists": [
-                "Martin Landström"
-            ],
-            "album": "Lazy Art",
-            "played_at": "15/12/2025 - 07:46:18"
-        },
-        {
-            "song_name": "Embarrassed (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "15/12/2025 - 10:23:00"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Messy",
-            "played_at": "15/12/2025 - 10:19:30"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "15/12/2025 - 10:16:01"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "15/12/2025 - 10:13:00"
-        },
-        {
-            "song_name": "Temporary (feat. Don Toliver)",
-            "artists": [
-                "6LACK",
-                "Don Toliver"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "15/12/2025 - 11:00:22"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "15/12/2025 - 10:57:12"
-        },
         {
             "song_name": "Wings",
             "artists": [
@@ -1698,6 +1605,97 @@
             ],
             "album": "Dawn",
             "played_at": "18/12/2025 - 09:57:28"
+        },
+        {
+            "song_name": "Burning",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "18/12/2025 - 10:29:27"
+        },
+        {
+            "song_name": "Miss Summer",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Miss Summer",
+            "played_at": "18/12/2025 - 10:26:57"
+        },
+        {
+            "song_name": "Someone Else - Lost Tapes 2015",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Someone Else (Lost Tapes 2015)",
+            "played_at": "18/12/2025 - 10:23:57"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Tiramisu",
+            "played_at": "18/12/2025 - 10:21:57"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "18/12/2025 - 10:19:27"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "18/12/2025 - 10:16:27"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "18/12/2025 - 10:13:57"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "18/12/2025 - 10:09:57"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "18/12/2025 - 10:06:57"
+        },
+        {
+            "song_name": "I'm Good Luv, Enjoy.",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "CHASE",
+            "played_at": "18/12/2025 - 10:04:57"
+        },
+        {
+            "song_name": "Intimidated (feat. H.E.R.)",
+            "artists": [
+                "KAYTRANADA",
+                "H.E.R."
+            ],
+            "album": "Intimidated",
+            "played_at": "18/12/2025 - 10:02:57"
         }
     ]
 }
