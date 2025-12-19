@@ -1,67 +1,6 @@
 {
-    "total_plays": 1034,
+    "total_plays": 1041,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "16/12/2025 - 19:38:24"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "16/12/2025 - 19:35:04"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "16/12/2025 - 19:31:32"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "17/12/2025 - 06:24:12"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "17/12/2025 - 06:20:43"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "17/12/2025 - 06:18:11"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "17/12/2025 - 06:56:09"
-        },
         {
             "song_name": "Go Flex",
             "artists": [
@@ -1690,6 +1629,63 @@
             ],
             "album": "Honestly, Nevermind",
             "played_at": "19/12/2025 - 10:02:16"
+        },
+        {
+            "song_name": "Miss Summer",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Miss Summer",
+            "played_at": "19/12/2025 - 11:01:18"
+        },
+        {
+            "song_name": "Ladders",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "19/12/2025 - 10:59:31"
+        },
+        {
+            "song_name": "YUKON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "19/12/2025 - 10:54:32"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "19/12/2025 - 10:52:01"
+        },
+        {
+            "song_name": "Drugs You Should Try It",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "DAYS BEFORE RODEO",
+            "played_at": "19/12/2025 - 10:39:04"
+        },
+        {
+            "song_name": "Poison",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "Poison",
+            "played_at": "19/12/2025 - 10:35:31"
+        },
+        {
+            "song_name": "Desires (with Future)",
+            "artists": [
+                "Drake",
+                "Future"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "19/12/2025 - 10:32:00"
         }
     ]
 }
