@@ -1,48 +1,6 @@
 {
-    "total_plays": 999,
+    "total_plays": 1004,
     "tracks": [
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "16/12/2025 - 09:59:26"
-        },
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Tiramisu",
-            "played_at": "16/12/2025 - 09:55:26"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "16/12/2025 - 09:53:27"
-        },
-        {
-            "song_name": "Around Me (feat. Don Toliver)",
-            "artists": [
-                "Metro Boomin",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "16/12/2025 - 09:48:57"
-        },
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "16/12/2025 - 09:46:09"
-        },
         {
             "song_name": "White Iverson",
             "artists": [
@@ -1679,6 +1637,47 @@
             ],
             "album": "Make Me Feel",
             "played_at": "19/12/2025 - 06:37:55"
+        },
+        {
+            "song_name": "Fashion Killa",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LONG.LIVE.A$AP (Deluxe Version)",
+            "played_at": "19/12/2025 - 07:53:23"
+        },
+        {
+            "song_name": "hakuna matata",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "19/12/2025 - 07:49:26"
+        },
+        {
+            "song_name": "90210 (feat. Kacy Hill)",
+            "artists": [
+                "Travis Scott",
+                "Kacy Hill"
+            ],
+            "album": "Rodeo",
+            "played_at": "19/12/2025 - 07:47:22"
+        },
+        {
+            "song_name": "Go Flex",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "19/12/2025 - 07:41:40"
+        },
+        {
+            "song_name": "don’t panic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "19/12/2025 - 07:38:38"
         }
     ]
 }
