@@ -1,81 +1,6 @@
 {
-    "total_plays": 1063,
+    "total_plays": 1072,
     "tracks": [
-        {
-            "song_name": "Giving Me",
-            "artists": [
-                "Jazzy"
-            ],
-            "album": "Giving Me",
-            "played_at": "17/12/2025 - 15:16:22"
-        },
-        {
-            "song_name": "Chihiro",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Chihiro",
-            "played_at": "17/12/2025 - 15:13:22"
-        },
-        {
-            "song_name": "BAD TIME",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "PLAN A",
-            "played_at": "17/12/2025 - 15:11:28"
-        },
-        {
-            "song_name": "Hit the Ground",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Hit the Ground",
-            "played_at": "17/12/2025 - 15:07:52"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "17/12/2025 - 15:05:22"
-        },
-        {
-            "song_name": "TEMPORARY FRIENDS",
-            "artists": [
-                "NOTION",
-                "Charlotte Plank"
-            ],
-            "album": "FORWARDS",
-            "played_at": "17/12/2025 - 15:02:22"
-        },
-        {
-            "song_name": "Can't Help But Worry (Every Night Every Day)",
-            "artists": [
-                "Soluna"
-            ],
-            "album": "Can't Help But Worry (Every Night Every Day)",
-            "played_at": "17/12/2025 - 14:59:22"
-        },
-        {
-            "song_name": "Summer Uptown (feat. d4vd)",
-            "artists": [
-                "jasontheween",
-                "d4vd"
-            ],
-            "album": "Summer Uptown (feat. d4vd)",
-            "played_at": "17/12/2025 - 14:57:22"
-        },
-        {
-            "song_name": "Still Sleepless",
-            "artists": [
-                "D.O.D",
-                "Carla Monroe"
-            ],
-            "album": "Still Sleepless",
-            "played_at": "17/12/2025 - 14:54:52"
-        },
         {
             "song_name": "Next Exit",
             "artists": [
@@ -1687,6 +1612,82 @@
             ],
             "album": "TIMELESS",
             "played_at": "19/12/2025 - 12:02:36"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "19/12/2025 - 16:20:08"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "19/12/2025 - 16:18:08"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "19/12/2025 - 16:14:40"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "19/12/2025 - 14:15:41"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "19/12/2025 - 14:05:59"
+        },
+        {
+            "song_name": "Go Ahead",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Love U Forever",
+            "played_at": "19/12/2025 - 13:44:15"
+        },
+        {
+            "song_name": "Runaway (U & I)",
+            "artists": [
+                "Ian Asher",
+                "Galantis"
+            ],
+            "album": "Runaway (U & I)",
+            "played_at": "19/12/2025 - 13:44:12"
+        },
+        {
+            "song_name": "Middle",
+            "artists": [
+                "DJ Snake",
+                "Bipolar Sunshine"
+            ],
+            "album": "Encore",
+            "played_at": "19/12/2025 - 13:43:51"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "19/12/2025 - 13:43:44"
         }
     ]
 }
