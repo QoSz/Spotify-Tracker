@@ -1,58 +1,6 @@
 {
-    "total_plays": 1057,
+    "total_plays": 1063,
     "tracks": [
-        {
-            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Bslime",
-                "Don Toliver"
-            ],
-            "album": "Slime Language 2 (Deluxe)",
-            "played_at": "17/12/2025 - 10:34:56"
-        },
-        {
-            "song_name": "LIKE WOW",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "LIKE WOW",
-            "played_at": "17/12/2025 - 10:31:11"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "17/12/2025 - 15:28:22"
-        },
-        {
-            "song_name": "Drugs I Like",
-            "artists": [
-                "nate band"
-            ],
-            "album": "Drugs I Like",
-            "played_at": "17/12/2025 - 15:25:22"
-        },
-        {
-            "song_name": "Desire",
-            "artists": [
-                "Ian Asher",
-                "Olly Alexander (Years & Years)"
-            ],
-            "album": "Desire",
-            "played_at": "17/12/2025 - 15:21:55"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "17/12/2025 - 15:19:25"
-        },
         {
             "song_name": "Giving Me",
             "artists": [
@@ -1688,6 +1636,57 @@
             ],
             "album": "Masego",
             "played_at": "19/12/2025 - 11:33:05"
+        },
+        {
+            "song_name": "DAISIES",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "19/12/2025 - 12:19:06"
+        },
+        {
+            "song_name": "My House Is Not A Home",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "My House Is Not A Home",
+            "played_at": "19/12/2025 - 12:16:05"
+        },
+        {
+            "song_name": "Crossfaded",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Life of a DON",
+            "played_at": "19/12/2025 - 12:12:05"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "19/12/2025 - 12:09:36"
+        },
+        {
+            "song_name": "Violent Crimes",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "ye",
+            "played_at": "19/12/2025 - 12:06:35"
+        },
+        {
+            "song_name": "Feel A Way (feat. Don Toliver)",
+            "artists": [
+                "KAYTRANADA",
+                "Don Toliver"
+            ],
+            "album": "TIMELESS",
+            "played_at": "19/12/2025 - 12:02:36"
         }
     ]
 }
