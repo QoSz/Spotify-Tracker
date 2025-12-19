@@ -1,75 +1,6 @@
 {
-    "total_plays": 1041,
+    "total_plays": 1049,
     "tracks": [
-        {
-            "song_name": "Go Flex",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "17/12/2025 - 10:28:59"
-        },
-        {
-            "song_name": "Los Pollos Hermanos",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "ALPHA PLACE",
-            "played_at": "17/12/2025 - 10:25:59"
-        },
-        {
-            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
-            "artists": [
-                "SAINt JHN",
-                "Lil Uzi Vert"
-            ],
-            "album": "While The World Was Burning",
-            "played_at": "17/12/2025 - 10:24:22"
-        },
-        {
-            "song_name": "Lock On Me (with Travis Scott & Future)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "Future"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "17/12/2025 - 10:20:57"
-        },
-        {
-            "song_name": "DA WIZARD",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "17/12/2025 - 10:18:01"
-        },
-        {
-            "song_name": "RELENTLESS (feat. Lil Uzi Vert)",
-            "artists": [
-                "Gunna",
-                "Lil Uzi Vert"
-            ],
-            "album": "WUNNA (Deluxe)",
-            "played_at": "17/12/2025 - 10:15:25"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "17/12/2025 - 10:12:28"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "17/12/2025 - 10:08:08"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1686,6 +1617,75 @@
             ],
             "album": "Dark Lane Demo Tapes",
             "played_at": "19/12/2025 - 10:32:00"
+        },
+        {
+            "song_name": "Embarrassed (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "19/12/2025 - 11:31:09"
+        },
+        {
+            "song_name": "Intimidated (feat. H.E.R.)",
+            "artists": [
+                "KAYTRANADA",
+                "H.E.R."
+            ],
+            "album": "Intimidated",
+            "played_at": "19/12/2025 - 11:27:37"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "19/12/2025 - 11:24:19"
+        },
+        {
+            "song_name": "Objects in the Mirror",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Watching Movies with the Sound Off",
+            "played_at": "19/12/2025 - 11:19:35"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "19/12/2025 - 11:15:06"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "19/12/2025 - 11:11:36"
+        },
+        {
+            "song_name": "Enchanted Waterfall",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone at Prom (Deluxe)",
+            "played_at": "19/12/2025 - 11:08:11"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "19/12/2025 - 11:04:36"
         }
     ]
 }
