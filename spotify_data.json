@@ -1,73 +1,6 @@
 {
-    "total_plays": 1049,
+    "total_plays": 1057,
     "tracks": [
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "17/12/2025 - 10:03:41"
-        },
-        {
-            "song_name": "LIFE IS A GAMBLE",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "LIFE IS A GAMBLE",
-            "played_at": "17/12/2025 - 10:59:24"
-        },
-        {
-            "song_name": "Thoughts from a Balcony",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Macadelic",
-            "played_at": "17/12/2025 - 10:56:33"
-        },
-        {
-            "song_name": "Pretty Little Fears (feat. J. Cole)",
-            "artists": [
-                "6LACK",
-                "J. Cole"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "17/12/2025 - 10:51:28"
-        },
-        {
-            "song_name": "Overdue (with Travis Scott)",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott"
-            ],
-            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-            "played_at": "17/12/2025 - 10:47:27"
-        },
-        {
-            "song_name": "Noticed",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "17/12/2025 - 10:44:40"
-        },
-        {
-            "song_name": "again",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "The Last Wun",
-            "played_at": "17/12/2025 - 10:41:55"
-        },
-        {
-            "song_name": "Flashing Lights",
-            "artists": [
-                "Kanye West",
-                "Dwele"
-            ],
-            "album": "Graduation",
-            "played_at": "17/12/2025 - 10:38:54"
-        },
         {
             "song_name": "No Surprise (feat. Don Toliver & Bslime)",
             "artists": [
@@ -1686,6 +1619,75 @@
             ],
             "album": "Dawn",
             "played_at": "19/12/2025 - 11:04:36"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "19/12/2025 - 12:00:08"
+        },
+        {
+            "song_name": "The Dress",
+            "artists": [
+                "Dijon"
+            ],
+            "album": "Absolutely",
+            "played_at": "19/12/2025 - 11:57:27"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "19/12/2025 - 11:53:22"
+        },
+        {
+            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "James Blake",
+                "A$AP Rocky",
+                "21 Savage"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "19/12/2025 - 11:49:24"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Messy",
+            "played_at": "19/12/2025 - 11:46:09"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "19/12/2025 - 11:42:08"
+        },
+        {
+            "song_name": "Self Care",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "19/12/2025 - 11:39:06"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "19/12/2025 - 11:33:05"
         }
     ]
 }
