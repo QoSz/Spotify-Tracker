@@ -1,49 +1,6 @@
 {
-    "total_plays": 1029,
+    "total_plays": 1034,
     "tracks": [
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "16/12/2025 - 17:33:43"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "16/12/2025 - 17:23:17"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "16/12/2025 - 17:19:51"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "16/12/2025 - 15:23:06"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "16/12/2025 - 19:41:44"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1689,6 +1646,50 @@
             ],
             "album": "Get Over It",
             "played_at": "19/12/2025 - 09:45:18"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "19/12/2025 - 10:28:00"
+        },
+        {
+            "song_name": "Last Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "19/12/2025 - 10:25:01"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "19/12/2025 - 10:08:46"
+        },
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "19/12/2025 - 10:05:46"
+        },
+        {
+            "song_name": "A Keeper",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "19/12/2025 - 10:02:16"
         }
     ]
 }
