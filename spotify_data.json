@@ -1,89 +1,6 @@
 {
-    "total_plays": 1004,
+    "total_plays": 1014,
     "tracks": [
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "16/12/2025 - 09:40:56"
-        },
-        {
-            "song_name": "Mystery Lady",
-            "artists": [
-                "Masego",
-                "Don Toliver"
-            ],
-            "album": "Studying Abroad: Extended Stay",
-            "played_at": "16/12/2025 - 09:36:26"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "16/12/2025 - 09:32:56"
-        },
-        {
-            "song_name": "Sax Fifth Avenue",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "16/12/2025 - 10:29:38"
-        },
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "16/12/2025 - 10:14:56"
-        },
-        {
-            "song_name": "No Photos",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "16/12/2025 - 10:10:27"
-        },
-        {
-            "song_name": "Enchanted Waterfall",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone at Prom (Deluxe)",
-            "played_at": "16/12/2025 - 10:07:28"
-        },
-        {
-            "song_name": "Ok Love You Bye",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Ok Love You Bye",
-            "played_at": "16/12/2025 - 10:03:56"
-        },
-        {
-            "song_name": "Sax Fifth Avenue",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "16/12/2025 - 10:32:06"
-        },
-        {
-            "song_name": "What A Life",
-            "artists": [
-                "John Summit",
-                "Guz",
-                "Stevie Appleton"
-            ],
-            "album": "What A Life",
-            "played_at": "16/12/2025 - 11:57:14"
-        },
         {
             "song_name": "Fire Fire",
             "artists": [
@@ -1678,6 +1595,98 @@
             ],
             "album": "no service",
             "played_at": "19/12/2025 - 07:38:38"
+        },
+        {
+            "song_name": "Currency",
+            "artists": [
+                "Skales",
+                "Davido"
+            ],
+            "album": "Currency",
+            "played_at": "19/12/2025 - 08:31:26"
+        },
+        {
+            "song_name": "For My Hand (feat. Ed Sheeran)",
+            "artists": [
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Love, Damini",
+            "played_at": "19/12/2025 - 08:27:27"
+        },
+        {
+            "song_name": "Thandaza",
+            "artists": [
+                "&ME",
+                "Rampa",
+                "Adam Port",
+                "Alan Dixon",
+                "Keinemusik",
+                "Arabic Piano"
+            ],
+            "album": "Thandaza",
+            "played_at": "19/12/2025 - 08:24:58"
+        },
+        {
+            "song_name": "Billing",
+            "artists": [
+                "Sikiboi",
+                "NWE Worldwide"
+            ],
+            "album": "Billing",
+            "played_at": "19/12/2025 - 08:18:57"
+        },
+        {
+            "song_name": "Sweeta",
+            "artists": [
+                "MAUIMØON",
+                "La Soülchyld",
+                "Joshua Baraka",
+                "mau from nowhere"
+            ],
+            "album": "Sweeta",
+            "played_at": "19/12/2025 - 08:15:57"
+        },
+        {
+            "song_name": "Sura Yako",
+            "artists": [
+                "Sauti Sol"
+            ],
+            "album": "Live and Die in Afrika",
+            "played_at": "19/12/2025 - 08:12:56"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "19/12/2025 - 08:07:51"
+        },
+        {
+            "song_name": "Hear Me Calling",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "19/12/2025 - 08:06:18"
+        },
+        {
+            "song_name": "MAFIA",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "19/12/2025 - 08:03:07"
+        },
+        {
+            "song_name": "Now Or Never - Bonus Track",
+            "artists": [
+                "Kendrick Lamar",
+                "Mary J. Blige"
+            ],
+            "album": "good kid, m.A.A.d city (Deluxe)",
+            "played_at": "19/12/2025 - 08:01:19"
         }
     ]
 }
