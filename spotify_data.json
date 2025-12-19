@@ -1,41 +1,6 @@
 {
-    "total_plays": 1014,
+    "total_plays": 1018,
     "tracks": [
-        {
-            "song_name": "Fire Fire",
-            "artists": [
-                "Shimza",
-                "AR/CO",
-                "Kasango"
-            ],
-            "album": "Fire Fire",
-            "played_at": "16/12/2025 - 11:52:10"
-        },
-        {
-            "song_name": "REHAB",
-            "artists": [
-                "Blair Muir"
-            ],
-            "album": "REHAB",
-            "played_at": "16/12/2025 - 11:48:53"
-        },
-        {
-            "song_name": "Favorite Lie",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "16/12/2025 - 11:45:54"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "i think i'm addicted",
-            "played_at": "16/12/2025 - 11:43:07"
-        },
         {
             "song_name": "Hurts Me",
             "artists": [
@@ -1687,6 +1652,43 @@
             ],
             "album": "good kid, m.A.A.d city (Deluxe)",
             "played_at": "19/12/2025 - 08:01:19"
+        },
+        {
+            "song_name": "Ntswempu",
+            "artists": [
+                "D'banj",
+                "Bucie",
+                "Busiswa"
+            ],
+            "album": "King Don Come",
+            "played_at": "19/12/2025 - 08:44:56"
+        },
+        {
+            "song_name": "Ngempela (feat, Howard) - Bonus Track",
+            "artists": [
+                "Sjava",
+                "DJ Maphorisa",
+                "Howard"
+            ],
+            "album": "Isina Muva (Gold Deluxe)",
+            "played_at": "19/12/2025 - 08:41:26"
+        },
+        {
+            "song_name": "Murcielago (feat. Mizzle)",
+            "artists": [
+                "Young Paris",
+                "Mizzle"
+            ],
+            "album": "Murcielago (feat. Mizzle)",
+            "played_at": "19/12/2025 - 08:37:26"
+        },
+        {
+            "song_name": "What If",
+            "artists": [
+                "Maleek Berry"
+            ],
+            "album": "First Daze Of Winter",
+            "played_at": "19/12/2025 - 08:34:26"
         }
     ]
 }
