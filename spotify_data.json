@@ -1,59 +1,6 @@
 {
-    "total_plays": 1072,
+    "total_plays": 1078,
     "tracks": [
-        {
-            "song_name": "Next Exit",
-            "artists": [
-                "Vacations"
-            ],
-            "album": "No Place Like Home",
-            "played_at": "17/12/2025 - 14:52:24"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "17/12/2025 - 14:46:42"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "17/12/2025 - 14:46:27"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "17/12/2025 - 14:46:26"
-        },
-        {
-            "song_name": "Blessings",
-            "artists": [
-                "Calvin Harris",
-                "Clementine Douglas"
-            ],
-            "album": "Blessings",
-            "played_at": "17/12/2025 - 14:45:03"
-        },
-        {
-            "song_name": "Where You Are",
-            "artists": [
-                "John Summit",
-                "HAYLA"
-            ],
-            "album": "Comfort In Chaos",
-            "played_at": "17/12/2025 - 14:41:33"
-        },
         {
             "song_name": "Never Walk Alone",
             "artists": [
@@ -1688,6 +1635,56 @@
             ],
             "album": "Circles",
             "played_at": "19/12/2025 - 13:43:44"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "19/12/2025 - 22:14:59"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "19/12/2025 - 21:32:54"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "19/12/2025 - 21:16:09"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "19/12/2025 - 21:11:15"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "19/12/2025 - 21:06:58"
+        },
+        {
+            "song_name": "Man of the Year",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Man of the Year",
+            "played_at": "19/12/2025 - 21:05:04"
         }
     ]
 }
