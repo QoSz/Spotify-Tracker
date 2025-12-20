@@ -1,31 +1,6 @@
 {
-    "total_plays": 1126,
+    "total_plays": 1129,
     "tracks": [
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "17/12/2025 - 22:58:19"
-        },
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "17/12/2025 - 22:54:55"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "18/12/2025 - 06:35:39"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1679,6 +1654,31 @@
             ],
             "album": "Man On The Moon: The End Of Day (Int'l Version)",
             "played_at": "20/12/2025 - 10:19:54"
+        },
+        {
+            "song_name": "Weekend (feat. Miguel)",
+            "artists": [
+                "Mac Miller",
+                "Miguel"
+            ],
+            "album": "GO:OD AM",
+            "played_at": "20/12/2025 - 21:27:25"
+        },
+        {
+            "song_name": "Noticed",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Northsbest (Extended)",
+            "played_at": "20/12/2025 - 21:23:56"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "20/12/2025 - 21:21:15"
         }
     ]
 }
