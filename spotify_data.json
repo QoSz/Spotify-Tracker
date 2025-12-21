@@ -1,24 +1,6 @@
 {
-    "total_plays": 1129,
+    "total_plays": 1131,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "18/12/2025 - 09:59:27"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "18/12/2025 - 09:57:28"
-        },
         {
             "song_name": "Burning",
             "artists": [
@@ -1679,6 +1661,22 @@
             ],
             "album": "We Love You Tecca",
             "played_at": "20/12/2025 - 21:21:15"
+        },
+        {
+            "song_name": "Rich And Blind",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Fighting Demons (Deluxe)",
+            "played_at": "20/12/2025 - 21:35:18"
+        },
+        {
+            "song_name": "Make Believe",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "20/12/2025 - 21:31:29"
         }
     ]
 }
