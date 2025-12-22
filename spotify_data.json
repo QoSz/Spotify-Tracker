@@ -1,14 +1,6 @@
 {
-    "total_plays": 1154,
+    "total_plays": 1155,
     "tracks": [
-        {
-            "song_name": "Piha Lounging",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Piha Lounging",
-            "played_at": "18/12/2025 - 11:17:28"
-        },
         {
             "song_name": "Stargazing",
             "artists": [
@@ -1682,6 +1674,14 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "22/12/2025 - 12:08:47"
+        },
+        {
+            "song_name": "Australia Street",
+            "artists": [
+                "Sticky Fingers"
+            ],
+            "album": "Caress Your Soul",
+            "played_at": "22/12/2025 - 19:17:13"
         }
     ]
 }
