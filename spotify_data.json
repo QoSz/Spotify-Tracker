@@ -1,38 +1,6 @@
 {
-    "total_plays": 1131,
+    "total_plays": 1135,
     "tracks": [
-        {
-            "song_name": "Burning",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "18/12/2025 - 10:29:27"
-        },
-        {
-            "song_name": "Miss Summer",
-            "artists": [
-                "ODIE"
-            ],
-            "album": "Miss Summer",
-            "played_at": "18/12/2025 - 10:26:57"
-        },
-        {
-            "song_name": "Someone Else - Lost Tapes 2015",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Someone Else (Lost Tapes 2015)",
-            "played_at": "18/12/2025 - 10:23:57"
-        },
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Tiramisu",
-            "played_at": "18/12/2025 - 10:21:57"
-        },
         {
             "song_name": "Recognize",
             "artists": [
@@ -1677,6 +1645,38 @@
             ],
             "album": "Death Race For Love (Bonus Track Version)",
             "played_at": "20/12/2025 - 21:31:29"
+        },
+        {
+            "song_name": "Don't Get Me Started",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "22/12/2025 - 07:20:29"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "22/12/2025 - 07:16:56"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "22/12/2025 - 07:13:12"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "22/12/2025 - 07:10:10"
         }
     ]
 }
