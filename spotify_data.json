@@ -1,14 +1,6 @@
 {
-    "total_plays": 1243,
+    "total_plays": 1244,
     "tracks": [
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "19/12/2025 - 11:24:19"
-        },
         {
             "song_name": "Objects in the Mirror",
             "artists": [
@@ -1658,6 +1650,14 @@
             ],
             "album": "Make Me Feel",
             "played_at": "24/12/2025 - 09:46:57"
+        },
+        {
+            "song_name": "DEEP IN YOUR SOUL",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "DEEP IN YOUR SOUL",
+            "played_at": "24/12/2025 - 15:20:31"
         }
     ]
 }
