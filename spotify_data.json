@@ -1,94 +1,6 @@
 {
-    "total_plays": 1244,
+    "total_plays": 1254,
     "tracks": [
-        {
-            "song_name": "Objects in the Mirror",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Watching Movies with the Sound Off",
-            "played_at": "19/12/2025 - 11:19:35"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "19/12/2025 - 11:15:06"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "19/12/2025 - 11:11:36"
-        },
-        {
-            "song_name": "Enchanted Waterfall",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone at Prom (Deluxe)",
-            "played_at": "19/12/2025 - 11:08:11"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "19/12/2025 - 11:04:36"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "19/12/2025 - 12:00:08"
-        },
-        {
-            "song_name": "The Dress",
-            "artists": [
-                "Dijon"
-            ],
-            "album": "Absolutely",
-            "played_at": "19/12/2025 - 11:57:27"
-        },
-        {
-            "song_name": "Flight's Booked",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "19/12/2025 - 11:53:22"
-        },
-        {
-            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-            "artists": [
-                "Metro Boomin",
-                "James Blake",
-                "A$AP Rocky",
-                "21 Savage"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "19/12/2025 - 11:49:24"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Messy",
-            "played_at": "19/12/2025 - 11:46:09"
-        },
         {
             "song_name": "Replay",
             "artists": [
@@ -1658,6 +1570,92 @@
             ],
             "album": "DEEP IN YOUR SOUL",
             "played_at": "24/12/2025 - 15:20:31"
+        },
+        {
+            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "artists": [
+                "Metro Boomin",
+                "Swae Lee",
+                "NAV",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "25/12/2025 - 14:03:33"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "25/12/2025 - 10:04:49"
+        },
+        {
+            "song_name": "Someone Else - Lost Tapes 2015",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Someone Else (Lost Tapes 2015)",
+            "played_at": "25/12/2025 - 10:02:19"
+        },
+        {
+            "song_name": "Drugs You Should Try It",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "DAYS BEFORE RODEO",
+            "played_at": "25/12/2025 - 09:59:48"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "25/12/2025 - 09:56:49"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "25/12/2025 - 09:49:19"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "25/12/2025 - 09:46:49"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "25/12/2025 - 09:44:52"
+        },
+        {
+            "song_name": "Temporary (feat. Don Toliver)",
+            "artists": [
+                "6LACK",
+                "Don Toliver"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "25/12/2025 - 08:59:47"
+        },
+        {
+            "song_name": "Mongolian Jingle Bells",
+            "artists": [
+                "Ummet Ozcan"
+            ],
+            "album": "Mongolian Jingle Bells",
+            "played_at": "25/12/2025 - 08:20:47"
         }
     ]
 }
