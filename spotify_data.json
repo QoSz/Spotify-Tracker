@@ -1,46 +1,6 @@
 {
-    "total_plays": 1254,
+    "total_plays": 1259,
     "tracks": [
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "19/12/2025 - 11:42:08"
-        },
-        {
-            "song_name": "Self Care",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "19/12/2025 - 11:39:06"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "19/12/2025 - 11:33:05"
-        },
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "19/12/2025 - 12:19:06"
-        },
-        {
-            "song_name": "My House Is Not A Home",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "My House Is Not A Home",
-            "played_at": "19/12/2025 - 12:16:05"
-        },
         {
             "song_name": "Crossfaded",
             "artists": [
@@ -1656,6 +1616,47 @@
             ],
             "album": "Mongolian Jingle Bells",
             "played_at": "25/12/2025 - 08:20:47"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "26/12/2025 - 11:58:07"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "26/12/2025 - 11:26:35"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "26/12/2025 - 11:21:37"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "26/12/2025 - 11:21:11"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "26/12/2025 - 10:01:29"
         }
     ]
 }
