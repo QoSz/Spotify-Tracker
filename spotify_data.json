@@ -1,225 +1,6 @@
 {
-    "total_plays": 1259,
+    "total_plays": 1285,
     "tracks": [
-        {
-            "song_name": "Crossfaded",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Life of a DON",
-            "played_at": "19/12/2025 - 12:12:05"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "19/12/2025 - 12:09:36"
-        },
-        {
-            "song_name": "Violent Crimes",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "ye",
-            "played_at": "19/12/2025 - 12:06:35"
-        },
-        {
-            "song_name": "Feel A Way (feat. Don Toliver)",
-            "artists": [
-                "KAYTRANADA",
-                "Don Toliver"
-            ],
-            "album": "TIMELESS",
-            "played_at": "19/12/2025 - 12:02:36"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "19/12/2025 - 16:20:08"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "19/12/2025 - 16:18:08"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "19/12/2025 - 16:14:40"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "19/12/2025 - 14:15:41"
-        },
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "19/12/2025 - 14:05:59"
-        },
-        {
-            "song_name": "Go Ahead",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Love U Forever",
-            "played_at": "19/12/2025 - 13:44:15"
-        },
-        {
-            "song_name": "Runaway (U & I)",
-            "artists": [
-                "Ian Asher",
-                "Galantis"
-            ],
-            "album": "Runaway (U & I)",
-            "played_at": "19/12/2025 - 13:44:12"
-        },
-        {
-            "song_name": "Middle",
-            "artists": [
-                "DJ Snake",
-                "Bipolar Sunshine"
-            ],
-            "album": "Encore",
-            "played_at": "19/12/2025 - 13:43:51"
-        },
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "19/12/2025 - 13:43:44"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "19/12/2025 - 22:14:59"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "19/12/2025 - 21:32:54"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "19/12/2025 - 21:16:09"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "19/12/2025 - 21:11:15"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "19/12/2025 - 21:06:58"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "19/12/2025 - 21:05:04"
-        },
-        {
-            "song_name": "Night Changes",
-            "artists": [
-                "One Direction"
-            ],
-            "album": "FOUR (Deluxe)",
-            "played_at": "20/12/2025 - 17:10:59"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "20/12/2025 - 17:07:02"
-        },
-        {
-            "song_name": "After Party",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "20/12/2025 - 17:04:33"
-        },
-        {
-            "song_name": "One Dance",
-            "artists": [
-                "Drake",
-                "Wizkid",
-                "Kyla"
-            ],
-            "album": "Views",
-            "played_at": "20/12/2025 - 17:01:38"
-        },
-        {
-            "song_name": "East Liberty",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR TWO",
-            "played_at": "20/12/2025 - 16:55:42"
-        },
-        {
-            "song_name": "Yellow",
-            "artists": [
-                "Coldplay"
-            ],
-            "album": "Parachutes",
-            "played_at": "20/12/2025 - 16:52:29"
-        },
-        {
-            "song_name": "Nice To Each Other",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Nice To Each Other",
-            "played_at": "20/12/2025 - 16:48:14"
-        },
         {
             "song_name": "ROLLING STONES",
             "artists": [
@@ -1657,6 +1438,238 @@
             ],
             "album": "Gilberto's Son",
             "played_at": "26/12/2025 - 10:01:29"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "28/12/2025 - 12:40:50"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "28/12/2025 - 11:39:14"
+        },
+        {
+            "song_name": "MR RECOUP",
+            "artists": [
+                "21 Savage",
+                "Drake"
+            ],
+            "album": "WHAT HAPPENED TO THE STREETS?",
+            "played_at": "28/12/2025 - 11:34:44"
+        },
+        {
+            "song_name": "DUMBO",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "28/12/2025 - 11:31:14"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "28/12/2025 - 11:27:14"
+        },
+        {
+            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
+            "artists": [
+                "Smino",
+                "monte booker",
+                "The Drums"
+            ],
+            "album": "Backstage Pass (with Monte Booker & The Drums)",
+            "played_at": "28/12/2025 - 11:23:15"
+        },
+        {
+            "song_name": "Survivor’s Remorse",
+            "artists": [
+                "Roddy Ricch"
+            ],
+            "album": "Survivor’s Remorse",
+            "played_at": "28/12/2025 - 11:19:16"
+        },
+        {
+            "song_name": "Pretty Little Fears (feat. J. Cole)",
+            "artists": [
+                "6LACK",
+                "J. Cole"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "28/12/2025 - 11:16:44"
+        },
+        {
+            "song_name": "Cinderella",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "28/12/2025 - 11:13:15"
+        },
+        {
+            "song_name": "MAFIA",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "28/12/2025 - 11:10:14"
+        },
+        {
+            "song_name": "MR RECOUP",
+            "artists": [
+                "21 Savage",
+                "Drake"
+            ],
+            "album": "WHAT HAPPENED TO THE STREETS?",
+            "played_at": "28/12/2025 - 11:03:45"
+        },
+        {
+            "song_name": "Thoughts from a Balcony",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Macadelic",
+            "played_at": "28/12/2025 - 11:00:45"
+        },
+        {
+            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "21 Savage"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "28/12/2025 - 10:58:15"
+        },
+        {
+            "song_name": "narcotics",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "28/12/2025 - 10:54:49"
+        },
+        {
+            "song_name": "BLESSING",
+            "artists": [
+                "TWXN",
+                "LL Clawz",
+                "507KAZ"
+            ],
+            "album": "Project YVL",
+            "played_at": "28/12/2025 - 10:52:15"
+        },
+        {
+            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
+            "artists": [
+                "Young Stoner Life",
+                "Young Thug",
+                "Bslime",
+                "Don Toliver"
+            ],
+            "album": "Slime Language 2 (Deluxe)",
+            "played_at": "28/12/2025 - 10:43:20"
+        },
+        {
+            "song_name": "Lock On Me (with Travis Scott & Future)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott",
+                "Future"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "28/12/2025 - 10:38:44"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "28/12/2025 - 10:36:16"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "28/12/2025 - 10:31:45"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "28/12/2025 - 09:43:10"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "28/12/2025 - 07:55:52"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "28/12/2025 - 07:42:05"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "28/12/2025 - 07:37:12"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "27/12/2025 - 13:56:01"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "27/12/2025 - 13:55:50"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "27/12/2025 - 13:55:47"
         }
     ]
 }
