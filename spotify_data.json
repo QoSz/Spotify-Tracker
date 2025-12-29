@@ -1,31 +1,6 @@
 {
-    "total_plays": 1293,
+    "total_plays": 1296,
     "tracks": [
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "20/12/2025 - 12:52:03"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "20/12/2025 - 12:49:33"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "20/12/2025 - 12:46:33"
-        },
         {
             "song_name": "Moments",
             "artists": [
@@ -1673,6 +1648,30 @@
             ],
             "album": "Dawn",
             "played_at": "29/12/2025 - 12:33:31"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/12/2025 - 14:54:35"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/12/2025 - 14:47:43"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/12/2025 - 14:41:13"
         }
     ]
 }
