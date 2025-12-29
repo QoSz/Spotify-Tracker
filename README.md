@@ -4,12 +4,12 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**1,287** songs listened to
+**1,293** songs listened to
 
 - **421** unique artists
 - **431** unique albums
 - **582** unique songs
-- **38.1** songs per day (average)
+- **38.3** songs per day (average)
 
 ## Top Artists (All Time)
 
@@ -17,7 +17,7 @@ Tracking my Spotify listening history.
 2. Drake (82 plays)
 3. Travis Scott (54 plays)
 4. Nemzzz (54 plays)
-5. Metro Boomin (52 plays)
+5. Kid Cudi (52 plays)
 
 ## Listening Streak
 

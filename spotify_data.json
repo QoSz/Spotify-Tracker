@@ -1,54 +1,6 @@
 {
-    "total_plays": 1287,
+    "total_plays": 1293,
     "tracks": [
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "20/12/2025 - 13:15:03"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "channel ORANGE",
-            "played_at": "20/12/2025 - 13:12:03"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "20/12/2025 - 13:08:03"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "20/12/2025 - 13:05:03"
-        },
-        {
-            "song_name": "NIGHTS LIKE THIS",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "20/12/2025 - 12:56:02"
-        },
-        {
-            "song_name": "Denver",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "20/12/2025 - 12:54:33"
-        },
         {
             "song_name": "Shut up My Moms Calling",
             "artists": [
@@ -1669,6 +1621,58 @@
             ],
             "album": "Naked All the Time",
             "played_at": "29/12/2025 - 12:27:31"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "29/12/2025 - 12:59:01"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "29/12/2025 - 12:54:31"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/12/2025 - 12:49:32"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "29/12/2025 - 12:40:01"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "29/12/2025 - 12:37:01"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "29/12/2025 - 12:33:31"
         }
     ]
 }
