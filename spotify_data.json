@@ -1,23 +1,6 @@
 {
-    "total_plays": 1285,
+    "total_plays": 1287,
     "tracks": [
-        {
-            "song_name": "ROLLING STONES",
-            "artists": [
-                "Tony"
-            ],
-            "album": "MOOD MUSIC, VOL. 1",
-            "played_at": "20/12/2025 - 13:21:33"
-        },
-        {
-            "song_name": "Slow Motion (feat. Wizkid)",
-            "artists": [
-                "Don Toliver",
-                "Wizkid"
-            ],
-            "album": "Love Sick",
-            "played_at": "20/12/2025 - 13:18:03"
-        },
         {
             "song_name": "Lady Of Namek",
             "artists": [
@@ -1670,6 +1653,22 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "27/12/2025 - 13:55:47"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "29/12/2025 - 12:30:31"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "29/12/2025 - 12:27:31"
         }
     ]
 }
