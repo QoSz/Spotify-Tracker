@@ -1,22 +1,6 @@
 {
-    "total_plays": 1296,
+    "total_plays": 1298,
     "tracks": [
-        {
-            "song_name": "Moments",
-            "artists": [
-                "MOIO"
-            ],
-            "album": "Moments",
-            "played_at": "20/12/2025 - 12:43:33"
-        },
-        {
-            "song_name": "Navajo",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Navajo",
-            "played_at": "20/12/2025 - 12:39:33"
-        },
         {
             "song_name": "Desires (with Future)",
             "artists": [
@@ -1672,6 +1656,23 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "29/12/2025 - 14:41:13"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "29/12/2025 - 17:48:46"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "29/12/2025 - 17:44:20"
         }
     ]
 }
