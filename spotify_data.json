@@ -1,50 +1,6 @@
 {
-    "total_plays": 1312,
+    "total_plays": 1317,
     "tracks": [
-        {
-            "song_name": "Ride",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "Ride",
-            "played_at": "20/12/2025 - 11:46:03"
-        },
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "20/12/2025 - 11:43:03"
-        },
-        {
-            "song_name": "Hurt Feelings",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "20/12/2025 - 11:39:32"
-        },
-        {
-            "song_name": "Time Heals All",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "20/12/2025 - 11:35:03"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "20/12/2025 - 11:31:33"
-        },
         {
             "song_name": "16",
             "artists": [
@@ -1671,6 +1627,54 @@
             ],
             "album": "i am > i was",
             "played_at": "30/12/2025 - 09:58:13"
+        },
+        {
+            "song_name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Jack Harlow",
+                "Dave"
+            ],
+            "album": "Stop Giving Me Advice",
+            "played_at": "30/12/2025 - 10:28:06"
+        },
+        {
+            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+            "artists": [
+                "Brent Faiyaz",
+                "N3WYRKLA",
+                "A$AP Rocky"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "30/12/2025 - 10:24:07"
+        },
+        {
+            "song_name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "artists": [
+                "JID",
+                "21 Savage",
+                "Baby Tate"
+            ],
+            "album": "The Forever Story (Extended Version)",
+            "played_at": "30/12/2025 - 10:20:36"
+        },
+        {
+            "song_name": "Chasing (feat. NEIMY)",
+            "artists": [
+                "Solar State",
+                "NSH",
+                "NEIMY"
+            ],
+            "album": "Chasing (feat. NEIMY)",
+            "played_at": "30/12/2025 - 10:16:37"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "30/12/2025 - 10:14:06"
         }
     ]
 }
