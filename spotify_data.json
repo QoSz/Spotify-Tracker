@@ -1,14 +1,6 @@
 {
-    "total_plays": 1311,
+    "total_plays": 1312,
     "tracks": [
-        {
-            "song_name": "I Think I Left the Stove On",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "I Think I Left the Stove On",
-            "played_at": "20/12/2025 - 11:49:33"
-        },
         {
             "song_name": "Ride",
             "artists": [
@@ -1671,6 +1663,14 @@
             ],
             "album": "Circles",
             "played_at": "29/12/2025 - 19:34:46"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "30/12/2025 - 09:58:13"
         }
     ]
 }
