@@ -1,66 +1,6 @@
 {
-    "total_plays": 1317,
+    "total_plays": 1324,
     "tracks": [
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "20/12/2025 - 11:28:33"
-        },
-        {
-            "song_name": "Wish I Never Met You - Prison Tapes",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You (Prison Tapes)",
-            "played_at": "20/12/2025 - 11:24:33"
-        },
-        {
-            "song_name": "Pink Dolphin Sunset (feat. Tee)",
-            "artists": [
-                "Tory Lanez",
-                "Tee"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "20/12/2025 - 10:57:03"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "20/12/2025 - 10:52:34"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "20/12/2025 - 10:52:33"
-        },
-        {
-            "song_name": "BABY I'M BACK",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME (DELUXE VERSION)",
-            "played_at": "20/12/2025 - 10:52:03"
-        },
-        {
-            "song_name": "Pretty Little Fears (feat. J. Cole)",
-            "artists": [
-                "6LACK",
-                "J. Cole"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "20/12/2025 - 10:49:42"
-        },
         {
             "song_name": "‘87 Stingray",
             "artists": [
@@ -1675,6 +1615,72 @@
             ],
             "album": "i am > i was",
             "played_at": "30/12/2025 - 10:14:06"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "30/12/2025 - 11:00:07"
+        },
+        {
+            "song_name": "Barking",
+            "artists": [
+                "Ramz"
+            ],
+            "album": "Barking",
+            "played_at": "30/12/2025 - 10:57:07"
+        },
+        {
+            "song_name": "Riptide",
+            "artists": [
+                "TWOPILOTS"
+            ],
+            "album": "Riptide",
+            "played_at": "30/12/2025 - 10:54:07"
+        },
+        {
+            "song_name": "On The Radar Freestyle",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "On The Radar Freestyle",
+            "played_at": "30/12/2025 - 10:47:07"
+        },
+        {
+            "song_name": "Water - Remix",
+            "artists": [
+                "Tyla",
+                "Travis Scott"
+            ],
+            "album": "Water (Remix)",
+            "played_at": "30/12/2025 - 10:42:36"
+        },
+        {
+            "song_name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "artists": [
+                "A$AP Mob",
+                "A$AP Rocky",
+                "Playboi Carti",
+                "Quavo",
+                "Lil Uzi Vert",
+                "Frank Ocean"
+            ],
+            "album": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
+            "played_at": "30/12/2025 - 10:39:52"
+        },
+        {
+            "song_name": "Love Me",
+            "artists": [
+                "Lil Wayne",
+                "Drake",
+                "Future"
+            ],
+            "album": "I Am Not A Human Being II (Deluxe)",
+            "played_at": "30/12/2025 - 10:32:41"
         }
     ]
 }
