@@ -1,216 +1,6 @@
 {
-    "total_plays": 1324,
+    "total_plays": 1349,
     "tracks": [
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "20/12/2025 - 10:45:41"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "20/12/2025 - 10:19:54"
-        },
-        {
-            "song_name": "Weekend (feat. Miguel)",
-            "artists": [
-                "Mac Miller",
-                "Miguel"
-            ],
-            "album": "GO:OD AM",
-            "played_at": "20/12/2025 - 21:27:25"
-        },
-        {
-            "song_name": "Noticed",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Northsbest (Extended)",
-            "played_at": "20/12/2025 - 21:23:56"
-        },
-        {
-            "song_name": "Did It Again",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "20/12/2025 - 21:21:15"
-        },
-        {
-            "song_name": "Rich And Blind",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Fighting Demons (Deluxe)",
-            "played_at": "20/12/2025 - 21:35:18"
-        },
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "20/12/2025 - 21:31:29"
-        },
-        {
-            "song_name": "Don't Get Me Started",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "22/12/2025 - 07:20:29"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "22/12/2025 - 07:16:56"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "22/12/2025 - 07:13:12"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "22/12/2025 - 07:10:10"
-        },
-        {
-            "song_name": "NKITA (feat. Fimiguerrero)",
-            "artists": [
-                "Knucks",
-                "Fimiguerrero"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 15:06:27"
-        },
-        {
-            "song_name": "CONTAINER (feat. KCee)",
-            "artists": [
-                "Knucks",
-                "KCee"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:27:48"
-        },
-        {
-            "song_name": "NWANNE",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:25:13"
-        },
-        {
-            "song_name": "PURE WATER",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:20:43"
-        },
-        {
-            "song_name": "YAM PORRIDGE (feat. Tiwa Savage)",
-            "artists": [
-                "Knucks",
-                "Tiwa Savage"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:17:57"
-        },
-        {
-            "song_name": "NO SHAKING (feat. Phyno)",
-            "artists": [
-                "Knucks",
-                "Phyno"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:14:20"
-        },
-        {
-            "song_name": "GOLDTOOTH (feat. Blaqbonez)",
-            "artists": [
-                "Knucks",
-                "Blaqbonez"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:12:43"
-        },
-        {
-            "song_name": "MY NAME IS MY NAME",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:10:14"
-        },
-        {
-            "song_name": "MASQUERADE",
-            "artists": [
-                "Knucks"
-            ],
-            "album": "A Fine African Man",
-            "played_at": "22/12/2025 - 14:07:43"
-        },
-        {
-            "song_name": "J.O.W.Y.H (JUMP OUT)",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "22/12/2025 - 14:03:43"
-        },
-        {
-            "song_name": "MR RECOUP",
-            "artists": [
-                "21 Savage",
-                "Drake"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "22/12/2025 - 14:01:27"
-        },
-        {
-            "song_name": "CUP FULL",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "22/12/2025 - 13:55:43"
-        },
-        {
-            "song_name": "STEPBROTHERS",
-            "artists": [
-                "21 Savage",
-                "Young Nudy"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "22/12/2025 - 13:52:13"
-        },
-        {
-            "song_name": "HA",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "22/12/2025 - 13:48:15"
-        },
         {
             "song_name": "WHERE YOU FROM",
             "artists": [
@@ -1681,6 +1471,209 @@
             ],
             "album": "I Am Not A Human Being II (Deluxe)",
             "played_at": "30/12/2025 - 10:32:41"
+        },
+        {
+            "song_name": "Objectively",
+            "artists": [
+                "Dominum Nominum"
+            ],
+            "album": "Objectively",
+            "played_at": "31/12/2025 - 07:00:33"
+        },
+        {
+            "song_name": "Orbital Feelings",
+            "artists": [
+                "Luca Kerr"
+            ],
+            "album": "Orbital Feelings",
+            "played_at": "31/12/2025 - 06:58:05"
+        },
+        {
+            "song_name": "eau du mist",
+            "artists": [
+                "Mellow Line"
+            ],
+            "album": "eau du mist",
+            "played_at": "31/12/2025 - 06:55:02"
+        },
+        {
+            "song_name": "Lull",
+            "artists": [
+                "Earthbound"
+            ],
+            "album": "Lull",
+            "played_at": "31/12/2025 - 06:52:32"
+        },
+        {
+            "song_name": "Oneiros",
+            "artists": [
+                "Nebula Somni"
+            ],
+            "album": "Oneiros",
+            "played_at": "31/12/2025 - 06:49:32"
+        },
+        {
+            "song_name": "Echoverse",
+            "artists": [
+                "Sir Dejvid"
+            ],
+            "album": "Echoverse",
+            "played_at": "31/12/2025 - 06:47:33"
+        },
+        {
+            "song_name": "Empyrean Accord",
+            "artists": [
+                "Hibisc"
+            ],
+            "album": "Empyrean Accord",
+            "played_at": "31/12/2025 - 06:45:05"
+        },
+        {
+            "song_name": "Signs",
+            "artists": [
+                "L'air"
+            ],
+            "album": "Signs",
+            "played_at": "31/12/2025 - 06:42:32"
+        },
+        {
+            "song_name": "Inner Healing",
+            "artists": [
+                "Astred"
+            ],
+            "album": "Inner Healing",
+            "played_at": "31/12/2025 - 06:40:02"
+        },
+        {
+            "song_name": "Calming Waters (Meditation Version)",
+            "artists": [
+                "Ethereva"
+            ],
+            "album": "Calming Waters (Meditation Version)",
+            "played_at": "31/12/2025 - 06:37:33"
+        },
+        {
+            "song_name": "Hexaphonic",
+            "artists": [
+                "Koma"
+            ],
+            "album": "Hexaphonic",
+            "played_at": "31/12/2025 - 06:35:03"
+        },
+        {
+            "song_name": "Choose Calm",
+            "artists": [
+                "Noor Alston"
+            ],
+            "album": "Choose Calm",
+            "played_at": "31/12/2025 - 06:31:33"
+        },
+        {
+            "song_name": "don’t panic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "30/12/2025 - 22:10:42"
+        },
+        {
+            "song_name": "THE PEAK",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "2 TURNT (DELUXE)",
+            "played_at": "30/12/2025 - 22:08:58"
+        },
+        {
+            "song_name": "ROLLING STONES",
+            "artists": [
+                "Tony"
+            ],
+            "album": "MOOD MUSIC, VOL. 1",
+            "played_at": "30/12/2025 - 22:06:22"
+        },
+        {
+            "song_name": "No More Parties in LA",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "30/12/2025 - 22:02:52"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "30/12/2025 - 21:58:52"
+        },
+        {
+            "song_name": "Sorry 4 What? // LV BELT",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Sorry 4 What",
+            "played_at": "30/12/2025 - 21:57:53"
+        },
+        {
+            "song_name": "Mist",
+            "artists": [
+                "EsDeeKid",
+                "Rico Ace"
+            ],
+            "album": "Rebel",
+            "played_at": "30/12/2025 - 17:33:43"
+        },
+        {
+            "song_name": "there he go",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "30/12/2025 - 17:31:13"
+        },
+        {
+            "song_name": "Can't Have Everything",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "30/12/2025 - 17:28:13"
+        },
+        {
+            "song_name": "Tiramisu",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Tiramisu",
+            "played_at": "30/12/2025 - 17:22:13"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "30/12/2025 - 17:18:13"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "30/12/2025 - 17:16:13"
+        },
+        {
+            "song_name": "Sdp Interlude",
+            "artists": [
+                "Lucidity"
+            ],
+            "album": "Sdp Interlude",
+            "played_at": "30/12/2025 - 13:44:03"
         }
     ]
 }
