@@ -1,14 +1,6 @@
 {
-    "total_plays": 1381,
+    "total_plays": 1382,
     "tracks": [
-        {
-            "song_name": "If It's Real",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "If It's Real",
-            "played_at": "23/12/2025 - 13:42:12"
-        },
         {
             "song_name": "HALFTIME INTERLUDE",
             "artists": [
@@ -1688,6 +1680,14 @@
             ],
             "album": "Alone At Prom",
             "played_at": "02/01/2026 - 11:30:43"
+        },
+        {
+            "song_name": "Cry For Me",
+            "artists": [
+                "The Weeknd"
+            ],
+            "album": "Hurry Up Tomorrow",
+            "played_at": "02/01/2026 - 12:57:24"
         }
     ]
 }
