@@ -1,14 +1,6 @@
 {
-    "total_plays": 1393,
+    "total_plays": 1394,
     "tracks": [
-        {
-            "song_name": "again",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "The Last Wun",
-            "played_at": "23/12/2025 - 13:10:37"
-        },
         {
             "song_name": "Booga",
             "artists": [
@@ -1687,6 +1679,16 @@
             ],
             "album": "Stoney (Deluxe)",
             "played_at": "02/01/2026 - 14:32:31"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "02/01/2026 - 15:03:22"
         }
     ]
 }
