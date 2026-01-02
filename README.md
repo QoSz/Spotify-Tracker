@@ -4,7 +4,7 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**1,391** songs listened to
+**1,393** songs listened to
 
 - **460** unique artists
 - **472** unique albums
@@ -15,7 +15,7 @@ Tracking my Spotify listening history.
 
 1. Don Toliver (110 plays)
 2. Drake (93 plays)
-3. Travis Scott (56 plays)
+3. Travis Scott (57 plays)
 4. Kid Cudi (56 plays)
 5. Metro Boomin (54 plays)
 

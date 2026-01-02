@@ -1,23 +1,6 @@
 {
-    "total_plays": 1391,
+    "total_plays": 1393,
     "tracks": [
-        {
-            "song_name": "DND Pt. 2 (feat. Nemzzz)",
-            "artists": [
-                "Kidwild",
-                "Nemzzz"
-            ],
-            "album": "DND Pt. 2 (feat. Nemzzz)",
-            "played_at": "23/12/2025 - 13:14:37"
-        },
-        {
-            "song_name": "Council Housing",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "Get Home Safe (Deluxe)",
-            "played_at": "23/12/2025 - 13:12:38"
-        },
         {
             "song_name": "again",
             "artists": [
@@ -1688,6 +1671,22 @@
             ],
             "album": "Honestly, Nevermind",
             "played_at": "02/01/2026 - 14:14:33"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "02/01/2026 - 14:51:52"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "02/01/2026 - 14:32:31"
         }
     ]
 }
