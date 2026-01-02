@@ -1,39 +1,6 @@
 {
-    "total_plays": 1387,
+    "total_plays": 1391,
     "tracks": [
-        {
-            "song_name": "Follow My Lead",
-            "artists": [
-                "KIRBS"
-            ],
-            "album": "Again / Follow My Lead",
-            "played_at": "23/12/2025 - 13:26:10"
-        },
-        {
-            "song_name": "ATLANTA TEARS",
-            "artists": [
-                "21 Savage",
-                "Lil Baby"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "23/12/2025 - 13:23:22"
-        },
-        {
-            "song_name": "Hunnids",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Local Mvp",
-            "played_at": "23/12/2025 - 13:19:07"
-        },
-        {
-            "song_name": "MOTION",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "RENT'S DUE (DELUXE)",
-            "played_at": "23/12/2025 - 13:16:38"
-        },
         {
             "song_name": "DND Pt. 2 (feat. Nemzzz)",
             "artists": [
@@ -1689,6 +1656,38 @@
             ],
             "album": "Hurry Up Tomorrow",
             "played_at": "02/01/2026 - 13:01:29"
+        },
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "02/01/2026 - 14:23:31"
+        },
+        {
+            "song_name": "Swim Good",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "Swim Good",
+            "played_at": "02/01/2026 - 14:20:31"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "02/01/2026 - 14:16:02"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "02/01/2026 - 14:14:33"
         }
     ]
 }
