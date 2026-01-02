@@ -1,14 +1,6 @@
 {
-    "total_plays": 1372,
+    "total_plays": 1373,
     "tracks": [
-        {
-            "song_name": "Tagadne",
-            "artists": [
-                "Vestigency"
-            ],
-            "album": "Tagadne",
-            "played_at": "23/12/2025 - 06:59:48"
-        },
         {
             "song_name": "Waiting for Nightfall",
             "artists": [
@@ -1683,6 +1675,14 @@
             ],
             "album": "Sage",
             "played_at": "31/12/2025 - 07:03:33"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "02/01/2026 - 08:07:35"
         }
     ]
 }
