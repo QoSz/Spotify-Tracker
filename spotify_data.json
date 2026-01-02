@@ -1,54 +1,6 @@
 {
-    "total_plays": 1373,
+    "total_plays": 1379,
     "tracks": [
-        {
-            "song_name": "Waiting for Nightfall",
-            "artists": [
-                "Selenique"
-            ],
-            "album": "Waiting for Nightfall",
-            "played_at": "23/12/2025 - 06:56:48"
-        },
-        {
-            "song_name": "Ghost Concept",
-            "artists": [
-                "Abstract Mountain View"
-            ],
-            "album": "Ghost Concept",
-            "played_at": "23/12/2025 - 06:54:18"
-        },
-        {
-            "song_name": "Breathing Cosmos",
-            "artists": [
-                "A Deeper Sense"
-            ],
-            "album": "Breathing Cosmos",
-            "played_at": "23/12/2025 - 06:52:18"
-        },
-        {
-            "song_name": "Gentle Signal",
-            "artists": [
-                "oceanfinder"
-            ],
-            "album": "Gentle Signal",
-            "played_at": "23/12/2025 - 06:49:19"
-        },
-        {
-            "song_name": "Harmoniousness",
-            "artists": [
-                "Infinite Field"
-            ],
-            "album": "Harmoniousness",
-            "played_at": "23/12/2025 - 06:46:48"
-        },
-        {
-            "song_name": "REFLECTION",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "DO NOT DISTURB (DELUXE)",
-            "played_at": "23/12/2025 - 13:48:37"
-        },
         {
             "song_name": "Rock Bottom",
             "artists": [
@@ -1683,6 +1635,58 @@
             ],
             "album": "HNDRXX",
             "played_at": "02/01/2026 - 08:07:35"
+        },
+        {
+            "song_name": "East Liberty",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR TWO",
+            "played_at": "02/01/2026 - 11:28:17"
+        },
+        {
+            "song_name": "5 TO 10",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "HARDSTONE PSYCHO",
+            "played_at": "02/01/2026 - 11:25:44"
+        },
+        {
+            "song_name": "On Me",
+            "artists": [
+                "Sainté"
+            ],
+            "album": "Local Mvp",
+            "played_at": "02/01/2026 - 11:22:13"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "02/01/2026 - 11:20:12"
+        },
+        {
+            "song_name": "FaceTime (feat. Don Toliver)",
+            "artists": [
+                "Lithe",
+                "Don Toliver"
+            ],
+            "album": "Euphoria",
+            "played_at": "02/01/2026 - 11:17:13"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "02/01/2026 - 11:14:42"
         }
     ]
 }
