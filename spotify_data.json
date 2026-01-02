@@ -1,46 +1,6 @@
 {
-    "total_plays": 1382,
+    "total_plays": 1387,
     "tracks": [
-        {
-            "song_name": "HALFTIME INTERLUDE",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "23/12/2025 - 13:39:38"
-        },
-        {
-            "song_name": "COMË N GO",
-            "artists": [
-                "Yeat"
-            ],
-            "album": "DANGEROUS SUMMER",
-            "played_at": "23/12/2025 - 13:38:08"
-        },
-        {
-            "song_name": "DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "DO NOT DISTURB (DELUXE)",
-            "played_at": "23/12/2025 - 13:34:48"
-        },
-        {
-            "song_name": "Indecisive - Is It A Crime",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Indecisive (Is It A Crime)",
-            "played_at": "23/12/2025 - 13:31:18"
-        },
-        {
-            "song_name": "November",
-            "artists": [
-                "JM7"
-            ],
-            "album": "WHERE'S YOUR WIFE",
-            "played_at": "23/12/2025 - 13:29:16"
-        },
         {
             "song_name": "Follow My Lead",
             "artists": [
@@ -1688,6 +1648,47 @@
             ],
             "album": "Hurry Up Tomorrow",
             "played_at": "02/01/2026 - 12:57:24"
+        },
+        {
+            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+            "artists": [
+                "Metro Boomin",
+                "Coi Leray"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "02/01/2026 - 13:13:28"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "02/01/2026 - 13:10:28"
+        },
+        {
+            "song_name": "Navajo",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Navajo",
+            "played_at": "02/01/2026 - 13:08:28"
+        },
+        {
+            "song_name": "Come Back to Earth",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "02/01/2026 - 13:03:58"
+        },
+        {
+            "song_name": "Cry For Me",
+            "artists": [
+                "The Weeknd"
+            ],
+            "album": "Hurry Up Tomorrow",
+            "played_at": "02/01/2026 - 13:01:29"
         }
     ]
 }
