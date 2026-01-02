@@ -1,22 +1,6 @@
 {
-    "total_plays": 1379,
+    "total_plays": 1381,
     "tracks": [
-        {
-            "song_name": "Rock Bottom",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Rock Bottom",
-            "played_at": "23/12/2025 - 13:46:37"
-        },
-        {
-            "song_name": "Speed & Drift",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "4L",
-            "played_at": "23/12/2025 - 13:45:07"
-        },
         {
             "song_name": "If It's Real",
             "artists": [
@@ -1687,6 +1671,23 @@
             ],
             "album": "Recognize",
             "played_at": "02/01/2026 - 11:14:42"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "02/01/2026 - 11:34:12"
+        },
+        {
+            "song_name": "‘87 Stingray",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "02/01/2026 - 11:30:43"
         }
     ]
 }
