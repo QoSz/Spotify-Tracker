@@ -1,14 +1,6 @@
 {
-    "total_plays": 1394,
+    "total_plays": 1395,
     "tracks": [
-        {
-            "song_name": "Booga",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "Booga",
-            "played_at": "23/12/2025 - 13:08:07"
-        },
         {
             "song_name": "Dora",
             "artists": [
@@ -1689,6 +1681,14 @@
             ],
             "album": "TYCOON",
             "played_at": "02/01/2026 - 15:03:22"
+        },
+        {
+            "song_name": "Circadian Rhythm",
+            "artists": [
+                "Drake"
+            ],
+            "album": "100 GIGS",
+            "played_at": "03/01/2026 - 07:36:14"
         }
     ]
 }
