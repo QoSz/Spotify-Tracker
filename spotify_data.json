@@ -1,39 +1,6 @@
 {
-    "total_plays": 1395,
+    "total_plays": 1399,
     "tracks": [
-        {
-            "song_name": "Dora",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Dora",
-            "played_at": "23/12/2025 - 13:06:07"
-        },
-        {
-            "song_name": "Therapy",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "Therapy",
-            "played_at": "23/12/2025 - 13:03:37"
-        },
-        {
-            "song_name": "Therapy",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "Therapy",
-            "played_at": "23/12/2025 - 13:01:10"
-        },
-        {
-            "song_name": "has to be you 2",
-            "artists": [
-                "Kidwild",
-                "Thiago Sub"
-            ],
-            "album": "has to be you 2",
-            "played_at": "23/12/2025 - 11:49:19"
-        },
         {
             "song_name": "say dat",
             "artists": [
@@ -1689,6 +1656,38 @@
             ],
             "album": "100 GIGS",
             "played_at": "03/01/2026 - 07:36:14"
+        },
+        {
+            "song_name": "Lavender Sunflower",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "04/01/2026 - 16:21:18"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "04/01/2026 - 16:19:18"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "04/01/2026 - 16:15:47"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "04/01/2026 - 16:04:47"
         }
     ]
 }
