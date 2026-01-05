@@ -1,38 +1,6 @@
 {
-    "total_plays": 1399,
+    "total_plays": 1403,
     "tracks": [
-        {
-            "song_name": "say dat",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "say dat",
-            "played_at": "23/12/2025 - 11:47:20"
-        },
-        {
-            "song_name": "endless",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "The Last Wun",
-            "played_at": "23/12/2025 - 11:45:50"
-        },
-        {
-            "song_name": "WIFED A DIME",
-            "artists": [
-                "Teek4y"
-            ],
-            "album": "WIFED A DIME",
-            "played_at": "23/12/2025 - 11:43:52"
-        },
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Tiramisu",
-            "played_at": "23/12/2025 - 11:41:19"
-        },
         {
             "song_name": "Miss Them Days",
             "artists": [
@@ -1688,6 +1656,39 @@
             ],
             "album": "Stoney (Deluxe)",
             "played_at": "04/01/2026 - 16:04:47"
+        },
+        {
+            "song_name": "Around Me (feat. Don Toliver)",
+            "artists": [
+                "Metro Boomin",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "04/01/2026 - 20:40:29"
+        },
+        {
+            "song_name": "I LIKE",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "I LIKE",
+            "played_at": "04/01/2026 - 20:36:59"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "04/01/2026 - 20:34:59"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "04/01/2026 - 20:34:31"
         }
     ]
 }
