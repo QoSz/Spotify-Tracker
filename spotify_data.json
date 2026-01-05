@@ -1,14 +1,6 @@
 {
-    "total_plays": 1403,
+    "total_plays": 1404,
     "tracks": [
-        {
-            "song_name": "Miss Them Days",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "23/12/2025 - 11:37:25"
-        },
         {
             "song_name": "MR DND",
             "artists": [
@@ -1689,6 +1681,14 @@
             ],
             "album": "More Life",
             "played_at": "04/01/2026 - 20:34:31"
+        },
+        {
+            "song_name": "Ladders",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Swimming",
+            "played_at": "05/01/2026 - 10:52:54"
         }
     ]
 }
