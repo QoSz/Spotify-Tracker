@@ -1,31 +1,6 @@
 {
-    "total_plays": 1415,
+    "total_plays": 1418,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "23/12/2025 - 10:25:35"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "23/12/2025 - 10:25:33"
-        },
-        {
-            "song_name": "DA WIZARD",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "23/12/2025 - 10:25:26"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1692,6 +1667,32 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "06/01/2026 - 09:47:54"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "06/01/2026 - 12:05:18"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "06/01/2026 - 11:05:52"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "06/01/2026 - 11:05:50"
         }
     ]
 }
