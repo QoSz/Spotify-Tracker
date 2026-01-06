@@ -1,14 +1,6 @@
 {
-    "total_plays": 1414,
+    "total_plays": 1415,
     "tracks": [
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "23/12/2025 - 10:25:40"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1692,6 +1684,14 @@
             ],
             "album": "TYCOON",
             "played_at": "05/01/2026 - 13:27:44"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "06/01/2026 - 09:47:54"
         }
     ]
 }
