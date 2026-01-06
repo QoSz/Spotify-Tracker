@@ -1,89 +1,6 @@
 {
-    "total_plays": 1404,
+    "total_plays": 1414,
     "tracks": [
-        {
-            "song_name": "MR DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "23/12/2025 - 11:35:49"
-        },
-        {
-            "song_name": "8PM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "23/12/2025 - 11:33:51"
-        },
-        {
-            "song_name": "Grand Prix",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "23/12/2025 - 11:31:19"
-        },
-        {
-            "song_name": "G7X",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "23/12/2025 - 11:29:49"
-        },
-        {
-            "song_name": "Nemzz x Did It First",
-            "artists": [
-                "dawnpercs"
-            ],
-            "album": "Nemzz x Did It First",
-            "played_at": "23/12/2025 - 11:26:20"
-        },
-        {
-            "song_name": "Fall Back (feat. Lil Tjay)",
-            "artists": [
-                "Lithe",
-                "Lil Tjay"
-            ],
-            "album": "Fall Back (feat. Lil Tjay)",
-            "played_at": "23/12/2025 - 11:10:39"
-        },
-        {
-            "song_name": "Fake Friends",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Distro Kid",
-            "played_at": "23/12/2025 - 11:10:34"
-        },
-        {
-            "song_name": "Fall Back (feat. Lil Tjay)",
-            "artists": [
-                "Lithe",
-                "Lil Tjay"
-            ],
-            "album": "Fall Back (feat. Lil Tjay)",
-            "played_at": "23/12/2025 - 11:03:44"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "23/12/2025 - 10:51:59"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "23/12/2025 - 10:31:30"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1689,6 +1606,92 @@
             ],
             "album": "Swimming",
             "played_at": "05/01/2026 - 10:52:54"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "05/01/2026 - 14:21:28"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "05/01/2026 - 14:16:52"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "05/01/2026 - 14:00:13"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "05/01/2026 - 13:52:11"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "05/01/2026 - 13:42:11"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "05/01/2026 - 13:39:11"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "05/01/2026 - 13:36:11"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "05/01/2026 - 13:33:11"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "05/01/2026 - 13:30:11"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "05/01/2026 - 13:27:44"
         }
     ]
 }
