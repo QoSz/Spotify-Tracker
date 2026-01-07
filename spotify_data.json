@@ -1,14 +1,6 @@
 {
-    "total_plays": 1438,
+    "total_plays": 1439,
     "tracks": [
-        {
-            "song_name": "The Hardest Part",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Messy",
-            "played_at": "24/12/2025 - 10:55:24"
-        },
         {
             "song_name": "YUKON",
             "artists": [
@@ -1694,6 +1686,14 @@
             ],
             "album": "Life of a DON",
             "played_at": "06/01/2026 - 18:22:06"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "07/01/2026 - 06:48:10"
         }
     ]
 }
