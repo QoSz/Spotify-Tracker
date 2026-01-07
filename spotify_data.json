@@ -1,73 +1,6 @@
 {
-    "total_plays": 1430,
+    "total_plays": 1438,
     "tracks": [
-        {
-            "song_name": "Poison",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "Poison",
-            "played_at": "24/12/2025 - 13:35:26"
-        },
-        {
-            "song_name": "Poison",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "Poison",
-            "played_at": "24/12/2025 - 11:48:25"
-        },
-        {
-            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
-            "artists": [
-                "Metro Boomin",
-                "James Blake",
-                "A$AP Rocky",
-                "21 Savage"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "24/12/2025 - 11:37:53"
-        },
-        {
-            "song_name": "Virginia Beach",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "24/12/2025 - 11:34:03"
-        },
-        {
-            "song_name": "Virginia Beach",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs",
-            "played_at": "24/12/2025 - 11:32:39"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "24/12/2025 - 11:15:10"
-        },
-        {
-            "song_name": "Swim Good",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Swim Good",
-            "played_at": "24/12/2025 - 11:12:40"
-        },
-        {
-            "song_name": "The Hardest Part",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Messy",
-            "played_at": "24/12/2025 - 11:08:19"
-        },
         {
             "song_name": "The Hardest Part",
             "artists": [
@@ -1695,6 +1628,72 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "06/01/2026 - 13:54:55"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "07/01/2026 - 06:27:30"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "07/01/2026 - 06:27:28"
+        },
+        {
+            "song_name": "London2Paris",
+            "artists": [
+                "Tkandz"
+            ],
+            "album": "London2Paris",
+            "played_at": "07/01/2026 - 06:15:31"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Frank Ocean"
+            ],
+            "album": "channel ORANGE",
+            "played_at": "06/01/2026 - 20:13:01"
+        },
+        {
+            "song_name": "Wish I Never Met You - Prison Tapes",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You (Prison Tapes)",
+            "played_at": "06/01/2026 - 18:34:05"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "06/01/2026 - 18:30:35"
+        },
+        {
+            "song_name": "have to.",
+            "artists": [
+                "Brent Faiyaz"
+            ],
+            "album": "have to.",
+            "played_at": "06/01/2026 - 18:25:35"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "06/01/2026 - 18:22:06"
         }
     ]
 }
