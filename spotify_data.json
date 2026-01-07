@@ -1,30 +1,6 @@
 {
-    "total_plays": 1440,
+    "total_plays": 1443,
     "tracks": [
-        {
-            "song_name": "No Recognition",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "24/12/2025 - 09:53:46"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "24/12/2025 - 09:51:16"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "24/12/2025 - 09:46:57"
-        },
         {
             "song_name": "DEEP IN YOUR SOUL",
             "artists": [
@@ -1695,6 +1671,30 @@
             ],
             "album": "Late Registration",
             "played_at": "07/01/2026 - 08:26:26"
+        },
+        {
+            "song_name": "Go Ahead",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Love U Forever",
+            "played_at": "07/01/2026 - 13:30:49"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "07/01/2026 - 13:27:48"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "07/01/2026 - 13:23:19"
         }
     ]
 }
