@@ -1,14 +1,6 @@
 {
-    "total_plays": 1439,
+    "total_plays": 1440,
     "tracks": [
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "24/12/2025 - 09:56:16"
-        },
         {
             "song_name": "No Recognition",
             "artists": [
@@ -1694,6 +1686,15 @@
             ],
             "album": "Make Me Feel",
             "played_at": "07/01/2026 - 06:48:10"
+        },
+        {
+            "song_name": "Touch The Sky",
+            "artists": [
+                "Kanye West",
+                "Lupe Fiasco"
+            ],
+            "album": "Late Registration",
+            "played_at": "07/01/2026 - 08:26:26"
         }
     ]
 }
