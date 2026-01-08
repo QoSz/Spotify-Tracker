@@ -1,41 +1,6 @@
 {
-    "total_plays": 1449,
+    "total_plays": 1453,
     "tracks": [
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "25/12/2025 - 09:49:19"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "25/12/2025 - 09:46:49"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "25/12/2025 - 09:44:52"
-        },
-        {
-            "song_name": "Temporary (feat. Don Toliver)",
-            "artists": [
-                "6LACK",
-                "Don Toliver"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "25/12/2025 - 08:59:47"
-        },
         {
             "song_name": "Mongolian Jingle Bells",
             "artists": [
@@ -1699,6 +1664,42 @@
             ],
             "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
             "played_at": "08/01/2026 - 08:03:17"
+        },
+        {
+            "song_name": "Jo Tum Mere Ho",
+            "artists": [
+                "Anuv Jain"
+            ],
+            "album": "Jo Tum Mere Ho",
+            "played_at": "08/01/2026 - 08:44:35"
+        },
+        {
+            "song_name": "Madhanya",
+            "artists": [
+                "Rahul Vaidya",
+                "Asees Kaur",
+                "Lijo George",
+                "Dj Chetas"
+            ],
+            "album": "Madhanya",
+            "played_at": "08/01/2026 - 08:40:05"
+        },
+        {
+            "song_name": "Maiyya Mainu",
+            "artists": [
+                "Sachet Tandon",
+                "Shellee"
+            ],
+            "album": "Jersey (Original Motion Picture Soundtrack)",
+            "played_at": "08/01/2026 - 08:36:35"
+        },
+        {
+            "song_name": "Tu Jaana Na Piya",
+            "artists": [
+                "King"
+            ],
+            "album": "NEW LIFE",
+            "played_at": "08/01/2026 - 08:32:35"
         }
     ]
 }
