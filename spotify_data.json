@@ -1,55 +1,6 @@
 {
-    "total_plays": 1453,
+    "total_plays": 1459,
     "tracks": [
-        {
-            "song_name": "Mongolian Jingle Bells",
-            "artists": [
-                "Ummet Ozcan"
-            ],
-            "album": "Mongolian Jingle Bells",
-            "played_at": "25/12/2025 - 08:20:47"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "26/12/2025 - 11:58:07"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "26/12/2025 - 11:26:35"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "26/12/2025 - 11:21:37"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "26/12/2025 - 11:21:11"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "26/12/2025 - 10:01:29"
-        },
         {
             "song_name": "DIE TRYING",
             "artists": [
@@ -1700,6 +1651,61 @@
             ],
             "album": "NEW LIFE",
             "played_at": "08/01/2026 - 08:32:35"
+        },
+        {
+            "song_name": "Nasamajh",
+            "artists": [
+                "Aditya Rikhari"
+            ],
+            "album": "Nasamajh",
+            "played_at": "08/01/2026 - 12:30:27"
+        },
+        {
+            "song_name": "Vida Karo",
+            "artists": [
+                "Arijit Singh",
+                "Jonita Gandhi",
+                "Irshad Kamil"
+            ],
+            "album": "Amar Singh Chamkila (Original Motion Picture Soundtrack)",
+            "played_at": "08/01/2026 - 12:25:57"
+        },
+        {
+            "song_name": "Main Jahaan Rahoon",
+            "artists": [
+                "Himesh Reshammiya",
+                "Rahat Fateh Ali Khan",
+                "Krishna"
+            ],
+            "album": "Namastey London (Original Motion Picture Soundtrack)",
+            "played_at": "08/01/2026 - 12:21:27"
+        },
+        {
+            "song_name": "Saathiyaa",
+            "artists": [
+                "Shreya Ghoshal",
+                "Ajay"
+            ],
+            "album": "Singham",
+            "played_at": "08/01/2026 - 12:14:58"
+        },
+        {
+            "song_name": "Sang Rahiyo",
+            "artists": [
+                "Jasleen Royal",
+                "Ujjwal Kashyap"
+            ],
+            "album": "Sang Rahiyo",
+            "played_at": "08/01/2026 - 12:07:40"
+        },
+        {
+            "song_name": "Sang Rahiyo",
+            "artists": [
+                "Jasleen Royal",
+                "Ujjwal Kashyap"
+            ],
+            "album": "Sang Rahiyo",
+            "played_at": "08/01/2026 - 12:07:02"
         }
     ]
 }
