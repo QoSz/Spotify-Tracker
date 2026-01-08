@@ -1,33 +1,6 @@
 {
-    "total_plays": 1459,
+    "total_plays": 1462,
     "tracks": [
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "28/12/2025 - 12:40:50"
-        },
-        {
-            "song_name": "Flight's Booked",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "28/12/2025 - 11:39:14"
-        },
-        {
-            "song_name": "MR RECOUP",
-            "artists": [
-                "21 Savage",
-                "Drake"
-            ],
-            "album": "WHAT HAPPENED TO THE STREETS?",
-            "played_at": "28/12/2025 - 11:34:44"
-        },
         {
             "song_name": "DUMBO",
             "artists": [
@@ -1706,6 +1679,35 @@
             ],
             "album": "Sang Rahiyo",
             "played_at": "08/01/2026 - 12:07:02"
+        },
+        {
+            "song_name": "say dat",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "say dat",
+            "played_at": "08/01/2026 - 12:43:57"
+        },
+        {
+            "song_name": "DA WIZARD",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "08/01/2026 - 12:42:27"
+        },
+        {
+            "song_name": "Sahiba",
+            "artists": [
+                "Jasleen Royal",
+                "Stebin Ben",
+                "Vijay Deverakonda",
+                "Radhikka Madan",
+                "Priya Saraiya",
+                "Aditya Sharma"
+            ],
+            "album": "Sahiba",
+            "played_at": "08/01/2026 - 12:33:57"
         }
     ]
 }
