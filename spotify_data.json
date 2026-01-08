@@ -1,14 +1,6 @@
 {
-    "total_plays": 1443,
+    "total_plays": 1444,
     "tracks": [
-        {
-            "song_name": "DEEP IN YOUR SOUL",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "DEEP IN YOUR SOUL",
-            "played_at": "24/12/2025 - 15:20:31"
-        },
         {
             "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
             "artists": [
@@ -1695,6 +1687,14 @@
             ],
             "album": "Make Me Feel",
             "played_at": "07/01/2026 - 13:23:19"
+        },
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "07/01/2026 - 15:42:20"
         }
     ]
 }
