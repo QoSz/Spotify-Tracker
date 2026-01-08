@@ -1,49 +1,6 @@
 {
-    "total_plays": 1444,
+    "total_plays": 1449,
     "tracks": [
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "25/12/2025 - 14:03:33"
-        },
-        {
-            "song_name": "Lavender Sunflower",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "25/12/2025 - 10:04:49"
-        },
-        {
-            "song_name": "Someone Else - Lost Tapes 2015",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Someone Else (Lost Tapes 2015)",
-            "played_at": "25/12/2025 - 10:02:19"
-        },
-        {
-            "song_name": "Drugs You Should Try It",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "DAYS BEFORE RODEO",
-            "played_at": "25/12/2025 - 09:59:48"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "25/12/2025 - 09:56:49"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1695,6 +1652,53 @@
             ],
             "album": "Currents",
             "played_at": "07/01/2026 - 15:42:20"
+        },
+        {
+            "song_name": "Mohabbat Ho Gayi Hai Tumse",
+            "artists": [
+                "Shrey Singhal",
+                "Kunaal Vermaa",
+                "Aditya Dev"
+            ],
+            "album": "Mohabbat Ho Gayi Hai Tumse",
+            "played_at": "08/01/2026 - 08:28:36"
+        },
+        {
+            "song_name": "Baarishein (feat. NATURE)",
+            "artists": [
+                "Anuv Jain",
+                "NATURE"
+            ],
+            "album": "Baarishein (feat. NATURE)",
+            "played_at": "08/01/2026 - 08:25:07"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "08/01/2026 - 08:20:07"
+        },
+        {
+            "song_name": "DAISIES",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "08/01/2026 - 08:06:17"
+        },
+        {
+            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "artists": [
+                "A$AP Rocky",
+                "Imogen Heap",
+                "Clams Casino"
+            ],
+            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+            "played_at": "08/01/2026 - 08:03:17"
         }
     ]
 }
