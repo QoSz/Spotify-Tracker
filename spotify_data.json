@@ -1,49 +1,6 @@
 {
-    "total_plays": 1484,
+    "total_plays": 1489,
     "tracks": [
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "27/12/2025 - 13:55:47"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "29/12/2025 - 12:30:31"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "29/12/2025 - 12:27:31"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "29/12/2025 - 12:59:01"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "29/12/2025 - 12:54:31"
-        },
         {
             "song_name": "Word is Bond",
             "artists": [
@@ -1712,6 +1669,50 @@
             ],
             "album": "Heaven Or Hell",
             "played_at": "08/01/2026 - 15:22:22"
+        },
+        {
+            "song_name": "COLD",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "RENT'S DUE (DELUXE)",
+            "played_at": "09/01/2026 - 06:25:00"
+        },
+        {
+            "song_name": "BLESSING",
+            "artists": [
+                "TWXN",
+                "LL Clawz",
+                "507KAZ"
+            ],
+            "album": "Project YVL",
+            "played_at": "09/01/2026 - 06:22:28"
+        },
+        {
+            "song_name": "My Drug",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Entergalactic",
+            "played_at": "09/01/2026 - 06:16:05"
+        },
+        {
+            "song_name": "Everyday Hustle",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "Rick Ross"
+            ],
+            "album": "WE DON'T TRUST YOU",
+            "played_at": "09/01/2026 - 06:16:04"
+        },
+        {
+            "song_name": "Thoughts from a Balcony",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Macadelic",
+            "played_at": "08/01/2026 - 18:42:53"
         }
     ]
 }
