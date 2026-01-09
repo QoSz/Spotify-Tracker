@@ -1,48 +1,6 @@
 {
-    "total_plays": 1489,
+    "total_plays": 1494,
     "tracks": [
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "29/12/2025 - 12:49:32"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "29/12/2025 - 12:40:01"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "29/12/2025 - 12:37:01"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "29/12/2025 - 12:33:31"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "29/12/2025 - 14:54:35"
-        },
         {
             "song_name": "Landed in Brooklyn",
             "artists": [
@@ -1713,6 +1671,47 @@
             ],
             "album": "Macadelic",
             "played_at": "08/01/2026 - 18:42:53"
+        },
+        {
+            "song_name": "Booga",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "Booga",
+            "played_at": "09/01/2026 - 09:14:33"
+        },
+        {
+            "song_name": "Flaws And Sins",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "09/01/2026 - 09:12:33"
+        },
+        {
+            "song_name": "Out Of My Hands",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "09/01/2026 - 09:09:03"
+        },
+        {
+            "song_name": "J.O.W.Y.H (JUMP OUT)",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "WHAT HAPPENED TO THE STREETS?",
+            "played_at": "09/01/2026 - 09:05:05"
+        },
+        {
+            "song_name": "J.O.W.Y.H (JUMP OUT)",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "WHAT HAPPENED TO THE STREETS?",
+            "played_at": "09/01/2026 - 09:02:39"
         }
     ]
 }
