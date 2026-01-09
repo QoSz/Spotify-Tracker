@@ -1,71 +1,6 @@
 {
-    "total_plays": 1494,
+    "total_plays": 1502,
     "tracks": [
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "29/12/2025 - 14:47:43"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "29/12/2025 - 14:41:13"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "29/12/2025 - 17:48:46"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "29/12/2025 - 17:44:20"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "30/12/2025 - 04:27:10"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Future"
-            ],
-            "album": "HNDRXX",
-            "played_at": "30/12/2025 - 04:23:39"
-        },
-        {
-            "song_name": "HITTIN MY SHOULDER",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "RED & WHITE",
-            "played_at": "30/12/2025 - 04:19:09"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "30/12/2025 - 04:16:39"
-        },
         {
             "song_name": "Did It Again",
             "artists": [
@@ -1712,6 +1647,74 @@
             ],
             "album": "WHAT HAPPENED TO THE STREETS?",
             "played_at": "09/01/2026 - 09:02:39"
+        },
+        {
+            "song_name": "hakuna matata",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "09/01/2026 - 10:28:47"
+        },
+        {
+            "song_name": "Count Me Out",
+            "artists": [
+                "Kendrick Lamar"
+            ],
+            "album": "Mr. Morale & The Big Steppers",
+            "played_at": "09/01/2026 - 10:26:47"
+        },
+        {
+            "song_name": "MR RECOUP",
+            "artists": [
+                "21 Savage",
+                "Drake"
+            ],
+            "album": "WHAT HAPPENED TO THE STREETS?",
+            "played_at": "09/01/2026 - 10:22:17"
+        },
+        {
+            "song_name": "No Photos",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Heaven Or Hell",
+            "played_at": "09/01/2026 - 10:19:47"
+        },
+        {
+            "song_name": "Pretty Little Fears (feat. J. Cole)",
+            "artists": [
+                "6LACK",
+                "J. Cole"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "09/01/2026 - 10:16:47"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "09/01/2026 - 10:12:47"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "09/01/2026 - 10:10:47"
+        },
+        {
+            "song_name": "4th Dimension",
+            "artists": [
+                "KIDS SEE GHOSTS",
+                "Louis Prima"
+            ],
+            "album": "KIDS SEE GHOSTS",
+            "played_at": "09/01/2026 - 10:10:22"
         }
     ]
 }
