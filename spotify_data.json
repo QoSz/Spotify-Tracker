@@ -1,370 +1,6 @@
 {
-    "total_plays": 1545,
+    "total_plays": 1588,
     "tracks": [
-        {
-            "song_name": "Tiramisu",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Tiramisu",
-            "played_at": "30/12/2025 - 17:22:13"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Juicy J",
-                "Quavo"
-            ],
-            "album": "TYCOON",
-            "played_at": "30/12/2025 - 17:18:13"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "30/12/2025 - 17:16:13"
-        },
-        {
-            "song_name": "Sdp Interlude",
-            "artists": [
-                "Lucidity"
-            ],
-            "album": "Sdp Interlude",
-            "played_at": "30/12/2025 - 13:44:03"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "01/01/2026 - 19:39:03"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "01/01/2026 - 18:14:12"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "01/01/2026 - 18:09:25"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "01/01/2026 - 18:05:09"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "01/01/2026 - 18:04:56"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "31/12/2025 - 16:45:31"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "31/12/2025 - 16:08:33"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "31/12/2025 - 14:05:43"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "31/12/2025 - 13:59:12"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Juicy J",
-                "Quavo"
-            ],
-            "album": "TYCOON",
-            "played_at": "31/12/2025 - 13:52:42"
-        },
-        {
-            "song_name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
-            "artists": [
-                "The Kid LAROI",
-                "Future",
-                "BabyDrill"
-            ],
-            "album": "THE FIRST TIME",
-            "played_at": "31/12/2025 - 13:46:44"
-        },
-        {
-            "song_name": "No Photos",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "31/12/2025 - 10:56:57"
-        },
-        {
-            "song_name": "WTF Goin",
-            "artists": [
-                "Metro Boomin",
-                "Young Dro",
-                "DJ Spinz"
-            ],
-            "album": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-            "played_at": "31/12/2025 - 10:53:56"
-        },
-        {
-            "song_name": "Messier",
-            "artists": [
-                "node: project"
-            ],
-            "album": "Messier",
-            "played_at": "31/12/2025 - 10:48:57"
-        },
-        {
-            "song_name": "Slowdown",
-            "artists": [
-                "Clip Aloe"
-            ],
-            "album": "Slowdown",
-            "played_at": "31/12/2025 - 07:24:03"
-        },
-        {
-            "song_name": "Exhale",
-            "artists": [
-                "Placidous"
-            ],
-            "album": "Exhale",
-            "played_at": "31/12/2025 - 07:21:33"
-        },
-        {
-            "song_name": "Lotus",
-            "artists": [
-                "Sol Reya"
-            ],
-            "album": "Lotus",
-            "played_at": "31/12/2025 - 07:18:33"
-        },
-        {
-            "song_name": "Beyond the Moon",
-            "artists": [
-                "Novah Scotia"
-            ],
-            "album": "Beyond the Moon",
-            "played_at": "31/12/2025 - 07:16:33"
-        },
-        {
-            "song_name": "Gentle",
-            "artists": [
-                "Waves of Life"
-            ],
-            "album": "Gentle",
-            "played_at": "31/12/2025 - 07:13:33"
-        },
-        {
-            "song_name": "Gateway Glitter",
-            "artists": [
-                "Universal Balance"
-            ],
-            "album": "Gateway Glitter",
-            "played_at": "31/12/2025 - 07:11:03"
-        },
-        {
-            "song_name": "Reverberations",
-            "artists": [
-                "Galaxarastra"
-            ],
-            "album": "Reverberations",
-            "played_at": "31/12/2025 - 07:08:33"
-        },
-        {
-            "song_name": "Evanescent",
-            "artists": [
-                "Amos Stovall"
-            ],
-            "album": "Evanescent",
-            "played_at": "31/12/2025 - 07:06:03"
-        },
-        {
-            "song_name": "Sage",
-            "artists": [
-                "Ljusnan"
-            ],
-            "album": "Sage",
-            "played_at": "31/12/2025 - 07:03:33"
-        },
-        {
-            "song_name": "Solo",
-            "artists": [
-                "Future"
-            ],
-            "album": "HNDRXX",
-            "played_at": "02/01/2026 - 08:07:35"
-        },
-        {
-            "song_name": "East Liberty",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR TWO",
-            "played_at": "02/01/2026 - 11:28:17"
-        },
-        {
-            "song_name": "5 TO 10",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "HARDSTONE PSYCHO",
-            "played_at": "02/01/2026 - 11:25:44"
-        },
-        {
-            "song_name": "On Me",
-            "artists": [
-                "Sainté"
-            ],
-            "album": "Local Mvp",
-            "played_at": "02/01/2026 - 11:22:13"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "02/01/2026 - 11:20:12"
-        },
-        {
-            "song_name": "FaceTime (feat. Don Toliver)",
-            "artists": [
-                "Lithe",
-                "Don Toliver"
-            ],
-            "album": "Euphoria",
-            "played_at": "02/01/2026 - 11:17:13"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "02/01/2026 - 11:14:42"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "02/01/2026 - 11:34:12"
-        },
-        {
-            "song_name": "‘87 Stingray",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "02/01/2026 - 11:30:43"
-        },
-        {
-            "song_name": "Cry For Me",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "Hurry Up Tomorrow",
-            "played_at": "02/01/2026 - 12:57:24"
-        },
-        {
-            "song_name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-            "artists": [
-                "Metro Boomin",
-                "Coi Leray"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "02/01/2026 - 13:13:28"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "02/01/2026 - 13:10:28"
-        },
-        {
-            "song_name": "Navajo",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Navajo",
-            "played_at": "02/01/2026 - 13:08:28"
-        },
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "02/01/2026 - 13:03:58"
-        },
-        {
-            "song_name": "Cry For Me",
-            "artists": [
-                "The Weeknd"
-            ],
-            "album": "Hurry Up Tomorrow",
-            "played_at": "02/01/2026 - 13:01:29"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "02/01/2026 - 14:23:31"
-        },
         {
             "song_name": "Swim Good",
             "artists": [
@@ -1728,6 +1364,368 @@
             ],
             "album": "CAN'T RUSH GREATNESS",
             "played_at": "10/01/2026 - 06:35:46"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "13/01/2026 - 10:23:04"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "13/01/2026 - 09:26:53"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "13/01/2026 - 09:14:31"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "13/01/2026 - 09:08:32"
+        },
+        {
+            "song_name": "Take on Me",
+            "artists": [
+                "a-ha"
+            ],
+            "album": "Hunting High and Low",
+            "played_at": "12/01/2026 - 20:14:51"
+        },
+        {
+            "song_name": "No Woman No Cry",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Take The Heat Off Me",
+            "played_at": "12/01/2026 - 20:04:33"
+        },
+        {
+            "song_name": "Stumblin' In - 2017 Remaster",
+            "artists": [
+                "Chris Norman",
+                "Suzi Quatro"
+            ],
+            "album": "Stumblin' In (2017 Remaster)",
+            "played_at": "12/01/2026 - 19:57:31"
+        },
+        {
+            "song_name": "Bahama Mama",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Oceans Of Fantasy",
+            "played_at": "12/01/2026 - 19:52:12"
+        },
+        {
+            "song_name": "La Isla Bonita",
+            "artists": [
+                "Madonna"
+            ],
+            "album": "True Blue",
+            "played_at": "12/01/2026 - 19:49:17"
+        },
+        {
+            "song_name": "Hold the Line",
+            "artists": [
+                "TOTO"
+            ],
+            "album": "Toto",
+            "played_at": "12/01/2026 - 19:45:04"
+        },
+        {
+            "song_name": "Down Under",
+            "artists": [
+                "Men At Work"
+            ],
+            "album": "Business As Usual",
+            "played_at": "12/01/2026 - 19:41:02"
+        },
+        {
+            "song_name": "Caribbean Queen (No More Love On the Run)",
+            "artists": [
+                "Billy Ocean"
+            ],
+            "album": "The Very Best of Billy Ocean",
+            "played_at": "12/01/2026 - 19:37:01"
+        },
+        {
+            "song_name": "Ma Baker",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Love For Sale",
+            "played_at": "12/01/2026 - 19:33:03"
+        },
+        {
+            "song_name": "Maneater",
+            "artists": [
+                "Daryl Hall & John Oates"
+            ],
+            "album": "H2O",
+            "played_at": "12/01/2026 - 19:28:31"
+        },
+        {
+            "song_name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+            "artists": [
+                "Bee Gees"
+            ],
+            "album": "Greatest",
+            "played_at": "12/01/2026 - 19:24:02"
+        },
+        {
+            "song_name": "Self Control",
+            "artists": [
+                "Laura Branigan"
+            ],
+            "album": "Self Control",
+            "played_at": "12/01/2026 - 19:18:32"
+        },
+        {
+            "song_name": "Sunny",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Take The Heat Off Me",
+            "played_at": "12/01/2026 - 19:14:32"
+        },
+        {
+            "song_name": "Little Lies - 2017 Remaster",
+            "artists": [
+                "Fleetwood Mac"
+            ],
+            "album": "Tango In the Night (Deluxe Edition)",
+            "played_at": "12/01/2026 - 19:06:36"
+        },
+        {
+            "song_name": "Fresh",
+            "artists": [
+                "Kool & The Gang"
+            ],
+            "album": "Emergency (Reissue)",
+            "played_at": "12/01/2026 - 17:15:41"
+        },
+        {
+            "song_name": "Rasputin - Single Version",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Fantastic Boney M.",
+            "played_at": "12/01/2026 - 17:10:50"
+        },
+        {
+            "song_name": "September",
+            "artists": [
+                "Earth, Wind & Fire"
+            ],
+            "album": "September (sped up + slowed)",
+            "played_at": "12/01/2026 - 17:03:09"
+        },
+        {
+            "song_name": "Rivers of Babylon",
+            "artists": [
+                "Boney M."
+            ],
+            "album": "Nightflight to Venus",
+            "played_at": "12/01/2026 - 16:55:26"
+        },
+        {
+            "song_name": "La Bamba",
+            "artists": [
+                "Los Lobos"
+            ],
+            "album": "La Bamba / Charlena",
+            "played_at": "12/01/2026 - 16:32:38"
+        },
+        {
+            "song_name": "You Give Love A Bad Name",
+            "artists": [
+                "Bon Jovi"
+            ],
+            "album": "Slippery When Wet",
+            "played_at": "12/01/2026 - 16:26:37"
+        },
+        {
+            "song_name": "East Liberty",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR TWO",
+            "played_at": "12/01/2026 - 16:14:52"
+        },
+        {
+            "song_name": "Hear My Call",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "Hear My Call",
+            "played_at": "12/01/2026 - 15:29:46"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "REVELATIONS",
+            "played_at": "12/01/2026 - 15:15:55"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Lost",
+            "played_at": "12/01/2026 - 15:13:26"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "12/01/2026 - 15:10:24"
+        },
+        {
+            "song_name": "Space & Time",
+            "artists": [
+                "ItsArius",
+                "Lynnic",
+                "ARI."
+            ],
+            "album": "Space & Time",
+            "played_at": "12/01/2026 - 15:06:55"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "12/01/2026 - 15:04:13"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "12/01/2026 - 15:00:55"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "12/01/2026 - 14:57:57"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "12/01/2026 - 14:54:27"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "12/01/2026 - 14:52:00"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "i think i'm addicted",
+            "played_at": "12/01/2026 - 14:47:55"
+        },
+        {
+            "song_name": "My Name Is Not Susan",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "My Name Is Not Susan",
+            "played_at": "12/01/2026 - 14:45:31"
+        },
+        {
+            "song_name": "CAN'T FIND YOU",
+            "artists": [
+                "AVAION",
+                "oskar med k"
+            ],
+            "album": "CAN'T FIND YOU",
+            "played_at": "12/01/2026 - 14:43:31"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "12/01/2026 - 14:40:11"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "12/01/2026 - 14:37:25"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "12/01/2026 - 14:33:55"
+        },
+        {
+            "song_name": "Why Don't You Stay",
+            "artists": [
+                "Lynnic",
+                "ItsArius",
+                "Dinia"
+            ],
+            "album": "Why Don't You Stay",
+            "played_at": "12/01/2026 - 14:30:31"
+        },
+        {
+            "song_name": "Switch",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "12/01/2026 - 14:26:29"
         }
     ]
 }
