@@ -1,14 +1,6 @@
 {
-    "total_plays": 1588,
+    "total_plays": 1589,
     "tracks": [
-        {
-            "song_name": "Swim Good",
-            "artists": [
-                "Frank Ocean"
-            ],
-            "album": "Swim Good",
-            "played_at": "02/01/2026 - 14:20:31"
-        },
         {
             "song_name": "Texts Go Green",
             "artists": [
@@ -1726,6 +1718,14 @@
             ],
             "album": "East Atlanta Love Letter",
             "played_at": "12/01/2026 - 14:26:29"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "13/01/2026 - 16:08:32"
         }
     ]
 }
