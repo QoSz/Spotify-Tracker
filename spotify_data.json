@@ -1,24 +1,6 @@
 {
-    "total_plays": 1616,
+    "total_plays": 1618,
     "tracks": [
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Juicy J",
-                "Quavo"
-            ],
-            "album": "TYCOON",
-            "played_at": "06/01/2026 - 11:05:52"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "06/01/2026 - 11:05:50"
-        },
         {
             "song_name": "London2Paris",
             "artists": [
@@ -1728,6 +1710,24 @@
             ],
             "album": "Reclusive",
             "played_at": "16/01/2026 - 13:46:41"
+        },
+        {
+            "song_name": "Lullaby",
+            "artists": [
+                "JayDon",
+                "Paradise"
+            ],
+            "album": "Me My Songs & I",
+            "played_at": "16/01/2026 - 15:59:12"
+        },
+        {
+            "song_name": "Lullaby",
+            "artists": [
+                "JayDon",
+                "Paradise"
+            ],
+            "album": "Me My Songs & I",
+            "played_at": "16/01/2026 - 15:57:52"
         }
     ]
 }
