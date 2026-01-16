@@ -1,14 +1,6 @@
 {
-    "total_plays": 1615,
+    "total_plays": 1616,
     "tracks": [
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "06/01/2026 - 12:05:18"
-        },
         {
             "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
             "artists": [
@@ -1728,6 +1720,14 @@
             ],
             "album": "LIVE.LOVE.A$AP",
             "played_at": "16/01/2026 - 12:02:20"
+        },
+        {
+            "song_name": "Reclusive",
+            "artists": [
+                "Elmiene"
+            ],
+            "album": "Reclusive",
+            "played_at": "16/01/2026 - 13:46:41"
         }
     ]
 }
