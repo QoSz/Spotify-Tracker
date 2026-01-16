@@ -1,92 +1,6 @@
 {
-    "total_plays": 1605,
+    "total_plays": 1615,
     "tracks": [
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "05/01/2026 - 14:16:52"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "05/01/2026 - 14:00:13"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "05/01/2026 - 13:52:11"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "05/01/2026 - 13:42:11"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "05/01/2026 - 13:39:11"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "05/01/2026 - 13:36:11"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "05/01/2026 - 13:33:11"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "05/01/2026 - 13:30:11"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Juicy J",
-                "Quavo"
-            ],
-            "album": "TYCOON",
-            "played_at": "05/01/2026 - 13:27:44"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "06/01/2026 - 09:47:54"
-        },
         {
             "song_name": "What You Wanna Try",
             "artists": [
@@ -1731,6 +1645,89 @@
             ],
             "album": "THE FIRST TIME (DELUXE VERSION)",
             "played_at": "14/01/2026 - 12:28:01"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "16/01/2026 - 12:32:18"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "16/01/2026 - 12:32:17"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "16/01/2026 - 12:32:14"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "16/01/2026 - 12:32:10"
+        },
+        {
+            "song_name": "Do It Right",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick",
+            "played_at": "16/01/2026 - 12:32:07"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "16/01/2026 - 12:08:50"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "16/01/2026 - 12:02:23"
+        },
+        {
+            "song_name": "Caught in a Dream",
+            "artists": [
+                "PALASTIC",
+                "LissA"
+            ],
+            "album": "Caught in a Dream",
+            "played_at": "16/01/2026 - 12:02:22"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "16/01/2026 - 12:02:21"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "16/01/2026 - 12:02:20"
         }
     ]
 }
