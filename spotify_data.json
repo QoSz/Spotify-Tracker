@@ -1,53 +1,6 @@
 {
-    "total_plays": 1646,
+    "total_plays": 1651,
     "tracks": [
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "08/01/2026 - 08:20:07"
-        },
-        {
-            "song_name": "DAISIES",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "08/01/2026 - 08:06:17"
-        },
-        {
-            "song_name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "artists": [
-                "A$AP Rocky",
-                "Imogen Heap",
-                "Clams Casino"
-            ],
-            "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-            "played_at": "08/01/2026 - 08:03:17"
-        },
-        {
-            "song_name": "Jo Tum Mere Ho",
-            "artists": [
-                "Anuv Jain"
-            ],
-            "album": "Jo Tum Mere Ho",
-            "played_at": "08/01/2026 - 08:44:35"
-        },
-        {
-            "song_name": "Madhanya",
-            "artists": [
-                "Rahul Vaidya",
-                "Asees Kaur",
-                "Lijo George",
-                "Dj Chetas"
-            ],
-            "album": "Madhanya",
-            "played_at": "08/01/2026 - 08:40:05"
-        },
         {
             "song_name": "Maiyya Mainu",
             "artists": [
@@ -1719,6 +1672,47 @@
             ],
             "album": "TAI CHI",
             "played_at": "16/01/2026 - 17:50:58"
+        },
+        {
+            "song_name": "100",
+            "artists": [
+                "Ella Mai"
+            ],
+            "album": "100",
+            "played_at": "17/01/2026 - 12:55:46"
+        },
+        {
+            "song_name": "Fly",
+            "artists": [
+                "Tone Stith"
+            ],
+            "album": "Fly",
+            "played_at": "17/01/2026 - 12:51:15"
+        },
+        {
+            "song_name": "Lullaby",
+            "artists": [
+                "JayDon",
+                "Paradise"
+            ],
+            "album": "Me My Songs & I",
+            "played_at": "17/01/2026 - 12:47:17"
+        },
+        {
+            "song_name": "Reclusive",
+            "artists": [
+                "Elmiene"
+            ],
+            "album": "Reclusive",
+            "played_at": "17/01/2026 - 12:43:46"
+        },
+        {
+            "song_name": "Reverberations",
+            "artists": [
+                "Galaxarastra"
+            ],
+            "album": "Reverberations",
+            "played_at": "17/01/2026 - 12:40:17"
         }
     ]
 }
