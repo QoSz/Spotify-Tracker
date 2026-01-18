@@ -1,41 +1,6 @@
 {
-    "total_plays": 1651,
+    "total_plays": 1655,
     "tracks": [
-        {
-            "song_name": "Maiyya Mainu",
-            "artists": [
-                "Sachet Tandon",
-                "Shellee"
-            ],
-            "album": "Jersey (Original Motion Picture Soundtrack)",
-            "played_at": "08/01/2026 - 08:36:35"
-        },
-        {
-            "song_name": "Tu Jaana Na Piya",
-            "artists": [
-                "King"
-            ],
-            "album": "NEW LIFE",
-            "played_at": "08/01/2026 - 08:32:35"
-        },
-        {
-            "song_name": "Nasamajh",
-            "artists": [
-                "Aditya Rikhari"
-            ],
-            "album": "Nasamajh",
-            "played_at": "08/01/2026 - 12:30:27"
-        },
-        {
-            "song_name": "Vida Karo",
-            "artists": [
-                "Arijit Singh",
-                "Jonita Gandhi",
-                "Irshad Kamil"
-            ],
-            "album": "Amar Singh Chamkila (Original Motion Picture Soundtrack)",
-            "played_at": "08/01/2026 - 12:25:57"
-        },
         {
             "song_name": "Main Jahaan Rahoon",
             "artists": [
@@ -1713,6 +1678,39 @@
             ],
             "album": "Reverberations",
             "played_at": "17/01/2026 - 12:40:17"
+        },
+        {
+            "song_name": "Whateverrrr",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "18/01/2026 - 08:16:00"
+        },
+        {
+            "song_name": "Undercover Martyn",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "18/01/2026 - 08:14:51"
+        },
+        {
+            "song_name": "Moon Man",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "I Should Be Home",
+            "played_at": "18/01/2026 - 08:14:50"
+        },
+        {
+            "song_name": "Nights In The Sun (feat. Wizkid)",
+            "artists": [
+                "Odeal",
+                "Wizkid"
+            ],
+            "album": "The Fall That Saved Us",
+            "played_at": "18/01/2026 - 06:17:56"
         }
     ]
 }
