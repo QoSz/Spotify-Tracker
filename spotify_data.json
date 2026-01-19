@@ -1,42 +1,6 @@
 {
-    "total_plays": 1662,
+    "total_plays": 1666,
     "tracks": [
-        {
-            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "21 Savage"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "08/01/2026 - 15:19:52"
-        },
-        {
-            "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-            "artists": [
-                "Metro Boomin",
-                "Travis Scott",
-                "21 Savage"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "08/01/2026 - 14:58:34"
-        },
-        {
-            "song_name": "Rock Bottom",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Rock Bottom",
-            "played_at": "08/01/2026 - 14:31:12"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "08/01/2026 - 14:29:42"
-        },
         {
             "song_name": "Backstage Pass (with Monte Booker & The Drums)",
             "artists": [
@@ -1701,6 +1665,38 @@
             ],
             "album": "JACKBOYS 2",
             "played_at": "19/01/2026 - 18:52:12"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 19:09:18"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 19:06:27"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 19:03:36"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 19:00:45"
         }
     ]
 }
