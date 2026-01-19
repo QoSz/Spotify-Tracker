@@ -1,16 +1,6 @@
 {
-    "total_plays": 1655,
+    "total_plays": 1656,
     "tracks": [
-        {
-            "song_name": "Main Jahaan Rahoon",
-            "artists": [
-                "Himesh Reshammiya",
-                "Rahat Fateh Ali Khan",
-                "Krishna"
-            ],
-            "album": "Namastey London (Original Motion Picture Soundtrack)",
-            "played_at": "08/01/2026 - 12:21:27"
-        },
         {
             "song_name": "Saathiyaa",
             "artists": [
@@ -1711,6 +1701,14 @@
             ],
             "album": "The Fall That Saved Us",
             "played_at": "18/01/2026 - 06:17:56"
+        },
+        {
+            "song_name": "Live Well",
+            "artists": [
+                "Palace"
+            ],
+            "album": "So Long Forever",
+            "played_at": "19/01/2026 - 07:01:15"
         }
     ]
 }
