@@ -1,33 +1,6 @@
 {
-    "total_plays": 1656,
+    "total_plays": 1659,
     "tracks": [
-        {
-            "song_name": "Saathiyaa",
-            "artists": [
-                "Shreya Ghoshal",
-                "Ajay"
-            ],
-            "album": "Singham",
-            "played_at": "08/01/2026 - 12:14:58"
-        },
-        {
-            "song_name": "Sang Rahiyo",
-            "artists": [
-                "Jasleen Royal",
-                "Ujjwal Kashyap"
-            ],
-            "album": "Sang Rahiyo",
-            "played_at": "08/01/2026 - 12:07:40"
-        },
-        {
-            "song_name": "Sang Rahiyo",
-            "artists": [
-                "Jasleen Royal",
-                "Ujjwal Kashyap"
-            ],
-            "album": "Sang Rahiyo",
-            "played_at": "08/01/2026 - 12:07:02"
-        },
         {
             "song_name": "say dat",
             "artists": [
@@ -1709,6 +1682,30 @@
             ],
             "album": "So Long Forever",
             "played_at": "19/01/2026 - 07:01:15"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 18:25:16"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 18:22:25"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "19/01/2026 - 18:19:30"
         }
     ]
 }
