@@ -1,54 +1,6 @@
 {
-    "total_plays": 1675,
+    "total_plays": 1680,
     "tracks": [
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "08/01/2026 - 17:46:23"
-        },
-        {
-            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Bslime",
-                "Don Toliver"
-            ],
-            "album": "Slime Language 2 (Deluxe)",
-            "played_at": "08/01/2026 - 17:43:54"
-        },
-        {
-            "song_name": "No Surprise (feat. Don Toliver & Bslime)",
-            "artists": [
-                "Young Stoner Life",
-                "Young Thug",
-                "Bslime",
-                "Don Toliver"
-            ],
-            "album": "Slime Language 2 (Deluxe)",
-            "played_at": "08/01/2026 - 17:38:24"
-        },
-        {
-            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "08/01/2026 - 15:50:19"
-        },
-        {
-            "song_name": "Survivor’s Remorse",
-            "artists": [
-                "Roddy Ricch"
-            ],
-            "album": "Survivor’s Remorse",
-            "played_at": "08/01/2026 - 15:46:18"
-        },
         {
             "song_name": "Nights Like This",
             "artists": [
@@ -1688,6 +1640,48 @@
             ],
             "album": "JACKBOYS 2",
             "played_at": "20/01/2026 - 08:40:04"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Juicy J",
+                "Quavo"
+            ],
+            "album": "TYCOON",
+            "played_at": "20/01/2026 - 15:37:11"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "20/01/2026 - 15:37:05"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "20/01/2026 - 15:36:48"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "20/01/2026 - 14:30:08"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "20/01/2026 - 14:10:44"
         }
     ]
 }
