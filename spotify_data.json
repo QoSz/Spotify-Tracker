@@ -1,79 +1,6 @@
 {
-    "total_plays": 1703,
+    "total_plays": 1711,
     "tracks": [
-        {
-            "song_name": "ALL EYES",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "09/01/2026 - 19:17:53"
-        },
-        {
-            "song_name": "LIFE IS A GAMBLE",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "LIFE IS A GAMBLE",
-            "played_at": "09/01/2026 - 16:00:19"
-        },
-        {
-            "song_name": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "09/01/2026 - 15:57:12"
-        },
-        {
-            "song_name": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "09/01/2026 - 14:26:29"
-        },
-        {
-            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
-            "artists": [
-                "SAINt JHN",
-                "Lil Uzi Vert"
-            ],
-            "album": "While The World Was Burning",
-            "played_at": "09/01/2026 - 13:34:19"
-        },
-        {
-            "song_name": "Go Down (feat. TisaKorean)",
-            "artists": [
-                "Don Toliver",
-                "TisaKorean"
-            ],
-            "album": "Love Sick",
-            "played_at": "09/01/2026 - 13:21:19"
-        },
-        {
-            "song_name": "Pudgy (with Lil Uzi Vert)",
-            "artists": [
-                "Smino",
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv 4 Rent",
-            "played_at": "09/01/2026 - 13:15:55"
-        },
-        {
-            "song_name": "Geronimo",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "09/01/2026 - 12:44:58"
-        },
         {
             "song_name": "Enough",
             "artists": [
@@ -1678,6 +1605,70 @@
             ],
             "album": "Luv Is Rage 2 (Deluxe)",
             "played_at": "21/01/2026 - 14:18:32"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "21/01/2026 - 17:27:57"
+        },
+        {
+            "song_name": "Honeypie",
+            "artists": [
+                "JAWNY"
+            ],
+            "album": "For Abby",
+            "played_at": "21/01/2026 - 17:24:57"
+        },
+        {
+            "song_name": "Through My Teeth",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "21/01/2026 - 17:22:57"
+        },
+        {
+            "song_name": "Stop Sign",
+            "artists": [
+                "DICE"
+            ],
+            "album": "Stop Sign",
+            "played_at": "21/01/2026 - 17:19:28"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "21/01/2026 - 17:16:27"
+        },
+        {
+            "song_name": "Motels",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Motels",
+            "played_at": "21/01/2026 - 17:13:27"
+        },
+        {
+            "song_name": "What You Know",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "21/01/2026 - 17:09:57"
+        },
+        {
+            "song_name": "By Now",
+            "artists": [
+                "Elmiene"
+            ],
+            "album": "Heat The Streets Some Mo'",
+            "played_at": "21/01/2026 - 17:03:57"
         }
     ]
 }
