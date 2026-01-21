@@ -1,32 +1,6 @@
 {
-    "total_plays": 1684,
+    "total_plays": 1687,
     "tracks": [
-        {
-            "song_name": "COLD",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "RENT'S DUE (DELUXE)",
-            "played_at": "09/01/2026 - 06:25:00"
-        },
-        {
-            "song_name": "BLESSING",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "09/01/2026 - 06:22:28"
-        },
-        {
-            "song_name": "My Drug",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Entergalactic",
-            "played_at": "09/01/2026 - 06:16:05"
-        },
         {
             "song_name": "Everyday Hustle",
             "artists": [
@@ -1681,6 +1655,31 @@
             ],
             "album": "Get A Good Look",
             "played_at": "21/01/2026 - 06:08:11"
+        },
+        {
+            "song_name": "TAI CHI",
+            "artists": [
+                "Sasha Keable"
+            ],
+            "album": "TAI CHI",
+            "played_at": "21/01/2026 - 11:26:34"
+        },
+        {
+            "song_name": "Nights In The Sun (feat. Wizkid)",
+            "artists": [
+                "Odeal",
+                "Wizkid"
+            ],
+            "album": "The Fall That Saved Us",
+            "played_at": "21/01/2026 - 11:23:04"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "21/01/2026 - 11:20:13"
         }
     ]
 }
