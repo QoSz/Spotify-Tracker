@@ -1,41 +1,6 @@
 {
-    "total_plays": 1680,
+    "total_plays": 1684,
     "tracks": [
-        {
-            "song_name": "Nights Like This",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "08/01/2026 - 15:43:48"
-        },
-        {
-            "song_name": "Nights Like This",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "08/01/2026 - 15:38:05"
-        },
-        {
-            "song_name": "I CAN’T LET GO",
-            "artists": [
-                "Lil Tecca",
-                "Don Toliver"
-            ],
-            "album": "PLAN A",
-            "played_at": "08/01/2026 - 15:24:53"
-        },
-        {
-            "song_name": "Cardigan",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Heaven Or Hell",
-            "played_at": "08/01/2026 - 15:22:22"
-        },
         {
             "song_name": "COLD",
             "artists": [
@@ -1682,6 +1647,40 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "20/01/2026 - 14:10:44"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "21/01/2026 - 06:29:23"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "21/01/2026 - 06:29:22"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "21/01/2026 - 06:29:21"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "21/01/2026 - 06:08:11"
         }
     ]
 }
