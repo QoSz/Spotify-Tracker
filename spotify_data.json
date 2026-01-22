@@ -1,31 +1,6 @@
 {
-    "total_plays": 1715,
+    "total_plays": 1718,
     "tracks": [
-        {
-            "song_name": "Sept. 16",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon III: The Chosen",
-            "played_at": "12/01/2026 - 09:52:55"
-        },
-        {
-            "song_name": "Essence (feat. Tems)",
-            "artists": [
-                "Wizkid",
-                "Tems"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "12/01/2026 - 09:46:24"
-        },
-        {
-            "song_name": "High School Reunion",
-            "artists": [
-                "SAINt JHN"
-            ],
-            "album": "Ghetto Lenny's Love Songs",
-            "played_at": "12/01/2026 - 09:42:24"
-        },
         {
             "song_name": "Sandman",
             "artists": [
@@ -1671,6 +1646,31 @@
             ],
             "album": "Favourite Worst Nightmare",
             "played_at": "21/01/2026 - 20:49:46"
+        },
+        {
+            "song_name": "Phuckups (Hold Me)",
+            "artists": [
+                "CARI"
+            ],
+            "album": "FLUX",
+            "played_at": "22/01/2026 - 08:28:14"
+        },
+        {
+            "song_name": "be careful",
+            "artists": [
+                "Gabriel Jacoby"
+            ],
+            "album": "be careful",
+            "played_at": "22/01/2026 - 08:25:43"
+        },
+        {
+            "song_name": "U Can’t Remember - feat. Queen Naija",
+            "artists": [
+                "Kiana Ledé",
+                "Queen Naija"
+            ],
+            "album": "Cut Ties (Deluxe Version)",
+            "played_at": "22/01/2026 - 08:23:40"
         }
     ]
 }
