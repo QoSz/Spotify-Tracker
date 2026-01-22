@@ -1,38 +1,6 @@
 {
-    "total_plays": 1711,
+    "total_plays": 1715,
     "tracks": [
-        {
-            "song_name": "Enough",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Enough",
-            "played_at": "09/01/2026 - 12:42:57"
-        },
-        {
-            "song_name": "Enough",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Enough",
-            "played_at": "09/01/2026 - 12:40:02"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "09/01/2026 - 11:51:21"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "09/01/2026 - 11:35:30"
-        },
         {
             "song_name": "Sept. 16",
             "artists": [
@@ -1669,6 +1637,40 @@
             ],
             "album": "Heat The Streets Some Mo'",
             "played_at": "21/01/2026 - 17:03:57"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "22/01/2026 - 06:26:01"
+        },
+        {
+            "song_name": "It's A Dream (feat. Lil Uzi Vert)",
+            "artists": [
+                "Snow Strippers",
+                "Lil Uzi Vert"
+            ],
+            "album": "April Mixtape 3",
+            "played_at": "22/01/2026 - 06:26:00"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "22/01/2026 - 06:10:09"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "21/01/2026 - 20:49:46"
         }
     ]
 }
