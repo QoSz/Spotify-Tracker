@@ -1,38 +1,6 @@
 {
-    "total_plays": 1797,
+    "total_plays": 1801,
     "tracks": [
-        {
-            "song_name": "have to.",
-            "artists": [
-                "Brent Faiyaz"
-            ],
-            "album": "have to.",
-            "played_at": "14/01/2026 - 12:52:49"
-        },
-        {
-            "song_name": "Time",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "14/01/2026 - 12:49:19"
-        },
-        {
-            "song_name": "Come Back to Earth",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "14/01/2026 - 12:46:19"
-        },
-        {
-            "song_name": "Ladders",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Swimming",
-            "played_at": "14/01/2026 - 12:43:21"
-        },
         {
             "song_name": "Intimidated (feat. H.E.R.)",
             "artists": [
@@ -1648,6 +1616,38 @@
             ],
             "album": "It’s Never Fair, Always True",
             "played_at": "23/01/2026 - 15:32:09"
+        },
+        {
+            "song_name": "Come a Little Closer",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Melophobia",
+            "played_at": "23/01/2026 - 16:15:09"
+        },
+        {
+            "song_name": "Something Good Can Work",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Tourist History",
+            "played_at": "23/01/2026 - 16:11:10"
+        },
+        {
+            "song_name": "Why'd You Only Call Me When You're High?",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "AM",
+            "played_at": "23/01/2026 - 16:08:40"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "23/01/2026 - 16:05:40"
         }
     ]
 }
