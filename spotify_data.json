@@ -1,15 +1,6 @@
 {
-    "total_plays": 1801,
+    "total_plays": 1802,
     "tracks": [
-        {
-            "song_name": "Intimidated (feat. H.E.R.)",
-            "artists": [
-                "KAYTRANADA",
-                "H.E.R."
-            ],
-            "album": "Intimidated",
-            "played_at": "14/01/2026 - 12:38:49"
-        },
         {
             "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
             "artists": [
@@ -1648,6 +1639,14 @@
             ],
             "album": "Where Are You Going?",
             "played_at": "23/01/2026 - 16:05:40"
+        },
+        {
+            "song_name": "Feels Like We Only Go Backwards",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Lonerism",
+            "played_at": "23/01/2026 - 21:09:10"
         }
     ]
 }
