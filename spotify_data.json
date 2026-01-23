@@ -1,33 +1,6 @@
 {
-    "total_plays": 1773,
+    "total_plays": 1776,
     "tracks": [
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "12/01/2026 - 15:10:24"
-        },
-        {
-            "song_name": "Space & Time",
-            "artists": [
-                "ItsArius",
-                "Lynnic",
-                "ARI."
-            ],
-            "album": "Space & Time",
-            "played_at": "12/01/2026 - 15:06:55"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "12/01/2026 - 15:04:13"
-        },
         {
             "song_name": "Where the Sun Goes Down",
             "artists": [
@@ -1652,6 +1625,35 @@
             ],
             "album": "Chixtapes (Trilogy)",
             "played_at": "23/01/2026 - 08:45:03"
+        },
+        {
+            "song_name": "FIRST CLASS LANDING.",
+            "artists": [
+                "AntsLive",
+                "Knucks",
+                "Bawo"
+            ],
+            "album": "FIRST CLASS LANDING.",
+            "played_at": "23/01/2026 - 09:29:37"
+        },
+        {
+            "song_name": "XOXO",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "XOXO",
+            "played_at": "23/01/2026 - 09:06:06"
+        },
+        {
+            "song_name": "Reminders (feat. 6lack, Childish Major, & Anna Field)",
+            "artists": [
+                "Deante' Hitchcock",
+                "6LACK",
+                "Childish Major",
+                "Anna Field"
+            ],
+            "album": "Reminders (feat. 6lack, Childish Major, & Anna Field)",
+            "played_at": "23/01/2026 - 09:03:33"
         }
     ]
 }
