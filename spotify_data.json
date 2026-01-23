@@ -1,41 +1,6 @@
 {
-    "total_plays": 1776,
+    "total_plays": 1780,
     "tracks": [
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "12/01/2026 - 15:00:55"
-        },
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "12/01/2026 - 14:57:57"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "12/01/2026 - 14:54:27"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "12/01/2026 - 14:52:00"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1654,6 +1619,44 @@
             ],
             "album": "Reminders (feat. 6lack, Childish Major, & Anna Field)",
             "played_at": "23/01/2026 - 09:03:33"
+        },
+        {
+            "song_name": "wyd (feat. Bryson Tiller)",
+            "artists": [
+                "Plaqueboymax",
+                "Bryson Tiller"
+            ],
+            "album": "wyd (feat. Bryson Tiller)",
+            "played_at": "23/01/2026 - 15:01:09"
+        },
+        {
+            "song_name": "NEW LINEN 新しいリネン",
+            "artists": [
+                "SamRecks",
+                "Thiago Sub"
+            ],
+            "album": "NEW LINEN 新しいリネン",
+            "played_at": "23/01/2026 - 14:57:41"
+        },
+        {
+            "song_name": "Cops & Robbers - Douvelle19 Summer Sessions Remix",
+            "artists": [
+                "Sammy Virji",
+                "Skepta",
+                "Douvelle19"
+            ],
+            "album": "Next Day Cleaning",
+            "played_at": "23/01/2026 - 14:56:09"
+        },
+        {
+            "song_name": "Cops & Robbers - Douvelle19 Summer Sessions Remix",
+            "artists": [
+                "Sammy Virji",
+                "Skepta",
+                "Douvelle19"
+            ],
+            "album": "Next Day Cleaning",
+            "played_at": "23/01/2026 - 14:55:11"
         }
     ]
 }
