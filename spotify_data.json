@@ -1,46 +1,6 @@
 {
-    "total_plays": 1768,
+    "total_plays": 1773,
     "tracks": [
-        {
-            "song_name": "You Give Love A Bad Name",
-            "artists": [
-                "Bon Jovi"
-            ],
-            "album": "Slippery When Wet",
-            "played_at": "12/01/2026 - 16:26:37"
-        },
-        {
-            "song_name": "East Liberty",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR TWO",
-            "played_at": "12/01/2026 - 16:14:52"
-        },
-        {
-            "song_name": "Hear My Call",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Hear My Call",
-            "played_at": "12/01/2026 - 15:29:46"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "REVELATIONS",
-            "played_at": "12/01/2026 - 15:15:55"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Lost",
-            "played_at": "12/01/2026 - 15:13:26"
-        },
         {
             "song_name": "Reverie",
             "artists": [
@@ -1650,6 +1610,48 @@
             ],
             "album": "Dream of You",
             "played_at": "22/01/2026 - 13:43:21"
+        },
+        {
+            "song_name": "Here, Without Effort",
+            "artists": [
+                "Ashna Lite"
+            ],
+            "album": "Bright Presence",
+            "played_at": "23/01/2026 - 08:59:03"
+        },
+        {
+            "song_name": "567AM",
+            "artists": [
+                "BL3SS"
+            ],
+            "album": "567AM",
+            "played_at": "23/01/2026 - 08:55:03"
+        },
+        {
+            "song_name": "Alive - SG Lewis Remix",
+            "artists": [
+                "Empire Of The Sun",
+                "SG Lewis"
+            ],
+            "album": "Alive (SG Lewis Remix)",
+            "played_at": "23/01/2026 - 08:52:33"
+        },
+        {
+            "song_name": "Ever Since U Left Me (I Went Deaf)",
+            "artists": [
+                "French Montana",
+                "Max B"
+            ],
+            "album": "Coke Wave 3.5: Narcos",
+            "played_at": "23/01/2026 - 08:47:32"
+        },
+        {
+            "song_name": "Let Me - Bonus",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Chixtapes (Trilogy)",
+            "played_at": "23/01/2026 - 08:45:03"
         }
     ]
 }
