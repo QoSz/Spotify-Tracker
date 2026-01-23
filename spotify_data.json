@@ -1,71 +1,6 @@
 {
-    "total_plays": 1780,
+    "total_plays": 1787,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "i think i'm addicted",
-            "played_at": "12/01/2026 - 14:47:55"
-        },
-        {
-            "song_name": "My Name Is Not Susan",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "My Name Is Not Susan",
-            "played_at": "12/01/2026 - 14:45:31"
-        },
-        {
-            "song_name": "CAN'T FIND YOU",
-            "artists": [
-                "AVAION",
-                "oskar med k"
-            ],
-            "album": "CAN'T FIND YOU",
-            "played_at": "12/01/2026 - 14:43:31"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "12/01/2026 - 14:40:11"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "12/01/2026 - 14:37:25"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "12/01/2026 - 14:33:55"
-        },
-        {
-            "song_name": "Why Don't You Stay",
-            "artists": [
-                "Lynnic",
-                "ItsArius",
-                "Dinia"
-            ],
-            "album": "Why Don't You Stay",
-            "played_at": "12/01/2026 - 14:30:31"
-        },
         {
             "song_name": "Switch",
             "artists": [
@@ -1657,6 +1592,64 @@
             ],
             "album": "Next Day Cleaning",
             "played_at": "23/01/2026 - 14:55:11"
+        },
+        {
+            "song_name": "The Beach",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "23/01/2026 - 15:28:39"
+        },
+        {
+            "song_name": "Half Mast",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "23/01/2026 - 15:24:54"
+        },
+        {
+            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
+            "artists": [
+                "Drake",
+                "Peter Bjorn and John"
+            ],
+            "album": "So Far Gone",
+            "played_at": "23/01/2026 - 15:20:40"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "23/01/2026 - 15:16:40"
+        },
+        {
+            "song_name": "Westcoast Collective",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "23/01/2026 - 15:14:13"
+        },
+        {
+            "song_name": "On Your Way Down",
+            "artists": [
+                "The Jungle Giants"
+            ],
+            "album": "Quiet Ferocity",
+            "played_at": "23/01/2026 - 15:12:09"
+        },
+        {
+            "song_name": "Opening Night",
+            "artists": [
+                "Arctic Monkeys",
+                "War Child Records"
+            ],
+            "album": "Opening Night",
+            "played_at": "23/01/2026 - 15:05:39"
         }
     ]
 }
