@@ -1,34 +1,6 @@
 {
-    "total_plays": 1802,
+    "total_plays": 1805,
     "tracks": [
-        {
-            "song_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "artists": [
-                "Metro Boomin",
-                "Swae Lee",
-                "NAV",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "14/01/2026 - 12:35:19"
-        },
-        {
-            "song_name": "Pretty Little Fears (feat. J. Cole)",
-            "artists": [
-                "6LACK",
-                "J. Cole"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "14/01/2026 - 12:31:52"
-        },
-        {
-            "song_name": "BABY I'M BACK",
-            "artists": [
-                "The Kid LAROI"
-            ],
-            "album": "THE FIRST TIME (DELUXE VERSION)",
-            "played_at": "14/01/2026 - 12:28:01"
-        },
         {
             "song_name": "Go Crazy",
             "artists": [
@@ -1647,6 +1619,31 @@
             ],
             "album": "Lonerism",
             "played_at": "23/01/2026 - 21:09:10"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "24/01/2026 - 09:20:39"
+        },
+        {
+            "song_name": "White Iverson",
+            "artists": [
+                "Post Malone"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "24/01/2026 - 09:20:38"
+        },
+        {
+            "song_name": "The Way Life Goes (feat. Oh Wonder)",
+            "artists": [
+                "Lil Uzi Vert",
+                "Oh Wonder"
+            ],
+            "album": "Luv Is Rage 2",
+            "played_at": "24/01/2026 - 08:06:07"
         }
     ]
 }
