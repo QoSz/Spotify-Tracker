@@ -1,14 +1,6 @@
 {
-    "total_plays": 1807,
+    "total_plays": 1808,
     "tracks": [
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "16/01/2026 - 12:32:14"
-        },
         {
             "song_name": "LOYAL (feat. Drake)",
             "artists": [
@@ -1644,6 +1636,14 @@
             ],
             "album": "Lonerism",
             "played_at": "24/01/2026 - 11:28:48"
+        },
+        {
+            "song_name": "Black Madonna",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Social Cues",
+            "played_at": "24/01/2026 - 11:32:33"
         }
     ]
 }
