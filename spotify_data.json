@@ -1,14 +1,6 @@
 {
-    "total_plays": 1806,
+    "total_plays": 1807,
     "tracks": [
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "16/01/2026 - 12:32:17"
-        },
         {
             "song_name": "Replay",
             "artists": [
@@ -1644,6 +1636,14 @@
             ],
             "album": "The Documentary",
             "played_at": "24/01/2026 - 09:48:04"
+        },
+        {
+            "song_name": "Feels Like We Only Go Backwards",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Lonerism",
+            "played_at": "24/01/2026 - 11:28:48"
         }
     ]
 }
