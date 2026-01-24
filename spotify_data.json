@@ -1,15 +1,6 @@
 {
-    "total_plays": 1805,
+    "total_plays": 1806,
     "tracks": [
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "16/01/2026 - 12:32:18"
-        },
         {
             "song_name": "Teenage Fever",
             "artists": [
@@ -1644,6 +1635,15 @@
             ],
             "album": "Luv Is Rage 2",
             "played_at": "24/01/2026 - 08:06:07"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "24/01/2026 - 09:48:04"
         }
     ]
 }
