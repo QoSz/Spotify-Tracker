@@ -1,23 +1,6 @@
 {
-    "total_plays": 1815,
+    "total_plays": 1817,
     "tracks": [
-        {
-            "song_name": "Reclusive",
-            "artists": [
-                "Elmiene"
-            ],
-            "album": "Reclusive",
-            "played_at": "16/01/2026 - 13:46:41"
-        },
-        {
-            "song_name": "Lullaby",
-            "artists": [
-                "JayDon",
-                "Paradise"
-            ],
-            "album": "Me My Songs & I",
-            "played_at": "16/01/2026 - 15:59:12"
-        },
         {
             "song_name": "Lullaby",
             "artists": [
@@ -1642,6 +1625,22 @@
             ],
             "album": "Oysters In My Pocket",
             "played_at": "26/01/2026 - 09:58:07"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "26/01/2026 - 10:28:00"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "26/01/2026 - 10:27:59"
         }
     ]
 }
