@@ -1,23 +1,6 @@
 {
-    "total_plays": 1808,
+    "total_plays": 1810,
     "tracks": [
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "16/01/2026 - 12:32:10"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "16/01/2026 - 12:32:07"
-        },
         {
             "song_name": "Damages",
             "artists": [
@@ -1644,6 +1627,22 @@
             ],
             "album": "Social Cues",
             "played_at": "24/01/2026 - 11:32:33"
+        },
+        {
+            "song_name": "DAYLIGHT DOOM",
+            "artists": [
+                "MOTO BANDIT"
+            ],
+            "album": "DAYLIGHT DOOM",
+            "played_at": "26/01/2026 - 08:46:29"
+        },
+        {
+            "song_name": "Stop Sign",
+            "artists": [
+                "DICE"
+            ],
+            "album": "Stop Sign",
+            "played_at": "26/01/2026 - 08:44:00"
         }
     ]
 }
