@@ -1,46 +1,6 @@
 {
-    "total_plays": 1827,
+    "total_plays": 1832,
     "tracks": [
-        {
-            "song_name": "Aetheric",
-            "artists": [
-                "Dominum Nominum"
-            ],
-            "album": "Aetheric",
-            "played_at": "17/01/2026 - 06:40:24"
-        },
-        {
-            "song_name": "Breathing Cosmos",
-            "artists": [
-                "A Deeper Sense"
-            ],
-            "album": "Breathing Cosmos",
-            "played_at": "17/01/2026 - 06:37:24"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Lose It All (I Don't Wanna)",
-            "played_at": "17/01/2026 - 06:35:44"
-        },
-        {
-            "song_name": "Ultraviolet",
-            "artists": [
-                "Nebuu"
-            ],
-            "album": "Ultraviolet",
-            "played_at": "17/01/2026 - 06:34:53"
-        },
-        {
-            "song_name": "One Earth",
-            "artists": [
-                "Mountain Explorer"
-            ],
-            "album": "One Earth",
-            "played_at": "17/01/2026 - 06:31:24"
-        },
         {
             "song_name": "Primordial",
             "artists": [
@@ -1639,6 +1599,56 @@
             ],
             "album": "Sunlight",
             "played_at": "26/01/2026 - 16:17:00"
+        },
+        {
+            "song_name": "I Adore You (feat. Daecolm)",
+            "artists": [
+                "HUGEL",
+                "Topic",
+                "Arash",
+                "Daecolm"
+            ],
+            "album": "I Adore You (feat. Daecolm)",
+            "played_at": "26/01/2026 - 19:00:30"
+        },
+        {
+            "song_name": "Move",
+            "artists": [
+                "Adam Port",
+                "Stryv",
+                "Keinemusik",
+                "Orso",
+                "Malachiii"
+            ],
+            "album": "Move",
+            "played_at": "26/01/2026 - 18:56:53"
+        },
+        {
+            "song_name": "Think About Us",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb"
+            ],
+            "album": "Think About Us",
+            "played_at": "26/01/2026 - 18:53:55"
+        },
+        {
+            "song_name": "Blessings",
+            "artists": [
+                "Calvin Harris",
+                "Clementine Douglas"
+            ],
+            "album": "Blessings",
+            "played_at": "26/01/2026 - 18:50:57"
+        },
+        {
+            "song_name": "Dreams",
+            "artists": [
+                "CHILL TAPES"
+            ],
+            "album": "LOFI VIBES",
+            "played_at": "26/01/2026 - 18:46:51"
         }
     ]
 }
