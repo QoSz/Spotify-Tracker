@@ -1,54 +1,6 @@
 {
-    "total_plays": 1841,
+    "total_plays": 1847,
     "tracks": [
-        {
-            "song_name": "Ascension",
-            "artists": [
-                "Astralis Flow"
-            ],
-            "album": "Ascension",
-            "played_at": "17/01/2026 - 06:06:23"
-        },
-        {
-            "song_name": "Gravitationally Bound",
-            "artists": [
-                "Triangular Prism III"
-            ],
-            "album": "Gravitationally Bound",
-            "played_at": "17/01/2026 - 06:03:53"
-        },
-        {
-            "song_name": "Mild Night",
-            "artists": [
-                "Deltachromatique"
-            ],
-            "album": "Mild Night",
-            "played_at": "17/01/2026 - 06:00:53"
-        },
-        {
-            "song_name": "Dreampond",
-            "artists": [
-                "Liv Joy"
-            ],
-            "album": "Dreampond",
-            "played_at": "17/01/2026 - 05:58:23"
-        },
-        {
-            "song_name": "TAI CHI",
-            "artists": [
-                "Sasha Keable"
-            ],
-            "album": "TAI CHI",
-            "played_at": "16/01/2026 - 17:50:58"
-        },
-        {
-            "song_name": "100",
-            "artists": [
-                "Ella Mai"
-            ],
-            "album": "100",
-            "played_at": "17/01/2026 - 12:55:46"
-        },
         {
             "song_name": "Fly",
             "artists": [
@@ -1664,6 +1616,61 @@
             ],
             "album": "Sweet Nothing (2025 Edit)",
             "played_at": "26/01/2026 - 19:03:51"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "26/01/2026 - 19:48:27"
+        },
+        {
+            "song_name": "Dirty Cash (Money Talks)",
+            "artists": [
+                "PAWSA",
+                "The Adventures Of Stevie V"
+            ],
+            "album": "Dirty Cash (Money Talks)",
+            "played_at": "26/01/2026 - 19:44:05"
+        },
+        {
+            "song_name": "Wounds",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Wounds",
+            "played_at": "26/01/2026 - 19:40:23"
+        },
+        {
+            "song_name": "It Feels So Good",
+            "artists": [
+                "Matt Sassari",
+                "HUGEL",
+                "Sonique"
+            ],
+            "album": "It Feels So Good",
+            "played_at": "26/01/2026 - 19:37:24"
+        },
+        {
+            "song_name": "Sweet Disposition (a moment, a love)",
+            "artists": [
+                "Lost Frequencies",
+                "The Temper Trap"
+            ],
+            "album": "Sweet Disposition (a moment, a love)",
+            "played_at": "26/01/2026 - 19:35:13"
+        },
+        {
+            "song_name": "Forever (feat. Malou & Yuna)",
+            "artists": [
+                "HUGEL",
+                "Diplo",
+                "Malou",
+                "Yuna"
+            ],
+            "album": "Forever (feat. Malou & Yuna)",
+            "played_at": "26/01/2026 - 19:31:09"
         }
     ]
 }
