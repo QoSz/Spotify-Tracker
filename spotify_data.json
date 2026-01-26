@@ -1,78 +1,6 @@
 {
-    "total_plays": 1832,
+    "total_plays": 1841,
     "tracks": [
-        {
-            "song_name": "Primordial",
-            "artists": [
-                "Everlasting Theta"
-            ],
-            "album": "Primordial",
-            "played_at": "17/01/2026 - 06:28:53"
-        },
-        {
-            "song_name": "Hushed",
-            "artists": [
-                "Celestial Aura"
-            ],
-            "album": "Hushed",
-            "played_at": "17/01/2026 - 06:26:25"
-        },
-        {
-            "song_name": "Starsong",
-            "artists": [
-                "Warmth of Muba"
-            ],
-            "album": "Starsong",
-            "played_at": "17/01/2026 - 06:23:53"
-        },
-        {
-            "song_name": "Corona Australis",
-            "artists": [
-                "Map Of My Mind"
-            ],
-            "album": "Corona Australis",
-            "played_at": "17/01/2026 - 06:21:53"
-        },
-        {
-            "song_name": "Orison",
-            "artists": [
-                "Astral Steps"
-            ],
-            "album": "Orison",
-            "played_at": "17/01/2026 - 06:19:23"
-        },
-        {
-            "song_name": "Time Flies",
-            "artists": [
-                "Hans Jacob"
-            ],
-            "album": "Time Flies",
-            "played_at": "17/01/2026 - 06:16:23"
-        },
-        {
-            "song_name": "Tranquil Tides",
-            "artists": [
-                "Lapeito"
-            ],
-            "album": "Tranquil Tides",
-            "played_at": "17/01/2026 - 06:14:23"
-        },
-        {
-            "song_name": "New Growth",
-            "artists": [
-                "Broadleaf Radio"
-            ],
-            "album": "New Growth",
-            "played_at": "17/01/2026 - 06:11:53"
-        },
-        {
-            "song_name": "The Space Between Dreams",
-            "artists": [
-                "OmniBrain"
-            ],
-            "album": "The Space Between Dreams",
-            "played_at": "17/01/2026 - 06:09:23"
-        },
         {
             "song_name": "Ascension",
             "artists": [
@@ -1649,6 +1577,93 @@
             ],
             "album": "LOFI VIBES",
             "played_at": "26/01/2026 - 18:46:51"
+        },
+        {
+            "song_name": "This Rhythm (feat. RAHH)",
+            "artists": [
+                "Prospa",
+                "RAHH"
+            ],
+            "album": "This Rhythm (feat. RAHH)",
+            "played_at": "26/01/2026 - 19:28:52"
+        },
+        {
+            "song_name": "Free (You Got To Live)",
+            "artists": [
+                "HUGEL",
+                "Ultra Naté"
+            ],
+            "album": "Free (You Got To Live)",
+            "played_at": "26/01/2026 - 19:25:37"
+        },
+        {
+            "song_name": "Make Me Feel Better - 2025 Edit",
+            "artists": [
+                "Alex Adair"
+            ],
+            "album": "Make Me Feel Better (2025 Edit)",
+            "played_at": "26/01/2026 - 19:22:42"
+        },
+        {
+            "song_name": "It's Not Right But It's Okay",
+            "artists": [
+                "Mr. Belt & Wezol"
+            ],
+            "album": "It's Not Right But It's Okay",
+            "played_at": "26/01/2026 - 19:20:14"
+        },
+        {
+            "song_name": "Yamore",
+            "artists": [
+                "MoBlack",
+                "Salif Keita",
+                "Benja (NL)",
+                "Franc Fala",
+                "Cesária Evora"
+            ],
+            "album": "Yamore",
+            "played_at": "26/01/2026 - 19:15:44"
+        },
+        {
+            "song_name": "Somebody (2024)",
+            "artists": [
+                "Gotye",
+                "FISHER",
+                "Chris Lake",
+                "Kimbra",
+                "Sante Sansone"
+            ],
+            "album": "Somebody (2024)",
+            "played_at": "26/01/2026 - 19:11:46"
+        },
+        {
+            "song_name": "Edge of Desire",
+            "artists": [
+                "Jonas Blue",
+                "Malive"
+            ],
+            "album": "Edge of Desire",
+            "played_at": "26/01/2026 - 19:09:02"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "26/01/2026 - 19:06:47"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "26/01/2026 - 19:03:51"
         }
     ]
 }
