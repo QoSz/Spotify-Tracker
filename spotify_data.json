@@ -1,14 +1,6 @@
 {
-    "total_plays": 1814,
+    "total_plays": 1815,
     "tracks": [
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "16/01/2026 - 12:02:20"
-        },
         {
             "song_name": "Reclusive",
             "artists": [
@@ -1642,6 +1634,14 @@
             ],
             "album": "People Watching",
             "played_at": "26/01/2026 - 09:08:24"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "26/01/2026 - 09:58:07"
         }
     ]
 }
