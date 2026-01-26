@@ -1,39 +1,6 @@
 {
-    "total_plays": 1810,
+    "total_plays": 1814,
     "tracks": [
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "16/01/2026 - 12:08:50"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "16/01/2026 - 12:02:23"
-        },
-        {
-            "song_name": "Caught in a Dream",
-            "artists": [
-                "PALASTIC",
-                "LissA"
-            ],
-            "album": "Caught in a Dream",
-            "played_at": "16/01/2026 - 12:02:22"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "16/01/2026 - 12:02:21"
-        },
         {
             "song_name": "Sandman",
             "artists": [
@@ -1643,6 +1610,38 @@
             ],
             "album": "Stop Sign",
             "played_at": "26/01/2026 - 08:44:00"
+        },
+        {
+            "song_name": "Seventeen Going Under",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "26/01/2026 - 09:20:25"
+        },
+        {
+            "song_name": "Shine A Light",
+            "artists": [
+                "BANNERS"
+            ],
+            "album": "Shine A Light",
+            "played_at": "26/01/2026 - 09:15:25"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "26/01/2026 - 09:11:24"
+        },
+        {
+            "song_name": "Arm's Length",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "People Watching",
+            "played_at": "26/01/2026 - 09:08:24"
         }
     ]
 }
