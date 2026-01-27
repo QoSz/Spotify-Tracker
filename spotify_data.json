@@ -1,14 +1,6 @@
 {
-    "total_plays": 1874,
+    "total_plays": 1875,
     "tracks": [
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "20/01/2026 - 08:40:04"
-        },
         {
             "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
             "artists": [
@@ -1678,6 +1670,14 @@
             ],
             "album": "That's Where I Should Be",
             "played_at": "27/01/2026 - 11:33:43"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "27/01/2026 - 12:03:14"
         }
     ]
 }
