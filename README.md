@@ -4,11 +4,11 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**1,879** songs listened to
+**1,880** songs listened to
 
-- **664** unique artists
-- **658** unique albums
-- **837** unique songs
+- **665** unique artists
+- **659** unique albums
+- **838** unique songs
 - **30.6** songs per day (average)
 
 ## Top Artists (All Time)
@@ -17,7 +17,7 @@ Tracking my Spotify listening history.
 2. Drake (106 plays)
 3. Travis Scott (82 plays)
 4. Metro Boomin (67 plays)
-5. Lil Uzi Vert (63 plays)
+5. Future (64 plays)
 
 ## Listening Streak
 

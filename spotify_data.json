@@ -1,14 +1,6 @@
 {
-    "total_plays": 1879,
+    "total_plays": 1880,
     "tracks": [
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "20/01/2026 - 14:10:44"
-        },
         {
             "song_name": "Heart In Pieces",
             "artists": [
@@ -1677,6 +1669,16 @@
             ],
             "album": "Come Find Me (with Clementine Douglas)",
             "played_at": "27/01/2026 - 13:05:25"
+        },
+        {
+            "song_name": "Thrusting (feat. Swae Lee & Future)",
+            "artists": [
+                "Internet Money",
+                "Swae Lee",
+                "Future"
+            ],
+            "album": "B4 The Storm (Expanded Edition)",
+            "played_at": "27/01/2026 - 13:57:33"
         }
     ]
 }
