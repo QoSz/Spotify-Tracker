@@ -1,14 +1,6 @@
 {
-    "total_plays": 1863,
+    "total_plays": 1864,
     "tracks": [
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 19:06:27"
-        },
         {
             "song_name": "KICK OUT",
             "artists": [
@@ -1673,6 +1665,16 @@
             ],
             "album": "Glow",
             "played_at": "27/01/2026 - 09:06:50"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "27/01/2026 - 11:26:02"
         }
     ]
 }
