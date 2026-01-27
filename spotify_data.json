@@ -1,87 +1,6 @@
 {
-    "total_plays": 1853,
+    "total_plays": 1863,
     "tracks": [
-        {
-            "song_name": "Moon Man",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "I Should Be Home",
-            "played_at": "18/01/2026 - 08:14:50"
-        },
-        {
-            "song_name": "Nights In The Sun (feat. Wizkid)",
-            "artists": [
-                "Odeal",
-                "Wizkid"
-            ],
-            "album": "The Fall That Saved Us",
-            "played_at": "18/01/2026 - 06:17:56"
-        },
-        {
-            "song_name": "Live Well",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "19/01/2026 - 07:01:15"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:25:16"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:22:25"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:19:30"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:57:58"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:55:03"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 18:52:12"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "19/01/2026 - 19:09:18"
-        },
         {
             "song_name": "KICK OUT",
             "artists": [
@@ -1671,6 +1590,89 @@
             ],
             "album": "Ice On The Dune",
             "played_at": "27/01/2026 - 08:38:27"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "27/01/2026 - 09:29:20"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "27/01/2026 - 09:25:48"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "27/01/2026 - 09:23:18"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "27/01/2026 - 09:21:19"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "27/01/2026 - 09:18:50"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "27/01/2026 - 09:15:49"
+        },
+        {
+            "song_name": "I Run",
+            "artists": [
+                "HAVEN.",
+                "Kaitlin Aragon"
+            ],
+            "album": "I Run",
+            "played_at": "27/01/2026 - 09:12:48"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "27/01/2026 - 09:10:48"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "27/01/2026 - 09:06:51"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "27/01/2026 - 09:06:50"
         }
     ]
 }
