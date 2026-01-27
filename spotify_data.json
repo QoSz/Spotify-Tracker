@@ -1,55 +1,6 @@
 {
-    "total_plays": 1847,
+    "total_plays": 1853,
     "tracks": [
-        {
-            "song_name": "Fly",
-            "artists": [
-                "Tone Stith"
-            ],
-            "album": "Fly",
-            "played_at": "17/01/2026 - 12:51:15"
-        },
-        {
-            "song_name": "Lullaby",
-            "artists": [
-                "JayDon",
-                "Paradise"
-            ],
-            "album": "Me My Songs & I",
-            "played_at": "17/01/2026 - 12:47:17"
-        },
-        {
-            "song_name": "Reclusive",
-            "artists": [
-                "Elmiene"
-            ],
-            "album": "Reclusive",
-            "played_at": "17/01/2026 - 12:43:46"
-        },
-        {
-            "song_name": "Reverberations",
-            "artists": [
-                "Galaxarastra"
-            ],
-            "album": "Reverberations",
-            "played_at": "17/01/2026 - 12:40:17"
-        },
-        {
-            "song_name": "Whateverrrr",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "18/01/2026 - 08:16:00"
-        },
-        {
-            "song_name": "Undercover Martyn",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "18/01/2026 - 08:14:51"
-        },
         {
             "song_name": "Moon Man",
             "artists": [
@@ -1671,6 +1622,55 @@
             ],
             "album": "Forever (feat. Malou & Yuna)",
             "played_at": "26/01/2026 - 19:31:09"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "27/01/2026 - 08:54:47"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "27/01/2026 - 08:49:06"
+        },
+        {
+            "song_name": "I Run",
+            "artists": [
+                "HAVEN.",
+                "Kaitlin Aragon"
+            ],
+            "album": "I Run",
+            "played_at": "27/01/2026 - 08:45:27"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "27/01/2026 - 08:42:57"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "27/01/2026 - 08:38:30"
+        },
+        {
+            "song_name": "Alive",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Ice On The Dune",
+            "played_at": "27/01/2026 - 08:38:27"
         }
     ]
 }
