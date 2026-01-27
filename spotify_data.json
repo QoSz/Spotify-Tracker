@@ -1,40 +1,6 @@
 {
-    "total_plays": 1875,
+    "total_plays": 1879,
     "tracks": [
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Juicy J",
-                "Quavo"
-            ],
-            "album": "TYCOON",
-            "played_at": "20/01/2026 - 15:37:11"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "20/01/2026 - 15:37:05"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "20/01/2026 - 15:36:48"
-        },
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "20/01/2026 - 14:30:08"
-        },
         {
             "song_name": "7am On Bridle Path",
             "artists": [
@@ -1678,6 +1644,39 @@
             ],
             "album": "Downtown Light",
             "played_at": "27/01/2026 - 12:03:14"
+        },
+        {
+            "song_name": "Geronimo",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "27/01/2026 - 13:07:28"
+        },
+        {
+            "song_name": "DA WIZARD",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "27/01/2026 - 13:07:27"
+        },
+        {
+            "song_name": "Call My Phone",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Call My Phone",
+            "played_at": "27/01/2026 - 13:07:26"
+        },
+        {
+            "song_name": "Come Find Me (with Clementine Douglas)",
+            "artists": [
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Come Find Me (with Clementine Douglas)",
+            "played_at": "27/01/2026 - 13:05:25"
         }
     ]
 }
