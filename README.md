@@ -4,20 +4,20 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**1,992** songs listened to
+**2,000** songs listened to
 
-- **710** unique artists
-- **701** unique albums
-- **890** unique songs
-- **31.9** songs per day (average)
+- **712** unique artists
+- **706** unique albums
+- **894** unique songs
+- **32.0** songs per day (average)
 
 ## Top Artists (All Time)
 
 1. Don Toliver (127 plays)
-2. Drake (111 plays)
+2. Drake (112 plays)
 3. Travis Scott (83 plays)
 4. Metro Boomin (68 plays)
-5. Future (65 plays)
+5. Kid Cudi (67 plays)
 
 ## Listening Streak
 

@@ -1,70 +1,6 @@
 {
-    "total_plays": 1992,
+    "total_plays": 2000,
     "tracks": [
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "23/01/2026 - 15:44:39"
-        },
-        {
-            "song_name": "Frisky",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Sunburn",
-            "played_at": "23/01/2026 - 15:41:40"
-        },
-        {
-            "song_name": "Rainbow",
-            "artists": [
-                "Cage The Elephant"
-            ],
-            "album": "Neon Pill",
-            "played_at": "23/01/2026 - 15:39:39"
-        },
-        {
-            "song_name": "Hypersonic Missiles",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Hypersonic Missiles",
-            "played_at": "23/01/2026 - 15:36:09"
-        },
-        {
-            "song_name": "adios",
-            "artists": [
-                "JAWNY"
-            ],
-            "album": "It’s Never Fair, Always True",
-            "played_at": "23/01/2026 - 15:32:09"
-        },
-        {
-            "song_name": "Come a Little Closer",
-            "artists": [
-                "Cage The Elephant"
-            ],
-            "album": "Melophobia",
-            "played_at": "23/01/2026 - 16:15:09"
-        },
-        {
-            "song_name": "Something Good Can Work",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "23/01/2026 - 16:11:10"
-        },
-        {
-            "song_name": "Why'd You Only Call Me When You're High?",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "AM",
-            "played_at": "23/01/2026 - 16:08:40"
-        },
         {
             "song_name": "Now I Know You",
             "artists": [
@@ -1714,6 +1650,73 @@
             ],
             "album": "This Rhythm (feat. RAHH)",
             "played_at": "28/01/2026 - 19:20:44"
+        },
+        {
+            "song_name": "So High (feat. Ghost Loft)",
+            "artists": [
+                "Wiz Khalifa",
+                "Ghost Loft"
+            ],
+            "album": "Blacc Hollywood (Deluxe)",
+            "played_at": "28/01/2026 - 19:59:06"
+        },
+        {
+            "song_name": "My Drug",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Entergalactic",
+            "played_at": "28/01/2026 - 19:55:07"
+        },
+        {
+            "song_name": "Blame On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "28/01/2026 - 19:53:07"
+        },
+        {
+            "song_name": "The Chase",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "The Last Dance, Pt 2",
+            "played_at": "28/01/2026 - 19:46:37"
+        },
+        {
+            "song_name": "don’t i (feat. Gunna)",
+            "artists": [
+                "Roddy Ricch",
+                "Gunna"
+            ],
+            "album": "LIVE LIFE FAST",
+            "played_at": "28/01/2026 - 19:43:45"
+        },
+        {
+            "song_name": "Ordinary",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "You'll Be Alright, Kid (Chapter 1)",
+            "played_at": "28/01/2026 - 19:39:37"
+        },
+        {
+            "song_name": "Which One (feat. Central Cee)",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "Which One",
+            "played_at": "28/01/2026 - 19:36:41"
+        },
+        {
+            "song_name": "The Prayer",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "A Kid Named Cudi",
+            "played_at": "28/01/2026 - 19:33:44"
         }
     ]
 }
