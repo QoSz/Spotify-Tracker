@@ -1,80 +1,6 @@
 {
-    "total_plays": 1895,
+    "total_plays": 1904,
     "tracks": [
-        {
-            "song_name": "Come Thru",
-            "artists": [
-                "Lekan"
-            ],
-            "album": "Come Thru",
-            "played_at": "21/01/2026 - 16:32:27"
-        },
-        {
-            "song_name": "Money Longer",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Lil Uzi Vert vs. The World",
-            "played_at": "21/01/2026 - 14:38:19"
-        },
-        {
-            "song_name": "Just Wanna Rock",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Pink Tape",
-            "played_at": "21/01/2026 - 14:34:51"
-        },
-        {
-            "song_name": "Homecoming",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "21/01/2026 - 14:32:35"
-        },
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "21/01/2026 - 14:28:57"
-        },
-        {
-            "song_name": "XO Tour Llif3",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "21/01/2026 - 14:25:25"
-        },
-        {
-            "song_name": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
-            "artists": [
-                "Juice WRLD",
-                "Lil Uzi Vert"
-            ],
-            "album": "Goodbye & Good Riddance (Anniversary)",
-            "played_at": "21/01/2026 - 14:22:27"
-        },
-        {
-            "song_name": "20 Min",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Luv Is Rage 2 (Deluxe)",
-            "played_at": "21/01/2026 - 14:18:32"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "21/01/2026 - 17:27:57"
-        },
         {
             "song_name": "Honeypie",
             "artists": [
@@ -1679,6 +1605,84 @@
             ],
             "album": "over time",
             "played_at": "28/01/2026 - 09:31:34"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "28/01/2026 - 10:31:29"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "28/01/2026 - 10:29:20"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "28/01/2026 - 10:26:51"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "28/01/2026 - 10:24:20"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "28/01/2026 - 10:21:21"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "28/01/2026 - 10:19:20"
+        },
+        {
+            "song_name": "CARMEN - 8181 Enzo Remix",
+            "artists": [
+                "Airmow",
+                "Reiyo The Giant",
+                "Enzo"
+            ],
+            "album": "CARMEN (8181 Enzo Remix)",
+            "played_at": "28/01/2026 - 10:15:53"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "28/01/2026 - 10:12:23"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "28/01/2026 - 10:09:28"
         }
     ]
 }
