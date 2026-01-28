@@ -1,80 +1,6 @@
 {
-    "total_plays": 1919,
+    "total_plays": 1928,
     "tracks": [
-        {
-            "song_name": "Piha Lounging",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Piha Lounging",
-            "played_at": "22/01/2026 - 17:17:57"
-        },
-        {
-            "song_name": "WORTHLESS",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "Petals to Thorns",
-            "played_at": "22/01/2026 - 17:15:18"
-        },
-        {
-            "song_name": "Goodie Bag",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Goodie Bag",
-            "played_at": "22/01/2026 - 17:08:22"
-        },
-        {
-            "song_name": "Ripple",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "22/01/2026 - 17:05:34"
-        },
-        {
-            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
-            "artists": [
-                "Smino",
-                "monte booker",
-                "The Drums"
-            ],
-            "album": "Backstage Pass (with Monte Booker & The Drums)",
-            "played_at": "22/01/2026 - 17:03:05"
-        },
-        {
-            "song_name": "How Much Is Weed?",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Sunburn",
-            "played_at": "22/01/2026 - 16:59:05"
-        },
-        {
-            "song_name": "Standing On The Shore",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Walking On A Dream (10th Anniversary Edition)",
-            "played_at": "22/01/2026 - 16:57:04"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "22/01/2026 - 16:52:34"
-        },
-        {
-            "song_name": "Magic",
-            "artists": [
-                "Olympic Ayres"
-            ],
-            "album": "Episode III",
-            "played_at": "22/01/2026 - 16:49:34"
-        },
         {
             "song_name": "DAYLIGHT DOOM",
             "artists": [
@@ -1693,6 +1619,84 @@
             ],
             "album": "Miss You So",
             "played_at": "28/01/2026 - 11:03:44"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "28/01/2026 - 11:59:19"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "28/01/2026 - 11:56:14"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "28/01/2026 - 11:52:44"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "28/01/2026 - 11:50:14"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "28/01/2026 - 11:47:14"
+        },
+        {
+            "song_name": "Deeper",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "28/01/2026 - 11:44:45"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "28/01/2026 - 11:41:14"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "28/01/2026 - 11:36:51"
+        },
+        {
+            "song_name": "cloud chaser",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "28/01/2026 - 11:33:44"
         }
     ]
 }
