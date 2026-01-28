@@ -1,22 +1,6 @@
 {
-    "total_plays": 1931,
+    "total_plays": 1933,
     "tracks": [
-        {
-            "song_name": "Red Hearts",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Red Hearts",
-            "played_at": "22/01/2026 - 16:35:34"
-        },
-        {
-            "song_name": "Designer",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Find A Way",
-            "played_at": "22/01/2026 - 16:32:12"
-        },
         {
             "song_name": "Designer",
             "artists": [
@@ -1700,6 +1684,23 @@
             ],
             "album": "First Contact",
             "played_at": "28/01/2026 - 12:01:15"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "28/01/2026 - 12:45:56"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "28/01/2026 - 12:40:51"
         }
     ]
 }
