@@ -1,14 +1,6 @@
 {
-    "total_plays": 1894,
+    "total_plays": 1895,
     "tracks": [
-        {
-            "song_name": "Come Thru",
-            "artists": [
-                "Lekan"
-            ],
-            "album": "Come Thru",
-            "played_at": "21/01/2026 - 16:32:59"
-        },
         {
             "song_name": "Come Thru",
             "artists": [
@@ -1679,6 +1671,14 @@
             ],
             "album": "Josephine",
             "played_at": "28/01/2026 - 09:03:34"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "28/01/2026 - 09:31:34"
         }
     ]
 }
