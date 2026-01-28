@@ -1,56 +1,6 @@
 {
-    "total_plays": 1986,
+    "total_plays": 1992,
     "tracks": [
-        {
-            "song_name": "Opening Night",
-            "artists": [
-                "Arctic Monkeys",
-                "War Child Records"
-            ],
-            "album": "Opening Night",
-            "played_at": "23/01/2026 - 15:05:39"
-        },
-        {
-            "song_name": "Think Fast (feat. Weezer)",
-            "artists": [
-                "Dominic Fike",
-                "Weezer"
-            ],
-            "album": "Sunburn",
-            "played_at": "23/01/2026 - 16:02:10"
-        },
-        {
-            "song_name": "Cherry Flavoured",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "Chip Chrome & The Mono-Tones",
-            "played_at": "23/01/2026 - 15:58:39"
-        },
-        {
-            "song_name": "can't slow down",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "DIVE",
-            "played_at": "23/01/2026 - 15:55:09"
-        },
-        {
-            "song_name": "Casita",
-            "artists": [
-                "Goth Babe"
-            ],
-            "album": "Casita",
-            "played_at": "23/01/2026 - 15:52:09"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "23/01/2026 - 15:48:39"
-        },
         {
             "song_name": "What You Know",
             "artists": [
@@ -1706,6 +1656,64 @@
             ],
             "album": "Stoney (Deluxe)",
             "played_at": "28/01/2026 - 13:34:40"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "28/01/2026 - 19:30:37"
+        },
+        {
+            "song_name": "They Wanna Have Fun",
+            "artists": [
+                "Metro Boomin",
+                "Travis Porter",
+                "Young Dro",
+                "Gucci Mane",
+                "DJ Spinz"
+            ],
+            "album": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+            "played_at": "28/01/2026 - 19:25:10"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "28/01/2026 - 19:24:59"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "28/01/2026 - 19:22:39"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "28/01/2026 - 19:21:11"
+        },
+        {
+            "song_name": "This Rhythm (feat. RAHH)",
+            "artists": [
+                "Prospa",
+                "RAHH"
+            ],
+            "album": "This Rhythm (feat. RAHH)",
+            "played_at": "28/01/2026 - 19:20:44"
         }
     ]
 }
