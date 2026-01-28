@@ -1,70 +1,6 @@
 {
-    "total_plays": 1933,
+    "total_plays": 1941,
     "tracks": [
-        {
-            "song_name": "Designer",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Find A Way",
-            "played_at": "22/01/2026 - 16:31:35"
-        },
-        {
-            "song_name": "Synchronize",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Trip Tape II",
-            "played_at": "22/01/2026 - 16:15:46"
-        },
-        {
-            "song_name": "who’s your boyfriend",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "22/01/2026 - 16:12:46"
-        },
-        {
-            "song_name": "Shine A Light",
-            "artists": [
-                "BANNERS"
-            ],
-            "album": "Shine A Light",
-            "played_at": "22/01/2026 - 16:09:47"
-        },
-        {
-            "song_name": "Naive",
-            "artists": [
-                "The Kooks"
-            ],
-            "album": "Inside In / Inside Out",
-            "played_at": "22/01/2026 - 16:06:16"
-        },
-        {
-            "song_name": "White Keys",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "White Keys",
-            "played_at": "22/01/2026 - 16:02:46"
-        },
-        {
-            "song_name": "Booster Seat",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "Sunlight",
-            "played_at": "22/01/2026 - 16:00:16"
-        },
-        {
-            "song_name": "Spit Of You",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "22/01/2026 - 15:55:58"
-        },
         {
             "song_name": "forever, with you",
             "artists": [
@@ -1701,6 +1637,74 @@
             ],
             "album": "Missing Me",
             "played_at": "28/01/2026 - 12:40:51"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "28/01/2026 - 13:26:07"
+        },
+        {
+            "song_name": "Slow Motion (feat. Wizkid)",
+            "artists": [
+                "Don Toliver",
+                "Wizkid"
+            ],
+            "album": "Love Sick",
+            "played_at": "28/01/2026 - 13:21:07"
+        },
+        {
+            "song_name": "Best Part (feat. H.E.R.)",
+            "artists": [
+                "Daniel Caesar",
+                "H.E.R."
+            ],
+            "album": "Freudian",
+            "played_at": "28/01/2026 - 13:18:07"
+        },
+        {
+            "song_name": "TAI CHI",
+            "artists": [
+                "Sasha Keable"
+            ],
+            "album": "TAI CHI",
+            "played_at": "28/01/2026 - 13:14:37"
+        },
+        {
+            "song_name": "Suffer",
+            "artists": [
+                "Bex"
+            ],
+            "album": "Suffer",
+            "played_at": "28/01/2026 - 13:11:37"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "28/01/2026 - 13:10:58"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "28/01/2026 - 13:08:44"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "28/01/2026 - 13:08:38"
         }
     ]
 }
