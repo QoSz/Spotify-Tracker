@@ -1,54 +1,6 @@
 {
-    "total_plays": 1904,
+    "total_plays": 1910,
     "tracks": [
-        {
-            "song_name": "Honeypie",
-            "artists": [
-                "JAWNY"
-            ],
-            "album": "For Abby",
-            "played_at": "21/01/2026 - 17:24:57"
-        },
-        {
-            "song_name": "Through My Teeth",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "21/01/2026 - 17:22:57"
-        },
-        {
-            "song_name": "Stop Sign",
-            "artists": [
-                "DICE"
-            ],
-            "album": "Stop Sign",
-            "played_at": "21/01/2026 - 17:19:28"
-        },
-        {
-            "song_name": "cowboy killers",
-            "artists": [
-                "Solo Kei"
-            ],
-            "album": "Wake Up Freezing",
-            "played_at": "21/01/2026 - 17:16:27"
-        },
-        {
-            "song_name": "Motels",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Motels",
-            "played_at": "21/01/2026 - 17:13:27"
-        },
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "21/01/2026 - 17:09:57"
-        },
         {
             "song_name": "By Now",
             "artists": [
@@ -1683,6 +1635,59 @@
             ],
             "album": "Touch Me",
             "played_at": "28/01/2026 - 10:09:28"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "28/01/2026 - 11:01:14"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "28/01/2026 - 10:58:44"
+        },
+        {
+            "song_name": "magnetic magnetic",
+            "artists": [
+                "all things break"
+            ],
+            "album": "magnetic magnetic",
+            "played_at": "28/01/2026 - 10:55:44"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "28/01/2026 - 10:53:44"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "28/01/2026 - 10:37:21"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "28/01/2026 - 10:34:21"
         }
     ]
 }
