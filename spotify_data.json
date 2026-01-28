@@ -1,30 +1,6 @@
 {
-    "total_plays": 1928,
+    "total_plays": 1931,
     "tracks": [
-        {
-            "song_name": "DAYLIGHT DOOM",
-            "artists": [
-                "MOTO BANDIT"
-            ],
-            "album": "DAYLIGHT DOOM",
-            "played_at": "22/01/2026 - 16:45:34"
-        },
-        {
-            "song_name": "Arm's Length",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "People Watching",
-            "played_at": "22/01/2026 - 16:43:05"
-        },
-        {
-            "song_name": "Whateverrrr",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "22/01/2026 - 16:39:04"
-        },
         {
             "song_name": "Red Hearts",
             "artists": [
@@ -1697,6 +1673,33 @@
             ],
             "album": "cloud chaser",
             "played_at": "28/01/2026 - 11:33:44"
+        },
+        {
+            "song_name": "My Name Is Not Susan",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "My Name Is Not Susan",
+            "played_at": "28/01/2026 - 12:06:44"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "28/01/2026 - 12:04:14"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "28/01/2026 - 12:01:15"
         }
     ]
 }
