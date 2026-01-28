@@ -1,81 +1,6 @@
 {
-    "total_plays": 1910,
+    "total_plays": 1919,
     "tracks": [
-        {
-            "song_name": "By Now",
-            "artists": [
-                "Elmiene"
-            ],
-            "album": "Heat The Streets Some Mo'",
-            "played_at": "21/01/2026 - 17:03:57"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "22/01/2026 - 06:26:01"
-        },
-        {
-            "song_name": "It's A Dream (feat. Lil Uzi Vert)",
-            "artists": [
-                "Snow Strippers",
-                "Lil Uzi Vert"
-            ],
-            "album": "April Mixtape 3",
-            "played_at": "22/01/2026 - 06:26:00"
-        },
-        {
-            "song_name": "Erase Your Social",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "22/01/2026 - 06:10:09"
-        },
-        {
-            "song_name": "505",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "Favourite Worst Nightmare",
-            "played_at": "21/01/2026 - 20:49:46"
-        },
-        {
-            "song_name": "Phuckups (Hold Me)",
-            "artists": [
-                "CARI"
-            ],
-            "album": "FLUX",
-            "played_at": "22/01/2026 - 08:28:14"
-        },
-        {
-            "song_name": "be careful",
-            "artists": [
-                "Gabriel Jacoby"
-            ],
-            "album": "be careful",
-            "played_at": "22/01/2026 - 08:25:43"
-        },
-        {
-            "song_name": "U Can’t Remember - feat. Queen Naija",
-            "artists": [
-                "Kiana Ledé",
-                "Queen Naija"
-            ],
-            "album": "Cut Ties (Deluxe Version)",
-            "played_at": "22/01/2026 - 08:23:40"
-        },
-        {
-            "song_name": "505",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "Favourite Worst Nightmare",
-            "played_at": "22/01/2026 - 17:23:19"
-        },
         {
             "song_name": "Piha Lounging",
             "artists": [
@@ -1688,6 +1613,86 @@
             ],
             "album": "Waiting for Love",
             "played_at": "28/01/2026 - 10:34:21"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "28/01/2026 - 11:30:16"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "28/01/2026 - 11:26:14"
+        },
+        {
+            "song_name": "Weyu",
+            "artists": [
+                "Lucas Estrada",
+                "Lenji",
+                "Amadi Blue"
+            ],
+            "album": "Weyu",
+            "played_at": "28/01/2026 - 11:23:45"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "28/01/2026 - 11:21:15"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "28/01/2026 - 11:17:21"
+        },
+        {
+            "song_name": "Say It Right - Rinzen Remix",
+            "artists": [
+                "Nelly Furtado",
+                "Rinzen"
+            ],
+            "album": "Say It Right (Rinzen Remix)",
+            "played_at": "28/01/2026 - 11:13:44"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "28/01/2026 - 11:10:15"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "28/01/2026 - 11:07:19"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "28/01/2026 - 11:03:44"
         }
     ]
 }
