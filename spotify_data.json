@@ -1,14 +1,6 @@
 {
-    "total_plays": 2003,
+    "total_plays": 2004,
     "tracks": [
-        {
-            "song_name": "White Iverson",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Stoney (Deluxe)",
-            "played_at": "24/01/2026 - 09:20:38"
-        },
         {
             "song_name": "The Way Life Goes (feat. Oh Wonder)",
             "artists": [
@@ -1720,6 +1712,15 @@
             ],
             "album": "Tek It (I Watch the Moon)",
             "played_at": "28/01/2026 - 20:03:07"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "28/01/2026 - 21:14:43"
         }
     ]
 }
