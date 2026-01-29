@@ -1,14 +1,6 @@
 {
-    "total_plays": 2011,
+    "total_plays": 2012,
     "tracks": [
-        {
-            "song_name": "Shine A Light",
-            "artists": [
-                "BANNERS"
-            ],
-            "album": "Shine A Light",
-            "played_at": "26/01/2026 - 09:15:25"
-        },
         {
             "song_name": "Sideways",
             "artists": [
@@ -1721,6 +1713,14 @@
             ],
             "album": "Petals to Thorns",
             "played_at": "29/01/2026 - 10:54:08"
+        },
+        {
+            "song_name": "Standing On The Shore",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "29/01/2026 - 11:03:37"
         }
     ]
 }
