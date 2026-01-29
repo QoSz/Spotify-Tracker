@@ -1,400 +1,6 @@
 {
-    "total_plays": 2013,
+    "total_plays": 2058,
     "tracks": [
-        {
-            "song_name": "Arm's Length",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "People Watching",
-            "played_at": "26/01/2026 - 09:08:24"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "26/01/2026 - 09:58:07"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "26/01/2026 - 10:28:00"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "26/01/2026 - 10:27:59"
-        },
-        {
-            "song_name": "Eventually",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Currents",
-            "played_at": "26/01/2026 - 10:39:30"
-        },
-        {
-            "song_name": "Stop Sign",
-            "artists": [
-                "DICE"
-            ],
-            "album": "Stop Sign",
-            "played_at": "26/01/2026 - 10:34:00"
-        },
-        {
-            "song_name": "She Moves In Her Own Way",
-            "artists": [
-                "The Kooks"
-            ],
-            "album": "Inside In / Inside Out",
-            "played_at": "26/01/2026 - 12:22:37"
-        },
-        {
-            "song_name": "She Moves In Her Own Way",
-            "artists": [
-                "The Kooks"
-            ],
-            "album": "Inside In / Inside Out",
-            "played_at": "26/01/2026 - 15:47:04"
-        },
-        {
-            "song_name": "Hypersonic Missiles",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Hypersonic Missiles",
-            "played_at": "26/01/2026 - 16:38:34"
-        },
-        {
-            "song_name": "Crocodile",
-            "artists": [
-                "Goth Babe"
-            ],
-            "album": "Lola",
-            "played_at": "26/01/2026 - 16:34:34"
-        },
-        {
-            "song_name": "Red Hearts",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Red Hearts",
-            "played_at": "26/01/2026 - 16:26:30"
-        },
-        {
-            "song_name": "Designer",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Find A Way",
-            "played_at": "26/01/2026 - 16:23:00"
-        },
-        {
-            "song_name": "Driver",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Driver",
-            "played_at": "26/01/2026 - 16:20:06"
-        },
-        {
-            "song_name": "Booster Seat",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "Sunlight",
-            "played_at": "26/01/2026 - 16:17:00"
-        },
-        {
-            "song_name": "I Adore You (feat. Daecolm)",
-            "artists": [
-                "HUGEL",
-                "Topic",
-                "Arash",
-                "Daecolm"
-            ],
-            "album": "I Adore You (feat. Daecolm)",
-            "played_at": "26/01/2026 - 19:00:30"
-        },
-        {
-            "song_name": "Move",
-            "artists": [
-                "Adam Port",
-                "Stryv",
-                "Keinemusik",
-                "Orso",
-                "Malachiii"
-            ],
-            "album": "Move",
-            "played_at": "26/01/2026 - 18:56:53"
-        },
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "26/01/2026 - 18:53:55"
-        },
-        {
-            "song_name": "Blessings",
-            "artists": [
-                "Calvin Harris",
-                "Clementine Douglas"
-            ],
-            "album": "Blessings",
-            "played_at": "26/01/2026 - 18:50:57"
-        },
-        {
-            "song_name": "Dreams",
-            "artists": [
-                "CHILL TAPES"
-            ],
-            "album": "LOFI VIBES",
-            "played_at": "26/01/2026 - 18:46:51"
-        },
-        {
-            "song_name": "This Rhythm (feat. RAHH)",
-            "artists": [
-                "Prospa",
-                "RAHH"
-            ],
-            "album": "This Rhythm (feat. RAHH)",
-            "played_at": "26/01/2026 - 19:28:52"
-        },
-        {
-            "song_name": "Free (You Got To Live)",
-            "artists": [
-                "HUGEL",
-                "Ultra Naté"
-            ],
-            "album": "Free (You Got To Live)",
-            "played_at": "26/01/2026 - 19:25:37"
-        },
-        {
-            "song_name": "Make Me Feel Better - 2025 Edit",
-            "artists": [
-                "Alex Adair"
-            ],
-            "album": "Make Me Feel Better (2025 Edit)",
-            "played_at": "26/01/2026 - 19:22:42"
-        },
-        {
-            "song_name": "It's Not Right But It's Okay",
-            "artists": [
-                "Mr. Belt & Wezol"
-            ],
-            "album": "It's Not Right But It's Okay",
-            "played_at": "26/01/2026 - 19:20:14"
-        },
-        {
-            "song_name": "Yamore",
-            "artists": [
-                "MoBlack",
-                "Salif Keita",
-                "Benja (NL)",
-                "Franc Fala",
-                "Cesária Evora"
-            ],
-            "album": "Yamore",
-            "played_at": "26/01/2026 - 19:15:44"
-        },
-        {
-            "song_name": "Somebody (2024)",
-            "artists": [
-                "Gotye",
-                "FISHER",
-                "Chris Lake",
-                "Kimbra",
-                "Sante Sansone"
-            ],
-            "album": "Somebody (2024)",
-            "played_at": "26/01/2026 - 19:11:46"
-        },
-        {
-            "song_name": "Edge of Desire",
-            "artists": [
-                "Jonas Blue",
-                "Malive"
-            ],
-            "album": "Edge of Desire",
-            "played_at": "26/01/2026 - 19:09:02"
-        },
-        {
-            "song_name": "Can't Decide",
-            "artists": [
-                "Max Dean",
-                "Luke Dean",
-                "Locky"
-            ],
-            "album": "Can't Decide",
-            "played_at": "26/01/2026 - 19:06:47"
-        },
-        {
-            "song_name": "Sweet Nothing - 2025 Edit",
-            "artists": [
-                "D.O.D",
-                "Calvin Harris",
-                "Florence Welch"
-            ],
-            "album": "Sweet Nothing (2025 Edit)",
-            "played_at": "26/01/2026 - 19:03:51"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "26/01/2026 - 19:48:27"
-        },
-        {
-            "song_name": "Dirty Cash (Money Talks)",
-            "artists": [
-                "PAWSA",
-                "The Adventures Of Stevie V"
-            ],
-            "album": "Dirty Cash (Money Talks)",
-            "played_at": "26/01/2026 - 19:44:05"
-        },
-        {
-            "song_name": "Wounds",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Wounds",
-            "played_at": "26/01/2026 - 19:40:23"
-        },
-        {
-            "song_name": "It Feels So Good",
-            "artists": [
-                "Matt Sassari",
-                "HUGEL",
-                "Sonique"
-            ],
-            "album": "It Feels So Good",
-            "played_at": "26/01/2026 - 19:37:24"
-        },
-        {
-            "song_name": "Sweet Disposition (a moment, a love)",
-            "artists": [
-                "Lost Frequencies",
-                "The Temper Trap"
-            ],
-            "album": "Sweet Disposition (a moment, a love)",
-            "played_at": "26/01/2026 - 19:35:13"
-        },
-        {
-            "song_name": "Forever (feat. Malou & Yuna)",
-            "artists": [
-                "HUGEL",
-                "Diplo",
-                "Malou",
-                "Yuna"
-            ],
-            "album": "Forever (feat. Malou & Yuna)",
-            "played_at": "26/01/2026 - 19:31:09"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "27/01/2026 - 08:54:47"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "27/01/2026 - 08:49:06"
-        },
-        {
-            "song_name": "I Run",
-            "artists": [
-                "HAVEN.",
-                "Kaitlin Aragon"
-            ],
-            "album": "I Run",
-            "played_at": "27/01/2026 - 08:45:27"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "27/01/2026 - 08:42:57"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "27/01/2026 - 08:38:30"
-        },
-        {
-            "song_name": "Alive",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Ice On The Dune",
-            "played_at": "27/01/2026 - 08:38:27"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "27/01/2026 - 09:29:20"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "27/01/2026 - 09:25:48"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "27/01/2026 - 09:23:18"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "27/01/2026 - 09:21:19"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "27/01/2026 - 09:18:50"
-        },
         {
             "song_name": "99 Eyes",
             "artists": [
@@ -1721,6 +1327,376 @@
             ],
             "album": "Man On The Moon II: The Legend Of Mr. Rager",
             "played_at": "29/01/2026 - 12:09:22"
+        },
+        {
+            "song_name": "Under Fire",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Under Fire",
+            "played_at": "29/01/2026 - 17:26:16"
+        },
+        {
+            "song_name": "Bitter",
+            "artists": [
+                "Palace"
+            ],
+            "album": "So Long Forever",
+            "played_at": "29/01/2026 - 17:22:16"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "29/01/2026 - 17:17:18"
+        },
+        {
+            "song_name": "Why Is It Light Out?",
+            "artists": [
+                "The Kilans"
+            ],
+            "album": "Why Is It Light Out?",
+            "played_at": "29/01/2026 - 17:13:46"
+        },
+        {
+            "song_name": "Mary",
+            "artists": [
+                "Alex G"
+            ],
+            "album": "Trick",
+            "played_at": "29/01/2026 - 17:09:46"
+        },
+        {
+            "song_name": "Leave Her",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Withering",
+            "played_at": "29/01/2026 - 17:06:16"
+        },
+        {
+            "song_name": "How Much Is Weed?",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "29/01/2026 - 17:03:46"
+        },
+        {
+            "song_name": "Crocodile",
+            "artists": [
+                "Goth Babe"
+            ],
+            "album": "Lola",
+            "played_at": "29/01/2026 - 17:01:46"
+        },
+        {
+            "song_name": "Window",
+            "artists": [
+                "Still Woozy"
+            ],
+            "album": "If This Isn’t Nice, I Don’t Know What Is",
+            "played_at": "29/01/2026 - 16:57:46"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "The Kooks"
+            ],
+            "album": "Inside In / Inside Out",
+            "played_at": "29/01/2026 - 16:55:46"
+        },
+        {
+            "song_name": "can't slow down",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "DIVE",
+            "played_at": "29/01/2026 - 16:52:16"
+        },
+        {
+            "song_name": "Motels",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Motels",
+            "played_at": "29/01/2026 - 16:49:16"
+        },
+        {
+            "song_name": "Lots of Nothing",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Here Comes Everybody",
+            "played_at": "29/01/2026 - 16:45:46"
+        },
+        {
+            "song_name": "Feeding the Family",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Feeding the Family",
+            "played_at": "29/01/2026 - 16:42:46"
+        },
+        {
+            "song_name": "Come a Little Closer",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Melophobia",
+            "played_at": "29/01/2026 - 16:37:46"
+        },
+        {
+            "song_name": "hospital beach",
+            "artists": [
+                "Cottonwood Firing Squad"
+            ],
+            "album": "you missed the best part",
+            "played_at": "29/01/2026 - 16:33:46"
+        },
+        {
+            "song_name": "Are We Ready? (Wreck)",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Gameshow (Deluxe Edition)",
+            "played_at": "29/01/2026 - 16:31:46"
+        },
+        {
+            "song_name": "On Your Way Down",
+            "artists": [
+                "The Jungle Giants"
+            ],
+            "album": "Quiet Ferocity",
+            "played_at": "29/01/2026 - 16:27:47"
+        },
+        {
+            "song_name": "Little Bit Closer",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "People Watching",
+            "played_at": "29/01/2026 - 16:24:16"
+        },
+        {
+            "song_name": "Red Hearts",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Red Hearts",
+            "played_at": "29/01/2026 - 16:20:16"
+        },
+        {
+            "song_name": "The Boat I Row",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush B-Sides & Remixes",
+            "played_at": "29/01/2026 - 16:17:16"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "29/01/2026 - 16:13:16"
+        },
+        {
+            "song_name": "jupiter",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "DIVE",
+            "played_at": "29/01/2026 - 16:09:46"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "29/01/2026 - 16:06:47"
+        },
+        {
+            "song_name": "Talk No More",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Donny Womack",
+            "played_at": "29/01/2026 - 15:26:40"
+        },
+        {
+            "song_name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+            "artists": [
+                "Internet Money",
+                "Roddy Ricch",
+                "Kodak Black"
+            ],
+            "album": "I Remember (feat. Roddy Ricch & Kodak Black)",
+            "played_at": "29/01/2026 - 15:11:04"
+        },
+        {
+            "song_name": "Anybody",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Anybody",
+            "played_at": "29/01/2026 - 15:05:34"
+        },
+        {
+            "song_name": "500lbs",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC",
+            "played_at": "29/01/2026 - 15:03:43"
+        },
+        {
+            "song_name": "Overdue (with Travis Scott)",
+            "artists": [
+                "Metro Boomin",
+                "Travis Scott"
+            ],
+            "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+            "played_at": "29/01/2026 - 15:01:04"
+        },
+        {
+            "song_name": "ESCAPE PLAN",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "29/01/2026 - 14:58:34"
+        },
+        {
+            "song_name": "Same Old Story",
+            "artists": [
+                "Skepta"
+            ],
+            "album": "Ignorance is Bliss",
+            "played_at": "29/01/2026 - 14:56:14"
+        },
+        {
+            "song_name": "Best You Had",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Best You Had",
+            "played_at": "29/01/2026 - 14:53:05"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "29/01/2026 - 14:50:35"
+        },
+        {
+            "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+            "artists": [
+                "Brent Faiyaz",
+                "N3WYRKLA",
+                "A$AP Rocky"
+            ],
+            "album": "Larger Than Life",
+            "played_at": "29/01/2026 - 14:48:05"
+        },
+        {
+            "song_name": "Dua Lipa",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Come Home The Kids Miss You",
+            "played_at": "29/01/2026 - 14:44:35"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "29/01/2026 - 14:42:35"
+        },
+        {
+            "song_name": "Try Me",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Try Me",
+            "played_at": "29/01/2026 - 14:40:04"
+        },
+        {
+            "song_name": "HVN ON EARTH (with Kodak Black)",
+            "artists": [
+                "Lil Tecca",
+                "Kodak Black"
+            ],
+            "album": "TEC",
+            "played_at": "29/01/2026 - 14:38:04"
+        },
+        {
+            "song_name": "Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)",
+            "artists": [
+                "Metro Boomin",
+                "James Blake",
+                "A$AP Rocky",
+                "21 Savage"
+            ],
+            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "played_at": "29/01/2026 - 14:35:04"
+        },
+        {
+            "song_name": "MAFIA",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ESCAPE PLAN / MAFIA",
+            "played_at": "29/01/2026 - 14:31:35"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "29/01/2026 - 14:27:35"
+        },
+        {
+            "song_name": "Fall Back (feat. Lil Tjay)",
+            "artists": [
+                "Lithe",
+                "Lil Tjay"
+            ],
+            "album": "Fall Back (feat. Lil Tjay)",
+            "played_at": "29/01/2026 - 14:12:59"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "29/01/2026 - 14:12:50"
+        },
+        {
+            "song_name": "Man of the Year",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Man of the Year",
+            "played_at": "29/01/2026 - 14:12:49"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "29/01/2026 - 13:53:38"
         }
     ]
 }
