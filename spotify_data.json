@@ -1,40 +1,6 @@
 {
-    "total_plays": 2004,
+    "total_plays": 2008,
     "tracks": [
-        {
-            "song_name": "The Way Life Goes (feat. Oh Wonder)",
-            "artists": [
-                "Lil Uzi Vert",
-                "Oh Wonder"
-            ],
-            "album": "Luv Is Rage 2",
-            "played_at": "24/01/2026 - 08:06:07"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "24/01/2026 - 09:48:04"
-        },
-        {
-            "song_name": "Feels Like We Only Go Backwards",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Lonerism",
-            "played_at": "24/01/2026 - 11:28:48"
-        },
-        {
-            "song_name": "Black Madonna",
-            "artists": [
-                "Cage The Elephant"
-            ],
-            "album": "Social Cues",
-            "played_at": "24/01/2026 - 11:32:33"
-        },
         {
             "song_name": "DAYLIGHT DOOM",
             "artists": [
@@ -1721,6 +1687,40 @@
             ],
             "album": "Dark Lane Demo Tapes",
             "played_at": "28/01/2026 - 21:14:43"
+        },
+        {
+            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
+            "artists": [
+                "Smino",
+                "monte booker",
+                "The Drums"
+            ],
+            "album": "Backstage Pass (with Monte Booker & The Drums)",
+            "played_at": "29/01/2026 - 10:51:37"
+        },
+        {
+            "song_name": "adios",
+            "artists": [
+                "JAWNY"
+            ],
+            "album": "It’s Never Fair, Always True",
+            "played_at": "29/01/2026 - 10:47:37"
+        },
+        {
+            "song_name": "Through My Teeth",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "29/01/2026 - 10:44:07"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "29/01/2026 - 10:40:37"
         }
     ]
 }
