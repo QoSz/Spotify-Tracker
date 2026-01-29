@@ -1,14 +1,6 @@
 {
-    "total_plays": 2012,
+    "total_plays": 2013,
     "tracks": [
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "26/01/2026 - 09:11:24"
-        },
         {
             "song_name": "Arm's Length",
             "artists": [
@@ -1721,6 +1713,14 @@
             ],
             "album": "Walking On A Dream (10th Anniversary Edition)",
             "played_at": "29/01/2026 - 11:03:37"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "29/01/2026 - 12:09:22"
         }
     ]
 }
