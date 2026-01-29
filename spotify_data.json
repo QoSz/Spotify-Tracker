@@ -1,30 +1,6 @@
 {
-    "total_plays": 2008,
+    "total_plays": 2011,
     "tracks": [
-        {
-            "song_name": "DAYLIGHT DOOM",
-            "artists": [
-                "MOTO BANDIT"
-            ],
-            "album": "DAYLIGHT DOOM",
-            "played_at": "26/01/2026 - 08:46:29"
-        },
-        {
-            "song_name": "Stop Sign",
-            "artists": [
-                "DICE"
-            ],
-            "album": "Stop Sign",
-            "played_at": "26/01/2026 - 08:44:00"
-        },
-        {
-            "song_name": "Seventeen Going Under",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "26/01/2026 - 09:20:25"
-        },
         {
             "song_name": "Shine A Light",
             "artists": [
@@ -1721,6 +1697,30 @@
             ],
             "album": "Trip Tape II",
             "played_at": "29/01/2026 - 10:40:37"
+        },
+        {
+            "song_name": "say something",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "29/01/2026 - 10:59:07"
+        },
+        {
+            "song_name": "cough drops",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "cough drops",
+            "played_at": "29/01/2026 - 10:57:08"
+        },
+        {
+            "song_name": "WORTHLESS",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Petals to Thorns",
+            "played_at": "29/01/2026 - 10:54:08"
         }
     ]
 }
