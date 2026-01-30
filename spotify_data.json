@@ -1,74 +1,6 @@
 {
-    "total_plays": 2062,
+    "total_plays": 2070,
     "tracks": [
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "27/01/2026 - 09:06:50"
-        },
-        {
-            "song_name": "Sweet Nothing - 2025 Edit",
-            "artists": [
-                "D.O.D",
-                "Calvin Harris",
-                "Florence Welch"
-            ],
-            "album": "Sweet Nothing (2025 Edit)",
-            "played_at": "27/01/2026 - 11:26:02"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "27/01/2026 - 12:00:57"
-        },
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "27/01/2026 - 12:00:34"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "27/01/2026 - 11:55:13"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "27/01/2026 - 11:51:43"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "27/01/2026 - 11:48:46"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "27/01/2026 - 11:45:43"
-        },
         {
             "song_name": "fade out",
             "artists": [
@@ -1697,6 +1629,70 @@
             ],
             "album": "You'll Be Alright, Kid (Chapter 1)",
             "played_at": "30/01/2026 - 06:23:53"
+        },
+        {
+            "song_name": "Cold Cold Cold",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Tell Me I'm Pretty",
+            "played_at": "30/01/2026 - 09:00:10"
+        },
+        {
+            "song_name": "Good for You",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Sunlight",
+            "played_at": "30/01/2026 - 08:56:40"
+        },
+        {
+            "song_name": "Sawteeth",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "In the Slight",
+            "played_at": "30/01/2026 - 08:53:40"
+        },
+        {
+            "song_name": "Arm's Length",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "People Watching",
+            "played_at": "30/01/2026 - 08:49:40"
+        },
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "30/01/2026 - 08:45:40"
+        },
+        {
+            "song_name": "Rainbow",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Neon Pill",
+            "played_at": "30/01/2026 - 08:41:40"
+        },
+        {
+            "song_name": "Hypersonic Missiles",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Hypersonic Missiles",
+            "played_at": "30/01/2026 - 08:38:40"
+        },
+        {
+            "song_name": "Spit Of You",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "30/01/2026 - 08:34:40"
         }
     ]
 }
