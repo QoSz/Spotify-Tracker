@@ -1,31 +1,6 @@
 {
-    "total_plays": 2058,
+    "total_plays": 2061,
     "tracks": [
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "27/01/2026 - 09:15:49"
-        },
-        {
-            "song_name": "I Run",
-            "artists": [
-                "HAVEN.",
-                "Kaitlin Aragon"
-            ],
-            "album": "I Run",
-            "played_at": "27/01/2026 - 09:12:48"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "27/01/2026 - 09:10:48"
-        },
         {
             "song_name": "Let It Go",
             "artists": [
@@ -1697,6 +1672,32 @@
             ],
             "album": "Wake Up Freezing",
             "played_at": "29/01/2026 - 13:53:38"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "30/01/2026 - 06:12:42"
+        },
+        {
+            "song_name": "We Still Don't Trust You",
+            "artists": [
+                "Future",
+                "Metro Boomin",
+                "The Weeknd"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "30/01/2026 - 05:59:43"
+        },
+        {
+            "song_name": "Spit Of You",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "29/01/2026 - 20:10:14"
         }
     ]
 }
