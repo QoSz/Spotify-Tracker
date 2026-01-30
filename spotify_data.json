@@ -1,15 +1,6 @@
 {
-    "total_plays": 2061,
+    "total_plays": 2062,
     "tracks": [
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "27/01/2026 - 09:06:51"
-        },
         {
             "song_name": "Glow",
             "artists": [
@@ -1698,6 +1689,14 @@
             ],
             "album": "Seventeen Going Under (Deluxe)",
             "played_at": "29/01/2026 - 20:10:14"
+        },
+        {
+            "song_name": "Ordinary",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "You'll Be Alright, Kid (Chapter 1)",
+            "played_at": "30/01/2026 - 06:23:53"
         }
     ]
 }
