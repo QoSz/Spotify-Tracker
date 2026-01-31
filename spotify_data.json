@@ -1,383 +1,6 @@
 {
-    "total_plays": 2070,
+    "total_plays": 2114,
     "tracks": [
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "27/01/2026 - 11:43:17"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "27/01/2026 - 11:40:44"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "27/01/2026 - 11:37:43"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "27/01/2026 - 11:33:43"
-        },
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "27/01/2026 - 12:03:14"
-        },
-        {
-            "song_name": "Geronimo",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "27/01/2026 - 13:07:28"
-        },
-        {
-            "song_name": "DA WIZARD",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "27/01/2026 - 13:07:27"
-        },
-        {
-            "song_name": "Call My Phone",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Call My Phone",
-            "played_at": "27/01/2026 - 13:07:26"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "27/01/2026 - 13:05:25"
-        },
-        {
-            "song_name": "Thrusting (feat. Swae Lee & Future)",
-            "artists": [
-                "Internet Money",
-                "Swae Lee",
-                "Future"
-            ],
-            "album": "B4 The Storm (Expanded Edition)",
-            "played_at": "27/01/2026 - 13:57:33"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "28/01/2026 - 06:29:46"
-        },
-        {
-            "song_name": "HONEST",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "DIE FOR MY BITCH",
-            "played_at": "28/01/2026 - 06:12:22"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "28/01/2026 - 09:00:35"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "28/01/2026 - 08:57:34"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "28/01/2026 - 09:29:04"
-        },
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "28/01/2026 - 09:25:04"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "28/01/2026 - 09:22:34"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "28/01/2026 - 09:19:34"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "28/01/2026 - 09:17:04"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "28/01/2026 - 09:14:34"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "28/01/2026 - 09:11:35"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "28/01/2026 - 09:08:34"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "28/01/2026 - 09:06:04"
-        },
-        {
-            "song_name": "Josephine",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "Josephine",
-            "played_at": "28/01/2026 - 09:03:34"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "28/01/2026 - 09:31:34"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "28/01/2026 - 10:31:29"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "28/01/2026 - 10:29:20"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "28/01/2026 - 10:26:51"
-        },
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "28/01/2026 - 10:24:20"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "28/01/2026 - 10:21:21"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "28/01/2026 - 10:19:20"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "28/01/2026 - 10:15:53"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "28/01/2026 - 10:12:23"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "28/01/2026 - 10:09:28"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "28/01/2026 - 11:01:14"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "28/01/2026 - 10:58:44"
-        },
-        {
-            "song_name": "magnetic magnetic",
-            "artists": [
-                "all things break"
-            ],
-            "album": "magnetic magnetic",
-            "played_at": "28/01/2026 - 10:55:44"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "28/01/2026 - 10:53:44"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "28/01/2026 - 10:37:21"
-        },
-        {
-            "song_name": "Waiting for Love",
-            "artists": [
-                "Tudor",
-                "Embody"
-            ],
-            "album": "Waiting for Love",
-            "played_at": "28/01/2026 - 10:34:21"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "28/01/2026 - 11:30:16"
-        },
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "28/01/2026 - 11:26:14"
-        },
-        {
-            "song_name": "Weyu",
-            "artists": [
-                "Lucas Estrada",
-                "Lenji",
-                "Amadi Blue"
-            ],
-            "album": "Weyu",
-            "played_at": "28/01/2026 - 11:23:45"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "28/01/2026 - 11:21:15"
-        },
         {
             "song_name": "Bloom",
             "artists": [
@@ -1693,6 +1316,388 @@
             ],
             "album": "Seventeen Going Under (Deluxe)",
             "played_at": "30/01/2026 - 08:34:40"
+        },
+        {
+            "song_name": "ball w/o you",
+            "artists": [
+                "21 Savage"
+            ],
+            "album": "i am > i was",
+            "played_at": "31/01/2026 - 08:51:11"
+        },
+        {
+            "song_name": "HITTIN MY SHOULDER",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "RED & WHITE",
+            "played_at": "31/01/2026 - 07:36:56"
+        },
+        {
+            "song_name": "HITTIN MY SHOULDER",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "RED & WHITE",
+            "played_at": "31/01/2026 - 07:22:29"
+        },
+        {
+            "song_name": "Grimey Freestyle",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Grimey Freestyle",
+            "played_at": "30/01/2026 - 16:39:52"
+        },
+        {
+            "song_name": "SURREAL",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "SURREAL",
+            "played_at": "30/01/2026 - 16:37:23"
+        },
+        {
+            "song_name": "Birthday",
+            "artists": [
+                "Fredo",
+                "Burna Boy",
+                "Steel Banglez"
+            ],
+            "album": "Birthday",
+            "played_at": "30/01/2026 - 16:34:22"
+        },
+        {
+            "song_name": "ATM",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "ATM",
+            "played_at": "30/01/2026 - 16:31:52"
+        },
+        {
+            "song_name": "Left Me For Dead",
+            "artists": [
+                "BOVSKI"
+            ],
+            "album": "Left Me For Dead",
+            "played_at": "30/01/2026 - 16:28:52"
+        },
+        {
+            "song_name": "LIGHTS GO OUT",
+            "artists": [
+                "John Summit"
+            ],
+            "album": "LIGHTS GO OUT",
+            "played_at": "30/01/2026 - 16:26:22"
+        },
+        {
+            "song_name": "OK OK - Hamdi Remix",
+            "artists": [
+                "Hamdi",
+                "Fred again..",
+                "Danny Brown",
+                "BEAM",
+                "PARISI",
+                "JPEGMAFIA"
+            ],
+            "album": "OK OK (Hamdi Remix)",
+            "played_at": "30/01/2026 - 16:23:52"
+        },
+        {
+            "song_name": "PUNK ROCKY",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "30/01/2026 - 16:20:52"
+        },
+        {
+            "song_name": "Jump & Shout",
+            "artists": [
+                "HUGEL",
+                "Divolly & Markward"
+            ],
+            "album": "Jump & Shout",
+            "played_at": "30/01/2026 - 16:16:53"
+        },
+        {
+            "song_name": "Loitering (ft. Kodak Black)",
+            "artists": [
+                "Diplo",
+                "d00mscrvll",
+                "Kodak Black"
+            ],
+            "album": "d00mscrvll",
+            "played_at": "30/01/2026 - 16:14:53"
+        },
+        {
+            "song_name": "If You Know You Know",
+            "artists": [
+                "Wiz Khalifa",
+                "Juicy J"
+            ],
+            "album": "Khaotic",
+            "played_at": "30/01/2026 - 16:12:08"
+        },
+        {
+            "song_name": "Between Known Stars",
+            "artists": [
+                "Lullayana",
+                "Ashna Lite"
+            ],
+            "album": "Glow Between the Constellations",
+            "played_at": "30/01/2026 - 16:09:28"
+        },
+        {
+            "song_name": "Keep Ya Head Up",
+            "artists": [
+                "Kig$"
+            ],
+            "album": "Keep Ya Head Up",
+            "played_at": "30/01/2026 - 16:05:54"
+        },
+        {
+            "song_name": "RATHER BE (feat. Lithe)",
+            "artists": [
+                "The Kid LAROI",
+                "Lithe"
+            ],
+            "album": "BEFORE I FORGET",
+            "played_at": "30/01/2026 - 16:03:52"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "30/01/2026 - 16:01:45"
+        },
+        {
+            "song_name": "Drama King",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Drama King",
+            "played_at": "30/01/2026 - 15:53:59"
+        },
+        {
+            "song_name": "What You Need - A COLORS SHOW",
+            "artists": [
+                "Tems",
+                "COLORS"
+            ],
+            "album": "What You Need - A COLORS SHOW",
+            "played_at": "30/01/2026 - 15:50:39"
+        },
+        {
+            "song_name": "On The Ground",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "On The Ground",
+            "played_at": "30/01/2026 - 15:46:52"
+        },
+        {
+            "song_name": "Narcos",
+            "artists": [
+                "French Montana",
+                "Max B",
+                "Metro Boomin"
+            ],
+            "album": "Coke Wave 3.5: Narcos",
+            "played_at": "30/01/2026 - 15:41:56"
+        },
+        {
+            "song_name": "Two Car Garage",
+            "artists": [
+                "Jon Bellion",
+                "Swae Lee",
+                "FANDOM"
+            ],
+            "album": "Two Car Garage",
+            "played_at": "30/01/2026 - 15:38:52"
+        },
+        {
+            "song_name": "Love Ya - Chill Lofi",
+            "artists": [
+                "Diljit Dosanjh",
+                "The Independeners"
+            ],
+            "album": "Love Ya (Chill Lofi)",
+            "played_at": "30/01/2026 - 15:35:52"
+        },
+        {
+            "song_name": "S.L.I.D.E",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Slutty Bass",
+            "played_at": "30/01/2026 - 15:33:22"
+        },
+        {
+            "song_name": "POP DAT THANG",
+            "artists": [
+                "DaBaby"
+            ],
+            "album": "POP DAT THANG",
+            "played_at": "30/01/2026 - 15:29:22"
+        },
+        {
+            "song_name": "Amnesia",
+            "artists": [
+                "Sébastien Tellier",
+                "Kid Cudi"
+            ],
+            "album": "Amnesia",
+            "played_at": "30/01/2026 - 15:26:52"
+        },
+        {
+            "song_name": "Aperture",
+            "artists": [
+                "Harry Styles"
+            ],
+            "album": "Aperture",
+            "played_at": "30/01/2026 - 15:23:54"
+        },
+        {
+            "song_name": "One of Them Ones",
+            "artists": [
+                "Veeze",
+                "Lil Baby",
+                "Rylo Rodriguez"
+            ],
+            "album": "One of Them Ones",
+            "played_at": "30/01/2026 - 15:10:22"
+        },
+        {
+            "song_name": "Think About Us - CYRIL Remix",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb",
+                "CYRIL"
+            ],
+            "album": "Think About Us (CYRIL Remix)",
+            "played_at": "30/01/2026 - 15:06:52"
+        },
+        {
+            "song_name": "Bloody Eyes",
+            "artists": [
+                "Passion Mango",
+                "EKKSTACY"
+            ],
+            "album": "Bloody Eyes",
+            "played_at": "30/01/2026 - 15:04:22"
+        },
+        {
+            "song_name": "Still Indecisive",
+            "artists": [
+                "Kidwild"
+            ],
+            "album": "Still Indecisive",
+            "played_at": "30/01/2026 - 15:01:33"
+        },
+        {
+            "song_name": "5LYFE (feat. LL Clawz)",
+            "artists": [
+                "TWXN",
+                "soulyoumadethis",
+                "LL Clawz"
+            ],
+            "album": "5LYFE (feat. LL Clawz)",
+            "played_at": "30/01/2026 - 14:50:22"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "30/01/2026 - 14:43:37"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "30/01/2026 - 14:43:27"
+        },
+        {
+            "song_name": "Did It Again",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "We Love You Tecca",
+            "played_at": "30/01/2026 - 14:26:14"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "30/01/2026 - 14:21:43"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "30/01/2026 - 14:06:22"
+        },
+        {
+            "song_name": "Bruise",
+            "artists": [
+                "BETWEEN FRIENDS"
+            ],
+            "album": "I Love My Girl, She's My Boy",
+            "played_at": "30/01/2026 - 13:56:19"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "30/01/2026 - 13:56:14"
+        },
+        {
+            "song_name": "Canary Islands",
+            "artists": [
+                "Goth Babe"
+            ],
+            "album": "Canary Islands",
+            "played_at": "30/01/2026 - 13:53:18"
+        },
+        {
+            "song_name": "Magic",
+            "artists": [
+                "Olympic Ayres"
+            ],
+            "album": "Episode III",
+            "played_at": "30/01/2026 - 13:50:18"
+        },
+        {
+            "song_name": "Starry Eyed",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "30/01/2026 - 13:46:18"
+        },
+        {
+            "song_name": "forever, with you",
+            "artists": [
+                "Paradise Blossom"
+            ],
+            "album": "forever, with you",
+            "played_at": "30/01/2026 - 13:43:48"
         }
     ]
 }
