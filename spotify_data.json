@@ -1,92 +1,6 @@
 {
-    "total_plays": 2140,
+    "total_plays": 2150,
     "tracks": [
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "28/01/2026 - 13:08:38"
-        },
-        {
-            "song_name": "OWA OWA",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "28/01/2026 - 17:01:14"
-        },
-        {
-            "song_name": "Desires (with Future)",
-            "artists": [
-                "Drake",
-                "Future"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "28/01/2026 - 16:59:14"
-        },
-        {
-            "song_name": "Hell Night",
-            "artists": [
-                "Pooh Shiesty",
-                "BIG30"
-            ],
-            "album": "Hell Night",
-            "played_at": "28/01/2026 - 16:55:14"
-        },
-        {
-            "song_name": "Calm 3",
-            "artists": [
-                "Sleepy Hallow"
-            ],
-            "album": "Calm 3",
-            "played_at": "28/01/2026 - 16:51:45"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "28/01/2026 - 16:50:15"
-        },
-        {
-            "song_name": "Casper",
-            "artists": [
-                "Takeoff"
-            ],
-            "album": "The Last Rocket",
-            "played_at": "28/01/2026 - 16:47:14"
-        },
-        {
-            "song_name": "Clash (feat. Stormzy)",
-            "artists": [
-                "Dave",
-                "Stormzy"
-            ],
-            "album": "We're All Alone In This Together",
-            "played_at": "28/01/2026 - 16:43:44"
-        },
-        {
-            "song_name": "Different Species (feat. Gunna)",
-            "artists": [
-                "Offset",
-                "Gunna"
-            ],
-            "album": "KIARI",
-            "played_at": "28/01/2026 - 16:39:45"
-        },
-        {
-            "song_name": "21 Years",
-            "artists": [
-                "Skepta",
-                "Fred again.."
-            ],
-            "album": "Skepta .. Fred",
-            "played_at": "28/01/2026 - 16:36:45"
-        },
         {
             "song_name": "Recognize",
             "artists": [
@@ -1700,6 +1614,90 @@
             ],
             "album": "no service",
             "played_at": "02/02/2026 - 09:31:47"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "02/02/2026 - 15:01:07"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "02/02/2026 - 14:57:37"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "02/02/2026 - 14:54:08"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "02/02/2026 - 14:52:07"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "02/02/2026 - 14:49:37"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "02/02/2026 - 14:47:07"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "02/02/2026 - 14:44:10"
+        },
+        {
+            "song_name": "I Run",
+            "artists": [
+                "HAVEN.",
+                "Kaitlin Aragon"
+            ],
+            "album": "I Run",
+            "played_at": "02/02/2026 - 14:41:37"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "02/02/2026 - 14:39:07"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "02/02/2026 - 14:35:38"
         }
     ]
 }
