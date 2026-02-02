@@ -1,23 +1,6 @@
 {
-    "total_plays": 2115,
+    "total_plays": 2117,
     "tracks": [
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "28/01/2026 - 11:13:44"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "28/01/2026 - 11:10:15"
-        },
         {
             "song_name": "Reasons",
             "artists": [
@@ -1699,6 +1682,24 @@
             ],
             "album": "Chasing (feat. NEIMY)",
             "played_at": "31/01/2026 - 13:57:07"
+        },
+        {
+            "song_name": "Ever Since U Left Me (I Went Deaf)",
+            "artists": [
+                "French Montana",
+                "Max B"
+            ],
+            "album": "Coke Wave 3.5: Narcos",
+            "played_at": "02/02/2026 - 08:28:53"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "02/02/2026 - 08:27:25"
         }
     ]
 }
