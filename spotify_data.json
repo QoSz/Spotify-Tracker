@@ -1,15 +1,6 @@
 {
-    "total_plays": 2139,
+    "total_plays": 2140,
     "tracks": [
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "28/01/2026 - 13:08:44"
-        },
         {
             "song_name": "Missing Me",
             "artists": [
@@ -1701,6 +1692,14 @@
             ],
             "album": "JACKBOYS 2",
             "played_at": "02/02/2026 - 09:03:14"
+        },
+        {
+            "song_name": "don’t panic",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "02/02/2026 - 09:31:47"
         }
     ]
 }
