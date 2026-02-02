@@ -1,92 +1,6 @@
 {
-    "total_plays": 2129,
+    "total_plays": 2139,
     "tracks": [
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "28/01/2026 - 12:04:14"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "28/01/2026 - 12:01:15"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "28/01/2026 - 12:45:56"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "28/01/2026 - 12:40:51"
-        },
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "28/01/2026 - 13:26:07"
-        },
-        {
-            "song_name": "Slow Motion (feat. Wizkid)",
-            "artists": [
-                "Don Toliver",
-                "Wizkid"
-            ],
-            "album": "Love Sick",
-            "played_at": "28/01/2026 - 13:21:07"
-        },
-        {
-            "song_name": "Best Part (feat. H.E.R.)",
-            "artists": [
-                "Daniel Caesar",
-                "H.E.R."
-            ],
-            "album": "Freudian",
-            "played_at": "28/01/2026 - 13:18:07"
-        },
-        {
-            "song_name": "TAI CHI",
-            "artists": [
-                "Sasha Keable"
-            ],
-            "album": "TAI CHI",
-            "played_at": "28/01/2026 - 13:14:37"
-        },
-        {
-            "song_name": "Suffer",
-            "artists": [
-                "Bex"
-            ],
-            "album": "Suffer",
-            "played_at": "28/01/2026 - 13:11:37"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "28/01/2026 - 13:10:58"
-        },
         {
             "song_name": "Get Close",
             "artists": [
@@ -1701,6 +1615,92 @@
             ],
             "album": "Life of a DON",
             "played_at": "02/02/2026 - 08:32:21"
+        },
+        {
+            "song_name": "Down With Me",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "TEC (Bonus)",
+            "played_at": "02/02/2026 - 09:29:14"
+        },
+        {
+            "song_name": "LIFE IS A GAMBLE",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "LIFE IS A GAMBLE",
+            "played_at": "02/02/2026 - 09:27:14"
+        },
+        {
+            "song_name": "HELICOPTER",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "02/02/2026 - 09:24:14"
+        },
+        {
+            "song_name": "Hate It Or Love It",
+            "artists": [
+                "The Game",
+                "50 Cent"
+            ],
+            "album": "The Documentary",
+            "played_at": "02/02/2026 - 09:21:48"
+        },
+        {
+            "song_name": "ALL EYES",
+            "artists": [
+                "TWXN",
+                "LL Clawz",
+                "507KAZ"
+            ],
+            "album": "Project YVL",
+            "played_at": "02/02/2026 - 09:18:14"
+        },
+        {
+            "song_name": "Out Of My Hands",
+            "artists": [
+                "Future",
+                "Metro Boomin"
+            ],
+            "album": "WE STILL DON'T TRUST YOU",
+            "played_at": "02/02/2026 - 09:16:18"
+        },
+        {
+            "song_name": "Erase Me - Main",
+            "artists": [
+                "Kid Cudi",
+                "Kanye West"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "02/02/2026 - 09:12:14"
+        },
+        {
+            "song_name": "LIKE WOW",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "LIKE WOW",
+            "played_at": "02/02/2026 - 09:08:43"
+        },
+        {
+            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
+            "artists": [
+                "SAINt JHN",
+                "Lil Uzi Vert"
+            ],
+            "album": "While The World Was Burning",
+            "played_at": "02/02/2026 - 09:06:44"
+        },
+        {
+            "song_name": "DUMBO",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "02/02/2026 - 09:03:14"
         }
     ]
 }
