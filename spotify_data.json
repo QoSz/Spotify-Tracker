@@ -1,110 +1,6 @@
 {
-    "total_plays": 2117,
+    "total_plays": 2129,
     "tracks": [
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "28/01/2026 - 11:07:19"
-        },
-        {
-            "song_name": "Miss You So",
-            "artists": [
-                "Thandi",
-                "Ginger Mafia"
-            ],
-            "album": "Miss You So",
-            "played_at": "28/01/2026 - 11:03:44"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "Biscits",
-                "Ekko"
-            ],
-            "album": "Heartbeat",
-            "played_at": "28/01/2026 - 11:59:19"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "28/01/2026 - 11:56:14"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "28/01/2026 - 11:52:44"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "28/01/2026 - 11:50:14"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "28/01/2026 - 11:47:14"
-        },
-        {
-            "song_name": "Deeper",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "28/01/2026 - 11:44:45"
-        },
-        {
-            "song_name": "Where We Belong",
-            "artists": [
-                "Amtrac"
-            ],
-            "album": "Where We Belong",
-            "played_at": "28/01/2026 - 11:41:14"
-        },
-        {
-            "song_name": "In the Mood",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "28/01/2026 - 11:36:51"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "28/01/2026 - 11:33:44"
-        },
-        {
-            "song_name": "My Name Is Not Susan",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "My Name Is Not Susan",
-            "played_at": "28/01/2026 - 12:06:44"
-        },
         {
             "song_name": "Nobody Knows - Belters Only Remix",
             "artists": [
@@ -1700,6 +1596,111 @@
             ],
             "album": "Dawn",
             "played_at": "02/02/2026 - 08:27:25"
+        },
+        {
+            "song_name": "Go Down (feat. TisaKorean)",
+            "artists": [
+                "Don Toliver",
+                "TisaKorean"
+            ],
+            "album": "Love Sick",
+            "played_at": "02/02/2026 - 08:59:14"
+        },
+        {
+            "song_name": "I CAN’T LET GO",
+            "artists": [
+                "Lil Tecca",
+                "Don Toliver"
+            ],
+            "album": "PLAN A",
+            "played_at": "02/02/2026 - 08:55:44"
+        },
+        {
+            "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
+            "artists": [
+                "Lil Baby",
+                "Gunna",
+                "Drake"
+            ],
+            "album": "Drip Harder",
+            "played_at": "02/02/2026 - 08:53:13"
+        },
+        {
+            "song_name": "collage",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "02/02/2026 - 08:49:44"
+        },
+        {
+            "song_name": "Try Me",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Try Me",
+            "played_at": "02/02/2026 - 08:47:44"
+        },
+        {
+            "song_name": "NO LOWER",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "NO LOWER",
+            "played_at": "02/02/2026 - 08:45:14"
+        },
+        {
+            "song_name": "Make Believe",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "02/02/2026 - 08:42:43"
+        },
+        {
+            "song_name": "Set You Free",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Set You Free",
+            "played_at": "02/02/2026 - 08:40:13"
+        },
+        {
+            "song_name": "On The Road (feat. Meek Mill & Lil Baby)",
+            "artists": [
+                "Post Malone",
+                "Meek Mill",
+                "Lil Baby"
+            ],
+            "album": "Hollywood's Bleeding",
+            "played_at": "02/02/2026 - 08:38:13"
+        },
+        {
+            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
+            "artists": [
+                "Metro Boomin",
+                "Future",
+                "Don Toliver"
+            ],
+            "album": "HEROES & VILLAINS",
+            "played_at": "02/02/2026 - 08:34:21"
+        },
+        {
+            "song_name": "Follow God",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "JESUS IS KING",
+            "played_at": "02/02/2026 - 08:34:14"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "02/02/2026 - 08:32:21"
         }
     ]
 }
