@@ -1,16 +1,6 @@
 {
-    "total_plays": 2189,
+    "total_plays": 2190,
     "tracks": [
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "28/01/2026 - 19:22:39"
-        },
         {
             "song_name": "DIE TRYING",
             "artists": [
@@ -1700,6 +1690,14 @@
             ],
             "album": "Your Eyes",
             "played_at": "03/02/2026 - 13:36:24"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "03/02/2026 - 18:25:20"
         }
     ]
 }
