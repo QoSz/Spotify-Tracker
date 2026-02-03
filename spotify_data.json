@@ -1,31 +1,6 @@
 {
-    "total_plays": 2150,
+    "total_plays": 2153,
     "tracks": [
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "28/01/2026 - 16:32:44"
-        },
-        {
-            "song_name": "shiloh type beat",
-            "artists": [
-                "Jessy Blakemore"
-            ],
-            "album": "burna",
-            "played_at": "28/01/2026 - 16:29:45"
-        },
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "28/01/2026 - 16:27:45"
-        },
         {
             "song_name": "Texts Go Green",
             "artists": [
@@ -1698,6 +1673,31 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "02/02/2026 - 14:35:38"
+        },
+        {
+            "song_name": "Middle",
+            "artists": [
+                "DJ Snake",
+                "Bipolar Sunshine"
+            ],
+            "album": "Encore",
+            "played_at": "03/02/2026 - 06:34:00"
+        },
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "03/02/2026 - 06:33:59"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "02/02/2026 - 21:42:32"
         }
     ]
 }
