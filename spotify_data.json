@@ -1,86 +1,6 @@
 {
-    "total_plays": 2196,
+    "total_plays": 2205,
     "tracks": [
-        {
-            "song_name": "don’t i (feat. Gunna)",
-            "artists": [
-                "Roddy Ricch",
-                "Gunna"
-            ],
-            "album": "LIVE LIFE FAST",
-            "played_at": "28/01/2026 - 19:43:45"
-        },
-        {
-            "song_name": "Ordinary",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "You'll Be Alright, Kid (Chapter 1)",
-            "played_at": "28/01/2026 - 19:39:37"
-        },
-        {
-            "song_name": "Which One (feat. Central Cee)",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "Which One",
-            "played_at": "28/01/2026 - 19:36:41"
-        },
-        {
-            "song_name": "The Prayer",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "A Kid Named Cudi",
-            "played_at": "28/01/2026 - 19:33:44"
-        },
-        {
-            "song_name": "Hear Me Calling",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "28/01/2026 - 20:10:09"
-        },
-        {
-            "song_name": "Been Thru This Before (with Giggs & SAINt JHN)",
-            "artists": [
-                "Marshmello",
-                "Southside",
-                "Giggs",
-                "SAINt JHN"
-            ],
-            "album": "Been Thru This Before",
-            "played_at": "28/01/2026 - 20:06:37"
-        },
-        {
-            "song_name": "Tek It - Slowed",
-            "artists": [
-                "Cafuné"
-            ],
-            "album": "Tek It (I Watch the Moon)",
-            "played_at": "28/01/2026 - 20:03:07"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "28/01/2026 - 21:14:43"
-        },
-        {
-            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
-            "artists": [
-                "Smino",
-                "monte booker",
-                "The Drums"
-            ],
-            "album": "Backstage Pass (with Monte Booker & The Drums)",
-            "played_at": "29/01/2026 - 10:51:37"
-        },
         {
             "song_name": "adios",
             "artists": [
@@ -1699,6 +1619,83 @@
             ],
             "album": "First Contact",
             "played_at": "04/02/2026 - 08:15:42"
+        },
+        {
+            "song_name": "Gravity",
+            "artists": [
+                "Joshwa",
+                "Lauren Nicole"
+            ],
+            "album": "Gravity",
+            "played_at": "04/02/2026 - 08:57:42"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "04/02/2026 - 08:54:13"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "04/02/2026 - 08:51:12"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "04/02/2026 - 08:48:12"
+        },
+        {
+            "song_name": "Your Touch",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Your Touch",
+            "played_at": "04/02/2026 - 08:46:12"
+        },
+        {
+            "song_name": "In Reverse",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "In Reverse",
+            "played_at": "04/02/2026 - 08:43:12"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "04/02/2026 - 08:40:12"
+        },
+        {
+            "song_name": "Rain",
+            "artists": [
+                "Astrality",
+                "MNRT",
+                "S:NE"
+            ],
+            "album": "Rain",
+            "played_at": "04/02/2026 - 08:36:13"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "04/02/2026 - 08:33:12"
         }
     ]
 }
