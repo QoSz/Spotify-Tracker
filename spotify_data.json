@@ -1,22 +1,6 @@
 {
-    "total_plays": 2213,
+    "total_plays": 2215,
     "tracks": [
-        {
-            "song_name": "Under Fire",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Under Fire",
-            "played_at": "29/01/2026 - 17:26:16"
-        },
-        {
-            "song_name": "Bitter",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "29/01/2026 - 17:22:16"
-        },
         {
             "song_name": "Now I Know You",
             "artists": [
@@ -1701,6 +1685,22 @@
             ],
             "album": "Shine Like Stars",
             "played_at": "04/02/2026 - 10:15:24"
+        },
+        {
+            "song_name": "E85",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "OCTANE",
+            "played_at": "04/02/2026 - 11:05:07"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "04/02/2026 - 11:02:50"
         }
     ]
 }
