@@ -1,38 +1,6 @@
 {
-    "total_plays": 2205,
+    "total_plays": 2209,
     "tracks": [
-        {
-            "song_name": "adios",
-            "artists": [
-                "JAWNY"
-            ],
-            "album": "It’s Never Fair, Always True",
-            "played_at": "29/01/2026 - 10:47:37"
-        },
-        {
-            "song_name": "Through My Teeth",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "29/01/2026 - 10:44:07"
-        },
-        {
-            "song_name": "Synchronize",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Trip Tape II",
-            "played_at": "29/01/2026 - 10:40:37"
-        },
-        {
-            "song_name": "say something",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "29/01/2026 - 10:59:07"
-        },
         {
             "song_name": "cough drops",
             "artists": [
@@ -1696,6 +1664,41 @@
             ],
             "album": "Something Real",
             "played_at": "04/02/2026 - 08:33:12"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "04/02/2026 - 09:09:12"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "04/02/2026 - 09:06:42"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "04/02/2026 - 09:04:12"
+        },
+        {
+            "song_name": "Where Nobody Knows",
+            "artists": [
+                "Hyzteria",
+                "Dakota"
+            ],
+            "album": "Where Nobody Knows",
+            "played_at": "04/02/2026 - 09:00:42"
         }
     ]
 }
