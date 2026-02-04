@@ -1,58 +1,6 @@
 {
-    "total_plays": 2190,
+    "total_plays": 2196,
     "tracks": [
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "28/01/2026 - 19:21:11"
-        },
-        {
-            "song_name": "This Rhythm (feat. RAHH)",
-            "artists": [
-                "Prospa",
-                "RAHH"
-            ],
-            "album": "This Rhythm (feat. RAHH)",
-            "played_at": "28/01/2026 - 19:20:44"
-        },
-        {
-            "song_name": "So High (feat. Ghost Loft)",
-            "artists": [
-                "Wiz Khalifa",
-                "Ghost Loft"
-            ],
-            "album": "Blacc Hollywood (Deluxe)",
-            "played_at": "28/01/2026 - 19:59:06"
-        },
-        {
-            "song_name": "My Drug",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Entergalactic",
-            "played_at": "28/01/2026 - 19:55:07"
-        },
-        {
-            "song_name": "Blame On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "28/01/2026 - 19:53:07"
-        },
-        {
-            "song_name": "The Chase",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "The Last Dance, Pt 2",
-            "played_at": "28/01/2026 - 19:46:37"
-        },
         {
             "song_name": "don’t i (feat. Gunna)",
             "artists": [
@@ -1698,6 +1646,59 @@
             ],
             "album": "First Contact",
             "played_at": "03/02/2026 - 18:25:20"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "04/02/2026 - 08:30:42"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "04/02/2026 - 08:27:42"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "04/02/2026 - 08:25:12"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "04/02/2026 - 08:22:42"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "04/02/2026 - 08:19:42"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "04/02/2026 - 08:15:42"
         }
     ]
 }
