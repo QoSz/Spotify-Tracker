@@ -1,14 +1,6 @@
 {
-    "total_plays": 2277,
+    "total_plays": 2278,
     "tracks": [
-        {
-            "song_name": "Left Me For Dead",
-            "artists": [
-                "BOVSKI"
-            ],
-            "album": "Left Me For Dead",
-            "played_at": "30/01/2026 - 16:28:52"
-        },
         {
             "song_name": "LIGHTS GO OUT",
             "artists": [
@@ -1705,6 +1697,15 @@
             ],
             "album": "My Love",
             "played_at": "04/02/2026 - 18:01:07"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "04/02/2026 - 19:07:52"
         }
     ]
 }
