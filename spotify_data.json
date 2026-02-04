@@ -1,38 +1,6 @@
 {
-    "total_plays": 2209,
+    "total_plays": 2213,
     "tracks": [
-        {
-            "song_name": "cough drops",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "cough drops",
-            "played_at": "29/01/2026 - 10:57:08"
-        },
-        {
-            "song_name": "WORTHLESS",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "Petals to Thorns",
-            "played_at": "29/01/2026 - 10:54:08"
-        },
-        {
-            "song_name": "Standing On The Shore",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Walking On A Dream (10th Anniversary Edition)",
-            "played_at": "29/01/2026 - 11:03:37"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "29/01/2026 - 12:09:22"
-        },
         {
             "song_name": "Under Fire",
             "artists": [
@@ -1699,6 +1667,40 @@
             ],
             "album": "Where Nobody Knows",
             "played_at": "04/02/2026 - 09:00:42"
+        },
+        {
+            "song_name": "cloud chaser",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "04/02/2026 - 10:23:55"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "04/02/2026 - 10:20:23"
+        },
+        {
+            "song_name": "Shine Like Stars",
+            "artists": [
+                "Benji"
+            ],
+            "album": "Shine Like Stars",
+            "played_at": "04/02/2026 - 10:17:53"
+        },
+        {
+            "song_name": "Shine Like Stars",
+            "artists": [
+                "Benji"
+            ],
+            "album": "Shine Like Stars",
+            "played_at": "04/02/2026 - 10:15:24"
         }
     ]
 }
