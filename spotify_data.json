@@ -1,38 +1,6 @@
 {
-    "total_plays": 2215,
+    "total_plays": 2219,
     "tracks": [
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "29/01/2026 - 17:17:18"
-        },
-        {
-            "song_name": "Why Is It Light Out?",
-            "artists": [
-                "The Kilans"
-            ],
-            "album": "Why Is It Light Out?",
-            "played_at": "29/01/2026 - 17:13:46"
-        },
-        {
-            "song_name": "Mary",
-            "artists": [
-                "Alex G"
-            ],
-            "album": "Trick",
-            "played_at": "29/01/2026 - 17:09:46"
-        },
-        {
-            "song_name": "Leave Her",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "Withering",
-            "played_at": "29/01/2026 - 17:06:16"
-        },
         {
             "song_name": "How Much Is Weed?",
             "artists": [
@@ -1701,6 +1669,38 @@
             ],
             "album": "Sweet Release",
             "played_at": "04/02/2026 - 11:02:50"
+        },
+        {
+            "song_name": "STOLE YA FLOW",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "04/02/2026 - 13:25:08"
+        },
+        {
+            "song_name": "INTERROGATION (SKIT)",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "04/02/2026 - 13:22:09"
+        },
+        {
+            "song_name": "HELICOPTER",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "04/02/2026 - 13:21:08"
+        },
+        {
+            "song_name": "ORDER OF PROTECTION",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "04/02/2026 - 13:18:39"
         }
     ]
 }
