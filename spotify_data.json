@@ -1,72 +1,6 @@
 {
-    "total_plays": 2269,
+    "total_plays": 2277,
     "tracks": [
-        {
-            "song_name": "Spit Of You",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "30/01/2026 - 08:34:40"
-        },
-        {
-            "song_name": "ball w/o you",
-            "artists": [
-                "21 Savage"
-            ],
-            "album": "i am > i was",
-            "played_at": "31/01/2026 - 08:51:11"
-        },
-        {
-            "song_name": "HITTIN MY SHOULDER",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "RED & WHITE",
-            "played_at": "31/01/2026 - 07:36:56"
-        },
-        {
-            "song_name": "HITTIN MY SHOULDER",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "RED & WHITE",
-            "played_at": "31/01/2026 - 07:22:29"
-        },
-        {
-            "song_name": "Grimey Freestyle",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Grimey Freestyle",
-            "played_at": "30/01/2026 - 16:39:52"
-        },
-        {
-            "song_name": "SURREAL",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "SURREAL",
-            "played_at": "30/01/2026 - 16:37:23"
-        },
-        {
-            "song_name": "Birthday",
-            "artists": [
-                "Fredo",
-                "Burna Boy",
-                "Steel Banglez"
-            ],
-            "album": "Birthday",
-            "played_at": "30/01/2026 - 16:34:22"
-        },
-        {
-            "song_name": "ATM",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "ATM",
-            "played_at": "30/01/2026 - 16:31:52"
-        },
         {
             "song_name": "Left Me For Dead",
             "artists": [
@@ -1704,6 +1638,73 @@
             ],
             "album": "Lola",
             "played_at": "04/02/2026 - 15:18:37"
+        },
+        {
+            "song_name": "I See You",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "I See You",
+            "played_at": "04/02/2026 - 18:20:07"
+        },
+        {
+            "song_name": "CARMEN - 8181 Enzo Remix",
+            "artists": [
+                "Airmow",
+                "Reiyo The Giant",
+                "Enzo"
+            ],
+            "album": "CARMEN (8181 Enzo Remix)",
+            "played_at": "04/02/2026 - 18:17:07"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "04/02/2026 - 18:13:37"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "04/02/2026 - 18:11:07"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "04/02/2026 - 18:08:38"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "04/02/2026 - 18:06:07"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "04/02/2026 - 18:04:07"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "04/02/2026 - 18:01:07"
         }
     ]
 }
