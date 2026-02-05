@@ -1,44 +1,6 @@
 {
-    "total_plays": 2299,
+    "total_plays": 2303,
     "tracks": [
-        {
-            "song_name": "Think About Us - CYRIL Remix",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb",
-                "CYRIL"
-            ],
-            "album": "Think About Us (CYRIL Remix)",
-            "played_at": "30/01/2026 - 15:06:52"
-        },
-        {
-            "song_name": "Bloody Eyes",
-            "artists": [
-                "Passion Mango",
-                "EKKSTACY"
-            ],
-            "album": "Bloody Eyes",
-            "played_at": "30/01/2026 - 15:04:22"
-        },
-        {
-            "song_name": "Still Indecisive",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Still Indecisive",
-            "played_at": "30/01/2026 - 15:01:33"
-        },
-        {
-            "song_name": "5LYFE (feat. LL Clawz)",
-            "artists": [
-                "TWXN",
-                "soulyoumadethis",
-                "LL Clawz"
-            ],
-            "album": "5LYFE (feat. LL Clawz)",
-            "played_at": "30/01/2026 - 14:50:22"
-        },
         {
             "song_name": "Way down We Go",
             "artists": [
@@ -1700,6 +1662,40 @@
             ],
             "album": "Show Me",
             "played_at": "05/02/2026 - 09:01:35"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "05/02/2026 - 11:01:24"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "05/02/2026 - 10:58:44"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "05/02/2026 - 10:56:30"
+        },
+        {
+            "song_name": "ORDER OF PROTECTION",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "05/02/2026 - 10:53:11"
         }
     ]
 }
