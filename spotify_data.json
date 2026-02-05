@@ -1,39 +1,6 @@
 {
-    "total_plays": 2306,
+    "total_plays": 2310,
     "tracks": [
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "30/01/2026 - 14:21:43"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "30/01/2026 - 14:06:22"
-        },
-        {
-            "song_name": "Bruise",
-            "artists": [
-                "BETWEEN FRIENDS"
-            ],
-            "album": "I Love My Girl, She's My Boy",
-            "played_at": "30/01/2026 - 13:56:19"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "30/01/2026 - 13:56:14"
-        },
         {
             "song_name": "Canary Islands",
             "artists": [
@@ -1698,6 +1665,41 @@
             ],
             "album": "Miss You",
             "played_at": "05/02/2026 - 11:04:38"
+        },
+        {
+            "song_name": "Ordinary",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "You'll Be Alright, Kid (Chapter 1)",
+            "played_at": "05/02/2026 - 14:35:11"
+        },
+        {
+            "song_name": "The Prayer",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "A Kid Named Cudi",
+            "played_at": "05/02/2026 - 14:35:10"
+        },
+        {
+            "song_name": "don’t i (feat. Gunna)",
+            "artists": [
+                "Roddy Ricch",
+                "Gunna"
+            ],
+            "album": "LIVE LIFE FAST",
+            "played_at": "05/02/2026 - 14:35:07"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "05/02/2026 - 14:09:14"
         }
     ]
 }
