@@ -1,19 +1,6 @@
 {
-    "total_plays": 2279,
+    "total_plays": 2280,
     "tracks": [
-        {
-            "song_name": "OK OK - Hamdi Remix",
-            "artists": [
-                "Hamdi",
-                "Fred again..",
-                "Danny Brown",
-                "BEAM",
-                "PARISI",
-                "JPEGMAFIA"
-            ],
-            "album": "OK OK (Hamdi Remix)",
-            "played_at": "30/01/2026 - 16:23:52"
-        },
         {
             "song_name": "PUNK ROCKY",
             "artists": [
@@ -1707,6 +1694,16 @@
             ],
             "album": "Hell Night",
             "played_at": "05/02/2026 - 06:29:35"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "05/02/2026 - 06:40:14"
         }
     ]
 }
