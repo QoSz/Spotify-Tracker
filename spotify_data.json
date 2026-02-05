@@ -1,102 +1,6 @@
 {
-    "total_plays": 2280,
+    "total_plays": 2291,
     "tracks": [
-        {
-            "song_name": "PUNK ROCKY",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "30/01/2026 - 16:20:52"
-        },
-        {
-            "song_name": "Jump & Shout",
-            "artists": [
-                "HUGEL",
-                "Divolly & Markward"
-            ],
-            "album": "Jump & Shout",
-            "played_at": "30/01/2026 - 16:16:53"
-        },
-        {
-            "song_name": "Loitering (ft. Kodak Black)",
-            "artists": [
-                "Diplo",
-                "d00mscrvll",
-                "Kodak Black"
-            ],
-            "album": "d00mscrvll",
-            "played_at": "30/01/2026 - 16:14:53"
-        },
-        {
-            "song_name": "If You Know You Know",
-            "artists": [
-                "Wiz Khalifa",
-                "Juicy J"
-            ],
-            "album": "Khaotic",
-            "played_at": "30/01/2026 - 16:12:08"
-        },
-        {
-            "song_name": "Between Known Stars",
-            "artists": [
-                "Lullayana",
-                "Ashna Lite"
-            ],
-            "album": "Glow Between the Constellations",
-            "played_at": "30/01/2026 - 16:09:28"
-        },
-        {
-            "song_name": "Keep Ya Head Up",
-            "artists": [
-                "Kig$"
-            ],
-            "album": "Keep Ya Head Up",
-            "played_at": "30/01/2026 - 16:05:54"
-        },
-        {
-            "song_name": "RATHER BE (feat. Lithe)",
-            "artists": [
-                "The Kid LAROI",
-                "Lithe"
-            ],
-            "album": "BEFORE I FORGET",
-            "played_at": "30/01/2026 - 16:03:52"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "30/01/2026 - 16:01:45"
-        },
-        {
-            "song_name": "Drama King",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Drama King",
-            "played_at": "30/01/2026 - 15:53:59"
-        },
-        {
-            "song_name": "What You Need - A COLORS SHOW",
-            "artists": [
-                "Tems",
-                "COLORS"
-            ],
-            "album": "What You Need - A COLORS SHOW",
-            "played_at": "30/01/2026 - 15:50:39"
-        },
-        {
-            "song_name": "On The Ground",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "On The Ground",
-            "played_at": "30/01/2026 - 15:46:52"
-        },
         {
             "song_name": "Narcos",
             "artists": [
@@ -1704,6 +1608,100 @@
             ],
             "album": "$ome $exy $ongs 4 U",
             "played_at": "05/02/2026 - 06:40:14"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "05/02/2026 - 08:59:35"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "05/02/2026 - 08:56:05"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "05/02/2026 - 08:51:36"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "05/02/2026 - 08:49:35"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "05/02/2026 - 08:46:35"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "05/02/2026 - 08:43:35"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "05/02/2026 - 08:41:36"
+        },
+        {
+            "song_name": "In Reverse",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "In Reverse",
+            "played_at": "05/02/2026 - 08:38:05"
+        },
+        {
+            "song_name": "No Man's Land",
+            "artists": [
+                "CAKES",
+                "Izzy Bizu"
+            ],
+            "album": "No Man's Land",
+            "played_at": "05/02/2026 - 08:35:35"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "05/02/2026 - 08:33:05"
+        },
+        {
+            "song_name": "Excavator",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Excavator",
+            "played_at": "05/02/2026 - 08:32:35"
         }
     ]
 }
