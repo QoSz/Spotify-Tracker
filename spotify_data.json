@@ -1,14 +1,6 @@
 {
-    "total_plays": 2278,
+    "total_plays": 2279,
     "tracks": [
-        {
-            "song_name": "LIGHTS GO OUT",
-            "artists": [
-                "John Summit"
-            ],
-            "album": "LIGHTS GO OUT",
-            "played_at": "30/01/2026 - 16:26:22"
-        },
         {
             "song_name": "OK OK - Hamdi Remix",
             "artists": [
@@ -1706,6 +1698,15 @@
             ],
             "album": "Secrets",
             "played_at": "04/02/2026 - 19:07:52"
+        },
+        {
+            "song_name": "Hell Night",
+            "artists": [
+                "Pooh Shiesty",
+                "BIG30"
+            ],
+            "album": "Hell Night",
+            "played_at": "05/02/2026 - 06:29:35"
         }
     ]
 }
