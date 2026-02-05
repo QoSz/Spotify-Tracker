@@ -1,15 +1,6 @@
 {
-    "total_plays": 2317,
+    "total_plays": 2318,
     "tracks": [
-        {
-            "song_name": "Go Down (feat. TisaKorean)",
-            "artists": [
-                "Don Toliver",
-                "TisaKorean"
-            ],
-            "album": "Love Sick",
-            "played_at": "02/02/2026 - 08:59:14"
-        },
         {
             "song_name": "I CAN’T LET GO",
             "artists": [
@@ -1698,6 +1689,14 @@
             ],
             "album": "A Kid Named Cudi",
             "played_at": "05/02/2026 - 19:02:45"
+        },
+        {
+            "song_name": "Professional",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Professional",
+            "played_at": "05/02/2026 - 20:05:00"
         }
     ]
 }
