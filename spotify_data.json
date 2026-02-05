@@ -1,78 +1,6 @@
 {
-    "total_plays": 2291,
+    "total_plays": 2299,
     "tracks": [
-        {
-            "song_name": "Narcos",
-            "artists": [
-                "French Montana",
-                "Max B",
-                "Metro Boomin"
-            ],
-            "album": "Coke Wave 3.5: Narcos",
-            "played_at": "30/01/2026 - 15:41:56"
-        },
-        {
-            "song_name": "Two Car Garage",
-            "artists": [
-                "Jon Bellion",
-                "Swae Lee",
-                "FANDOM"
-            ],
-            "album": "Two Car Garage",
-            "played_at": "30/01/2026 - 15:38:52"
-        },
-        {
-            "song_name": "Love Ya - Chill Lofi",
-            "artists": [
-                "Diljit Dosanjh",
-                "The Independeners"
-            ],
-            "album": "Love Ya (Chill Lofi)",
-            "played_at": "30/01/2026 - 15:35:52"
-        },
-        {
-            "song_name": "S.L.I.D.E",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Slutty Bass",
-            "played_at": "30/01/2026 - 15:33:22"
-        },
-        {
-            "song_name": "POP DAT THANG",
-            "artists": [
-                "DaBaby"
-            ],
-            "album": "POP DAT THANG",
-            "played_at": "30/01/2026 - 15:29:22"
-        },
-        {
-            "song_name": "Amnesia",
-            "artists": [
-                "Sébastien Tellier",
-                "Kid Cudi"
-            ],
-            "album": "Amnesia",
-            "played_at": "30/01/2026 - 15:26:52"
-        },
-        {
-            "song_name": "Aperture",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Aperture",
-            "played_at": "30/01/2026 - 15:23:54"
-        },
-        {
-            "song_name": "One of Them Ones",
-            "artists": [
-                "Veeze",
-                "Lil Baby",
-                "Rylo Rodriguez"
-            ],
-            "album": "One of Them Ones",
-            "played_at": "30/01/2026 - 15:10:22"
-        },
         {
             "song_name": "Think About Us - CYRIL Remix",
             "artists": [
@@ -1702,6 +1630,76 @@
             ],
             "album": "Excavator",
             "played_at": "05/02/2026 - 08:32:35"
+        },
+        {
+            "song_name": "Ocean",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Ocean",
+            "played_at": "05/02/2026 - 09:31:04"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "05/02/2026 - 09:29:05"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "05/02/2026 - 09:26:05"
+        },
+        {
+            "song_name": "Remember",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Remember",
+            "played_at": "05/02/2026 - 09:23:34"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "05/02/2026 - 09:21:00"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "05/02/2026 - 09:17:34"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "05/02/2026 - 09:14:04"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "05/02/2026 - 09:01:35"
         }
     ]
 }
