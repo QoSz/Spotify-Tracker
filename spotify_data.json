@@ -1,24 +1,6 @@
 {
-    "total_plays": 2315,
+    "total_plays": 2317,
     "tracks": [
-        {
-            "song_name": "Ever Since U Left Me (I Went Deaf)",
-            "artists": [
-                "French Montana",
-                "Max B"
-            ],
-            "album": "Coke Wave 3.5: Narcos",
-            "played_at": "02/02/2026 - 08:28:53"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "02/02/2026 - 08:27:25"
-        },
         {
             "song_name": "Go Down (feat. TisaKorean)",
             "artists": [
@@ -1700,6 +1682,22 @@
             ],
             "album": "Glow",
             "played_at": "05/02/2026 - 18:49:21"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "05/02/2026 - 19:08:13"
+        },
+        {
+            "song_name": "The Prayer",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "A Kid Named Cudi",
+            "played_at": "05/02/2026 - 19:02:45"
         }
     ]
 }
