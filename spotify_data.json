@@ -1,74 +1,6 @@
 {
-    "total_plays": 2337,
+    "total_plays": 2345,
     "tracks": [
-        {
-            "song_name": "High School Reunion, Prom [Feat. Lil Uzi Vert]",
-            "artists": [
-                "SAINt JHN",
-                "Lil Uzi Vert"
-            ],
-            "album": "While The World Was Burning",
-            "played_at": "02/02/2026 - 09:06:44"
-        },
-        {
-            "song_name": "DUMBO",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "02/02/2026 - 09:03:14"
-        },
-        {
-            "song_name": "don’t panic",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "02/02/2026 - 09:31:47"
-        },
-        {
-            "song_name": "Sweet Nothing - 2025 Edit",
-            "artists": [
-                "D.O.D",
-                "Calvin Harris",
-                "Florence Welch"
-            ],
-            "album": "Sweet Nothing (2025 Edit)",
-            "played_at": "02/02/2026 - 15:01:07"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "02/02/2026 - 14:57:37"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "02/02/2026 - 14:54:08"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "02/02/2026 - 14:52:07"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "02/02/2026 - 14:49:37"
-        },
         {
             "song_name": "Make Me Feel",
             "artists": [
@@ -1697,6 +1629,75 @@
             ],
             "album": "Chixtapes (Trilogy)",
             "played_at": "06/02/2026 - 11:30:12"
+        },
+        {
+            "song_name": "East Liberty",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "PARTYNEXTDOOR TWO",
+            "played_at": "06/02/2026 - 11:53:35"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "06/02/2026 - 11:51:58"
+        },
+        {
+            "song_name": "Blame On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "06/02/2026 - 11:47:40"
+        },
+        {
+            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
+            "artists": [
+                "Drake",
+                "Peter Bjorn and John"
+            ],
+            "album": "So Far Gone",
+            "played_at": "06/02/2026 - 11:43:42"
+        },
+        {
+            "song_name": "my man... (feat. Mariah The Scientist)",
+            "artists": [
+                "Queen Naija",
+                "Mariah the Scientist"
+            ],
+            "album": "30.",
+            "played_at": "06/02/2026 - 11:41:29"
+        },
+        {
+            "song_name": "RATHER BE (feat. Lithe)",
+            "artists": [
+                "The Kid LAROI",
+                "Lithe"
+            ],
+            "album": "BEFORE I FORGET",
+            "played_at": "06/02/2026 - 11:38:17"
+        },
+        {
+            "song_name": "RATHER BE (feat. Lithe)",
+            "artists": [
+                "The Kid LAROI",
+                "Lithe"
+            ],
+            "album": "BEFORE I FORGET",
+            "played_at": "06/02/2026 - 11:35:11"
+        },
+        {
+            "song_name": "Time",
+            "artists": [
+                "Aaron May"
+            ],
+            "album": "No Recognition",
+            "played_at": "06/02/2026 - 11:33:11"
         }
     ]
 }
