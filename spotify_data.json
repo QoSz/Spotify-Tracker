@@ -1,14 +1,6 @@
 {
-    "total_plays": 2345,
+    "total_plays": 2346,
     "tracks": [
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "02/02/2026 - 14:47:07"
-        },
         {
             "song_name": "Glow",
             "artists": [
@@ -1698,6 +1690,15 @@
             ],
             "album": "No Recognition",
             "played_at": "06/02/2026 - 11:33:11"
+        },
+        {
+            "song_name": "You (feat. Travis Scott)",
+            "artists": [
+                "Don Toliver",
+                "Travis Scott"
+            ],
+            "album": "Life of a DON",
+            "played_at": "06/02/2026 - 12:51:30"
         }
     ]
 }
