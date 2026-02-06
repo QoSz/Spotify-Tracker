@@ -1,67 +1,6 @@
 {
-    "total_plays": 2329,
+    "total_plays": 2336,
     "tracks": [
-        {
-            "song_name": "Down With Me",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "TEC (Bonus)",
-            "played_at": "02/02/2026 - 09:29:14"
-        },
-        {
-            "song_name": "LIFE IS A GAMBLE",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "LIFE IS A GAMBLE",
-            "played_at": "02/02/2026 - 09:27:14"
-        },
-        {
-            "song_name": "HELICOPTER",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "02/02/2026 - 09:24:14"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "02/02/2026 - 09:21:48"
-        },
-        {
-            "song_name": "ALL EYES",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "02/02/2026 - 09:18:14"
-        },
-        {
-            "song_name": "Out Of My Hands",
-            "artists": [
-                "Future",
-                "Metro Boomin"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "02/02/2026 - 09:16:18"
-        },
-        {
-            "song_name": "Erase Me - Main",
-            "artists": [
-                "Kid Cudi",
-                "Kanye West"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "02/02/2026 - 09:12:14"
-        },
         {
             "song_name": "LIKE WOW",
             "artists": [
@@ -1698,6 +1637,66 @@
             ],
             "album": "Tek It (I Watch the Moon)",
             "played_at": "06/02/2026 - 09:49:57"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "06/02/2026 - 11:28:11"
+        },
+        {
+            "song_name": "soulless",
+            "artists": [
+                "sosocamo"
+            ],
+            "album": "no service",
+            "played_at": "06/02/2026 - 11:22:42"
+        },
+        {
+            "song_name": "Reclusive",
+            "artists": [
+                "Elmiene"
+            ],
+            "album": "Reclusive",
+            "played_at": "06/02/2026 - 11:20:42"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "06/02/2026 - 11:17:42"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "06/02/2026 - 11:11:42"
+        },
+        {
+            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
+            "artists": [
+                "Drake",
+                "Peter Bjorn and John"
+            ],
+            "album": "So Far Gone",
+            "played_at": "06/02/2026 - 11:08:12"
+        },
+        {
+            "song_name": "She",
+            "artists": [
+                "Ambré"
+            ],
+            "album": "She",
+            "played_at": "06/02/2026 - 11:04:12"
         }
     ]
 }
