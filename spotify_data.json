@@ -1,84 +1,6 @@
 {
-    "total_plays": 2319,
+    "total_plays": 2328,
     "tracks": [
-        {
-            "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
-            "artists": [
-                "Lil Baby",
-                "Gunna",
-                "Drake"
-            ],
-            "album": "Drip Harder",
-            "played_at": "02/02/2026 - 08:53:13"
-        },
-        {
-            "song_name": "collage",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "02/02/2026 - 08:49:44"
-        },
-        {
-            "song_name": "Try Me",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Try Me",
-            "played_at": "02/02/2026 - 08:47:44"
-        },
-        {
-            "song_name": "NO LOWER",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "NO LOWER",
-            "played_at": "02/02/2026 - 08:45:14"
-        },
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "02/02/2026 - 08:42:43"
-        },
-        {
-            "song_name": "Set You Free",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Set You Free",
-            "played_at": "02/02/2026 - 08:40:13"
-        },
-        {
-            "song_name": "On The Road (feat. Meek Mill & Lil Baby)",
-            "artists": [
-                "Post Malone",
-                "Meek Mill",
-                "Lil Baby"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "02/02/2026 - 08:38:13"
-        },
-        {
-            "song_name": "Too Many Nights (feat. Don Toliver & with Future)",
-            "artists": [
-                "Metro Boomin",
-                "Future",
-                "Don Toliver"
-            ],
-            "album": "HEROES & VILLAINS",
-            "played_at": "02/02/2026 - 08:34:21"
-        },
-        {
-            "song_name": "Follow God",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "JESUS IS KING",
-            "played_at": "02/02/2026 - 08:34:14"
-        },
         {
             "song_name": "You (feat. Travis Scott)",
             "artists": [
@@ -1697,6 +1619,86 @@
             ],
             "album": "Running Back",
             "played_at": "05/02/2026 - 21:54:09"
+        },
+        {
+            "song_name": "Been Thru This Before (with Giggs & SAINt JHN)",
+            "artists": [
+                "Marshmello",
+                "Southside",
+                "Giggs",
+                "SAINt JHN"
+            ],
+            "album": "Been Thru This Before",
+            "played_at": "06/02/2026 - 08:46:37"
+        },
+        {
+            "song_name": "Hear Me Calling",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "06/02/2026 - 08:43:17"
+        },
+        {
+            "song_name": "Chicago Freestyle (feat. Giveon)",
+            "artists": [
+                "Drake",
+                "GIVĒON"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "06/02/2026 - 08:40:07"
+        },
+        {
+            "song_name": "Hear Me Calling",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "06/02/2026 - 08:04:07"
+        },
+        {
+            "song_name": "Been Thru This Before (with Giggs & SAINt JHN)",
+            "artists": [
+                "Marshmello",
+                "Southside",
+                "Giggs",
+                "SAINt JHN"
+            ],
+            "album": "Been Thru This Before",
+            "played_at": "06/02/2026 - 07:58:36"
+        },
+        {
+            "song_name": "My Drug",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Entergalactic",
+            "played_at": "06/02/2026 - 07:51:49"
+        },
+        {
+            "song_name": "Blame On Me",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "06/02/2026 - 07:41:12"
+        },
+        {
+            "song_name": "2 Mazza (feat. Drake)",
+            "artists": [
+                "Smiley",
+                "Drake"
+            ],
+            "album": "Don't Box Me In",
+            "played_at": "06/02/2026 - 07:36:32"
+        },
+        {
+            "song_name": "The Chase",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "The Last Dance, Pt 2",
+            "played_at": "06/02/2026 - 07:30:39"
         }
     ]
 }
