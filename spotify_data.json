@@ -1,15 +1,6 @@
 {
-    "total_plays": 2318,
+    "total_plays": 2319,
     "tracks": [
-        {
-            "song_name": "I CAN’T LET GO",
-            "artists": [
-                "Lil Tecca",
-                "Don Toliver"
-            ],
-            "album": "PLAN A",
-            "played_at": "02/02/2026 - 08:55:44"
-        },
         {
             "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
             "artists": [
@@ -1697,6 +1688,15 @@
             ],
             "album": "Professional",
             "played_at": "05/02/2026 - 20:05:00"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "05/02/2026 - 21:54:09"
         }
     ]
 }
