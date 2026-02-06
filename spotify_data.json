@@ -1,15 +1,6 @@
 {
-    "total_plays": 2328,
+    "total_plays": 2329,
     "tracks": [
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "02/02/2026 - 08:32:21"
-        },
         {
             "song_name": "Down With Me",
             "artists": [
@@ -1699,6 +1690,14 @@
             ],
             "album": "The Last Dance, Pt 2",
             "played_at": "06/02/2026 - 07:30:39"
+        },
+        {
+            "song_name": "Tek It - Slowed",
+            "artists": [
+                "Cafuné"
+            ],
+            "album": "Tek It (I Watch the Moon)",
+            "played_at": "06/02/2026 - 09:49:57"
         }
     ]
 }
