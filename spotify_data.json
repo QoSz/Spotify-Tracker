@@ -1,14 +1,6 @@
 {
-    "total_plays": 2346,
+    "total_plays": 2347,
     "tracks": [
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "02/02/2026 - 14:44:10"
-        },
         {
             "song_name": "I Run",
             "artists": [
@@ -1699,6 +1691,14 @@
             ],
             "album": "Life of a DON",
             "played_at": "06/02/2026 - 12:51:30"
+        },
+        {
+            "song_name": "YUKON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG",
+            "played_at": "07/02/2026 - 10:52:11"
         }
     ]
 }
