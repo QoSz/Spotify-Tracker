@@ -1,31 +1,6 @@
 {
-    "total_plays": 2347,
+    "total_plays": 2350,
     "tracks": [
-        {
-            "song_name": "I Run",
-            "artists": [
-                "HAVEN.",
-                "Kaitlin Aragon"
-            ],
-            "album": "I Run",
-            "played_at": "02/02/2026 - 14:41:37"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "02/02/2026 - 14:39:07"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "02/02/2026 - 14:35:38"
-        },
         {
             "song_name": "Middle",
             "artists": [
@@ -1699,6 +1674,33 @@
             ],
             "album": "SWAG",
             "played_at": "07/02/2026 - 10:52:11"
+        },
+        {
+            "song_name": "It Ain't Me (with Selena Gomez)",
+            "artists": [
+                "Kygo",
+                "Selena Gomez"
+            ],
+            "album": "It Ain't Me (with Selena Gomez)",
+            "played_at": "08/02/2026 - 18:10:14"
+        },
+        {
+            "song_name": "Firestone",
+            "artists": [
+                "Kygo",
+                "Conrad Sewell"
+            ],
+            "album": "Cloud Nine",
+            "played_at": "08/02/2026 - 17:09:31"
+        },
+        {
+            "song_name": "Whatever",
+            "artists": [
+                "Kygo",
+                "Ava Max"
+            ],
+            "album": "Whatever",
+            "played_at": "08/02/2026 - 17:05:23"
         }
     ]
 }
