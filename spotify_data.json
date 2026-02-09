@@ -1,91 +1,6 @@
 {
-    "total_plays": 2396,
+    "total_plays": 2406,
     "tracks": [
-        {
-            "song_name": "Gravity",
-            "artists": [
-                "Joshwa",
-                "Lauren Nicole"
-            ],
-            "album": "Gravity",
-            "played_at": "04/02/2026 - 08:57:42"
-        },
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "04/02/2026 - 08:54:13"
-        },
-        {
-            "song_name": "Ride With Me",
-            "artists": [
-                "Zac Samuel"
-            ],
-            "album": "Ride With Me",
-            "played_at": "04/02/2026 - 08:51:12"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "04/02/2026 - 08:48:12"
-        },
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "04/02/2026 - 08:46:12"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "04/02/2026 - 08:43:12"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "04/02/2026 - 08:40:12"
-        },
-        {
-            "song_name": "Rain",
-            "artists": [
-                "Astrality",
-                "MNRT",
-                "S:NE"
-            ],
-            "album": "Rain",
-            "played_at": "04/02/2026 - 08:36:13"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "04/02/2026 - 08:33:12"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "04/02/2026 - 09:09:12"
-        },
         {
             "song_name": "Miss You So",
             "artists": [
@@ -1707,6 +1622,93 @@
             ],
             "album": "Waiting for Love",
             "played_at": "09/02/2026 - 11:23:30"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "09/02/2026 - 11:58:53"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "09/02/2026 - 11:55:48"
+        },
+        {
+            "song_name": "Watching over You",
+            "artists": [
+                "Nu Aspect",
+                "Marlo Rex"
+            ],
+            "album": "Watching over You",
+            "played_at": "09/02/2026 - 11:53:24"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "09/02/2026 - 11:49:30"
+        },
+        {
+            "song_name": "the morning",
+            "artists": [
+                "kalm"
+            ],
+            "album": "the morning",
+            "played_at": "09/02/2026 - 11:46:31"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "09/02/2026 - 11:44:34"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "09/02/2026 - 11:42:05"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "09/02/2026 - 11:38:30"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "09/02/2026 - 11:35:30"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "09/02/2026 - 11:32:00"
         }
     ]
 }
