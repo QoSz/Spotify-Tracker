@@ -1,43 +1,6 @@
 {
-    "total_plays": 2360,
+    "total_plays": 2364,
     "tracks": [
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "03/02/2026 - 16:13:26"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "03/02/2026 - 16:10:27"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "03/02/2026 - 16:06:57"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "03/02/2026 - 16:05:57"
-        },
         {
             "song_name": "blackout blackout",
             "artists": [
@@ -1702,6 +1665,41 @@
             ],
             "album": "Shine Like Stars",
             "played_at": "09/02/2026 - 08:33:31"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "09/02/2026 - 09:11:31"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "09/02/2026 - 09:09:16"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "09/02/2026 - 09:04:31"
+        },
+        {
+            "song_name": "I Run",
+            "artists": [
+                "HAVEN.",
+                "Kaitlin Aragon"
+            ],
+            "album": "I Run",
+            "played_at": "09/02/2026 - 09:02:31"
         }
     ]
 }
