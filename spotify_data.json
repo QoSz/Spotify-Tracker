@@ -1,97 +1,6 @@
 {
-    "total_plays": 2364,
+    "total_plays": 2375,
     "tracks": [
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "03/02/2026 - 14:31:23"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "03/02/2026 - 14:29:24"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "03/02/2026 - 14:26:53"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "03/02/2026 - 14:24:23"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "03/02/2026 - 14:21:23"
-        },
-        {
-            "song_name": "I Run",
-            "artists": [
-                "HAVEN.",
-                "Kaitlin Aragon"
-            ],
-            "album": "I Run",
-            "played_at": "03/02/2026 - 14:18:54"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "03/02/2026 - 14:16:24"
-        },
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "03/02/2026 - 14:12:42"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "03/02/2026 - 14:11:24"
-        },
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "03/02/2026 - 14:11:09"
-        },
-        {
-            "song_name": "21 Years",
-            "artists": [
-                "Skepta",
-                "Fred again.."
-            ],
-            "album": "Skepta .. Fred",
-            "played_at": "03/02/2026 - 14:11:06"
-        },
         {
             "song_name": "Recognize",
             "artists": [
@@ -1700,6 +1609,102 @@
             ],
             "album": "I Run",
             "played_at": "09/02/2026 - 09:02:31"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "09/02/2026 - 10:31:30"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "09/02/2026 - 10:30:00"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "09/02/2026 - 10:27:00"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "09/02/2026 - 10:24:00"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "09/02/2026 - 10:21:00"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "09/02/2026 - 10:19:00"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "09/02/2026 - 10:16:31"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "09/02/2026 - 10:13:30"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Sonny Fodera",
+                "Clementine Douglas"
+            ],
+            "album": "Tell Me",
+            "played_at": "09/02/2026 - 10:10:30"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "09/02/2026 - 10:07:30"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "09/02/2026 - 10:06:00"
         }
     ]
 }
