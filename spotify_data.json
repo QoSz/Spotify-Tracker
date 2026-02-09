@@ -1,41 +1,6 @@
 {
-    "total_plays": 2406,
+    "total_plays": 2410,
     "tracks": [
-        {
-            "song_name": "Miss You So",
-            "artists": [
-                "Thandi",
-                "Ginger Mafia"
-            ],
-            "album": "Miss You So",
-            "played_at": "04/02/2026 - 09:06:42"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "04/02/2026 - 09:04:12"
-        },
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "04/02/2026 - 09:00:42"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "04/02/2026 - 10:23:55"
-        },
         {
             "song_name": "Something Stronger",
             "artists": [
@@ -1709,6 +1674,41 @@
             ],
             "album": "Let It Go",
             "played_at": "09/02/2026 - 11:32:00"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "09/02/2026 - 12:12:00"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "09/02/2026 - 12:09:30"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "09/02/2026 - 12:06:00"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "09/02/2026 - 12:02:44"
         }
     ]
 }
