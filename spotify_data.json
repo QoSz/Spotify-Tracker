@@ -1,33 +1,6 @@
 {
-    "total_plays": 2393,
+    "total_plays": 2396,
     "tracks": [
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "04/02/2026 - 08:22:42"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "04/02/2026 - 08:19:42"
-        },
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "04/02/2026 - 08:15:42"
-        },
         {
             "song_name": "Gravity",
             "artists": [
@@ -1707,6 +1680,33 @@
             ],
             "album": "Cherish",
             "played_at": "09/02/2026 - 10:35:03"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "09/02/2026 - 11:29:01"
+        },
+        {
+            "song_name": "Hollow Ground",
+            "artists": [
+                "NOTSOBAD",
+                "Able Faces"
+            ],
+            "album": "Hollow Ground",
+            "played_at": "09/02/2026 - 11:26:30"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "09/02/2026 - 11:23:30"
         }
     ]
 }
