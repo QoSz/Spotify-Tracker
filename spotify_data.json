@@ -1,16 +1,6 @@
 {
-    "total_plays": 2410,
+    "total_plays": 2411,
     "tracks": [
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "04/02/2026 - 10:20:23"
-        },
         {
             "song_name": "Shine Like Stars",
             "artists": [
@@ -1709,6 +1699,14 @@
             ],
             "album": "First Contact",
             "played_at": "09/02/2026 - 12:02:44"
+        },
+        {
+            "song_name": "Remember",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Remember",
+            "played_at": "09/02/2026 - 19:44:44"
         }
     ]
 }
