@@ -1,62 +1,6 @@
 {
-    "total_plays": 2411,
+    "total_plays": 2418,
     "tracks": [
-        {
-            "song_name": "Shine Like Stars",
-            "artists": [
-                "Benji"
-            ],
-            "album": "Shine Like Stars",
-            "played_at": "04/02/2026 - 10:17:53"
-        },
-        {
-            "song_name": "Shine Like Stars",
-            "artists": [
-                "Benji"
-            ],
-            "album": "Shine Like Stars",
-            "played_at": "04/02/2026 - 10:15:24"
-        },
-        {
-            "song_name": "E85",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "OCTANE",
-            "played_at": "04/02/2026 - 11:05:07"
-        },
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "04/02/2026 - 11:02:50"
-        },
-        {
-            "song_name": "STOLE YA FLOW",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "04/02/2026 - 13:25:08"
-        },
-        {
-            "song_name": "INTERROGATION (SKIT)",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "04/02/2026 - 13:22:09"
-        },
-        {
-            "song_name": "HELICOPTER",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "04/02/2026 - 13:21:08"
-        },
         {
             "song_name": "ORDER OF PROTECTION",
             "artists": [
@@ -1707,6 +1651,66 @@
             ],
             "album": "Remember",
             "played_at": "09/02/2026 - 19:44:44"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "10/02/2026 - 08:59:54"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "10/02/2026 - 08:56:50"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "10/02/2026 - 08:53:50"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "10/02/2026 - 08:51:20"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "10/02/2026 - 08:48:52"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "10/02/2026 - 08:45:50"
+        },
+        {
+            "song_name": "Remember",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Remember",
+            "played_at": "10/02/2026 - 08:42:50"
         }
     ]
 }
