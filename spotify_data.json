@@ -1,78 +1,6 @@
 {
-    "total_plays": 2436,
+    "total_plays": 2445,
     "tracks": [
-        {
-            "song_name": "moody",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "04/02/2026 - 17:04:08"
-        },
-        {
-            "song_name": "Bruise",
-            "artists": [
-                "BETWEEN FRIENDS"
-            ],
-            "album": "I Love My Girl, She's My Boy",
-            "played_at": "04/02/2026 - 17:01:09"
-        },
-        {
-            "song_name": "Goodie Bag",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Goodie Bag",
-            "played_at": "04/02/2026 - 16:58:09"
-        },
-        {
-            "song_name": "Shine A Light",
-            "artists": [
-                "BANNERS"
-            ],
-            "album": "Shine A Light",
-            "played_at": "04/02/2026 - 16:56:07"
-        },
-        {
-            "song_name": "Living In A Haze",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Living In A Haze",
-            "played_at": "04/02/2026 - 16:52:08"
-        },
-        {
-            "song_name": "Designer",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Find A Way",
-            "played_at": "04/02/2026 - 16:49:07"
-        },
-        {
-            "song_name": "Spit Of You",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "04/02/2026 - 16:46:07"
-        },
-        {
-            "song_name": "who’s your boyfriend",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "04/02/2026 - 16:41:37"
-        },
-        {
-            "song_name": "Eyes On You",
-            "artists": [
-                "Master Peace"
-            ],
-            "album": "Eyes On You",
-            "played_at": "04/02/2026 - 16:38:37"
-        },
         {
             "song_name": "forever, with you",
             "artists": [
@@ -1707,6 +1635,86 @@
             ],
             "album": "under current",
             "played_at": "10/02/2026 - 11:08:43"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "10/02/2026 - 19:30:42"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "10/02/2026 - 19:27:05"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "10/02/2026 - 19:24:46"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "10/02/2026 - 19:22:29"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "10/02/2026 - 19:19:53"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "10/02/2026 - 19:16:12"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "10/02/2026 - 19:12:32"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "10/02/2026 - 19:10:22"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "10/02/2026 - 19:08:57"
         }
     ]
 }
