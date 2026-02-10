@@ -1,67 +1,6 @@
 {
-    "total_plays": 2429,
+    "total_plays": 2436,
     "tracks": [
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "04/02/2026 - 17:28:40"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "04/02/2026 - 17:25:07"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "04/02/2026 - 17:21:37"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "04/02/2026 - 17:18:38"
-        },
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "04/02/2026 - 17:15:37"
-        },
-        {
-            "song_name": "The Moment",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Currents",
-            "played_at": "04/02/2026 - 17:12:16"
-        },
-        {
-            "song_name": "Bitter",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "04/02/2026 - 17:08:07"
-        },
         {
             "song_name": "moody",
             "artists": [
@@ -1709,6 +1648,65 @@
             ],
             "album": "Salvation",
             "played_at": "10/02/2026 - 10:47:48"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "10/02/2026 - 11:27:29"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "10/02/2026 - 11:22:43"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "10/02/2026 - 11:20:12"
+        },
+        {
+            "song_name": "Say It Right - Rinzen Remix",
+            "artists": [
+                "Nelly Furtado",
+                "Rinzen"
+            ],
+            "album": "Say It Right (Rinzen Remix)",
+            "played_at": "10/02/2026 - 11:17:12"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "10/02/2026 - 11:13:42"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "10/02/2026 - 11:10:42"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "10/02/2026 - 11:08:43"
         }
     ]
 }
