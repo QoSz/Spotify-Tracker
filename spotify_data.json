@@ -1,14 +1,6 @@
 {
-    "total_plays": 2449,
+    "total_plays": 2450,
     "tracks": [
-        {
-            "song_name": "Great Pretender",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Rocket",
-            "played_at": "04/02/2026 - 16:22:37"
-        },
         {
             "song_name": "Opening Night",
             "artists": [
@@ -1718,6 +1710,15 @@
             ],
             "album": "Mother",
             "played_at": "10/02/2026 - 19:33:21"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "10/02/2026 - 20:42:19"
         }
     ]
 }
