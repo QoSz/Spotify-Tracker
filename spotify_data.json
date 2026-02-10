@@ -1,38 +1,6 @@
 {
-    "total_plays": 2445,
+    "total_plays": 2449,
     "tracks": [
-        {
-            "song_name": "forever, with you",
-            "artists": [
-                "Paradise Blossom"
-            ],
-            "album": "forever, with you",
-            "played_at": "04/02/2026 - 16:36:07"
-        },
-        {
-            "song_name": "What You Know",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Tourist History",
-            "played_at": "04/02/2026 - 16:33:37"
-        },
-        {
-            "song_name": "Through My Teeth",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "04/02/2026 - 16:30:07"
-        },
-        {
-            "song_name": "The Boat I Row",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush B-Sides & Remixes",
-            "played_at": "04/02/2026 - 16:26:38"
-        },
         {
             "song_name": "Great Pretender",
             "artists": [
@@ -1715,6 +1683,41 @@
             ],
             "album": "Running Back",
             "played_at": "10/02/2026 - 19:08:57"
+        },
+        {
+            "song_name": "Where Nobody Knows",
+            "artists": [
+                "Hyzteria",
+                "Dakota"
+            ],
+            "album": "Where Nobody Knows",
+            "played_at": "10/02/2026 - 19:43:44"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "10/02/2026 - 19:40:47"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "10/02/2026 - 19:36:16"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "10/02/2026 - 19:33:21"
         }
     ]
 }
