@@ -1,42 +1,6 @@
 {
-    "total_plays": 2425,
+    "total_plays": 2429,
     "tracks": [
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "04/02/2026 - 17:41:07"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "04/02/2026 - 17:37:07"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "04/02/2026 - 17:34:09"
-        },
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "04/02/2026 - 17:31:07"
-        },
         {
             "song_name": "You Save My Life",
             "artists": [
@@ -1712,6 +1676,39 @@
             ],
             "album": "Clocks",
             "played_at": "10/02/2026 - 09:03:20"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "10/02/2026 - 10:55:19"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "10/02/2026 - 10:51:47"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "10/02/2026 - 10:48:47"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "10/02/2026 - 10:47:48"
         }
     ]
 }
