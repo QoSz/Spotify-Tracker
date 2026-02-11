@@ -1,73 +1,6 @@
 {
-    "total_plays": 2465,
+    "total_plays": 2473,
     "tracks": [
-        {
-            "song_name": "Half Mast",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Walking On A Dream (10th Anniversary Edition)",
-            "played_at": "04/02/2026 - 15:28:29"
-        },
-        {
-            "song_name": "can't slow down",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "DIVE",
-            "played_at": "04/02/2026 - 15:24:09"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "04/02/2026 - 15:21:40"
-        },
-        {
-            "song_name": "Crocodile",
-            "artists": [
-                "Goth Babe"
-            ],
-            "album": "Lola",
-            "played_at": "04/02/2026 - 15:18:37"
-        },
-        {
-            "song_name": "I See You",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "I See You",
-            "played_at": "04/02/2026 - 18:20:07"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "04/02/2026 - 18:17:07"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "04/02/2026 - 18:13:37"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "04/02/2026 - 18:11:07"
-        },
         {
             "song_name": "Upside Down",
             "artists": [
@@ -1727,6 +1660,75 @@
             ],
             "album": "Ocean",
             "played_at": "11/02/2026 - 13:33:44"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "11/02/2026 - 15:27:44"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "11/02/2026 - 15:24:45"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "11/02/2026 - 15:21:15"
+        },
+        {
+            "song_name": "I Drift Out, Then Return",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "11/02/2026 - 15:18:15"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "11/02/2026 - 15:15:45"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "11/02/2026 - 15:13:45"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "11/02/2026 - 15:10:17"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "11/02/2026 - 15:09:49"
         }
     ]
 }
