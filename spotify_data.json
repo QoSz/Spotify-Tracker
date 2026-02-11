@@ -1,80 +1,6 @@
 {
-    "total_plays": 2456,
+    "total_plays": 2465,
     "tracks": [
-        {
-            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
-            "artists": [
-                "Drake",
-                "Peter Bjorn and John"
-            ],
-            "album": "So Far Gone",
-            "played_at": "04/02/2026 - 15:58:07"
-        },
-        {
-            "song_name": "adios",
-            "artists": [
-                "JAWNY"
-            ],
-            "album": "It’s Never Fair, Always True",
-            "played_at": "04/02/2026 - 15:54:07"
-        },
-        {
-            "song_name": "Feels Like We Only Go Backwards",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Lonerism",
-            "played_at": "04/02/2026 - 15:50:38"
-        },
-        {
-            "song_name": "Leave Her",
-            "artists": [
-                "d4vd"
-            ],
-            "album": "Withering",
-            "played_at": "04/02/2026 - 15:49:59"
-        },
-        {
-            "song_name": "jupiter",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "DIVE",
-            "played_at": "04/02/2026 - 15:49:32"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "04/02/2026 - 15:41:41"
-        },
-        {
-            "song_name": "waves - Tame Impala Remix",
-            "artists": [
-                "Miguel",
-                "Tame Impala"
-            ],
-            "album": "Rogue Waves",
-            "played_at": "04/02/2026 - 15:38:07"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "04/02/2026 - 15:34:07"
-        },
-        {
-            "song_name": "Drama King",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Drama King",
-            "played_at": "04/02/2026 - 15:31:38"
-        },
         {
             "song_name": "Half Mast",
             "artists": [
@@ -1725,6 +1651,82 @@
             ],
             "album": "Running Back",
             "played_at": "11/02/2026 - 13:17:45"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "11/02/2026 - 13:59:42"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "11/02/2026 - 13:55:43"
+        },
+        {
+            "song_name": "fractured light",
+            "artists": [
+                "kalm"
+            ],
+            "album": "fractured light",
+            "played_at": "11/02/2026 - 13:52:50"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "11/02/2026 - 13:49:43"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "11/02/2026 - 13:46:43"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "11/02/2026 - 13:43:13"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "11/02/2026 - 13:40:14"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "11/02/2026 - 13:36:13"
+        },
+        {
+            "song_name": "Ocean",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Ocean",
+            "played_at": "11/02/2026 - 13:33:44"
         }
     ]
 }
