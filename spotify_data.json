@@ -1,55 +1,6 @@
 {
-    "total_plays": 2450,
+    "total_plays": 2456,
     "tracks": [
-        {
-            "song_name": "Opening Night",
-            "artists": [
-                "Arctic Monkeys",
-                "War Child Records"
-            ],
-            "album": "Opening Night",
-            "played_at": "04/02/2026 - 16:20:08"
-        },
-        {
-            "song_name": "Are We Ready? (Wreck)",
-            "artists": [
-                "Two Door Cinema Club"
-            ],
-            "album": "Gameshow (Deluxe Edition)",
-            "played_at": "04/02/2026 - 16:15:37"
-        },
-        {
-            "song_name": "Driver",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Driver",
-            "played_at": "04/02/2026 - 16:12:08"
-        },
-        {
-            "song_name": "cough drops",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "cough drops",
-            "played_at": "04/02/2026 - 16:09:07"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "04/02/2026 - 16:06:07"
-        },
-        {
-            "song_name": "Seventeen Going Under",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "04/02/2026 - 16:03:07"
-        },
         {
             "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
             "artists": [
@@ -1719,6 +1670,61 @@
             ],
             "album": "Over & Over",
             "played_at": "10/02/2026 - 20:42:19"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "11/02/2026 - 13:31:43"
+        },
+        {
+            "song_name": "Rhythm Inside",
+            "artists": [
+                "Jonasu",
+                "Rory Hope"
+            ],
+            "album": "Rhythm Inside",
+            "played_at": "11/02/2026 - 13:28:44"
+        },
+        {
+            "song_name": "Come Find Me (with Clementine Douglas)",
+            "artists": [
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Come Find Me (with Clementine Douglas)",
+            "played_at": "11/02/2026 - 13:26:13"
+        },
+        {
+            "song_name": "Over The Edge",
+            "artists": [
+                "Nu Aspect",
+                "Poppy Baskcomb"
+            ],
+            "album": "Over The Edge",
+            "played_at": "11/02/2026 - 13:22:47"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "11/02/2026 - 13:18:46"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "11/02/2026 - 13:17:45"
         }
     ]
 }
