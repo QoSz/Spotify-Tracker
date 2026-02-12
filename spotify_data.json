@@ -1,45 +1,6 @@
 {
-    "total_plays": 2550,
+    "total_plays": 2554,
     "tracks": [
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "09/02/2026 - 09:00:00"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Sixten",
-                "Embody",
-                "STO CULTR"
-            ],
-            "album": "Hold On, We're Going Home",
-            "played_at": "09/02/2026 - 08:57:31"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "AVAION",
-                "PaulWetz",
-                "Nu Aspect",
-                "YUMA"
-            ],
-            "album": "Sleepless",
-            "played_at": "09/02/2026 - 08:55:01"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "09/02/2026 - 08:52:01"
-        },
         {
             "song_name": "Never Change",
             "artists": [
@@ -1703,6 +1664,38 @@
             ],
             "album": "Driver",
             "played_at": "12/02/2026 - 15:05:19"
+        },
+        {
+            "song_name": "Why'd You Only Call Me When You're High?",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "AM",
+            "played_at": "12/02/2026 - 15:49:23"
+        },
+        {
+            "song_name": "it only gets worse, i promise",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "12/02/2026 - 15:40:18"
+        },
+        {
+            "song_name": "Cold Cold Cold",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Tell Me I'm Pretty",
+            "played_at": "12/02/2026 - 15:37:18"
+        },
+        {
+            "song_name": "What Do We Ever Really Know?",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "12/02/2026 - 15:33:48"
         }
     ]
 }
