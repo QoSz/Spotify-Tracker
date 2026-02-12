@@ -1,39 +1,6 @@
 {
-    "total_plays": 2512,
+    "total_plays": 2516,
     "tracks": [
-        {
-            "song_name": "don’t i (feat. Gunna)",
-            "artists": [
-                "Roddy Ricch",
-                "Gunna"
-            ],
-            "album": "LIVE LIFE FAST",
-            "played_at": "05/02/2026 - 18:55:00"
-        },
-        {
-            "song_name": "The Chase",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "The Last Dance, Pt 2",
-            "played_at": "05/02/2026 - 18:50:33"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "05/02/2026 - 18:49:21"
-        },
-        {
-            "song_name": "Sad People",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon III: The Chosen",
-            "played_at": "05/02/2026 - 19:08:13"
-        },
         {
             "song_name": "The Prayer",
             "artists": [
@@ -1722,6 +1689,38 @@
             ],
             "album": "Petals to Thorns",
             "played_at": "12/02/2026 - 08:32:56"
+        },
+        {
+            "song_name": "The Boat I Row",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush B-Sides & Remixes",
+            "played_at": "12/02/2026 - 11:00:53"
+        },
+        {
+            "song_name": "Perspective",
+            "artists": [
+                "Cafuné"
+            ],
+            "album": "Love Songs for the End",
+            "played_at": "12/02/2026 - 10:56:53"
+        },
+        {
+            "song_name": "Foaming",
+            "artists": [
+                "Day We Ran"
+            ],
+            "album": "Foaming",
+            "played_at": "12/02/2026 - 10:53:53"
+        },
+        {
+            "song_name": "Foaming",
+            "artists": [
+                "Day We Ran"
+            ],
+            "album": "Foaming",
+            "played_at": "12/02/2026 - 10:50:54"
         }
     ]
 }
