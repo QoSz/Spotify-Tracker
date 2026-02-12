@@ -1,81 +1,6 @@
 {
-    "total_plays": 2524,
+    "total_plays": 2533,
     "tracks": [
-        {
-            "song_name": "My Drug",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Entergalactic",
-            "played_at": "06/02/2026 - 07:51:49"
-        },
-        {
-            "song_name": "Blame On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "06/02/2026 - 07:41:12"
-        },
-        {
-            "song_name": "2 Mazza (feat. Drake)",
-            "artists": [
-                "Smiley",
-                "Drake"
-            ],
-            "album": "Don't Box Me In",
-            "played_at": "06/02/2026 - 07:36:32"
-        },
-        {
-            "song_name": "The Chase",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "The Last Dance, Pt 2",
-            "played_at": "06/02/2026 - 07:30:39"
-        },
-        {
-            "song_name": "Tek It - Slowed",
-            "artists": [
-                "Cafuné"
-            ],
-            "album": "Tek It (I Watch the Moon)",
-            "played_at": "06/02/2026 - 09:49:57"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "06/02/2026 - 11:28:11"
-        },
-        {
-            "song_name": "soulless",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "06/02/2026 - 11:22:42"
-        },
-        {
-            "song_name": "Reclusive",
-            "artists": [
-                "Elmiene"
-            ],
-            "album": "Reclusive",
-            "played_at": "06/02/2026 - 11:20:42"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "06/02/2026 - 11:17:42"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1713,6 +1638,78 @@
             ],
             "album": "Where Are You Going?",
             "played_at": "12/02/2026 - 11:32:31"
+        },
+        {
+            "song_name": "White Keys",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "White Keys",
+            "played_at": "12/02/2026 - 13:29:10"
+        },
+        {
+            "song_name": "Bruise",
+            "artists": [
+                "BETWEEN FRIENDS"
+            ],
+            "album": "I Love My Girl, She's My Boy",
+            "played_at": "12/02/2026 - 13:26:39"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "12/02/2026 - 13:23:43"
+        },
+        {
+            "song_name": "Oysters In My Pocket",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Oysters In My Pocket",
+            "played_at": "12/02/2026 - 13:21:10"
+        },
+        {
+            "song_name": "Hypersonic Missiles",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Hypersonic Missiles",
+            "played_at": "12/02/2026 - 13:18:09"
+        },
+        {
+            "song_name": "cough drops",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "cough drops",
+            "played_at": "12/02/2026 - 13:14:12"
+        },
+        {
+            "song_name": "adios",
+            "artists": [
+                "JAWNY"
+            ],
+            "album": "It’s Never Fair, Always True",
+            "played_at": "12/02/2026 - 13:11:41"
+        },
+        {
+            "song_name": "Westcoast Collective",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "12/02/2026 - 13:08:11"
+        },
+        {
+            "song_name": "Westcoast Collective",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Don't Forget About Me, Demos",
+            "played_at": "12/02/2026 - 13:02:07"
         }
     ]
 }
