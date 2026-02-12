@@ -1,76 +1,6 @@
 {
-    "total_plays": 2542,
+    "total_plays": 2550,
     "tracks": [
-        {
-            "song_name": "RATHER BE (feat. Lithe)",
-            "artists": [
-                "The Kid LAROI",
-                "Lithe"
-            ],
-            "album": "BEFORE I FORGET",
-            "played_at": "06/02/2026 - 11:38:17"
-        },
-        {
-            "song_name": "RATHER BE (feat. Lithe)",
-            "artists": [
-                "The Kid LAROI",
-                "Lithe"
-            ],
-            "album": "BEFORE I FORGET",
-            "played_at": "06/02/2026 - 11:35:11"
-        },
-        {
-            "song_name": "Time",
-            "artists": [
-                "Aaron May"
-            ],
-            "album": "No Recognition",
-            "played_at": "06/02/2026 - 11:33:11"
-        },
-        {
-            "song_name": "You (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "Life of a DON",
-            "played_at": "06/02/2026 - 12:51:30"
-        },
-        {
-            "song_name": "YUKON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG",
-            "played_at": "07/02/2026 - 10:52:11"
-        },
-        {
-            "song_name": "It Ain't Me (with Selena Gomez)",
-            "artists": [
-                "Kygo",
-                "Selena Gomez"
-            ],
-            "album": "It Ain't Me (with Selena Gomez)",
-            "played_at": "08/02/2026 - 18:10:14"
-        },
-        {
-            "song_name": "Firestone",
-            "artists": [
-                "Kygo",
-                "Conrad Sewell"
-            ],
-            "album": "Cloud Nine",
-            "played_at": "08/02/2026 - 17:09:31"
-        },
-        {
-            "song_name": "Whatever",
-            "artists": [
-                "Kygo",
-                "Ava Max"
-            ],
-            "album": "Whatever",
-            "played_at": "08/02/2026 - 17:05:23"
-        },
         {
             "song_name": "You're Makin' Me High",
             "artists": [
@@ -1709,6 +1639,70 @@
             ],
             "album": "Eyes On You",
             "played_at": "12/02/2026 - 13:31:39"
+        },
+        {
+            "song_name": "The Beach",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "Wiped Out!",
+            "played_at": "12/02/2026 - 15:29:49"
+        },
+        {
+            "song_name": "Feeding the Family",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Feeding the Family",
+            "played_at": "12/02/2026 - 15:25:49"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "12/02/2026 - 15:20:49"
+        },
+        {
+            "song_name": "Breathe Deeper",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush",
+            "played_at": "12/02/2026 - 15:18:18"
+        },
+        {
+            "song_name": "Starry Eyed",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "12/02/2026 - 15:12:18"
+        },
+        {
+            "song_name": "Designer",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Find A Way",
+            "played_at": "12/02/2026 - 15:09:49"
+        },
+        {
+            "song_name": "Driver",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Driver",
+            "played_at": "12/02/2026 - 15:06:48"
+        },
+        {
+            "song_name": "Driver",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Driver",
+            "played_at": "12/02/2026 - 15:05:19"
         }
     ]
 }
