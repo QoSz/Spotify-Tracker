@@ -1,48 +1,6 @@
 {
-    "total_plays": 2500,
+    "total_plays": 2505,
     "tracks": [
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "05/02/2026 - 10:58:44"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "05/02/2026 - 10:56:30"
-        },
-        {
-            "song_name": "ORDER OF PROTECTION",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "05/02/2026 - 10:53:11"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "05/02/2026 - 11:14:07"
-        },
-        {
-            "song_name": "Remember",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Remember",
-            "played_at": "05/02/2026 - 11:07:47"
-        },
         {
             "song_name": "Miss You",
             "artists": [
@@ -1730,6 +1688,46 @@
             ],
             "album": "I See You",
             "played_at": "11/02/2026 - 15:30:45"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "12/02/2026 - 08:30:25"
+        },
+        {
+            "song_name": "jupiter",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "DIVE",
+            "played_at": "12/02/2026 - 08:27:25"
+        },
+        {
+            "song_name": "Whateverrrr",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "12/02/2026 - 08:23:55"
+        },
+        {
+            "song_name": "How Much Is Weed?",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "12/02/2026 - 08:21:26"
+        },
+        {
+            "song_name": "505",
+            "artists": [
+                "Arctic Monkeys"
+            ],
+            "album": "Favourite Worst Nightmare",
+            "played_at": "12/02/2026 - 08:18:55"
         }
     ]
 }
