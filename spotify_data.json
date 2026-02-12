@@ -1,83 +1,6 @@
 {
-    "total_plays": 2533,
+    "total_plays": 2542,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "06/02/2026 - 11:11:42"
-        },
-        {
-            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
-            "artists": [
-                "Drake",
-                "Peter Bjorn and John"
-            ],
-            "album": "So Far Gone",
-            "played_at": "06/02/2026 - 11:08:12"
-        },
-        {
-            "song_name": "She",
-            "artists": [
-                "Ambré"
-            ],
-            "album": "She",
-            "played_at": "06/02/2026 - 11:04:12"
-        },
-        {
-            "song_name": "Let Me - Bonus",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Chixtapes (Trilogy)",
-            "played_at": "06/02/2026 - 11:30:12"
-        },
-        {
-            "song_name": "East Liberty",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "PARTYNEXTDOOR TWO",
-            "played_at": "06/02/2026 - 11:53:35"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "06/02/2026 - 11:51:58"
-        },
-        {
-            "song_name": "Blame On Me",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "06/02/2026 - 11:47:40"
-        },
-        {
-            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
-            "artists": [
-                "Drake",
-                "Peter Bjorn and John"
-            ],
-            "album": "So Far Gone",
-            "played_at": "06/02/2026 - 11:43:42"
-        },
-        {
-            "song_name": "my man... (feat. Mariah The Scientist)",
-            "artists": [
-                "Queen Naija",
-                "Mariah the Scientist"
-            ],
-            "album": "30.",
-            "played_at": "06/02/2026 - 11:41:29"
-        },
         {
             "song_name": "RATHER BE (feat. Lithe)",
             "artists": [
@@ -1710,6 +1633,82 @@
             ],
             "album": "Don't Forget About Me, Demos",
             "played_at": "12/02/2026 - 13:02:07"
+        },
+        {
+            "song_name": "On Your Way Down",
+            "artists": [
+                "The Jungle Giants"
+            ],
+            "album": "Quiet Ferocity",
+            "played_at": "12/02/2026 - 13:58:09"
+        },
+        {
+            "song_name": "1901",
+            "artists": [
+                "Phoenix"
+            ],
+            "album": "Wolfgang Amadeus Phoenix",
+            "played_at": "12/02/2026 - 13:54:09"
+        },
+        {
+            "song_name": "Backstage Pass (with Monte Booker & The Drums)",
+            "artists": [
+                "Smino",
+                "monte booker",
+                "The Drums"
+            ],
+            "album": "Backstage Pass (with Monte Booker & The Drums)",
+            "played_at": "12/02/2026 - 13:51:10"
+        },
+        {
+            "song_name": "Through My Teeth",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "12/02/2026 - 13:47:11"
+        },
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "12/02/2026 - 13:43:46"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "12/02/2026 - 13:41:10"
+        },
+        {
+            "song_name": "Living In A Haze",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Living In A Haze",
+            "played_at": "12/02/2026 - 13:38:16"
+        },
+        {
+            "song_name": "New Gold (feat. Tame Impala and Bootie Brown)",
+            "artists": [
+                "Gorillaz",
+                "Tame Impala",
+                "Bootie Brown"
+            ],
+            "album": "Cracker Island",
+            "played_at": "12/02/2026 - 13:35:09"
+        },
+        {
+            "song_name": "Eyes On You",
+            "artists": [
+                "Master Peace"
+            ],
+            "album": "Eyes On You",
+            "played_at": "12/02/2026 - 13:31:39"
         }
     ]
 }
