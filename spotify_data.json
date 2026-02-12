@@ -1,78 +1,6 @@
 {
-    "total_plays": 2516,
+    "total_plays": 2524,
     "tracks": [
-        {
-            "song_name": "The Prayer",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "A Kid Named Cudi",
-            "played_at": "05/02/2026 - 19:02:45"
-        },
-        {
-            "song_name": "Professional",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Professional",
-            "played_at": "05/02/2026 - 20:05:00"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "05/02/2026 - 21:54:09"
-        },
-        {
-            "song_name": "Been Thru This Before (with Giggs & SAINt JHN)",
-            "artists": [
-                "Marshmello",
-                "Southside",
-                "Giggs",
-                "SAINt JHN"
-            ],
-            "album": "Been Thru This Before",
-            "played_at": "06/02/2026 - 08:46:37"
-        },
-        {
-            "song_name": "Hear Me Calling",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "06/02/2026 - 08:43:17"
-        },
-        {
-            "song_name": "Chicago Freestyle (feat. Giveon)",
-            "artists": [
-                "Drake",
-                "GIVĒON"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "06/02/2026 - 08:40:07"
-        },
-        {
-            "song_name": "Hear Me Calling",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "06/02/2026 - 08:04:07"
-        },
-        {
-            "song_name": "Been Thru This Before (with Giggs & SAINt JHN)",
-            "artists": [
-                "Marshmello",
-                "Southside",
-                "Giggs",
-                "SAINt JHN"
-            ],
-            "album": "Been Thru This Before",
-            "played_at": "06/02/2026 - 07:58:36"
-        },
         {
             "song_name": "My Drug",
             "artists": [
@@ -1721,6 +1649,70 @@
             ],
             "album": "Foaming",
             "played_at": "12/02/2026 - 10:50:54"
+        },
+        {
+            "song_name": "moody",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "12/02/2026 - 12:00:56"
+        },
+        {
+            "song_name": "Come a Little Closer",
+            "artists": [
+                "Cage The Elephant"
+            ],
+            "album": "Melophobia",
+            "played_at": "12/02/2026 - 11:59:32"
+        },
+        {
+            "song_name": "Half Mast",
+            "artists": [
+                "Empire Of The Sun"
+            ],
+            "album": "Walking On A Dream (10th Anniversary Edition)",
+            "played_at": "12/02/2026 - 11:48:30"
+        },
+        {
+            "song_name": "Synchronize",
+            "artists": [
+                "Milky Chance"
+            ],
+            "album": "Trip Tape II",
+            "played_at": "12/02/2026 - 11:44:59"
+        },
+        {
+            "song_name": "Moon Man",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "I Should Be Home",
+            "played_at": "12/02/2026 - 11:41:00"
+        },
+        {
+            "song_name": "Drama King",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Drama King",
+            "played_at": "12/02/2026 - 11:37:29"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "12/02/2026 - 11:34:29"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "12/02/2026 - 11:32:31"
         }
     ]
 }
