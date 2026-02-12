@@ -1,68 +1,6 @@
 {
-    "total_plays": 2505,
+    "total_plays": 2512,
     "tracks": [
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "05/02/2026 - 11:04:38"
-        },
-        {
-            "song_name": "Ordinary",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "You'll Be Alright, Kid (Chapter 1)",
-            "played_at": "05/02/2026 - 14:35:11"
-        },
-        {
-            "song_name": "The Prayer",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "A Kid Named Cudi",
-            "played_at": "05/02/2026 - 14:35:10"
-        },
-        {
-            "song_name": "don’t i (feat. Gunna)",
-            "artists": [
-                "Roddy Ricch",
-                "Gunna"
-            ],
-            "album": "LIVE LIFE FAST",
-            "played_at": "05/02/2026 - 14:35:07"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "05/02/2026 - 14:09:14"
-        },
-        {
-            "song_name": "Which One (feat. Central Cee)",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "Which One",
-            "played_at": "05/02/2026 - 18:59:06"
-        },
-        {
-            "song_name": "Ordinary",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "You'll Be Alright, Kid (Chapter 1)",
-            "played_at": "05/02/2026 - 18:56:17"
-        },
         {
             "song_name": "don’t i (feat. Gunna)",
             "artists": [
@@ -1728,6 +1666,62 @@
             ],
             "album": "Favourite Worst Nightmare",
             "played_at": "12/02/2026 - 08:18:55"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "12/02/2026 - 08:56:26"
+        },
+        {
+            "song_name": "Are We Ready? (Wreck)",
+            "artists": [
+                "Two Door Cinema Club"
+            ],
+            "album": "Gameshow (Deluxe Edition)",
+            "played_at": "12/02/2026 - 08:52:55"
+        },
+        {
+            "song_name": "Seventeen Going Under",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "12/02/2026 - 08:48:55"
+        },
+        {
+            "song_name": "Electric Feel",
+            "artists": [
+                "MGMT"
+            ],
+            "album": "Oracular Spectacular",
+            "played_at": "12/02/2026 - 08:43:56"
+        },
+        {
+            "song_name": "Magic",
+            "artists": [
+                "Olympic Ayres"
+            ],
+            "album": "Episode III",
+            "played_at": "12/02/2026 - 08:40:26"
+        },
+        {
+            "song_name": "Red Hearts",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Red Hearts",
+            "played_at": "12/02/2026 - 08:36:26"
+        },
+        {
+            "song_name": "WORTHLESS",
+            "artists": [
+                "d4vd"
+            ],
+            "album": "Petals to Thorns",
+            "played_at": "12/02/2026 - 08:32:56"
         }
     ]
 }
