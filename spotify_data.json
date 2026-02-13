@@ -1,15 +1,6 @@
 {
-    "total_plays": 2573,
+    "total_plays": 2574,
     "tracks": [
-        {
-            "song_name": "Cinematic",
-            "artists": [
-                "MIND",
-                "Clearest"
-            ],
-            "album": "First Contact",
-            "played_at": "09/02/2026 - 10:07:30"
-        },
         {
             "song_name": "Cinematic",
             "artists": [
@@ -1685,6 +1676,14 @@
             ],
             "album": "Loveseat",
             "played_at": "13/02/2026 - 09:58:42"
+        },
+        {
+            "song_name": "Let It Happen - Radio Edit",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Chill 2010s",
+            "played_at": "13/02/2026 - 10:04:40"
         }
     ]
 }
