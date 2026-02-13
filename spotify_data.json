@@ -1,67 +1,6 @@
 {
-    "total_plays": 2564,
+    "total_plays": 2571,
     "tracks": [
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "09/02/2026 - 10:31:30"
-        },
-        {
-            "song_name": "Can't Decide",
-            "artists": [
-                "Max Dean",
-                "Luke Dean",
-                "Locky"
-            ],
-            "album": "Can't Decide",
-            "played_at": "09/02/2026 - 10:30:00"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "09/02/2026 - 10:27:00"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "09/02/2026 - 10:24:00"
-        },
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "09/02/2026 - 10:21:00"
-        },
-        {
-            "song_name": "Losing My Way",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "09/02/2026 - 10:19:00"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "09/02/2026 - 10:16:31"
-        },
         {
             "song_name": "Ride With Me",
             "artists": [
@@ -1691,6 +1630,62 @@
             ],
             "album": "The Slow Rush",
             "played_at": "13/02/2026 - 08:32:23"
+        },
+        {
+            "song_name": "Kool Aid",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Sofa Kings",
+            "played_at": "13/02/2026 - 09:24:23"
+        },
+        {
+            "song_name": "Lover (Don't Let Me Down)",
+            "artists": [
+                "Palace"
+            ],
+            "album": "Shoals",
+            "played_at": "13/02/2026 - 09:20:53"
+        },
+        {
+            "song_name": "Up To Something",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Must Be Nice",
+            "played_at": "13/02/2026 - 09:16:55"
+        },
+        {
+            "song_name": "She Knows How To Say My Name",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "She Knows How To Say My Name",
+            "played_at": "13/02/2026 - 09:12:53"
+        },
+        {
+            "song_name": "Yes I'm Changing",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "13/02/2026 - 09:08:23"
+        },
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "13/02/2026 - 09:03:54"
+        },
+        {
+            "song_name": "Egg Beater",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Bar & Grill",
+            "played_at": "13/02/2026 - 09:01:53"
         }
     ]
 }
