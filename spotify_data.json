@@ -1,14 +1,6 @@
 {
-    "total_plays": 2555,
+    "total_plays": 2556,
     "tracks": [
-        {
-            "song_name": "magnetic magnetic",
-            "artists": [
-                "all things break"
-            ],
-            "album": "magnetic magnetic",
-            "played_at": "09/02/2026 - 08:46:01"
-        },
         {
             "song_name": "Are You Real?",
             "artists": [
@@ -1696,6 +1688,14 @@
             ],
             "album": "Here Comes Everybody",
             "played_at": "13/02/2026 - 07:30:59"
+        },
+        {
+            "song_name": "Lots of Nothing",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Here Comes Everybody",
+            "played_at": "13/02/2026 - 08:28:23"
         }
     ]
 }
