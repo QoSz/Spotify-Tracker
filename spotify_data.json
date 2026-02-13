@@ -1,23 +1,6 @@
 {
-    "total_plays": 2571,
+    "total_plays": 2573,
     "tracks": [
-        {
-            "song_name": "Ride With Me",
-            "artists": [
-                "Zac Samuel"
-            ],
-            "album": "Ride With Me",
-            "played_at": "09/02/2026 - 10:13:30"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Sonny Fodera",
-                "Clementine Douglas"
-            ],
-            "album": "Tell Me",
-            "played_at": "09/02/2026 - 10:10:30"
-        },
         {
             "song_name": "Cinematic",
             "artists": [
@@ -1686,6 +1669,22 @@
             ],
             "album": "Bar & Grill",
             "played_at": "13/02/2026 - 09:01:53"
+        },
+        {
+            "song_name": "Frida Kahlo",
+            "artists": [
+                "Still Woozy"
+            ],
+            "album": "Loveseat",
+            "played_at": "13/02/2026 - 10:00:44"
+        },
+        {
+            "song_name": "Frida Kahlo",
+            "artists": [
+                "Still Woozy"
+            ],
+            "album": "Loveseat",
+            "played_at": "13/02/2026 - 09:58:42"
         }
     ]
 }
