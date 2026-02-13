@@ -1,49 +1,6 @@
 {
-    "total_plays": 2574,
+    "total_plays": 2579,
     "tracks": [
-        {
-            "song_name": "Cinematic",
-            "artists": [
-                "MIND",
-                "Clearest"
-            ],
-            "album": "First Contact",
-            "played_at": "09/02/2026 - 10:06:00"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "09/02/2026 - 11:21:00"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "09/02/2026 - 11:18:00"
-        },
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "09/02/2026 - 11:15:00"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "09/02/2026 - 11:12:07"
-        },
         {
             "song_name": "Hold on Me",
             "artists": [
@@ -1684,6 +1641,46 @@
             ],
             "album": "Chill 2010s",
             "played_at": "13/02/2026 - 10:04:40"
+        },
+        {
+            "song_name": "say something",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "13/02/2026 - 11:59:56"
+        },
+        {
+            "song_name": "Bitter",
+            "artists": [
+                "Palace"
+            ],
+            "album": "So Long Forever",
+            "played_at": "13/02/2026 - 11:57:26"
+        },
+        {
+            "song_name": "DAYLIGHT DOOM",
+            "artists": [
+                "MOTO BANDIT"
+            ],
+            "album": "DAYLIGHT DOOM",
+            "played_at": "13/02/2026 - 11:53:26"
+        },
+        {
+            "song_name": "City",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "City",
+            "played_at": "13/02/2026 - 11:50:26"
+        },
+        {
+            "song_name": "City",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "City",
+            "played_at": "13/02/2026 - 11:42:57"
         }
     ]
 }
