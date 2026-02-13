@@ -1,31 +1,6 @@
 {
-    "total_plays": 2580,
+    "total_plays": 2583,
     "tracks": [
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "09/02/2026 - 11:07:01"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "09/02/2026 - 11:04:30"
-        },
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "09/02/2026 - 11:02:00"
-        },
         {
             "song_name": "Times Are Changing",
             "artists": [
@@ -1680,6 +1655,30 @@
             ],
             "album": "Piha Lounging",
             "played_at": "13/02/2026 - 12:03:56"
+        },
+        {
+            "song_name": "Get Out of My Face",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Get Out of My Face",
+            "played_at": "13/02/2026 - 12:58:53"
+        },
+        {
+            "song_name": "One More Year",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush",
+            "played_at": "13/02/2026 - 12:56:24"
+        },
+        {
+            "song_name": "One More Year",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "The Slow Rush",
+            "played_at": "13/02/2026 - 12:54:18"
         }
     ]
 }
