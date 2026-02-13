@@ -1,14 +1,6 @@
 {
-    "total_plays": 2554,
+    "total_plays": 2555,
     "tracks": [
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "09/02/2026 - 08:49:12"
-        },
         {
             "song_name": "magnetic magnetic",
             "artists": [
@@ -1696,6 +1688,14 @@
             ],
             "album": "Portal",
             "played_at": "12/02/2026 - 15:33:48"
+        },
+        {
+            "song_name": "Lots of Nothing",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "Here Comes Everybody",
+            "played_at": "13/02/2026 - 07:30:59"
         }
     ]
 }
