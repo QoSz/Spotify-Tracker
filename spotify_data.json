@@ -1,15 +1,6 @@
 {
-    "total_plays": 2579,
+    "total_plays": 2580,
     "tracks": [
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "09/02/2026 - 11:09:30"
-        },
         {
             "song_name": "Mood Song",
             "artists": [
@@ -1681,6 +1672,14 @@
             ],
             "album": "City",
             "played_at": "13/02/2026 - 11:42:57"
+        },
+        {
+            "song_name": "Piha Lounging",
+            "artists": [
+                "Day We Ran"
+            ],
+            "album": "Piha Lounging",
+            "played_at": "13/02/2026 - 12:03:56"
         }
     ]
 }
