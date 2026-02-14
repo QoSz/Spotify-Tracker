@@ -1,14 +1,6 @@
 {
-    "total_plays": 2658,
+    "total_plays": 2659,
     "tracks": [
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "11/02/2026 - 13:52:50"
-        },
         {
             "song_name": "Where the Sun Goes Down",
             "artists": [
@@ -1666,6 +1658,14 @@
             ],
             "album": "LIVE.LOVE.A$AP",
             "played_at": "14/02/2026 - 06:20:22"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "14/02/2026 - 13:32:12"
         }
     ]
 }
