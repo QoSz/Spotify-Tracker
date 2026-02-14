@@ -1,69 +1,6 @@
 {
-    "total_plays": 2651,
+    "total_plays": 2658,
     "tracks": [
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "11/02/2026 - 13:28:44"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "11/02/2026 - 13:26:13"
-        },
-        {
-            "song_name": "Over The Edge",
-            "artists": [
-                "Nu Aspect",
-                "Poppy Baskcomb"
-            ],
-            "album": "Over The Edge",
-            "played_at": "11/02/2026 - 13:22:47"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "11/02/2026 - 13:18:46"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "11/02/2026 - 13:17:45"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "11/02/2026 - 13:59:42"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "11/02/2026 - 13:55:43"
-        },
         {
             "song_name": "fractured light",
             "artists": [
@@ -1670,6 +1607,65 @@
             ],
             "album": "Over & Over",
             "played_at": "13/02/2026 - 15:32:28"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "14/02/2026 - 07:49:54"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "14/02/2026 - 07:49:18"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "14/02/2026 - 07:49:17"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "14/02/2026 - 06:27:52"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "14/02/2026 - 06:24:52"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Quavo",
+                "Juicy J"
+            ],
+            "album": "TYCOON",
+            "played_at": "14/02/2026 - 06:22:22"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "14/02/2026 - 06:20:22"
         }
     ]
 }
