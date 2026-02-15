@@ -1,15 +1,6 @@
 {
-    "total_plays": 2659,
+    "total_plays": 2660,
     "tracks": [
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "11/02/2026 - 13:49:43"
-        },
         {
             "song_name": "Let Me In",
             "artists": [
@@ -1666,6 +1657,15 @@
             ],
             "album": "First Contact",
             "played_at": "14/02/2026 - 13:32:12"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "14/02/2026 - 16:17:04"
         }
     ]
 }
