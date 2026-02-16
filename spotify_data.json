@@ -1,70 +1,6 @@
 {
-    "total_plays": 2725,
+    "total_plays": 2733,
     "tracks": [
-        {
-            "song_name": "Bruise",
-            "artists": [
-                "BETWEEN FRIENDS"
-            ],
-            "album": "I Love My Girl, She's My Boy",
-            "played_at": "12/02/2026 - 13:26:39"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "12/02/2026 - 13:23:43"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "12/02/2026 - 13:21:10"
-        },
-        {
-            "song_name": "Hypersonic Missiles",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Hypersonic Missiles",
-            "played_at": "12/02/2026 - 13:18:09"
-        },
-        {
-            "song_name": "cough drops",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "cough drops",
-            "played_at": "12/02/2026 - 13:14:12"
-        },
-        {
-            "song_name": "adios",
-            "artists": [
-                "JAWNY"
-            ],
-            "album": "It’s Never Fair, Always True",
-            "played_at": "12/02/2026 - 13:11:41"
-        },
-        {
-            "song_name": "Westcoast Collective",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "12/02/2026 - 13:08:11"
-        },
-        {
-            "song_name": "Westcoast Collective",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "Don't Forget About Me, Demos",
-            "played_at": "12/02/2026 - 13:02:07"
-        },
         {
             "song_name": "On Your Way Down",
             "artists": [
@@ -1680,6 +1616,74 @@
             ],
             "album": "Ray Of Solar",
             "played_at": "16/02/2026 - 14:02:28"
+        },
+        {
+            "song_name": "Professional",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Professional",
+            "played_at": "16/02/2026 - 14:56:24"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "16/02/2026 - 14:50:54"
+        },
+        {
+            "song_name": "OWA OWA",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "DOPAMINE",
+            "played_at": "16/02/2026 - 14:47:54"
+        },
+        {
+            "song_name": "Desires (with Future)",
+            "artists": [
+                "Drake",
+                "Future"
+            ],
+            "album": "Dark Lane Demo Tapes",
+            "played_at": "16/02/2026 - 14:45:25"
+        },
+        {
+            "song_name": "Hell Night",
+            "artists": [
+                "Pooh Shiesty",
+                "BIG30"
+            ],
+            "album": "Hell Night",
+            "played_at": "16/02/2026 - 14:41:24"
+        },
+        {
+            "song_name": "Calm 3",
+            "artists": [
+                "Sleepy Hallow"
+            ],
+            "album": "Calm 3",
+            "played_at": "16/02/2026 - 14:38:24"
+        },
+        {
+            "song_name": "KICK OUT",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "JACKBOYS 2",
+            "played_at": "16/02/2026 - 14:36:25"
+        },
+        {
+            "song_name": "Casper",
+            "artists": [
+                "Takeoff"
+            ],
+            "album": "The Last Rocket",
+            "played_at": "16/02/2026 - 14:33:25"
         }
     ]
 }
