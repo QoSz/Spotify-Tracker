@@ -1,78 +1,6 @@
 {
-    "total_plays": 2716,
+    "total_plays": 2725,
     "tracks": [
-        {
-            "song_name": "moody",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "12/02/2026 - 12:00:56"
-        },
-        {
-            "song_name": "Come a Little Closer",
-            "artists": [
-                "Cage The Elephant"
-            ],
-            "album": "Melophobia",
-            "played_at": "12/02/2026 - 11:59:32"
-        },
-        {
-            "song_name": "Half Mast",
-            "artists": [
-                "Empire Of The Sun"
-            ],
-            "album": "Walking On A Dream (10th Anniversary Edition)",
-            "played_at": "12/02/2026 - 11:48:30"
-        },
-        {
-            "song_name": "Synchronize",
-            "artists": [
-                "Milky Chance"
-            ],
-            "album": "Trip Tape II",
-            "played_at": "12/02/2026 - 11:44:59"
-        },
-        {
-            "song_name": "Moon Man",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "I Should Be Home",
-            "played_at": "12/02/2026 - 11:41:00"
-        },
-        {
-            "song_name": "Drama King",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Drama King",
-            "played_at": "12/02/2026 - 11:37:29"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "12/02/2026 - 11:34:29"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "12/02/2026 - 11:32:31"
-        },
-        {
-            "song_name": "White Keys",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "White Keys",
-            "played_at": "12/02/2026 - 13:29:10"
-        },
         {
             "song_name": "Bruise",
             "artists": [
@@ -1675,6 +1603,83 @@
             ],
             "album": "Love U Forever",
             "played_at": "16/02/2026 - 13:48:26"
+        },
+        {
+            "song_name": "Clash (feat. Stormzy)",
+            "artists": [
+                "Dave",
+                "Stormzy"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "16/02/2026 - 14:30:24"
+        },
+        {
+            "song_name": "Different Species (feat. Gunna)",
+            "artists": [
+                "Offset",
+                "Gunna"
+            ],
+            "album": "KIARI",
+            "played_at": "16/02/2026 - 14:25:54"
+        },
+        {
+            "song_name": "21 Years",
+            "artists": [
+                "Skepta",
+                "Fred again.."
+            ],
+            "album": "Skepta .. Fred",
+            "played_at": "16/02/2026 - 14:22:54"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "16/02/2026 - 14:19:25"
+        },
+        {
+            "song_name": "shiloh type beat",
+            "artists": [
+                "Jessy Blakemore"
+            ],
+            "album": "burna",
+            "played_at": "16/02/2026 - 14:16:24"
+        },
+        {
+            "song_name": "Kool Aid",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Sofa Kings",
+            "played_at": "16/02/2026 - 14:13:54"
+        },
+        {
+            "song_name": "Texts Go Green",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "16/02/2026 - 14:10:24"
+        },
+        {
+            "song_name": "Magic In The Hamptons (feat. Lil Yachty)",
+            "artists": [
+                "Social House",
+                "Lil Yachty"
+            ],
+            "album": "Magic In The Hamptons (feat. Lil Yachty)",
+            "played_at": "16/02/2026 - 14:05:24"
+        },
+        {
+            "song_name": "Ray Of Solar",
+            "artists": [
+                "Swedish House Mafia"
+            ],
+            "album": "Ray Of Solar",
+            "played_at": "16/02/2026 - 14:02:28"
         }
     ]
 }
