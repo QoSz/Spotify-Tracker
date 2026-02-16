@@ -1,38 +1,6 @@
 {
-    "total_plays": 2712,
+    "total_plays": 2716,
     "tracks": [
-        {
-            "song_name": "The Boat I Row",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush B-Sides & Remixes",
-            "played_at": "12/02/2026 - 11:00:53"
-        },
-        {
-            "song_name": "Perspective",
-            "artists": [
-                "Cafuné"
-            ],
-            "album": "Love Songs for the End",
-            "played_at": "12/02/2026 - 10:56:53"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "12/02/2026 - 10:53:53"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "12/02/2026 - 10:50:54"
-        },
         {
             "song_name": "moody",
             "artists": [
@@ -1673,6 +1641,40 @@
             ],
             "album": "The Documentary",
             "played_at": "16/02/2026 - 11:48:22"
+        },
+        {
+            "song_name": "Middle",
+            "artists": [
+                "DJ Snake",
+                "Bipolar Sunshine"
+            ],
+            "album": "Encore",
+            "played_at": "16/02/2026 - 13:58:24"
+        },
+        {
+            "song_name": "Runaway (U & I)",
+            "artists": [
+                "Ian Asher",
+                "Galantis"
+            ],
+            "album": "Runaway (U & I)",
+            "played_at": "16/02/2026 - 13:54:24"
+        },
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "16/02/2026 - 13:52:25"
+        },
+        {
+            "song_name": "Go Ahead",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Love U Forever",
+            "played_at": "16/02/2026 - 13:48:26"
         }
     ]
 }
