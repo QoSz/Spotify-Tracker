@@ -1,48 +1,6 @@
 {
-    "total_plays": 2662,
+    "total_plays": 2667,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "11/02/2026 - 13:40:14"
-        },
-        {
-            "song_name": "Forever",
-            "artists": [
-                "ZULAN"
-            ],
-            "album": "Forever",
-            "played_at": "11/02/2026 - 13:36:13"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "11/02/2026 - 13:33:44"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "11/02/2026 - 15:27:44"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "11/02/2026 - 15:24:45"
-        },
         {
             "song_name": "Heartbeat",
             "artists": [
@@ -1668,6 +1626,47 @@
             ],
             "album": "Harder Than Ever",
             "played_at": "16/02/2026 - 08:25:55"
+        },
+        {
+            "song_name": "Style Rare (with Gunna)",
+            "artists": [
+                "Offset",
+                "Gunna"
+            ],
+            "album": "Style Rare (with Gunna)",
+            "played_at": "16/02/2026 - 08:51:52"
+        },
+        {
+            "song_name": "E85",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "OCTANE",
+            "played_at": "16/02/2026 - 08:47:03"
+        },
+        {
+            "song_name": "Cudi Zone",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "16/02/2026 - 08:44:33"
+        },
+        {
+            "song_name": "Flaws And Sins",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "16/02/2026 - 08:40:10"
+        },
+        {
+            "song_name": "BAD TIME",
+            "artists": [
+                "Lil Tecca"
+            ],
+            "album": "PLAN A",
+            "played_at": "16/02/2026 - 08:34:03"
         }
     ]
 }
