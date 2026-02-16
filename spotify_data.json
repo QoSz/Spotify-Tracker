@@ -1,23 +1,6 @@
 {
-    "total_plays": 2660,
+    "total_plays": 2662,
     "tracks": [
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "11/02/2026 - 13:46:43"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "11/02/2026 - 13:43:13"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1666,6 +1649,25 @@
             ],
             "album": "Pluto x Baby Pluto (Deluxe)",
             "played_at": "14/02/2026 - 16:17:04"
+        },
+        {
+            "song_name": "NEW LINEN 新しいリネン",
+            "artists": [
+                "SamRecks",
+                "Thiago Sub"
+            ],
+            "album": "NEW LINEN 新しいリネン",
+            "played_at": "16/02/2026 - 08:30:25"
+        },
+        {
+            "song_name": "Life Goes On",
+            "artists": [
+                "Lil Baby",
+                "Gunna",
+                "Lil Uzi Vert"
+            ],
+            "album": "Harder Than Ever",
+            "played_at": "16/02/2026 - 08:25:55"
         }
     ]
 }
