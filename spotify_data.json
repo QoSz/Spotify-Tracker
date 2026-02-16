@@ -1,14 +1,6 @@
 {
-    "total_plays": 2692,
+    "total_plays": 2693,
     "tracks": [
-        {
-            "song_name": "Words",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Words",
-            "played_at": "11/02/2026 - 16:07:25"
-        },
         {
             "song_name": "Cure My Desire",
             "artists": [
@@ -1670,6 +1662,14 @@
             ],
             "album": "BLAME IT ON BABY (DELUXE)",
             "played_at": "16/02/2026 - 10:10:43"
+        },
+        {
+            "song_name": "Geronimo",
+            "artists": [
+                "Don Toliver"
+            ],
+            "album": "Love Sick (Deluxe)",
+            "played_at": "16/02/2026 - 11:24:38"
         }
     ]
 }
