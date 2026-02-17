@@ -1,39 +1,6 @@
 {
-    "total_plays": 2848,
+    "total_plays": 2852,
     "tracks": [
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "13/02/2026 - 15:36:57"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "13/02/2026 - 15:34:57"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Dark Heart",
-                "NJOMZA"
-            ],
-            "album": "Over & Over",
-            "played_at": "13/02/2026 - 15:32:28"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "14/02/2026 - 07:49:54"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1729,6 +1696,41 @@
             ],
             "album": "Your Eyes",
             "played_at": "17/02/2026 - 14:14:35"
+        },
+        {
+            "song_name": "You & Me - Rivo Remix",
+            "artists": [
+                "Disclosure",
+                "Rivo",
+                "Eliza Doolittle"
+            ],
+            "album": "You & Me (Rivo Remix)",
+            "played_at": "17/02/2026 - 19:21:01"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "17/02/2026 - 19:17:33"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "17/02/2026 - 19:14:47"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "17/02/2026 - 19:12:12"
         }
     ]
 }
