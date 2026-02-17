@@ -1,22 +1,6 @@
 {
-    "total_plays": 2749,
+    "total_plays": 2751,
     "tracks": [
-        {
-            "song_name": "Driver",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Driver",
-            "played_at": "12/02/2026 - 15:05:19"
-        },
-        {
-            "song_name": "Why'd You Only Call Me When You're High?",
-            "artists": [
-                "Arctic Monkeys"
-            ],
-            "album": "AM",
-            "played_at": "12/02/2026 - 15:49:23"
-        },
         {
             "song_name": "it only gets worse, i promise",
             "artists": [
@@ -1694,6 +1678,23 @@
             ],
             "album": "Man On The Moon III: The Chosen",
             "played_at": "16/02/2026 - 15:52:35"
+        },
+        {
+            "song_name": "Go Ahead",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Love U Forever",
+            "played_at": "17/02/2026 - 08:07:27"
+        },
+        {
+            "song_name": "Runaway (U & I)",
+            "artists": [
+                "Ian Asher",
+                "Galantis"
+            ],
+            "album": "Runaway (U & I)",
+            "played_at": "17/02/2026 - 08:07:26"
         }
     ]
 }
