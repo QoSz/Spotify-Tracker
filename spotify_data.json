@@ -1,78 +1,6 @@
 {
-    "total_plays": 2793,
+    "total_plays": 2802,
     "tracks": [
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "13/02/2026 - 14:09:47"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "13/02/2026 - 14:09:46"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "13/02/2026 - 14:09:45"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "13/02/2026 - 14:09:44"
-        },
-        {
-            "song_name": "Eyes On You",
-            "artists": [
-                "Master Peace"
-            ],
-            "album": "Eyes On You",
-            "played_at": "13/02/2026 - 14:09:43"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "13/02/2026 - 14:09:42"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "13/02/2026 - 14:09:40"
-        },
-        {
-            "song_name": "Hypersonic Missiles",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Hypersonic Missiles",
-            "played_at": "13/02/2026 - 14:09:38"
-        },
-        {
-            "song_name": "Shine A Light",
-            "artists": [
-                "BANNERS"
-            ],
-            "album": "Shine A Light",
-            "played_at": "13/02/2026 - 14:09:37"
-        },
         {
             "song_name": "CARMEN - 8181 Enzo Remix",
             "artists": [
@@ -1722,6 +1650,84 @@
             ],
             "album": "Reasons",
             "played_at": "17/02/2026 - 11:30:53"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "17/02/2026 - 13:31:35"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "17/02/2026 - 13:29:05"
+        },
+        {
+            "song_name": "Your Touch",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Your Touch",
+            "played_at": "17/02/2026 - 13:26:35"
+        },
+        {
+            "song_name": "Say It Right - Rinzen Remix",
+            "artists": [
+                "Nelly Furtado",
+                "Rinzen"
+            ],
+            "album": "Say It Right (Rinzen Remix)",
+            "played_at": "17/02/2026 - 13:23:06"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "17/02/2026 - 13:19:36"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "17/02/2026 - 13:16:37"
+        },
+        {
+            "song_name": "Shine Like Stars",
+            "artists": [
+                "Benji"
+            ],
+            "album": "Shine Like Stars",
+            "played_at": "17/02/2026 - 13:13:35"
+        },
+        {
+            "song_name": "Pines",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "Pines",
+            "played_at": "17/02/2026 - 13:09:35"
+        },
+        {
+            "song_name": "Pines",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "Pines",
+            "played_at": "17/02/2026 - 13:08:37"
         }
     ]
 }
