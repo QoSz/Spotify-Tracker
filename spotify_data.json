@@ -1,46 +1,6 @@
 {
-    "total_plays": 2754,
+    "total_plays": 2759,
     "tracks": [
-        {
-            "song_name": "Lots of Nothing",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "Here Comes Everybody",
-            "played_at": "13/02/2026 - 07:30:59"
-        },
-        {
-            "song_name": "Lots of Nothing",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "Here Comes Everybody",
-            "played_at": "13/02/2026 - 08:28:23"
-        },
-        {
-            "song_name": "Have Faith",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "13/02/2026 - 08:57:53"
-        },
-        {
-            "song_name": "Estimated Delivery",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "13/02/2026 - 08:53:54"
-        },
-        {
-            "song_name": "Under Fire",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Under Fire",
-            "played_at": "13/02/2026 - 08:50:24"
-        },
         {
             "song_name": "On Track",
             "artists": [
@@ -1696,6 +1656,50 @@
             ],
             "album": "Ride With Me",
             "played_at": "17/02/2026 - 08:55:01"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "17/02/2026 - 09:15:52"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "17/02/2026 - 09:12:22"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "17/02/2026 - 09:09:23"
+        },
+        {
+            "song_name": "Cure My Desire",
+            "artists": [
+                "Hannah Wants",
+                "Clementine Douglas"
+            ],
+            "album": "Cure My Desire (Themba Remix)",
+            "played_at": "17/02/2026 - 09:05:52"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "17/02/2026 - 09:02:52"
         }
     ]
 }
