@@ -1,54 +1,6 @@
 {
-    "total_plays": 2777,
+    "total_plays": 2783,
     "tracks": [
-        {
-            "song_name": "City",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "City",
-            "played_at": "13/02/2026 - 11:50:26"
-        },
-        {
-            "song_name": "City",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "City",
-            "played_at": "13/02/2026 - 11:42:57"
-        },
-        {
-            "song_name": "Piha Lounging",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Piha Lounging",
-            "played_at": "13/02/2026 - 12:03:56"
-        },
-        {
-            "song_name": "Get Out of My Face",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Get Out of My Face",
-            "played_at": "13/02/2026 - 12:58:53"
-        },
-        {
-            "song_name": "One More Year",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "13/02/2026 - 12:56:24"
-        },
-        {
-            "song_name": "One More Year",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "13/02/2026 - 12:54:18"
-        },
         {
             "song_name": "Taking Over The Sun",
             "artists": [
@@ -1717,6 +1669,56 @@
             ],
             "album": "Clocks",
             "played_at": "17/02/2026 - 10:12:27"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "17/02/2026 - 11:16:55"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "17/02/2026 - 11:14:56"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Sonny Fodera",
+                "Clementine Douglas"
+            ],
+            "album": "Tell Me",
+            "played_at": "17/02/2026 - 11:11:55"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "17/02/2026 - 11:08:55"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "17/02/2026 - 11:05:56"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "17/02/2026 - 11:01:55"
         }
     ]
 }
