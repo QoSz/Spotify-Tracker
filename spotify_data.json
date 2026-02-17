@@ -1,150 +1,6 @@
 {
-    "total_plays": 2759,
+    "total_plays": 2777,
     "tracks": [
-        {
-            "song_name": "On Track",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "13/02/2026 - 08:46:23"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "13/02/2026 - 08:41:24"
-        },
-        {
-            "song_name": "come on home",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "13/02/2026 - 08:38:30"
-        },
-        {
-            "song_name": "Shut up My Moms Calling",
-            "artists": [
-                "Hotel Ugly"
-            ],
-            "album": "Shut up My Moms Calling",
-            "played_at": "13/02/2026 - 08:35:23"
-        },
-        {
-            "song_name": "Borderline",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "The Slow Rush",
-            "played_at": "13/02/2026 - 08:32:23"
-        },
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "13/02/2026 - 09:24:23"
-        },
-        {
-            "song_name": "Lover (Don't Let Me Down)",
-            "artists": [
-                "Palace"
-            ],
-            "album": "Shoals",
-            "played_at": "13/02/2026 - 09:20:53"
-        },
-        {
-            "song_name": "Up To Something",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Must Be Nice",
-            "played_at": "13/02/2026 - 09:16:55"
-        },
-        {
-            "song_name": "She Knows How To Say My Name",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "She Knows How To Say My Name",
-            "played_at": "13/02/2026 - 09:12:53"
-        },
-        {
-            "song_name": "Yes I'm Changing",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Currents",
-            "played_at": "13/02/2026 - 09:08:23"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "13/02/2026 - 09:03:54"
-        },
-        {
-            "song_name": "Egg Beater",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Bar & Grill",
-            "played_at": "13/02/2026 - 09:01:53"
-        },
-        {
-            "song_name": "Frida Kahlo",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Loveseat",
-            "played_at": "13/02/2026 - 10:00:44"
-        },
-        {
-            "song_name": "Frida Kahlo",
-            "artists": [
-                "Still Woozy"
-            ],
-            "album": "Loveseat",
-            "played_at": "13/02/2026 - 09:58:42"
-        },
-        {
-            "song_name": "Let It Happen - Radio Edit",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Chill 2010s",
-            "played_at": "13/02/2026 - 10:04:40"
-        },
-        {
-            "song_name": "say something",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "13/02/2026 - 11:59:56"
-        },
-        {
-            "song_name": "Bitter",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "13/02/2026 - 11:57:26"
-        },
-        {
-            "song_name": "DAYLIGHT DOOM",
-            "artists": [
-                "MOTO BANDIT"
-            ],
-            "album": "DAYLIGHT DOOM",
-            "played_at": "13/02/2026 - 11:53:26"
-        },
         {
             "song_name": "City",
             "artists": [
@@ -1700,6 +1556,167 @@
             ],
             "album": "Chemicals",
             "played_at": "17/02/2026 - 09:02:52"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "17/02/2026 - 10:58:32"
+        },
+        {
+            "song_name": "Exhale",
+            "artists": [
+                "T. Matthias",
+                "Alimish"
+            ],
+            "album": "Exhale",
+            "played_at": "17/02/2026 - 10:54:25"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "17/02/2026 - 10:51:57"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "17/02/2026 - 10:49:25"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "17/02/2026 - 10:46:30"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "17/02/2026 - 10:45:12"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "17/02/2026 - 10:43:08"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "17/02/2026 - 10:40:18"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "17/02/2026 - 10:38:35"
+        },
+        {
+            "song_name": "Think About Us",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb"
+            ],
+            "album": "Think About Us",
+            "played_at": "17/02/2026 - 10:36:26"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "17/02/2026 - 10:30:25"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Sixten",
+                "Embody",
+                "STO CULTR"
+            ],
+            "album": "Hold On, We're Going Home",
+            "played_at": "17/02/2026 - 10:27:55"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "17/02/2026 - 10:24:55"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "17/02/2026 - 10:22:55"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "17/02/2026 - 10:20:26"
+        },
+        {
+            "song_name": "You & Me - Rivo Remix",
+            "artists": [
+                "Disclosure",
+                "Rivo",
+                "Eliza Doolittle"
+            ],
+            "album": "You & Me (Rivo Remix)",
+            "played_at": "17/02/2026 - 10:16:55"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "17/02/2026 - 10:13:25"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "17/02/2026 - 10:12:27"
         }
     ]
 }
