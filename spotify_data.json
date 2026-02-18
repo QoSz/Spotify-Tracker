@@ -1,15 +1,6 @@
 {
-    "total_plays": 2852,
+    "total_plays": 2853,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "14/02/2026 - 07:49:18"
-        },
         {
             "song_name": "Baby Baby",
             "artists": [
@@ -1731,6 +1722,15 @@
             ],
             "album": "Inside Out",
             "played_at": "17/02/2026 - 19:12:12"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "17/02/2026 - 20:21:55"
         }
     ]
 }
