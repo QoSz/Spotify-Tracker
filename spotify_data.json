@@ -1,35 +1,6 @@
 {
-    "total_plays": 2869,
+    "total_plays": 2872,
     "tracks": [
-        {
-            "song_name": "ALL EYES",
-            "artists": [
-                "TWXN",
-                "LL Clawz",
-                "507KAZ"
-            ],
-            "album": "Project YVL",
-            "played_at": "16/02/2026 - 11:15:37"
-        },
-        {
-            "song_name": "Erase Me - Main",
-            "artists": [
-                "Kid Cudi",
-                "Kanye West"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "16/02/2026 - 11:14:08"
-        },
-        {
-            "song_name": "One Time (with Don Toliver feat. Future)",
-            "artists": [
-                "NAV",
-                "Don Toliver",
-                "Future"
-            ],
-            "album": "Demons Protected By Angels",
-            "played_at": "16/02/2026 - 11:10:37"
-        },
         {
             "song_name": "NO LOWER",
             "artists": [
@@ -1734,6 +1705,30 @@
             ],
             "album": "Tell Me",
             "played_at": "18/02/2026 - 10:40:26"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "18/02/2026 - 16:00:22"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "18/02/2026 - 15:56:23"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "18/02/2026 - 15:53:33"
         }
     ]
 }
