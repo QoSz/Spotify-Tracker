@@ -1,74 +1,6 @@
 {
-    "total_plays": 2853,
+    "total_plays": 2861,
     "tracks": [
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "14/02/2026 - 07:49:17"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "14/02/2026 - 06:27:52"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "14/02/2026 - 06:24:52"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Quavo",
-                "Juicy J"
-            ],
-            "album": "TYCOON",
-            "played_at": "14/02/2026 - 06:22:22"
-        },
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "14/02/2026 - 06:20:22"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "14/02/2026 - 13:32:12"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "14/02/2026 - 16:17:04"
-        },
-        {
-            "song_name": "NEW LINEN 新しいリネン",
-            "artists": [
-                "SamRecks",
-                "Thiago Sub"
-            ],
-            "album": "NEW LINEN 新しいリネン",
-            "played_at": "16/02/2026 - 08:30:25"
-        },
         {
             "song_name": "Life Goes On",
             "artists": [
@@ -1731,6 +1663,76 @@
             ],
             "album": "The Darkside",
             "played_at": "17/02/2026 - 20:21:55"
+        },
+        {
+            "song_name": "Clash (feat. Stormzy)",
+            "artists": [
+                "Dave",
+                "Stormzy"
+            ],
+            "album": "We're All Alone In This Together",
+            "played_at": "18/02/2026 - 10:24:57"
+        },
+        {
+            "song_name": "Different Species (feat. Gunna)",
+            "artists": [
+                "Offset",
+                "Gunna"
+            ],
+            "album": "KIARI",
+            "played_at": "18/02/2026 - 10:24:37"
+        },
+        {
+            "song_name": "Josephine",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "Josephine",
+            "played_at": "18/02/2026 - 10:15:43"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "18/02/2026 - 10:12:43"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "18/02/2026 - 10:10:13"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "18/02/2026 - 10:06:43"
+        },
+        {
+            "song_name": "She Knows Too Much",
+            "artists": [
+                "Thundercat",
+                "Mac Miller"
+            ],
+            "album": "She Knows Too Much",
+            "played_at": "18/02/2026 - 10:02:43"
+        },
+        {
+            "song_name": "21 Years",
+            "artists": [
+                "Skepta",
+                "Fred again.."
+            ],
+            "album": "Skepta .. Fred",
+            "played_at": "18/02/2026 - 09:12:05"
         }
     ]
 }
