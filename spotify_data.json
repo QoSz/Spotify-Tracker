@@ -1,75 +1,6 @@
 {
-    "total_plays": 2861,
+    "total_plays": 2869,
     "tracks": [
-        {
-            "song_name": "Life Goes On",
-            "artists": [
-                "Lil Baby",
-                "Gunna",
-                "Lil Uzi Vert"
-            ],
-            "album": "Harder Than Ever",
-            "played_at": "16/02/2026 - 08:25:55"
-        },
-        {
-            "song_name": "Style Rare (with Gunna)",
-            "artists": [
-                "Offset",
-                "Gunna"
-            ],
-            "album": "Style Rare (with Gunna)",
-            "played_at": "16/02/2026 - 08:51:52"
-        },
-        {
-            "song_name": "E85",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "OCTANE",
-            "played_at": "16/02/2026 - 08:47:03"
-        },
-        {
-            "song_name": "Cudi Zone",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "16/02/2026 - 08:44:33"
-        },
-        {
-            "song_name": "Flaws And Sins",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "16/02/2026 - 08:40:10"
-        },
-        {
-            "song_name": "BAD TIME",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "PLAN A",
-            "played_at": "16/02/2026 - 08:34:03"
-        },
-        {
-            "song_name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-            "artists": [
-                "Metro Boomin",
-                "A$AP Rocky",
-                "Roisee"
-            ],
-            "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "played_at": "16/02/2026 - 11:22:37"
-        },
-        {
-            "song_name": "Make Believe",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Death Race For Love (Bonus Track Version)",
-            "played_at": "16/02/2026 - 11:18:13"
-        },
         {
             "song_name": "ALL EYES",
             "artists": [
@@ -1733,6 +1664,76 @@
             ],
             "album": "Skepta .. Fred",
             "played_at": "18/02/2026 - 09:12:05"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "18/02/2026 - 12:07:51"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "18/02/2026 - 10:59:58"
+        },
+        {
+            "song_name": "You Save My Life",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "You Save My Life",
+            "played_at": "18/02/2026 - 10:49:55"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "18/02/2026 - 10:46:25"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "18/02/2026 - 10:43:55"
+        },
+        {
+            "song_name": "She Knows Too Much",
+            "artists": [
+                "Thundercat",
+                "Mac Miller"
+            ],
+            "album": "She Knows Too Much",
+            "played_at": "18/02/2026 - 10:41:26"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "18/02/2026 - 10:41:25"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "18/02/2026 - 10:40:26"
         }
     ]
 }
