@@ -1,118 +1,6 @@
 {
-    "total_plays": 2872,
+    "total_plays": 2885,
     "tracks": [
-        {
-            "song_name": "NO LOWER",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "NO LOWER",
-            "played_at": "16/02/2026 - 11:07:37"
-        },
-        {
-            "song_name": "I CAN’T LET GO",
-            "artists": [
-                "Lil Tecca",
-                "Don Toliver"
-            ],
-            "album": "PLAN A",
-            "played_at": "16/02/2026 - 11:05:08"
-        },
-        {
-            "song_name": "keep steady",
-            "artists": [
-                "sosocamo"
-            ],
-            "album": "no service",
-            "played_at": "16/02/2026 - 11:02:38"
-        },
-        {
-            "song_name": "We Still Don't Trust You",
-            "artists": [
-                "Future",
-                "Metro Boomin",
-                "The Weeknd"
-            ],
-            "album": "WE STILL DON'T TRUST YOU",
-            "played_at": "16/02/2026 - 11:00:38"
-        },
-        {
-            "song_name": "Never Recover (Lil Baby & Gunna, Drake)",
-            "artists": [
-                "Lil Baby",
-                "Gunna",
-                "Drake"
-            ],
-            "album": "Drip Harder",
-            "played_at": "16/02/2026 - 10:56:38"
-        },
-        {
-            "song_name": "Stronger",
-            "artists": [
-                "SAM LEX"
-            ],
-            "album": "Stronger",
-            "played_at": "16/02/2026 - 10:49:13"
-        },
-        {
-            "song_name": "ENDZONE",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "ENDZONE",
-            "played_at": "16/02/2026 - 10:46:12"
-        },
-        {
-            "song_name": "Let’s Call It Off (feat. Peter Bjorn and John)",
-            "artists": [
-                "Drake",
-                "Peter Bjorn and John"
-            ],
-            "album": "So Far Gone",
-            "played_at": "16/02/2026 - 10:43:42"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "16/02/2026 - 10:39:42"
-        },
-        {
-            "song_name": "Ever Since U Left Me (I Went Deaf)",
-            "artists": [
-                "French Montana",
-                "Max B"
-            ],
-            "album": "Coke Wave 3.5: Narcos",
-            "played_at": "16/02/2026 - 10:36:43"
-        },
-        {
-            "song_name": "Rosary (feat. Travis Scott)",
-            "artists": [
-                "Don Toliver",
-                "Travis Scott"
-            ],
-            "album": "OCTANE",
-            "played_at": "16/02/2026 - 10:34:12"
-        },
-        {
-            "song_name": "Set You Free",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Set You Free",
-            "played_at": "16/02/2026 - 10:31:14"
-        },
-        {
-            "song_name": "Enough",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Enough",
-            "played_at": "16/02/2026 - 10:28:42"
-        },
         {
             "song_name": "Birthday",
             "artists": [
@@ -1729,6 +1617,119 @@
             ],
             "album": "Your Eyes",
             "played_at": "18/02/2026 - 15:53:33"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "18/02/2026 - 16:39:23"
+        },
+        {
+            "song_name": "Over The Edge",
+            "artists": [
+                "Nu Aspect",
+                "Poppy Baskcomb"
+            ],
+            "album": "Over The Edge",
+            "played_at": "18/02/2026 - 16:36:22"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "18/02/2026 - 16:32:52"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "18/02/2026 - 16:29:25"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "18/02/2026 - 16:26:23"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "18/02/2026 - 16:23:37"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "18/02/2026 - 16:20:53"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "18/02/2026 - 16:17:53"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "18/02/2026 - 16:14:22"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "18/02/2026 - 16:11:22"
+        },
+        {
+            "song_name": "Come Find Me (with Clementine Douglas)",
+            "artists": [
+                "MK",
+                "Clementine Douglas"
+            ],
+            "album": "Come Find Me (with Clementine Douglas)",
+            "played_at": "18/02/2026 - 16:08:52"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "18/02/2026 - 16:05:22"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "18/02/2026 - 16:02:22"
         }
     ]
 }
