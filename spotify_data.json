@@ -1,16 +1,6 @@
 {
-    "total_plays": 2885,
+    "total_plays": 2886,
     "tracks": [
-        {
-            "song_name": "Birthday",
-            "artists": [
-                "Fredo",
-                "Burna Boy",
-                "Steel Banglez"
-            ],
-            "album": "Birthday",
-            "played_at": "16/02/2026 - 10:26:12"
-        },
         {
             "song_name": "Saint-Tropez",
             "artists": [
@@ -1730,6 +1720,15 @@
             ],
             "album": "Show Me",
             "played_at": "18/02/2026 - 16:02:22"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "18/02/2026 - 20:48:54"
         }
     ]
 }
