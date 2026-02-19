@@ -1,309 +1,6 @@
 {
-    "total_plays": 2886,
+    "total_plays": 2922,
     "tracks": [
-        {
-            "song_name": "Saint-Tropez",
-            "artists": [
-                "Post Malone"
-            ],
-            "album": "Hollywood's Bleeding",
-            "played_at": "16/02/2026 - 10:23:43"
-        },
-        {
-            "song_name": "Follow God",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "JESUS IS KING",
-            "played_at": "16/02/2026 - 10:20:42"
-        },
-        {
-            "song_name": "SURREAL",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "SURREAL",
-            "played_at": "16/02/2026 - 10:19:12"
-        },
-        {
-            "song_name": "Grimey Freestyle",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Grimey Freestyle",
-            "played_at": "16/02/2026 - 10:16:12"
-        },
-        {
-            "song_name": "BLIND (feat. Young Thug)",
-            "artists": [
-                "DaBaby",
-                "Young Thug"
-            ],
-            "album": "BLAME IT ON BABY (DELUXE)",
-            "played_at": "16/02/2026 - 10:13:12"
-        },
-        {
-            "song_name": "BLIND (feat. Young Thug)",
-            "artists": [
-                "DaBaby",
-                "Young Thug"
-            ],
-            "album": "BLAME IT ON BABY (DELUXE)",
-            "played_at": "16/02/2026 - 10:10:43"
-        },
-        {
-            "song_name": "Geronimo",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick (Deluxe)",
-            "played_at": "16/02/2026 - 11:24:38"
-        },
-        {
-            "song_name": "Woods",
-            "artists": [
-                "Mac Miller"
-            ],
-            "album": "Circles",
-            "played_at": "16/02/2026 - 13:45:24"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "16/02/2026 - 13:40:55"
-        },
-        {
-            "song_name": "Wish I Never Met You - Prison Tapes",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Wish I Never Met You (Prison Tapes)",
-            "played_at": "16/02/2026 - 13:37:54"
-        },
-        {
-            "song_name": "Crazy",
-            "artists": [
-                "Myles Lloyd",
-                "BUNT."
-            ],
-            "album": "Crazy",
-            "played_at": "16/02/2026 - 13:33:54"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "16/02/2026 - 13:31:24"
-        },
-        {
-            "song_name": "London2Paris",
-            "artists": [
-                "Tkandz"
-            ],
-            "album": "London2Paris",
-            "played_at": "16/02/2026 - 13:28:54"
-        },
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "16/02/2026 - 13:26:24"
-        },
-        {
-            "song_name": "Nemzz x Did It First",
-            "artists": [
-                "dawnpercs"
-            ],
-            "album": "Nemzz x Did It First",
-            "played_at": "16/02/2026 - 13:23:55"
-        },
-        {
-            "song_name": "Fake Friends",
-            "artists": [
-                "Kidwild"
-            ],
-            "album": "Distro Kid",
-            "played_at": "16/02/2026 - 13:22:54"
-        },
-        {
-            "song_name": "Same Thing",
-            "artists": [
-                "Ely Oaks",
-                "LAVINIA"
-            ],
-            "album": "Same Thing",
-            "played_at": "16/02/2026 - 13:20:55"
-        },
-        {
-            "song_name": "Fall Back (feat. Lil Tjay)",
-            "artists": [
-                "Lithe",
-                "Lil Tjay"
-            ],
-            "album": "Fall Back (feat. Lil Tjay)",
-            "played_at": "16/02/2026 - 13:18:54"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "16/02/2026 - 13:16:24"
-        },
-        {
-            "song_name": "Landed in Brooklyn",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "16/02/2026 - 13:12:54"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "16/02/2026 - 13:10:54"
-        },
-        {
-            "song_name": "Fall Back (feat. Lil Tjay)",
-            "artists": [
-                "Lithe",
-                "Lil Tjay"
-            ],
-            "album": "Fall Back (feat. Lil Tjay)",
-            "played_at": "16/02/2026 - 13:09:10"
-        },
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "16/02/2026 - 13:05:12"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "16/02/2026 - 13:05:11"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "16/02/2026 - 11:53:17"
-        },
-        {
-            "song_name": "Hate It Or Love It",
-            "artists": [
-                "The Game",
-                "50 Cent"
-            ],
-            "album": "The Documentary",
-            "played_at": "16/02/2026 - 11:48:22"
-        },
-        {
-            "song_name": "Middle",
-            "artists": [
-                "DJ Snake",
-                "Bipolar Sunshine"
-            ],
-            "album": "Encore",
-            "played_at": "16/02/2026 - 13:58:24"
-        },
-        {
-            "song_name": "Runaway (U & I)",
-            "artists": [
-                "Ian Asher",
-                "Galantis"
-            ],
-            "album": "Runaway (U & I)",
-            "played_at": "16/02/2026 - 13:54:24"
-        },
-        {
-            "song_name": "The Less I Know The Better",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Currents",
-            "played_at": "16/02/2026 - 13:52:25"
-        },
-        {
-            "song_name": "Go Ahead",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Love U Forever",
-            "played_at": "16/02/2026 - 13:48:26"
-        },
-        {
-            "song_name": "Clash (feat. Stormzy)",
-            "artists": [
-                "Dave",
-                "Stormzy"
-            ],
-            "album": "We're All Alone In This Together",
-            "played_at": "16/02/2026 - 14:30:24"
-        },
-        {
-            "song_name": "Different Species (feat. Gunna)",
-            "artists": [
-                "Offset",
-                "Gunna"
-            ],
-            "album": "KIARI",
-            "played_at": "16/02/2026 - 14:25:54"
-        },
-        {
-            "song_name": "21 Years",
-            "artists": [
-                "Skepta",
-                "Fred again.."
-            ],
-            "album": "Skepta .. Fred",
-            "played_at": "16/02/2026 - 14:22:54"
-        },
-        {
-            "song_name": "Recognize",
-            "artists": [
-                "Russ",
-                "Jessy Blakemore"
-            ],
-            "album": "Recognize",
-            "played_at": "16/02/2026 - 14:19:25"
-        },
-        {
-            "song_name": "shiloh type beat",
-            "artists": [
-                "Jessy Blakemore"
-            ],
-            "album": "burna",
-            "played_at": "16/02/2026 - 14:16:24"
-        },
-        {
-            "song_name": "Kool Aid",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Sofa Kings",
-            "played_at": "16/02/2026 - 14:13:54"
-        },
         {
             "song_name": "Texts Go Green",
             "artists": [
@@ -1729,6 +1426,320 @@
             ],
             "album": "Waiting for Love",
             "played_at": "18/02/2026 - 20:48:54"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "19/02/2026 - 16:18:39"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "19/02/2026 - 15:46:21"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "19/02/2026 - 15:45:11"
+        },
+        {
+            "song_name": "Miss You",
+            "artists": [
+                "Nu Aspect",
+                "Jamis",
+                "Poppy Baskcomb"
+            ],
+            "album": "Miss You",
+            "played_at": "19/02/2026 - 15:45:10"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "19/02/2026 - 15:37:11"
+        },
+        {
+            "song_name": "Think About Us",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb"
+            ],
+            "album": "Think About Us",
+            "played_at": "19/02/2026 - 15:33:40"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "19/02/2026 - 15:30:40"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "19/02/2026 - 15:27:45"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "19/02/2026 - 15:24:40"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "19/02/2026 - 15:22:10"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "19/02/2026 - 15:20:10"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "19/02/2026 - 15:17:10"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "19/02/2026 - 15:13:10"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "19/02/2026 - 15:10:10"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "19/02/2026 - 15:07:40"
+        },
+        {
+            "song_name": "Don't Fix Me",
+            "artists": [
+                "April Girl",
+                "RYVM"
+            ],
+            "album": "Intro",
+            "played_at": "19/02/2026 - 15:04:11"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "19/02/2026 - 15:01:42"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "19/02/2026 - 14:58:10"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "19/02/2026 - 14:55:40"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "19/02/2026 - 14:52:10"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "19/02/2026 - 14:47:40"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "19/02/2026 - 14:43:10"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "19/02/2026 - 14:40:12"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "19/02/2026 - 14:37:10"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "19/02/2026 - 14:34:40"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "19/02/2026 - 14:31:18"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "19/02/2026 - 14:31:12"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "19/02/2026 - 11:58:51"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "19/02/2026 - 11:56:22"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/02/2026 - 11:53:51"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "19/02/2026 - 11:51:51"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "19/02/2026 - 11:48:51"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "19/02/2026 - 11:46:22"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "19/02/2026 - 11:44:21"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "19/02/2026 - 11:40:51"
+        },
+        {
+            "song_name": "Velvet & Ice",
+            "artists": [
+                "Ferreck Dawn"
+            ],
+            "album": "Velvet & Ice",
+            "played_at": "19/02/2026 - 11:38:21"
         }
     ]
 }
