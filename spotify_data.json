@@ -1,75 +1,6 @@
 {
-    "total_plays": 2922,
+    "total_plays": 2930,
     "tracks": [
-        {
-            "song_name": "Texts Go Green",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "16/02/2026 - 14:10:24"
-        },
-        {
-            "song_name": "Magic In The Hamptons (feat. Lil Yachty)",
-            "artists": [
-                "Social House",
-                "Lil Yachty"
-            ],
-            "album": "Magic In The Hamptons (feat. Lil Yachty)",
-            "played_at": "16/02/2026 - 14:05:24"
-        },
-        {
-            "song_name": "Ray Of Solar",
-            "artists": [
-                "Swedish House Mafia"
-            ],
-            "album": "Ray Of Solar",
-            "played_at": "16/02/2026 - 14:02:28"
-        },
-        {
-            "song_name": "Professional",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Professional",
-            "played_at": "16/02/2026 - 14:56:24"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "16/02/2026 - 14:50:54"
-        },
-        {
-            "song_name": "OWA OWA",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "DOPAMINE",
-            "played_at": "16/02/2026 - 14:47:54"
-        },
-        {
-            "song_name": "Desires (with Future)",
-            "artists": [
-                "Drake",
-                "Future"
-            ],
-            "album": "Dark Lane Demo Tapes",
-            "played_at": "16/02/2026 - 14:45:25"
-        },
-        {
-            "song_name": "Hell Night",
-            "artists": [
-                "Pooh Shiesty",
-                "BIG30"
-            ],
-            "album": "Hell Night",
-            "played_at": "16/02/2026 - 14:41:24"
-        },
         {
             "song_name": "Calm 3",
             "artists": [
@@ -1740,6 +1671,75 @@
             ],
             "album": "Velvet & Ice",
             "played_at": "19/02/2026 - 11:38:21"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "22/02/2026 - 11:45:25"
+        },
+        {
+            "song_name": "Exhale",
+            "artists": [
+                "T. Matthias",
+                "Alimish"
+            ],
+            "album": "Exhale",
+            "played_at": "22/02/2026 - 11:42:54"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "22/02/2026 - 11:40:24"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "22/02/2026 - 11:37:55"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "22/02/2026 - 11:36:34"
+        },
+        {
+            "song_name": "Velvet & Ice",
+            "artists": [
+                "Ferreck Dawn"
+            ],
+            "album": "Velvet & Ice",
+            "played_at": "22/02/2026 - 11:36:32"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "22/02/2026 - 11:36:31"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "22/02/2026 - 08:41:35"
         }
     ]
 }
