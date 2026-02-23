@@ -1,58 +1,6 @@
 {
-    "total_plays": 2931,
+    "total_plays": 2937,
     "tracks": [
-        {
-            "song_name": "KICK OUT",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "JACKBOYS 2",
-            "played_at": "16/02/2026 - 14:36:25"
-        },
-        {
-            "song_name": "Casper",
-            "artists": [
-                "Takeoff"
-            ],
-            "album": "The Last Rocket",
-            "played_at": "16/02/2026 - 14:33:25"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Jethro Heston"
-            ],
-            "album": "My Love",
-            "played_at": "16/02/2026 - 16:40:04"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "16/02/2026 - 16:37:34"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "16/02/2026 - 16:34:05"
-        },
-        {
-            "song_name": "Secrets",
-            "artists": [
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Secrets",
-            "played_at": "16/02/2026 - 16:31:33"
-        },
         {
             "song_name": "Bits of Hope",
             "artists": [
@@ -1743,6 +1691,61 @@
             ],
             "album": "AWGAZI",
             "played_at": "23/02/2026 - 06:46:54"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "23/02/2026 - 10:35:31"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "23/02/2026 - 10:33:01"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "23/02/2026 - 10:30:01"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "23/02/2026 - 10:26:31"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "23/02/2026 - 10:24:31"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "23/02/2026 - 10:21:01"
         }
     ]
 }
