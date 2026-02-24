@@ -1,24 +1,6 @@
 {
-    "total_plays": 2937,
+    "total_plays": 2939,
     "tracks": [
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "16/02/2026 - 16:29:03"
-        },
-        {
-            "song_name": "Cinematic",
-            "artists": [
-                "MIND",
-                "Clearest"
-            ],
-            "album": "First Contact",
-            "played_at": "16/02/2026 - 16:26:34"
-        },
         {
             "song_name": "Hold on Me",
             "artists": [
@@ -1746,6 +1728,24 @@
             ],
             "album": "Deep of You",
             "played_at": "23/02/2026 - 10:21:01"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "24/02/2026 - 14:16:28"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "24/02/2026 - 14:13:59"
         }
     ]
 }
