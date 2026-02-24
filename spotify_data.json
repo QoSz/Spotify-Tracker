@@ -1,77 +1,6 @@
 {
-    "total_plays": 2957,
+    "total_plays": 2965,
     "tracks": [
-        {
-            "song_name": "Cure My Desire",
-            "artists": [
-                "Hannah Wants",
-                "Clementine Douglas"
-            ],
-            "album": "Cure My Desire (Themba Remix)",
-            "played_at": "17/02/2026 - 09:05:52"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "17/02/2026 - 09:02:52"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "17/02/2026 - 10:58:32"
-        },
-        {
-            "song_name": "Exhale",
-            "artists": [
-                "T. Matthias",
-                "Alimish"
-            ],
-            "album": "Exhale",
-            "played_at": "17/02/2026 - 10:54:25"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "17/02/2026 - 10:51:57"
-        },
-        {
-            "song_name": "Can't Decide",
-            "artists": [
-                "Max Dean",
-                "Luke Dean",
-                "Locky"
-            ],
-            "album": "Can't Decide",
-            "played_at": "17/02/2026 - 10:49:25"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "17/02/2026 - 10:46:30"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "17/02/2026 - 10:45:12"
-        },
         {
             "song_name": "can i come",
             "artists": [
@@ -1741,6 +1670,76 @@
             ],
             "album": "99 Eyes",
             "played_at": "24/02/2026 - 15:05:07"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "24/02/2026 - 15:56:08"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "24/02/2026 - 15:54:08"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "24/02/2026 - 15:51:07"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "24/02/2026 - 15:46:37"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "24/02/2026 - 15:44:07"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "24/02/2026 - 15:41:07"
+        },
+        {
+            "song_name": "Where Nobody Knows",
+            "artists": [
+                "Hyzteria",
+                "Dakota"
+            ],
+            "album": "Where Nobody Knows",
+            "played_at": "24/02/2026 - 15:36:07"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "24/02/2026 - 15:33:08"
         }
     ]
 }
