@@ -1,83 +1,6 @@
 {
-    "total_plays": 2948,
+    "total_plays": 2957,
     "tracks": [
-        {
-            "song_name": "Sad People",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon III: The Chosen",
-            "played_at": "16/02/2026 - 15:52:35"
-        },
-        {
-            "song_name": "Go Ahead",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Love U Forever",
-            "played_at": "17/02/2026 - 08:07:27"
-        },
-        {
-            "song_name": "Runaway (U & I)",
-            "artists": [
-                "Ian Asher",
-                "Galantis"
-            ],
-            "album": "Runaway (U & I)",
-            "played_at": "17/02/2026 - 08:07:26"
-        },
-        {
-            "song_name": "Watching over You",
-            "artists": [
-                "Nu Aspect",
-                "Marlo Rex"
-            ],
-            "album": "Watching over You",
-            "played_at": "17/02/2026 - 09:00:22"
-        },
-        {
-            "song_name": "Ride With Me",
-            "artists": [
-                "Zac Samuel"
-            ],
-            "album": "Ride With Me",
-            "played_at": "17/02/2026 - 08:56:52"
-        },
-        {
-            "song_name": "Ride With Me",
-            "artists": [
-                "Zac Samuel"
-            ],
-            "album": "Ride With Me",
-            "played_at": "17/02/2026 - 08:55:01"
-        },
-        {
-            "song_name": "Sirens",
-            "artists": [
-                "Dallerium",
-                "FARLEY"
-            ],
-            "album": "Sirens",
-            "played_at": "17/02/2026 - 09:15:52"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "17/02/2026 - 09:12:22"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "17/02/2026 - 09:09:23"
-        },
         {
             "song_name": "Cure My Desire",
             "artists": [
@@ -1743,6 +1666,81 @@
             ],
             "album": "over time",
             "played_at": "24/02/2026 - 14:32:58"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "24/02/2026 - 15:30:37"
+        },
+        {
+            "song_name": "Ocean",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Ocean",
+            "played_at": "24/02/2026 - 15:26:37"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "24/02/2026 - 15:24:47"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "24/02/2026 - 15:21:07"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "24/02/2026 - 15:19:11"
+        },
+        {
+            "song_name": "fractured light",
+            "artists": [
+                "kalm"
+            ],
+            "album": "fractured light",
+            "played_at": "24/02/2026 - 15:15:37"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "24/02/2026 - 15:13:07"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "24/02/2026 - 15:10:08"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "24/02/2026 - 15:05:07"
         }
     ]
 }
