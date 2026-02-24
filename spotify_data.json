@@ -1,51 +1,6 @@
 {
-    "total_plays": 2939,
+    "total_plays": 2944,
     "tracks": [
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "16/02/2026 - 16:24:06"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "16/02/2026 - 16:21:34"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "16/02/2026 - 16:19:03"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "16/02/2026 - 16:15:33"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "16/02/2026 - 16:12:33"
-        },
         {
             "song_name": "Nobody Knows - Belters Only Remix",
             "artists": [
@@ -1746,6 +1701,49 @@
             ],
             "album": "Out of My Head",
             "played_at": "24/02/2026 - 14:13:59"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "24/02/2026 - 14:30:28"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "24/02/2026 - 14:27:58"
+        },
+        {
+            "song_name": "Get Through This",
+            "artists": [
+                "Nathan C"
+            ],
+            "album": "Get Through This",
+            "played_at": "24/02/2026 - 14:25:28"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "24/02/2026 - 14:22:28"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "24/02/2026 - 14:19:28"
         }
     ]
 }
