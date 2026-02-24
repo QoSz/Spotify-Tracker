@@ -1,14 +1,6 @@
 {
-    "total_plays": 2965,
+    "total_plays": 2966,
     "tracks": [
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "17/02/2026 - 10:43:08"
-        },
         {
             "song_name": "Heartbeat",
             "artists": [
@@ -1740,6 +1732,14 @@
             ],
             "album": "Run",
             "played_at": "24/02/2026 - 15:33:08"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "24/02/2026 - 17:07:44"
         }
     ]
 }
