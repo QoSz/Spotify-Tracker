@@ -1,86 +1,6 @@
 {
-    "total_plays": 3006,
+    "total_plays": 3015,
     "tracks": [
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "17/02/2026 - 16:15:42"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "17/02/2026 - 16:12:42"
-        },
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "17/02/2026 - 16:11:12"
-        },
-        {
-            "song_name": "Don't Fix Me",
-            "artists": [
-                "April Girl",
-                "RYVM"
-            ],
-            "album": "Intro",
-            "played_at": "17/02/2026 - 16:10:14"
-        },
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "17/02/2026 - 16:09:02"
-        },
-        {
-            "song_name": "Get Through This",
-            "artists": [
-                "Nathan C"
-            ],
-            "album": "Get Through This",
-            "played_at": "17/02/2026 - 16:00:42"
-        },
-        {
-            "song_name": "Forever",
-            "artists": [
-                "ZULAN"
-            ],
-            "album": "Forever",
-            "played_at": "17/02/2026 - 15:58:12"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "17/02/2026 - 15:55:12"
-        },
-        {
-            "song_name": "AWGAZI (Sunset Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "Palm Monkey",
-                "RUSSI",
-                "DALEXO"
-            ],
-            "album": "AWGAZI",
-            "played_at": "17/02/2026 - 15:51:42"
-        },
         {
             "song_name": "You're Makin' Me High",
             "artists": [
@@ -1737,6 +1657,87 @@
             ],
             "album": "Life with You",
             "played_at": "25/02/2026 - 12:59:10"
+        },
+        {
+            "song_name": "In Reverse",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "In Reverse",
+            "played_at": "25/02/2026 - 13:29:10"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "25/02/2026 - 13:26:39"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "25/02/2026 - 13:24:21"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "25/02/2026 - 13:20:39"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "25/02/2026 - 13:18:09"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "25/02/2026 - 13:15:10"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "25/02/2026 - 13:11:09"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "25/02/2026 - 13:06:09"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Sixten",
+                "Embody",
+                "STO CULTR"
+            ],
+            "album": "Hold On, We're Going Home",
+            "played_at": "25/02/2026 - 13:03:39"
         }
     ]
 }
