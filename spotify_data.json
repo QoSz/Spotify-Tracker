@@ -1,66 +1,6 @@
 {
-    "total_plays": 2997,
+    "total_plays": 3004,
     "tracks": [
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "17/02/2026 - 13:19:36"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "17/02/2026 - 13:16:37"
-        },
-        {
-            "song_name": "Shine Like Stars",
-            "artists": [
-                "Benji"
-            ],
-            "album": "Shine Like Stars",
-            "played_at": "17/02/2026 - 13:13:35"
-        },
-        {
-            "song_name": "Pines",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "Pines",
-            "played_at": "17/02/2026 - 13:09:35"
-        },
-        {
-            "song_name": "Pines",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "Pines",
-            "played_at": "17/02/2026 - 13:08:37"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "17/02/2026 - 16:55:51"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "17/02/2026 - 16:24:12"
-        },
         {
             "song_name": "Get Close",
             "artists": [
@@ -1733,6 +1673,65 @@
             ],
             "album": "Running Back",
             "played_at": "25/02/2026 - 10:22:53"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "25/02/2026 - 10:52:22"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "25/02/2026 - 10:48:52"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "25/02/2026 - 10:44:22"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "25/02/2026 - 10:41:52"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "25/02/2026 - 10:37:52"
+        },
+        {
+            "song_name": "the morning",
+            "artists": [
+                "kalm"
+            ],
+            "album": "the morning",
+            "played_at": "25/02/2026 - 10:35:22"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "25/02/2026 - 10:33:22"
         }
     ]
 }
