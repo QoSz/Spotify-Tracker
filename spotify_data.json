@@ -1,34 +1,6 @@
 {
-    "total_plays": 2966,
+    "total_plays": 2969,
     "tracks": [
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "Biscits",
-                "Ekko"
-            ],
-            "album": "Heartbeat",
-            "played_at": "17/02/2026 - 10:40:18"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "17/02/2026 - 10:38:35"
-        },
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "17/02/2026 - 10:36:26"
-        },
         {
             "song_name": "eyes open",
             "artists": [
@@ -1740,6 +1712,31 @@
             ],
             "album": "Cherish",
             "played_at": "24/02/2026 - 17:07:44"
+        },
+        {
+            "song_name": "Ocean",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Ocean",
+            "played_at": "25/02/2026 - 07:47:32"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "25/02/2026 - 07:47:31"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "25/02/2026 - 07:47:30"
         }
     ]
 }
