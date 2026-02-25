@@ -1,84 +1,6 @@
 {
-    "total_plays": 3027,
+    "total_plays": 3036,
     "tracks": [
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "17/02/2026 - 15:13:42"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "17/02/2026 - 15:10:42"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "17/02/2026 - 15:08:15"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "17/02/2026 - 15:04:12"
-        },
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "17/02/2026 - 15:01:45"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "17/02/2026 - 14:58:42"
-        },
-        {
-            "song_name": "Hollow Ground",
-            "artists": [
-                "NOTSOBAD",
-                "Able Faces"
-            ],
-            "album": "Hollow Ground",
-            "played_at": "17/02/2026 - 14:55:12"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "17/02/2026 - 14:52:42"
-        },
-        {
-            "song_name": "Where We Belong",
-            "artists": [
-                "Amtrac"
-            ],
-            "album": "Where We Belong",
-            "played_at": "17/02/2026 - 14:38:05"
-        },
         {
             "song_name": "21 Years",
             "artists": [
@@ -1747,6 +1669,84 @@
             ],
             "album": "Heaven",
             "played_at": "25/02/2026 - 14:04:31"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "25/02/2026 - 15:00:06"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "25/02/2026 - 14:57:13"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "25/02/2026 - 14:54:41"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "25/02/2026 - 14:52:15"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "25/02/2026 - 14:46:36"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "25/02/2026 - 14:42:46"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "25/02/2026 - 14:39:48"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "25/02/2026 - 14:36:13"
+        },
+        {
+            "song_name": "Cure My Desire",
+            "artists": [
+                "Hannah Wants",
+                "Clementine Douglas"
+            ],
+            "album": "Cure My Desire (Themba Remix)",
+            "played_at": "25/02/2026 - 14:33:44"
         }
     ]
 }
