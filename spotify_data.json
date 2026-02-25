@@ -1,106 +1,6 @@
 {
-    "total_plays": 3015,
+    "total_plays": 3027,
     "tracks": [
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "17/02/2026 - 15:49:12"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "17/02/2026 - 15:46:12"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "17/02/2026 - 15:42:42"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "17/02/2026 - 15:39:44"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "17/02/2026 - 15:36:42"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "17/02/2026 - 15:32:43"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "17/02/2026 - 15:30:16"
-        },
-        {
-            "song_name": "Deeper",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "17/02/2026 - 15:28:14"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "17/02/2026 - 15:24:43"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "17/02/2026 - 15:20:42"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "17/02/2026 - 15:18:42"
-        },
-        {
-            "song_name": "No One Knows",
-            "artists": [
-                "Tobtok",
-                "STO CULTR"
-            ],
-            "album": "No One Knows",
-            "played_at": "17/02/2026 - 15:15:42"
-        },
         {
             "song_name": "Restart My Heart",
             "artists": [
@@ -1738,6 +1638,115 @@
             ],
             "album": "Hold On, We're Going Home",
             "played_at": "25/02/2026 - 13:03:39"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "25/02/2026 - 14:30:46"
+        },
+        {
+            "song_name": "Shine Like Stars",
+            "artists": [
+                "Benji"
+            ],
+            "album": "Shine Like Stars",
+            "played_at": "25/02/2026 - 14:28:36"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "25/02/2026 - 14:24:44"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "25/02/2026 - 14:22:15"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "25/02/2026 - 14:19:08"
+        },
+        {
+            "song_name": "Someone to Hold",
+            "artists": [
+                "Nu Aspect",
+                "Tudor"
+            ],
+            "album": "Someone to Hold",
+            "played_at": "25/02/2026 - 14:19:05"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "25/02/2026 - 14:15:20"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "25/02/2026 - 14:12:49"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "25/02/2026 - 14:10:11"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Sixten",
+                "Embody",
+                "STO CULTR"
+            ],
+            "album": "Hold On, We're Going Home",
+            "played_at": "25/02/2026 - 14:07:16"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Sixten",
+                "Embody",
+                "STO CULTR"
+            ],
+            "album": "Hold On, We're Going Home",
+            "played_at": "25/02/2026 - 14:04:47"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "25/02/2026 - 14:04:31"
         }
     ]
 }
