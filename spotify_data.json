@@ -1,23 +1,6 @@
 {
-    "total_plays": 3004,
+    "total_plays": 3006,
     "tracks": [
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "17/02/2026 - 16:21:12"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "17/02/2026 - 16:18:12"
-        },
         {
             "song_name": "Waiting",
             "artists": [
@@ -1732,6 +1715,28 @@
             ],
             "album": "Light",
             "played_at": "25/02/2026 - 10:33:22"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "25/02/2026 - 13:00:44"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "25/02/2026 - 12:59:10"
         }
     ]
 }
