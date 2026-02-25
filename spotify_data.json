@@ -1,42 +1,6 @@
 {
-    "total_plays": 2993,
+    "total_plays": 2997,
     "tracks": [
-        {
-            "song_name": "The Darkside",
-            "artists": [
-                "PALASTIC",
-                "Ekko"
-            ],
-            "album": "The Darkside",
-            "played_at": "17/02/2026 - 13:31:35"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "17/02/2026 - 13:29:05"
-        },
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "17/02/2026 - 13:26:35"
-        },
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "17/02/2026 - 13:23:06"
-        },
         {
             "song_name": "Upside Down",
             "artists": [
@@ -1733,6 +1697,42 @@
             ],
             "album": "Surrender",
             "played_at": "25/02/2026 - 08:34:12"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "25/02/2026 - 10:30:24"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "25/02/2026 - 10:27:23"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "25/02/2026 - 10:23:53"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "25/02/2026 - 10:22:53"
         }
     ]
 }
