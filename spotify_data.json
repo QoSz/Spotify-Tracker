@@ -1,23 +1,6 @@
 {
-    "total_plays": 3078,
+    "total_plays": 3080,
     "tracks": [
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "18/02/2026 - 16:20:53"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "18/02/2026 - 16:17:53"
-        },
         {
             "song_name": "Sweet Nothing - 2025 Edit",
             "artists": [
@@ -1740,6 +1723,24 @@
             ],
             "album": "Miss You So",
             "played_at": "26/02/2026 - 10:08:45"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "26/02/2026 - 10:59:46"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "26/02/2026 - 10:58:47"
         }
     ]
 }
