@@ -1,15 +1,6 @@
 {
-    "total_plays": 3088,
+    "total_plays": 3089,
     "tracks": [
-        {
-            "song_name": "The Darkside",
-            "artists": [
-                "PALASTIC",
-                "Ekko"
-            ],
-            "album": "The Darkside",
-            "played_at": "19/02/2026 - 15:45:11"
-        },
         {
             "song_name": "Miss You",
             "artists": [
@@ -1740,6 +1731,14 @@
             ],
             "album": "Fix Me",
             "played_at": "26/02/2026 - 11:32:39"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "26/02/2026 - 16:14:28"
         }
     ]
 }
