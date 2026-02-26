@@ -1,16 +1,6 @@
 {
-    "total_plays": 3080,
+    "total_plays": 3081,
     "tracks": [
-        {
-            "song_name": "Sweet Nothing - 2025 Edit",
-            "artists": [
-                "D.O.D",
-                "Calvin Harris",
-                "Florence Welch"
-            ],
-            "album": "Sweet Nothing (2025 Edit)",
-            "played_at": "18/02/2026 - 16:14:22"
-        },
         {
             "song_name": "say it plain",
             "artists": [
@@ -1741,6 +1731,15 @@
             ],
             "album": "Running Back",
             "played_at": "26/02/2026 - 10:58:47"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "26/02/2026 - 11:29:39"
         }
     ]
 }
