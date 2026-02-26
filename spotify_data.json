@@ -1,15 +1,6 @@
 {
-    "total_plays": 3077,
+    "total_plays": 3078,
     "tracks": [
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "18/02/2026 - 16:23:37"
-        },
         {
             "song_name": "Tether",
             "artists": [
@@ -1740,6 +1731,15 @@
             ],
             "album": "WHERE IS MY HUSBAND!",
             "played_at": "26/02/2026 - 08:47:38"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "26/02/2026 - 10:08:45"
         }
     ]
 }
