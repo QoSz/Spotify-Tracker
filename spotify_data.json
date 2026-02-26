@@ -1,15 +1,6 @@
 {
-    "total_plays": 3062,
+    "total_plays": 3063,
     "tracks": [
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "18/02/2026 - 10:59:58"
-        },
         {
             "song_name": "You Save My Life",
             "artists": [
@@ -1745,6 +1736,14 @@
             ],
             "album": "Sleepless",
             "played_at": "25/02/2026 - 15:02:52"
+        },
+        {
+            "song_name": "You Save My Life",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "You Save My Life",
+            "played_at": "26/02/2026 - 06:51:19"
         }
     ]
 }
