@@ -1,66 +1,6 @@
 {
-    "total_plays": 3081,
+    "total_plays": 3088,
     "tracks": [
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "18/02/2026 - 16:11:22"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "18/02/2026 - 16:08:52"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "18/02/2026 - 16:05:22"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "18/02/2026 - 16:02:22"
-        },
-        {
-            "song_name": "Waiting for Love",
-            "artists": [
-                "Tudor",
-                "Embody"
-            ],
-            "album": "Waiting for Love",
-            "played_at": "18/02/2026 - 20:48:54"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "19/02/2026 - 16:18:39"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "19/02/2026 - 15:46:21"
-        },
         {
             "song_name": "The Darkside",
             "artists": [
@@ -1740,6 +1680,66 @@
             ],
             "album": "Called Your Name",
             "played_at": "26/02/2026 - 11:29:39"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "26/02/2026 - 11:51:09"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "26/02/2026 - 11:46:39"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "26/02/2026 - 11:44:39"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "26/02/2026 - 11:40:39"
+        },
+        {
+            "song_name": "the morning",
+            "artists": [
+                "kalm"
+            ],
+            "album": "the morning",
+            "played_at": "26/02/2026 - 11:38:09"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "26/02/2026 - 11:35:39"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "26/02/2026 - 11:32:39"
         }
     ]
 }
