@@ -1,14 +1,6 @@
 {
-    "total_plays": 3169,
+    "total_plays": 3170,
     "tracks": [
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "25/02/2026 - 07:55:39"
-        },
         {
             "song_name": "Exhale",
             "artists": [
@@ -1736,6 +1728,15 @@
             ],
             "album": "over time",
             "played_at": "27/02/2026 - 15:03:54"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "27/02/2026 - 16:38:09"
         }
     ]
 }
