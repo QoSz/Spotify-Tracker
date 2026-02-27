@@ -1,16 +1,6 @@
 {
-    "total_plays": 3089,
+    "total_plays": 3090,
     "tracks": [
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "19/02/2026 - 15:45:10"
-        },
         {
             "song_name": "Touch Me",
             "artists": [
@@ -1739,6 +1729,15 @@
             ],
             "album": "Reverie",
             "played_at": "26/02/2026 - 16:14:28"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "27/02/2026 - 08:26:47"
         }
     ]
 }
