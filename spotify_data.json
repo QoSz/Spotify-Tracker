@@ -1,39 +1,6 @@
 {
-    "total_plays": 3165,
+    "total_plays": 3169,
     "tracks": [
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "24/02/2026 - 17:07:44"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "25/02/2026 - 07:47:32"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "25/02/2026 - 07:47:31"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "25/02/2026 - 07:47:30"
-        },
         {
             "song_name": "Downtown Light",
             "artists": [
@@ -1737,6 +1704,38 @@
             ],
             "album": "Stay",
             "played_at": "27/02/2026 - 11:41:41"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "27/02/2026 - 15:12:25"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "27/02/2026 - 15:09:54"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "27/02/2026 - 15:06:54"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "27/02/2026 - 15:03:54"
         }
     ]
 }
