@@ -1,91 +1,6 @@
 {
-    "total_plays": 3181,
+    "total_plays": 3191,
     "tracks": [
-        {
-            "song_name": "Voodoo",
-            "artists": [
-                "Gorgon City"
-            ],
-            "album": "Salvation",
-            "played_at": "25/02/2026 - 09:21:12"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "25/02/2026 - 09:17:42"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "25/02/2026 - 09:14:12"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "25/02/2026 - 09:10:42"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "25/02/2026 - 09:08:43"
-        },
-        {
-            "song_name": "Josephine",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "Josephine",
-            "played_at": "25/02/2026 - 09:06:42"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "25/02/2026 - 09:03:43"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "25/02/2026 - 09:01:12"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "25/02/2026 - 08:58:42"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "25/02/2026 - 08:58:13"
-        },
         {
             "song_name": "Weightless",
             "artists": [
@@ -1737,6 +1652,96 @@
             ],
             "album": "Lifeline",
             "played_at": "02/03/2026 - 10:36:03"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "02/03/2026 - 11:28:14"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "02/03/2026 - 11:25:45"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "02/03/2026 - 11:22:44"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "02/03/2026 - 11:18:44"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "02/03/2026 - 11:15:45"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "02/03/2026 - 11:13:46"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "02/03/2026 - 11:10:14"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "02/03/2026 - 11:07:14"
+        },
+        {
+            "song_name": "Cure My Desire",
+            "artists": [
+                "Hannah Wants",
+                "Clementine Douglas"
+            ],
+            "album": "Cure My Desire (Themba Remix)",
+            "played_at": "02/03/2026 - 11:04:14"
+        },
+        {
+            "song_name": "Think About Us",
+            "artists": [
+                "Sonny Fodera",
+                "D.O.D",
+                "Poppy Baskcomb"
+            ],
+            "album": "Think About Us",
+            "played_at": "02/03/2026 - 11:01:17"
         }
     ]
 }
