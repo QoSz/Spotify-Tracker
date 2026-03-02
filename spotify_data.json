@@ -1,14 +1,6 @@
 {
-    "total_plays": 3171,
+    "total_plays": 3172,
     "tracks": [
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "25/02/2026 - 07:51:15"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1737,6 +1729,14 @@
             ],
             "album": "Inside Out",
             "played_at": "02/03/2026 - 09:25:43"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "02/03/2026 - 09:43:58"
         }
     ]
 }
