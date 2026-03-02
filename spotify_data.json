@@ -1,84 +1,6 @@
 {
-    "total_plays": 3191,
+    "total_plays": 3200,
     "tracks": [
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "25/02/2026 - 08:37:12"
-        },
-        {
-            "song_name": "Surrender",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Surrender",
-            "played_at": "25/02/2026 - 08:34:12"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "25/02/2026 - 10:30:24"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "25/02/2026 - 10:27:23"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "25/02/2026 - 10:23:53"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "25/02/2026 - 10:22:53"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "25/02/2026 - 10:52:22"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "25/02/2026 - 10:48:52"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "25/02/2026 - 10:44:22"
-        },
         {
             "song_name": "Inside Out",
             "artists": [
@@ -1742,6 +1664,82 @@
             ],
             "album": "Think About Us",
             "played_at": "02/03/2026 - 11:01:17"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "02/03/2026 - 11:57:14"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "02/03/2026 - 11:53:44"
+        },
+        {
+            "song_name": "Shine Like Stars",
+            "artists": [
+                "Benji"
+            ],
+            "album": "Shine Like Stars",
+            "played_at": "02/03/2026 - 11:50:16"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "02/03/2026 - 11:46:44"
+        },
+        {
+            "song_name": "Say It Right - Rinzen Remix",
+            "artists": [
+                "Nelly Furtado",
+                "Rinzen"
+            ],
+            "album": "Say It Right (Rinzen Remix)",
+            "played_at": "02/03/2026 - 11:43:14"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "02/03/2026 - 11:39:44"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "02/03/2026 - 11:37:44"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "02/03/2026 - 11:34:44"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "02/03/2026 - 11:31:43"
         }
     ]
 }
