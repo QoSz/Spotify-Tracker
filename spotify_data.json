@@ -1,15 +1,6 @@
 {
-    "total_plays": 3170,
+    "total_plays": 3171,
     "tracks": [
-        {
-            "song_name": "Exhale",
-            "artists": [
-                "T. Matthias",
-                "Alimish"
-            ],
-            "album": "Exhale",
-            "played_at": "25/02/2026 - 07:53:39"
-        },
         {
             "song_name": "Sweet Release",
             "artists": [
@@ -1737,6 +1728,15 @@
             ],
             "album": "Reasons",
             "played_at": "27/02/2026 - 16:38:09"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "02/03/2026 - 09:25:43"
         }
     ]
 }
