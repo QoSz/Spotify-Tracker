@@ -1,106 +1,6 @@
 {
-    "total_plays": 3214,
+    "total_plays": 3225,
     "tracks": [
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Sixten",
-                "Embody",
-                "STO CULTR"
-            ],
-            "album": "Hold On, We're Going Home",
-            "played_at": "25/02/2026 - 13:03:39"
-        },
-        {
-            "song_name": "Cinematic",
-            "artists": [
-                "MIND",
-                "Clearest"
-            ],
-            "album": "First Contact",
-            "played_at": "25/02/2026 - 14:30:46"
-        },
-        {
-            "song_name": "Shine Like Stars",
-            "artists": [
-                "Benji"
-            ],
-            "album": "Shine Like Stars",
-            "played_at": "25/02/2026 - 14:28:36"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "25/02/2026 - 14:24:44"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "25/02/2026 - 14:22:15"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Jethro Heston"
-            ],
-            "album": "My Love",
-            "played_at": "25/02/2026 - 14:19:08"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "25/02/2026 - 14:19:05"
-        },
-        {
-            "song_name": "AWGAZI (Sunset Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "Palm Monkey",
-                "RUSSI",
-                "DALEXO"
-            ],
-            "album": "AWGAZI",
-            "played_at": "25/02/2026 - 14:15:20"
-        },
-        {
-            "song_name": "Forever",
-            "artists": [
-                "ZULAN"
-            ],
-            "album": "Forever",
-            "played_at": "25/02/2026 - 14:12:49"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "25/02/2026 - 14:10:11"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Sixten",
-                "Embody",
-                "STO CULTR"
-            ],
-            "album": "Hold On, We're Going Home",
-            "played_at": "25/02/2026 - 14:07:16"
-        },
         {
             "song_name": "Hold On, We're Going Home",
             "artists": [
@@ -1739,6 +1639,103 @@
             ],
             "album": "Illuminate",
             "played_at": "02/03/2026 - 15:02:53"
+        },
+        {
+            "song_name": "Can't Decide",
+            "artists": [
+                "Max Dean",
+                "Luke Dean",
+                "Locky"
+            ],
+            "album": "Can't Decide",
+            "played_at": "02/03/2026 - 16:00:24"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "02/03/2026 - 15:57:25"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "02/03/2026 - 15:54:53"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "02/03/2026 - 15:52:53"
+        },
+        {
+            "song_name": "In the Jungle",
+            "artists": [
+                "Belters Only",
+                "Karen Harding"
+            ],
+            "album": "In the Jungle",
+            "played_at": "02/03/2026 - 15:49:53"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "02/03/2026 - 15:46:07"
+        },
+        {
+            "song_name": "Ocean",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "Ocean",
+            "played_at": "02/03/2026 - 15:42:58"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "02/03/2026 - 15:40:23"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "02/03/2026 - 15:37:23"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "02/03/2026 - 15:34:54"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "02/03/2026 - 15:31:23"
         }
     ]
 }
