@@ -1,84 +1,6 @@
 {
-    "total_plays": 3172,
+    "total_plays": 3181,
     "tracks": [
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "25/02/2026 - 08:30:42"
-        },
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "25/02/2026 - 08:28:42"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "25/02/2026 - 08:24:48"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "25/02/2026 - 08:24:43"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "25/02/2026 - 09:49:06"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "25/02/2026 - 09:49:05"
-        },
-        {
-            "song_name": "Miss You So",
-            "artists": [
-                "Thandi",
-                "Ginger Mafia"
-            ],
-            "album": "Miss You So",
-            "played_at": "25/02/2026 - 09:30:12"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Sonny Fodera",
-                "Clementine Douglas"
-            ],
-            "album": "Tell Me",
-            "played_at": "25/02/2026 - 09:27:42"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "25/02/2026 - 09:24:12"
-        },
         {
             "song_name": "Voodoo",
             "artists": [
@@ -1737,6 +1659,84 @@
             ],
             "album": "Tha Carter V",
             "played_at": "02/03/2026 - 09:43:58"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "02/03/2026 - 10:58:14"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "02/03/2026 - 10:55:14"
+        },
+        {
+            "song_name": "Just The Way You Are",
+            "artists": [
+                "Milky",
+                "Mall Grab"
+            ],
+            "album": "Just The Way You Are",
+            "played_at": "02/03/2026 - 10:52:44"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "02/03/2026 - 10:50:14"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "02/03/2026 - 10:48:14"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "02/03/2026 - 10:45:14"
+        },
+        {
+            "song_name": "Exhale",
+            "artists": [
+                "T. Matthias",
+                "Alimish"
+            ],
+            "album": "Exhale",
+            "played_at": "02/03/2026 - 10:41:03"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "02/03/2026 - 10:38:33"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "02/03/2026 - 10:36:03"
         }
     ]
 }
