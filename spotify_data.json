@@ -1,39 +1,6 @@
 {
-    "total_plays": 3200,
+    "total_plays": 3204,
     "tracks": [
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "25/02/2026 - 10:41:52"
-        },
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "25/02/2026 - 10:37:52"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "25/02/2026 - 10:35:22"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "25/02/2026 - 10:33:22"
-        },
         {
             "song_name": "Life with You",
             "artists": [
@@ -1740,6 +1707,43 @@
             ],
             "album": "Let Me In",
             "played_at": "02/03/2026 - 11:31:43"
+        },
+        {
+            "song_name": "I See You",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "I See You",
+            "played_at": "02/03/2026 - 15:00:23"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "02/03/2026 - 14:57:23"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "02/03/2026 - 14:53:53"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "02/03/2026 - 14:51:25"
         }
     ]
 }
