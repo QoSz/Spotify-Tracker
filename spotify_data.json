@@ -1,16 +1,6 @@
 {
-    "total_plays": 3225,
+    "total_plays": 3226,
     "tracks": [
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Sixten",
-                "Embody",
-                "STO CULTR"
-            ],
-            "album": "Hold On, We're Going Home",
-            "played_at": "25/02/2026 - 14:04:47"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1736,6 +1726,15 @@
             ],
             "album": "Let It Go",
             "played_at": "02/03/2026 - 15:31:23"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "02/03/2026 - 19:03:43"
         }
     ]
 }
