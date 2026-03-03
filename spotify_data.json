@@ -1,193 +1,6 @@
 {
-    "total_plays": 3239,
+    "total_plays": 3261,
     "tracks": [
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "25/02/2026 - 16:08:53"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "25/02/2026 - 16:06:02"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "25/02/2026 - 16:02:19"
-        },
-        {
-            "song_name": "Come Find Me (with Clementine Douglas)",
-            "artists": [
-                "MK",
-                "Clementine Douglas"
-            ],
-            "album": "Come Find Me (with Clementine Douglas)",
-            "played_at": "25/02/2026 - 15:59:48"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "25/02/2026 - 15:56:23"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "25/02/2026 - 15:53:28"
-        },
-        {
-            "song_name": "In the Jungle",
-            "artists": [
-                "Belters Only",
-                "Karen Harding"
-            ],
-            "album": "In the Jungle",
-            "played_at": "25/02/2026 - 15:50:36"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "25/02/2026 - 15:46:36"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "25/02/2026 - 15:43:29"
-        },
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "25/02/2026 - 15:40:09"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "25/02/2026 - 15:36:54"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "25/02/2026 - 15:33:35"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "25/02/2026 - 15:31:22"
-        },
-        {
-            "song_name": "Gravity",
-            "artists": [
-                "Joshwa",
-                "Lauren Nicole"
-            ],
-            "album": "Gravity",
-            "played_at": "25/02/2026 - 15:28:47"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "25/02/2026 - 15:25:34"
-        },
-        {
-            "song_name": "In the Mood",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "25/02/2026 - 15:22:13"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "25/02/2026 - 15:19:16"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "25/02/2026 - 15:16:37"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "25/02/2026 - 15:13:54"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "25/02/2026 - 15:11:37"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "25/02/2026 - 15:09:33"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "25/02/2026 - 15:07:13"
-        },
         {
             "song_name": "Sleepless",
             "artists": [
@@ -1736,6 +1549,195 @@
             ],
             "album": "Sleepless",
             "played_at": "03/03/2026 - 14:32:05"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "03/03/2026 - 18:35:35"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "03/03/2026 - 18:25:00"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "03/03/2026 - 18:22:30"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "03/03/2026 - 18:20:00"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "03/03/2026 - 18:16:00"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "03/03/2026 - 18:13:01"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "03/03/2026 - 18:11:05"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "03/03/2026 - 16:21:24"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "03/03/2026 - 16:19:09"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "03/03/2026 - 16:16:25"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "03/03/2026 - 16:14:33"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "03/03/2026 - 16:11:56"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "03/03/2026 - 16:09:25"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "03/03/2026 - 16:05:55"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "03/03/2026 - 16:03:55"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "03/03/2026 - 16:01:25"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "03/03/2026 - 15:46:25"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "03/03/2026 - 15:43:54"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "03/03/2026 - 15:41:54"
+        },
+        {
+            "song_name": "Say It Right - Rinzen Remix",
+            "artists": [
+                "Nelly Furtado",
+                "Rinzen"
+            ],
+            "album": "Say It Right (Rinzen Remix)",
+            "played_at": "03/03/2026 - 15:38:25"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "03/03/2026 - 15:04:06"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "03/03/2026 - 15:01:35"
         }
     ]
 }
