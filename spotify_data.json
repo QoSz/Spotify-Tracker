@@ -1,15 +1,6 @@
 {
-    "total_plays": 3226,
+    "total_plays": 3227,
     "tracks": [
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "25/02/2026 - 14:04:31"
-        },
         {
             "song_name": "Weaker",
             "artists": [
@@ -1735,6 +1726,14 @@
             ],
             "album": "Mess Around (Baby Baby)",
             "played_at": "02/03/2026 - 19:03:43"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "03/03/2026 - 08:06:28"
         }
     ]
 }
