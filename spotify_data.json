@@ -1,32 +1,6 @@
 {
-    "total_plays": 3227,
+    "total_plays": 3230,
     "tracks": [
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "25/02/2026 - 15:00:06"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "25/02/2026 - 14:57:13"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "25/02/2026 - 14:54:41"
-        },
         {
             "song_name": "Nobody Knows - Belters Only Remix",
             "artists": [
@@ -1734,6 +1708,33 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "03/03/2026 - 08:06:28"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "03/03/2026 - 14:29:05"
+        },
+        {
+            "song_name": "Watching over You",
+            "artists": [
+                "Nu Aspect",
+                "Marlo Rex"
+            ],
+            "album": "Watching over You",
+            "played_at": "03/03/2026 - 14:26:44"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "03/03/2026 - 14:23:04"
         }
     ]
 }

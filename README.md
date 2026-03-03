@@ -4,7 +4,7 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**3,227** songs listened to
+**3,230** songs listened to
 
 - **813** unique artists
 - **851** unique albums
@@ -17,7 +17,7 @@ Tracking my Spotify listening history.
 2. Drake (131 plays)
 3. Travis Scott (92 plays)
 4. Kid Cudi (80 plays)
-5. Nu Aspect (76 plays)
+5. Nu Aspect (77 plays)
 
 ## Listening Streak
 
