@@ -1,15 +1,6 @@
 {
-    "total_plays": 3331,
+    "total_plays": 3332,
     "tracks": [
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "27/02/2026 - 14:10:24"
-        },
         {
             "song_name": "I Drift Out, Then Return",
             "artists": [
@@ -1729,6 +1720,15 @@
             ],
             "album": "Waiting for Love",
             "played_at": "04/03/2026 - 13:33:45"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "04/03/2026 - 19:01:47"
         }
     ]
 }
