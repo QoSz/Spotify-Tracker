@@ -1,98 +1,6 @@
 {
-    "total_plays": 3262,
+    "total_plays": 3273,
     "tracks": [
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "26/02/2026 - 06:51:19"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "26/02/2026 - 08:09:40"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Sonny Fodera",
-                "Clementine Douglas"
-            ],
-            "album": "Tell Me",
-            "played_at": "26/02/2026 - 09:49:13"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "26/02/2026 - 09:45:43"
-        },
-        {
-            "song_name": "Voodoo",
-            "artists": [
-                "Gorgon City"
-            ],
-            "album": "Salvation",
-            "played_at": "26/02/2026 - 09:42:43"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "26/02/2026 - 09:28:43"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "26/02/2026 - 09:25:13"
-        },
-        {
-            "song_name": "DtMF",
-            "artists": [
-                "Bad Bunny"
-            ],
-            "album": "DeBÍ TiRAR MáS FOToS",
-            "played_at": "26/02/2026 - 09:23:50"
-        },
-        {
-            "song_name": "Rein Me In (with Olivia Dean)",
-            "artists": [
-                "Sam Fender",
-                "Olivia Dean"
-            ],
-            "album": "Rein Me In (with Olivia Dean)",
-            "played_at": "26/02/2026 - 09:19:48"
-        },
-        {
-            "song_name": "So Easy (To Fall In Love)",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "The Art of Loving",
-            "played_at": "26/02/2026 - 09:14:18"
-        },
-        {
-            "song_name": "The Fate of Ophelia",
-            "artists": [
-                "Taylor Swift"
-            ],
-            "album": "The Life of a Showgirl",
-            "played_at": "26/02/2026 - 09:11:18"
-        },
         {
             "song_name": "Aperture",
             "artists": [
@@ -1735,6 +1643,102 @@
             ],
             "album": "Stay",
             "played_at": "04/03/2026 - 08:09:56"
+        },
+        {
+            "song_name": "Don't Fix Me",
+            "artists": [
+                "April Girl",
+                "RYVM"
+            ],
+            "album": "Intro",
+            "played_at": "04/03/2026 - 09:00:01"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "04/03/2026 - 08:57:01"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "04/03/2026 - 08:53:31"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "04/03/2026 - 08:51:01"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "04/03/2026 - 08:47:31"
+        },
+        {
+            "song_name": "Hold On, We're Going Home",
+            "artists": [
+                "Sixten",
+                "Embody",
+                "STO CULTR"
+            ],
+            "album": "Hold On, We're Going Home",
+            "played_at": "04/03/2026 - 08:44:32"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "04/03/2026 - 08:42:01"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "04/03/2026 - 08:40:01"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Make Me Feel",
+            "played_at": "04/03/2026 - 08:37:01"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "04/03/2026 - 08:34:01"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "04/03/2026 - 08:31:31"
         }
     ]
 }
