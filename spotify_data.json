@@ -1,94 +1,6 @@
 {
-    "total_plays": 3311,
+    "total_plays": 3321,
     "tracks": [
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "27/02/2026 - 08:47:16"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "27/02/2026 - 08:42:46"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Sixten",
-                "Embody",
-                "STO CULTR"
-            ],
-            "album": "Hold On, We're Going Home",
-            "played_at": "27/02/2026 - 08:40:16"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "27/02/2026 - 08:37:16"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "27/02/2026 - 08:34:46"
-        },
-        {
-            "song_name": "Ocean",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "Ocean",
-            "played_at": "27/02/2026 - 15:01:54"
-        },
-        {
-            "song_name": "Hollow Ground",
-            "artists": [
-                "NOTSOBAD",
-                "Able Faces"
-            ],
-            "album": "Hollow Ground",
-            "played_at": "27/02/2026 - 14:59:54"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "27/02/2026 - 14:56:54"
-        },
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "27/02/2026 - 14:53:55"
-        },
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "27/02/2026 - 14:50:54"
-        },
         {
             "song_name": "Playback",
             "artists": [
@@ -1736,6 +1648,89 @@
             ],
             "album": "Where Nobody Knows",
             "played_at": "04/03/2026 - 12:05:05"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "04/03/2026 - 13:31:15"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "04/03/2026 - 13:28:45"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "04/03/2026 - 13:25:52"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "04/03/2026 - 13:23:16"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "04/03/2026 - 13:21:16"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "04/03/2026 - 13:17:15"
+        },
+        {
+            "song_name": "Pines",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "Pines",
+            "played_at": "04/03/2026 - 13:14:47"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "04/03/2026 - 13:12:15"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "04/03/2026 - 13:08:45"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "04/03/2026 - 13:07:47"
         }
     ]
 }
