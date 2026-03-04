@@ -1,76 +1,6 @@
 {
-    "total_plays": 3291,
+    "total_plays": 3299,
     "tracks": [
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "27/02/2026 - 10:57:42"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "27/02/2026 - 10:55:43"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "27/02/2026 - 10:52:12"
-        },
-        {
-            "song_name": "Watching over You",
-            "artists": [
-                "Nu Aspect",
-                "Marlo Rex"
-            ],
-            "album": "Watching over You",
-            "played_at": "27/02/2026 - 10:49:43"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "27/02/2026 - 10:46:13"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "27/02/2026 - 10:43:13"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Jethro Heston"
-            ],
-            "album": "My Love",
-            "played_at": "27/02/2026 - 10:40:13"
-        },
-        {
-            "song_name": "My Love",
-            "artists": [
-                "Jethro Heston"
-            ],
-            "album": "My Love",
-            "played_at": "27/02/2026 - 10:39:14"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1739,6 +1669,77 @@
             ],
             "album": "Mother",
             "played_at": "04/03/2026 - 09:02:31"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "04/03/2026 - 11:31:43"
+        },
+        {
+            "song_name": "Gravity",
+            "artists": [
+                "Joshwa",
+                "Lauren Nicole"
+            ],
+            "album": "Gravity",
+            "played_at": "04/03/2026 - 11:29:13"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "04/03/2026 - 11:26:13"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "04/03/2026 - 11:23:43"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "04/03/2026 - 11:20:43"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "04/03/2026 - 11:17:13"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "04/03/2026 - 11:16:14"
+        },
+        {
+            "song_name": "fractured light",
+            "artists": [
+                "kalm"
+            ],
+            "album": "fractured light",
+            "played_at": "04/03/2026 - 11:00:42"
         }
     ]
 }
