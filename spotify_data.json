@@ -1,93 +1,6 @@
 {
-    "total_plays": 3321,
+    "total_plays": 3331,
     "tracks": [
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "27/02/2026 - 14:46:54"
-        },
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "27/02/2026 - 14:44:54"
-        },
-        {
-            "song_name": "Pines",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "Pines",
-            "played_at": "27/02/2026 - 14:41:25"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "27/02/2026 - 14:38:24"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "27/02/2026 - 14:35:54"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "27/02/2026 - 14:26:27"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "27/02/2026 - 14:22:54"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "27/02/2026 - 14:19:56"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "27/02/2026 - 14:16:24"
-        },
-        {
-            "song_name": "Gravity",
-            "artists": [
-                "Joshwa",
-                "Lauren Nicole"
-            ],
-            "album": "Gravity",
-            "played_at": "27/02/2026 - 14:13:24"
-        },
         {
             "song_name": "Dive",
             "artists": [
@@ -1731,6 +1644,91 @@
             ],
             "album": "99 Eyes",
             "played_at": "04/03/2026 - 13:07:47"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "04/03/2026 - 13:59:46"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "04/03/2026 - 13:57:16"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "04/03/2026 - 13:54:46"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "04/03/2026 - 13:51:53"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "04/03/2026 - 13:48:45"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "04/03/2026 - 13:45:45"
+        },
+        {
+            "song_name": "Josephine",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "Josephine",
+            "played_at": "04/03/2026 - 13:42:46"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "04/03/2026 - 13:39:47"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "04/03/2026 - 13:36:47"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "04/03/2026 - 13:33:45"
         }
     ]
 }
