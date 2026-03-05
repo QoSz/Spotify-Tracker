@@ -1,32 +1,6 @@
 {
-    "total_plays": 3350,
+    "total_plays": 3353,
     "tracks": [
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "27/02/2026 - 13:25:32"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "27/02/2026 - 13:22:02"
-        },
-        {
-            "song_name": "Gravity",
-            "artists": [
-                "Joshwa",
-                "Lauren Nicole"
-            ],
-            "album": "Gravity",
-            "played_at": "27/02/2026 - 13:19:02"
-        },
         {
             "song_name": "Gravity",
             "artists": [
@@ -1730,6 +1704,31 @@
             ],
             "album": "Lucid Dreams",
             "played_at": "05/03/2026 - 08:20:10"
+        },
+        {
+            "song_name": "In The Morning",
+            "artists": [
+                "Maxomar"
+            ],
+            "album": "In The Morning",
+            "played_at": "05/03/2026 - 09:17:09"
+        },
+        {
+            "song_name": "Spellbound",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Spellbound",
+            "played_at": "05/03/2026 - 09:15:09"
+        },
+        {
+            "song_name": "Feeling (Hold On You)",
+            "artists": [
+                "Rules",
+                "MURPHY"
+            ],
+            "album": "Feeling (Hold On You)",
+            "played_at": "05/03/2026 - 09:12:44"
         }
     ]
 }
