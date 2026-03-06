@@ -1,15 +1,6 @@
 {
-    "total_plays": 3369,
+    "total_plays": 3370,
     "tracks": [
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "27/02/2026 - 16:38:09"
-        },
         {
             "song_name": "Inside Out",
             "artists": [
@@ -1728,6 +1719,14 @@
             ],
             "album": "Like I Do",
             "played_at": "05/03/2026 - 16:15:20"
+        },
+        {
+            "song_name": "Don't Wanna Know",
+            "artists": [
+                "Falden"
+            ],
+            "album": "Don't Wanna Know",
+            "played_at": "06/03/2026 - 07:37:23"
         }
     ]
 }
