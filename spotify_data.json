@@ -1,66 +1,6 @@
 {
-    "total_plays": 3370,
+    "total_plays": 3377,
     "tracks": [
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "02/03/2026 - 09:25:43"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "02/03/2026 - 09:43:58"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "02/03/2026 - 10:58:14"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "02/03/2026 - 10:55:14"
-        },
-        {
-            "song_name": "Just The Way You Are",
-            "artists": [
-                "Milky",
-                "Mall Grab"
-            ],
-            "album": "Just The Way You Are",
-            "played_at": "02/03/2026 - 10:52:44"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "02/03/2026 - 10:50:14"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "02/03/2026 - 10:48:14"
-        },
         {
             "song_name": "Ghost in My Stereo",
             "artists": [
@@ -1727,6 +1667,64 @@
             ],
             "album": "Don't Wanna Know",
             "played_at": "06/03/2026 - 07:37:23"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "06/03/2026 - 12:12:25"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "06/03/2026 - 12:09:26"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "06/03/2026 - 12:05:56"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "06/03/2026 - 12:04:27"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "06/03/2026 - 12:01:25"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "06/03/2026 - 11:55:46"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "06/03/2026 - 11:32:58"
         }
     ]
 }
