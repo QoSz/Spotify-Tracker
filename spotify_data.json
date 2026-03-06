@@ -1,67 +1,6 @@
 {
-    "total_plays": 3377,
+    "total_plays": 3384,
     "tracks": [
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "02/03/2026 - 10:45:14"
-        },
-        {
-            "song_name": "Exhale",
-            "artists": [
-                "T. Matthias",
-                "Alimish"
-            ],
-            "album": "Exhale",
-            "played_at": "02/03/2026 - 10:41:03"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "02/03/2026 - 10:38:33"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "02/03/2026 - 10:36:03"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "02/03/2026 - 11:28:14"
-        },
-        {
-            "song_name": "Ride With Me",
-            "artists": [
-                "Zac Samuel"
-            ],
-            "album": "Ride With Me",
-            "played_at": "02/03/2026 - 11:25:45"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "02/03/2026 - 11:22:44"
-        },
         {
             "song_name": "Hold on Me",
             "artists": [
@@ -1725,6 +1664,64 @@
             ],
             "album": "Heaven",
             "played_at": "06/03/2026 - 11:32:58"
+        },
+        {
+            "song_name": "Driver",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Driver",
+            "played_at": "06/03/2026 - 14:55:04"
+        },
+        {
+            "song_name": "How Much Is Weed?",
+            "artists": [
+                "Dominic Fike"
+            ],
+            "album": "Sunburn",
+            "played_at": "06/03/2026 - 14:52:04"
+        },
+        {
+            "song_name": "Again And Again",
+            "artists": [
+                "Jagged Jaw",
+                "MINOVA"
+            ],
+            "album": "Again And Again",
+            "played_at": "06/03/2026 - 14:50:04"
+        },
+        {
+            "song_name": "Summer Uptown (feat. d4vd)",
+            "artists": [
+                "jasontheween",
+                "d4vd"
+            ],
+            "album": "Summer Uptown (feat. d4vd)",
+            "played_at": "06/03/2026 - 14:46:33"
+        },
+        {
+            "song_name": "catacombs",
+            "artists": [
+                "nothhingspecial"
+            ],
+            "album": "WHERE DO YOU WANNA GO?",
+            "played_at": "06/03/2026 - 14:43:34"
+        },
+        {
+            "song_name": "Designer",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Find A Way",
+            "played_at": "06/03/2026 - 14:40:04"
+        },
+        {
+            "song_name": "Foaming",
+            "artists": [
+                "Day We Ran"
+            ],
+            "album": "Foaming",
+            "played_at": "06/03/2026 - 14:36:33"
         }
     ]
 }
