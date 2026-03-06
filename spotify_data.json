@@ -1,24 +1,6 @@
 {
-    "total_plays": 3384,
+    "total_plays": 3386,
     "tracks": [
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "02/03/2026 - 11:18:44"
-        },
-        {
-            "song_name": "No One Knows",
-            "artists": [
-                "Tobtok",
-                "STO CULTR"
-            ],
-            "album": "No One Knows",
-            "played_at": "02/03/2026 - 11:15:45"
-        },
         {
             "song_name": "Called Your Name",
             "artists": [
@@ -1722,6 +1704,22 @@
             ],
             "album": "Foaming",
             "played_at": "06/03/2026 - 14:36:33"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "06/03/2026 - 15:05:53"
+        },
+        {
+            "song_name": "222",
+            "artists": [
+                "Dolphin Love"
+            ],
+            "album": "222",
+            "played_at": "06/03/2026 - 15:04:46"
         }
     ]
 }
