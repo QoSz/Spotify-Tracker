@@ -1,15 +1,6 @@
 {
-    "total_plays": 3386,
+    "total_plays": 3387,
     "tracks": [
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "02/03/2026 - 11:13:46"
-        },
         {
             "song_name": "Out of My Head",
             "artists": [
@@ -1720,6 +1711,15 @@
             ],
             "album": "222",
             "played_at": "06/03/2026 - 15:04:46"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "07/03/2026 - 11:34:45"
         }
     ]
 }
