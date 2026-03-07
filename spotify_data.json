@@ -1,15 +1,6 @@
 {
-    "total_plays": 3387,
+    "total_plays": 3388,
     "tracks": [
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "02/03/2026 - 11:10:14"
-        },
         {
             "song_name": "Fix Me",
             "artists": [
@@ -1720,6 +1711,14 @@
             ],
             "album": "Bloom",
             "played_at": "07/03/2026 - 11:34:45"
+        },
+        {
+            "song_name": "Human Condition",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Must Be Nice",
+            "played_at": "07/03/2026 - 17:02:24"
         }
     ]
 }
