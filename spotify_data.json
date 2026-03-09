@@ -1,14 +1,6 @@
 {
-    "total_plays": 3439,
+    "total_plays": 3440,
     "tracks": [
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "03/03/2026 - 18:35:35"
-        },
         {
             "song_name": "Show Me",
             "artists": [
@@ -1709,6 +1701,14 @@
             ],
             "album": "First Contact",
             "played_at": "09/03/2026 - 16:02:10"
+        },
+        {
+            "song_name": "Pines",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "Pines",
+            "played_at": "09/03/2026 - 18:25:56"
         }
     ]
 }
