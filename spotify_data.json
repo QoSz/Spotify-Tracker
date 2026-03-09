@@ -1,60 +1,6 @@
 {
-    "total_plays": 3398,
+    "total_plays": 3404,
     "tracks": [
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "02/03/2026 - 11:34:44"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "02/03/2026 - 11:31:43"
-        },
-        {
-            "song_name": "I See You",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "I See You",
-            "played_at": "02/03/2026 - 15:00:23"
-        },
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "02/03/2026 - 14:57:23"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "02/03/2026 - 14:53:53"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "02/03/2026 - 14:51:25"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1715,6 +1661,59 @@
             ],
             "album": "Stay",
             "played_at": "09/03/2026 - 09:03:10"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "09/03/2026 - 14:30:11"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "09/03/2026 - 14:27:42"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "09/03/2026 - 14:24:12"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "09/03/2026 - 14:21:12"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "09/03/2026 - 14:18:12"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "09/03/2026 - 14:15:43"
         }
     ]
 }
