@@ -1,15 +1,6 @@
 {
-    "total_plays": 3388,
+    "total_plays": 3389,
     "tracks": [
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "02/03/2026 - 11:07:14"
-        },
         {
             "song_name": "Cure My Desire",
             "artists": [
@@ -1719,6 +1710,15 @@
             ],
             "album": "Must Be Nice",
             "played_at": "07/03/2026 - 17:02:24"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "09/03/2026 - 08:26:40"
         }
     ]
 }
