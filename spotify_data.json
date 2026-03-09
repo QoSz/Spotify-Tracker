@@ -1,84 +1,6 @@
 {
-    "total_plays": 3389,
+    "total_plays": 3398,
     "tracks": [
-        {
-            "song_name": "Cure My Desire",
-            "artists": [
-                "Hannah Wants",
-                "Clementine Douglas"
-            ],
-            "album": "Cure My Desire (Themba Remix)",
-            "played_at": "02/03/2026 - 11:04:14"
-        },
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "02/03/2026 - 11:01:17"
-        },
-        {
-            "song_name": "Voodoo",
-            "artists": [
-                "Gorgon City"
-            ],
-            "album": "Salvation",
-            "played_at": "02/03/2026 - 11:57:14"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "02/03/2026 - 11:53:44"
-        },
-        {
-            "song_name": "Shine Like Stars",
-            "artists": [
-                "Benji"
-            ],
-            "album": "Shine Like Stars",
-            "played_at": "02/03/2026 - 11:50:16"
-        },
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "02/03/2026 - 11:46:44"
-        },
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "02/03/2026 - 11:43:14"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "02/03/2026 - 11:39:44"
-        },
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "02/03/2026 - 11:37:44"
-        },
         {
             "song_name": "Infinite Love",
             "artists": [
@@ -1719,6 +1641,80 @@
             ],
             "album": "Lifeline",
             "played_at": "09/03/2026 - 08:26:40"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "09/03/2026 - 09:26:43"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "09/03/2026 - 09:23:40"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "09/03/2026 - 09:21:10"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "09/03/2026 - 09:18:10"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "09/03/2026 - 09:15:40"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "09/03/2026 - 09:12:10"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "09/03/2026 - 09:09:10"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "09/03/2026 - 09:06:40"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "09/03/2026 - 09:03:10"
         }
     ]
 }
