@@ -1,94 +1,6 @@
 {
-    "total_plays": 3474,
+    "total_plays": 3484,
     "tracks": [
-        {
-            "song_name": "Surrender",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Surrender",
-            "played_at": "04/03/2026 - 10:54:43"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "04/03/2026 - 10:51:12"
-        },
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "04/03/2026 - 10:49:13"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "04/03/2026 - 10:45:45"
-        },
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "04/03/2026 - 10:43:12"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "04/03/2026 - 10:39:42"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "04/03/2026 - 10:36:13"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "04/03/2026 - 10:32:42"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "04/03/2026 - 10:29:42"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "04/03/2026 - 10:27:42"
-        },
         {
             "song_name": "Deep of You",
             "artists": [
@@ -1710,6 +1622,100 @@
             ],
             "album": "CARMEN (8181 Enzo Remix)",
             "played_at": "10/03/2026 - 09:39:57"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "10/03/2026 - 10:30:58"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "10/03/2026 - 10:27:27"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "10/03/2026 - 10:24:57"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "10/03/2026 - 10:22:27"
+        },
+        {
+            "song_name": "Gravity",
+            "artists": [
+                "Joshwa",
+                "Lauren Nicole"
+            ],
+            "album": "Gravity",
+            "played_at": "10/03/2026 - 10:19:27"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "10/03/2026 - 10:15:57"
+        },
+        {
+            "song_name": "Over The Edge",
+            "artists": [
+                "Nu Aspect",
+                "Poppy Baskcomb"
+            ],
+            "album": "Over The Edge",
+            "played_at": "10/03/2026 - 10:12:58"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "10/03/2026 - 10:08:57"
+        },
+        {
+            "song_name": "Leave Behind",
+            "artists": [
+                "Astrality",
+                "Krysta Youngs",
+                "Andro"
+            ],
+            "album": "Leave Behind",
+            "played_at": "10/03/2026 - 10:06:27"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "10/03/2026 - 10:02:58"
         }
     ]
 }
