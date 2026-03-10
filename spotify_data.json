@@ -1,67 +1,6 @@
 {
-    "total_plays": 3506,
+    "total_plays": 3513,
     "tracks": [
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "04/03/2026 - 11:41:43"
-        },
-        {
-            "song_name": "Remember",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Remember",
-            "played_at": "04/03/2026 - 11:38:13"
-        },
-        {
-            "song_name": "Leave Behind",
-            "artists": [
-                "Astrality",
-                "Krysta Youngs",
-                "Andro"
-            ],
-            "album": "Leave Behind",
-            "played_at": "04/03/2026 - 11:35:13"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "04/03/2026 - 12:07:16"
-        },
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "04/03/2026 - 12:05:05"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "04/03/2026 - 13:31:15"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "04/03/2026 - 13:28:45"
-        },
         {
             "song_name": "fade out",
             "artists": [
@@ -1719,6 +1658,69 @@
             ],
             "album": "For Broken Ears",
             "played_at": "10/03/2026 - 19:18:23"
+        },
+        {
+            "song_name": "Weyu",
+            "artists": [
+                "Lucas Estrada",
+                "Lenji",
+                "Amadi Blue"
+            ],
+            "album": "Weyu",
+            "played_at": "10/03/2026 - 20:00:37"
+        },
+        {
+            "song_name": "Holy Ghost",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Holy Ghost",
+            "played_at": "10/03/2026 - 19:58:23"
+        },
+        {
+            "song_name": "Essence (feat. Tems)",
+            "artists": [
+                "Wizkid",
+                "Tems"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "10/03/2026 - 19:50:12"
+        },
+        {
+            "song_name": "Jo Jo",
+            "artists": [
+                "Craig Isto"
+            ],
+            "album": "Jo Jo",
+            "played_at": "10/03/2026 - 19:39:59"
+        },
+        {
+            "song_name": "Where Did Your Love Go",
+            "artists": [
+                "Moonshine",
+                "Sincerely Suav"
+            ],
+            "album": "Where Did Your Love Go",
+            "played_at": "10/03/2026 - 19:36:37"
+        },
+        {
+            "song_name": "MOMENTS WITH YOU",
+            "artists": [
+                "RUSSI",
+                "Palm Monkey"
+            ],
+            "album": "MOMENTS WITH YOU",
+            "played_at": "10/03/2026 - 19:33:34"
+        },
+        {
+            "song_name": "AWGAZI",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI",
+                "The Palm Tree Boy"
+            ],
+            "album": "AWGAZI",
+            "played_at": "10/03/2026 - 19:31:08"
         }
     ]
 }
