@@ -1,23 +1,6 @@
 {
-    "total_plays": 3518,
+    "total_plays": 3520,
     "tracks": [
-        {
-            "song_name": "Sirens",
-            "artists": [
-                "Dallerium",
-                "FARLEY"
-            ],
-            "album": "Sirens",
-            "played_at": "04/03/2026 - 13:12:15"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "04/03/2026 - 13:08:45"
-        },
         {
             "song_name": "99 Eyes",
             "artists": [
@@ -1724,6 +1707,22 @@
             ],
             "album": "PARTYGYAL",
             "played_at": "10/03/2026 - 20:03:25"
+        },
+        {
+            "song_name": "Me & U",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "10/03/2026 - 20:35:49"
+        },
+        {
+            "song_name": "Time And Trust",
+            "artists": [
+                "Naomi Sharon"
+            ],
+            "album": "Obsidian",
+            "played_at": "10/03/2026 - 20:32:36"
         }
     ]
 }
