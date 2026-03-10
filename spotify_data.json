@@ -1,47 +1,6 @@
 {
-    "total_plays": 3513,
+    "total_plays": 3518,
     "tracks": [
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "04/03/2026 - 13:25:52"
-        },
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "04/03/2026 - 13:23:16"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "04/03/2026 - 13:21:16"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "04/03/2026 - 13:17:15"
-        },
-        {
-            "song_name": "Pines",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "Pines",
-            "played_at": "04/03/2026 - 13:14:47"
-        },
         {
             "song_name": "Sirens",
             "artists": [
@@ -1721,6 +1680,50 @@
             ],
             "album": "AWGAZI",
             "played_at": "10/03/2026 - 19:31:08"
+        },
+        {
+            "song_name": "KANTE (feat. Fave)",
+            "artists": [
+                "Davido",
+                "FAVE"
+            ],
+            "album": "Timeless",
+            "played_at": "10/03/2026 - 20:30:06"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "10/03/2026 - 20:27:11"
+        },
+        {
+            "song_name": "GOLIATH",
+            "artists": [
+                "Boybreed"
+            ],
+            "album": "GOLIATH",
+            "played_at": "10/03/2026 - 20:09:38"
+        },
+        {
+            "song_name": "You Know",
+            "artists": [
+                "Benji",
+                "Julio Ade"
+            ],
+            "album": "You Know",
+            "played_at": "10/03/2026 - 20:07:04"
+        },
+        {
+            "song_name": "PARTYGYAL",
+            "artists": [
+                "MOLIY",
+                "bees & honey"
+            ],
+            "album": "PARTYGYAL",
+            "played_at": "10/03/2026 - 20:03:25"
         }
     ]
 }
