@@ -1,40 +1,6 @@
 {
-    "total_plays": 3502,
+    "total_plays": 3506,
     "tracks": [
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "04/03/2026 - 11:53:13"
-        },
-        {
-            "song_name": "Rain",
-            "artists": [
-                "Astrality",
-                "MNRT",
-                "S:NE"
-            ],
-            "album": "Rain",
-            "played_at": "04/03/2026 - 11:50:13"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "04/03/2026 - 11:47:43"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "04/03/2026 - 11:44:47"
-        },
         {
             "song_name": "Running Blind",
             "artists": [
@@ -1719,6 +1685,40 @@
             ],
             "album": "Games",
             "played_at": "10/03/2026 - 11:02:58"
+        },
+        {
+            "song_name": "Where Do We Go",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "Where Do We Go",
+            "played_at": "10/03/2026 - 19:28:21"
+        },
+        {
+            "song_name": "Peru - Peace Control Remix",
+            "artists": [
+                "Fireboy DML",
+                "Peace Control"
+            ],
+            "album": "Peru (Peace Control Remix)",
+            "played_at": "10/03/2026 - 19:25:24"
+        },
+        {
+            "song_name": "Be Easy",
+            "artists": [
+                "Odeal",
+                "brazy"
+            ],
+            "album": "Be Easy",
+            "played_at": "10/03/2026 - 19:20:36"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "10/03/2026 - 19:18:23"
         }
     ]
 }
