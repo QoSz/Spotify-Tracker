@@ -1,23 +1,6 @@
 {
-    "total_plays": 3520,
+    "total_plays": 3522,
     "tracks": [
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "04/03/2026 - 13:07:47"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "04/03/2026 - 13:59:46"
-        },
         {
             "song_name": "Push It",
             "artists": [
@@ -1723,6 +1706,25 @@
             ],
             "album": "Obsidian",
             "played_at": "10/03/2026 - 20:32:36"
+        },
+        {
+            "song_name": "Ice 2 Water",
+            "artists": [
+                "Wakyin",
+                "Ronis Goliath",
+                "bees & honey"
+            ],
+            "album": "Ice 2 Water",
+            "played_at": "11/03/2026 - 08:30:55"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "11/03/2026 - 08:30:33"
         }
     ]
 }
