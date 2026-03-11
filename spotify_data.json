@@ -1,15 +1,6 @@
 {
-    "total_plays": 3532,
+    "total_plays": 3533,
     "tracks": [
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "05/03/2026 - 09:09:10"
-        },
         {
             "song_name": "Your Touch",
             "artists": [
@@ -1721,6 +1712,14 @@
             ],
             "album": "Inside Out",
             "played_at": "11/03/2026 - 08:31:04"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "11/03/2026 - 12:23:17"
         }
     ]
 }
