@@ -1,81 +1,6 @@
 {
-    "total_plays": 3580,
+    "total_plays": 3589,
     "tracks": [
-        {
-            "song_name": "Summer Uptown (feat. d4vd)",
-            "artists": [
-                "jasontheween",
-                "d4vd"
-            ],
-            "album": "Summer Uptown (feat. d4vd)",
-            "played_at": "06/03/2026 - 14:46:33"
-        },
-        {
-            "song_name": "catacombs",
-            "artists": [
-                "nothhingspecial"
-            ],
-            "album": "WHERE DO YOU WANNA GO?",
-            "played_at": "06/03/2026 - 14:43:34"
-        },
-        {
-            "song_name": "Designer",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Find A Way",
-            "played_at": "06/03/2026 - 14:40:04"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "06/03/2026 - 14:36:33"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "06/03/2026 - 15:05:53"
-        },
-        {
-            "song_name": "222",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "222",
-            "played_at": "06/03/2026 - 15:04:46"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "07/03/2026 - 11:34:45"
-        },
-        {
-            "song_name": "Human Condition",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Must Be Nice",
-            "played_at": "07/03/2026 - 17:02:24"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "09/03/2026 - 08:26:40"
-        },
         {
             "song_name": "Forever",
             "artists": [
@@ -1731,6 +1656,84 @@
             ],
             "album": "Heavy Is The Head",
             "played_at": "12/03/2026 - 19:02:52"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "12/03/2026 - 19:57:49"
+        },
+        {
+            "song_name": "Watching over You",
+            "artists": [
+                "Nu Aspect",
+                "Marlo Rex"
+            ],
+            "album": "Watching over You",
+            "played_at": "12/03/2026 - 19:54:48"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "12/03/2026 - 19:51:14"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "12/03/2026 - 19:48:05"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "12/03/2026 - 19:44:28"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "12/03/2026 - 19:40:25"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "12/03/2026 - 19:37:03"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "12/03/2026 - 19:34:53"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "12/03/2026 - 19:31:36"
         }
     ]
 }
