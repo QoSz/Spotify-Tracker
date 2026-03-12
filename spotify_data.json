@@ -1,64 +1,6 @@
 {
-    "total_plays": 3548,
+    "total_plays": 3555,
     "tracks": [
-        {
-            "song_name": "I Drift Out, Then Return",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "05/03/2026 - 08:22:39"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "05/03/2026 - 08:20:10"
-        },
-        {
-            "song_name": "In The Morning",
-            "artists": [
-                "Maxomar"
-            ],
-            "album": "In The Morning",
-            "played_at": "05/03/2026 - 09:17:09"
-        },
-        {
-            "song_name": "Spellbound",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Spellbound",
-            "played_at": "05/03/2026 - 09:15:09"
-        },
-        {
-            "song_name": "Feeling (Hold On You)",
-            "artists": [
-                "Rules",
-                "MURPHY"
-            ],
-            "album": "Feeling (Hold On You)",
-            "played_at": "05/03/2026 - 09:12:44"
-        },
-        {
-            "song_name": "In My Head",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "In My Head",
-            "played_at": "05/03/2026 - 17:00:43"
-        },
-        {
-            "song_name": "HOT THOUGHTS (COME TO LIFE)",
-            "artists": [
-                "CHAIME"
-            ],
-            "album": "HOT THOUGHTS (COME TO LIFE)",
-            "played_at": "05/03/2026 - 16:57:44"
-        },
         {
             "song_name": "Other Side",
             "artists": [
@@ -1719,6 +1661,65 @@
             ],
             "album": "Baby (Is it a Crime)",
             "played_at": "12/03/2026 - 13:33:10"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "12/03/2026 - 14:30:12"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "12/03/2026 - 14:27:14"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "12/03/2026 - 14:23:42"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "12/03/2026 - 14:23:13"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "12/03/2026 - 14:07:39"
+        },
+        {
+            "song_name": "cloud chaser",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "12/03/2026 - 14:06:03"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "12/03/2026 - 14:02:10"
         }
     ]
 }
