@@ -1,48 +1,6 @@
 {
-    "total_plays": 3533,
+    "total_plays": 3538,
     "tracks": [
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "05/03/2026 - 09:06:40"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "05/03/2026 - 09:03:12"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "05/03/2026 - 09:00:39"
-        },
-        {
-            "song_name": "Get Through This",
-            "artists": [
-                "Nathan C"
-            ],
-            "album": "Get Through This",
-            "played_at": "05/03/2026 - 08:58:09"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "05/03/2026 - 08:55:09"
-        },
         {
             "song_name": "Dive",
             "artists": [
@@ -1720,6 +1678,47 @@
             ],
             "album": "Fireworks & Rollerblades",
             "played_at": "11/03/2026 - 12:23:17"
+        },
+        {
+            "song_name": "Melanin",
+            "artists": [
+                "Mckay"
+            ],
+            "album": "Melanin",
+            "played_at": "12/03/2026 - 11:12:26"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "12/03/2026 - 11:12:21"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "12/03/2026 - 11:06:59"
+        },
+        {
+            "song_name": "Essence (feat. Tems)",
+            "artists": [
+                "Wizkid",
+                "Tems"
+            ],
+            "album": "Made In Lagos",
+            "played_at": "12/03/2026 - 11:06:27"
+        },
+        {
+            "song_name": "Melanin",
+            "artists": [
+                "Mckay"
+            ],
+            "album": "Melanin",
+            "played_at": "12/03/2026 - 11:06:26"
         }
     ]
 }
