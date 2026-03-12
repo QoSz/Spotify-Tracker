@@ -1,22 +1,6 @@
 {
-    "total_plays": 3589,
+    "total_plays": 3591,
     "tracks": [
-        {
-            "song_name": "Forever",
-            "artists": [
-                "ZULAN"
-            ],
-            "album": "Forever",
-            "played_at": "09/03/2026 - 09:26:43"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "09/03/2026 - 09:23:40"
-        },
         {
             "song_name": "Surrender",
             "artists": [
@@ -1734,6 +1718,24 @@
             ],
             "album": "Waiting",
             "played_at": "12/03/2026 - 19:31:36"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "12/03/2026 - 20:03:46"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "12/03/2026 - 20:01:07"
         }
     ]
 }
