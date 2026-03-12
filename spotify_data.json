@@ -1,81 +1,6 @@
 {
-    "total_plays": 3561,
+    "total_plays": 3570,
     "tracks": [
-        {
-            "song_name": "When I'm into You",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "When I'm into You",
-            "played_at": "05/03/2026 - 16:37:13"
-        },
-        {
-            "song_name": "One More Song (I'll Be On My Way)",
-            "artists": [
-                "Why U So",
-                "Luis Coren"
-            ],
-            "album": "One More Song (I'll Be On My Way)",
-            "played_at": "05/03/2026 - 16:34:43"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "i think i'm addicted",
-            "played_at": "05/03/2026 - 16:28:43"
-        },
-        {
-            "song_name": "Silverlight",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Silverlight",
-            "played_at": "05/03/2026 - 16:26:13"
-        },
-        {
-            "song_name": "My Loving",
-            "artists": [
-                "Sonny Fodera",
-                "Chrystal"
-            ],
-            "album": "My Loving",
-            "played_at": "05/03/2026 - 16:22:43"
-        },
-        {
-            "song_name": "Goosebumps",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Goosebumps",
-            "played_at": "05/03/2026 - 16:20:13"
-        },
-        {
-            "song_name": "Like I Do",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Like I Do",
-            "played_at": "05/03/2026 - 16:16:13"
-        },
-        {
-            "song_name": "Like I Do",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Like I Do",
-            "played_at": "05/03/2026 - 16:15:20"
-        },
-        {
-            "song_name": "Don't Wanna Know",
-            "artists": [
-                "Falden"
-            ],
-            "album": "Don't Wanna Know",
-            "played_at": "06/03/2026 - 07:37:23"
-        },
         {
             "song_name": "Weightless",
             "artists": [
@@ -1724,6 +1649,83 @@
             ],
             "album": "Miss You",
             "played_at": "12/03/2026 - 15:29:23"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "12/03/2026 - 16:00:22"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "12/03/2026 - 15:57:27"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "12/03/2026 - 15:53:52"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "12/03/2026 - 15:51:22"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "12/03/2026 - 15:48:52"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "12/03/2026 - 15:45:52"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "12/03/2026 - 15:42:22"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "12/03/2026 - 15:38:22"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "12/03/2026 - 15:35:52"
         }
     ]
 }
