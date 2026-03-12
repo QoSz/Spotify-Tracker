@@ -1,14 +1,6 @@
 {
-    "total_plays": 3570,
+    "total_plays": 3571,
     "tracks": [
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "06/03/2026 - 12:12:25"
-        },
         {
             "song_name": "Cherish",
             "artists": [
@@ -1726,6 +1718,15 @@
             ],
             "album": "Where We Belong",
             "played_at": "12/03/2026 - 15:35:52"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "12/03/2026 - 18:47:34"
         }
     ]
 }
