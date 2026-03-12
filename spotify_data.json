@@ -1,40 +1,6 @@
 {
-    "total_plays": 3555,
+    "total_plays": 3559,
     "tracks": [
-        {
-            "song_name": "Other Side",
-            "artists": [
-                "AVAION",
-                "BUNT."
-            ],
-            "album": "Selfreflection",
-            "played_at": "05/03/2026 - 16:55:13"
-        },
-        {
-            "song_name": "You Keep It Simple",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "You Keep It Simple",
-            "played_at": "05/03/2026 - 16:51:45"
-        },
-        {
-            "song_name": "On The Ground",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "On The Ground",
-            "played_at": "05/03/2026 - 16:49:13"
-        },
-        {
-            "song_name": "Could Have Been So Good",
-            "artists": [
-                "Rules",
-                "Bandit"
-            ],
-            "album": "Could Have Been So Good",
-            "played_at": "05/03/2026 - 16:47:13"
-        },
         {
             "song_name": "I got you",
             "artists": [
@@ -1720,6 +1686,41 @@
             ],
             "album": "Running Blind",
             "played_at": "12/03/2026 - 14:02:10"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "12/03/2026 - 14:41:42"
+        },
+        {
+            "song_name": "Josephine",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "Josephine",
+            "played_at": "12/03/2026 - 14:38:12"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "12/03/2026 - 14:35:12"
+        },
+        {
+            "song_name": "The Darkside",
+            "artists": [
+                "PALASTIC",
+                "Ekko"
+            ],
+            "album": "The Darkside",
+            "played_at": "12/03/2026 - 14:33:12"
         }
     ]
 }
