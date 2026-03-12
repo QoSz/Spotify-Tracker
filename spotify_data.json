@@ -1,15 +1,6 @@
 {
-    "total_plays": 3538,
+    "total_plays": 3539,
     "tracks": [
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "05/03/2026 - 08:53:09"
-        },
         {
             "song_name": "Rhythm Inside",
             "artists": [
@@ -1719,6 +1710,14 @@
             ],
             "album": "Melanin",
             "played_at": "12/03/2026 - 11:06:26"
+        },
+        {
+            "song_name": "Where Do We Go",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "Where Do We Go",
+            "played_at": "12/03/2026 - 12:46:13"
         }
     ]
 }
