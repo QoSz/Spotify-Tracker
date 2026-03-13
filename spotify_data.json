@@ -1,73 +1,6 @@
 {
-    "total_plays": 3591,
+    "total_plays": 3599,
     "tracks": [
-        {
-            "song_name": "Surrender",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Surrender",
-            "played_at": "09/03/2026 - 09:21:10"
-        },
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "09/03/2026 - 09:18:10"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "09/03/2026 - 09:15:40"
-        },
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "09/03/2026 - 09:12:10"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "09/03/2026 - 09:09:10"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "09/03/2026 - 09:06:40"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "09/03/2026 - 09:03:10"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "09/03/2026 - 14:30:11"
-        },
         {
             "song_name": "Reasons",
             "artists": [
@@ -1736,6 +1669,74 @@
             ],
             "album": "Dive",
             "played_at": "12/03/2026 - 20:01:07"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "13/03/2026 - 08:29:37"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "13/03/2026 - 08:27:37"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "13/03/2026 - 08:25:37"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "13/03/2026 - 08:23:07"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "13/03/2026 - 08:19:37"
+        },
+        {
+            "song_name": "Get Through This",
+            "artists": [
+                "Nathan C"
+            ],
+            "album": "Get Through This",
+            "played_at": "13/03/2026 - 08:16:37"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "13/03/2026 - 08:13:37"
+        },
+        {
+            "song_name": "Get Through This",
+            "artists": [
+                "Nathan C"
+            ],
+            "album": "Get Through This",
+            "played_at": "13/03/2026 - 08:11:43"
         }
     ]
 }
