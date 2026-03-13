@@ -1,93 +1,6 @@
 {
-    "total_plays": 3620,
+    "total_plays": 3630,
     "tracks": [
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "09/03/2026 - 15:39:10"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "09/03/2026 - 15:36:40"
-        },
-        {
-            "song_name": "Hollow Ground",
-            "artists": [
-                "NOTSOBAD",
-                "Able Faces"
-            ],
-            "album": "Hollow Ground",
-            "played_at": "09/03/2026 - 16:46:40"
-        },
-        {
-            "song_name": "Losing My Way",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "09/03/2026 - 16:44:11"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "09/03/2026 - 16:41:41"
-        },
-        {
-            "song_name": "Sirens",
-            "artists": [
-                "Dallerium",
-                "FARLEY"
-            ],
-            "album": "Sirens",
-            "played_at": "09/03/2026 - 16:39:40"
-        },
-        {
-            "song_name": "Cure My Desire",
-            "artists": [
-                "Hannah Wants",
-                "Clementine Douglas"
-            ],
-            "album": "Cure My Desire (Themba Remix)",
-            "played_at": "09/03/2026 - 16:36:10"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "09/03/2026 - 16:33:10"
-        },
-        {
-            "song_name": "Voodoo",
-            "artists": [
-                "Gorgon City"
-            ],
-            "album": "Salvation",
-            "played_at": "09/03/2026 - 16:30:40"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "09/03/2026 - 16:27:10"
-        },
         {
             "song_name": "Cold World",
             "artists": [
@@ -1736,6 +1649,95 @@
             ],
             "album": "Out of My Head",
             "played_at": "13/03/2026 - 15:07:13"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "13/03/2026 - 16:00:43"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "13/03/2026 - 15:56:13"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "13/03/2026 - 15:53:30"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "13/03/2026 - 15:50:13"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "13/03/2026 - 15:48:13"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "13/03/2026 - 15:45:35"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "13/03/2026 - 15:41:43"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "13/03/2026 - 15:39:13"
+        },
+        {
+            "song_name": "CARMEN - 8181 Enzo Remix",
+            "artists": [
+                "Airmow",
+                "Reiyo The Giant",
+                "Enzo"
+            ],
+            "album": "CARMEN (8181 Enzo Remix)",
+            "played_at": "13/03/2026 - 15:36:14"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "13/03/2026 - 15:31:13"
         }
     ]
 }
