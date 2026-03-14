@@ -1,15 +1,6 @@
 {
-    "total_plays": 3644,
+    "total_plays": 3645,
     "tracks": [
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "10/03/2026 - 09:00:03"
-        },
         {
             "song_name": "Secrets",
             "artists": [
@@ -1742,6 +1733,15 @@
             ],
             "album": "Watching over You",
             "played_at": "13/03/2026 - 16:04:15"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "14/03/2026 - 19:29:50"
         }
     ]
 }
