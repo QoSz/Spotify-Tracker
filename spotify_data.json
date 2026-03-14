@@ -1,15 +1,6 @@
 {
-    "total_plays": 3652,
+    "total_plays": 3653,
     "tracks": [
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "10/03/2026 - 08:40:04"
-        },
         {
             "song_name": "say it plain",
             "artists": [
@@ -1744,6 +1735,14 @@
             ],
             "album": "Clocks",
             "played_at": "14/03/2026 - 19:33:37"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "14/03/2026 - 20:28:31"
         }
     ]
 }
