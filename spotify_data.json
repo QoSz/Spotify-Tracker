@@ -1,66 +1,6 @@
 {
-    "total_plays": 3653,
+    "total_plays": 3660,
     "tracks": [
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "10/03/2026 - 08:36:33"
-        },
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "10/03/2026 - 08:34:03"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "10/03/2026 - 09:30:55"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "10/03/2026 - 09:27:03"
-        },
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/03/2026 - 09:24:05"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "10/03/2026 - 09:21:33"
-        },
-        {
-            "song_name": "Don't Fix Me",
-            "artists": [
-                "April Girl",
-                "RYVM"
-            ],
-            "album": "Intro",
-            "played_at": "10/03/2026 - 09:18:33"
-        },
         {
             "song_name": "Bits of Hope",
             "artists": [
@@ -1743,6 +1683,67 @@
             ],
             "album": "Your Eyes",
             "played_at": "14/03/2026 - 20:28:31"
+        },
+        {
+            "song_name": "Asiwaju",
+            "artists": [
+                "Ruger"
+            ],
+            "album": "RU The World",
+            "played_at": "15/03/2026 - 13:26:53"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "15/03/2026 - 12:55:07"
+        },
+        {
+            "song_name": "PARTYGYAL",
+            "artists": [
+                "MOLIY",
+                "bees & honey"
+            ],
+            "album": "PARTYGYAL",
+            "played_at": "15/03/2026 - 12:55:05"
+        },
+        {
+            "song_name": "AWGAZI",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI",
+                "The Palm Tree Boy"
+            ],
+            "album": "AWGAZI",
+            "played_at": "15/03/2026 - 12:55:04"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "15/03/2026 - 10:21:36"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "15/03/2026 - 10:21:35"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "15/03/2026 - 10:21:33"
         }
     ]
 }
