@@ -1,103 +1,6 @@
 {
-    "total_plays": 3707,
+    "total_plays": 3718,
     "tracks": [
-        {
-            "song_name": "Holy Ghost",
-            "artists": [
-                "Omah Lay"
-            ],
-            "album": "Holy Ghost",
-            "played_at": "10/03/2026 - 19:58:23"
-        },
-        {
-            "song_name": "Essence (feat. Tems)",
-            "artists": [
-                "Wizkid",
-                "Tems"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "10/03/2026 - 19:50:12"
-        },
-        {
-            "song_name": "Jo Jo",
-            "artists": [
-                "Craig Isto"
-            ],
-            "album": "Jo Jo",
-            "played_at": "10/03/2026 - 19:39:59"
-        },
-        {
-            "song_name": "Where Did Your Love Go",
-            "artists": [
-                "Moonshine",
-                "Sincerely Suav"
-            ],
-            "album": "Where Did Your Love Go",
-            "played_at": "10/03/2026 - 19:36:37"
-        },
-        {
-            "song_name": "MOMENTS WITH YOU",
-            "artists": [
-                "RUSSI",
-                "Palm Monkey"
-            ],
-            "album": "MOMENTS WITH YOU",
-            "played_at": "10/03/2026 - 19:33:34"
-        },
-        {
-            "song_name": "AWGAZI",
-            "artists": [
-                "Palm Monkey",
-                "RUSSI",
-                "The Palm Tree Boy"
-            ],
-            "album": "AWGAZI",
-            "played_at": "10/03/2026 - 19:31:08"
-        },
-        {
-            "song_name": "KANTE (feat. Fave)",
-            "artists": [
-                "Davido",
-                "FAVE"
-            ],
-            "album": "Timeless",
-            "played_at": "10/03/2026 - 20:30:06"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "10/03/2026 - 20:27:11"
-        },
-        {
-            "song_name": "GOLIATH",
-            "artists": [
-                "Boybreed"
-            ],
-            "album": "GOLIATH",
-            "played_at": "10/03/2026 - 20:09:38"
-        },
-        {
-            "song_name": "You Know",
-            "artists": [
-                "Benji",
-                "Julio Ade"
-            ],
-            "album": "You Know",
-            "played_at": "10/03/2026 - 20:07:04"
-        },
-        {
-            "song_name": "PARTYGYAL",
-            "artists": [
-                "MOLIY",
-                "bees & honey"
-            ],
-            "album": "PARTYGYAL",
-            "played_at": "10/03/2026 - 20:03:25"
-        },
         {
             "song_name": "Me & U",
             "artists": [
@@ -1741,6 +1644,109 @@
             ],
             "album": "Be Easy",
             "played_at": "16/03/2026 - 15:05:03"
+        },
+        {
+            "song_name": "Gimme Dat (feat. Wizkid)",
+            "artists": [
+                "Ayra Starr",
+                "Wizkid"
+            ],
+            "album": "Gimme Dat",
+            "played_at": "16/03/2026 - 16:01:03"
+        },
+        {
+            "song_name": "how to luv",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Boy Alone",
+            "played_at": "16/03/2026 - 15:57:02"
+        },
+        {
+            "song_name": "Nights In The Sun (feat. Wizkid)",
+            "artists": [
+                "Odeal",
+                "Wizkid"
+            ],
+            "album": "The Fall That Saved Us",
+            "played_at": "16/03/2026 - 15:54:32"
+        },
+        {
+            "song_name": "Yamore - Edit Version",
+            "artists": [
+                "MoBlack",
+                "Salif Keita",
+                "Benja (NL)",
+                "Franc Fala",
+                "Cesária Evora"
+            ],
+            "album": "Yamore (Edit Version)",
+            "played_at": "16/03/2026 - 15:51:33"
+        },
+        {
+            "song_name": "Addicted (feat. TIMID.)",
+            "artists": [
+                "Naarly",
+                "Daytona",
+                "LEWS",
+                "FIRSTCLASS",
+                "TIMID."
+            ],
+            "album": "Addicted (feat. TIMID.)",
+            "played_at": "16/03/2026 - 15:49:03"
+        },
+        {
+            "song_name": "Baille",
+            "artists": [
+                "ERIICE"
+            ],
+            "album": "Baille",
+            "played_at": "16/03/2026 - 15:47:03"
+        },
+        {
+            "song_name": "Cant Get Enough",
+            "artists": [
+                "Craig Isto"
+            ],
+            "album": "GENESIS",
+            "played_at": "16/03/2026 - 15:44:33"
+        },
+        {
+            "song_name": "PARTYGYAL",
+            "artists": [
+                "MOLIY",
+                "bees & honey"
+            ],
+            "album": "PARTYGYAL",
+            "played_at": "16/03/2026 - 15:42:32"
+        },
+        {
+            "song_name": "Who Badder",
+            "artists": [
+                "SNOWCHILD EDGE"
+            ],
+            "album": "Who Badder",
+            "played_at": "16/03/2026 - 15:39:34"
+        },
+        {
+            "song_name": "Jolie Fille (feat. Layefa)",
+            "artists": [
+                "Maz",
+                "Antdot",
+                "Ginton",
+                "Layefa"
+            ],
+            "album": "Jolie Fille (feat. Layefa)",
+            "played_at": "16/03/2026 - 15:37:03"
+        },
+        {
+            "song_name": "Russian Roulette",
+            "artists": [
+                "Ronis Goliath",
+                "bees & honey"
+            ],
+            "album": "Russian Roulette",
+            "played_at": "16/03/2026 - 15:33:33"
         }
     ]
 }
