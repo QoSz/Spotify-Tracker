@@ -1,23 +1,6 @@
 {
-    "total_plays": 3696,
+    "total_plays": 3698,
     "tracks": [
-        {
-            "song_name": "Just The Way You Are",
-            "artists": [
-                "Milky",
-                "Mall Grab"
-            ],
-            "album": "Just The Way You Are",
-            "played_at": "10/03/2026 - 11:17:27"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/03/2026 - 11:14:28"
-        },
         {
             "song_name": "Playback",
             "artists": [
@@ -1739,6 +1722,22 @@
             ],
             "album": "Be Easy",
             "played_at": "16/03/2026 - 10:15:55"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "16/03/2026 - 13:45:01"
+        },
+        {
+            "song_name": "Solo",
+            "artists": [
+                "Future"
+            ],
+            "album": "HNDRXX",
+            "played_at": "16/03/2026 - 13:33:28"
         }
     ]
 }
