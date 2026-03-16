@@ -1,83 +1,6 @@
 {
-    "total_plays": 3698,
+    "total_plays": 3707,
     "tracks": [
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "10/03/2026 - 11:12:27"
-        },
-        {
-            "song_name": "Deeper",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "10/03/2026 - 11:10:27"
-        },
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "10/03/2026 - 11:07:27"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "10/03/2026 - 11:02:58"
-        },
-        {
-            "song_name": "Where Do We Go",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "Where Do We Go",
-            "played_at": "10/03/2026 - 19:28:21"
-        },
-        {
-            "song_name": "Peru - Peace Control Remix",
-            "artists": [
-                "Fireboy DML",
-                "Peace Control"
-            ],
-            "album": "Peru (Peace Control Remix)",
-            "played_at": "10/03/2026 - 19:25:24"
-        },
-        {
-            "song_name": "Be Easy",
-            "artists": [
-                "Odeal",
-                "brazy"
-            ],
-            "album": "Be Easy",
-            "played_at": "10/03/2026 - 19:20:36"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "10/03/2026 - 19:18:23"
-        },
-        {
-            "song_name": "Weyu",
-            "artists": [
-                "Lucas Estrada",
-                "Lenji",
-                "Amadi Blue"
-            ],
-            "album": "Weyu",
-            "played_at": "10/03/2026 - 20:00:37"
-        },
         {
             "song_name": "Holy Ghost",
             "artists": [
@@ -1738,6 +1661,86 @@
             ],
             "album": "HNDRXX",
             "played_at": "16/03/2026 - 13:33:28"
+        },
+        {
+            "song_name": "You Know",
+            "artists": [
+                "Benji",
+                "Julio Ade"
+            ],
+            "album": "You Know",
+            "played_at": "16/03/2026 - 15:31:02"
+        },
+        {
+            "song_name": "Wait",
+            "artists": [
+                "Yarden"
+            ],
+            "album": "The One Who Descends",
+            "played_at": "16/03/2026 - 15:27:02"
+        },
+        {
+            "song_name": "Karibu",
+            "artists": [
+                "WITH U"
+            ],
+            "album": "Karibu",
+            "played_at": "16/03/2026 - 15:24:34"
+        },
+        {
+            "song_name": "Coming Back For You",
+            "artists": [
+                "Fireboy DML"
+            ],
+            "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+            "played_at": "16/03/2026 - 15:20:03"
+        },
+        {
+            "song_name": "Ice 2 Water",
+            "artists": [
+                "Wakyin",
+                "Ronis Goliath",
+                "bees & honey"
+            ],
+            "album": "Ice 2 Water",
+            "played_at": "16/03/2026 - 15:17:33"
+        },
+        {
+            "song_name": "AWGAZI",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI",
+                "The Palm Tree Boy"
+            ],
+            "album": "AWGAZI",
+            "played_at": "16/03/2026 - 15:14:03"
+        },
+        {
+            "song_name": "MOMENTS WITH YOU",
+            "artists": [
+                "RUSSI",
+                "Palm Monkey"
+            ],
+            "album": "MOMENTS WITH YOU",
+            "played_at": "16/03/2026 - 15:11:03"
+        },
+        {
+            "song_name": "Moving (Francis Mercier Remix)",
+            "artists": [
+                "Omah Lay",
+                "Francis Mercier"
+            ],
+            "album": "Moving (Francis Mercier Remix)",
+            "played_at": "16/03/2026 - 15:08:32"
+        },
+        {
+            "song_name": "Be Easy",
+            "artists": [
+                "Odeal",
+                "brazy"
+            ],
+            "album": "Be Easy",
+            "played_at": "16/03/2026 - 15:05:03"
         }
     ]
 }
