@@ -1,14 +1,6 @@
 {
-    "total_plays": 3695,
+    "total_plays": 3696,
     "tracks": [
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "10/03/2026 - 11:20:58"
-        },
         {
             "song_name": "Just The Way You Are",
             "artists": [
@@ -1738,6 +1730,15 @@
             ],
             "album": "Something Stronger",
             "played_at": "16/03/2026 - 08:32:35"
+        },
+        {
+            "song_name": "Be Easy",
+            "artists": [
+                "Odeal",
+                "brazy"
+            ],
+            "album": "Be Easy",
+            "played_at": "16/03/2026 - 10:15:55"
         }
     ]
 }
