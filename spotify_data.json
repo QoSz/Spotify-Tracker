@@ -1,41 +1,6 @@
 {
-    "total_plays": 3660,
+    "total_plays": 3664,
     "tracks": [
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "10/03/2026 - 09:16:03"
-        },
-        {
-            "song_name": "I Drift Out, Then Return",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/03/2026 - 09:13:03"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "10/03/2026 - 09:11:03"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "10/03/2026 - 09:08:03"
-        },
         {
             "song_name": "Waiting for Love",
             "artists": [
@@ -1744,6 +1709,40 @@
             ],
             "album": "If Orange Was A Place",
             "played_at": "15/03/2026 - 10:21:33"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "16/03/2026 - 08:30:35"
+        },
+        {
+            "song_name": "No Man's Land",
+            "artists": [
+                "CAKES",
+                "Izzy Bizu"
+            ],
+            "album": "No Man's Land",
+            "played_at": "16/03/2026 - 08:27:09"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "16/03/2026 - 08:25:04"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "16/03/2026 - 08:23:40"
         }
     ]
 }
