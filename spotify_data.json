@@ -1,16 +1,6 @@
 {
-    "total_plays": 3720,
+    "total_plays": 3721,
     "tracks": [
-        {
-            "song_name": "Ice 2 Water",
-            "artists": [
-                "Wakyin",
-                "Ronis Goliath",
-                "bees & honey"
-            ],
-            "album": "Ice 2 Water",
-            "played_at": "11/03/2026 - 08:30:55"
-        },
         {
             "song_name": "Inside Out",
             "artists": [
@@ -1751,6 +1741,16 @@
             ],
             "album": "No Bad Vibes (The Remixes)",
             "played_at": "16/03/2026 - 16:03:34"
+        },
+        {
+            "song_name": "Peru - R3HAB Remix",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran",
+                "R3HAB"
+            ],
+            "album": "Peru (R3HAB Remix)",
+            "played_at": "16/03/2026 - 19:43:00"
         }
     ]
 }
