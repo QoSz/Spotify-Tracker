@@ -1,23 +1,6 @@
 {
-    "total_plays": 3736,
+    "total_plays": 3738,
     "tracks": [
-        {
-            "song_name": "Essence (feat. Tems)",
-            "artists": [
-                "Wizkid",
-                "Tems"
-            ],
-            "album": "Made In Lagos",
-            "played_at": "12/03/2026 - 11:06:27"
-        },
-        {
-            "song_name": "Melanin",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "Melanin",
-            "played_at": "12/03/2026 - 11:06:26"
-        },
         {
             "song_name": "Where Do We Go",
             "artists": [
@@ -1767,6 +1750,23 @@
             ],
             "album": "Mentality",
             "played_at": "17/03/2026 - 15:22:50"
+        },
+        {
+            "song_name": "Wait",
+            "artists": [
+                "Yarden"
+            ],
+            "album": "The One Who Descends",
+            "played_at": "17/03/2026 - 15:36:52"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Black Coffee",
+                "Shekhinah"
+            ],
+            "album": "The Journey Continues",
+            "played_at": "17/03/2026 - 15:33:51"
         }
     ]
 }
