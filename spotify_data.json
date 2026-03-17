@@ -1,14 +1,6 @@
 {
-    "total_plays": 3732,
+    "total_plays": 3733,
     "tracks": [
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "11/03/2026 - 12:23:17"
-        },
         {
             "song_name": "Melanin",
             "artists": [
@@ -1762,6 +1754,14 @@
             ],
             "album": "Peru (R3HAB Remix)",
             "played_at": "17/03/2026 - 12:56:26"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "17/03/2026 - 14:11:01"
         }
     ]
 }
