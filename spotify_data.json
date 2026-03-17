@@ -1,96 +1,6 @@
 {
-    "total_plays": 3721,
+    "total_plays": 3732,
     "tracks": [
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "11/03/2026 - 08:30:33"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "11/03/2026 - 08:54:10"
-        },
-        {
-            "song_name": "Oysters In My Pocket",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "Oysters In My Pocket",
-            "played_at": "11/03/2026 - 08:49:40"
-        },
-        {
-            "song_name": "Hold Me",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold Me",
-            "played_at": "11/03/2026 - 08:47:10"
-        },
-        {
-            "song_name": "From The Start",
-            "artists": [
-                "Laufey"
-            ],
-            "album": "Bewitched",
-            "played_at": "11/03/2026 - 08:41:25"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "11/03/2026 - 08:38:41"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "11/03/2026 - 08:36:10"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "11/03/2026 - 08:33:11"
-        },
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "11/03/2026 - 08:33:04"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "11/03/2026 - 08:31:30"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "11/03/2026 - 08:31:04"
-        },
         {
             "song_name": "Slow It Down",
             "artists": [
@@ -1751,6 +1661,107 @@
             ],
             "album": "Peru (R3HAB Remix)",
             "played_at": "16/03/2026 - 19:43:00"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "17/03/2026 - 13:59:32"
+        },
+        {
+            "song_name": "Push (feat. Omah Lay)",
+            "artists": [
+                "Naomi Sharon",
+                "Omah Lay"
+            ],
+            "album": "Obsidian",
+            "played_at": "17/03/2026 - 13:59:31"
+        },
+        {
+            "song_name": "Don't Let Me Drown - From F1® The Movie",
+            "artists": [
+                "Burna Boy",
+                "F1 The Album"
+            ],
+            "album": "Don’t Let Me Drown (From F1® The Movie)",
+            "played_at": "17/03/2026 - 13:59:21"
+        },
+        {
+            "song_name": "Dare You",
+            "artists": [
+                "Ginton",
+                "Minz"
+            ],
+            "album": "Dare You",
+            "played_at": "17/03/2026 - 13:25:45"
+        },
+        {
+            "song_name": "Wait",
+            "artists": [
+                "Yarden"
+            ],
+            "album": "The One Who Descends",
+            "played_at": "17/03/2026 - 13:22:45"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Black Coffee",
+                "Shekhinah"
+            ],
+            "album": "The Journey Continues",
+            "played_at": "17/03/2026 - 13:20:16"
+        },
+        {
+            "song_name": "Yamore",
+            "artists": [
+                "MoBlack",
+                "Salif Keita",
+                "Benja (NL)",
+                "Franc Fala",
+                "Cesária Evora"
+            ],
+            "album": "Yamore",
+            "played_at": "17/03/2026 - 13:15:46"
+        },
+        {
+            "song_name": "Push (feat. Omah Lay)",
+            "artists": [
+                "Naomi Sharon",
+                "Omah Lay"
+            ],
+            "album": "Obsidian",
+            "played_at": "17/03/2026 - 13:11:45"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "17/03/2026 - 13:09:15"
+        },
+        {
+            "song_name": "Peru - R3HAB Remix",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran",
+                "R3HAB"
+            ],
+            "album": "Peru (R3HAB Remix)",
+            "played_at": "17/03/2026 - 13:06:39"
+        },
+        {
+            "song_name": "Peru - R3HAB Remix",
+            "artists": [
+                "Fireboy DML",
+                "Ed Sheeran",
+                "R3HAB"
+            ],
+            "album": "Peru (R3HAB Remix)",
+            "played_at": "17/03/2026 - 12:56:26"
         }
     ]
 }
