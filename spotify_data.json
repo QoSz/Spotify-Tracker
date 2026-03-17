@@ -1,14 +1,6 @@
 {
-    "total_plays": 3738,
+    "total_plays": 3739,
     "tracks": [
-        {
-            "song_name": "Where Do We Go",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "Where Do We Go",
-            "played_at": "12/03/2026 - 12:46:13"
-        },
         {
             "song_name": "Stay",
             "artists": [
@@ -1767,6 +1759,15 @@
             ],
             "album": "The Journey Continues",
             "played_at": "17/03/2026 - 15:33:51"
+        },
+        {
+            "song_name": "Dare You",
+            "artists": [
+                "Ginton",
+                "Minz"
+            ],
+            "album": "Dare You",
+            "played_at": "17/03/2026 - 16:41:13"
         }
     ]
 }
