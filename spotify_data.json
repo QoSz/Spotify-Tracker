@@ -1,30 +1,6 @@
 {
-    "total_plays": 3733,
+    "total_plays": 3736,
     "tracks": [
-        {
-            "song_name": "Melanin",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "Melanin",
-            "played_at": "12/03/2026 - 11:12:26"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "12/03/2026 - 11:12:21"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "12/03/2026 - 11:06:59"
-        },
         {
             "song_name": "Essence (feat. Tems)",
             "artists": [
@@ -1762,6 +1738,35 @@
             ],
             "album": "Mentality",
             "played_at": "17/03/2026 - 14:11:01"
+        },
+        {
+            "song_name": "Yamore",
+            "artists": [
+                "MoBlack",
+                "Salif Keita",
+                "Benja (NL)",
+                "Franc Fala",
+                "Cesária Evora"
+            ],
+            "album": "Yamore",
+            "played_at": "17/03/2026 - 15:29:51"
+        },
+        {
+            "song_name": "Push (feat. Omah Lay)",
+            "artists": [
+                "Naomi Sharon",
+                "Omah Lay"
+            ],
+            "album": "Obsidian",
+            "played_at": "17/03/2026 - 15:25:53"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "17/03/2026 - 15:22:50"
         }
     ]
 }
