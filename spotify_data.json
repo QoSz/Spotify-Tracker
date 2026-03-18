@@ -1,22 +1,6 @@
 {
-    "total_plays": 3739,
+    "total_plays": 3741,
     "tracks": [
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "12/03/2026 - 13:58:39"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "12/03/2026 - 13:55:10"
-        },
         {
             "song_name": "Surrender",
             "artists": [
@@ -1768,6 +1752,23 @@
             ],
             "album": "Dare You",
             "played_at": "17/03/2026 - 16:41:13"
+        },
+        {
+            "song_name": "Breakeven",
+            "artists": [
+                "The Script"
+            ],
+            "album": "The Script",
+            "played_at": "17/03/2026 - 21:49:16"
+        },
+        {
+            "song_name": "Good Time",
+            "artists": [
+                "Owl City",
+                "Carly Rae Jepsen"
+            ],
+            "album": "The Midsummer Station",
+            "played_at": "17/03/2026 - 20:45:52"
         }
     ]
 }
