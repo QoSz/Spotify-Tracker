@@ -1,50 +1,6 @@
 {
-    "total_plays": 3763,
+    "total_plays": 3768,
     "tracks": [
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "12/03/2026 - 15:53:52"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "12/03/2026 - 15:51:22"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "12/03/2026 - 15:48:52"
-        },
-        {
-            "song_name": "Words",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Words",
-            "played_at": "12/03/2026 - 15:45:52"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "12/03/2026 - 15:42:22"
-        },
         {
             "song_name": "Losing You",
             "artists": [
@@ -1767,6 +1723,48 @@
             ],
             "album": "over time",
             "played_at": "18/03/2026 - 11:00:39"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "18/03/2026 - 12:15:40"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "18/03/2026 - 12:13:39"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "18/03/2026 - 12:11:09"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "18/03/2026 - 12:08:10"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "18/03/2026 - 12:05:39"
         }
     ]
 }
