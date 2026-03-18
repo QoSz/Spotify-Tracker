@@ -1,14 +1,6 @@
 {
-    "total_plays": 3769,
+    "total_plays": 3770,
     "tracks": [
-        {
-            "song_name": "Where We Belong",
-            "artists": [
-                "Amtrac"
-            ],
-            "album": "Where We Belong",
-            "played_at": "12/03/2026 - 15:35:52"
-        },
         {
             "song_name": "Get Close",
             "artists": [
@@ -1765,6 +1757,14 @@
             ],
             "album": "Mentality",
             "played_at": "18/03/2026 - 13:59:17"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "18/03/2026 - 14:33:47"
         }
     ]
 }
