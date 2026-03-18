@@ -1,14 +1,6 @@
 {
-    "total_plays": 3768,
+    "total_plays": 3769,
     "tracks": [
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "12/03/2026 - 15:38:22"
-        },
         {
             "song_name": "Where We Belong",
             "artists": [
@@ -1765,6 +1757,14 @@
             ],
             "album": "That's Where I Should Be",
             "played_at": "18/03/2026 - 12:05:39"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "18/03/2026 - 13:59:17"
         }
     ]
 }
