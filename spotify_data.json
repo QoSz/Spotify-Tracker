@@ -1,313 +1,6 @@
 {
-    "total_plays": 3825,
+    "total_plays": 3860,
     "tracks": [
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "13/03/2026 - 15:45:35"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "13/03/2026 - 15:41:43"
-        },
-        {
-            "song_name": "Words",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Words",
-            "played_at": "13/03/2026 - 15:39:13"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "13/03/2026 - 15:36:14"
-        },
-        {
-            "song_name": "In the Mood",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "13/03/2026 - 15:31:13"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "13/03/2026 - 16:41:44"
-        },
-        {
-            "song_name": "Miss You So",
-            "artists": [
-                "Thandi",
-                "Ginger Mafia"
-            ],
-            "album": "Miss You So",
-            "played_at": "13/03/2026 - 16:39:16"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "13/03/2026 - 16:36:43"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "13/03/2026 - 16:33:43"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "ATB",
-                "Nu Aspect",
-                "Orem"
-            ],
-            "album": "Run",
-            "played_at": "13/03/2026 - 16:31:13"
-        },
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "13/03/2026 - 16:28:13"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "13/03/2026 - 16:25:43"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Dark Heart",
-                "NJOMZA"
-            ],
-            "album": "Over & Over",
-            "played_at": "13/03/2026 - 16:23:43"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "13/03/2026 - 16:21:13"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "13/03/2026 - 16:18:43"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "13/03/2026 - 16:15:14"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "13/03/2026 - 16:11:13"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "13/03/2026 - 16:08:43"
-        },
-        {
-            "song_name": "Watching over You",
-            "artists": [
-                "Nu Aspect",
-                "Marlo Rex"
-            ],
-            "album": "Watching over You",
-            "played_at": "13/03/2026 - 16:04:15"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "14/03/2026 - 19:29:50"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "14/03/2026 - 19:48:36"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "ATB",
-                "Nu Aspect",
-                "Orem"
-            ],
-            "album": "Run",
-            "played_at": "14/03/2026 - 19:45:55"
-        },
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "14/03/2026 - 19:43:08"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "14/03/2026 - 19:40:24"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Dark Heart",
-                "NJOMZA"
-            ],
-            "album": "Over & Over",
-            "played_at": "14/03/2026 - 19:38:24"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "14/03/2026 - 19:35:57"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "14/03/2026 - 19:33:37"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "14/03/2026 - 20:28:31"
-        },
-        {
-            "song_name": "Asiwaju",
-            "artists": [
-                "Ruger"
-            ],
-            "album": "RU The World",
-            "played_at": "15/03/2026 - 13:26:53"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "15/03/2026 - 12:55:07"
-        },
-        {
-            "song_name": "PARTYGYAL",
-            "artists": [
-                "MOLIY",
-                "bees & honey"
-            ],
-            "album": "PARTYGYAL",
-            "played_at": "15/03/2026 - 12:55:05"
-        },
-        {
-            "song_name": "AWGAZI",
-            "artists": [
-                "Palm Monkey",
-                "RUSSI",
-                "The Palm Tree Boy"
-            ],
-            "album": "AWGAZI",
-            "played_at": "15/03/2026 - 12:55:04"
-        },
-        {
-            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
-            "artists": [
-                "Stormzy",
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Heavy Is The Head",
-            "played_at": "15/03/2026 - 10:21:36"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "15/03/2026 - 10:21:35"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "15/03/2026 - 10:21:33"
-        },
         {
             "song_name": "Tether",
             "artists": [
@@ -1764,6 +1457,315 @@
             ],
             "album": "AWGAZI",
             "played_at": "19/03/2026 - 15:50:12"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "19/03/2026 - 17:40:54"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "19/03/2026 - 17:37:53"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "19/03/2026 - 17:35:24"
+        },
+        {
+            "song_name": "CARMEN - 8181 Enzo Remix",
+            "artists": [
+                "Airmow",
+                "Reiyo The Giant",
+                "Enzo"
+            ],
+            "album": "CARMEN (8181 Enzo Remix)",
+            "played_at": "19/03/2026 - 17:32:54"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "19/03/2026 - 17:29:23"
+        },
+        {
+            "song_name": "Voodoo",
+            "artists": [
+                "Gorgon City"
+            ],
+            "album": "Salvation",
+            "played_at": "19/03/2026 - 17:26:24"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "19/03/2026 - 17:22:54"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "19/03/2026 - 17:20:23"
+        },
+        {
+            "song_name": "In the Jungle",
+            "artists": [
+                "Belters Only",
+                "Karen Harding"
+            ],
+            "album": "In the Jungle",
+            "played_at": "19/03/2026 - 17:16:54"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "19/03/2026 - 17:12:54"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "19/03/2026 - 17:09:24"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "19/03/2026 - 17:06:23"
+        },
+        {
+            "song_name": "Rain",
+            "artists": [
+                "Astrality",
+                "MNRT",
+                "S:NE"
+            ],
+            "album": "Rain",
+            "played_at": "19/03/2026 - 17:03:24"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "19/03/2026 - 17:00:54"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "19/03/2026 - 16:56:54"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "19/03/2026 - 16:53:54"
+        },
+        {
+            "song_name": "My Love",
+            "artists": [
+                "Jethro Heston"
+            ],
+            "album": "My Love",
+            "played_at": "19/03/2026 - 16:51:24"
+        },
+        {
+            "song_name": "Forever",
+            "artists": [
+                "ZULAN"
+            ],
+            "album": "Forever",
+            "played_at": "19/03/2026 - 16:48:53"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "19/03/2026 - 16:45:54"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "19/03/2026 - 16:43:53"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "19/03/2026 - 16:41:53"
+        },
+        {
+            "song_name": "Sleepless",
+            "artists": [
+                "AVAION",
+                "PaulWetz",
+                "Nu Aspect",
+                "YUMA"
+            ],
+            "album": "Sleepless",
+            "played_at": "19/03/2026 - 16:39:25"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "19/03/2026 - 16:36:54"
+        },
+        {
+            "song_name": "Illuminate",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "19/03/2026 - 16:34:54"
+        },
+        {
+            "song_name": "Over & Over",
+            "artists": [
+                "Dark Heart",
+                "NJOMZA"
+            ],
+            "album": "Over & Over",
+            "played_at": "19/03/2026 - 16:31:54"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "19/03/2026 - 16:29:54"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "19/03/2026 - 16:27:24"
+        },
+        {
+            "song_name": "Lifeline",
+            "artists": [
+                "Punctual",
+                "Aiko"
+            ],
+            "album": "Lifeline",
+            "played_at": "19/03/2026 - 16:24:23"
+        },
+        {
+            "song_name": "Pines",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "Pines",
+            "played_at": "19/03/2026 - 16:21:24"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "19/03/2026 - 16:18:23"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "19/03/2026 - 16:15:54"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "19/03/2026 - 16:12:53"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "19/03/2026 - 16:09:23"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "19/03/2026 - 16:06:24"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "19/03/2026 - 16:02:54"
         }
     ]
 }
