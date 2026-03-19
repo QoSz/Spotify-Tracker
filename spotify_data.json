@@ -1,48 +1,6 @@
 {
-    "total_plays": 3800,
+    "total_plays": 3805,
     "tracks": [
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "13/03/2026 - 08:36:37"
-        },
-        {
-            "song_name": "Over The Edge",
-            "artists": [
-                "Nu Aspect",
-                "Poppy Baskcomb"
-            ],
-            "album": "Over The Edge",
-            "played_at": "13/03/2026 - 08:33:37"
-        },
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "13/03/2026 - 13:29:07"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "13/03/2026 - 13:27:00"
-        },
-        {
-            "song_name": "Josephine",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "Josephine",
-            "played_at": "13/03/2026 - 13:24:30"
-        },
         {
             "song_name": "If You Had My Love",
             "artists": [
@@ -1761,6 +1719,53 @@
             ],
             "album": "Run",
             "played_at": "19/03/2026 - 09:03:01"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "19/03/2026 - 10:58:17"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "19/03/2026 - 10:54:47"
+        },
+        {
+            "song_name": "No Man's Land",
+            "artists": [
+                "CAKES",
+                "Izzy Bizu"
+            ],
+            "album": "No Man's Land",
+            "played_at": "19/03/2026 - 10:52:17"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "19/03/2026 - 10:49:47"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "19/03/2026 - 10:46:48"
         }
     ]
 }
