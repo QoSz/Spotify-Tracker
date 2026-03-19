@@ -1,76 +1,6 @@
 {
-    "total_plays": 3815,
+    "total_plays": 3823,
     "tracks": [
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "13/03/2026 - 15:23:15"
-        },
-        {
-            "song_name": "Losing My Way",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "13/03/2026 - 15:19:43"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "13/03/2026 - 15:17:43"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "13/03/2026 - 15:14:13"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "13/03/2026 - 15:07:13"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "13/03/2026 - 16:00:43"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "13/03/2026 - 15:56:13"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "13/03/2026 - 15:53:30"
-        },
         {
             "song_name": "Playback",
             "artists": [
@@ -1765,6 +1695,74 @@
             ],
             "album": "Where the Sun Goes Down",
             "played_at": "19/03/2026 - 11:01:17"
+        },
+        {
+            "song_name": "Too Soon",
+            "artists": [
+                "Ronis Goliath"
+            ],
+            "album": "Berlin / West Africa",
+            "played_at": "19/03/2026 - 14:49:37"
+        },
+        {
+            "song_name": "Moving",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Moving",
+            "played_at": "19/03/2026 - 14:47:08"
+        },
+        {
+            "song_name": "HIPS",
+            "artists": [
+                "RUSSI",
+                "EPPING"
+            ],
+            "album": "HIPS",
+            "played_at": "19/03/2026 - 14:44:47"
+        },
+        {
+            "song_name": "Jelele",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Jelele",
+            "played_at": "19/03/2026 - 14:42:19"
+        },
+        {
+            "song_name": "LOCA LOCA",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI"
+            ],
+            "album": "LOCA LOCA",
+            "played_at": "19/03/2026 - 14:40:05"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "19/03/2026 - 14:37:59"
+        },
+        {
+            "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
+            "artists": [
+                "Stormzy",
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Heavy Is The Head",
+            "played_at": "19/03/2026 - 14:34:58"
+        },
+        {
+            "song_name": "Truth or Dare",
+            "artists": [
+                "Tyla"
+            ],
+            "album": "TYLA",
+            "played_at": "19/03/2026 - 14:31:21"
         }
     ]
 }
