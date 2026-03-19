@@ -1,84 +1,6 @@
 {
-    "total_plays": 3770,
+    "total_plays": 3779,
     "tracks": [
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "12/03/2026 - 18:47:34"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "12/03/2026 - 19:28:42"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "12/03/2026 - 19:25:32"
-        },
-        {
-            "song_name": "I See You",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "I See You",
-            "played_at": "12/03/2026 - 19:21:48"
-        },
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "12/03/2026 - 19:18:42"
-        },
-        {
-            "song_name": "Your Touch",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Your Touch",
-            "played_at": "12/03/2026 - 19:15:40"
-        },
-        {
-            "song_name": "The Box",
-            "artists": [
-                "Roddy Ricch"
-            ],
-            "album": "Please Excuse Me for Being Antisocial",
-            "played_at": "12/03/2026 - 19:11:23"
-        },
-        {
-            "song_name": "Superstar Sh*t",
-            "artists": [
-                "Dominic Fike"
-            ],
-            "album": "What Could Possibly Go Wrong",
-            "played_at": "12/03/2026 - 19:07:49"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "12/03/2026 - 19:05:42"
-        },
         {
             "song_name": "Own It (feat. Ed Sheeran & Burna Boy)",
             "artists": [
@@ -1765,6 +1687,84 @@
             ],
             "album": "Your Eyes",
             "played_at": "18/03/2026 - 14:33:47"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "19/03/2026 - 08:29:31"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/03/2026 - 08:25:31"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "19/03/2026 - 08:24:07"
+        },
+        {
+            "song_name": "Leave Behind",
+            "artists": [
+                "Astrality",
+                "Krysta Youngs",
+                "Andro"
+            ],
+            "album": "Leave Behind",
+            "played_at": "19/03/2026 - 08:22:01"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "19/03/2026 - 08:18:31"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "19/03/2026 - 08:15:31"
+        },
+        {
+            "song_name": "I See You",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "I See You",
+            "played_at": "19/03/2026 - 08:13:33"
+        },
+        {
+            "song_name": "Watching over You",
+            "artists": [
+                "Nu Aspect",
+                "Marlo Rex"
+            ],
+            "album": "Watching over You",
+            "played_at": "19/03/2026 - 08:10:31"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/03/2026 - 08:06:31"
         }
     ]
 }
