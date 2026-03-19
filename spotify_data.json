@@ -1,25 +1,6 @@
 {
-    "total_plays": 3823,
+    "total_plays": 3825,
     "tracks": [
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "13/03/2026 - 15:50:13"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "13/03/2026 - 15:48:13"
-        },
         {
             "song_name": "Called Your Name",
             "artists": [
@@ -1763,6 +1744,26 @@
             ],
             "album": "TYLA",
             "played_at": "19/03/2026 - 14:31:21"
+        },
+        {
+            "song_name": "Gimme Dat (feat. Wizkid)",
+            "artists": [
+                "Ayra Starr",
+                "Wizkid"
+            ],
+            "album": "Gimme Dat",
+            "played_at": "19/03/2026 - 15:50:27"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "19/03/2026 - 15:50:12"
         }
     ]
 }
