@@ -1,14 +1,6 @@
 {
-    "total_plays": 3860,
+    "total_plays": 3861,
     "tracks": [
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "16/03/2026 - 08:30:35"
-        },
         {
             "song_name": "No Man's Land",
             "artists": [
@@ -1766,6 +1758,14 @@
             ],
             "album": "AWGAZI",
             "played_at": "19/03/2026 - 16:02:54"
+        },
+        {
+            "song_name": "Malfunction",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Malfunction",
+            "played_at": "20/03/2026 - 07:59:41"
         }
     ]
 }
