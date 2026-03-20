@@ -1,15 +1,6 @@
 {
-    "total_plays": 3907,
+    "total_plays": 3908,
     "tracks": [
-        {
-            "song_name": "Gimme Dat (feat. Wizkid)",
-            "artists": [
-                "Ayra Starr",
-                "Wizkid"
-            ],
-            "album": "Gimme Dat",
-            "played_at": "16/03/2026 - 16:01:03"
-        },
         {
             "song_name": "how to luv",
             "artists": [
@@ -1763,6 +1754,14 @@
             ],
             "album": "Soul",
             "played_at": "20/03/2026 - 14:02:15"
+        },
+        {
+            "song_name": "Anybody",
+            "artists": [
+                "Burna Boy"
+            ],
+            "album": "African Giant",
+            "played_at": "20/03/2026 - 19:00:31"
         }
     ]
 }
