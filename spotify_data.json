@@ -1,55 +1,6 @@
 {
-    "total_plays": 3908,
+    "total_plays": 3913,
     "tracks": [
-        {
-            "song_name": "how to luv",
-            "artists": [
-                "Omah Lay"
-            ],
-            "album": "Boy Alone",
-            "played_at": "16/03/2026 - 15:57:02"
-        },
-        {
-            "song_name": "Nights In The Sun (feat. Wizkid)",
-            "artists": [
-                "Odeal",
-                "Wizkid"
-            ],
-            "album": "The Fall That Saved Us",
-            "played_at": "16/03/2026 - 15:54:32"
-        },
-        {
-            "song_name": "Yamore - Edit Version",
-            "artists": [
-                "MoBlack",
-                "Salif Keita",
-                "Benja (NL)",
-                "Franc Fala",
-                "Cesária Evora"
-            ],
-            "album": "Yamore (Edit Version)",
-            "played_at": "16/03/2026 - 15:51:33"
-        },
-        {
-            "song_name": "Addicted (feat. TIMID.)",
-            "artists": [
-                "Naarly",
-                "Daytona",
-                "LEWS",
-                "FIRSTCLASS",
-                "TIMID."
-            ],
-            "album": "Addicted (feat. TIMID.)",
-            "played_at": "16/03/2026 - 15:49:03"
-        },
-        {
-            "song_name": "Baille",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Baille",
-            "played_at": "16/03/2026 - 15:47:03"
-        },
         {
             "song_name": "Cant Get Enough",
             "artists": [
@@ -1762,6 +1713,51 @@
             ],
             "album": "African Giant",
             "played_at": "20/03/2026 - 19:00:31"
+        },
+        {
+            "song_name": "MOMENTS WITH YOU",
+            "artists": [
+                "RUSSI",
+                "Palm Monkey"
+            ],
+            "album": "MOMENTS WITH YOU",
+            "played_at": "20/03/2026 - 19:13:53"
+        },
+        {
+            "song_name": "Time And Trust",
+            "artists": [
+                "Naomi Sharon"
+            ],
+            "album": "Obsidian",
+            "played_at": "20/03/2026 - 19:11:27"
+        },
+        {
+            "song_name": "Nights In The Sun (feat. Wizkid)",
+            "artists": [
+                "Odeal",
+                "Wizkid"
+            ],
+            "album": "The Fall That Saved Us",
+            "played_at": "20/03/2026 - 19:08:57"
+        },
+        {
+            "song_name": "You Broke Me",
+            "artists": [
+                "Miiles44"
+            ],
+            "album": "You Broke Me",
+            "played_at": "20/03/2026 - 19:06:06"
+        },
+        {
+            "song_name": "Jolie Fille (feat. Layefa)",
+            "artists": [
+                "Maz",
+                "Antdot",
+                "Ginton",
+                "Layefa"
+            ],
+            "album": "Jolie Fille (feat. Layefa)",
+            "played_at": "20/03/2026 - 19:03:46"
         }
     ]
 }
