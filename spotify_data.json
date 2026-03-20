@@ -1,25 +1,6 @@
 {
-    "total_plays": 3886,
+    "total_plays": 3888,
     "tracks": [
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "16/03/2026 - 08:54:35"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "16/03/2026 - 08:51:35"
-        },
         {
             "song_name": "Waiting",
             "artists": [
@@ -1761,6 +1742,22 @@
             ],
             "album": "Daylight",
             "played_at": "20/03/2026 - 11:25:52"
+        },
+        {
+            "song_name": "Berlin / West Africa",
+            "artists": [
+                "Ronis Goliath"
+            ],
+            "album": "Berlin / West Africa",
+            "played_at": "20/03/2026 - 13:58:44"
+        },
+        {
+            "song_name": "Anybody",
+            "artists": [
+                "Burna Boy"
+            ],
+            "album": "African Giant",
+            "played_at": "20/03/2026 - 13:54:14"
         }
     ]
 }
