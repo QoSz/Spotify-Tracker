@@ -1,36 +1,6 @@
 {
-    "total_plays": 3918,
+    "total_plays": 3921,
     "tracks": [
-        {
-            "song_name": "Beso (Fruta Fresca)",
-            "artists": [
-                "Wakyin",
-                "Carlos Vives"
-            ],
-            "album": "Beso (Fruta Fresca)",
-            "played_at": "16/03/2026 - 16:07:02"
-        },
-        {
-            "song_name": "No Bad Vibes (with Gyakie & Joshua Baraka)",
-            "artists": [
-                "Jazzy",
-                "Gyakie",
-                "Joshua Baraka",
-                "KILIMANJARO"
-            ],
-            "album": "No Bad Vibes (The Remixes)",
-            "played_at": "16/03/2026 - 16:03:34"
-        },
-        {
-            "song_name": "Peru - R3HAB Remix",
-            "artists": [
-                "Fireboy DML",
-                "Ed Sheeran",
-                "R3HAB"
-            ],
-            "album": "Peru (R3HAB Remix)",
-            "played_at": "16/03/2026 - 19:43:00"
-        },
         {
             "song_name": "Mentality",
             "artists": [
@@ -1764,6 +1734,36 @@
             ],
             "album": "Jolie Fille (feat. Layefa)",
             "played_at": "23/03/2026 - 11:49:03"
+        },
+        {
+            "song_name": "Body On Me",
+            "artists": [
+                "DALEXO",
+                "Hektor Mass",
+                "Palm Monkey"
+            ],
+            "album": "Body On Me",
+            "played_at": "23/03/2026 - 12:09:03"
+        },
+        {
+            "song_name": "Tonight",
+            "artists": [
+                "Vidojean X Oliver Loenn",
+                "Corey James",
+                "NAK"
+            ],
+            "album": "Tonight",
+            "played_at": "23/03/2026 - 12:06:33"
+        },
+        {
+            "song_name": "Positions",
+            "artists": [
+                "Stryv",
+                "Malachiii",
+                "Adam Port"
+            ],
+            "album": "Positions",
+            "played_at": "23/03/2026 - 12:03:03"
         }
     ]
 }
