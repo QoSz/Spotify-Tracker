@@ -1,14 +1,6 @@
 {
-    "total_plays": 3935,
+    "total_plays": 3936,
     "tracks": [
-        {
-            "song_name": "Mentality",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Mentality",
-            "played_at": "17/03/2026 - 15:22:50"
-        },
         {
             "song_name": "Wait",
             "artists": [
@@ -1751,6 +1743,14 @@
             ],
             "album": "i think i'm addicted",
             "played_at": "23/03/2026 - 16:02:24"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "23/03/2026 - 18:26:32"
         }
     ]
 }
