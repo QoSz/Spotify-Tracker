@@ -1,51 +1,6 @@
 {
-    "total_plays": 3913,
+    "total_plays": 3918,
     "tracks": [
-        {
-            "song_name": "Cant Get Enough",
-            "artists": [
-                "Craig Isto"
-            ],
-            "album": "GENESIS",
-            "played_at": "16/03/2026 - 15:44:33"
-        },
-        {
-            "song_name": "PARTYGYAL",
-            "artists": [
-                "MOLIY",
-                "bees & honey"
-            ],
-            "album": "PARTYGYAL",
-            "played_at": "16/03/2026 - 15:42:32"
-        },
-        {
-            "song_name": "Who Badder",
-            "artists": [
-                "SNOWCHILD EDGE"
-            ],
-            "album": "Who Badder",
-            "played_at": "16/03/2026 - 15:39:34"
-        },
-        {
-            "song_name": "Jolie Fille (feat. Layefa)",
-            "artists": [
-                "Maz",
-                "Antdot",
-                "Ginton",
-                "Layefa"
-            ],
-            "album": "Jolie Fille (feat. Layefa)",
-            "played_at": "16/03/2026 - 15:37:03"
-        },
-        {
-            "song_name": "Russian Roulette",
-            "artists": [
-                "Ronis Goliath",
-                "bees & honey"
-            ],
-            "album": "Russian Roulette",
-            "played_at": "16/03/2026 - 15:33:33"
-        },
         {
             "song_name": "Beso (Fruta Fresca)",
             "artists": [
@@ -1758,6 +1713,57 @@
             ],
             "album": "Jolie Fille (feat. Layefa)",
             "played_at": "20/03/2026 - 19:03:46"
+        },
+        {
+            "song_name": "Alive",
+            "artists": [
+                "WITH U",
+                "Albert Breaker",
+                "mohalizer"
+            ],
+            "album": "Alive",
+            "played_at": "23/03/2026 - 12:01:03"
+        },
+        {
+            "song_name": "Last Heartbreak Song (feat. Giveon)",
+            "artists": [
+                "Ayra Starr",
+                "GIVĒON"
+            ],
+            "album": "The Year I Turned 21",
+            "played_at": "23/03/2026 - 11:57:33"
+        },
+        {
+            "song_name": "Heat",
+            "artists": [
+                "Naarly",
+                "FIRSTCLASS",
+                "Lucas Estrada"
+            ],
+            "album": "Heat",
+            "played_at": "23/03/2026 - 11:55:03"
+        },
+        {
+            "song_name": "I Adore You (feat. Daecolm)",
+            "artists": [
+                "HUGEL",
+                "Topic",
+                "Arash",
+                "Daecolm"
+            ],
+            "album": "I Adore You (feat. Daecolm)",
+            "played_at": "23/03/2026 - 11:52:34"
+        },
+        {
+            "song_name": "Jolie Fille (feat. Layefa)",
+            "artists": [
+                "Maz",
+                "Antdot",
+                "Ginton",
+                "Layefa"
+            ],
+            "album": "Jolie Fille (feat. Layefa)",
+            "played_at": "23/03/2026 - 11:49:03"
         }
     ]
 }
