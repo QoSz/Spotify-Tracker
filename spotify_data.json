@@ -1,14 +1,6 @@
 {
-    "total_plays": 3936,
+    "total_plays": 3937,
     "tracks": [
-        {
-            "song_name": "Wait",
-            "artists": [
-                "Yarden"
-            ],
-            "album": "The One Who Descends",
-            "played_at": "17/03/2026 - 15:36:52"
-        },
         {
             "song_name": "Your Eyes",
             "artists": [
@@ -1751,6 +1743,14 @@
             ],
             "album": "Carefree, very",
             "played_at": "23/03/2026 - 18:26:32"
+        },
+        {
+            "song_name": "Commas",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "The Year I Turned 21",
+            "played_at": "23/03/2026 - 19:50:41"
         }
     ]
 }
