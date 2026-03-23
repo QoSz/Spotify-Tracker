@@ -1,23 +1,6 @@
 {
-    "total_plays": 3921,
+    "total_plays": 3923,
     "tracks": [
-        {
-            "song_name": "Mentality",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Mentality",
-            "played_at": "17/03/2026 - 13:59:32"
-        },
-        {
-            "song_name": "Push (feat. Omah Lay)",
-            "artists": [
-                "Naomi Sharon",
-                "Omah Lay"
-            ],
-            "album": "Obsidian",
-            "played_at": "17/03/2026 - 13:59:31"
-        },
         {
             "song_name": "Don't Let Me Drown - From F1® The Movie",
             "artists": [
@@ -1764,6 +1747,23 @@
             ],
             "album": "Positions",
             "played_at": "23/03/2026 - 12:03:03"
+        },
+        {
+            "song_name": "Glide",
+            "artists": [
+                "NEIKED",
+                "Portugal. The Man"
+            ],
+            "album": "Glide",
+            "played_at": "23/03/2026 - 15:59:54"
+        },
+        {
+            "song_name": "Karibu",
+            "artists": [
+                "WITH U"
+            ],
+            "album": "Karibu",
+            "played_at": "23/03/2026 - 15:55:55"
         }
     ]
 }
