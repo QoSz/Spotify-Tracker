@@ -1,66 +1,6 @@
 {
-    "total_plays": 3937,
+    "total_plays": 3944,
     "tracks": [
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Black Coffee",
-                "Shekhinah"
-            ],
-            "album": "The Journey Continues",
-            "played_at": "17/03/2026 - 15:33:51"
-        },
-        {
-            "song_name": "Dare You",
-            "artists": [
-                "Ginton",
-                "Minz"
-            ],
-            "album": "Dare You",
-            "played_at": "17/03/2026 - 16:41:13"
-        },
-        {
-            "song_name": "Breakeven",
-            "artists": [
-                "The Script"
-            ],
-            "album": "The Script",
-            "played_at": "17/03/2026 - 21:49:16"
-        },
-        {
-            "song_name": "Good Time",
-            "artists": [
-                "Owl City",
-                "Carly Rae Jepsen"
-            ],
-            "album": "The Midsummer Station",
-            "played_at": "17/03/2026 - 20:45:52"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "18/03/2026 - 12:03:39"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "18/03/2026 - 12:03:09"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "18/03/2026 - 12:00:38"
-        },
         {
             "song_name": "Ride With Me",
             "artists": [
@@ -1751,6 +1691,66 @@
             ],
             "album": "The Year I Turned 21",
             "played_at": "23/03/2026 - 19:50:41"
+        },
+        {
+            "song_name": "Reverie",
+            "artists": [
+                "INNERVERSE"
+            ],
+            "album": "Reverie",
+            "played_at": "24/03/2026 - 09:29:28"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "24/03/2026 - 09:25:29"
+        },
+        {
+            "song_name": "Restart My Heart",
+            "artists": [
+                "Astrality",
+                "Aiko"
+            ],
+            "album": "Restart My Heart",
+            "played_at": "24/03/2026 - 09:22:59"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "24/03/2026 - 09:19:59"
+        },
+        {
+            "song_name": "Sweet Nothing - 2025 Edit",
+            "artists": [
+                "D.O.D",
+                "Calvin Harris",
+                "Florence Welch"
+            ],
+            "album": "Sweet Nothing (2025 Edit)",
+            "played_at": "24/03/2026 - 09:16:58"
+        },
+        {
+            "song_name": "Commas",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "The Year I Turned 21",
+            "played_at": "24/03/2026 - 09:14:44"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "24/03/2026 - 09:13:59"
         }
     ]
 }
