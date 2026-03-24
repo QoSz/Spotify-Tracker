@@ -1,24 +1,6 @@
 {
-    "total_plays": 3996,
+    "total_plays": 3998,
     "tracks": [
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "19/03/2026 - 09:12:32"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "19/03/2026 - 09:09:31"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1742,6 +1724,24 @@
             ],
             "album": "Heaven",
             "played_at": "24/03/2026 - 18:43:01"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "24/03/2026 - 19:05:37"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "24/03/2026 - 19:02:39"
         }
     ]
 }
