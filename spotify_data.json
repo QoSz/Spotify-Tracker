@@ -1,65 +1,6 @@
 {
-    "total_plays": 3989,
+    "total_plays": 3996,
     "tracks": [
-        {
-            "song_name": "Remember",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Remember",
-            "played_at": "19/03/2026 - 08:33:01"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "19/03/2026 - 09:31:04"
-        },
-        {
-            "song_name": "Yo No Lo Sé",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Yo No Lo Sé",
-            "played_at": "19/03/2026 - 09:27:01"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "19/03/2026 - 09:24:31"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "19/03/2026 - 09:21:31"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "19/03/2026 - 09:18:31"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/03/2026 - 09:14:31"
-        },
         {
             "song_name": "Get Close",
             "artists": [
@@ -1742,6 +1683,65 @@
             ],
             "album": "Cherish",
             "played_at": "24/03/2026 - 15:03:53"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "24/03/2026 - 19:00:14"
+        },
+        {
+            "song_name": "Words",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Words",
+            "played_at": "24/03/2026 - 18:57:49"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "24/03/2026 - 18:54:31"
+        },
+        {
+            "song_name": "I Drift Out, Then Return",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "24/03/2026 - 18:51:56"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "24/03/2026 - 18:49:36"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "24/03/2026 - 18:46:11"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "24/03/2026 - 18:43:01"
         }
     ]
 }
