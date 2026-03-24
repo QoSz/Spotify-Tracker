@@ -1,14 +1,6 @@
 {
-    "total_plays": 3972,
+    "total_plays": 3973,
     "tracks": [
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "19/03/2026 - 08:24:07"
-        },
         {
             "song_name": "Leave Behind",
             "artists": [
@@ -1748,6 +1740,14 @@
             ],
             "album": "Mother",
             "played_at": "24/03/2026 - 11:01:05"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "24/03/2026 - 12:19:03"
         }
     ]
 }
