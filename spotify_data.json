@@ -1,90 +1,6 @@
 {
-    "total_plays": 4048,
+    "total_plays": 4058,
     "tracks": [
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "19/03/2026 - 16:34:54"
-        },
-        {
-            "song_name": "Over & Over",
-            "artists": [
-                "Dark Heart",
-                "NJOMZA"
-            ],
-            "album": "Over & Over",
-            "played_at": "19/03/2026 - 16:31:54"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "19/03/2026 - 16:29:54"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "19/03/2026 - 16:27:24"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "19/03/2026 - 16:24:23"
-        },
-        {
-            "song_name": "Pines",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "Pines",
-            "played_at": "19/03/2026 - 16:21:24"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "19/03/2026 - 16:18:23"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "19/03/2026 - 16:15:54"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "19/03/2026 - 16:12:53"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "19/03/2026 - 16:09:23"
-        },
         {
             "song_name": "Sirens",
             "artists": [
@@ -1726,6 +1642,95 @@
             ],
             "album": "99 Eyes",
             "played_at": "25/03/2026 - 14:51:45"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "26/03/2026 - 15:32:30"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "26/03/2026 - 15:29:29"
+        },
+        {
+            "song_name": "Hollow Ground",
+            "artists": [
+                "NOTSOBAD",
+                "Able Faces"
+            ],
+            "album": "Hollow Ground",
+            "played_at": "26/03/2026 - 15:26:32"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "26/03/2026 - 15:23:30"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "26/03/2026 - 15:21:00"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "26/03/2026 - 15:18:01"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "26/03/2026 - 15:15:29"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "26/03/2026 - 15:12:59"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "26/03/2026 - 15:10:29"
+        },
+        {
+            "song_name": "Exhale",
+            "artists": [
+                "T. Matthias",
+                "Alimish"
+            ],
+            "album": "Exhale",
+            "played_at": "26/03/2026 - 15:07:00"
         }
     ]
 }
