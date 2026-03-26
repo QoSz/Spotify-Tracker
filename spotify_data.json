@@ -1,101 +1,6 @@
 {
-    "total_plays": 4088,
+    "total_plays": 4098,
     "tracks": [
-        {
-            "song_name": "Jolie Fille (feat. Layefa)",
-            "artists": [
-                "Maz",
-                "Antdot",
-                "Ginton",
-                "Layefa"
-            ],
-            "album": "Jolie Fille (feat. Layefa)",
-            "played_at": "20/03/2026 - 15:58:39"
-        },
-        {
-            "song_name": "Yamore - Edit Version",
-            "artists": [
-                "MoBlack",
-                "Salif Keita",
-                "Benja (NL)",
-                "Franc Fala",
-                "Cesária Evora"
-            ],
-            "album": "Yamore (Edit Version)",
-            "played_at": "20/03/2026 - 15:02:44"
-        },
-        {
-            "song_name": "I Adore You (feat. Daecolm)",
-            "artists": [
-                "HUGEL",
-                "Topic",
-                "Arash",
-                "Daecolm"
-            ],
-            "album": "I Adore You (feat. Daecolm)",
-            "played_at": "20/03/2026 - 14:59:45"
-        },
-        {
-            "song_name": "Nights In The Sun (feat. Wizkid)",
-            "artists": [
-                "Odeal",
-                "Wizkid"
-            ],
-            "album": "The Fall That Saved Us",
-            "played_at": "20/03/2026 - 14:56:14"
-        },
-        {
-            "song_name": "Alone",
-            "artists": [
-                "Burna Boy"
-            ],
-            "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
-            "played_at": "20/03/2026 - 14:53:44"
-        },
-        {
-            "song_name": "You Broke Me",
-            "artists": [
-                "Miiles44"
-            ],
-            "album": "You Broke Me",
-            "played_at": "20/03/2026 - 14:49:44"
-        },
-        {
-            "song_name": "HIPS",
-            "artists": [
-                "RUSSI",
-                "EPPING"
-            ],
-            "album": "HIPS",
-            "played_at": "20/03/2026 - 14:47:45"
-        },
-        {
-            "song_name": "Killing My Ego",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Killing My Ego",
-            "played_at": "20/03/2026 - 14:42:44"
-        },
-        {
-            "song_name": "Fire Fire",
-            "artists": [
-                "Shimza",
-                "AR/CO",
-                "Kasango"
-            ],
-            "album": "Fire Fire",
-            "played_at": "20/03/2026 - 14:40:15"
-        },
-        {
-            "song_name": "KANTE (feat. Fave)",
-            "artists": [
-                "Davido",
-                "FAVE"
-            ],
-            "album": "Timeless",
-            "played_at": "20/03/2026 - 14:37:44"
-        },
         {
             "song_name": "Commas",
             "artists": [
@@ -1731,6 +1636,94 @@
             ],
             "album": "Something Stronger",
             "played_at": "26/03/2026 - 16:31:59"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "26/03/2026 - 17:30:29"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "26/03/2026 - 17:27:59"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "26/03/2026 - 17:24:29"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "26/03/2026 - 17:21:59"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "26/03/2026 - 17:18:30"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "26/03/2026 - 17:15:59"
+        },
+        {
+            "song_name": "No Man's Land",
+            "artists": [
+                "CAKES",
+                "Izzy Bizu"
+            ],
+            "album": "No Man's Land",
+            "played_at": "26/03/2026 - 17:12:29"
+        },
+        {
+            "song_name": "No Man's Land",
+            "artists": [
+                "CAKES",
+                "Izzy Bizu"
+            ],
+            "album": "No Man's Land",
+            "played_at": "26/03/2026 - 17:07:00"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "26/03/2026 - 17:04:29"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "26/03/2026 - 17:02:00"
         }
     ]
 }
