@@ -1,16 +1,6 @@
 {
-    "total_plays": 4113,
+    "total_plays": 4114,
     "tracks": [
-        {
-            "song_name": "Alive",
-            "artists": [
-                "WITH U",
-                "Albert Breaker",
-                "mohalizer"
-            ],
-            "album": "Alive",
-            "played_at": "23/03/2026 - 12:01:03"
-        },
         {
             "song_name": "Last Heartbreak Song (feat. Giveon)",
             "artists": [
@@ -1728,6 +1718,14 @@
             ],
             "album": "Jump",
             "played_at": "26/03/2026 - 18:05:00"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "26/03/2026 - 19:48:39"
         }
     ]
 }
