@@ -1,90 +1,6 @@
 {
-    "total_plays": 4098,
+    "total_plays": 4108,
     "tracks": [
-        {
-            "song_name": "Commas",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "20/03/2026 - 14:34:44"
-        },
-        {
-            "song_name": "Weyu",
-            "artists": [
-                "Lucas Estrada",
-                "Lenji",
-                "Amadi Blue"
-            ],
-            "album": "Weyu",
-            "played_at": "20/03/2026 - 14:31:44"
-        },
-        {
-            "song_name": "London Summers",
-            "artists": [
-                "Odeal"
-            ],
-            "album": "The Summer That Saved Me",
-            "played_at": "20/03/2026 - 14:18:44"
-        },
-        {
-            "song_name": "MOMENTS WITH YOU",
-            "artists": [
-                "RUSSI",
-                "Palm Monkey"
-            ],
-            "album": "MOMENTS WITH YOU",
-            "played_at": "20/03/2026 - 14:15:15"
-        },
-        {
-            "song_name": "Who Badder",
-            "artists": [
-                "SNOWCHILD EDGE"
-            ],
-            "album": "Who Badder",
-            "played_at": "20/03/2026 - 14:12:45"
-        },
-        {
-            "song_name": "Jelele",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Jelele",
-            "played_at": "20/03/2026 - 14:10:14"
-        },
-        {
-            "song_name": "Where Did Your Love Go",
-            "artists": [
-                "Moonshine",
-                "Sincerely Suav"
-            ],
-            "album": "Where Did Your Love Go",
-            "played_at": "20/03/2026 - 14:07:44"
-        },
-        {
-            "song_name": "GOLIATH",
-            "artists": [
-                "Boybreed"
-            ],
-            "album": "GOLIATH",
-            "played_at": "20/03/2026 - 14:04:44"
-        },
-        {
-            "song_name": "Soul",
-            "artists": [
-                "Yarden"
-            ],
-            "album": "Soul",
-            "played_at": "20/03/2026 - 14:02:15"
-        },
-        {
-            "song_name": "Anybody",
-            "artists": [
-                "Burna Boy"
-            ],
-            "album": "African Giant",
-            "played_at": "20/03/2026 - 19:00:31"
-        },
         {
             "song_name": "MOMENTS WITH YOU",
             "artists": [
@@ -1724,6 +1640,95 @@
             ],
             "album": "Let It Go",
             "played_at": "26/03/2026 - 17:02:00"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "26/03/2026 - 18:00:30"
+        },
+        {
+            "song_name": "Weightless",
+            "artists": [
+                "Hyzteria"
+            ],
+            "album": "Weightless",
+            "played_at": "26/03/2026 - 17:57:59"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "26/03/2026 - 17:54:29"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "26/03/2026 - 17:51:29"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "26/03/2026 - 17:49:00"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "26/03/2026 - 17:46:30"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "26/03/2026 - 17:43:29"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "26/03/2026 - 17:39:30"
+        },
+        {
+            "song_name": "Waiting",
+            "artists": [
+                "Paul Schulze",
+                "Aiko",
+                "whoisanyelo"
+            ],
+            "album": "Waiting",
+            "played_at": "26/03/2026 - 17:37:01"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "26/03/2026 - 17:34:00"
         }
     ]
 }
