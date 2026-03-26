@@ -1,85 +1,6 @@
 {
-    "total_plays": 4058,
+    "total_plays": 4067,
     "tracks": [
-        {
-            "song_name": "Sirens",
-            "artists": [
-                "Dallerium",
-                "FARLEY"
-            ],
-            "album": "Sirens",
-            "played_at": "19/03/2026 - 16:06:24"
-        },
-        {
-            "song_name": "AWGAZI (Sunset Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "Palm Monkey",
-                "RUSSI",
-                "DALEXO"
-            ],
-            "album": "AWGAZI",
-            "played_at": "19/03/2026 - 16:02:54"
-        },
-        {
-            "song_name": "Malfunction",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Malfunction",
-            "played_at": "20/03/2026 - 07:59:41"
-        },
-        {
-            "song_name": "First",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Love Is A Kingdom",
-            "played_at": "20/03/2026 - 13:51:14"
-        },
-        {
-            "song_name": "AWGAZI",
-            "artists": [
-                "Palm Monkey",
-                "RUSSI",
-                "The Palm Tree Boy"
-            ],
-            "album": "AWGAZI",
-            "played_at": "20/03/2026 - 13:48:14"
-        },
-        {
-            "song_name": "Time And Trust",
-            "artists": [
-                "Naomi Sharon"
-            ],
-            "album": "Obsidian",
-            "played_at": "20/03/2026 - 13:45:14"
-        },
-        {
-            "song_name": "Moving",
-            "artists": [
-                "Omah Lay"
-            ],
-            "album": "Moving",
-            "played_at": "20/03/2026 - 13:42:44"
-        },
-        {
-            "song_name": "Words",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Words",
-            "played_at": "20/03/2026 - 13:40:16"
-        },
-        {
-            "song_name": "Fountains (with Tems)",
-            "artists": [
-                "Drake",
-                "Tems"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "20/03/2026 - 13:03:04"
-        },
         {
             "song_name": "Commas",
             "artists": [
@@ -1731,6 +1652,82 @@
             ],
             "album": "Exhale",
             "played_at": "26/03/2026 - 15:07:00"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "26/03/2026 - 15:58:00"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "26/03/2026 - 15:55:30"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "26/03/2026 - 15:53:36"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "26/03/2026 - 15:51:30"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "26/03/2026 - 15:47:59"
+        },
+        {
+            "song_name": "Gravity",
+            "artists": [
+                "Joshwa",
+                "Lauren Nicole"
+            ],
+            "album": "Gravity",
+            "played_at": "26/03/2026 - 15:44:30"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "26/03/2026 - 15:40:59"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "26/03/2026 - 15:38:00"
+        },
+        {
+            "song_name": "You Save My Life",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "You Save My Life",
+            "played_at": "26/03/2026 - 15:35:59"
         }
     ]
 }
