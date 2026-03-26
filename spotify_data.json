@@ -1,51 +1,6 @@
 {
-    "total_plays": 4108,
+    "total_plays": 4113,
     "tracks": [
-        {
-            "song_name": "MOMENTS WITH YOU",
-            "artists": [
-                "RUSSI",
-                "Palm Monkey"
-            ],
-            "album": "MOMENTS WITH YOU",
-            "played_at": "20/03/2026 - 19:13:53"
-        },
-        {
-            "song_name": "Time And Trust",
-            "artists": [
-                "Naomi Sharon"
-            ],
-            "album": "Obsidian",
-            "played_at": "20/03/2026 - 19:11:27"
-        },
-        {
-            "song_name": "Nights In The Sun (feat. Wizkid)",
-            "artists": [
-                "Odeal",
-                "Wizkid"
-            ],
-            "album": "The Fall That Saved Us",
-            "played_at": "20/03/2026 - 19:08:57"
-        },
-        {
-            "song_name": "You Broke Me",
-            "artists": [
-                "Miiles44"
-            ],
-            "album": "You Broke Me",
-            "played_at": "20/03/2026 - 19:06:06"
-        },
-        {
-            "song_name": "Jolie Fille (feat. Layefa)",
-            "artists": [
-                "Maz",
-                "Antdot",
-                "Ginton",
-                "Layefa"
-            ],
-            "album": "Jolie Fille (feat. Layefa)",
-            "played_at": "20/03/2026 - 19:03:46"
-        },
         {
             "song_name": "Alive",
             "artists": [
@@ -1729,6 +1684,50 @@
             ],
             "album": "Tell Me",
             "played_at": "26/03/2026 - 17:34:00"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "26/03/2026 - 18:18:29"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "26/03/2026 - 18:13:59"
+        },
+        {
+            "song_name": "Sleepless",
+            "artists": [
+                "AVAION",
+                "PaulWetz",
+                "Nu Aspect",
+                "YUMA"
+            ],
+            "album": "Sleepless",
+            "played_at": "26/03/2026 - 18:11:00"
+        },
+        {
+            "song_name": "Velvet & Ice",
+            "artists": [
+                "Ferreck Dawn"
+            ],
+            "album": "Velvet & Ice",
+            "played_at": "26/03/2026 - 18:08:30"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "26/03/2026 - 18:05:00"
         }
     ]
 }
