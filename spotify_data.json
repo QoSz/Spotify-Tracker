@@ -1,14 +1,6 @@
 {
-    "total_plays": 4170,
+    "total_plays": 4171,
     "tracks": [
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "24/03/2026 - 11:04:02"
-        },
         {
             "song_name": "Mother",
             "artists": [
@@ -1720,6 +1712,16 @@
             ],
             "album": "CAN'T RUSH GREATNESS",
             "played_at": "27/03/2026 - 16:33:15"
+        },
+        {
+            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
+            "artists": [
+                "J. Cole",
+                "Bas",
+                "Central Cee"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "27/03/2026 - 17:30:34"
         }
     ]
 }
