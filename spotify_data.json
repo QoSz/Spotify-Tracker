@@ -1,73 +1,6 @@
 {
-    "total_plays": 4120,
+    "total_plays": 4128,
     "tracks": [
-        {
-            "song_name": "Positions",
-            "artists": [
-                "Stryv",
-                "Malachiii",
-                "Adam Port"
-            ],
-            "album": "Positions",
-            "played_at": "23/03/2026 - 12:03:03"
-        },
-        {
-            "song_name": "Glide",
-            "artists": [
-                "NEIKED",
-                "Portugal. The Man"
-            ],
-            "album": "Glide",
-            "played_at": "23/03/2026 - 15:59:54"
-        },
-        {
-            "song_name": "Karibu",
-            "artists": [
-                "WITH U"
-            ],
-            "album": "Karibu",
-            "played_at": "23/03/2026 - 15:55:55"
-        },
-        {
-            "song_name": "Firebird",
-            "artists": [
-                "Common Saints"
-            ],
-            "album": "Firebird",
-            "played_at": "23/03/2026 - 16:38:58"
-        },
-        {
-            "song_name": "Right Thing",
-            "artists": [
-                "Bayonne"
-            ],
-            "album": "Temporary Time",
-            "played_at": "23/03/2026 - 16:35:24"
-        },
-        {
-            "song_name": "Sundays",
-            "artists": [
-                "Ryan Harris"
-            ],
-            "album": "Sundays",
-            "played_at": "23/03/2026 - 16:31:55"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "23/03/2026 - 16:28:54"
-        },
-        {
-            "song_name": "222",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "222",
-            "played_at": "23/03/2026 - 16:25:24"
-        },
         {
             "song_name": "Think it Over",
             "artists": [
@@ -1714,6 +1647,70 @@
             ],
             "album": "(((((ultraSOUND)))))+",
             "played_at": "27/03/2026 - 08:51:57"
+        },
+        {
+            "song_name": "222",
+            "artists": [
+                "Dolphin Love"
+            ],
+            "album": "222",
+            "played_at": "27/03/2026 - 09:29:27"
+        },
+        {
+            "song_name": "Up To Something",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Must Be Nice",
+            "played_at": "27/03/2026 - 09:26:26"
+        },
+        {
+            "song_name": "Kool Aid",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Sofa Kings",
+            "played_at": "27/03/2026 - 09:22:57"
+        },
+        {
+            "song_name": "jupiter",
+            "artists": [
+                "almost monday"
+            ],
+            "album": "DIVE",
+            "played_at": "27/03/2026 - 09:19:27"
+        },
+        {
+            "song_name": "Live Well",
+            "artists": [
+                "Palace"
+            ],
+            "album": "So Long Forever",
+            "played_at": "27/03/2026 - 09:16:27"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "27/03/2026 - 09:12:27"
+        },
+        {
+            "song_name": "Superposition",
+            "artists": [
+                "Young the Giant"
+            ],
+            "album": "Mirror Master",
+            "played_at": "27/03/2026 - 09:06:27"
+        },
+        {
+            "song_name": "Spit Of You",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "27/03/2026 - 09:02:57"
         }
     ]
 }
