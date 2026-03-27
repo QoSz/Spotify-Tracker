@@ -1,58 +1,6 @@
 {
-    "total_plays": 4137,
+    "total_plays": 4143,
     "tracks": [
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "24/03/2026 - 09:29:28"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "24/03/2026 - 09:25:29"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "24/03/2026 - 09:22:59"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "24/03/2026 - 09:19:59"
-        },
-        {
-            "song_name": "Sweet Nothing - 2025 Edit",
-            "artists": [
-                "D.O.D",
-                "Calvin Harris",
-                "Florence Welch"
-            ],
-            "album": "Sweet Nothing (2025 Edit)",
-            "played_at": "24/03/2026 - 09:16:58"
-        },
-        {
-            "song_name": "Commas",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "24/03/2026 - 09:14:44"
-        },
         {
             "song_name": "We Run",
             "artists": [
@@ -1715,6 +1663,56 @@
             ],
             "album": "WET T-SHIRT",
             "played_at": "27/03/2026 - 09:33:57"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "27/03/2026 - 15:28:16"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "27/03/2026 - 15:25:16"
+        },
+        {
+            "song_name": "Waffle",
+            "artists": [
+                "Trinix",
+                "MEMPHIS BLOOD"
+            ],
+            "album": "Altitude",
+            "played_at": "27/03/2026 - 15:22:46"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "27/03/2026 - 15:19:46"
+        },
+        {
+            "song_name": "WHAT YOU WANT",
+            "artists": [
+                "Switch Disco"
+            ],
+            "album": "VACANCY EP",
+            "played_at": "27/03/2026 - 15:16:46"
+        },
+        {
+            "song_name": "WHAT YOU WANT",
+            "artists": [
+                "Switch Disco"
+            ],
+            "album": "VACANCY EP",
+            "played_at": "27/03/2026 - 15:14:16"
         }
     ]
 }
