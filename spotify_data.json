@@ -1,36 +1,6 @@
 {
-    "total_plays": 4114,
+    "total_plays": 4117,
     "tracks": [
-        {
-            "song_name": "Last Heartbreak Song (feat. Giveon)",
-            "artists": [
-                "Ayra Starr",
-                "GIVĒON"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "23/03/2026 - 11:57:33"
-        },
-        {
-            "song_name": "Heat",
-            "artists": [
-                "Naarly",
-                "FIRSTCLASS",
-                "Lucas Estrada"
-            ],
-            "album": "Heat",
-            "played_at": "23/03/2026 - 11:55:03"
-        },
-        {
-            "song_name": "I Adore You (feat. Daecolm)",
-            "artists": [
-                "HUGEL",
-                "Topic",
-                "Arash",
-                "Daecolm"
-            ],
-            "album": "I Adore You (feat. Daecolm)",
-            "played_at": "23/03/2026 - 11:52:34"
-        },
         {
             "song_name": "Jolie Fille (feat. Layefa)",
             "artists": [
@@ -1726,6 +1696,30 @@
             ],
             "album": "Are You Real?",
             "played_at": "26/03/2026 - 19:48:39"
+        },
+        {
+            "song_name": "sun",
+            "artists": [
+                "Dolphin Love"
+            ],
+            "album": "sun",
+            "played_at": "27/03/2026 - 08:27:56"
+        },
+        {
+            "song_name": "Whateverrrr",
+            "artists": [
+                "Spacey Jane"
+            ],
+            "album": "If That Makes Sense",
+            "played_at": "27/03/2026 - 08:24:26"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "27/03/2026 - 08:21:26"
         }
     ]
 }
