@@ -1,118 +1,6 @@
 {
-    "total_plays": 4143,
+    "total_plays": 4156,
     "tracks": [
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "24/03/2026 - 09:13:59"
-        },
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "24/03/2026 - 09:34:59"
-        },
-        {
-            "song_name": "Don't Fix Me",
-            "artists": [
-                "April Girl",
-                "RYVM"
-            ],
-            "album": "Intro",
-            "played_at": "24/03/2026 - 09:31:59"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "ATB",
-                "Nu Aspect",
-                "Orem"
-            ],
-            "album": "Run",
-            "played_at": "24/03/2026 - 10:31:32"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "24/03/2026 - 10:29:02"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "24/03/2026 - 10:26:33"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "24/03/2026 - 10:58:32"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "24/03/2026 - 10:55:03"
-        },
-        {
-            "song_name": "Strings Attached",
-            "artists": [
-                "Nu Aspect",
-                "Arkaden",
-                "Sam Welch"
-            ],
-            "album": "Strings Attached",
-            "played_at": "24/03/2026 - 10:52:02"
-        },
-        {
-            "song_name": "Think About Us",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us",
-            "played_at": "24/03/2026 - 10:49:02"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "24/03/2026 - 10:46:02"
-        },
-        {
-            "song_name": "Haunt You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "24/03/2026 - 10:43:02"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Make Me Feel",
-            "played_at": "24/03/2026 - 10:39:32"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1713,6 +1601,119 @@
             ],
             "album": "VACANCY EP",
             "played_at": "27/03/2026 - 15:14:16"
+        },
+        {
+            "song_name": "CRG (feat. Dave)",
+            "artists": [
+                "Central Cee",
+                "Dave"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "27/03/2026 - 16:02:15"
+        },
+        {
+            "song_name": "ICEMAN FREESTYLE",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "ICEMAN FREESTYLE",
+            "played_at": "27/03/2026 - 15:59:16"
+        },
+        {
+            "song_name": "Which One (feat. Central Cee)",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "Which One",
+            "played_at": "27/03/2026 - 15:56:15"
+        },
+        {
+            "song_name": "Doja",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "Doja",
+            "played_at": "27/03/2026 - 15:53:15"
+        },
+        {
+            "song_name": "Sprinter",
+            "artists": [
+                "Dave",
+                "Central Cee"
+            ],
+            "album": "Sprinter",
+            "played_at": "27/03/2026 - 15:52:15"
+        },
+        {
+            "song_name": "Golden Sunset",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Golden Sunset",
+            "played_at": "27/03/2026 - 15:47:51"
+        },
+        {
+            "song_name": "Golden Sunset",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Golden Sunset",
+            "played_at": "27/03/2026 - 15:46:46"
+        },
+        {
+            "song_name": "Tainted Love",
+            "artists": [
+                "Trinix",
+                "Queen D"
+            ],
+            "album": "Tainted Love",
+            "played_at": "27/03/2026 - 15:44:46"
+        },
+        {
+            "song_name": "All I Know (with Khalid)",
+            "artists": [
+                "Rudimental",
+                "Khalid"
+            ],
+            "album": "All I Know (with Khalid)",
+            "played_at": "27/03/2026 - 15:41:46"
+        },
+        {
+            "song_name": "A New Day",
+            "artists": [
+                "Urban Love",
+                "Tom Polo",
+                "Bellestar"
+            ],
+            "album": "A New Day",
+            "played_at": "27/03/2026 - 15:38:46"
+        },
+        {
+            "song_name": "Good Life (feat. Elderbrook)",
+            "artists": [
+                "goodlife",
+                "Elderbrook"
+            ],
+            "album": "Good Life (feat. Elderbrook)",
+            "played_at": "27/03/2026 - 15:36:47"
+        },
+        {
+            "song_name": "Be Your Friend",
+            "artists": [
+                "XYSM",
+                "EDGR"
+            ],
+            "album": "Be Your Friend",
+            "played_at": "27/03/2026 - 15:33:46"
+        },
+        {
+            "song_name": "Help Me Lose My Mind",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind",
+            "played_at": "27/03/2026 - 15:31:16"
         }
     ]
 }
