@@ -1,82 +1,6 @@
 {
-    "total_plays": 4128,
+    "total_plays": 4137,
     "tracks": [
-        {
-            "song_name": "Think it Over",
-            "artists": [
-                "New Constellations"
-            ],
-            "album": "Think it Over",
-            "played_at": "23/03/2026 - 16:22:24"
-        },
-        {
-            "song_name": "Foaming",
-            "artists": [
-                "Day We Ran"
-            ],
-            "album": "Foaming",
-            "played_at": "23/03/2026 - 16:19:23"
-        },
-        {
-            "song_name": "CAN'T FIND YOU",
-            "artists": [
-                "AVAION",
-                "oskar med k"
-            ],
-            "album": "TO MAKE PEOPLE HAPPY",
-            "played_at": "23/03/2026 - 16:15:53"
-        },
-        {
-            "song_name": "One More Song (I'll Be On My Way)",
-            "artists": [
-                "Why U So",
-                "Luis Coren"
-            ],
-            "album": "One More Song (I'll Be On My Way)",
-            "played_at": "23/03/2026 - 16:12:25"
-        },
-        {
-            "song_name": "Edge of Desire",
-            "artists": [
-                "Jonas Blue",
-                "Malive"
-            ],
-            "album": "Edge of Desire",
-            "played_at": "23/03/2026 - 16:08:54"
-        },
-        {
-            "song_name": "Strange Nights",
-            "artists": [
-                "ZeLeo"
-            ],
-            "album": "Strange Nights",
-            "played_at": "23/03/2026 - 16:06:23"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "i think i'm addicted",
-            "played_at": "23/03/2026 - 16:02:24"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "23/03/2026 - 18:26:32"
-        },
-        {
-            "song_name": "Commas",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "23/03/2026 - 19:50:41"
-        },
         {
             "song_name": "Reverie",
             "artists": [
@@ -1711,6 +1635,86 @@
             ],
             "album": "Seventeen Going Under (Deluxe)",
             "played_at": "27/03/2026 - 09:02:57"
+        },
+        {
+            "song_name": "Stargazing",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "Stargazing",
+            "played_at": "27/03/2026 - 09:58:56"
+        },
+        {
+            "song_name": "Chills (LA Hills)",
+            "artists": [
+                "Tiësto",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "DRIVE",
+            "played_at": "27/03/2026 - 09:56:27"
+        },
+        {
+            "song_name": "Million Miles",
+            "artists": [
+                "Braaten",
+                "Le Boeuf"
+            ],
+            "album": "Million Miles",
+            "played_at": "27/03/2026 - 09:52:57"
+        },
+        {
+            "song_name": "Echo",
+            "artists": [
+                "RSCL",
+                "Repiet",
+                "Julia Kleijn"
+            ],
+            "album": "Echo",
+            "played_at": "27/03/2026 - 09:50:27"
+        },
+        {
+            "song_name": "Hell N Back (feat. Summer Walker)",
+            "artists": [
+                "Bakar",
+                "Summer Walker"
+            ],
+            "album": "Hell N Back (feat. Summer Walker)",
+            "played_at": "27/03/2026 - 09:47:56"
+        },
+        {
+            "song_name": "Fire Fire",
+            "artists": [
+                "Shimza",
+                "AR/CO",
+                "Kasango"
+            ],
+            "album": "Fire Fire",
+            "played_at": "27/03/2026 - 09:44:57"
+        },
+        {
+            "song_name": "Sun Goes Down",
+            "artists": [
+                "Sole Sole"
+            ],
+            "album": "Sun Goes Down",
+            "played_at": "27/03/2026 - 09:42:27"
+        },
+        {
+            "song_name": "Show Me Love",
+            "artists": [
+                "WizTheMc",
+                "bees & honey"
+            ],
+            "album": "Show Me Love",
+            "played_at": "27/03/2026 - 09:39:57"
+        },
+        {
+            "song_name": "WET T-SHIRT",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "WET T-SHIRT",
+            "played_at": "27/03/2026 - 09:33:57"
         }
     ]
 }
