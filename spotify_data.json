@@ -1,39 +1,6 @@
 {
-    "total_plays": 4171,
+    "total_plays": 4175,
     "tracks": [
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "24/03/2026 - 11:01:05"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "24/03/2026 - 12:19:03"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "24/03/2026 - 13:02:08"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "24/03/2026 - 15:00:22"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1722,6 +1689,40 @@
             ],
             "album": "Might Delete Later",
             "played_at": "27/03/2026 - 17:30:34"
+        },
+        {
+            "song_name": "Gen Z Luv",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "Gen Z Luv",
+            "played_at": "27/03/2026 - 20:46:39"
+        },
+        {
+            "song_name": "Loading",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "Wild West",
+            "played_at": "27/03/2026 - 20:44:09"
+        },
+        {
+            "song_name": "No Introduction",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "CAN'T RUSH GREATNESS",
+            "played_at": "27/03/2026 - 20:41:08"
+        },
+        {
+            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
+            "artists": [
+                "J. Cole",
+                "Bas",
+                "Central Cee"
+            ],
+            "album": "Might Delete Later",
+            "played_at": "27/03/2026 - 20:38:39"
         }
     ]
 }
