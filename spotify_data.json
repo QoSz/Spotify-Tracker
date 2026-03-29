@@ -1,86 +1,6 @@
 {
-    "total_plays": 4179,
+    "total_plays": 4189,
     "tracks": [
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "24/03/2026 - 14:46:17"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "24/03/2026 - 14:42:41"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "24/03/2026 - 14:40:06"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "24/03/2026 - 14:36:55"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "24/03/2026 - 14:34:15"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "24/03/2026 - 15:09:54"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "24/03/2026 - 15:07:37"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "24/03/2026 - 15:07:34"
-        },
-        {
-            "song_name": "I Drift Out, Then Return",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "24/03/2026 - 15:06:06"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "24/03/2026 - 15:03:53"
-        },
         {
             "song_name": "Mood Song",
             "artists": [
@@ -1724,6 +1644,94 @@
             ],
             "album": "Dive",
             "played_at": "28/03/2026 - 15:00:37"
+        },
+        {
+            "song_name": "Tonight",
+            "artists": [
+                "Vidojean X Oliver Loenn",
+                "Corey James",
+                "NAK"
+            ],
+            "album": "Tonight",
+            "played_at": "28/03/2026 - 21:06:41"
+        },
+        {
+            "song_name": "Me & U",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "28/03/2026 - 21:03:41"
+        },
+        {
+            "song_name": "Positions",
+            "artists": [
+                "Stryv",
+                "Malachiii",
+                "Adam Port"
+            ],
+            "album": "Positions",
+            "played_at": "28/03/2026 - 21:00:42"
+        },
+        {
+            "song_name": "LOCA LOCA",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI"
+            ],
+            "album": "LOCA LOCA",
+            "played_at": "28/03/2026 - 20:58:10"
+        },
+        {
+            "song_name": "Moving (Francis Mercier Remix)",
+            "artists": [
+                "Omah Lay",
+                "Francis Mercier"
+            ],
+            "album": "Moving (Francis Mercier Remix)",
+            "played_at": "28/03/2026 - 20:56:11"
+        },
+        {
+            "song_name": "Location (feat. Burna Boy)",
+            "artists": [
+                "Dave",
+                "Burna Boy"
+            ],
+            "album": "PSYCHODRAMA",
+            "played_at": "28/03/2026 - 20:52:40"
+        },
+        {
+            "song_name": "Love",
+            "artists": [
+                "Burna Boy"
+            ],
+            "album": "No Sign Of Weakness",
+            "played_at": "28/03/2026 - 20:49:11"
+        },
+        {
+            "song_name": "Peru - Peace Control Remix",
+            "artists": [
+                "Fireboy DML",
+                "Peace Control"
+            ],
+            "album": "Peru (Peace Control Remix)",
+            "played_at": "28/03/2026 - 20:46:11"
+        },
+        {
+            "song_name": "Holy Ghost",
+            "artists": [
+                "Omah Lay"
+            ],
+            "album": "Holy Ghost",
+            "played_at": "28/03/2026 - 16:39:59"
+        },
+        {
+            "song_name": "My Heart",
+            "artists": [
+                "Odeal"
+            ],
+            "album": "The Summer That Saved Me",
+            "played_at": "28/03/2026 - 16:39:57"
         }
     ]
 }
