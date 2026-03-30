@@ -1,84 +1,6 @@
 {
-    "total_plays": 4201,
+    "total_plays": 4210,
     "tracks": [
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "25/03/2026 - 17:15:37"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "25/03/2026 - 17:12:08"
-        },
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "25/03/2026 - 17:09:38"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "25/03/2026 - 17:06:38"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "25/03/2026 - 17:04:38"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "25/03/2026 - 17:01:08"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "25/03/2026 - 16:58:37"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "Biscits",
-                "Ekko"
-            ],
-            "album": "Heartbeat",
-            "played_at": "25/03/2026 - 16:55:37"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "25/03/2026 - 16:52:38"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1731,6 +1653,87 @@
             ],
             "album": "Lungu Boy",
             "played_at": "30/03/2026 - 13:02:17"
+        },
+        {
+            "song_name": "Lay Low",
+            "artists": [
+                "Tiësto"
+            ],
+            "album": "DRIVE",
+            "played_at": "30/03/2026 - 13:58:43"
+        },
+        {
+            "song_name": "Show Me Love - EDX Remix / Radio Edit",
+            "artists": [
+                "Sam Feldt",
+                "Kimberly Anne",
+                "EDX"
+            ],
+            "album": "Show Me Love (EDX Remix / Radio Edit)",
+            "played_at": "30/03/2026 - 13:56:13"
+        },
+        {
+            "song_name": "Days in the Sun - Forester Remix",
+            "artists": [
+                "Forester",
+                "Ziggy Alberts"
+            ],
+            "album": "Days in the Sun (Forester Remix)",
+            "played_at": "30/03/2026 - 13:53:13"
+        },
+        {
+            "song_name": "Loosen Up",
+            "artists": [
+                "HUGEL",
+                "Dawty",
+                "Preston Harris"
+            ],
+            "album": "Loosen Up",
+            "played_at": "30/03/2026 - 13:48:43"
+        },
+        {
+            "song_name": "Where Did I Go Wrong",
+            "artists": [
+                "Deelight",
+                "Frère Jack"
+            ],
+            "album": "Where Did I Go Wrong",
+            "played_at": "30/03/2026 - 13:45:43"
+        },
+        {
+            "song_name": "Now or Never",
+            "artists": [
+                "Trinix",
+                "Dominic Neill"
+            ],
+            "album": "Now or Never",
+            "played_at": "30/03/2026 - 13:42:13"
+        },
+        {
+            "song_name": "Baianá",
+            "artists": [
+                "Bakermat"
+            ],
+            "album": "The Ringmaster",
+            "played_at": "30/03/2026 - 13:39:13"
+        },
+        {
+            "song_name": "No Bad Vibes",
+            "artists": [
+                "Jazzy",
+                "KILIMANJARO"
+            ],
+            "album": "No Bad Vibes",
+            "played_at": "30/03/2026 - 13:36:13"
+        },
+        {
+            "song_name": "Take Me Home",
+            "artists": [
+                "Saco",
+                "Sebastiën"
+            ],
+            "album": "Take Me Home",
+            "played_at": "30/03/2026 - 13:33:43"
         }
     ]
 }
