@@ -1,15 +1,6 @@
 {
-    "total_plays": 4189,
+    "total_plays": 4190,
     "tracks": [
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "24/03/2026 - 19:00:14"
-        },
         {
             "song_name": "Words",
             "artists": [
@@ -1732,6 +1723,15 @@
             ],
             "album": "The Summer That Saved Me",
             "played_at": "28/03/2026 - 16:39:57"
+        },
+        {
+            "song_name": "MOMENTS WITH YOU",
+            "artists": [
+                "RUSSI",
+                "Palm Monkey"
+            ],
+            "album": "MOMENTS WITH YOU",
+            "played_at": "29/03/2026 - 19:11:10"
         }
     ]
 }
