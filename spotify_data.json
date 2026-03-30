@@ -1,49 +1,6 @@
 {
-    "total_plays": 4210,
+    "total_plays": 4215,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "25/03/2026 - 16:49:08"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "25/03/2026 - 16:45:38"
-        },
-        {
-            "song_name": "Sweet Release",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Sweet Release",
-            "played_at": "25/03/2026 - 16:42:38"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "25/03/2026 - 16:39:08"
-        },
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "25/03/2026 - 16:36:37"
-        },
         {
             "song_name": "Show Me",
             "artists": [
@@ -1734,6 +1691,58 @@
             ],
             "album": "Take Me Home",
             "played_at": "30/03/2026 - 13:33:43"
+        },
+        {
+            "song_name": "Emorio",
+            "artists": [
+                "Trinix",
+                "Fafá de Belém"
+            ],
+            "album": "Emorio",
+            "played_at": "30/03/2026 - 15:59:23"
+        },
+        {
+            "song_name": "BREATHE",
+            "artists": [
+                "Switch Disco",
+                "NEVE"
+            ],
+            "album": "BREATHE",
+            "played_at": "30/03/2026 - 15:56:53"
+        },
+        {
+            "song_name": "Covered By The Clouds",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Covered By The Clouds",
+            "played_at": "30/03/2026 - 15:54:23"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "30/03/2026 - 15:50:52"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "30/03/2026 - 15:49:29"
         }
     ]
 }
