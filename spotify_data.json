@@ -1,31 +1,6 @@
 {
-    "total_plays": 4246,
+    "total_plays": 4249,
     "tracks": [
-        {
-            "song_name": "Words",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Words",
-            "played_at": "25/03/2026 - 14:55:16"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "25/03/2026 - 14:51:45"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "26/03/2026 - 15:32:30"
-        },
         {
             "song_name": "Get Close",
             "artists": [
@@ -1756,6 +1731,30 @@
             ],
             "album": "Show Me Love",
             "played_at": "31/03/2026 - 21:34:18"
+        },
+        {
+            "song_name": "Josephine",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "Josephine",
+            "played_at": "31/03/2026 - 22:14:28"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "31/03/2026 - 22:10:58"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "31/03/2026 - 22:08:28"
         }
     ]
 }
