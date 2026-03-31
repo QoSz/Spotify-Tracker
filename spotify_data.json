@@ -1,15 +1,6 @@
 {
-    "total_plays": 4215,
+    "total_plays": 4216,
     "tracks": [
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "25/03/2026 - 16:32:38"
-        },
         {
             "song_name": "Someone to Hold",
             "artists": [
@@ -1743,6 +1734,14 @@
             ],
             "album": "Thank You (Not So Bad)",
             "played_at": "30/03/2026 - 15:49:29"
+        },
+        {
+            "song_name": "whoa (mind in awe)",
+            "artists": [
+                "XXXTENTACION"
+            ],
+            "album": "SKINS",
+            "played_at": "31/03/2026 - 07:48:02"
         }
     ]
 }
