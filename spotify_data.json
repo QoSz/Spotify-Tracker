@@ -1,99 +1,6 @@
 {
-    "total_plays": 4227,
+    "total_plays": 4238,
     "tracks": [
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "25/03/2026 - 15:48:15"
-        },
-        {
-            "song_name": "Yo No Lo Sé",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Yo No Lo Sé",
-            "played_at": "25/03/2026 - 15:45:46"
-        },
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "25/03/2026 - 15:42:45"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "25/03/2026 - 15:39:45"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "25/03/2026 - 15:35:15"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "25/03/2026 - 15:33:15"
-        },
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "25/03/2026 - 15:29:45"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "25/03/2026 - 15:26:15"
-        },
-        {
-            "song_name": "Waiting for Love",
-            "artists": [
-                "Tudor",
-                "Embody"
-            ],
-            "album": "Waiting for Love",
-            "played_at": "25/03/2026 - 15:23:45"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "25/03/2026 - 15:20:45"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "25/03/2026 - 15:18:15"
-        },
         {
             "song_name": "No One Knows",
             "artists": [
@@ -1751,6 +1658,105 @@
             ],
             "album": "Thank You (Not So Bad)",
             "played_at": "31/03/2026 - 20:45:56"
+        },
+        {
+            "song_name": "Lost",
+            "artists": [
+                "RSCL",
+                "it's murph",
+                "Twin Diplomacy",
+                "Jack August"
+            ],
+            "album": "Lost",
+            "played_at": "31/03/2026 - 21:31:21"
+        },
+        {
+            "song_name": "Good Life (feat. Elderbrook)",
+            "artists": [
+                "goodlife",
+                "Elderbrook"
+            ],
+            "album": "Good Life (feat. Elderbrook)",
+            "played_at": "31/03/2026 - 21:28:47"
+        },
+        {
+            "song_name": "My Mind",
+            "artists": [
+                "Saco",
+                "Maurits Beelen"
+            ],
+            "album": "My Mind",
+            "played_at": "31/03/2026 - 21:25:59"
+        },
+        {
+            "song_name": "Sunbeams",
+            "artists": [
+                "NSH"
+            ],
+            "album": "Sunbeams",
+            "played_at": "31/03/2026 - 21:23:12"
+        },
+        {
+            "song_name": "Glide",
+            "artists": [
+                "NEIKED",
+                "Portugal. The Man"
+            ],
+            "album": "Glide",
+            "played_at": "31/03/2026 - 21:20:45"
+        },
+        {
+            "song_name": "5th Avenue",
+            "artists": [
+                "Trinix"
+            ],
+            "album": "5th Avenue",
+            "played_at": "31/03/2026 - 21:17:40"
+        },
+        {
+            "song_name": "1+1=1",
+            "artists": [
+                "XYSM",
+                "EDGR"
+            ],
+            "album": "1+1=1",
+            "played_at": "31/03/2026 - 21:14:34"
+        },
+        {
+            "song_name": "Fire Fire",
+            "artists": [
+                "Shimza",
+                "AR/CO",
+                "Kasango"
+            ],
+            "album": "Fire Fire",
+            "played_at": "31/03/2026 - 21:11:01"
+        },
+        {
+            "song_name": "Chills (LA Hills)",
+            "artists": [
+                "Tiësto",
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "DRIVE",
+            "played_at": "31/03/2026 - 21:08:30"
+        },
+        {
+            "song_name": "Maze",
+            "artists": [
+                "Punctual",
+                "PHIA"
+            ],
+            "album": "Maze",
+            "played_at": "31/03/2026 - 21:05:26"
+        },
+        {
+            "song_name": "Tomorrow Never Comes",
+            "artists": [
+                "Vicetone"
+            ],
+            "album": "Tomorrow Never Comes",
+            "played_at": "31/03/2026 - 21:02:22"
         }
     ]
 }
