@@ -1,76 +1,6 @@
 {
-    "total_plays": 4238,
+    "total_plays": 4246,
     "tracks": [
-        {
-            "song_name": "No One Knows",
-            "artists": [
-                "Tobtok",
-                "STO CULTR"
-            ],
-            "album": "No One Knows",
-            "played_at": "25/03/2026 - 15:15:45"
-        },
-        {
-            "song_name": "White Flag Down",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "White Flag Down",
-            "played_at": "25/03/2026 - 15:13:45"
-        },
-        {
-            "song_name": "The Darkside",
-            "artists": [
-                "PALASTIC",
-                "Ekko"
-            ],
-            "album": "The Darkside",
-            "played_at": "25/03/2026 - 15:11:45"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "25/03/2026 - 15:08:49"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "25/03/2026 - 15:06:15"
-        },
-        {
-            "song_name": "In the Mood",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "25/03/2026 - 15:02:45"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "25/03/2026 - 14:59:45"
-        },
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "25/03/2026 - 14:57:46"
-        },
         {
             "song_name": "Words",
             "artists": [
@@ -1757,6 +1687,75 @@
             ],
             "album": "Tomorrow Never Comes",
             "played_at": "31/03/2026 - 21:02:22"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "31/03/2026 - 21:59:58"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "31/03/2026 - 21:56:59"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "31/03/2026 - 21:53:28"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "31/03/2026 - 21:51:40"
+        },
+        {
+            "song_name": "WHAT YOU WANT",
+            "artists": [
+                "Switch Disco"
+            ],
+            "album": "VACANCY EP",
+            "played_at": "31/03/2026 - 21:41:45"
+        },
+        {
+            "song_name": "Gatluak - Bakermat Remix",
+            "artists": [
+                "Kronan",
+                "Nyaruach",
+                "Bakermat"
+            ],
+            "album": "Gatluak (Bakermat Remix)",
+            "played_at": "31/03/2026 - 21:39:35"
+        },
+        {
+            "song_name": "All I Know (with Khalid)",
+            "artists": [
+                "Rudimental",
+                "Khalid"
+            ],
+            "album": "All I Know (with Khalid)",
+            "played_at": "31/03/2026 - 21:37:15"
+        },
+        {
+            "song_name": "Show Me Love",
+            "artists": [
+                "WizTheMc",
+                "bees & honey"
+            ],
+            "album": "Show Me Love",
+            "played_at": "31/03/2026 - 21:34:18"
         }
     ]
 }
