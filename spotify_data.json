@@ -1,15 +1,6 @@
 {
-    "total_plays": 4220,
+    "total_plays": 4221,
     "tracks": [
-        {
-            "song_name": "Cinematic",
-            "artists": [
-                "MIND",
-                "Clearest"
-            ],
-            "album": "First Contact",
-            "played_at": "25/03/2026 - 16:08:16"
-        },
         {
             "song_name": "Satellite Signal",
             "artists": [
@@ -1743,6 +1734,16 @@
             ],
             "album": "A/B",
             "played_at": "31/03/2026 - 10:00:05"
+        },
+        {
+            "song_name": "Talk of the Town",
+            "artists": [
+                "Fred again..",
+                "Sammy Virji",
+                "Reggie"
+            ],
+            "album": "Talk of the Town",
+            "played_at": "31/03/2026 - 19:13:00"
         }
     ]
 }
