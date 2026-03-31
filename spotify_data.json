@@ -1,58 +1,6 @@
 {
-    "total_plays": 4221,
+    "total_plays": 4227,
     "tracks": [
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "25/03/2026 - 16:05:46"
-        },
-        {
-            "song_name": "Voodoo",
-            "artists": [
-                "Gorgon City"
-            ],
-            "album": "Salvation",
-            "played_at": "25/03/2026 - 16:03:15"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "25/03/2026 - 15:59:45"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "25/03/2026 - 15:56:15"
-        },
-        {
-            "song_name": "Miss You So",
-            "artists": [
-                "Thandi",
-                "Ginger Mafia"
-            ],
-            "album": "Miss You So",
-            "played_at": "25/03/2026 - 15:53:45"
-        },
-        {
-            "song_name": "Lifeline",
-            "artists": [
-                "Punctual",
-                "Aiko"
-            ],
-            "album": "Lifeline",
-            "played_at": "25/03/2026 - 15:51:16"
-        },
         {
             "song_name": "Your Eyes",
             "artists": [
@@ -1744,6 +1692,65 @@
             ],
             "album": "Talk of the Town",
             "played_at": "31/03/2026 - 19:13:00"
+        },
+        {
+            "song_name": "This Town",
+            "artists": [
+                "Saco",
+                "Sparkle",
+                "Isabel Prada"
+            ],
+            "album": "This Town",
+            "played_at": "31/03/2026 - 20:59:24"
+        },
+        {
+            "song_name": "Talk of the Town",
+            "artists": [
+                "Fred again..",
+                "Sammy Virji",
+                "Reggie"
+            ],
+            "album": "Talk of the Town",
+            "played_at": "31/03/2026 - 20:56:17"
+        },
+        {
+            "song_name": "Chasing Paradise",
+            "artists": [
+                "Kygo",
+                "OneRepublic"
+            ],
+            "album": "Chasing Paradise",
+            "played_at": "31/03/2026 - 20:53:03"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Trinix",
+                "Moze"
+            ],
+            "album": "Replay",
+            "played_at": "31/03/2026 - 20:50:02"
+        },
+        {
+            "song_name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
+            "artists": [
+                "Labrinth"
+            ],
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "played_at": "31/03/2026 - 20:47:28"
+        },
+        {
+            "song_name": "Thank You (Not So Bad)",
+            "artists": [
+                "Dimitri Vegas & Like Mike",
+                "Tiësto",
+                "Dido",
+                "W&W",
+                "Dimitri Vegas",
+                "Like Mike"
+            ],
+            "album": "Thank You (Not So Bad)",
+            "played_at": "31/03/2026 - 20:45:56"
         }
     ]
 }
