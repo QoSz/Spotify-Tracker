@@ -1,15 +1,6 @@
 {
-    "total_plays": 4249,
+    "total_plays": 4250,
     "tracks": [
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "26/03/2026 - 15:29:29"
-        },
         {
             "song_name": "Hollow Ground",
             "artists": [
@@ -1755,6 +1746,14 @@
             ],
             "album": "LIVE.LOVE.A$AP",
             "played_at": "31/03/2026 - 22:08:28"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "31/03/2026 - 22:49:52"
         }
     ]
 }
