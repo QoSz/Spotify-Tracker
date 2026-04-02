@@ -1,14 +1,6 @@
 {
-    "total_plays": 4320,
+    "total_plays": 4321,
     "tracks": [
-        {
-            "song_name": "222",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "222",
-            "played_at": "27/03/2026 - 09:29:27"
-        },
         {
             "song_name": "Up To Something",
             "artists": [
@@ -1749,6 +1741,14 @@
             ],
             "album": "Upside Down",
             "played_at": "02/04/2026 - 12:03:18"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "02/04/2026 - 15:01:37"
         }
     ]
 }
