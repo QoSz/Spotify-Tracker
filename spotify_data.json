@@ -1,69 +1,6 @@
 {
-    "total_plays": 4286,
+    "total_plays": 4293,
     "tracks": [
-        {
-            "song_name": "I See You",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "I See You",
-            "played_at": "26/03/2026 - 16:35:30"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "26/03/2026 - 16:31:59"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "26/03/2026 - 17:30:29"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "26/03/2026 - 17:27:59"
-        },
-        {
-            "song_name": "Secrets",
-            "artists": [
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Secrets",
-            "played_at": "26/03/2026 - 17:24:29"
-        },
-        {
-            "song_name": "Sirens",
-            "artists": [
-                "Dallerium",
-                "FARLEY"
-            ],
-            "album": "Sirens",
-            "played_at": "26/03/2026 - 17:21:59"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "26/03/2026 - 17:18:30"
-        },
         {
             "song_name": "Touch Me",
             "artists": [
@@ -1751,6 +1688,63 @@
             ],
             "album": "Hold on Me",
             "played_at": "02/04/2026 - 10:02:46"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "02/04/2026 - 10:58:18"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "02/04/2026 - 10:55:48"
+        },
+        {
+            "song_name": "Yo No Lo Sé",
+            "artists": [
+                "ERIICE"
+            ],
+            "album": "Yo No Lo Sé",
+            "played_at": "02/04/2026 - 10:52:17"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "02/04/2026 - 10:49:48"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "02/04/2026 - 10:45:47"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "02/04/2026 - 10:43:17"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "02/04/2026 - 10:40:47"
         }
     ]
 }
