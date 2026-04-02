@@ -1,42 +1,6 @@
 {
-    "total_plays": 4261,
+    "total_plays": 4265,
     "tracks": [
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "26/03/2026 - 15:51:30"
-        },
-        {
-            "song_name": "Don't Worry About Tomorrow",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Don't Worry About Tomorrow",
-            "played_at": "26/03/2026 - 15:47:59"
-        },
-        {
-            "song_name": "Gravity",
-            "artists": [
-                "Joshwa",
-                "Lauren Nicole"
-            ],
-            "album": "Gravity",
-            "played_at": "26/03/2026 - 15:44:30"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "26/03/2026 - 15:40:59"
-        },
         {
             "song_name": "black tears",
             "artists": [
@@ -1750,6 +1714,41 @@
             ],
             "album": "Salvation",
             "played_at": "02/04/2026 - 08:32:54"
+        },
+        {
+            "song_name": "Miss You So",
+            "artists": [
+                "Thandi",
+                "Ginger Mafia"
+            ],
+            "album": "Miss You So",
+            "played_at": "02/04/2026 - 09:29:07"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "02/04/2026 - 09:26:36"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "02/04/2026 - 09:23:36"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "02/04/2026 - 09:22:08"
         }
     ]
 }
