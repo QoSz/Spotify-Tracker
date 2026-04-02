@@ -1,49 +1,6 @@
 {
-    "total_plays": 4309,
+    "total_plays": 4314,
     "tracks": [
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "26/03/2026 - 18:13:59"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "AVAION",
-                "PaulWetz",
-                "Nu Aspect",
-                "YUMA"
-            ],
-            "album": "Sleepless",
-            "played_at": "26/03/2026 - 18:11:00"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "26/03/2026 - 18:08:30"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "26/03/2026 - 18:05:00"
-        },
-        {
-            "song_name": "Losing My Way",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "26/03/2026 - 19:48:39"
-        },
         {
             "song_name": "sun",
             "artists": [
@@ -1747,6 +1704,50 @@
             ],
             "album": "Infinite Love",
             "played_at": "02/04/2026 - 11:01:18"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "02/04/2026 - 12:00:48"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "02/04/2026 - 11:57:47"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "02/04/2026 - 11:55:17"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "02/04/2026 - 11:52:54"
+        },
+        {
+            "song_name": "Where Nobody Knows",
+            "artists": [
+                "Hyzteria",
+                "Dakota"
+            ],
+            "album": "Where Nobody Knows",
+            "played_at": "02/04/2026 - 11:49:47"
         }
     ]
 }
