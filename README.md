@@ -4,19 +4,19 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**4,276** songs listened to
+**4,286** songs listened to
 
 - **943** unique artists
-- **1012** unique albums
-- **1256** unique songs
-- **36.6** songs per day (average)
+- **1013** unique albums
+- **1257** unique songs
+- **36.7** songs per day (average)
 
 ## Top Artists (All Time)
 
-1. Nu Aspect (143 plays)
+1. Nu Aspect (144 plays)
 2. Don Toliver (142 plays)
 3. Drake (135 plays)
-4. MIND (110 plays)
+4. MIND (111 plays)
 5. Astrality (109 plays)
 
 ## Listening Streak
