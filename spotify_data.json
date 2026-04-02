@@ -1,55 +1,6 @@
 {
-    "total_plays": 4314,
+    "total_plays": 4320,
     "tracks": [
-        {
-            "song_name": "sun",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "sun",
-            "played_at": "27/03/2026 - 08:27:56"
-        },
-        {
-            "song_name": "Whateverrrr",
-            "artists": [
-                "Spacey Jane"
-            ],
-            "album": "If That Makes Sense",
-            "played_at": "27/03/2026 - 08:24:26"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "27/03/2026 - 08:21:26"
-        },
-        {
-            "song_name": "Glide",
-            "artists": [
-                "NEIKED",
-                "Portugal. The Man"
-            ],
-            "album": "Glide",
-            "played_at": "27/03/2026 - 08:58:27"
-        },
-        {
-            "song_name": "Good Grief",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "(((((ultraSOUND)))))+",
-            "played_at": "27/03/2026 - 08:54:57"
-        },
-        {
-            "song_name": "Good Grief",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "(((((ultraSOUND)))))+",
-            "played_at": "27/03/2026 - 08:51:57"
-        },
         {
             "song_name": "222",
             "artists": [
@@ -1748,6 +1699,56 @@
             ],
             "album": "Where Nobody Knows",
             "played_at": "02/04/2026 - 11:49:47"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "02/04/2026 - 14:31:36"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "02/04/2026 - 14:27:36"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "02/04/2026 - 14:26:06"
+        },
+        {
+            "song_name": "Hear Me Calling",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "02/04/2026 - 14:23:40"
+        },
+        {
+            "song_name": "Erase Me - Main",
+            "artists": [
+                "Kid Cudi",
+                "Kanye West"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "02/04/2026 - 12:58:59"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "02/04/2026 - 12:03:18"
         }
     ]
 }
