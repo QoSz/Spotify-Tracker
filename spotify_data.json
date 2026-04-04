@@ -1,104 +1,6 @@
 {
-    "total_plays": 4329,
+    "total_plays": 4340,
     "tracks": [
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "27/03/2026 - 09:56:27"
-        },
-        {
-            "song_name": "Million Miles",
-            "artists": [
-                "Braaten",
-                "Le Boeuf"
-            ],
-            "album": "Million Miles",
-            "played_at": "27/03/2026 - 09:52:57"
-        },
-        {
-            "song_name": "Echo",
-            "artists": [
-                "RSCL",
-                "Repiet",
-                "Julia Kleijn"
-            ],
-            "album": "Echo",
-            "played_at": "27/03/2026 - 09:50:27"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Hell N Back (feat. Summer Walker)",
-            "played_at": "27/03/2026 - 09:47:56"
-        },
-        {
-            "song_name": "Fire Fire",
-            "artists": [
-                "Shimza",
-                "AR/CO",
-                "Kasango"
-            ],
-            "album": "Fire Fire",
-            "played_at": "27/03/2026 - 09:44:57"
-        },
-        {
-            "song_name": "Sun Goes Down",
-            "artists": [
-                "Sole Sole"
-            ],
-            "album": "Sun Goes Down",
-            "played_at": "27/03/2026 - 09:42:27"
-        },
-        {
-            "song_name": "Show Me Love",
-            "artists": [
-                "WizTheMc",
-                "bees & honey"
-            ],
-            "album": "Show Me Love",
-            "played_at": "27/03/2026 - 09:39:57"
-        },
-        {
-            "song_name": "WET T-SHIRT",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "WET T-SHIRT",
-            "played_at": "27/03/2026 - 09:33:57"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "27/03/2026 - 15:28:16"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "27/03/2026 - 15:25:16"
-        },
-        {
-            "song_name": "Waffle",
-            "artists": [
-                "Trinix",
-                "MEMPHIS BLOOD"
-            ],
-            "album": "Altitude",
-            "played_at": "27/03/2026 - 15:22:46"
-        },
         {
             "song_name": "5th Avenue",
             "artists": [
@@ -1753,6 +1655,98 @@
             ],
             "album": "Your Eyes",
             "played_at": "04/04/2026 - 13:42:03"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "04/04/2026 - 14:31:05"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "04/04/2026 - 14:28:46"
+        },
+        {
+            "song_name": "Falling into You",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "04/04/2026 - 14:26:13"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "04/04/2026 - 14:24:07"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "04/04/2026 - 14:21:14"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "04/04/2026 - 14:18:36"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "04/04/2026 - 14:16:32"
+        },
+        {
+            "song_name": "Deeper",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "04/04/2026 - 14:13:49"
+        },
+        {
+            "song_name": "fractured light",
+            "artists": [
+                "kalm"
+            ],
+            "album": "fractured light",
+            "played_at": "04/04/2026 - 14:10:24"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "04/04/2026 - 14:07:31"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "04/04/2026 - 14:05:26"
         }
     ]
 }
