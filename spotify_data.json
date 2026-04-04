@@ -1,105 +1,6 @@
 {
-    "total_plays": 4350,
+    "total_plays": 4361,
     "tracks": [
-        {
-            "song_name": "Tainted Love",
-            "artists": [
-                "Trinix",
-                "Queen D"
-            ],
-            "album": "Tainted Love",
-            "played_at": "27/03/2026 - 15:44:46"
-        },
-        {
-            "song_name": "All I Know (with Khalid)",
-            "artists": [
-                "Rudimental",
-                "Khalid"
-            ],
-            "album": "All I Know (with Khalid)",
-            "played_at": "27/03/2026 - 15:41:46"
-        },
-        {
-            "song_name": "A New Day",
-            "artists": [
-                "Urban Love",
-                "Tom Polo",
-                "Bellestar"
-            ],
-            "album": "A New Day",
-            "played_at": "27/03/2026 - 15:38:46"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "27/03/2026 - 15:36:47"
-        },
-        {
-            "song_name": "Be Your Friend",
-            "artists": [
-                "XYSM",
-                "EDGR"
-            ],
-            "album": "Be Your Friend",
-            "played_at": "27/03/2026 - 15:33:46"
-        },
-        {
-            "song_name": "Help Me Lose My Mind",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind",
-            "played_at": "27/03/2026 - 15:31:16"
-        },
-        {
-            "song_name": "DILEMMA (feat. Central Cee)",
-            "artists": [
-                "Nemzzz",
-                "Central Cee"
-            ],
-            "album": "RENT'S DUE (DELUXE)",
-            "played_at": "27/03/2026 - 16:30:45"
-        },
-        {
-            "song_name": "GUILT TRIPPIN (feat. Sexyy Red)",
-            "artists": [
-                "Central Cee",
-                "Sexyy Red"
-            ],
-            "album": "GUILT TRIPPIN (feat. Sexyy Red)",
-            "played_at": "27/03/2026 - 16:28:15"
-        },
-        {
-            "song_name": "TOO MUCH",
-            "artists": [
-                "The Kid LAROI",
-                "Jung Kook",
-                "Central Cee"
-            ],
-            "album": "TOO MUCH",
-            "played_at": "27/03/2026 - 16:25:45"
-        },
-        {
-            "song_name": "Truth In The Lies (feat. Lil Durk)",
-            "artists": [
-                "Central Cee",
-                "Lil Durk"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/03/2026 - 16:22:16"
-        },
-        {
-            "song_name": "Obsessed With You",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "23",
-            "played_at": "27/03/2026 - 16:19:46"
-        },
         {
             "song_name": "Did It First (with Central Cee)",
             "artists": [
@@ -1753,6 +1654,99 @@
             ],
             "album": "White Flag Down",
             "played_at": "04/04/2026 - 14:33:08"
+        },
+        {
+            "song_name": "Cinematic",
+            "artists": [
+                "MIND",
+                "Clearest"
+            ],
+            "album": "First Contact",
+            "played_at": "04/04/2026 - 15:30:52"
+        },
+        {
+            "song_name": "Rain",
+            "artists": [
+                "Astrality",
+                "MNRT",
+                "S:NE"
+            ],
+            "album": "Rain",
+            "played_at": "04/04/2026 - 15:28:36"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "04/04/2026 - 15:26:03"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "04/04/2026 - 15:23:34"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "04/04/2026 - 15:21:29"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "04/04/2026 - 15:19:13"
+        },
+        {
+            "song_name": "Velvet & Ice",
+            "artists": [
+                "Ferreck Dawn"
+            ],
+            "album": "Velvet & Ice",
+            "played_at": "04/04/2026 - 15:15:47"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "04/04/2026 - 15:12:37"
+        },
+        {
+            "song_name": "No One Knows",
+            "artists": [
+                "Tobtok",
+                "STO CULTR"
+            ],
+            "album": "No One Knows",
+            "played_at": "04/04/2026 - 15:09:42"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "04/04/2026 - 15:07:29"
+        },
+        {
+            "song_name": "Ride With Me",
+            "artists": [
+                "Zac Samuel"
+            ],
+            "album": "Ride With Me",
+            "played_at": "04/04/2026 - 15:04:30"
         }
     ]
 }
