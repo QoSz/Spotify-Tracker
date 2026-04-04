@@ -1,89 +1,6 @@
 {
-    "total_plays": 4340,
+    "total_plays": 4350,
     "tracks": [
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "27/03/2026 - 15:19:46"
-        },
-        {
-            "song_name": "WHAT YOU WANT",
-            "artists": [
-                "Switch Disco"
-            ],
-            "album": "VACANCY EP",
-            "played_at": "27/03/2026 - 15:16:46"
-        },
-        {
-            "song_name": "WHAT YOU WANT",
-            "artists": [
-                "Switch Disco"
-            ],
-            "album": "VACANCY EP",
-            "played_at": "27/03/2026 - 15:14:16"
-        },
-        {
-            "song_name": "CRG (feat. Dave)",
-            "artists": [
-                "Central Cee",
-                "Dave"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/03/2026 - 16:02:15"
-        },
-        {
-            "song_name": "ICEMAN FREESTYLE",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "ICEMAN FREESTYLE",
-            "played_at": "27/03/2026 - 15:59:16"
-        },
-        {
-            "song_name": "Which One (feat. Central Cee)",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "Which One",
-            "played_at": "27/03/2026 - 15:56:15"
-        },
-        {
-            "song_name": "Doja",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "Doja",
-            "played_at": "27/03/2026 - 15:53:15"
-        },
-        {
-            "song_name": "Sprinter",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Sprinter",
-            "played_at": "27/03/2026 - 15:52:15"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "27/03/2026 - 15:47:51"
-        },
-        {
-            "song_name": "Golden Sunset",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Golden Sunset",
-            "played_at": "27/03/2026 - 15:46:46"
-        },
         {
             "song_name": "Tainted Love",
             "artists": [
@@ -1747,6 +1664,95 @@
             ],
             "album": "Out of My Head",
             "played_at": "04/04/2026 - 14:05:26"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "04/04/2026 - 15:01:27"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "04/04/2026 - 14:58:17"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "04/04/2026 - 14:54:48"
+        },
+        {
+            "song_name": "Rhythm Inside",
+            "artists": [
+                "Jonasu",
+                "Rory Hope"
+            ],
+            "album": "Rhythm Inside",
+            "played_at": "04/04/2026 - 14:52:01"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "04/04/2026 - 14:49:18"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "04/04/2026 - 14:46:52"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "04/04/2026 - 14:43:47"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "04/04/2026 - 14:40:44"
+        },
+        {
+            "song_name": "Miss You",
+            "artists": [
+                "Nu Aspect",
+                "Jamis",
+                "Poppy Baskcomb"
+            ],
+            "album": "Miss You",
+            "played_at": "04/04/2026 - 14:37:45"
+        },
+        {
+            "song_name": "White Flag Down",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "White Flag Down",
+            "played_at": "04/04/2026 - 14:33:08"
         }
     ]
 }
