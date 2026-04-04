@@ -1,22 +1,6 @@
 {
-    "total_plays": 4327,
+    "total_plays": 4329,
     "tracks": [
-        {
-            "song_name": "Spit Of You",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "27/03/2026 - 09:02:57"
-        },
-        {
-            "song_name": "Stargazing",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "Stargazing",
-            "played_at": "27/03/2026 - 09:58:56"
-        },
         {
             "song_name": "Chills (LA Hills)",
             "artists": [
@@ -1752,6 +1736,23 @@
             ],
             "album": "Fix Me",
             "played_at": "04/04/2026 - 08:56:43"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "04/04/2026 - 13:47:31"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "04/04/2026 - 13:42:03"
         }
     ]
 }
