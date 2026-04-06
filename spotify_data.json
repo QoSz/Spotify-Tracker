@@ -1,15 +1,6 @@
 {
-    "total_plays": 4361,
+    "total_plays": 4362,
     "tracks": [
-        {
-            "song_name": "Did It First (with Central Cee)",
-            "artists": [
-                "Ice Spice",
-                "Central Cee"
-            ],
-            "album": "Y2K!",
-            "played_at": "27/03/2026 - 16:17:45"
-        },
         {
             "song_name": "Booga",
             "artists": [
@@ -1747,6 +1738,14 @@
             ],
             "album": "Ride With Me",
             "played_at": "04/04/2026 - 15:04:30"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "06/04/2026 - 03:43:18"
         }
     ]
 }
