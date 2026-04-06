@@ -1,32 +1,6 @@
 {
-    "total_plays": 4362,
+    "total_plays": 4365,
     "tracks": [
-        {
-            "song_name": "Booga",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "Booga",
-            "played_at": "27/03/2026 - 16:15:45"
-        },
-        {
-            "song_name": "BAND4BAND (feat. Lil Baby)",
-            "artists": [
-                "Central Cee",
-                "Lil Baby"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/03/2026 - 16:14:19"
-        },
-        {
-            "song_name": "Trojan Horse",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Split Decision",
-            "played_at": "27/03/2026 - 16:11:46"
-        },
         {
             "song_name": "SLAUGHTER FT J HUS",
             "artists": [
@@ -1746,6 +1720,34 @@
             ],
             "album": "Your Eyes",
             "played_at": "06/04/2026 - 03:43:18"
+        },
+        {
+            "song_name": "Secrets",
+            "artists": [
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Secrets",
+            "played_at": "06/04/2026 - 13:04:20"
+        },
+        {
+            "song_name": "Sleepless",
+            "artists": [
+                "AVAION",
+                "PaulWetz",
+                "Nu Aspect",
+                "YUMA"
+            ],
+            "album": "Sleepless",
+            "played_at": "06/04/2026 - 12:39:53"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "06/04/2026 - 10:54:02"
         }
     ]
 }
