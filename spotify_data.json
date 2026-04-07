@@ -1,15 +1,6 @@
 {
-    "total_plays": 4369,
+    "total_plays": 4370,
     "tracks": [
-        {
-            "song_name": "GBP (feat. 21 Savage)",
-            "artists": [
-                "Central Cee",
-                "21 Savage"
-            ],
-            "album": "CAN'T RUSH GREATNESS",
-            "played_at": "27/03/2026 - 16:33:15"
-        },
         {
             "song_name": "H.Y.B. (feat. Bas & Central Cee)",
             "artists": [
@@ -1750,6 +1741,14 @@
             ],
             "album": "Deep of You",
             "played_at": "07/04/2026 - 09:38:27"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "07/04/2026 - 13:19:53"
         }
     ]
 }
