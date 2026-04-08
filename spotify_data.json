@@ -1,16 +1,6 @@
 {
-    "total_plays": 4370,
+    "total_plays": 4371,
     "tracks": [
-        {
-            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
-            "artists": [
-                "J. Cole",
-                "Bas",
-                "Central Cee"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "27/03/2026 - 17:30:34"
-        },
         {
             "song_name": "Gen Z Luv",
             "artists": [
@@ -1749,6 +1739,14 @@
             ],
             "album": "Never Change",
             "played_at": "07/04/2026 - 13:19:53"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "08/04/2026 - 06:49:16"
         }
     ]
 }
