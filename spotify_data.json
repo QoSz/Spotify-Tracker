@@ -1,17 +1,6 @@
 {
-    "total_plays": 4375,
+    "total_plays": 4376,
     "tracks": [
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "28/03/2026 - 15:18:20"
-        },
         {
             "song_name": "Restart My Heart",
             "artists": [
@@ -1746,6 +1735,16 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "08/04/2026 - 14:10:23"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "08/04/2026 - 14:44:46"
         }
     ]
 }
