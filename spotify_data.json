@@ -1,16 +1,6 @@
 {
-    "total_plays": 4374,
+    "total_plays": 4375,
     "tracks": [
-        {
-            "song_name": "H.Y.B. (feat. Bas & Central Cee)",
-            "artists": [
-                "J. Cole",
-                "Bas",
-                "Central Cee"
-            ],
-            "album": "Might Delete Later",
-            "played_at": "27/03/2026 - 20:38:39"
-        },
         {
             "song_name": "Life with You",
             "artists": [
@@ -1748,6 +1738,14 @@
             ],
             "album": "cloud chaser",
             "played_at": "08/04/2026 - 12:06:22"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "08/04/2026 - 14:10:23"
         }
     ]
 }
