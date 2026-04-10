@@ -1,84 +1,6 @@
 {
-    "total_plays": 4430,
+    "total_plays": 4439,
     "tracks": [
-        {
-            "song_name": "Sunbeams",
-            "artists": [
-                "NSH"
-            ],
-            "album": "Sunbeams",
-            "played_at": "31/03/2026 - 21:23:12"
-        },
-        {
-            "song_name": "Glide",
-            "artists": [
-                "NEIKED",
-                "Portugal. The Man"
-            ],
-            "album": "Glide",
-            "played_at": "31/03/2026 - 21:20:45"
-        },
-        {
-            "song_name": "5th Avenue",
-            "artists": [
-                "Trinix"
-            ],
-            "album": "5th Avenue",
-            "played_at": "31/03/2026 - 21:17:40"
-        },
-        {
-            "song_name": "1+1=1",
-            "artists": [
-                "XYSM",
-                "EDGR"
-            ],
-            "album": "1+1=1",
-            "played_at": "31/03/2026 - 21:14:34"
-        },
-        {
-            "song_name": "Fire Fire",
-            "artists": [
-                "Shimza",
-                "AR/CO",
-                "Kasango"
-            ],
-            "album": "Fire Fire",
-            "played_at": "31/03/2026 - 21:11:01"
-        },
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "31/03/2026 - 21:08:30"
-        },
-        {
-            "song_name": "Maze",
-            "artists": [
-                "Punctual",
-                "PHIA"
-            ],
-            "album": "Maze",
-            "played_at": "31/03/2026 - 21:05:26"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "31/03/2026 - 21:02:22"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "31/03/2026 - 21:59:58"
-        },
         {
             "song_name": "Raindance (feat. Tems)",
             "artists": [
@@ -1720,6 +1642,82 @@
             ],
             "album": "We Run",
             "played_at": "10/04/2026 - 14:11:13"
+        },
+        {
+            "song_name": "Restart My Heart",
+            "artists": [
+                "Astrality",
+                "Aiko"
+            ],
+            "album": "Restart My Heart",
+            "played_at": "10/04/2026 - 14:59:12"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "10/04/2026 - 14:56:12"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "10/04/2026 - 14:53:12"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "10/04/2026 - 14:50:42"
+        },
+        {
+            "song_name": "CARMEN - 8181 Enzo Remix",
+            "artists": [
+                "Airmow",
+                "Reiyo The Giant",
+                "Enzo"
+            ],
+            "album": "CARMEN (8181 Enzo Remix)",
+            "played_at": "10/04/2026 - 14:47:13"
+        },
+        {
+            "song_name": "Cherry Blossom",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Cherry Blossom",
+            "played_at": "10/04/2026 - 14:43:42"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "10/04/2026 - 14:41:12"
+        },
+        {
+            "song_name": "Mother",
+            "artists": [
+                "Revelle27"
+            ],
+            "album": "Mother",
+            "played_at": "10/04/2026 - 14:38:42"
+        },
+        {
+            "song_name": "Haunt You",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "10/04/2026 - 14:36:18"
         }
     ]
 }
