@@ -1,15 +1,6 @@
 {
-    "total_plays": 4409,
+    "total_plays": 4410,
     "tracks": [
-        {
-            "song_name": "Take Me Home",
-            "artists": [
-                "Saco",
-                "Sebastiën"
-            ],
-            "album": "Take Me Home",
-            "played_at": "30/03/2026 - 13:33:43"
-        },
         {
             "song_name": "Emorio",
             "artists": [
@@ -1746,6 +1737,15 @@
             ],
             "album": "No Man's Land",
             "played_at": "10/04/2026 - 08:48:27"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "10/04/2026 - 13:02:34"
         }
     ]
 }
