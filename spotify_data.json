@@ -1,94 +1,6 @@
 {
-    "total_plays": 4421,
+    "total_plays": 4430,
     "tracks": [
-        {
-            "song_name": "This Town",
-            "artists": [
-                "Saco",
-                "Sparkle",
-                "Isabel Prada"
-            ],
-            "album": "This Town",
-            "played_at": "31/03/2026 - 20:59:24"
-        },
-        {
-            "song_name": "Talk of the Town",
-            "artists": [
-                "Fred again..",
-                "Sammy Virji",
-                "Reggie"
-            ],
-            "album": "Talk of the Town",
-            "played_at": "31/03/2026 - 20:56:17"
-        },
-        {
-            "song_name": "Chasing Paradise",
-            "artists": [
-                "Kygo",
-                "OneRepublic"
-            ],
-            "album": "Chasing Paradise",
-            "played_at": "31/03/2026 - 20:53:03"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Trinix",
-                "Moze"
-            ],
-            "album": "Replay",
-            "played_at": "31/03/2026 - 20:50:02"
-        },
-        {
-            "song_name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
-            "artists": [
-                "Labrinth"
-            ],
-            "album": "Euphoria (Original Score from the HBO Series)",
-            "played_at": "31/03/2026 - 20:47:28"
-        },
-        {
-            "song_name": "Thank You (Not So Bad)",
-            "artists": [
-                "Dimitri Vegas & Like Mike",
-                "Tiësto",
-                "Dido",
-                "W&W",
-                "Dimitri Vegas",
-                "Like Mike"
-            ],
-            "album": "Thank You (Not So Bad)",
-            "played_at": "31/03/2026 - 20:45:56"
-        },
-        {
-            "song_name": "Lost",
-            "artists": [
-                "RSCL",
-                "it's murph",
-                "Twin Diplomacy",
-                "Jack August"
-            ],
-            "album": "Lost",
-            "played_at": "31/03/2026 - 21:31:21"
-        },
-        {
-            "song_name": "Good Life (feat. Elderbrook)",
-            "artists": [
-                "goodlife",
-                "Elderbrook"
-            ],
-            "album": "Good Life (feat. Elderbrook)",
-            "played_at": "31/03/2026 - 21:28:47"
-        },
-        {
-            "song_name": "My Mind",
-            "artists": [
-                "Saco",
-                "Maurits Beelen"
-            ],
-            "album": "My Mind",
-            "played_at": "31/03/2026 - 21:25:59"
-        },
         {
             "song_name": "Sunbeams",
             "artists": [
@@ -1731,6 +1643,83 @@
             ],
             "album": "Your Eyes",
             "played_at": "10/04/2026 - 13:05:02"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "10/04/2026 - 14:31:12"
+        },
+        {
+            "song_name": "Hollow Ground",
+            "artists": [
+                "NOTSOBAD",
+                "Able Faces"
+            ],
+            "album": "Hollow Ground",
+            "played_at": "10/04/2026 - 14:28:12"
+        },
+        {
+            "song_name": "White Flag Down",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "White Flag Down",
+            "played_at": "10/04/2026 - 14:25:42"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "10/04/2026 - 14:23:42"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "10/04/2026 - 14:20:43"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "10/04/2026 - 14:18:48"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "10/04/2026 - 14:16:42"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "10/04/2026 - 14:13:42"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "10/04/2026 - 14:11:13"
         }
     ]
 }
