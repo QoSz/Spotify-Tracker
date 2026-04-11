@@ -1,30 +1,6 @@
 {
-    "total_plays": 4489,
+    "total_plays": 4492,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "02/04/2026 - 10:49:48"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "02/04/2026 - 10:45:47"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "02/04/2026 - 10:43:17"
-        },
         {
             "song_name": "I Drive",
             "artists": [
@@ -1718,6 +1694,30 @@
             ],
             "album": "Reason",
             "played_at": "10/04/2026 - 15:12:12"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "11/04/2026 - 12:13:08"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "11/04/2026 - 12:09:07"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "11/04/2026 - 11:50:06"
         }
     ]
 }
