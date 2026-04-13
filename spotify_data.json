@@ -1,15 +1,6 @@
 {
-    "total_plays": 4530,
+    "total_plays": 4531,
     "tracks": [
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "04/04/2026 - 14:28:46"
-        },
         {
             "song_name": "Falling into You",
             "artists": [
@@ -1709,6 +1700,15 @@
             ],
             "album": "OCTANE",
             "played_at": "13/04/2026 - 13:54:17"
+        },
+        {
+            "song_name": "Sprinter",
+            "artists": [
+                "Dave",
+                "Central Cee"
+            ],
+            "album": "Sprinter",
+            "played_at": "13/04/2026 - 18:48:55"
         }
     ]
 }
