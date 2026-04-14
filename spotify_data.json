@@ -1,64 +1,6 @@
 {
-    "total_plays": 4531,
+    "total_plays": 4538,
     "tracks": [
-        {
-            "song_name": "Falling into You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "04/04/2026 - 14:26:13"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "04/04/2026 - 14:24:07"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "04/04/2026 - 14:21:14"
-        },
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "04/04/2026 - 14:18:36"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "04/04/2026 - 14:16:32"
-        },
-        {
-            "song_name": "Deeper",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "04/04/2026 - 14:13:49"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "04/04/2026 - 14:10:24"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1709,6 +1651,66 @@
             ],
             "album": "Sprinter",
             "played_at": "13/04/2026 - 18:48:55"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "14/04/2026 - 08:29:51"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "14/04/2026 - 08:26:51"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "14/04/2026 - 08:24:20"
+        },
+        {
+            "song_name": "White Flag Down",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "White Flag Down",
+            "played_at": "14/04/2026 - 08:21:21"
+        },
+        {
+            "song_name": "Sleepless",
+            "artists": [
+                "AVAION",
+                "PaulWetz",
+                "Nu Aspect",
+                "YUMA"
+            ],
+            "album": "Sleepless",
+            "played_at": "14/04/2026 - 08:19:21"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "14/04/2026 - 08:16:37"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "14/04/2026 - 08:16:21"
         }
     ]
 }
