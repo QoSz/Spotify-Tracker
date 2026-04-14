@@ -1,24 +1,6 @@
 {
-    "total_plays": 4587,
+    "total_plays": 4589,
     "tracks": [
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "09/04/2026 - 15:27:58"
-        },
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "09/04/2026 - 15:23:58"
-        },
         {
             "song_name": "Losing You",
             "artists": [
@@ -1705,6 +1687,22 @@
             ],
             "album": "Out of My Head",
             "played_at": "14/04/2026 - 09:32:55"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "14/04/2026 - 11:59:01"
+        },
+        {
+            "song_name": "White Flag Down",
+            "artists": [
+                "Sam Welch"
+            ],
+            "album": "White Flag Down",
+            "played_at": "14/04/2026 - 11:55:31"
         }
     ]
 }
