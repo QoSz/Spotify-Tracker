@@ -1,14 +1,6 @@
 {
-    "total_plays": 4639,
+    "total_plays": 4640,
     "tracks": [
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "10/04/2026 - 18:31:20"
-        },
         {
             "song_name": "Mess Around (Baby Baby)",
             "artists": [
@@ -1710,6 +1702,15 @@
             ],
             "album": "Remember",
             "played_at": "15/04/2026 - 14:32:50"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "15/04/2026 - 16:27:13"
         }
     ]
 }
