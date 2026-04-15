@@ -1,151 +1,6 @@
 {
-    "total_plays": 4622,
+    "total_plays": 4639,
     "tracks": [
-        {
-            "song_name": "Hollow Ground",
-            "artists": [
-                "NOTSOBAD",
-                "Able Faces"
-            ],
-            "album": "Hollow Ground",
-            "played_at": "10/04/2026 - 14:28:12"
-        },
-        {
-            "song_name": "White Flag Down",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "White Flag Down",
-            "played_at": "10/04/2026 - 14:25:42"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "10/04/2026 - 14:23:42"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "PALASTIC",
-                "ALLKNIGHT"
-            ],
-            "album": "Heaven",
-            "played_at": "10/04/2026 - 14:20:43"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/04/2026 - 14:18:48"
-        },
-        {
-            "song_name": "Run",
-            "artists": [
-                "ATB",
-                "Nu Aspect",
-                "Orem"
-            ],
-            "album": "Run",
-            "played_at": "10/04/2026 - 14:16:42"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "10/04/2026 - 14:13:42"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "10/04/2026 - 14:11:13"
-        },
-        {
-            "song_name": "Restart My Heart",
-            "artists": [
-                "Astrality",
-                "Aiko"
-            ],
-            "album": "Restart My Heart",
-            "played_at": "10/04/2026 - 14:59:12"
-        },
-        {
-            "song_name": "Bloom Again",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Bloom Again",
-            "played_at": "10/04/2026 - 14:56:12"
-        },
-        {
-            "song_name": "Deep of You",
-            "artists": [
-                "Astrality",
-                "Marlo Rex"
-            ],
-            "album": "Deep of You",
-            "played_at": "10/04/2026 - 14:53:12"
-        },
-        {
-            "song_name": "Don't Worry About Tomorrow",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Don't Worry About Tomorrow",
-            "played_at": "10/04/2026 - 14:50:42"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "10/04/2026 - 14:47:13"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "10/04/2026 - 14:43:42"
-        },
-        {
-            "song_name": "Falling for the Feeling",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "10/04/2026 - 14:41:12"
-        },
-        {
-            "song_name": "Mother",
-            "artists": [
-                "Revelle27"
-            ],
-            "album": "Mother",
-            "played_at": "10/04/2026 - 14:38:42"
-        },
-        {
-            "song_name": "Haunt You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "10/04/2026 - 14:36:18"
-        },
         {
             "song_name": "Satellite Signal",
             "artists": [
@@ -1707,6 +1562,154 @@
             ],
             "album": "Fix Me",
             "played_at": "15/04/2026 - 14:20:51"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "15/04/2026 - 15:19:55"
+        },
+        {
+            "song_name": "Run",
+            "artists": [
+                "ATB",
+                "Nu Aspect",
+                "Orem"
+            ],
+            "album": "Run",
+            "played_at": "15/04/2026 - 15:16:50"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "15/04/2026 - 15:13:55"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "15/04/2026 - 15:11:06"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "15/04/2026 - 15:09:39"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "15/04/2026 - 15:07:37"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "15/04/2026 - 15:05:11"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "15/04/2026 - 14:59:20"
+        },
+        {
+            "song_name": "CAN'T FIND YOU",
+            "artists": [
+                "AVAION",
+                "oskar med k"
+            ],
+            "album": "TO MAKE PEOPLE HAPPY",
+            "played_at": "15/04/2026 - 14:56:26"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "15/04/2026 - 14:53:50"
+        },
+        {
+            "song_name": "Falling into You",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "15/04/2026 - 14:48:51"
+        },
+        {
+            "song_name": "Restart My Heart",
+            "artists": [
+                "Astrality",
+                "Aiko"
+            ],
+            "album": "Restart My Heart",
+            "played_at": "15/04/2026 - 14:46:26"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "15/04/2026 - 14:43:50"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "15/04/2026 - 14:40:50"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "15/04/2026 - 14:38:20"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "15/04/2026 - 14:35:26"
+        },
+        {
+            "song_name": "Remember",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Remember",
+            "played_at": "15/04/2026 - 14:32:50"
         }
     ]
 }
