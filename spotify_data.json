@@ -1,39 +1,6 @@
 {
-    "total_plays": 4618,
+    "total_plays": 4622,
     "tracks": [
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "10/04/2026 - 13:10:01"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/04/2026 - 13:06:32"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "10/04/2026 - 13:05:02"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "10/04/2026 - 14:31:12"
-        },
         {
             "song_name": "Hollow Ground",
             "artists": [
@@ -1705,6 +1672,41 @@
             ],
             "album": "Fix Me",
             "played_at": "14/04/2026 - 19:15:46"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "15/04/2026 - 14:29:20"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "15/04/2026 - 14:26:50"
+        },
+        {
+            "song_name": "Illuminate",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "15/04/2026 - 14:23:51"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "15/04/2026 - 14:20:51"
         }
     ]
 }
