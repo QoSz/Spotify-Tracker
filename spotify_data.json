@@ -1,46 +1,6 @@
 {
-    "total_plays": 4652,
+    "total_plays": 4657,
     "tracks": [
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "10/04/2026 - 17:00:42"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "10/04/2026 - 16:57:42"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "10/04/2026 - 16:55:13"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "10/04/2026 - 16:52:12"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "10/04/2026 - 16:49:42"
-        },
         {
             "song_name": "Lucid Dreams",
             "artists": [
@@ -1710,6 +1670,48 @@
             ],
             "album": "AWGAZI",
             "played_at": "17/04/2026 - 13:45:30"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "17/04/2026 - 14:14:31"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "17/04/2026 - 14:12:00"
+        },
+        {
+            "song_name": "fractured light",
+            "artists": [
+                "kalm"
+            ],
+            "album": "fractured light",
+            "played_at": "17/04/2026 - 14:09:01"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "17/04/2026 - 14:06:31"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "17/04/2026 - 14:04:08"
         }
     ]
 }
