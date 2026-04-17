@@ -1,60 +1,6 @@
 {
-    "total_plays": 4646,
+    "total_plays": 4652,
     "tracks": [
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "10/04/2026 - 17:17:12"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "AVAION",
-                "PaulWetz",
-                "Nu Aspect",
-                "YUMA"
-            ],
-            "album": "Sleepless",
-            "played_at": "10/04/2026 - 17:14:12"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "10/04/2026 - 17:11:12"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "10/04/2026 - 17:08:42"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "10/04/2026 - 17:06:13"
-        },
-        {
-            "song_name": "Surrender",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Surrender",
-            "played_at": "10/04/2026 - 17:03:42"
-        },
         {
             "song_name": "Tether",
             "artists": [
@@ -1711,6 +1657,59 @@
             ],
             "album": "Clocks",
             "played_at": "15/04/2026 - 22:05:30"
+        },
+        {
+            "song_name": "Surrender",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Surrender",
+            "played_at": "17/04/2026 - 14:00:30"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "17/04/2026 - 13:57:01"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "17/04/2026 - 13:54:00"
+        },
+        {
+            "song_name": "Losing My Way",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "17/04/2026 - 13:51:31"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "17/04/2026 - 13:48:30"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "17/04/2026 - 13:45:30"
         }
     ]
 }
