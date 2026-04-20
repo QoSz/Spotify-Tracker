@@ -1,47 +1,6 @@
 {
-    "total_plays": 4687,
+    "total_plays": 4692,
     "tracks": [
-        {
-            "song_name": "Over The Edge",
-            "artists": [
-                "Nu Aspect",
-                "Poppy Baskcomb"
-            ],
-            "album": "Over The Edge",
-            "played_at": "10/04/2026 - 15:16:12"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "10/04/2026 - 15:12:12"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "11/04/2026 - 12:13:08"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "11/04/2026 - 12:09:07"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "11/04/2026 - 11:50:06"
-        },
         {
             "song_name": "Haunt You",
             "artists": [
@@ -1717,6 +1676,47 @@
             ],
             "album": "under current",
             "played_at": "18/04/2026 - 09:01:38"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "20/04/2026 - 12:23:23"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "20/04/2026 - 12:19:53"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "20/04/2026 - 12:17:53"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "20/04/2026 - 12:15:29"
+        },
+        {
+            "song_name": "Clocks",
+            "artists": [
+                "Daydream Affiliate",
+                "Reiny"
+            ],
+            "album": "Clocks",
+            "played_at": "20/04/2026 - 11:59:54"
         }
     ]
 }
