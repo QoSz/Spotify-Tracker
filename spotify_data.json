@@ -1,14 +1,6 @@
 {
-    "total_plays": 4736,
+    "total_plays": 4737,
     "tracks": [
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "14/04/2026 - 08:16:37"
-        },
         {
             "song_name": "99 Eyes",
             "artists": [
@@ -1720,6 +1712,16 @@
             ],
             "album": "You Broke Me",
             "played_at": "22/04/2026 - 09:32:40"
+        },
+        {
+            "song_name": "One of Them",
+            "artists": [
+                "DJ Khaled",
+                "Future",
+                "Lil Baby"
+            ],
+            "album": "One of Them",
+            "played_at": "22/04/2026 - 12:37:50"
         }
     ]
 }
