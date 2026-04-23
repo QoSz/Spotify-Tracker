@@ -1,15 +1,6 @@
 {
-    "total_plays": 4853,
+    "total_plays": 4854,
     "tracks": [
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "17/04/2026 - 14:12:00"
-        },
         {
             "song_name": "fractured light",
             "artists": [
@@ -1724,6 +1715,14 @@
             ],
             "album": "Dreams",
             "played_at": "23/04/2026 - 19:24:05"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "23/04/2026 - 20:45:15"
         }
     ]
 }
