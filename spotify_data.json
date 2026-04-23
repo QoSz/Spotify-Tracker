@@ -1,82 +1,6 @@
 {
-    "total_plays": 4803,
+    "total_plays": 4812,
     "tracks": [
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "14/04/2026 - 13:40:41"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "14/04/2026 - 13:38:11"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "14/04/2026 - 13:35:11"
-        },
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "14/04/2026 - 13:32:40"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "14/04/2026 - 13:29:40"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "14/04/2026 - 13:25:40"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Push It",
-            "played_at": "14/04/2026 - 13:23:11"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "14/04/2026 - 13:21:00"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "14/04/2026 - 13:20:41"
-        },
         {
             "song_name": "Playback",
             "artists": [
@@ -1727,6 +1651,79 @@
             ],
             "album": "It Will Rain",
             "played_at": "23/04/2026 - 14:35:08"
+        },
+        {
+            "song_name": "Hold Somebody",
+            "artists": [
+                "Téo Amo"
+            ],
+            "album": "Hold Somebody",
+            "played_at": "23/04/2026 - 15:28:39"
+        },
+        {
+            "song_name": "Baby Steps",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "The Art of Loving",
+            "played_at": "23/04/2026 - 15:26:09"
+        },
+        {
+            "song_name": "Spit Of You",
+            "artists": [
+                "Sam Fender"
+            ],
+            "album": "Seventeen Going Under (Deluxe)",
+            "played_at": "23/04/2026 - 15:23:39"
+        },
+        {
+            "song_name": "Walking Away",
+            "artists": [
+                "Romario"
+            ],
+            "album": "Walking Away",
+            "played_at": "23/04/2026 - 15:19:09"
+        },
+        {
+            "song_name": "Ndoto",
+            "artists": [
+                "chatta",
+                "chine"
+            ],
+            "album": "Ndoto",
+            "played_at": "23/04/2026 - 15:15:39"
+        },
+        {
+            "song_name": "Acha Nipite",
+            "artists": [
+                "Asagwile"
+            ],
+            "album": "Acha Nipite",
+            "played_at": "23/04/2026 - 15:14:08"
+        },
+        {
+            "song_name": "Zanzibar",
+            "artists": [
+                "Blaq Falconz"
+            ],
+            "album": "Zanzibar",
+            "played_at": "23/04/2026 - 15:09:39"
+        },
+        {
+            "song_name": "LEND ME",
+            "artists": [
+                "Azu"
+            ],
+            "album": "LEND ME",
+            "played_at": "23/04/2026 - 15:06:08"
+        },
+        {
+            "song_name": "Indecision",
+            "artists": [
+                "Sampha"
+            ],
+            "album": "Dual",
+            "played_at": "23/04/2026 - 15:03:38"
         }
     ]
 }
