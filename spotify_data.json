@@ -1,99 +1,6 @@
 {
-    "total_plays": 4792,
+    "total_plays": 4803,
     "tracks": [
-        {
-            "song_name": "In the Jungle",
-            "artists": [
-                "Belters Only",
-                "Karen Harding"
-            ],
-            "album": "In the Jungle",
-            "played_at": "14/04/2026 - 14:21:57"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "14/04/2026 - 14:11:40"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "14/04/2026 - 14:08:40"
-        },
-        {
-            "song_name": "No Man's Land",
-            "artists": [
-                "CAKES",
-                "Izzy Bizu"
-            ],
-            "album": "No Man's Land",
-            "played_at": "14/04/2026 - 14:05:40"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "14/04/2026 - 14:03:53"
-        },
-        {
-            "song_name": "Saturday Morning",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Saturday Morning",
-            "played_at": "14/04/2026 - 13:58:40"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "14/04/2026 - 13:56:10"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "14/04/2026 - 13:52:40"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "14/04/2026 - 13:49:10"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "14/04/2026 - 13:46:40"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "14/04/2026 - 13:43:40"
-        },
         {
             "song_name": "say it plain",
             "artists": [
@@ -1725,6 +1632,101 @@
             ],
             "album": "Believe in Me",
             "played_at": "23/04/2026 - 14:03:11"
+        },
+        {
+            "song_name": "Hurt You",
+            "artists": [
+                "The Weeknd",
+                "Gesaffelstein"
+            ],
+            "album": "My Dear Melancholy,",
+            "played_at": "23/04/2026 - 14:59:39"
+        },
+        {
+            "song_name": "Hear Me Calling",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Death Race For Love (Bonus Track Version)",
+            "played_at": "23/04/2026 - 14:56:38"
+        },
+        {
+            "song_name": "Black Out Days - Future Islands Remix (Slowed)",
+            "artists": [
+                "Phantogram",
+                "xxtristanxo",
+                "Slowed Radio",
+                "Future Islands"
+            ],
+            "album": "Black Out Days [Future Islands Remix (Slowed)]",
+            "played_at": "23/04/2026 - 14:53:38"
+        },
+        {
+            "song_name": "I've Seen It",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "The Art of Loving",
+            "played_at": "23/04/2026 - 14:50:38"
+        },
+        {
+            "song_name": "Say It With Your Eyes - Remix",
+            "artists": [
+                "Eyelar",
+                "Nuxe",
+                "Drex Carter"
+            ],
+            "album": "Say It With Your Eyes (Remix)",
+            "played_at": "23/04/2026 - 14:48:08"
+        },
+        {
+            "song_name": "My Lil' Baby",
+            "artists": [
+                "Rye Balla"
+            ],
+            "album": "My Lil' Baby",
+            "played_at": "23/04/2026 - 14:46:08"
+        },
+        {
+            "song_name": "If you say yes",
+            "artists": [
+                "Coldsteeze"
+            ],
+            "album": "If you say yes",
+            "played_at": "23/04/2026 - 14:44:08"
+        },
+        {
+            "song_name": "Young & Alive",
+            "artists": [
+                "Bazzi"
+            ],
+            "album": "Infinite Dream",
+            "played_at": "23/04/2026 - 14:42:08"
+        },
+        {
+            "song_name": "arcade",
+            "artists": [
+                "omgkirby"
+            ],
+            "album": "arcade",
+            "played_at": "23/04/2026 - 14:40:09"
+        },
+        {
+            "song_name": "Kiss Me Thru The Phone",
+            "artists": [
+                "Soulja Boy",
+                "Sammie"
+            ],
+            "album": "iSouljaBoyTellem",
+            "played_at": "23/04/2026 - 14:38:09"
+        },
+        {
+            "song_name": "It Will Rain",
+            "artists": [
+                "Bruno Mars"
+            ],
+            "album": "It Will Rain",
+            "played_at": "23/04/2026 - 14:35:08"
         }
     ]
 }
