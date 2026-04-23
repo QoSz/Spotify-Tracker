@@ -1,93 +1,6 @@
 {
-    "total_plays": 4771,
+    "total_plays": 4781,
     "tracks": [
-        {
-            "song_name": "No One Knows",
-            "artists": [
-                "Tobtok",
-                "STO CULTR"
-            ],
-            "album": "No One Knows",
-            "played_at": "14/04/2026 - 10:41:26"
-        },
-        {
-            "song_name": "Waiting",
-            "artists": [
-                "Paul Schulze",
-                "Aiko",
-                "whoisanyelo"
-            ],
-            "album": "Waiting",
-            "played_at": "14/04/2026 - 10:39:26"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "14/04/2026 - 10:36:24"
-        },
-        {
-            "song_name": "Get Through This",
-            "artists": [
-                "Nathan C"
-            ],
-            "album": "Get Through This",
-            "played_at": "14/04/2026 - 10:33:24"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "14/04/2026 - 10:30:25"
-        },
-        {
-            "song_name": "Weightless",
-            "artists": [
-                "Hyzteria"
-            ],
-            "album": "Weightless",
-            "played_at": "14/04/2026 - 10:26:54"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "14/04/2026 - 10:23:54"
-        },
-        {
-            "song_name": "Reverie",
-            "artists": [
-                "INNERVERSE"
-            ],
-            "album": "Reverie",
-            "played_at": "14/04/2026 - 10:20:55"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "14/04/2026 - 10:16:55"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "14/04/2026 - 10:14:25"
-        },
         {
             "song_name": "Heaven",
             "artists": [
@@ -1730,6 +1643,95 @@
             ],
             "album": "Dreamin",
             "played_at": "23/04/2026 - 13:10:10"
+        },
+        {
+            "song_name": "Bird Song",
+            "artists": [
+                "Elderbrook"
+            ],
+            "album": "Old Friend",
+            "played_at": "23/04/2026 - 14:00:38"
+        },
+        {
+            "song_name": "Until the Sun Needs to Rise",
+            "artists": [
+                "RÜFÜS DU SOL"
+            ],
+            "album": "Bloom",
+            "played_at": "23/04/2026 - 13:58:08"
+        },
+        {
+            "song_name": "If They Dunno",
+            "artists": [
+                "Bey T"
+            ],
+            "album": "Concept: Vol 1",
+            "played_at": "23/04/2026 - 13:53:08"
+        },
+        {
+            "song_name": "Kumalo",
+            "artists": [
+                "Benta Zachary",
+                "J blessing",
+                "AJAY (Buruklynboyz)"
+            ],
+            "album": "Kumalo",
+            "played_at": "23/04/2026 - 13:50:10"
+        },
+        {
+            "song_name": "Zimenice",
+            "artists": [
+                "Chris Kaiga",
+                "Tezzla"
+            ],
+            "album": "Zimenice",
+            "played_at": "23/04/2026 - 13:47:09"
+        },
+        {
+            "song_name": "Gimme Love",
+            "artists": [
+                "Ilogos",
+                "Jegede",
+                "King Kaka",
+                "Fena Gitu"
+            ],
+            "album": "Gimme Love",
+            "played_at": "23/04/2026 - 13:44:08"
+        },
+        {
+            "song_name": "Set It",
+            "artists": [
+                "Dyana Cods",
+                "AJAY (Buruklynboyz)"
+            ],
+            "album": "Set It",
+            "played_at": "23/04/2026 - 13:41:38"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Quavo",
+                "Juicy J"
+            ],
+            "album": "TYCOON",
+            "played_at": "23/04/2026 - 13:39:08"
+        },
+        {
+            "song_name": "Aftertaste",
+            "artists": [
+                "CARTFISH"
+            ],
+            "album": "Aftertaste",
+            "played_at": "23/04/2026 - 13:37:13"
+        },
+        {
+            "song_name": "SET ME FREE",
+            "artists": [
+                "Mattilo"
+            ],
+            "album": "SET ME FREE",
+            "played_at": "23/04/2026 - 13:34:08"
         }
     ]
 }
