@@ -1,74 +1,6 @@
 {
-    "total_plays": 4742,
+    "total_plays": 4750,
     "tracks": [
-        {
-            "song_name": "You Save My Life",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "You Save My Life",
-            "played_at": "14/04/2026 - 08:46:51"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "14/04/2026 - 08:43:51"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Push It",
-            "played_at": "14/04/2026 - 08:39:50"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "14/04/2026 - 08:37:24"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "14/04/2026 - 08:34:21"
-        },
-        {
-            "song_name": "No Man's Land",
-            "artists": [
-                "CAKES",
-                "Izzy Bizu"
-            ],
-            "album": "No Man's Land",
-            "played_at": "14/04/2026 - 09:30:25"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "14/04/2026 - 09:27:55"
-        },
-        {
-            "song_name": "Saturday Morning",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Saturday Morning",
-            "played_at": "14/04/2026 - 09:23:25"
-        },
         {
             "song_name": "Games",
             "artists": [
@@ -1726,6 +1658,78 @@
             ],
             "album": "Sleepless",
             "played_at": "23/04/2026 - 08:21:10"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "23/04/2026 - 08:56:10"
+        },
+        {
+            "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
+            "artists": [
+                "benny blanco",
+                "Halsey",
+                "Khalid"
+            ],
+            "album": "Eastside (with Halsey & Khalid) [Acoustic]",
+            "played_at": "23/04/2026 - 08:53:10"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "23/04/2026 - 08:50:40"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "23/04/2026 - 08:47:40"
+        },
+        {
+            "song_name": "Someone to Hold",
+            "artists": [
+                "Nu Aspect",
+                "Tudor"
+            ],
+            "album": "Someone to Hold",
+            "played_at": "23/04/2026 - 08:43:40"
+        },
+        {
+            "song_name": "Breathe in the Blue",
+            "artists": [
+                "Julien Fade",
+                "Nu-La"
+            ],
+            "album": "Breathe in the Blue",
+            "played_at": "23/04/2026 - 08:40:10"
+        },
+        {
+            "song_name": "FIRE",
+            "artists": [
+                "Palm Monkey",
+                "The Palm Tree Boy",
+                "Boix & Breakloop",
+                "VANDR"
+            ],
+            "album": "FIRE",
+            "played_at": "23/04/2026 - 08:35:40"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "23/04/2026 - 08:33:40"
         }
     ]
 }
