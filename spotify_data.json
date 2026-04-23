@@ -1,110 +1,6 @@
 {
-    "total_plays": 4750,
+    "total_plays": 4762,
     "tracks": [
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "14/04/2026 - 09:20:55"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "14/04/2026 - 09:17:25"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "14/04/2026 - 09:13:55"
-        },
-        {
-            "song_name": "Touch Me",
-            "artists": [
-                "DJ Katch"
-            ],
-            "album": "Touch Me",
-            "played_at": "14/04/2026 - 09:11:25"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "AVAION",
-                "PaulWetz",
-                "Nu Aspect",
-                "YUMA"
-            ],
-            "album": "Sleepless",
-            "played_at": "14/04/2026 - 11:53:31"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "14/04/2026 - 11:51:01"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "14/04/2026 - 11:48:31"
-        },
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "14/04/2026 - 11:45:01"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "14/04/2026 - 11:42:01"
-        },
-        {
-            "song_name": "Rain",
-            "artists": [
-                "Astrality",
-                "MNRT",
-                "S:NE"
-            ],
-            "album": "Rain",
-            "played_at": "14/04/2026 - 11:40:01"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "14/04/2026 - 11:37:31"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "14/04/2026 - 11:10:27"
-        },
         {
             "song_name": "Velvet & Ice",
             "artists": [
@@ -1730,6 +1626,108 @@
             ],
             "album": "Are You Real?",
             "played_at": "23/04/2026 - 08:33:40"
+        },
+        {
+            "song_name": "Reason",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Reason",
+            "played_at": "23/04/2026 - 11:01:22"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "NOW OR NEVER",
+            "played_at": "23/04/2026 - 10:57:52"
+        },
+        {
+            "song_name": "Josephine",
+            "artists": [
+                "HRRTZ"
+            ],
+            "album": "Josephine",
+            "played_at": "23/04/2026 - 10:55:52"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "23/04/2026 - 10:52:52"
+        },
+        {
+            "song_name": "MOMENTS WITH YOU",
+            "artists": [
+                "RUSSI",
+                "Palm Monkey"
+            ],
+            "album": "MOMENTS WITH YOU",
+            "played_at": "23/04/2026 - 10:50:22"
+        },
+        {
+            "song_name": "Moving",
+            "artists": [
+                "OMAH LAY"
+            ],
+            "album": "Moving",
+            "played_at": "23/04/2026 - 10:48:23"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "23/04/2026 - 10:45:52"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "23/04/2026 - 10:44:22"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "23/04/2026 - 10:40:52"
+        },
+        {
+            "song_name": "The Color Violet",
+            "artists": [
+                "Tory Lanez"
+            ],
+            "album": "Alone At Prom",
+            "played_at": "23/04/2026 - 10:37:53"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "23/04/2026 - 10:34:27"
+        },
+        {
+            "song_name": "one of wun",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "23/04/2026 - 10:34:18"
         }
     ]
 }
