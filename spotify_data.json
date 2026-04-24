@@ -1,69 +1,6 @@
 {
-    "total_plays": 4873,
+    "total_plays": 4880,
     "tracks": [
-        {
-            "song_name": "Too Soon",
-            "artists": [
-                "Ronis Goliath"
-            ],
-            "album": "Berlin / West Africa",
-            "played_at": "17/04/2026 - 15:41:29"
-        },
-        {
-            "song_name": "SOS",
-            "artists": [
-                "Chop Daily",
-                "Team Salut"
-            ],
-            "album": "SOS",
-            "played_at": "17/04/2026 - 15:38:59"
-        },
-        {
-            "song_name": "MAMI WATER",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "MAMI WATER",
-            "played_at": "17/04/2026 - 15:36:31"
-        },
-        {
-            "song_name": "Need To Know (feat. Ric Hassani)",
-            "artists": [
-                "joki",
-                "Lucas Estrada",
-                "Ric Hassani"
-            ],
-            "album": "Need To Know (feat. Ric Hassani)",
-            "played_at": "17/04/2026 - 15:33:58"
-        },
-        {
-            "song_name": "overcome.",
-            "artists": [
-                "jíoel.",
-                "CHUMA"
-            ],
-            "album": "overcome.",
-            "played_at": "17/04/2026 - 15:30:59"
-        },
-        {
-            "song_name": "Hey mama",
-            "artists": [
-                "HAMEX"
-            ],
-            "album": "Hey mama",
-            "played_at": "17/04/2026 - 15:28:29"
-        },
-        {
-            "song_name": "FIRE",
-            "artists": [
-                "Palm Monkey",
-                "The Palm Tree Boy",
-                "Boix & Breakloop",
-                "VANDR"
-            ],
-            "album": "FIRE",
-            "played_at": "17/04/2026 - 15:25:00"
-        },
         {
             "song_name": "Replay",
             "artists": [
@@ -1719,6 +1656,66 @@
             ],
             "album": "Your Eyes",
             "played_at": "24/04/2026 - 14:08:30"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "24/04/2026 - 15:01:01"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "24/04/2026 - 14:58:39"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "24/04/2026 - 14:55:22"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "24/04/2026 - 14:52:46"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "24/04/2026 - 14:37:44"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "24/04/2026 - 14:34:16"
+        },
+        {
+            "song_name": "SHADES OF BLUE",
+            "artists": [
+                "John Summit",
+                "Devault",
+                "Julia Church"
+            ],
+            "album": "CTRL ESCAPE",
+            "played_at": "24/04/2026 - 14:32:10"
         }
     ]
 }
