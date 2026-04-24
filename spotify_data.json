@@ -1,23 +1,6 @@
 {
-    "total_plays": 4880,
+    "total_plays": 4882,
     "tracks": [
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "17/04/2026 - 15:22:59"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "17/04/2026 - 15:19:59"
-        },
         {
             "song_name": "Moving",
             "artists": [
@@ -1716,6 +1699,22 @@
             ],
             "album": "CTRL ESCAPE",
             "played_at": "24/04/2026 - 14:32:10"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "24/04/2026 - 15:13:22"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "24/04/2026 - 15:03:05"
         }
     ]
 }
