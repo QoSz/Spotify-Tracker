@@ -1,14 +1,6 @@
 {
-    "total_plays": 4865,
+    "total_plays": 4866,
     "tracks": [
-        {
-            "song_name": "You Broke Me",
-            "artists": [
-                "Miiles44"
-            ],
-            "album": "You Broke Me",
-            "played_at": "17/04/2026 - 16:02:32"
-        },
         {
             "song_name": "Crazy",
             "artists": [
@@ -1723,6 +1715,14 @@
             ],
             "album": "Jump",
             "played_at": "24/04/2026 - 13:02:20"
+        },
+        {
+            "song_name": "Way down We Go",
+            "artists": [
+                "KALEO"
+            ],
+            "album": "A/B",
+            "played_at": "24/04/2026 - 13:32:13"
         }
     ]
 }
