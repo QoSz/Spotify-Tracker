@@ -1,23 +1,6 @@
 {
-    "total_plays": 4882,
+    "total_plays": 4884,
     "tracks": [
-        {
-            "song_name": "Moving",
-            "artists": [
-                "OMAH LAY"
-            ],
-            "album": "Moving",
-            "played_at": "17/04/2026 - 15:15:59"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "18/04/2026 - 10:51:26"
-        },
         {
             "song_name": "Reason",
             "artists": [
@@ -1715,6 +1698,22 @@
             ],
             "album": "over time",
             "played_at": "24/04/2026 - 15:03:05"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "25/04/2026 - 10:57:28"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "25/04/2026 - 09:47:26"
         }
     ]
 }
