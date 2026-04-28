@@ -1,91 +1,6 @@
 {
-    "total_plays": 4921,
+    "total_plays": 4931,
     "tracks": [
-        {
-            "song_name": "Sunrise (feat. Jason Walker)",
-            "artists": [
-                "Kygo",
-                "Jason Walker"
-            ],
-            "album": "Kids in Love",
-            "played_at": "22/04/2026 - 10:23:27"
-        },
-        {
-            "song_name": "Real Life (feat. Stormzy)",
-            "artists": [
-                "Burna Boy",
-                "Stormzy"
-            ],
-            "album": "Twice As Tall",
-            "played_at": "22/04/2026 - 10:20:27"
-        },
-        {
-            "song_name": "A Keeper",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Honestly, Nevermind",
-            "played_at": "22/04/2026 - 10:18:01"
-        },
-        {
-            "song_name": "Gon Be Alright",
-            "artists": [
-                "twuan"
-            ],
-            "album": "Gon Be Alright",
-            "played_at": "22/04/2026 - 10:15:26"
-        },
-        {
-            "song_name": "Downtown Light",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Downtown Light",
-            "played_at": "22/04/2026 - 10:13:56"
-        },
-        {
-            "song_name": "444",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Lost In Euphoria",
-            "played_at": "22/04/2026 - 10:11:57"
-        },
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "22/04/2026 - 10:09:27"
-        },
-        {
-            "song_name": "Miss You",
-            "artists": [
-                "Nu Aspect",
-                "Jamis",
-                "Poppy Baskcomb"
-            ],
-            "album": "Miss You",
-            "played_at": "22/04/2026 - 10:06:56"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "22/04/2026 - 10:03:56"
-        },
-        {
-            "song_name": "Glide",
-            "artists": [
-                "NEIKED",
-                "Portugal. The Man"
-            ],
-            "album": "Glide",
-            "played_at": "22/04/2026 - 10:01:26"
-        },
         {
             "song_name": "Good Grief",
             "artists": [
@@ -1719,6 +1634,92 @@
             ],
             "album": "What You Saying",
             "played_at": "28/04/2026 - 16:05:14"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "28/04/2026 - 16:59:15"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "28/04/2026 - 16:56:45"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "28/04/2026 - 16:52:45"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "28/04/2026 - 16:50:45"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "28/04/2026 - 16:48:15"
+        },
+        {
+            "song_name": "Light",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Light",
+            "played_at": "28/04/2026 - 16:45:45"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "28/04/2026 - 16:42:15"
+        },
+        {
+            "song_name": "Chemicals",
+            "artists": [
+                "Thandi"
+            ],
+            "album": "Chemicals",
+            "played_at": "28/04/2026 - 16:39:45"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "28/04/2026 - 16:37:15"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "28/04/2026 - 16:35:15"
         }
     ]
 }
