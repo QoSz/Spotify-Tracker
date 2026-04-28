@@ -1,85 +1,6 @@
 {
-    "total_plays": 4912,
+    "total_plays": 4921,
     "tracks": [
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "22/04/2026 - 11:27:04"
-        },
-        {
-            "song_name": "ALL THE TIME",
-            "artists": [
-                "John Summit",
-                "The Chainsmokers",
-                "Ilsey"
-            ],
-            "album": "CTRL ESCAPE",
-            "played_at": "22/04/2026 - 11:26:46"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "22/04/2026 - 11:22:34"
-        },
-        {
-            "song_name": "Loop",
-            "artists": [
-                "Jerri"
-            ],
-            "album": "Loop",
-            "played_at": "22/04/2026 - 10:33:57"
-        },
-        {
-            "song_name": "In My Arms",
-            "artists": [
-                "Toby Romeo",
-                "Loek",
-                "VisionV"
-            ],
-            "album": "In My Arms",
-            "played_at": "22/04/2026 - 10:31:26"
-        },
-        {
-            "song_name": "Talk of the Town",
-            "artists": [
-                "Fred again..",
-                "Sammy Virji",
-                "Reggie"
-            ],
-            "album": "USB",
-            "played_at": "22/04/2026 - 10:29:26"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "22/04/2026 - 10:26:48"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "22/04/2026 - 10:26:28"
-        },
-        {
-            "song_name": "Cold",
-            "artists": [
-                "Boy In Space",
-                "unheard"
-            ],
-            "album": "Cold",
-            "played_at": "22/04/2026 - 10:26:26"
-        },
         {
             "song_name": "Sunrise (feat. Jason Walker)",
             "artists": [
@@ -1722,6 +1643,82 @@
             ],
             "album": "Illuminate",
             "played_at": "28/04/2026 - 15:31:39"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "28/04/2026 - 16:30:45"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "28/04/2026 - 16:27:15"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "28/04/2026 - 16:23:45"
+        },
+        {
+            "song_name": "Sweet Release",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Sweet Release",
+            "played_at": "28/04/2026 - 16:21:46"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "28/04/2026 - 16:17:45"
+        },
+        {
+            "song_name": "Bigger Than Life",
+            "artists": [
+                "Lil Uzi Vert",
+                "WanMor"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "28/04/2026 - 16:17:02"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "28/04/2026 - 16:16:08"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/04/2026 - 16:11:03"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/04/2026 - 16:05:14"
         }
     ]
 }
