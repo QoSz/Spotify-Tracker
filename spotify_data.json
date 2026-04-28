@@ -1,91 +1,6 @@
 {
-    "total_plays": 4885,
+    "total_plays": 4895,
     "tracks": [
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "18/04/2026 - 10:51:24"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "18/04/2026 - 09:01:38"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "20/04/2026 - 12:23:23"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "20/04/2026 - 12:19:53"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "20/04/2026 - 12:17:53"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "20/04/2026 - 12:15:29"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "20/04/2026 - 11:59:54"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "20/04/2026 - 14:35:24"
-        },
-        {
-            "song_name": "No One Knows",
-            "artists": [
-                "Tobtok",
-                "STO CULTR"
-            ],
-            "album": "No One Knows",
-            "played_at": "22/04/2026 - 08:58:35"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "22/04/2026 - 08:56:35"
-        },
         {
             "song_name": "Clocks",
             "artists": [
@@ -1714,6 +1629,88 @@
             ],
             "album": "Tomorrow Never Comes",
             "played_at": "26/04/2026 - 09:12:49"
+        },
+        {
+            "song_name": "Emotionless",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Scorpion",
+            "played_at": "28/04/2026 - 12:00:04"
+        },
+        {
+            "song_name": "Superstar (feat. Matthew Santos)",
+            "artists": [
+                "Lupe Fiasco",
+                "Matthew Santos"
+            ],
+            "album": "Lupe Fiasco's The Cool",
+            "played_at": "28/04/2026 - 11:39:30"
+        },
+        {
+            "song_name": "No Mans Land",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "No Mans Land",
+            "played_at": "28/04/2026 - 11:34:39"
+        },
+        {
+            "song_name": "Baby Pluto",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "28/04/2026 - 11:32:05"
+        },
+        {
+            "song_name": "still prevail",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "28/04/2026 - 11:28:35"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "28/04/2026 - 11:25:22"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "28/04/2026 - 11:22:40"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "28/04/2026 - 11:20:43"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "28/04/2026 - 11:18:55"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "28/04/2026 - 11:15:14"
         }
     ]
 }
