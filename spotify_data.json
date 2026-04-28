@@ -1,31 +1,6 @@
 {
-    "total_plays": 4931,
+    "total_plays": 4934,
     "tracks": [
-        {
-            "song_name": "Good Grief",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "(((((ultraSOUND)))))+",
-            "played_at": "22/04/2026 - 09:58:27"
-        },
-        {
-            "song_name": "Secondhand (feat. Rema)",
-            "artists": [
-                "Don Toliver",
-                "Rema"
-            ],
-            "album": "OCTANE",
-            "played_at": "22/04/2026 - 09:54:27"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "22/04/2026 - 09:51:27"
-        },
         {
             "song_name": "One of Them",
             "artists": [
@@ -1720,6 +1695,31 @@
             ],
             "album": "Hold on Me",
             "played_at": "28/04/2026 - 16:35:15"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "28/04/2026 - 17:08:45"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "28/04/2026 - 17:04:45"
+        },
+        {
+            "song_name": "Bloom Again",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Bloom Again",
+            "played_at": "28/04/2026 - 17:02:16"
         }
     ]
 }
