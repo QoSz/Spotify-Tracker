@@ -1,80 +1,6 @@
 {
-    "total_plays": 4897,
+    "total_plays": 4906,
     "tracks": [
-        {
-            "song_name": "Healing",
-            "artists": [
-                "Gordo",
-                "Drake"
-            ],
-            "album": "DIAMANTE",
-            "played_at": "22/04/2026 - 08:46:35"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "22/04/2026 - 09:30:10"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "22/04/2026 - 09:27:10"
-        },
-        {
-            "song_name": "Emorio",
-            "artists": [
-                "Trinix",
-                "Fafá de Belém"
-            ],
-            "album": "Emorio",
-            "played_at": "22/04/2026 - 09:24:10"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "22/04/2026 - 09:22:10"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "22/04/2026 - 09:19:40"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "22/04/2026 - 09:16:40"
-        },
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "22/04/2026 - 09:14:05"
-        },
-        {
-            "song_name": "fractured light",
-            "artists": [
-                "kalm"
-            ],
-            "album": "fractured light",
-            "played_at": "22/04/2026 - 09:11:35"
-        },
         {
             "song_name": "Give In",
             "artists": [
@@ -1712,6 +1638,88 @@
             ],
             "album": "Dive",
             "played_at": "28/04/2026 - 14:32:45"
+        },
+        {
+            "song_name": "Keep Me",
+            "artists": [
+                "Julien Fade",
+                "Tudor",
+                "Caroline Byrne"
+            ],
+            "album": "Keep Me",
+            "played_at": "28/04/2026 - 15:29:09"
+        },
+        {
+            "song_name": "Life with You",
+            "artists": [
+                "INNERVERSE",
+                "Paul Schulze",
+                "Oliver Cricket",
+                "Courtney Storm"
+            ],
+            "album": "Life with You",
+            "played_at": "28/04/2026 - 15:25:39"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "28/04/2026 - 15:23:09"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "28/04/2026 - 15:20:09"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "28/04/2026 - 15:17:39"
+        },
+        {
+            "song_name": "Your Touch",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Your Touch",
+            "played_at": "28/04/2026 - 15:14:09"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "28/04/2026 - 15:11:10"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "28/04/2026 - 15:07:09"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "28/04/2026 - 15:04:09"
         }
     ]
 }
