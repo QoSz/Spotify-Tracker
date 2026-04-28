@@ -1,14 +1,6 @@
 {
-    "total_plays": 4896,
+    "total_plays": 4897,
     "tracks": [
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "22/04/2026 - 08:51:06"
-        },
         {
             "song_name": "Healing",
             "artists": [
@@ -1711,6 +1703,15 @@
             ],
             "album": "Let It Go",
             "played_at": "28/04/2026 - 14:29:45"
+        },
+        {
+            "song_name": "Dive",
+            "artists": [
+                "Taiki Nulight",
+                "Rue More"
+            ],
+            "album": "Dive",
+            "played_at": "28/04/2026 - 14:32:45"
         }
     ]
 }
