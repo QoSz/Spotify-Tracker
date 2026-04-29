@@ -1,67 +1,6 @@
 {
-    "total_plays": 4944,
+    "total_plays": 4951,
     "tracks": [
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "23/04/2026 - 08:50:40"
-        },
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "23/04/2026 - 08:47:40"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "23/04/2026 - 08:43:40"
-        },
-        {
-            "song_name": "Breathe in the Blue",
-            "artists": [
-                "Julien Fade",
-                "Nu-La"
-            ],
-            "album": "Breathe in the Blue",
-            "played_at": "23/04/2026 - 08:40:10"
-        },
-        {
-            "song_name": "FIRE",
-            "artists": [
-                "Palm Monkey",
-                "The Palm Tree Boy",
-                "Boix & Breakloop",
-                "VANDR"
-            ],
-            "album": "FIRE",
-            "played_at": "23/04/2026 - 08:35:40"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "23/04/2026 - 08:33:40"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "23/04/2026 - 11:01:22"
-        },
         {
             "song_name": "NOW OR NEVER",
             "artists": [
@@ -1713,6 +1652,64 @@
             ],
             "album": "Push It",
             "played_at": "29/04/2026 - 12:33:40"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "29/04/2026 - 15:59:46"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "29/04/2026 - 15:56:46"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "29/04/2026 - 15:54:16"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "29/04/2026 - 15:51:46"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "29/04/2026 - 15:49:16"
+        },
+        {
+            "song_name": "Want U",
+            "artists": [
+                "Hayley May"
+            ],
+            "album": "Want U",
+            "played_at": "29/04/2026 - 15:45:46"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "29/04/2026 - 15:38:27"
         }
     ]
 }
