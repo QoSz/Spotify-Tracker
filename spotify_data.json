@@ -1,53 +1,6 @@
 {
-    "total_plays": 4939,
+    "total_plays": 4944,
     "tracks": [
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "23/04/2026 - 08:26:10"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "23/04/2026 - 08:24:10"
-        },
-        {
-            "song_name": "Sleepless",
-            "artists": [
-                "AVAION",
-                "PaulWetz",
-                "Nu Aspect",
-                "YUMA"
-            ],
-            "album": "Sleepless",
-            "played_at": "23/04/2026 - 08:21:10"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "23/04/2026 - 08:56:10"
-        },
-        {
-            "song_name": "Eastside (with Halsey & Khalid) - Acoustic",
-            "artists": [
-                "benny blanco",
-                "Halsey",
-                "Khalid"
-            ],
-            "album": "Eastside (with Halsey & Khalid) [Acoustic]",
-            "played_at": "23/04/2026 - 08:53:10"
-        },
         {
             "song_name": "Teenage Fever",
             "artists": [
@@ -1717,6 +1670,49 @@
             ],
             "album": "That's Where I Should Be",
             "played_at": "29/04/2026 - 12:18:47"
+        },
+        {
+            "song_name": "Sirens",
+            "artists": [
+                "Dallerium",
+                "FARLEY"
+            ],
+            "album": "Sirens",
+            "played_at": "29/04/2026 - 12:55:19"
+        },
+        {
+            "song_name": "Touch Me",
+            "artists": [
+                "DJ Katch"
+            ],
+            "album": "Touch Me",
+            "played_at": "29/04/2026 - 12:43:59"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "29/04/2026 - 12:40:33"
+        },
+        {
+            "song_name": "Your Touch",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Your Touch",
+            "played_at": "29/04/2026 - 12:36:55"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Push It",
+            "played_at": "29/04/2026 - 12:33:40"
         }
     ]
 }
