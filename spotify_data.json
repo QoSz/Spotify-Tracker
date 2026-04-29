@@ -1,108 +1,6 @@
 {
-    "total_plays": 4951,
+    "total_plays": 4963,
     "tracks": [
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "NOW OR NEVER",
-            "played_at": "23/04/2026 - 10:57:52"
-        },
-        {
-            "song_name": "Josephine",
-            "artists": [
-                "HRRTZ"
-            ],
-            "album": "Josephine",
-            "played_at": "23/04/2026 - 10:55:52"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "23/04/2026 - 10:52:52"
-        },
-        {
-            "song_name": "MOMENTS WITH YOU",
-            "artists": [
-                "RUSSI",
-                "Palm Monkey"
-            ],
-            "album": "MOMENTS WITH YOU",
-            "played_at": "23/04/2026 - 10:50:22"
-        },
-        {
-            "song_name": "Moving",
-            "artists": [
-                "OMAH LAY"
-            ],
-            "album": "Moving",
-            "played_at": "23/04/2026 - 10:48:23"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "23/04/2026 - 10:45:52"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "23/04/2026 - 10:44:22"
-        },
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "23/04/2026 - 10:40:52"
-        },
-        {
-            "song_name": "The Color Violet",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "23/04/2026 - 10:37:53"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "23/04/2026 - 10:34:27"
-        },
-        {
-            "song_name": "one of wun",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "23/04/2026 - 10:34:18"
-        },
-        {
-            "song_name": "Next Up - S6-E17",
-            "artists": [
-                "Tkandz"
-            ],
-            "album": "Next Up - S6-E17",
-            "played_at": "23/04/2026 - 13:31:38"
-        },
         {
             "song_name": "Chills (LA Hills)",
             "artists": [
@@ -1710,6 +1608,108 @@
             ],
             "album": "Daylight",
             "played_at": "29/04/2026 - 15:38:27"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "Killen."
+            ],
+            "album": "How Does It Feel",
+            "played_at": "29/04/2026 - 16:45:46"
+        },
+        {
+            "song_name": "Cherry Blossom",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Cherry Blossom",
+            "played_at": "29/04/2026 - 16:42:46"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "29/04/2026 - 16:40:46"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "29/04/2026 - 16:38:46"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "29/04/2026 - 16:22:16"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "29/04/2026 - 16:18:46"
+        },
+        {
+            "song_name": "SHADES OF BLUE",
+            "artists": [
+                "John Summit",
+                "Devault",
+                "Julia Church"
+            ],
+            "album": "CTRL ESCAPE",
+            "played_at": "29/04/2026 - 16:16:46"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "29/04/2026 - 16:13:46"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "29/04/2026 - 16:09:46"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "29/04/2026 - 16:07:16"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "29/04/2026 - 16:05:16"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "29/04/2026 - 16:01:46"
         }
     ]
 }
