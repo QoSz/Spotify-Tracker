@@ -1,14 +1,6 @@
 {
-    "total_plays": 4968,
+    "total_plays": 4969,
     "tracks": [
-        {
-            "song_name": "Face 2 Face",
-            "artists": [
-                "Juice WRLD"
-            ],
-            "album": "Face 2 Face",
-            "played_at": "23/04/2026 - 13:14:08"
-        },
         {
             "song_name": "Dreamin",
             "artists": [
@@ -1708,6 +1700,14 @@
             ],
             "album": "Reason",
             "played_at": "30/04/2026 - 08:52:24"
+        },
+        {
+            "song_name": "Mentality",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Mentality",
+            "played_at": "30/04/2026 - 13:13:03"
         }
     ]
 }
