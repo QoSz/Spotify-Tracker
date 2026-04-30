@@ -1,50 +1,6 @@
 {
-    "total_plays": 4963,
+    "total_plays": 4968,
     "tracks": [
-        {
-            "song_name": "Chills (LA Hills)",
-            "artists": [
-                "Tiësto",
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "DRIVE",
-            "played_at": "23/04/2026 - 13:29:38"
-        },
-        {
-            "song_name": "Starcrusin",
-            "artists": [
-                "Dubbygotbars",
-                "Charles Infamous"
-            ],
-            "album": "Starcrusin",
-            "played_at": "23/04/2026 - 13:26:38"
-        },
-        {
-            "song_name": "Glock In My Lap",
-            "artists": [
-                "21 Savage",
-                "Metro Boomin"
-            ],
-            "album": "SAVAGE MODE II",
-            "played_at": "23/04/2026 - 13:24:38"
-        },
-        {
-            "song_name": "Location (feat. Burna Boy)",
-            "artists": [
-                "Dave",
-                "Burna Boy"
-            ],
-            "album": "PSYCHODRAMA",
-            "played_at": "23/04/2026 - 13:21:39"
-        },
-        {
-            "song_name": "I Wonder",
-            "artists": [
-                "Kanye West"
-            ],
-            "album": "Graduation",
-            "played_at": "23/04/2026 - 13:18:08"
-        },
         {
             "song_name": "Face 2 Face",
             "artists": [
@@ -1710,6 +1666,48 @@
             ],
             "album": "Are You Real?",
             "played_at": "29/04/2026 - 16:01:46"
+        },
+        {
+            "song_name": "Asiwaju",
+            "artists": [
+                "Ruger"
+            ],
+            "album": "RU The World",
+            "played_at": "30/04/2026 - 10:17:52"
+        },
+        {
+            "song_name": "Moving",
+            "artists": [
+                "OMAH LAY"
+            ],
+            "album": "Moving",
+            "played_at": "30/04/2026 - 10:17:09"
+        },
+        {
+            "song_name": "Moving",
+            "artists": [
+                "OMAH LAY"
+            ],
+            "album": "Moving",
+            "played_at": "30/04/2026 - 10:17:06"
+        },
+        {
+            "song_name": "Ala Ede",
+            "artists": [
+                "Palm Monkey",
+                "Oceanside",
+                "MOWA"
+            ],
+            "album": "Ala Ede",
+            "played_at": "30/04/2026 - 09:00:13"
+        },
+        {
+            "song_name": "Reason",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Reason",
+            "played_at": "30/04/2026 - 08:52:24"
         }
     ]
 }
