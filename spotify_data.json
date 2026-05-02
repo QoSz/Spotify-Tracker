@@ -1,35 +1,6 @@
 {
-    "total_plays": 4975,
+    "total_plays": 4978,
     "tracks": [
-        {
-            "song_name": "Zimenice",
-            "artists": [
-                "Chris Kaiga",
-                "Tezzla"
-            ],
-            "album": "Zimenice",
-            "played_at": "23/04/2026 - 13:47:09"
-        },
-        {
-            "song_name": "Gimme Love",
-            "artists": [
-                "Ilogos",
-                "Jegede",
-                "King Kaka",
-                "Fena Gitu"
-            ],
-            "album": "Gimme Love",
-            "played_at": "23/04/2026 - 13:44:08"
-        },
-        {
-            "song_name": "Set It",
-            "artists": [
-                "Dyana Cods",
-                "AJAY (Buruklynboyz)"
-            ],
-            "album": "Set It",
-            "played_at": "23/04/2026 - 13:41:38"
-        },
         {
             "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
             "artists": [
@@ -1711,6 +1682,35 @@
             ],
             "album": "The Boy Who Played the Harp",
             "played_at": "02/05/2026 - 11:46:25"
+        },
+        {
+            "song_name": "I'm So Paid",
+            "artists": [
+                "Akon",
+                "Lil Wayne",
+                "Jeezy"
+            ],
+            "album": "Freedom",
+            "played_at": "02/05/2026 - 15:59:49"
+        },
+        {
+            "song_name": "HONEY",
+            "artists": [
+                "Levi",
+                "Akon",
+                "Roy Woods",
+                "Halle Abadi"
+            ],
+            "album": "HONEY",
+            "played_at": "02/05/2026 - 15:55:19"
+        },
+        {
+            "song_name": "COLD OUTSIDE",
+            "artists": [
+                "Mckay"
+            ],
+            "album": "COLD OUTSIDE",
+            "played_at": "02/05/2026 - 15:51:50"
         }
     ]
 }
