@@ -1,86 +1,6 @@
 {
-    "total_plays": 4979,
+    "total_plays": 4989,
     "tracks": [
-        {
-            "song_name": "Aftertaste",
-            "artists": [
-                "CARTFISH"
-            ],
-            "album": "Aftertaste",
-            "played_at": "23/04/2026 - 13:37:13"
-        },
-        {
-            "song_name": "SET ME FREE",
-            "artists": [
-                "Mattilo"
-            ],
-            "album": "SET ME FREE",
-            "played_at": "23/04/2026 - 13:34:08"
-        },
-        {
-            "song_name": "All Good Things (Come To An End)",
-            "artists": [
-                "Nelly Furtado"
-            ],
-            "album": "Loose",
-            "played_at": "23/04/2026 - 14:31:08"
-        },
-        {
-            "song_name": "(I Just) Died In Your Arms",
-            "artists": [
-                "Cutting Crew"
-            ],
-            "album": "Broadcast",
-            "played_at": "23/04/2026 - 14:27:08"
-        },
-        {
-            "song_name": "Closer",
-            "artists": [
-                "Ne-Yo"
-            ],
-            "album": "Year Of The Gentleman",
-            "played_at": "23/04/2026 - 14:23:08"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "23/04/2026 - 14:19:38"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "23/04/2026 - 14:17:09"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "23/04/2026 - 14:14:38"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "23/04/2026 - 14:13:08"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "23/04/2026 - 14:10:38"
-        },
         {
             "song_name": "Your Heart Beating - Radio Edit",
             "artists": [
@@ -1710,6 +1630,90 @@
             ],
             "album": "Let's Get It: Thug Motivation 101",
             "played_at": "05/05/2026 - 11:32:53"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "05/05/2026 - 21:28:12"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "05/05/2026 - 21:25:33"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "05/05/2026 - 21:22:56"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "05/05/2026 - 21:20:03"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "05/05/2026 - 21:16:41"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "05/05/2026 - 21:14:12"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "05/05/2026 - 21:11:18"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "05/05/2026 - 21:08:34"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "05/05/2026 - 21:05:58"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "05/05/2026 - 21:03:19"
         }
     ]
 }
