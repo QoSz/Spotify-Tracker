@@ -1,80 +1,6 @@
 {
-    "total_plays": 4999,
+    "total_plays": 5008,
     "tracks": [
-        {
-            "song_name": "Young & Alive",
-            "artists": [
-                "Bazzi"
-            ],
-            "album": "Infinite Dream",
-            "played_at": "23/04/2026 - 14:42:08"
-        },
-        {
-            "song_name": "arcade",
-            "artists": [
-                "omgkirby"
-            ],
-            "album": "arcade",
-            "played_at": "23/04/2026 - 14:40:09"
-        },
-        {
-            "song_name": "Kiss Me Thru The Phone",
-            "artists": [
-                "Soulja Boy",
-                "Sammie"
-            ],
-            "album": "iSouljaBoyTellem",
-            "played_at": "23/04/2026 - 14:38:09"
-        },
-        {
-            "song_name": "It Will Rain",
-            "artists": [
-                "Bruno Mars"
-            ],
-            "album": "It Will Rain",
-            "played_at": "23/04/2026 - 14:35:08"
-        },
-        {
-            "song_name": "Hold Somebody",
-            "artists": [
-                "Téo Amo"
-            ],
-            "album": "Hold Somebody",
-            "played_at": "23/04/2026 - 15:28:39"
-        },
-        {
-            "song_name": "Baby Steps",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "The Art of Loving",
-            "played_at": "23/04/2026 - 15:26:09"
-        },
-        {
-            "song_name": "Spit Of You",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "Seventeen Going Under (Deluxe)",
-            "played_at": "23/04/2026 - 15:23:39"
-        },
-        {
-            "song_name": "Walking Away",
-            "artists": [
-                "Romario"
-            ],
-            "album": "Walking Away",
-            "played_at": "23/04/2026 - 15:19:09"
-        },
-        {
-            "song_name": "Ndoto",
-            "artists": [
-                "chatta",
-                "chine"
-            ],
-            "album": "Ndoto",
-            "played_at": "23/04/2026 - 15:15:39"
-        },
         {
             "song_name": "Acha Nipite",
             "artists": [
@@ -1711,6 +1637,81 @@
             ],
             "album": "CTRL ESCAPE",
             "played_at": "05/05/2026 - 21:33:08"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "05/05/2026 - 22:24:14"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "05/05/2026 - 22:21:49"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "05/05/2026 - 22:19:30"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "05/05/2026 - 22:16:48"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "05/05/2026 - 22:13:37"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "05/05/2026 - 22:11:33"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "05/05/2026 - 22:09:09"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "05/05/2026 - 22:05:55"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "05/05/2026 - 22:02:19"
         }
     ]
 }
