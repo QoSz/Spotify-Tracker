@@ -1,16 +1,6 @@
 {
-    "total_plays": 4978,
+    "total_plays": 4979,
     "tracks": [
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Quavo",
-                "Juicy J"
-            ],
-            "album": "TYCOON",
-            "played_at": "23/04/2026 - 13:39:08"
-        },
         {
             "song_name": "Aftertaste",
             "artists": [
@@ -1711,6 +1701,15 @@
             ],
             "album": "COLD OUTSIDE",
             "played_at": "02/05/2026 - 15:51:50"
+        },
+        {
+            "song_name": "Soul Survivor",
+            "artists": [
+                "Jeezy",
+                "Akon"
+            ],
+            "album": "Let's Get It: Thug Motivation 101",
+            "played_at": "05/05/2026 - 11:32:53"
         }
     ]
 }
