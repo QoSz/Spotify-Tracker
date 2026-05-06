@@ -1,89 +1,6 @@
 {
-    "total_plays": 5021,
+    "total_plays": 5030,
     "tracks": [
-        {
-            "song_name": "This Town",
-            "artists": [
-                "Saco",
-                "Sparkle",
-                "Isabel Prada"
-            ],
-            "album": "This Town",
-            "played_at": "23/04/2026 - 15:31:10"
-        },
-        {
-            "song_name": "Think About Us - VIP Mix",
-            "artists": [
-                "Sonny Fodera",
-                "D.O.D",
-                "Poppy Baskcomb"
-            ],
-            "album": "Think About Us (VIP Mix)",
-            "played_at": "23/04/2026 - 16:27:20"
-        },
-        {
-            "song_name": "Foreign Language",
-            "artists": [
-                "Flight Facilities",
-                "Jess"
-            ],
-            "album": "Foreign Language (10 Year Anniversary)",
-            "played_at": "23/04/2026 - 16:24:20"
-        },
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "23/04/2026 - 17:46:19"
-        },
-        {
-            "song_name": "I AM",
-            "artists": [
-                "OMAH LAY"
-            ],
-            "album": "CLARITY OF MIND",
-            "played_at": "23/04/2026 - 17:43:50"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Falden",
-                "Fare"
-            ],
-            "album": "Tell Me",
-            "played_at": "23/04/2026 - 17:40:49"
-        },
-        {
-            "song_name": "SOS",
-            "artists": [
-                "Chop Daily",
-                "Team Salut"
-            ],
-            "album": "SOS",
-            "played_at": "23/04/2026 - 17:37:20"
-        },
-        {
-            "song_name": "Where Did Your Love Go",
-            "artists": [
-                "Moonshine",
-                "Sincerely Suav"
-            ],
-            "album": "Where Did Your Love Go",
-            "played_at": "23/04/2026 - 17:34:50"
-        },
-        {
-            "song_name": "AWGAZI",
-            "artists": [
-                "Palm Monkey",
-                "RUSSI",
-                "The Palm Tree Boy"
-            ],
-            "album": "AWGAZI",
-            "played_at": "23/04/2026 - 17:31:50"
-        },
         {
             "song_name": "Keep You Up",
             "artists": [
@@ -1709,6 +1626,80 @@
             ],
             "album": "We Run",
             "played_at": "06/05/2026 - 20:35:47"
+        },
+        {
+            "song_name": "Reason",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Reason",
+            "played_at": "06/05/2026 - 21:29:58"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "Killen."
+            ],
+            "album": "How Does It Feel",
+            "played_at": "06/05/2026 - 21:26:09"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "06/05/2026 - 21:23:07"
+        },
+        {
+            "song_name": "Cherry Blossom",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Cherry Blossom",
+            "played_at": "06/05/2026 - 21:19:39"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "06/05/2026 - 21:17:07"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "06/05/2026 - 21:15:02"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "06/05/2026 - 21:08:26"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "06/05/2026 - 21:05:27"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "06/05/2026 - 21:02:52"
         }
     ]
 }
