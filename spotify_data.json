@@ -1,86 +1,6 @@
 {
-    "total_plays": 5012,
+    "total_plays": 5021,
     "tracks": [
-        {
-            "song_name": "No Type",
-            "artists": [
-                "HAYDO"
-            ],
-            "album": "No Type",
-            "played_at": "23/04/2026 - 15:57:39"
-        },
-        {
-            "song_name": "Waves [feat. Chris Brown & T.I.] - Robin Schulz Remix",
-            "artists": [
-                "Mr. Probz",
-                "Chris Brown",
-                "T.I."
-            ],
-            "album": "Waves [feat. Chris Brown & T.I.] (Robin Schulz Remix)",
-            "played_at": "23/04/2026 - 15:55:09"
-        },
-        {
-            "song_name": "Hey mama",
-            "artists": [
-                "HAMEX"
-            ],
-            "album": "Hey mama",
-            "played_at": "23/04/2026 - 15:52:39"
-        },
-        {
-            "song_name": "You Give Me A Feeling",
-            "artists": [
-                "Vintage Culture",
-                "James Hype"
-            ],
-            "album": "You Give Me A Feeling",
-            "played_at": "23/04/2026 - 15:49:09"
-        },
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "23/04/2026 - 15:46:08"
-        },
-        {
-            "song_name": "Every Step",
-            "artists": [
-                "D.O.D"
-            ],
-            "album": "Every Step",
-            "played_at": "23/04/2026 - 15:43:08"
-        },
-        {
-            "song_name": "Say It Right - Rinzen Remix",
-            "artists": [
-                "Nelly Furtado",
-                "Rinzen"
-            ],
-            "album": "Say It Right (Rinzen Remix)",
-            "played_at": "23/04/2026 - 15:40:39"
-        },
-        {
-            "song_name": "Talk To You",
-            "artists": [
-                "ANOTR",
-                "54 Ultra"
-            ],
-            "album": "Talk To You",
-            "played_at": "23/04/2026 - 15:37:39"
-        },
-        {
-            "song_name": "Hell N Back (feat. Summer Walker)",
-            "artists": [
-                "Bakar",
-                "Summer Walker"
-            ],
-            "album": "Halo",
-            "played_at": "23/04/2026 - 15:34:38"
-        },
         {
             "song_name": "This Town",
             "artists": [
@@ -1712,6 +1632,83 @@
             ],
             "album": "AMALA",
             "played_at": "06/05/2026 - 20:31:37"
+        },
+        {
+            "song_name": "SHADES OF BLUE",
+            "artists": [
+                "John Summit",
+                "Devault",
+                "Julia Church"
+            ],
+            "album": "CTRL ESCAPE",
+            "played_at": "06/05/2026 - 21:00:12"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "06/05/2026 - 20:56:48"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "06/05/2026 - 20:52:57"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "06/05/2026 - 20:50:18"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "06/05/2026 - 20:49:00"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "06/05/2026 - 20:45:13"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "06/05/2026 - 20:41:51"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "06/05/2026 - 20:39:22"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "06/05/2026 - 20:35:47"
         }
     ]
 }
