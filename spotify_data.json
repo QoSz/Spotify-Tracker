@@ -1,79 +1,6 @@
 {
-    "total_plays": 5082,
+    "total_plays": 5091,
     "tracks": [
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "25/04/2026 - 10:57:28"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "25/04/2026 - 09:47:26"
-        },
-        {
-            "song_name": "Tomorrow Never Comes",
-            "artists": [
-                "Vicetone"
-            ],
-            "album": "Tomorrow Never Comes",
-            "played_at": "26/04/2026 - 09:12:49"
-        },
-        {
-            "song_name": "Emotionless",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "28/04/2026 - 12:00:04"
-        },
-        {
-            "song_name": "Superstar (feat. Matthew Santos)",
-            "artists": [
-                "Lupe Fiasco",
-                "Matthew Santos"
-            ],
-            "album": "Lupe Fiasco's The Cool",
-            "played_at": "28/04/2026 - 11:39:30"
-        },
-        {
-            "song_name": "No Mans Land",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "No Mans Land",
-            "played_at": "28/04/2026 - 11:34:39"
-        },
-        {
-            "song_name": "Baby Pluto",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "28/04/2026 - 11:32:05"
-        },
-        {
-            "song_name": "still prevail",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "28/04/2026 - 11:28:35"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "28/04/2026 - 11:25:22"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1700,6 +1627,82 @@
             ],
             "album": "Stay",
             "played_at": "07/05/2026 - 21:03:40"
+        },
+        {
+            "song_name": "Deeper",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "07/05/2026 - 22:01:48"
+        },
+        {
+            "song_name": "Where We Belong",
+            "artists": [
+                "Amtrac"
+            ],
+            "album": "Where We Belong",
+            "played_at": "07/05/2026 - 21:58:24"
+        },
+        {
+            "song_name": "In the Mood",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "07/05/2026 - 21:53:43"
+        },
+        {
+            "song_name": "cloud chaser",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "07/05/2026 - 21:50:45"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "07/05/2026 - 21:47:13"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "07/05/2026 - 21:44:05"
+        },
+        {
+            "song_name": "Hold on Me",
+            "artists": [
+                "Why U So",
+                "SHELLS"
+            ],
+            "album": "Hold on Me",
+            "played_at": "07/05/2026 - 21:40:33"
+        },
+        {
+            "song_name": "Haunt You",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "07/05/2026 - 21:37:44"
+        },
+        {
+            "song_name": "Be The One",
+            "artists": [
+                "Adam Port",
+                "SG Lewis",
+                "Keinemusik"
+            ],
+            "album": "Be The One",
+            "played_at": "07/05/2026 - 21:33:58"
         }
     ]
 }
