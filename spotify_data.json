@@ -1,14 +1,6 @@
 {
-    "total_plays": 5030,
+    "total_plays": 5031,
     "tracks": [
-        {
-            "song_name": "Keep You Up",
-            "artists": [
-                "Kansy"
-            ],
-            "album": "Keep You Up",
-            "played_at": "23/04/2026 - 17:29:51"
-        },
         {
             "song_name": "HOT THOUGHTS (COME TO LIFE)",
             "artists": [
@@ -1700,6 +1692,15 @@
             ],
             "album": "Sense of Time",
             "played_at": "06/05/2026 - 21:02:52"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "07/05/2026 - 16:01:00"
         }
     ]
 }
