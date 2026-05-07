@@ -1,90 +1,6 @@
 {
-    "total_plays": 5072,
+    "total_plays": 5082,
     "tracks": [
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "24/04/2026 - 14:08:30"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "24/04/2026 - 15:01:01"
-        },
-        {
-            "song_name": "Don't Worry About Tomorrow",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Don't Worry About Tomorrow",
-            "played_at": "24/04/2026 - 14:58:39"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "24/04/2026 - 14:55:22"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "24/04/2026 - 14:52:46"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "24/04/2026 - 14:37:44"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "24/04/2026 - 14:34:16"
-        },
-        {
-            "song_name": "SHADES OF BLUE",
-            "artists": [
-                "John Summit",
-                "Devault",
-                "Julia Church"
-            ],
-            "album": "CTRL ESCAPE",
-            "played_at": "24/04/2026 - 14:32:10"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "24/04/2026 - 15:13:22"
-        },
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "24/04/2026 - 15:03:05"
-        },
         {
             "song_name": "So Cold",
             "artists": [
@@ -1696,6 +1612,94 @@
             ],
             "album": "CARMEN (8181 Enzo Remix)",
             "played_at": "07/05/2026 - 20:33:49"
+        },
+        {
+            "song_name": "AWGAZI (Sunset Remix)",
+            "artists": [
+                "Lucas Estrada",
+                "Palm Monkey",
+                "RUSSI",
+                "DALEXO"
+            ],
+            "album": "AWGAZI",
+            "played_at": "07/05/2026 - 21:30:33"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "07/05/2026 - 21:27:59"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "07/05/2026 - 21:23:57"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "07/05/2026 - 21:21:06"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "07/05/2026 - 21:18:17"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "07/05/2026 - 21:14:40"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "07/05/2026 - 21:12:14"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "07/05/2026 - 21:09:49"
+        },
+        {
+            "song_name": "Running Blind",
+            "artists": [
+                "NOTSOBAD",
+                "i.am.u."
+            ],
+            "album": "Running Blind",
+            "played_at": "07/05/2026 - 21:06:50"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "07/05/2026 - 21:03:40"
         }
     ]
 }
