@@ -1,89 +1,6 @@
 {
-    "total_plays": 5031,
+    "total_plays": 5041,
     "tracks": [
-        {
-            "song_name": "HOT THOUGHTS (COME TO LIFE)",
-            "artists": [
-                "CHAIME"
-            ],
-            "album": "HOT THOUGHTS (COME TO LIFE)",
-            "played_at": "23/04/2026 - 17:26:49"
-        },
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Satellite Signal",
-            "played_at": "23/04/2026 - 17:24:50"
-        },
-        {
-            "song_name": "jupiter",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "DIVE",
-            "played_at": "23/04/2026 - 17:21:49"
-        },
-        {
-            "song_name": "Take Me Out",
-            "artists": [
-                "Franz Ferdinand"
-            ],
-            "album": "Franz Ferdinand",
-            "played_at": "23/04/2026 - 17:18:49"
-        },
-        {
-            "song_name": "sun",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "sun",
-            "played_at": "23/04/2026 - 17:15:19"
-        },
-        {
-            "song_name": "FWU",
-            "artists": [
-                "Don Toliver",
-                "Mustard"
-            ],
-            "album": "FWU",
-            "played_at": "23/04/2026 - 17:11:49"
-        },
-        {
-            "song_name": "Erase Me - Main",
-            "artists": [
-                "Kid Cudi",
-                "Kanye West"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "23/04/2026 - 17:09:49"
-        },
-        {
-            "song_name": "WIFED A DIME",
-            "artists": [
-                "Teek4y"
-            ],
-            "album": "WIFED A DIME",
-            "played_at": "23/04/2026 - 17:06:19"
-        },
-        {
-            "song_name": "If It's Real",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "If It's Real",
-            "played_at": "23/04/2026 - 17:04:19"
-        },
-        {
-            "song_name": "NEW LINEN 新しいリネン",
-            "artists": [
-                "SamRecks",
-                "Thiago Sub"
-            ],
-            "album": "NEW LINEN 新しいリネン",
-            "played_at": "23/04/2026 - 17:02:50"
-        },
         {
             "song_name": "Fall Back (feat. Lil Tjay)",
             "artists": [
@@ -1701,6 +1618,88 @@
             ],
             "album": "Clocks",
             "played_at": "07/05/2026 - 16:01:00"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "07/05/2026 - 16:28:56"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "07/05/2026 - 16:25:36"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "07/05/2026 - 16:23:23"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "07/05/2026 - 16:19:33"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "07/05/2026 - 16:17:09"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "07/05/2026 - 16:14:49"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "07/05/2026 - 16:12:08"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "07/05/2026 - 16:08:56"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "07/05/2026 - 16:06:52"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "07/05/2026 - 16:04:16"
         }
     ]
 }
