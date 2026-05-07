@@ -1,104 +1,6 @@
 {
-    "total_plays": 5091,
+    "total_plays": 5102,
     "tracks": [
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "28/04/2026 - 11:22:40"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "28/04/2026 - 11:20:43"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "28/04/2026 - 11:18:55"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "28/04/2026 - 11:15:14"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "28/04/2026 - 14:29:45"
-        },
-        {
-            "song_name": "Dive",
-            "artists": [
-                "Taiki Nulight",
-                "Rue More"
-            ],
-            "album": "Dive",
-            "played_at": "28/04/2026 - 14:32:45"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "28/04/2026 - 15:29:09"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "28/04/2026 - 15:25:39"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "28/04/2026 - 15:23:09"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "28/04/2026 - 15:20:09"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "28/04/2026 - 15:17:39"
-        },
         {
             "song_name": "Your Touch",
             "artists": [
@@ -1703,6 +1605,103 @@
             ],
             "album": "Be The One",
             "played_at": "07/05/2026 - 21:33:58"
+        },
+        {
+            "song_name": "Get Close",
+            "artists": [
+                "Bolier",
+                "AMRV"
+            ],
+            "album": "Get Close",
+            "played_at": "07/05/2026 - 22:31:40"
+        },
+        {
+            "song_name": "Something Real",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Something Real",
+            "played_at": "07/05/2026 - 22:28:37"
+        },
+        {
+            "song_name": "I Drift Out, Then Return",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "07/05/2026 - 22:26:09"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "07/05/2026 - 22:23:49"
+        },
+        {
+            "song_name": "Nobody Knows - Belters Only Remix",
+            "artists": [
+                "Ape Drums",
+                "Clementine Douglas",
+                "Belters Only"
+            ],
+            "album": "Nobody Knows (Belters Only Remix)",
+            "played_at": "07/05/2026 - 22:21:00"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "07/05/2026 - 22:17:44"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "Biscits",
+                "Ekko"
+            ],
+            "album": "Heartbeat",
+            "played_at": "07/05/2026 - 22:15:43"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "07/05/2026 - 22:12:49"
+        },
+        {
+            "song_name": "Let Me",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "07/05/2026 - 22:09:24"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "TCTS",
+                "Hayley May"
+            ],
+            "album": "Daylight",
+            "played_at": "07/05/2026 - 22:06:59"
+        },
+        {
+            "song_name": "Deep of You",
+            "artists": [
+                "Astrality",
+                "Marlo Rex"
+            ],
+            "album": "Deep of You",
+            "played_at": "07/05/2026 - 22:04:30"
         }
     ]
 }
