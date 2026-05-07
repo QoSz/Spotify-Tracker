@@ -1,24 +1,6 @@
 {
-    "total_plays": 5049,
+    "total_plays": 5051,
     "tracks": [
-        {
-            "song_name": "Sprinter",
-            "artists": [
-                "Dave",
-                "Central Cee"
-            ],
-            "album": "Sprinter",
-            "played_at": "23/04/2026 - 16:36:19"
-        },
-        {
-            "song_name": "Cannonball (feat. Don Toliver)",
-            "artists": [
-                "Lithe",
-                "Don Toliver"
-            ],
-            "album": "Euphoria",
-            "played_at": "23/04/2026 - 16:32:49"
-        },
         {
             "song_name": "Overseas",
             "artists": [
@@ -1698,6 +1680,22 @@
             ],
             "album": "cloud chaser",
             "played_at": "07/05/2026 - 16:31:17"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "07/05/2026 - 17:05:43"
+        },
+        {
+            "song_name": "Yo No Lo Sé",
+            "artists": [
+                "ERIICE"
+            ],
+            "album": "Yo No Lo Sé",
+            "played_at": "07/05/2026 - 17:02:14"
         }
     ]
 }
