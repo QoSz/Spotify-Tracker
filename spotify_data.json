@@ -1,32 +1,6 @@
 {
-    "total_plays": 5129,
+    "total_plays": 5132,
     "tracks": [
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "28/04/2026 - 16:37:15"
-        },
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "28/04/2026 - 16:35:15"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "28/04/2026 - 17:08:45"
-        },
         {
             "song_name": "Glow",
             "artists": [
@@ -1705,6 +1679,30 @@
             ],
             "album": "Hollow Ground",
             "played_at": "08/05/2026 - 14:03:52"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "08/05/2026 - 20:29:58"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "08/05/2026 - 20:25:24"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "08/05/2026 - 20:22:56"
         }
     ]
 }
