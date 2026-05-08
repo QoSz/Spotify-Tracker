@@ -1,14 +1,6 @@
 {
-    "total_plays": 5128,
+    "total_plays": 5129,
     "tracks": [
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "28/04/2026 - 16:39:45"
-        },
         {
             "song_name": "fade out",
             "artists": [
@@ -1704,6 +1696,15 @@
             ],
             "album": "One More Song (I'll Be On My Way)",
             "played_at": "08/05/2026 - 13:32:58"
+        },
+        {
+            "song_name": "Hollow Ground",
+            "artists": [
+                "NOTSOBAD",
+                "Able Faces"
+            ],
+            "album": "Hollow Ground",
+            "played_at": "08/05/2026 - 14:03:52"
         }
     ]
 }
