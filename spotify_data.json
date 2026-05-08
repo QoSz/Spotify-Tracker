@@ -1,49 +1,6 @@
 {
-    "total_plays": 5110,
+    "total_plays": 5115,
     "tracks": [
-        {
-            "song_name": "Hollow Ground",
-            "artists": [
-                "NOTSOBAD",
-                "Able Faces"
-            ],
-            "album": "Hollow Ground",
-            "played_at": "28/04/2026 - 15:34:39"
-        },
-        {
-            "song_name": "Illuminate",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "28/04/2026 - 15:31:39"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "28/04/2026 - 16:30:45"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "28/04/2026 - 16:27:15"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "28/04/2026 - 16:23:45"
-        },
         {
             "song_name": "Sweet Release",
             "artists": [
@@ -1702,6 +1659,52 @@
             ],
             "album": "First Contact",
             "played_at": "07/05/2026 - 22:33:57"
+        },
+        {
+            "song_name": "Rundo Wiya",
+            "artists": [
+                "bahkin",
+                "Oduh Orlando"
+            ],
+            "album": "Rundo Wiya",
+            "played_at": "07/05/2026 - 23:11:46"
+        },
+        {
+            "song_name": "AWGAZI",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI",
+                "The Palm Tree Boy"
+            ],
+            "album": "AWGAZI",
+            "played_at": "07/05/2026 - 23:08:32"
+        },
+        {
+            "song_name": "Dance",
+            "artists": [
+                "Ginio",
+                "Kish",
+                "Chris Crone"
+            ],
+            "album": "Dance",
+            "played_at": "07/05/2026 - 23:05:46"
+        },
+        {
+            "song_name": "Somewhere in Ibiza",
+            "artists": [
+                "Walk on Water",
+                "XOXO"
+            ],
+            "album": "Somewhere in Ibiza",
+            "played_at": "07/05/2026 - 23:03:08"
+        },
+        {
+            "song_name": "Soweto",
+            "artists": [
+                "Don Cerise"
+            ],
+            "album": "Soweto",
+            "played_at": "07/05/2026 - 23:00:38"
         }
     ]
 }
