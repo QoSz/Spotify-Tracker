@@ -1,101 +1,6 @@
 {
-    "total_plays": 5117,
+    "total_plays": 5128,
     "tracks": [
-        {
-            "song_name": "Bigger Than Life",
-            "artists": [
-                "Lil Uzi Vert",
-                "WanMor"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "28/04/2026 - 16:17:02"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "28/04/2026 - 16:16:08"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "28/04/2026 - 16:11:03"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "28/04/2026 - 16:05:14"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "28/04/2026 - 16:59:15"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "28/04/2026 - 16:56:45"
-        },
-        {
-            "song_name": "underneath",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "underneath",
-            "played_at": "28/04/2026 - 16:52:45"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "28/04/2026 - 16:50:45"
-        },
-        {
-            "song_name": "AWGAZI (Sunset Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "Palm Monkey",
-                "RUSSI",
-                "DALEXO"
-            ],
-            "album": "AWGAZI",
-            "played_at": "28/04/2026 - 16:48:15"
-        },
-        {
-            "song_name": "Light",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Light",
-            "played_at": "28/04/2026 - 16:45:45"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "28/04/2026 - 16:42:15"
-        },
         {
             "song_name": "Chemicals",
             "artists": [
@@ -1704,6 +1609,101 @@
             ],
             "album": "Jump",
             "played_at": "08/05/2026 - 13:26:16"
+        },
+        {
+            "song_name": "HOT THOUGHTS (COME TO LIFE)",
+            "artists": [
+                "CHAIME"
+            ],
+            "album": "HOT THOUGHTS (COME TO LIFE)",
+            "played_at": "08/05/2026 - 14:01:03"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "PALASTIC",
+                "ALLKNIGHT"
+            ],
+            "album": "Heaven",
+            "played_at": "08/05/2026 - 13:58:14"
+        },
+        {
+            "song_name": "Where U Going",
+            "artists": [
+                "Neon Tide"
+            ],
+            "album": "Where U Going",
+            "played_at": "08/05/2026 - 13:55:52"
+        },
+        {
+            "song_name": "Strings Attached",
+            "artists": [
+                "Nu Aspect",
+                "Arkaden",
+                "Sam Welch"
+            ],
+            "album": "Strings Attached",
+            "played_at": "08/05/2026 - 13:52:58"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "08/05/2026 - 13:49:52"
+        },
+        {
+            "song_name": "In My Arms",
+            "artists": [
+                "Toby Romeo",
+                "Loek",
+                "VisionV"
+            ],
+            "album": "In My Arms",
+            "played_at": "08/05/2026 - 13:46:56"
+        },
+        {
+            "song_name": "all that i can say",
+            "artists": [
+                "CANNA",
+                "maaple"
+            ],
+            "album": "all that i can say",
+            "played_at": "08/05/2026 - 13:44:42"
+        },
+        {
+            "song_name": "WHERE DOES YOUR LOVE GO?",
+            "artists": [
+                "CHAIME"
+            ],
+            "album": "WHERE DOES YOUR LOVE GO?",
+            "played_at": "08/05/2026 - 13:41:47"
+        },
+        {
+            "song_name": "Hurt You",
+            "artists": [
+                "Crunkz"
+            ],
+            "album": "Hurt You",
+            "played_at": "08/05/2026 - 13:38:13"
+        },
+        {
+            "song_name": "When I'm into You",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "When I'm into You",
+            "played_at": "08/05/2026 - 13:35:51"
+        },
+        {
+            "song_name": "One More Song (I'll Be On My Way)",
+            "artists": [
+                "Why U So",
+                "Luis Coren"
+            ],
+            "album": "One More Song (I'll Be On My Way)",
+            "played_at": "08/05/2026 - 13:32:58"
         }
     ]
 }
