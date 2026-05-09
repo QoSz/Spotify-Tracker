@@ -1,15 +1,6 @@
 {
-    "total_plays": 5136,
+    "total_plays": 5137,
     "tracks": [
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "29/04/2026 - 12:25:18"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1702,6 +1693,14 @@
             ],
             "album": "What You Saying",
             "played_at": "09/05/2026 - 18:42:42"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "09/05/2026 - 19:45:17"
         }
     ]
 }
