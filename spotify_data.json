@@ -1,14 +1,6 @@
 {
-    "total_plays": 5137,
+    "total_plays": 5138,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "29/04/2026 - 12:22:30"
-        },
         {
             "song_name": "That's Where I Should Be",
             "artists": [
@@ -1701,6 +1693,14 @@
             ],
             "album": "We Run",
             "played_at": "09/05/2026 - 19:45:17"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "10/05/2026 - 16:16:43"
         }
     ]
 }
