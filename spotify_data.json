@@ -1,14 +1,6 @@
 {
-    "total_plays": 5138,
+    "total_plays": 5139,
     "tracks": [
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "29/04/2026 - 12:18:47"
-        },
         {
             "song_name": "Sirens",
             "artists": [
@@ -1701,6 +1693,14 @@
             ],
             "album": "Portal",
             "played_at": "10/05/2026 - 16:16:43"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "10/05/2026 - 20:00:55"
         }
     ]
 }
