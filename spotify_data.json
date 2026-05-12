@@ -1,91 +1,6 @@
 {
-    "total_plays": 5159,
+    "total_plays": 5169,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "29/04/2026 - 16:09:46"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "29/04/2026 - 16:07:16"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "29/04/2026 - 16:05:16"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "29/04/2026 - 16:01:46"
-        },
-        {
-            "song_name": "Asiwaju",
-            "artists": [
-                "Ruger"
-            ],
-            "album": "RU The World",
-            "played_at": "30/04/2026 - 10:17:52"
-        },
-        {
-            "song_name": "Moving",
-            "artists": [
-                "OMAH LAY"
-            ],
-            "album": "Moving",
-            "played_at": "30/04/2026 - 10:17:09"
-        },
-        {
-            "song_name": "Moving",
-            "artists": [
-                "OMAH LAY"
-            ],
-            "album": "Moving",
-            "played_at": "30/04/2026 - 10:17:06"
-        },
-        {
-            "song_name": "Ala Ede",
-            "artists": [
-                "Palm Monkey",
-                "Oceanside",
-                "MOWA"
-            ],
-            "album": "Ala Ede",
-            "played_at": "30/04/2026 - 09:00:13"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "30/04/2026 - 08:52:24"
-        },
-        {
-            "song_name": "Mentality",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Mentality",
-            "played_at": "30/04/2026 - 13:13:03"
-        },
         {
             "song_name": "AMALA",
             "artists": [
@@ -1698,6 +1613,94 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "12/05/2026 - 14:04:40"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "12/05/2026 - 15:29:35"
+        },
+        {
+            "song_name": "Rundo Wiya",
+            "artists": [
+                "bahkin",
+                "Oduh Orlando"
+            ],
+            "album": "Rundo Wiya",
+            "played_at": "12/05/2026 - 15:26:58"
+        },
+        {
+            "song_name": "End of Beginning",
+            "artists": [
+                "Vic Roz",
+                "ANNIAMO"
+            ],
+            "album": "End of Beginning",
+            "played_at": "12/05/2026 - 15:23:44"
+        },
+        {
+            "song_name": "FIRE",
+            "artists": [
+                "Palm Monkey",
+                "The Palm Tree Boy",
+                "Boix & Breakloop",
+                "VANDR"
+            ],
+            "album": "FIRE",
+            "played_at": "12/05/2026 - 15:19:00"
+        },
+        {
+            "song_name": "Somewhere in Ibiza",
+            "artists": [
+                "Walk on Water",
+                "XOXO"
+            ],
+            "album": "Somewhere in Ibiza",
+            "played_at": "12/05/2026 - 15:16:43"
+        },
+        {
+            "song_name": "Move Me",
+            "artists": [
+                "JAS1X",
+                "Golowko",
+                "Dinia"
+            ],
+            "album": "Move Me",
+            "played_at": "12/05/2026 - 15:14:13"
+        },
+        {
+            "song_name": "Simple",
+            "artists": [
+                "ItsArius"
+            ],
+            "album": "Simple",
+            "played_at": "12/05/2026 - 15:11:13"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "12/05/2026 - 15:08:42"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "12/05/2026 - 15:05:30"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "12/05/2026 - 15:03:08"
         }
     ]
 }
