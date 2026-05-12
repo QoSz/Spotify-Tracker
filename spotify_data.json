@@ -1,99 +1,6 @@
 {
-    "total_plays": 5169,
+    "total_plays": 5179,
     "tracks": [
-        {
-            "song_name": "AMALA",
-            "artists": [
-                "Müslüm Arı"
-            ],
-            "album": "AMALA",
-            "played_at": "01/05/2026 - 13:35:32"
-        },
-        {
-            "song_name": "Weyu",
-            "artists": [
-                "Lucas Estrada",
-                "Lenji",
-                "Amadi Blue"
-            ],
-            "album": "Weyu",
-            "played_at": "01/05/2026 - 13:24:45"
-        },
-        {
-            "song_name": "Dance",
-            "artists": [
-                "Ginio",
-                "Kish",
-                "Chris Crone"
-            ],
-            "album": "Dance",
-            "played_at": "02/05/2026 - 11:57:02"
-        },
-        {
-            "song_name": "Take My Mind",
-            "artists": [
-                "WizTheMc",
-                "bees & honey"
-            ],
-            "album": "YEBO",
-            "played_at": "02/05/2026 - 11:52:25"
-        },
-        {
-            "song_name": "KANTE (feat. Fave)",
-            "artists": [
-                "Davido",
-                "FAVE"
-            ],
-            "album": "Timeless",
-            "played_at": "02/05/2026 - 11:49:55"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "02/05/2026 - 11:46:25"
-        },
-        {
-            "song_name": "I'm So Paid",
-            "artists": [
-                "Akon",
-                "Lil Wayne",
-                "Jeezy"
-            ],
-            "album": "Freedom",
-            "played_at": "02/05/2026 - 15:59:49"
-        },
-        {
-            "song_name": "HONEY",
-            "artists": [
-                "Levi",
-                "Akon",
-                "Roy Woods",
-                "Halle Abadi"
-            ],
-            "album": "HONEY",
-            "played_at": "02/05/2026 - 15:55:19"
-        },
-        {
-            "song_name": "COLD OUTSIDE",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "COLD OUTSIDE",
-            "played_at": "02/05/2026 - 15:51:50"
-        },
-        {
-            "song_name": "Soul Survivor",
-            "artists": [
-                "Jeezy",
-                "Akon"
-            ],
-            "album": "Let's Get It: Thug Motivation 101",
-            "played_at": "05/05/2026 - 11:32:53"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1701,6 +1608,90 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "12/05/2026 - 15:03:08"
+        },
+        {
+            "song_name": "I Can't Wait",
+            "artists": [
+                "Gavin Moss",
+                "RUSSI"
+            ],
+            "album": "I Can't Wait",
+            "played_at": "12/05/2026 - 16:01:12"
+        },
+        {
+            "song_name": "You Said Forever",
+            "artists": [
+                "NM"
+            ],
+            "album": "You Said Forever",
+            "played_at": "12/05/2026 - 15:59:00"
+        },
+        {
+            "song_name": "Where Distance Fades",
+            "artists": [
+                "Lynnic"
+            ],
+            "album": "Where Distance Fades",
+            "played_at": "12/05/2026 - 15:54:47"
+        },
+        {
+            "song_name": "My Sun",
+            "artists": [
+                "IronBass"
+            ],
+            "album": "My Sun",
+            "played_at": "12/05/2026 - 15:51:35"
+        },
+        {
+            "song_name": "Nala (Bring Me Home)",
+            "artists": [
+                "Civara"
+            ],
+            "album": "Nala (Bring Me Home)",
+            "played_at": "12/05/2026 - 15:46:42"
+        },
+        {
+            "song_name": "Ala Ede",
+            "artists": [
+                "Palm Monkey",
+                "Oceanside",
+                "MOWA"
+            ],
+            "album": "Ala Ede",
+            "played_at": "12/05/2026 - 15:44:17"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "12/05/2026 - 15:41:46"
+        },
+        {
+            "song_name": "Falling into You",
+            "artists": [
+                "Soulflow"
+            ],
+            "album": "Deeper",
+            "played_at": "12/05/2026 - 15:37:37"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "12/05/2026 - 15:35:31"
+        },
+        {
+            "song_name": "Wait For You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Wait For You",
+            "played_at": "12/05/2026 - 15:32:54"
         }
     ]
 }
