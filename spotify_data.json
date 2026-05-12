@@ -1,80 +1,6 @@
 {
-    "total_plays": 5148,
+    "total_plays": 5157,
     "tracks": [
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "29/04/2026 - 15:49:16"
-        },
-        {
-            "song_name": "Want U",
-            "artists": [
-                "Hayley May"
-            ],
-            "album": "Want U",
-            "played_at": "29/04/2026 - 15:45:46"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "TCTS",
-                "Hayley May"
-            ],
-            "album": "Daylight",
-            "played_at": "29/04/2026 - 15:38:27"
-        },
-        {
-            "song_name": "Naive",
-            "artists": [
-                "Killen."
-            ],
-            "album": "How Does It Feel",
-            "played_at": "29/04/2026 - 16:45:46"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "29/04/2026 - 16:42:46"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "29/04/2026 - 16:40:46"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "29/04/2026 - 16:38:46"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "29/04/2026 - 16:22:16"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "29/04/2026 - 16:18:46"
-        },
         {
             "song_name": "SHADES OF BLUE",
             "artists": [
@@ -1698,6 +1624,82 @@
             ],
             "album": "Your Eyes",
             "played_at": "12/05/2026 - 13:18:35"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "12/05/2026 - 14:00:20"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "12/05/2026 - 13:57:02"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "12/05/2026 - 13:54:23"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "12/05/2026 - 13:51:03"
+        },
+        {
+            "song_name": "You Are the Right One",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Naked All the Time",
+            "played_at": "12/05/2026 - 13:46:34"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "12/05/2026 - 13:43:41"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Quavo",
+                "Juicy J"
+            ],
+            "album": "TYCOON",
+            "played_at": "12/05/2026 - 13:41:04"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "12/05/2026 - 13:38:51"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "12/05/2026 - 13:35:32"
         }
     ]
 }
