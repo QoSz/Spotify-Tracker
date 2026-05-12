@@ -1,31 +1,6 @@
 {
-    "total_plays": 5200,
+    "total_plays": 5203,
     "tracks": [
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "05/05/2026 - 22:21:49"
-        },
-        {
-            "song_name": "Running Back",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Running Back",
-            "played_at": "05/05/2026 - 22:19:30"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "05/05/2026 - 22:16:48"
-        },
         {
             "song_name": "fade out",
             "artists": [
@@ -1692,6 +1667,32 @@
             ],
             "album": "Feeling (Hold On You)",
             "played_at": "12/05/2026 - 16:35:08"
+        },
+        {
+            "song_name": "Self Control",
+            "artists": [
+                "Lynnic",
+                "ItsArius",
+                "Lilly"
+            ],
+            "album": "Self Control",
+            "played_at": "12/05/2026 - 21:22:04"
+        },
+        {
+            "song_name": "cloud chaser",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "12/05/2026 - 21:19:11"
+        },
+        {
+            "song_name": "I got you",
+            "artists": [
+                "Disclaimer"
+            ],
+            "album": "I got you",
+            "played_at": "12/05/2026 - 21:15:38"
         }
     ]
 }
