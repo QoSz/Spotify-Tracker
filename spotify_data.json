@@ -1,14 +1,6 @@
 {
-    "total_plays": 5143,
+    "total_plays": 5144,
     "tracks": [
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Push It",
-            "played_at": "29/04/2026 - 12:33:40"
-        },
         {
             "song_name": "Slide",
             "artists": [
@@ -1698,6 +1690,14 @@
             ],
             "album": "Dreams",
             "played_at": "11/05/2026 - 20:00:54"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "12/05/2026 - 12:56:40"
         }
     ]
 }
