@@ -1,52 +1,6 @@
 {
-    "total_plays": 5267,
+    "total_plays": 5272,
     "tracks": [
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "07/05/2026 - 20:44:52"
-        },
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "07/05/2026 - 20:42:13"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "07/05/2026 - 20:39:29"
-        },
-        {
-            "song_name": "Keep Me",
-            "artists": [
-                "Julien Fade",
-                "Tudor",
-                "Caroline Byrne"
-            ],
-            "album": "Keep Me",
-            "played_at": "07/05/2026 - 20:37:09"
-        },
-        {
-            "song_name": "CARMEN - 8181 Enzo Remix",
-            "artists": [
-                "Airmow",
-                "Reiyo The Giant",
-                "Enzo"
-            ],
-            "album": "CARMEN (8181 Enzo Remix)",
-            "played_at": "07/05/2026 - 20:33:49"
-        },
         {
             "song_name": "AWGAZI (Sunset Remix)",
             "artists": [
@@ -1684,6 +1638,47 @@
             ],
             "album": "What You Saying",
             "played_at": "13/05/2026 - 09:28:03"
+        },
+        {
+            "song_name": "MR HIM",
+            "artists": [
+                "T.I."
+            ],
+            "album": "MR HIM",
+            "played_at": "13/05/2026 - 12:58:51"
+        },
+        {
+            "song_name": "We wanna play",
+            "artists": [
+                "Ronis Goliath"
+            ],
+            "album": "We wanna play",
+            "played_at": "13/05/2026 - 12:51:22"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "13/05/2026 - 12:38:51"
+        },
+        {
+            "song_name": "Real Life (feat. Stormzy)",
+            "artists": [
+                "Burna Boy",
+                "Stormzy"
+            ],
+            "album": "Twice As Tall",
+            "played_at": "13/05/2026 - 12:36:31"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "13/05/2026 - 12:36:23"
         }
     ]
 }
