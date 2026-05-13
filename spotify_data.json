@@ -1,138 +1,6 @@
 {
-    "total_plays": 5251,
+    "total_plays": 5267,
     "tracks": [
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "07/05/2026 - 20:01:34"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "07/05/2026 - 20:30:25"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "07/05/2026 - 20:27:58"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "07/05/2026 - 20:25:22"
-        },
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "07/05/2026 - 20:21:38"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "07/05/2026 - 20:18:46"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "07/05/2026 - 20:13:38"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "07/05/2026 - 20:10:58"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "07/05/2026 - 20:08:38"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "07/05/2026 - 20:04:08"
-        },
-        {
-            "song_name": "Falling into You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "07/05/2026 - 20:59:59"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "07/05/2026 - 20:57:54"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "07/05/2026 - 20:55:00"
-        },
-        {
-            "song_name": "White Flag Down",
-            "artists": [
-                "Sam Welch"
-            ],
-            "album": "White Flag Down",
-            "played_at": "07/05/2026 - 20:51:53"
-        },
-        {
-            "song_name": "Waiting for Love",
-            "artists": [
-                "Tudor",
-                "Embody"
-            ],
-            "album": "Waiting for Love",
-            "played_at": "07/05/2026 - 20:49:49"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "07/05/2026 - 20:47:17"
-        },
         {
             "song_name": "Bits of Hope",
             "artists": [
@@ -1682,6 +1550,140 @@
             ],
             "album": "Oceanchild",
             "played_at": "13/05/2026 - 05:49:45"
+        },
+        {
+            "song_name": "Pursuit Of Happiness (Nightmare)",
+            "artists": [
+                "Kid Cudi",
+                "MGMT",
+                "Ratatat"
+            ],
+            "album": "Man On The Moon: The End Of Day (Int'l Version)",
+            "played_at": "13/05/2026 - 11:12:10"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "13/05/2026 - 10:31:20"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "13/05/2026 - 10:16:30"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "13/05/2026 - 10:08:30"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Quavo",
+                "Juicy J"
+            ],
+            "album": "TYCOON",
+            "played_at": "13/05/2026 - 10:03:52"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "13/05/2026 - 10:01:52"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "13/05/2026 - 09:58:52"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "13/05/2026 - 09:54:52"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "13/05/2026 - 09:47:52"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "13/05/2026 - 09:43:53"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "13/05/2026 - 09:42:22"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "13/05/2026 - 09:40:22"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "13/05/2026 - 09:37:52"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "13/05/2026 - 09:35:52"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "13/05/2026 - 09:32:53"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "13/05/2026 - 09:28:03"
         }
     ]
 }
