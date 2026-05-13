@@ -1,41 +1,6 @@
 {
-    "total_plays": 5272,
+    "total_plays": 5276,
     "tracks": [
-        {
-            "song_name": "AWGAZI (Sunset Remix)",
-            "artists": [
-                "Lucas Estrada",
-                "Palm Monkey",
-                "RUSSI",
-                "DALEXO"
-            ],
-            "album": "AWGAZI",
-            "played_at": "07/05/2026 - 21:30:33"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "07/05/2026 - 21:27:59"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "07/05/2026 - 21:23:57"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "07/05/2026 - 21:21:06"
-        },
         {
             "song_name": "Reasons",
             "artists": [
@@ -1679,6 +1644,39 @@
             ],
             "album": "Man On The Moon II: The Legend Of Mr. Rager",
             "played_at": "13/05/2026 - 12:36:23"
+        },
+        {
+            "song_name": "Into The Neighbourhood",
+            "artists": [
+                "PLGRMS"
+            ],
+            "album": "Into The Neighbourhood",
+            "played_at": "13/05/2026 - 13:30:21"
+        },
+        {
+            "song_name": "Bitter",
+            "artists": [
+                "Palace"
+            ],
+            "album": "So Long Forever",
+            "played_at": "13/05/2026 - 13:21:21"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "13/05/2026 - 13:07:51"
+        },
+        {
+            "song_name": "600 Racks",
+            "artists": [
+                "Meek Mill"
+            ],
+            "album": "600 Racks",
+            "played_at": "13/05/2026 - 13:01:51"
         }
     ]
 }
