@@ -1,14 +1,6 @@
 {
-    "total_plays": 5285,
+    "total_plays": 5286,
     "tracks": [
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "07/05/2026 - 21:50:45"
-        },
         {
             "song_name": "sweet love",
             "artists": [
@@ -1672,6 +1664,14 @@
             ],
             "album": "Blue Sky Mentality",
             "played_at": "13/05/2026 - 14:02:00"
+        },
+        {
+            "song_name": "Echoes of Rest",
+            "artists": [
+                "Harmonic Reverie"
+            ],
+            "album": "Echoes of Rest",
+            "played_at": "14/05/2026 - 11:00:21"
         }
     ]
 }
