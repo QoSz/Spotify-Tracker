@@ -1,103 +1,6 @@
 {
-    "total_plays": 5289,
+    "total_plays": 5300,
     "tracks": [
-        {
-            "song_name": "Haunt You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "07/05/2026 - 21:37:44"
-        },
-        {
-            "song_name": "Be The One",
-            "artists": [
-                "Adam Port",
-                "SG Lewis",
-                "Keinemusik"
-            ],
-            "album": "Be The One",
-            "played_at": "07/05/2026 - 21:33:58"
-        },
-        {
-            "song_name": "Get Close",
-            "artists": [
-                "Bolier",
-                "AMRV"
-            ],
-            "album": "Get Close",
-            "played_at": "07/05/2026 - 22:31:40"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "07/05/2026 - 22:28:37"
-        },
-        {
-            "song_name": "I Drift Out, Then Return",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "07/05/2026 - 22:26:09"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "07/05/2026 - 22:23:49"
-        },
-        {
-            "song_name": "Nobody Knows - Belters Only Remix",
-            "artists": [
-                "Ape Drums",
-                "Clementine Douglas",
-                "Belters Only"
-            ],
-            "album": "Nobody Knows (Belters Only Remix)",
-            "played_at": "07/05/2026 - 22:21:00"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "07/05/2026 - 22:17:44"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "Biscits",
-                "Ekko"
-            ],
-            "album": "Heartbeat",
-            "played_at": "07/05/2026 - 22:15:43"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "07/05/2026 - 22:12:49"
-        },
-        {
-            "song_name": "Let Me",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "07/05/2026 - 22:09:24"
-        },
         {
             "song_name": "Daylight",
             "artists": [
@@ -1670,6 +1573,99 @@
             ],
             "album": "I Love You.",
             "played_at": "18/05/2026 - 12:02:12"
+        },
+        {
+            "song_name": "SHADES OF BLUE",
+            "artists": [
+                "John Summit",
+                "Devault",
+                "Julia Church"
+            ],
+            "album": "CTRL ESCAPE",
+            "played_at": "18/05/2026 - 14:01:46"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "18/05/2026 - 13:58:21"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "18/05/2026 - 13:55:09"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "18/05/2026 - 13:52:31"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "18/05/2026 - 13:49:53"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "18/05/2026 - 13:47:25"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "18/05/2026 - 13:44:04"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "18/05/2026 - 13:41:34"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "18/05/2026 - 13:38:39"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "18/05/2026 - 13:34:00"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "18/05/2026 - 13:31:21"
         }
     ]
 }
