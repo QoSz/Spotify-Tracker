@@ -1,15 +1,6 @@
 {
-    "total_plays": 5288,
+    "total_plays": 5289,
     "tracks": [
-        {
-            "song_name": "Hold on Me",
-            "artists": [
-                "Why U So",
-                "SHELLS"
-            ],
-            "album": "Hold on Me",
-            "played_at": "07/05/2026 - 21:40:33"
-        },
         {
             "song_name": "Haunt You",
             "artists": [
@@ -1671,6 +1662,14 @@
             ],
             "album": "ICEMAN",
             "played_at": "17/05/2026 - 14:59:03"
+        },
+        {
+            "song_name": "Sweater Weather",
+            "artists": [
+                "The Neighbourhood"
+            ],
+            "album": "I Love You.",
+            "played_at": "18/05/2026 - 12:02:12"
         }
     ]
 }
