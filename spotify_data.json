@@ -1,34 +1,6 @@
 {
-    "total_plays": 5304,
+    "total_plays": 5307,
     "tracks": [
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "07/05/2026 - 22:51:02"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "07/05/2026 - 22:45:19"
-        },
-        {
-            "song_name": "Life with You",
-            "artists": [
-                "INNERVERSE",
-                "Paul Schulze",
-                "Oliver Cricket",
-                "Courtney Storm"
-            ],
-            "album": "Life with You",
-            "played_at": "07/05/2026 - 22:42:40"
-        },
         {
             "song_name": "Where Nobody Knows",
             "artists": [
@@ -1665,6 +1637,30 @@
             ],
             "album": "ICEMAN",
             "played_at": "19/05/2026 - 13:13:20"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "19/05/2026 - 18:04:02"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "19/05/2026 - 18:00:06"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/05/2026 - 16:49:41"
         }
     ]
 }
