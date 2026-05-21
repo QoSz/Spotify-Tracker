@@ -1,15 +1,6 @@
 {
-    "total_plays": 5307,
+    "total_plays": 5308,
     "tracks": [
-        {
-            "song_name": "Where Nobody Knows",
-            "artists": [
-                "Hyzteria",
-                "Dakota"
-            ],
-            "album": "Where Nobody Knows",
-            "played_at": "07/05/2026 - 22:40:02"
-        },
         {
             "song_name": "Remember",
             "artists": [
@@ -1661,6 +1652,14 @@
             ],
             "album": "Your Eyes",
             "played_at": "19/05/2026 - 16:49:41"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "21/05/2026 - 02:41:00"
         }
     ]
 }
