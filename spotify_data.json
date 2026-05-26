@@ -1,427 +1,6 @@
 {
-    "total_plays": 5362,
+    "total_plays": 5412,
     "tracks": [
-        {
-            "song_name": "FIRE",
-            "artists": [
-                "Palm Monkey",
-                "The Palm Tree Boy",
-                "Boix & Breakloop",
-                "VANDR"
-            ],
-            "album": "FIRE",
-            "played_at": "12/05/2026 - 15:19:00"
-        },
-        {
-            "song_name": "Somewhere in Ibiza",
-            "artists": [
-                "Walk on Water",
-                "XOXO"
-            ],
-            "album": "Somewhere in Ibiza",
-            "played_at": "12/05/2026 - 15:16:43"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "JAS1X",
-                "Golowko",
-                "Dinia"
-            ],
-            "album": "Move Me",
-            "played_at": "12/05/2026 - 15:14:13"
-        },
-        {
-            "song_name": "Simple",
-            "artists": [
-                "ItsArius"
-            ],
-            "album": "Simple",
-            "played_at": "12/05/2026 - 15:11:13"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "12/05/2026 - 15:08:42"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "12/05/2026 - 15:05:30"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "12/05/2026 - 15:03:08"
-        },
-        {
-            "song_name": "I Can't Wait",
-            "artists": [
-                "Gavin Moss",
-                "RUSSI"
-            ],
-            "album": "I Can't Wait",
-            "played_at": "12/05/2026 - 16:01:12"
-        },
-        {
-            "song_name": "You Said Forever",
-            "artists": [
-                "NM"
-            ],
-            "album": "You Said Forever",
-            "played_at": "12/05/2026 - 15:59:00"
-        },
-        {
-            "song_name": "Where Distance Fades",
-            "artists": [
-                "Lynnic"
-            ],
-            "album": "Where Distance Fades",
-            "played_at": "12/05/2026 - 15:54:47"
-        },
-        {
-            "song_name": "My Sun",
-            "artists": [
-                "IronBass"
-            ],
-            "album": "My Sun",
-            "played_at": "12/05/2026 - 15:51:35"
-        },
-        {
-            "song_name": "Nala (Bring Me Home)",
-            "artists": [
-                "Civara"
-            ],
-            "album": "Nala (Bring Me Home)",
-            "played_at": "12/05/2026 - 15:46:42"
-        },
-        {
-            "song_name": "Ala Ede",
-            "artists": [
-                "Palm Monkey",
-                "Oceanside",
-                "MOWA"
-            ],
-            "album": "Ala Ede",
-            "played_at": "12/05/2026 - 15:44:17"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "12/05/2026 - 15:41:46"
-        },
-        {
-            "song_name": "Falling into You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "12/05/2026 - 15:37:37"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "12/05/2026 - 15:35:31"
-        },
-        {
-            "song_name": "Wait For You",
-            "artists": [
-                "WizTheMc"
-            ],
-            "album": "Wait For You",
-            "played_at": "12/05/2026 - 15:32:54"
-        },
-        {
-            "song_name": "Move Me",
-            "artists": [
-                "JAS1X",
-                "Golowko",
-                "Dinia"
-            ],
-            "album": "Move Me",
-            "played_at": "12/05/2026 - 16:31:30"
-        },
-        {
-            "song_name": "Broken Summer",
-            "artists": [
-                "Mondingo",
-                "Dizaro"
-            ],
-            "album": "Broken Summer",
-            "played_at": "12/05/2026 - 16:28:30"
-        },
-        {
-            "song_name": "Hold Somebody",
-            "artists": [
-                "Téo Amo"
-            ],
-            "album": "Hold Somebody",
-            "played_at": "12/05/2026 - 16:25:52"
-        },
-        {
-            "song_name": "Something About You",
-            "artists": [
-                "aiden"
-            ],
-            "album": "Something About You",
-            "played_at": "12/05/2026 - 16:23:06"
-        },
-        {
-            "song_name": "jupiter",
-            "artists": [
-                "almost monday"
-            ],
-            "album": "DIVE",
-            "played_at": "12/05/2026 - 16:19:30"
-        },
-        {
-            "song_name": "Think About U",
-            "artists": [
-                "NOAM",
-                "D3EPANK"
-            ],
-            "album": "Think About U",
-            "played_at": "12/05/2026 - 16:16:28"
-        },
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "12/05/2026 - 16:14:26"
-        },
-        {
-            "song_name": "Hurt You",
-            "artists": [
-                "Crunkz"
-            ],
-            "album": "Hurt You",
-            "played_at": "12/05/2026 - 16:12:08"
-        },
-        {
-            "song_name": "All Falls Down",
-            "artists": [
-                "Kanye West",
-                "Syleena Johnson"
-            ],
-            "album": "The College Dropout",
-            "played_at": "12/05/2026 - 16:09:46"
-        },
-        {
-            "song_name": "Drummin",
-            "artists": [
-                "Benne"
-            ],
-            "album": "Drummin",
-            "played_at": "12/05/2026 - 16:06:02"
-        },
-        {
-            "song_name": "Don't Let Me Fall",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Don't Let Me Fall",
-            "played_at": "12/05/2026 - 16:03:46"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "12/05/2026 - 16:59:44"
-        },
-        {
-            "song_name": "Tell Me Why",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Tell Me Why",
-            "played_at": "12/05/2026 - 16:57:24"
-        },
-        {
-            "song_name": "still prevail",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "One of Wun",
-            "played_at": "12/05/2026 - 16:53:55"
-        },
-        {
-            "song_name": "FIRE",
-            "artists": [
-                "Palm Monkey",
-                "The Palm Tree Boy",
-                "Boix & Breakloop",
-                "VANDR"
-            ],
-            "album": "FIRE",
-            "played_at": "12/05/2026 - 16:50:43"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "12/05/2026 - 16:48:55"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "12/05/2026 - 16:45:13"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "12/05/2026 - 16:42:07"
-        },
-        {
-            "song_name": "Falling into You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "12/05/2026 - 16:39:45"
-        },
-        {
-            "song_name": "Simple",
-            "artists": [
-                "ItsArius"
-            ],
-            "album": "Simple",
-            "played_at": "12/05/2026 - 16:37:39"
-        },
-        {
-            "song_name": "Feeling (Hold On You)",
-            "artists": [
-                "Rules",
-                "MURPHY"
-            ],
-            "album": "Feeling (Hold On You)",
-            "played_at": "12/05/2026 - 16:35:08"
-        },
-        {
-            "song_name": "Self Control",
-            "artists": [
-                "Lynnic",
-                "ItsArius",
-                "Lilly"
-            ],
-            "album": "Self Control",
-            "played_at": "12/05/2026 - 21:22:04"
-        },
-        {
-            "song_name": "cloud chaser",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "12/05/2026 - 21:19:11"
-        },
-        {
-            "song_name": "I got you",
-            "artists": [
-                "Disclaimer"
-            ],
-            "album": "I got you",
-            "played_at": "12/05/2026 - 21:15:38"
-        },
-        {
-            "song_name": "Along the Way",
-            "artists": [
-                "Koma"
-            ],
-            "album": "Along the Way",
-            "played_at": "13/05/2026 - 07:47:15"
-        },
-        {
-            "song_name": "I No Longer",
-            "artists": [
-                "Alsephina"
-            ],
-            "album": "I No Longer",
-            "played_at": "13/05/2026 - 07:44:45"
-        },
-        {
-            "song_name": "Carried by Stillness",
-            "artists": [
-                "Manolakas"
-            ],
-            "album": "Carried by Stillness",
-            "played_at": "13/05/2026 - 07:42:15"
-        },
-        {
-            "song_name": "Resonances",
-            "artists": [
-                "tonin"
-            ],
-            "album": "Resonances",
-            "played_at": "13/05/2026 - 07:40:15"
-        },
-        {
-            "song_name": "Anticipation",
-            "artists": [
-                "Avelio"
-            ],
-            "album": "Anticipation",
-            "played_at": "13/05/2026 - 07:37:45"
-        },
-        {
-            "song_name": "Pneuma",
-            "artists": [
-                "Claira Mikkelsen"
-            ],
-            "album": "Pneuma",
-            "played_at": "13/05/2026 - 07:35:15"
-        },
-        {
-            "song_name": "Held",
-            "artists": [
-                "Priy"
-            ],
-            "album": "Held",
-            "played_at": "13/05/2026 - 07:33:15"
-        },
-        {
-            "song_name": "Moment of Peace",
-            "artists": [
-                "Restful Minds"
-            ],
-            "album": "Moment of Peace",
-            "played_at": "13/05/2026 - 07:30:45"
-        },
-        {
-            "song_name": "Sage",
-            "artists": [
-                "Ljusnan"
-            ],
-            "album": "Sage",
-            "played_at": "13/05/2026 - 07:27:48"
-        },
         {
             "song_name": "Calm Current",
             "artists": [
@@ -1650,6 +1229,415 @@
             ],
             "album": "ICEMAN",
             "played_at": "26/05/2026 - 08:03:27"
+        },
+        {
+            "song_name": "Make Them Cry",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 16:22:38"
+        },
+        {
+            "song_name": "2 Hard 4 The Radio",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 16:09:49"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 14:11:32"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 13:59:08"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 13:55:06"
+        },
+        {
+            "song_name": "Let Me Be - Afro House",
+            "artists": [
+                "NovaX",
+                "Sevven"
+            ],
+            "album": "Let Me Be (Afro House)",
+            "played_at": "25/05/2026 - 03:16:55"
+        },
+        {
+            "song_name": "Jelele",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Jelele",
+            "played_at": "25/05/2026 - 03:14:09"
+        },
+        {
+            "song_name": "Soul",
+            "artists": [
+                "Yarden"
+            ],
+            "album": "Soul",
+            "played_at": "25/05/2026 - 03:11:55"
+        },
+        {
+            "song_name": "On The Low",
+            "artists": [
+                "Xtofa"
+            ],
+            "album": "On The Low",
+            "played_at": "25/05/2026 - 03:08:56"
+        },
+        {
+            "song_name": "Body",
+            "artists": [
+                "Miles Carter",
+                "Tyron Dixon"
+            ],
+            "album": "Body",
+            "played_at": "25/05/2026 - 03:06:50"
+        },
+        {
+            "song_name": "Attitude",
+            "artists": [
+                "azvre"
+            ],
+            "album": "Attitude",
+            "played_at": "25/05/2026 - 03:04:30"
+        },
+        {
+            "song_name": "Addicted",
+            "artists": [
+                "ZAYLO"
+            ],
+            "album": "Addicted",
+            "played_at": "25/05/2026 - 03:01:37"
+        },
+        {
+            "song_name": "One and Only - AseMix",
+            "artists": [
+                "Ase"
+            ],
+            "album": "One and Only (AseMix)",
+            "played_at": "25/05/2026 - 02:58:09"
+        },
+        {
+            "song_name": "You Broke Me",
+            "artists": [
+                "Miiles44"
+            ],
+            "album": "You Broke Me",
+            "played_at": "25/05/2026 - 02:53:28"
+        },
+        {
+            "song_name": "Morocco",
+            "artists": [
+                "zolaaa",
+                "KMST"
+            ],
+            "album": "Morocco",
+            "played_at": "25/05/2026 - 02:51:07"
+        },
+        {
+            "song_name": "Move Like Water",
+            "artists": [
+                "LAVIVA"
+            ],
+            "album": "Move Like Water",
+            "played_at": "25/05/2026 - 02:48:48"
+        },
+        {
+            "song_name": "LOCA LOCA",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI"
+            ],
+            "album": "LOCA LOCA",
+            "played_at": "25/05/2026 - 02:46:17"
+        },
+        {
+            "song_name": "Commas",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "The Year I Turned 21",
+            "played_at": "25/05/2026 - 02:44:10"
+        },
+        {
+            "song_name": "HIPS",
+            "artists": [
+                "RUSSI",
+                "EPPING"
+            ],
+            "album": "HIPS",
+            "played_at": "25/05/2026 - 02:41:33"
+        },
+        {
+            "song_name": "Whisper My Name",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/05/2026 - 02:34:30"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "24/05/2026 - 17:17:03"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "23/05/2026 - 23:01:24"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "23/05/2026 - 22:34:24"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "23/05/2026 - 22:20:18"
+        },
+        {
+            "song_name": "Burning Bridges",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 11:32:49"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 11:19:35"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 11:09:59"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:56:52"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:40:52"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:27:56"
+        },
+        {
+            "song_name": "Shabang",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:21:44"
+        },
+        {
+            "song_name": "Don’t Worry",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:18:42"
+        },
+        {
+            "song_name": "Make Them Pay",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:14:43"
+        },
+        {
+            "song_name": "Plot Twist",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:09:48"
+        },
+        {
+            "song_name": "2 Hard 4 The Radio",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:06:39"
+        },
+        {
+            "song_name": "Make Them Remember",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 10:03:43"
+        },
+        {
+            "song_name": "What Did I Miss?",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:58:26"
+        },
+        {
+            "song_name": "Dust",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:55:18"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:52:16"
+        },
+        {
+            "song_name": "Whisper My Name",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:50:06"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:45:59"
+        },
+        {
+            "song_name": "Janice STFU",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:41:08"
+        },
+        {
+            "song_name": "National Treasures",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:37:17"
+        },
+        {
+            "song_name": "Burning Bridges",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:33:58"
+        },
+        {
+            "song_name": "Make Them Cry",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:28:01"
+        },
+        {
+            "song_name": "Ran To Atlanta (feat. Future & Molly Santana)",
+            "artists": [
+                "Drake",
+                "Future",
+                "Molly Santana"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 09:01:14"
+        },
+        {
+            "song_name": "What Did I Miss?",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "22/05/2026 - 08:44:25"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "21/05/2026 - 15:55:10"
+        },
+        {
+            "song_name": "National Treasures",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "21/05/2026 - 15:52:53"
+        },
+        {
+            "song_name": "Make Them Pay",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "21/05/2026 - 15:46:09"
         }
     ]
 }
