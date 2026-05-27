@@ -1,22 +1,6 @@
 {
-    "total_plays": 5419,
+    "total_plays": 5421,
     "tracks": [
-        {
-            "song_name": "Consoling",
-            "artists": [
-                "Miriam van Steeg"
-            ],
-            "album": "Consoling",
-            "played_at": "13/05/2026 - 07:06:45"
-        },
-        {
-            "song_name": "Evermore",
-            "artists": [
-                "Orchestrate the Universe"
-            ],
-            "album": "Evermore",
-            "played_at": "13/05/2026 - 07:04:15"
-        },
         {
             "song_name": "Gentle Memory",
             "artists": [
@@ -1647,6 +1631,22 @@
             ],
             "album": "Count On You (feat. Lil Wayne)",
             "played_at": "26/05/2026 - 22:00:44"
+        },
+        {
+            "song_name": "2POPS",
+            "artists": [
+                "Tyga"
+            ],
+            "album": "2POPS",
+            "played_at": "27/05/2026 - 09:25:55"
+        },
+        {
+            "song_name": "still prevail",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "One of Wun",
+            "played_at": "27/05/2026 - 09:25:09"
         }
     ]
 }
