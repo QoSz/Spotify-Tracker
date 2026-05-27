@@ -1,14 +1,6 @@
 {
-    "total_plays": 5434,
+    "total_plays": 5435,
     "tracks": [
-        {
-            "song_name": "Gentle Signal",
-            "artists": [
-                "oceanfinder"
-            ],
-            "album": "Gentle Signal",
-            "played_at": "13/05/2026 - 06:30:15"
-        },
         {
             "song_name": "Sky Stuck",
             "artists": [
@@ -1650,6 +1642,14 @@
             ],
             "album": "HEART COLD",
             "played_at": "27/05/2026 - 09:32:33"
+        },
+        {
+            "song_name": "Set You Free",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Set You Free",
+            "played_at": "27/05/2026 - 10:10:10"
         }
     ]
 }
