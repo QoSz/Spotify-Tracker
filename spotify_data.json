@@ -1,14 +1,6 @@
 {
-    "total_plays": 5435,
+    "total_plays": 5436,
     "tracks": [
-        {
-            "song_name": "Sky Stuck",
-            "artists": [
-                "Tania T"
-            ],
-            "album": "Sky Stuck",
-            "played_at": "13/05/2026 - 06:28:15"
-        },
         {
             "song_name": "Featherlight",
             "artists": [
@@ -1650,6 +1642,14 @@
             ],
             "album": "Set You Free",
             "played_at": "27/05/2026 - 10:10:10"
+        },
+        {
+            "song_name": "GOLIATH",
+            "artists": [
+                "Boybreed"
+            ],
+            "album": "GOLIATH",
+            "played_at": "25/05/2026 - 03:27:05"
         }
     ]
 }
