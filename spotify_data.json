@@ -1,94 +1,6 @@
 {
-    "total_plays": 5423,
+    "total_plays": 5434,
     "tracks": [
-        {
-            "song_name": "Signs",
-            "artists": [
-                "L'air"
-            ],
-            "album": "Signs",
-            "played_at": "13/05/2026 - 06:56:45"
-        },
-        {
-            "song_name": "Interval",
-            "artists": [
-                "The Stillframe"
-            ],
-            "album": "Interval",
-            "played_at": "13/05/2026 - 06:54:15"
-        },
-        {
-            "song_name": "Gentle",
-            "artists": [
-                "Waves of Life"
-            ],
-            "album": "Gentle",
-            "played_at": "13/05/2026 - 06:52:15"
-        },
-        {
-            "song_name": "Soft Infinity",
-            "artists": [
-                "Novah Scotia"
-            ],
-            "album": "Soft Infinity",
-            "played_at": "13/05/2026 - 06:49:15"
-        },
-        {
-            "song_name": "Resolution",
-            "artists": [
-                "Calil"
-            ],
-            "album": "Resolution",
-            "played_at": "13/05/2026 - 06:47:15"
-        },
-        {
-            "song_name": "Inceptum",
-            "artists": [
-                "Amphose"
-            ],
-            "album": "Inceptum",
-            "played_at": "13/05/2026 - 06:45:15"
-        },
-        {
-            "song_name": "Quiet Depth",
-            "artists": [
-                "Chasing Storms"
-            ],
-            "album": "Quiet Depth",
-            "played_at": "13/05/2026 - 06:42:45"
-        },
-        {
-            "song_name": "Statera",
-            "artists": [
-                "Nubilum Vespera"
-            ],
-            "album": "Statera",
-            "played_at": "13/05/2026 - 06:40:16"
-        },
-        {
-            "song_name": "New Light Rising",
-            "artists": [
-                "Moonhollow"
-            ],
-            "album": "New Light Rising",
-            "played_at": "13/05/2026 - 06:37:46"
-        },
-        {
-            "song_name": "Ghost Concept",
-            "artists": [
-                "Abstract Mountain View"
-            ],
-            "album": "Ghost Concept",
-            "played_at": "13/05/2026 - 06:35:45"
-        },
-        {
-            "song_name": "Carolus",
-            "artists": [
-                "Luno Velle"
-            ],
-            "album": "Carolus",
-            "played_at": "13/05/2026 - 06:33:15"
-        },
         {
             "song_name": "Gentle Signal",
             "artists": [
@@ -1648,6 +1560,96 @@
             ],
             "album": "DIPLOMACY",
             "played_at": "27/05/2026 - 09:27:58"
+        },
+        {
+            "song_name": "Rodeo",
+            "artists": [
+                "Malz Monday"
+            ],
+            "album": "Rodeo",
+            "played_at": "27/05/2026 - 10:00:16"
+        },
+        {
+            "song_name": "Too Easy",
+            "artists": [
+                "Connor Price",
+                "Nic D"
+            ],
+            "album": "ICONIC",
+            "played_at": "27/05/2026 - 09:57:42"
+        },
+        {
+            "song_name": "E.O.T.",
+            "artists": [
+                "Justo the MC",
+                "Jay Rilez"
+            ],
+            "album": "E.O.T.",
+            "played_at": "27/05/2026 - 09:55:27"
+        },
+        {
+            "song_name": "SLOW",
+            "artists": [
+                "Ivan Ooze"
+            ],
+            "album": "SLOW",
+            "played_at": "27/05/2026 - 09:51:47"
+        },
+        {
+            "song_name": "Many Seasons",
+            "artists": [
+                "LOVIXX"
+            ],
+            "album": "Many Seasons",
+            "played_at": "27/05/2026 - 09:48:40"
+        },
+        {
+            "song_name": "LIFE IS A GAMBLE",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "LIFE IS A GAMBLE",
+            "played_at": "27/05/2026 - 09:45:29"
+        },
+        {
+            "song_name": "Tempt Me",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tempt Me",
+            "played_at": "27/05/2026 - 09:42:38"
+        },
+        {
+            "song_name": "MR HIM",
+            "artists": [
+                "T.I."
+            ],
+            "album": "MR HIM",
+            "played_at": "27/05/2026 - 09:40:27"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "27/05/2026 - 09:37:57"
+        },
+        {
+            "song_name": "Ghosts",
+            "artists": [
+                "French The Kid"
+            ],
+            "album": "Ghosts",
+            "played_at": "27/05/2026 - 09:35:42"
+        },
+        {
+            "song_name": "HEART COLD",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "HEART COLD",
+            "played_at": "27/05/2026 - 09:32:33"
         }
     ]
 }
