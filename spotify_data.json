@@ -1,24 +1,6 @@
 {
-    "total_plays": 5421,
+    "total_plays": 5423,
     "tracks": [
-        {
-            "song_name": "Gentle Memory",
-            "artists": [
-                "Aemilune"
-            ],
-            "album": "Gentle Memory",
-            "played_at": "13/05/2026 - 07:01:45"
-        },
-        {
-            "song_name": "Blue Stream",
-            "artists": [
-                "Mdore",
-                "Sizmara",
-                "Dreaming Phase"
-            ],
-            "album": "Blue Stream",
-            "played_at": "13/05/2026 - 06:59:15"
-        },
         {
             "song_name": "Signs",
             "artists": [
@@ -1647,6 +1629,25 @@
             ],
             "album": "One of Wun",
             "played_at": "27/05/2026 - 09:25:09"
+        },
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "27/05/2026 - 09:30:16"
+        },
+        {
+            "song_name": "DIPLOMACY",
+            "artists": [
+                "MUNI",
+                "The Game",
+                "Redman",
+                "Mistah F.A.B."
+            ],
+            "album": "DIPLOMACY",
+            "played_at": "27/05/2026 - 09:27:58"
         }
     ]
 }
