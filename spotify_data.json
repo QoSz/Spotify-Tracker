@@ -1,46 +1,6 @@
 {
-    "total_plays": 5436,
+    "total_plays": 5441,
     "tracks": [
-        {
-            "song_name": "Featherlight",
-            "artists": [
-                "Seijaku"
-            ],
-            "album": "Featherlight",
-            "played_at": "13/05/2026 - 06:25:45"
-        },
-        {
-            "song_name": "Vacancy",
-            "artists": [
-                "Solitudes"
-            ],
-            "album": "Vacancy",
-            "played_at": "13/05/2026 - 06:23:15"
-        },
-        {
-            "song_name": "Cosmosis",
-            "artists": [
-                "Bliss Phenomena"
-            ],
-            "album": "Cosmosis",
-            "played_at": "13/05/2026 - 06:21:15"
-        },
-        {
-            "song_name": "Empty Shapes",
-            "artists": [
-                "Noémie Bohman"
-            ],
-            "album": "Empty Shapes",
-            "played_at": "13/05/2026 - 06:18:45"
-        },
-        {
-            "song_name": "Nebulessa",
-            "artists": [
-                "Sheila's Disciples"
-            ],
-            "album": "Nebulessa",
-            "played_at": "13/05/2026 - 06:16:15"
-        },
         {
             "song_name": "Unfold",
             "artists": [
@@ -1650,6 +1610,48 @@
             ],
             "album": "GOLIATH",
             "played_at": "25/05/2026 - 03:27:05"
+        },
+        {
+            "song_name": "Homecoming",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "Eternal Atake",
+            "played_at": "27/05/2026 - 20:29:28"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "27/05/2026 - 20:25:54"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "27/05/2026 - 20:19:13"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "27/05/2026 - 20:12:02"
+        },
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "27/05/2026 - 20:06:45"
         }
     ]
 }
