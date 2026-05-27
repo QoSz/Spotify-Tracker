@@ -1,46 +1,6 @@
 {
-    "total_plays": 5441,
+    "total_plays": 5446,
     "tracks": [
-        {
-            "song_name": "Unfold",
-            "artists": [
-                "Aiyden"
-            ],
-            "album": "Unfold",
-            "played_at": "13/05/2026 - 06:13:45"
-        },
-        {
-            "song_name": "Relieved",
-            "artists": [
-                "Taylor Dawson"
-            ],
-            "album": "Relieved",
-            "played_at": "13/05/2026 - 06:11:15"
-        },
-        {
-            "song_name": "New Present",
-            "artists": [
-                "Umi no Yume"
-            ],
-            "album": "New Present",
-            "played_at": "13/05/2026 - 06:08:15"
-        },
-        {
-            "song_name": "Lightfall",
-            "artists": [
-                "Drift three"
-            ],
-            "album": "Lightfall",
-            "played_at": "13/05/2026 - 06:05:45"
-        },
-        {
-            "song_name": "Smooth Interaction",
-            "artists": [
-                "Institute of Noise"
-            ],
-            "album": "Smooth Interaction",
-            "played_at": "13/05/2026 - 06:03:15"
-        },
         {
             "song_name": "Echoverse",
             "artists": [
@@ -1652,6 +1612,50 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "27/05/2026 - 20:06:45"
+        },
+        {
+            "song_name": "Ghosts",
+            "artists": [
+                "French The Kid"
+            ],
+            "album": "Ghosts",
+            "played_at": "27/05/2026 - 20:43:12"
+        },
+        {
+            "song_name": "HEART COLD",
+            "artists": [
+                "Thekidszn"
+            ],
+            "album": "HEART COLD",
+            "played_at": "27/05/2026 - 20:40:04"
+        },
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "27/05/2026 - 20:37:47"
+        },
+        {
+            "song_name": "DIPLOMACY",
+            "artists": [
+                "MUNI",
+                "The Game",
+                "Redman",
+                "Mistah F.A.B."
+            ],
+            "album": "DIPLOMACY",
+            "played_at": "27/05/2026 - 20:35:29"
+        },
+        {
+            "song_name": "FOREIGN CAR (with Bad Vegans)",
+            "artists": [
+                "Base Hollow",
+                "Bad Vegans"
+            ],
+            "album": "FOREIGN CAR (with Bad Vegans)",
+            "played_at": "27/05/2026 - 20:31:47"
         }
     ]
 }
