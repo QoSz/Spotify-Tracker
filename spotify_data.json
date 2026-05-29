@@ -1,86 +1,6 @@
 {
-    "total_plays": 5478,
+    "total_plays": 5488,
     "tracks": [
-        {
-            "song_name": "come on home",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "13/05/2026 - 13:51:51"
-        },
-        {
-            "song_name": "Have Faith",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "13/05/2026 - 13:46:51"
-        },
-        {
-            "song_name": "Within You, Within Me",
-            "artists": [
-                "Meltt"
-            ],
-            "album": "Eternal Embers",
-            "played_at": "13/05/2026 - 13:41:51"
-        },
-        {
-            "song_name": "Feels So Good",
-            "artists": [
-                "Limón Limón"
-            ],
-            "album": "Feels So Good",
-            "played_at": "13/05/2026 - 13:38:21"
-        },
-        {
-            "song_name": "Human Condition",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Must Be Nice",
-            "played_at": "13/05/2026 - 13:35:21"
-        },
-        {
-            "song_name": "222",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "222",
-            "played_at": "13/05/2026 - 14:06:55"
-        },
-        {
-            "song_name": "Starry Eyed",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "13/05/2026 - 14:02:00"
-        },
-        {
-            "song_name": "Echoes of Rest",
-            "artists": [
-                "Harmonic Reverie"
-            ],
-            "album": "Echoes of Rest",
-            "played_at": "14/05/2026 - 11:00:21"
-        },
-        {
-            "song_name": "What Did I Miss?",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "15/05/2026 - 19:51:53"
-        },
-        {
-            "song_name": "Make Them Cry",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "17/05/2026 - 14:59:03"
-        },
         {
             "song_name": "Sweater Weather",
             "artists": [
@@ -1662,6 +1582,93 @@
             ],
             "album": "DOG HOUSE",
             "played_at": "29/05/2026 - 15:32:32"
+        },
+        {
+            "song_name": "DIE TRYING",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Yebba"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:31:10"
+        },
+        {
+            "song_name": "NOKIA",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:27:55"
+        },
+        {
+            "song_name": "MEET YOUR PADRE",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Chino Pacas"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:23:54"
+        },
+        {
+            "song_name": "LASERS",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:19:22"
+        },
+        {
+            "song_name": "RAINING IN HOUSTON",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:16:04"
+        },
+        {
+            "song_name": "GIMME A HUG",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:11:59"
+        },
+        {
+            "song_name": "BRIAN STEEL",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:08:46"
+        },
+        {
+            "song_name": "PIMMIE'S DILEMMA",
+            "artists": [
+                "Pimmie",
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:06:54"
+        },
+        {
+            "song_name": "SMALL TOWN FAME",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:04:56"
+        },
+        {
+            "song_name": "DEEPER",
+            "artists": [
+                "PARTYNEXTDOOR"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:02:28"
         }
     ]
 }
