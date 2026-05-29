@@ -1,75 +1,6 @@
 {
-    "total_plays": 5488,
+    "total_plays": 5496,
     "tracks": [
-        {
-            "song_name": "Sweater Weather",
-            "artists": [
-                "The Neighbourhood"
-            ],
-            "album": "I Love You.",
-            "played_at": "18/05/2026 - 12:02:12"
-        },
-        {
-            "song_name": "SHADES OF BLUE",
-            "artists": [
-                "John Summit",
-                "Devault",
-                "Julia Church"
-            ],
-            "album": "CTRL ESCAPE",
-            "played_at": "18/05/2026 - 14:01:46"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "18/05/2026 - 13:58:21"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "18/05/2026 - 13:55:09"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "18/05/2026 - 13:52:31"
-        },
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "18/05/2026 - 13:49:53"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "18/05/2026 - 13:47:25"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "18/05/2026 - 13:44:04"
-        },
         {
             "song_name": "Slide",
             "artists": [
@@ -1669,6 +1600,76 @@
             ],
             "album": "$ome $exy $ongs 4 U",
             "played_at": "29/05/2026 - 16:02:28"
+        },
+        {
+            "song_name": "Circadian Rhythm",
+            "artists": [
+                "Drake"
+            ],
+            "album": "100 GIGS",
+            "played_at": "29/05/2026 - 16:59:47"
+        },
+        {
+            "song_name": "No Face",
+            "artists": [
+                "Drake"
+            ],
+            "album": "No Face",
+            "played_at": "29/05/2026 - 16:57:40"
+        },
+        {
+            "song_name": "GREEDY",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:55:22"
+        },
+        {
+            "song_name": "WHEN HE'S GONE",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:48:56"
+        },
+        {
+            "song_name": "GLORIOUS",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:45:26"
+        },
+        {
+            "song_name": "OMW",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:42:01"
+        },
+        {
+            "song_name": "CELIBACY",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:38:08"
+        },
+        {
+            "song_name": "SOMEBODY LOVES ME",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 16:34:13"
         }
     ]
 }
