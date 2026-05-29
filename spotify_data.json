@@ -1,74 +1,6 @@
 {
-    "total_plays": 5453,
+    "total_plays": 5461,
     "tracks": [
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "13/05/2026 - 10:16:30"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "13/05/2026 - 10:08:30"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Quavo",
-                "Juicy J"
-            ],
-            "album": "TYCOON",
-            "played_at": "13/05/2026 - 10:03:52"
-        },
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "13/05/2026 - 10:01:52"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "13/05/2026 - 09:58:52"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "13/05/2026 - 09:54:52"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "13/05/2026 - 09:47:52"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "13/05/2026 - 09:43:53"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1654,6 +1586,72 @@
             ],
             "album": "Where You Dey Go",
             "played_at": "29/05/2026 - 13:41:21"
+        },
+        {
+            "song_name": "Slap The City (feat. Qendresa)",
+            "artists": [
+                "Drake",
+                "Qendresa"
+            ],
+            "album": "HABIBTI",
+            "played_at": "29/05/2026 - 15:00:12"
+        },
+        {
+            "song_name": "WNBA",
+            "artists": [
+                "Drake"
+            ],
+            "album": "HABIBTI",
+            "played_at": "29/05/2026 - 14:56:50"
+        },
+        {
+            "song_name": "Rusty Intro",
+            "artists": [
+                "Drake"
+            ],
+            "album": "HABIBTI",
+            "played_at": "29/05/2026 - 14:53:52"
+        },
+        {
+            "song_name": "Princess",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:52:49"
+        },
+        {
+            "song_name": "Goose and The Juice",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:49:35"
+        },
+        {
+            "song_name": "Stuck",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:45:11"
+        },
+        {
+            "song_name": "Q&A",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:42:14"
+        },
+        {
+            "song_name": "Outside Tweaking (feat. Stunna Sandy)",
+            "artists": [
+                "Drake",
+                "Stunna Sandy"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:34:13"
         }
     ]
 }
