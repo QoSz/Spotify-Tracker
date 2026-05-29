@@ -1,22 +1,6 @@
 {
-    "total_plays": 5448,
+    "total_plays": 5450,
     "tracks": [
-        {
-            "song_name": "Subdued",
-            "artists": [
-                "Calil"
-            ],
-            "album": "Subdued",
-            "played_at": "13/05/2026 - 05:55:45"
-        },
-        {
-            "song_name": "Supernal",
-            "artists": [
-                "La Kalon"
-            ],
-            "album": "Supernal",
-            "played_at": "13/05/2026 - 05:53:15"
-        },
         {
             "song_name": "Oceanchild",
             "artists": [
@@ -1656,6 +1640,22 @@
             ],
             "album": "Tempt Me",
             "played_at": "29/05/2026 - 10:41:59"
+        },
+        {
+            "song_name": "Pull Me Closer",
+            "artists": [
+                "ZAYLO"
+            ],
+            "album": "Pull Me Closer",
+            "played_at": "29/05/2026 - 10:55:03"
+        },
+        {
+            "song_name": "Replay",
+            "artists": [
+                "Tems"
+            ],
+            "album": "If Orange Was A Place",
+            "played_at": "29/05/2026 - 10:44:58"
         }
     ]
 }
