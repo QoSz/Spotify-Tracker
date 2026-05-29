@@ -1,14 +1,6 @@
 {
-    "total_plays": 5447,
+    "total_plays": 5448,
     "tracks": [
-        {
-            "song_name": "Bellezza Notte",
-            "artists": [
-                "Valeria Pintile"
-            ],
-            "album": "Bellezza Notte",
-            "played_at": "13/05/2026 - 05:57:45"
-        },
         {
             "song_name": "Subdued",
             "artists": [
@@ -1656,6 +1648,14 @@
             ],
             "album": "MR HIM",
             "played_at": "27/05/2026 - 21:13:12"
+        },
+        {
+            "song_name": "Tempt Me",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tempt Me",
+            "played_at": "29/05/2026 - 10:41:59"
         }
     ]
 }
