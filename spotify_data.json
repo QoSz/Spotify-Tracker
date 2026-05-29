@@ -1,73 +1,6 @@
 {
-    "total_plays": 5502,
+    "total_plays": 5510,
     "tracks": [
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "19/05/2026 - 13:38:45"
-        },
-        {
-            "song_name": "Janice STFU",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "19/05/2026 - 13:13:20"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "19/05/2026 - 18:04:02"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "19/05/2026 - 18:00:06"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/05/2026 - 16:49:41"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "21/05/2026 - 02:41:00"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "21/05/2026 - 15:00:27"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "21/05/2026 - 14:54:34"
-        },
         {
             "song_name": "Whisper My Name",
             "artists": [
@@ -1675,6 +1608,74 @@
             ],
             "album": "100 GIGS",
             "played_at": "29/05/2026 - 17:04:25"
+        },
+        {
+            "song_name": "7969 Santa",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:56:33"
+        },
+        {
+            "song_name": "IDGAF (feat. Yeat)",
+            "artists": [
+                "Drake",
+                "Yeat"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:52:14"
+        },
+        {
+            "song_name": "First Person Shooter (feat. J. Cole)",
+            "artists": [
+                "Drake",
+                "J. Cole"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:47:54"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:43:46"
+        },
+        {
+            "song_name": "Fear Of Heights",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:41:02"
+        },
+        {
+            "song_name": "Calling For You (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:38:27"
+        },
+        {
+            "song_name": "Amen (feat. Teezo Touchdown)",
+            "artists": [
+                "Drake",
+                "Teezo Touchdown"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:33:41"
+        },
+        {
+            "song_name": "Virginia Beach",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 17:31:20"
         }
     ]
 }
