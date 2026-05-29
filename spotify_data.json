@@ -1,80 +1,6 @@
 {
-    "total_plays": 5469,
+    "total_plays": 5478,
     "tracks": [
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "13/05/2026 - 12:38:51"
-        },
-        {
-            "song_name": "Real Life (feat. Stormzy)",
-            "artists": [
-                "Burna Boy",
-                "Stormzy"
-            ],
-            "album": "Twice As Tall",
-            "played_at": "13/05/2026 - 12:36:31"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "13/05/2026 - 12:36:23"
-        },
-        {
-            "song_name": "Into The Neighbourhood",
-            "artists": [
-                "PLGRMS"
-            ],
-            "album": "Into The Neighbourhood",
-            "played_at": "13/05/2026 - 13:30:21"
-        },
-        {
-            "song_name": "Bitter",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "13/05/2026 - 13:21:21"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "13/05/2026 - 13:07:51"
-        },
-        {
-            "song_name": "600 Racks",
-            "artists": [
-                "Meek Mill"
-            ],
-            "album": "600 Racks",
-            "played_at": "13/05/2026 - 13:01:51"
-        },
-        {
-            "song_name": "Amends",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Overdue",
-            "played_at": "13/05/2026 - 13:57:21"
-        },
-        {
-            "song_name": "OK City Sun",
-            "artists": [
-                "Walking On Rivers"
-            ],
-            "album": "Bright Screen, Red Eyes, Science Fiction",
-            "played_at": "13/05/2026 - 13:54:51"
-        },
         {
             "song_name": "come on home",
             "artists": [
@@ -1655,6 +1581,87 @@
             ],
             "album": "HABIBTI",
             "played_at": "29/05/2026 - 15:04:29"
+        },
+        {
+            "song_name": "SPIDER-MAN SUPERMAN",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 15:59:35"
+        },
+        {
+            "song_name": "CRYING IN CHANEL",
+            "artists": [
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 15:56:11"
+        },
+        {
+            "song_name": "SOMETHING ABOUT YOU",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 15:52:52"
+        },
+        {
+            "song_name": "MOTH BALLS",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 15:49:13"
+        },
+        {
+            "song_name": "CN TOWER",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "$ome $exy $ongs 4 U",
+            "played_at": "29/05/2026 - 15:45:40"
+        },
+        {
+            "song_name": "What Did I Miss?",
+            "artists": [
+                "Drake"
+            ],
+            "album": "What Did I Miss?",
+            "played_at": "29/05/2026 - 15:41:38"
+        },
+        {
+            "song_name": "Which One (feat. Central Cee)",
+            "artists": [
+                "Drake",
+                "Central Cee"
+            ],
+            "album": "Which One",
+            "played_at": "29/05/2026 - 15:38:23"
+        },
+        {
+            "song_name": "SOMEBODY LOVES ME PT. 2",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake",
+                "Cash Cobain"
+            ],
+            "album": "SOMEBODY LOVES ME PT. 2",
+            "played_at": "29/05/2026 - 15:35:34"
+        },
+        {
+            "song_name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+            "artists": [
+                "Drake",
+                "Julia Wolf",
+                "Yeat"
+            ],
+            "album": "DOG HOUSE",
+            "played_at": "29/05/2026 - 15:32:32"
         }
     ]
 }
