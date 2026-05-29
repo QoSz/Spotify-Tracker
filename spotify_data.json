@@ -1,32 +1,6 @@
 {
-    "total_plays": 5450,
+    "total_plays": 5453,
     "tracks": [
-        {
-            "song_name": "Oceanchild",
-            "artists": [
-                "Sprites"
-            ],
-            "album": "Oceanchild",
-            "played_at": "13/05/2026 - 05:49:45"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "13/05/2026 - 11:12:10"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "13/05/2026 - 10:31:20"
-        },
         {
             "song_name": "Far Away (feat. A$AP Rocky)",
             "artists": [
@@ -1656,6 +1630,30 @@
             ],
             "album": "If Orange Was A Place",
             "played_at": "29/05/2026 - 10:44:58"
+        },
+        {
+            "song_name": "Road Trips",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:31:02"
+        },
+        {
+            "song_name": "Hoe Phase",
+            "artists": [
+                "Drake"
+            ],
+            "album": "MAID OF HONOUR",
+            "played_at": "29/05/2026 - 14:26:59"
+        },
+        {
+            "song_name": "Where You Dey Go",
+            "artists": [
+                "Lucas Estrada"
+            ],
+            "album": "Where You Dey Go",
+            "played_at": "29/05/2026 - 13:41:21"
         }
     ]
 }
