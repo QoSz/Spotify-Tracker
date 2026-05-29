@@ -1,54 +1,6 @@
 {
-    "total_plays": 5496,
+    "total_plays": 5502,
     "tracks": [
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "18/05/2026 - 13:41:34"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "18/05/2026 - 13:38:39"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "18/05/2026 - 13:34:00"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "18/05/2026 - 13:31:21"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/05/2026 - 15:45:30"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "19/05/2026 - 13:38:47"
-        },
         {
             "song_name": "Running",
             "artists": [
@@ -1670,6 +1622,59 @@
             ],
             "album": "$ome $exy $ongs 4 U",
             "played_at": "29/05/2026 - 16:34:13"
+        },
+        {
+            "song_name": "act ii: date @ 8 (feat. Drake) - remix",
+            "artists": [
+                "4batz",
+                "Drake"
+            ],
+            "album": "act ii: date @ 8 (feat. Drake) [remix]",
+            "played_at": "29/05/2026 - 17:27:09"
+        },
+        {
+            "song_name": "Push Ups",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Push Ups",
+            "played_at": "29/05/2026 - 17:23:17"
+        },
+        {
+            "song_name": "Family Matters",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Family Matters",
+            "played_at": "29/05/2026 - 17:19:23"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Gordo",
+                "Drake"
+            ],
+            "album": "Sideways",
+            "played_at": "29/05/2026 - 17:11:46"
+        },
+        {
+            "song_name": "Housekeeping Knows (feat. Latto)",
+            "artists": [
+                "Drake",
+                "Latto"
+            ],
+            "album": "100 GIGS",
+            "played_at": "29/05/2026 - 17:07:31"
+        },
+        {
+            "song_name": "It's Up (feat. Young Thug & 21 Savage)",
+            "artists": [
+                "Drake",
+                "Young Thug",
+                "21 Savage"
+            ],
+            "album": "100 GIGS",
+            "played_at": "29/05/2026 - 17:04:25"
         }
     ]
 }
