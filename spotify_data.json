@@ -1,79 +1,6 @@
 {
-    "total_plays": 5510,
+    "total_plays": 5519,
     "tracks": [
-        {
-            "song_name": "Whisper My Name",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "21/05/2026 - 15:29:52"
-        },
-        {
-            "song_name": "Dust",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "21/05/2026 - 15:26:24"
-        },
-        {
-            "song_name": "Make Them Cry",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "21/05/2026 - 15:23:00"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "21/05/2026 - 15:17:52"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "21/05/2026 - 15:15:40"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "21/05/2026 - 15:12:45"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "21/05/2026 - 15:10:04"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "21/05/2026 - 15:08:01"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "21/05/2026 - 15:03:04"
-        },
         {
             "song_name": "B's On The Table (feat. 21 Savage)",
             "artists": [
@@ -1676,6 +1603,81 @@
             ],
             "album": "For All The Dogs Scary Hours Edition",
             "played_at": "29/05/2026 - 17:31:20"
+        },
+        {
+            "song_name": "8am in Charlotte",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:30:19"
+        },
+        {
+            "song_name": "All The Parties (feat. Chief Keef)",
+            "artists": [
+                "Drake",
+                "Chief Keef"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:25:52"
+        },
+        {
+            "song_name": "What Would Pluto Do",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:22:14"
+        },
+        {
+            "song_name": "Members Only (feat. PARTYNEXTDOOR)",
+            "artists": [
+                "Drake",
+                "PARTYNEXTDOOR"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:19:11"
+        },
+        {
+            "song_name": "Drew A Picasso",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:14:33"
+        },
+        {
+            "song_name": "Screw The World - Interlude",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:10:10"
+        },
+        {
+            "song_name": "Tried Our Best",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:08:18"
+        },
+        {
+            "song_name": "Bahamas Promises",
+            "artists": [
+                "Drake"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:04:48"
+        },
+        {
+            "song_name": "Slime You Out (feat. SZA)",
+            "artists": [
+                "Drake",
+                "SZA"
+            ],
+            "album": "For All The Dogs Scary Hours Edition",
+            "played_at": "29/05/2026 - 18:01:44"
         }
     ]
 }
