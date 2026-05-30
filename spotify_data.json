@@ -1,39 +1,6 @@
 {
-    "total_plays": 5542,
+    "total_plays": 5546,
     "tracks": [
-        {
-            "song_name": "Jelele",
-            "artists": [
-                "ELIKIA"
-            ],
-            "album": "Jelele",
-            "played_at": "25/05/2026 - 03:14:27"
-        },
-        {
-            "song_name": "Soul",
-            "artists": [
-                "Yarden"
-            ],
-            "album": "Soul",
-            "played_at": "25/05/2026 - 03:11:56"
-        },
-        {
-            "song_name": "On The Low",
-            "artists": [
-                "Xtofa"
-            ],
-            "album": "On The Low",
-            "played_at": "25/05/2026 - 03:09:26"
-        },
-        {
-            "song_name": "Body",
-            "artists": [
-                "Miles Carter",
-                "Tyron Dixon"
-            ],
-            "album": "Body",
-            "played_at": "25/05/2026 - 03:06:57"
-        },
         {
             "song_name": "Attitude",
             "artists": [
@@ -1680,6 +1647,40 @@
             ],
             "album": "Your Eyes",
             "played_at": "30/05/2026 - 13:04:56"
+        },
+        {
+            "song_name": "Heart In Pieces",
+            "artists": [
+                "Future",
+                "Lil Uzi Vert"
+            ],
+            "album": "Pluto x Baby Pluto (Deluxe)",
+            "played_at": "30/05/2026 - 13:47:12"
+        },
+        {
+            "song_name": "What You Wanna Try",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Masego",
+            "played_at": "30/05/2026 - 13:43:54"
+        },
+        {
+            "song_name": "Far Away (feat. A$AP Rocky)",
+            "artists": [
+                "Yebba",
+                "A$AP Rocky"
+            ],
+            "album": "Dawn",
+            "played_at": "30/05/2026 - 13:41:15"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "30/05/2026 - 13:37:55"
         }
     ]
 }
