@@ -1,79 +1,6 @@
 {
-    "total_plays": 5533,
+    "total_plays": 5542,
     "tracks": [
-        {
-            "song_name": "Don’t Worry",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:30:14"
-        },
-        {
-            "song_name": "What Did I Miss?",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:30:13"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:55:30"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 11:22:25"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 11:22:23"
-        },
-        {
-            "song_name": "Burning Bridges",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 13:12:01"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/05/2026 - 22:34:36"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/05/2026 - 22:23:25"
-        },
-        {
-            "song_name": "Let Me Be - Afro House",
-            "artists": [
-                "NovaX",
-                "Sevven"
-            ],
-            "album": "Let Me Be (Afro House)",
-            "played_at": "25/05/2026 - 03:16:57"
-        },
         {
             "song_name": "Jelele",
             "artists": [
@@ -1678,6 +1605,81 @@
             ],
             "album": "Running",
             "played_at": "30/05/2026 - 12:41:05"
+        },
+        {
+            "song_name": "Sombrero",
+            "artists": [
+                "Blanco"
+            ],
+            "album": "Gilberto's Son",
+            "played_at": "30/05/2026 - 13:31:13"
+        },
+        {
+            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+            "artists": [
+                "Ty Dolla $ign",
+                "Quavo",
+                "Juicy J"
+            ],
+            "album": "TYCOON",
+            "played_at": "30/05/2026 - 13:28:36"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "30/05/2026 - 13:26:23"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "30/05/2026 - 13:23:02"
+        },
+        {
+            "song_name": "Let It All Work Out",
+            "artists": [
+                "Lil Wayne"
+            ],
+            "album": "Tha Carter V",
+            "played_at": "30/05/2026 - 13:19:02"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "30/05/2026 - 13:13:45"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "30/05/2026 - 13:10:24"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "30/05/2026 - 13:06:43"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "30/05/2026 - 13:04:56"
         }
     ]
 }
