@@ -1,14 +1,6 @@
 {
-    "total_plays": 5547,
+    "total_plays": 5548,
     "tracks": [
-        {
-            "song_name": "Addicted",
-            "artists": [
-                "ZAYLO"
-            ],
-            "album": "Addicted",
-            "played_at": "25/05/2026 - 03:01:57"
-        },
         {
             "song_name": "One and Only - AseMix",
             "artists": [
@@ -1681,6 +1673,14 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "30/05/2026 - 22:53:03"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "31/05/2026 - 14:56:46"
         }
     ]
 }
