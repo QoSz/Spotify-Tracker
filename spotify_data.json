@@ -1,14 +1,6 @@
 {
-    "total_plays": 5546,
+    "total_plays": 5547,
     "tracks": [
-        {
-            "song_name": "Attitude",
-            "artists": [
-                "azvre"
-            ],
-            "album": "Attitude",
-            "played_at": "25/05/2026 - 03:04:57"
-        },
         {
             "song_name": "Addicted",
             "artists": [
@@ -1681,6 +1673,14 @@
             ],
             "album": "Get A Good Look",
             "played_at": "30/05/2026 - 13:37:55"
+        },
+        {
+            "song_name": "Word is Bond",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "30/05/2026 - 22:53:03"
         }
     ]
 }
