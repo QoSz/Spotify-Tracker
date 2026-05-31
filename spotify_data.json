@@ -1,15 +1,6 @@
 {
-    "total_plays": 5552,
+    "total_plays": 5553,
     "tracks": [
-        {
-            "song_name": "LOCA LOCA",
-            "artists": [
-                "Palm Monkey",
-                "RUSSI"
-            ],
-            "album": "LOCA LOCA",
-            "played_at": "25/05/2026 - 02:46:26"
-        },
         {
             "song_name": "Commas",
             "artists": [
@@ -1681,6 +1672,14 @@
             ],
             "album": "Your Eyes",
             "played_at": "31/05/2026 - 14:58:53"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "31/05/2026 - 15:17:32"
         }
     ]
 }
