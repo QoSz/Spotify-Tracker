@@ -1,71 +1,6 @@
 {
-    "total_plays": 5579,
+    "total_plays": 5587,
     "tracks": [
-        {
-            "song_name": "Commas",
-            "artists": [
-                "Ayra Starr"
-            ],
-            "album": "The Year I Turned 21",
-            "played_at": "25/05/2026 - 02:44:10"
-        },
-        {
-            "song_name": "HIPS",
-            "artists": [
-                "RUSSI",
-                "EPPING"
-            ],
-            "album": "HIPS",
-            "played_at": "25/05/2026 - 02:41:33"
-        },
-        {
-            "song_name": "Whisper My Name",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "25/05/2026 - 02:34:30"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "24/05/2026 - 17:17:03"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/05/2026 - 23:01:24"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/05/2026 - 22:34:24"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/05/2026 - 22:20:18"
-        },
-        {
-            "song_name": "Burning Bridges",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 11:32:49"
-        },
         {
             "song_name": "Make Them Know",
             "artists": [
@@ -1683,6 +1618,71 @@
             ],
             "album": "Cherry Blossom",
             "played_at": "02/06/2026 - 16:26:27"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "02/06/2026 - 16:57:23"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "02/06/2026 - 16:54:40"
+        },
+        {
+            "song_name": "Dreaming",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Dreaming",
+            "played_at": "02/06/2026 - 16:51:45"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "02/06/2026 - 16:45:10"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "02/06/2026 - 16:42:42"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "02/06/2026 - 16:39:30"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "02/06/2026 - 16:36:51"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "02/06/2026 - 16:34:14"
         }
     ]
 }
