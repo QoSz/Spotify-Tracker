@@ -1,102 +1,6 @@
 {
-    "total_plays": 5587,
+    "total_plays": 5599,
     "tracks": [
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 11:19:35"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 11:09:59"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:56:52"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:40:52"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:27:56"
-        },
-        {
-            "song_name": "Shabang",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:21:44"
-        },
-        {
-            "song_name": "Don’t Worry",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:18:42"
-        },
-        {
-            "song_name": "Make Them Pay",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:14:43"
-        },
-        {
-            "song_name": "Plot Twist",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:09:48"
-        },
-        {
-            "song_name": "2 Hard 4 The Radio",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:06:39"
-        },
-        {
-            "song_name": "Make Them Remember",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 10:03:43"
-        },
-        {
-            "song_name": "What Did I Miss?",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 09:58:26"
-        },
         {
             "song_name": "Dust",
             "artists": [
@@ -1683,6 +1587,108 @@
             ],
             "album": "Longer Days",
             "played_at": "02/06/2026 - 16:34:14"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "02/06/2026 - 17:29:37"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "02/06/2026 - 17:27:32"
+        },
+        {
+            "song_name": "Healin",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Healin",
+            "played_at": "02/06/2026 - 17:24:04"
+        },
+        {
+            "song_name": "Devil In The Sun",
+            "artists": [
+                "Lucas Estrada",
+                "RUSSI"
+            ],
+            "album": "Devil In The Sun",
+            "played_at": "02/06/2026 - 17:21:32"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "02/06/2026 - 17:19:05"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "02/06/2026 - 17:16:37"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "02/06/2026 - 17:13:53"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "02/06/2026 - 17:11:17"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "02/06/2026 - 17:08:10"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "02/06/2026 - 17:06:04"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Astrality"
+            ],
+            "album": "Need You",
+            "played_at": "02/06/2026 - 17:03:25"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "02/06/2026 - 17:00:45"
         }
     ]
 }
