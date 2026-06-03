@@ -1,14 +1,6 @@
 {
-    "total_plays": 5602,
+    "total_plays": 5603,
     "tracks": [
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "22/05/2026 - 09:45:59"
-        },
         {
             "song_name": "Janice STFU",
             "artists": [
@@ -1688,6 +1680,14 @@
             ],
             "album": "Dreams",
             "played_at": "02/06/2026 - 17:32:17"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "31/05/2026 - 19:51:07"
         }
     ]
 }
