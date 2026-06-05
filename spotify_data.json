@@ -1,17 +1,6 @@
 {
-    "total_plays": 5615,
+    "total_plays": 5616,
     "tracks": [
-        {
-            "song_name": "Motion",
-            "artists": [
-                "MUNI",
-                "Snoop Dogg",
-                "Blueface",
-                "Bubba Sparxxx"
-            ],
-            "album": "GRIT",
-            "played_at": "26/05/2026 - 22:10:29"
-        },
         {
             "song_name": "On The Court (feat. Tory Lanez)",
             "artists": [
@@ -1684,6 +1673,14 @@
             ],
             "album": "Longer Days",
             "played_at": "05/06/2026 - 15:25:19"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "05/06/2026 - 16:15:50"
         }
     ]
 }
