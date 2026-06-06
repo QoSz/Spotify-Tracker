@@ -1,14 +1,6 @@
 {
-    "total_plays": 5617,
+    "total_plays": 5618,
     "tracks": [
-        {
-            "song_name": "Therapy",
-            "artists": [
-                "French The Kid"
-            ],
-            "album": "Therapy",
-            "played_at": "26/05/2026 - 22:03:53"
-        },
         {
             "song_name": "Count On You (feat. Lil Wayne)",
             "artists": [
@@ -1679,6 +1671,14 @@
             ],
             "album": "Definitely Maybe (Remastered)",
             "played_at": "06/06/2026 - 17:55:37"
+        },
+        {
+            "song_name": "Champagne Supernova - Remastered",
+            "artists": [
+                "Oasis"
+            ],
+            "album": "(What's The Story) Morning Glory? [Remastered]",
+            "played_at": "06/06/2026 - 18:03:09"
         }
     ]
 }
