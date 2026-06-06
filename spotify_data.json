@@ -1,16 +1,6 @@
 {
-    "total_plays": 5616,
+    "total_plays": 5617,
     "tracks": [
-        {
-            "song_name": "On The Court (feat. Tory Lanez)",
-            "artists": [
-                "Mark Battles",
-                "Luciidd",
-                "Tory Lanez"
-            ],
-            "album": "On The Court (feat. Tory Lanez)",
-            "played_at": "26/05/2026 - 22:06:40"
-        },
         {
             "song_name": "Therapy",
             "artists": [
@@ -1681,6 +1671,14 @@
             ],
             "album": "stay",
             "played_at": "05/06/2026 - 16:15:50"
+        },
+        {
+            "song_name": "Slide Away - Remastered",
+            "artists": [
+                "Oasis"
+            ],
+            "album": "Definitely Maybe (Remastered)",
+            "played_at": "06/06/2026 - 17:55:37"
         }
     ]
 }
