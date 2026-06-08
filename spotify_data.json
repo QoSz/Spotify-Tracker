@@ -1,14 +1,6 @@
 {
-    "total_plays": 5642,
+    "total_plays": 5643,
     "tracks": [
-        {
-            "song_name": "HEART COLD",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "HEART COLD",
-            "played_at": "27/05/2026 - 20:40:04"
-        },
         {
             "song_name": "Bando",
             "artists": [
@@ -1677,6 +1669,14 @@
             ],
             "album": "in my arms",
             "played_at": "08/06/2026 - 09:11:03"
+        },
+        {
+            "song_name": "Inna Fire",
+            "artists": [
+                "NOTSOBAD"
+            ],
+            "album": "Inna Fire",
+            "played_at": "08/06/2026 - 09:33:12"
         }
     ]
 }
