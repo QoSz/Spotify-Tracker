@@ -1,34 +1,6 @@
 {
-    "total_plays": 5622,
+    "total_plays": 5625,
     "tracks": [
-        {
-            "song_name": "DIPLOMACY",
-            "artists": [
-                "MUNI",
-                "The Game",
-                "Redman",
-                "Mistah F.A.B."
-            ],
-            "album": "DIPLOMACY",
-            "played_at": "27/05/2026 - 09:27:58"
-        },
-        {
-            "song_name": "Rodeo",
-            "artists": [
-                "Malz Monday"
-            ],
-            "album": "Rodeo",
-            "played_at": "27/05/2026 - 10:00:16"
-        },
-        {
-            "song_name": "Too Easy",
-            "artists": [
-                "Connor Price",
-                "Nic D"
-            ],
-            "album": "ICONIC",
-            "played_at": "27/05/2026 - 09:57:42"
-        },
         {
             "song_name": "E.O.T.",
             "artists": [
@@ -1678,6 +1650,30 @@
             ],
             "album": "Stars Of CCTV",
             "played_at": "06/06/2026 - 18:22:28"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "08/06/2026 - 08:30:10"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "08/06/2026 - 08:27:33"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "08/06/2026 - 08:24:18"
         }
     ]
 }
