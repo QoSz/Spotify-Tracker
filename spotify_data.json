@@ -1,72 +1,6 @@
 {
-    "total_plays": 5653,
+    "total_plays": 5661,
     "tracks": [
-        {
-            "song_name": "Slap The City (feat. Qendresa)",
-            "artists": [
-                "Drake",
-                "Qendresa"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:00:12"
-        },
-        {
-            "song_name": "WNBA",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 14:56:50"
-        },
-        {
-            "song_name": "Rusty Intro",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 14:53:52"
-        },
-        {
-            "song_name": "Princess",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:52:49"
-        },
-        {
-            "song_name": "Goose and The Juice",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:49:35"
-        },
-        {
-            "song_name": "Stuck",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:45:11"
-        },
-        {
-            "song_name": "Q&A",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:42:14"
-        },
-        {
-            "song_name": "Outside Tweaking (feat. Stunna Sandy)",
-            "artists": [
-                "Drake",
-                "Stunna Sandy"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:34:13"
-        },
         {
             "song_name": "Prioritizing",
             "artists": [
@@ -1675,6 +1609,71 @@
             ],
             "album": "gravity",
             "played_at": "08/06/2026 - 11:54:35"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "08/06/2026 - 21:29:36"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "08/06/2026 - 21:26:25"
+        },
+        {
+            "song_name": "I Choose You (Day)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "08/06/2026 - 21:24:21"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "08/06/2026 - 21:20:43"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "08/06/2026 - 21:18:21"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "08/06/2026 - 21:15:06"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "08/06/2026 - 21:11:29"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "08/06/2026 - 21:08:10"
         }
     ]
 }
