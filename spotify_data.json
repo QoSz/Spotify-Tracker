@@ -1,79 +1,6 @@
 {
-    "total_plays": 5625,
+    "total_plays": 5634,
     "tracks": [
-        {
-            "song_name": "E.O.T.",
-            "artists": [
-                "Justo the MC",
-                "Jay Rilez"
-            ],
-            "album": "E.O.T.",
-            "played_at": "27/05/2026 - 09:55:27"
-        },
-        {
-            "song_name": "SLOW",
-            "artists": [
-                "Ivan Ooze"
-            ],
-            "album": "SLOW",
-            "played_at": "27/05/2026 - 09:51:47"
-        },
-        {
-            "song_name": "Many Seasons",
-            "artists": [
-                "LOVIXX"
-            ],
-            "album": "Many Seasons",
-            "played_at": "27/05/2026 - 09:48:40"
-        },
-        {
-            "song_name": "LIFE IS A GAMBLE",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "LIFE IS A GAMBLE",
-            "played_at": "27/05/2026 - 09:45:29"
-        },
-        {
-            "song_name": "Tempt Me",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Tempt Me",
-            "played_at": "27/05/2026 - 09:42:38"
-        },
-        {
-            "song_name": "MR HIM",
-            "artists": [
-                "T.I."
-            ],
-            "album": "MR HIM",
-            "played_at": "27/05/2026 - 09:40:27"
-        },
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "27/05/2026 - 09:37:57"
-        },
-        {
-            "song_name": "Ghosts",
-            "artists": [
-                "French The Kid"
-            ],
-            "album": "Ghosts",
-            "played_at": "27/05/2026 - 09:35:42"
-        },
-        {
-            "song_name": "HEART COLD",
-            "artists": [
-                "Thekidszn"
-            ],
-            "album": "HEART COLD",
-            "played_at": "27/05/2026 - 09:32:33"
-        },
         {
             "song_name": "Set You Free",
             "artists": [
@@ -1674,6 +1601,81 @@
             ],
             "album": "Your Eyes",
             "played_at": "08/06/2026 - 08:24:18"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "08/06/2026 - 08:56:33"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Astrality"
+            ],
+            "album": "Need You",
+            "played_at": "08/06/2026 - 08:53:53"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "08/06/2026 - 08:51:14"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "08/06/2026 - 08:47:52"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "08/06/2026 - 08:45:08"
+        },
+        {
+            "song_name": "Dreaming",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Dreaming",
+            "played_at": "08/06/2026 - 08:42:14"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "08/06/2026 - 08:38:31"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "08/06/2026 - 08:36:02"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "08/06/2026 - 08:32:49"
         }
     ]
 }
