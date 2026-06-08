@@ -1,66 +1,6 @@
 {
-    "total_plays": 5643,
+    "total_plays": 5650,
     "tracks": [
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "27/05/2026 - 20:37:47"
-        },
-        {
-            "song_name": "DIPLOMACY",
-            "artists": [
-                "MUNI",
-                "The Game",
-                "Redman",
-                "Mistah F.A.B."
-            ],
-            "album": "DIPLOMACY",
-            "played_at": "27/05/2026 - 20:35:29"
-        },
-        {
-            "song_name": "FOREIGN CAR (with Bad Vegans)",
-            "artists": [
-                "Base Hollow",
-                "Bad Vegans"
-            ],
-            "album": "FOREIGN CAR (with Bad Vegans)",
-            "played_at": "27/05/2026 - 20:31:47"
-        },
-        {
-            "song_name": "MR HIM",
-            "artists": [
-                "T.I."
-            ],
-            "album": "MR HIM",
-            "played_at": "27/05/2026 - 21:13:12"
-        },
-        {
-            "song_name": "Tempt Me",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Tempt Me",
-            "played_at": "29/05/2026 - 10:41:59"
-        },
-        {
-            "song_name": "Pull Me Closer",
-            "artists": [
-                "ZAYLO"
-            ],
-            "album": "Pull Me Closer",
-            "played_at": "29/05/2026 - 10:55:03"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "29/05/2026 - 10:44:58"
-        },
         {
             "song_name": "Road Trips",
             "artists": [
@@ -1677,6 +1617,64 @@
             ],
             "album": "Inna Fire",
             "played_at": "08/06/2026 - 09:33:12"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "Killen."
+            ],
+            "album": "How Does It Feel",
+            "played_at": "08/06/2026 - 11:00:45"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "08/06/2026 - 10:57:44"
+        },
+        {
+            "song_name": "Cherry Blossom",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Cherry Blossom",
+            "played_at": "08/06/2026 - 10:51:51"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "08/06/2026 - 10:49:19"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "08/06/2026 - 10:46:38"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "08/06/2026 - 10:44:33"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "08/06/2026 - 10:05:12"
         }
     ]
 }
