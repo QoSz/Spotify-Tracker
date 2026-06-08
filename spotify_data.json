@@ -1,72 +1,6 @@
 {
-    "total_plays": 5634,
+    "total_plays": 5642,
     "tracks": [
-        {
-            "song_name": "Set You Free",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Set You Free",
-            "played_at": "27/05/2026 - 10:10:10"
-        },
-        {
-            "song_name": "GOLIATH",
-            "artists": [
-                "Boybreed"
-            ],
-            "album": "GOLIATH",
-            "played_at": "25/05/2026 - 03:27:05"
-        },
-        {
-            "song_name": "Homecoming",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "Eternal Atake",
-            "played_at": "27/05/2026 - 20:29:28"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "27/05/2026 - 20:25:54"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "27/05/2026 - 20:19:13"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "27/05/2026 - 20:12:02"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "27/05/2026 - 20:06:45"
-        },
-        {
-            "song_name": "Ghosts",
-            "artists": [
-                "French The Kid"
-            ],
-            "album": "Ghosts",
-            "played_at": "27/05/2026 - 20:43:12"
-        },
         {
             "song_name": "HEART COLD",
             "artists": [
@@ -1676,6 +1610,73 @@
             ],
             "album": "feel",
             "played_at": "08/06/2026 - 08:32:49"
+        },
+        {
+            "song_name": "Healin",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Healin",
+            "played_at": "08/06/2026 - 09:29:36"
+        },
+        {
+            "song_name": "Stay Until the Morning",
+            "artists": [
+                "Stoto"
+            ],
+            "album": "Stay Until the Morning",
+            "played_at": "08/06/2026 - 09:27:05"
+        },
+        {
+            "song_name": "Devil In The Sun",
+            "artists": [
+                "Lucas Estrada",
+                "RUSSI"
+            ],
+            "album": "Devil In The Sun",
+            "played_at": "08/06/2026 - 09:24:25"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "08/06/2026 - 09:21:58"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "08/06/2026 - 09:19:30"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "08/06/2026 - 09:16:46"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "08/06/2026 - 09:14:10"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "08/06/2026 - 09:11:03"
         }
     ]
 }
