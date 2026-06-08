@@ -1,14 +1,6 @@
 {
-    "total_plays": 5652,
+    "total_plays": 5653,
     "tracks": [
-        {
-            "song_name": "Where You Dey Go",
-            "artists": [
-                "Lucas Estrada"
-            ],
-            "album": "Where You Dey Go",
-            "played_at": "29/05/2026 - 13:41:21"
-        },
         {
             "song_name": "Slap The City (feat. Qendresa)",
             "artists": [
@@ -1675,6 +1667,14 @@
             ],
             "album": "Glow",
             "played_at": "08/06/2026 - 11:03:25"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "08/06/2026 - 11:54:35"
         }
     ]
 }
