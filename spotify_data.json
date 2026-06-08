@@ -1,22 +1,6 @@
 {
-    "total_plays": 5650,
+    "total_plays": 5652,
     "tracks": [
-        {
-            "song_name": "Road Trips",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:31:02"
-        },
-        {
-            "song_name": "Hoe Phase",
-            "artists": [
-                "Drake"
-            ],
-            "album": "MAID OF HONOUR",
-            "played_at": "29/05/2026 - 14:26:59"
-        },
         {
             "song_name": "Where You Dey Go",
             "artists": [
@@ -1675,6 +1659,22 @@
             ],
             "album": "Dreamin",
             "played_at": "08/06/2026 - 10:05:12"
+        },
+        {
+            "song_name": "Reason",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Reason",
+            "played_at": "08/06/2026 - 11:07:15"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "08/06/2026 - 11:03:25"
         }
     ]
 }
