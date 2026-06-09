@@ -1,41 +1,6 @@
 {
-    "total_plays": 5672,
+    "total_plays": 5676,
     "tracks": [
-        {
-            "song_name": "MOTH BALLS",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 15:49:13"
-        },
-        {
-            "song_name": "CN TOWER",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 15:45:40"
-        },
-        {
-            "song_name": "What Did I Miss?",
-            "artists": [
-                "Drake"
-            ],
-            "album": "What Did I Miss?",
-            "played_at": "29/05/2026 - 15:41:38"
-        },
-        {
-            "song_name": "Which One (feat. Central Cee)",
-            "artists": [
-                "Drake",
-                "Central Cee"
-            ],
-            "album": "Which One",
-            "played_at": "29/05/2026 - 15:38:23"
-        },
         {
             "song_name": "SOMEBODY LOVES ME PT. 2",
             "artists": [
@@ -1673,6 +1638,39 @@
             ],
             "album": "Longer Days",
             "played_at": "08/06/2026 - 21:32:26"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "09/06/2026 - 08:30:06"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "09/06/2026 - 08:26:51"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "09/06/2026 - 08:23:13"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "09/06/2026 - 08:19:53"
         }
     ]
 }
