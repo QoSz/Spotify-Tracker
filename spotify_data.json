@@ -1,49 +1,6 @@
 {
-    "total_plays": 5731,
+    "total_plays": 5736,
     "tracks": [
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "30/05/2026 - 12:44:13"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "30/05/2026 - 12:41:05"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "30/05/2026 - 13:31:13"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Quavo",
-                "Juicy J"
-            ],
-            "album": "TYCOON",
-            "played_at": "30/05/2026 - 13:28:36"
-        },
-        {
-            "song_name": "Sandman",
-            "artists": [
-                "A$AP Rocky"
-            ],
-            "album": "LIVE.LOVE.A$AP",
-            "played_at": "30/05/2026 - 13:26:23"
-        },
         {
             "song_name": "7am On Bridle Path",
             "artists": [
@@ -1659,6 +1616,50 @@
             ],
             "album": "If You Had My Love",
             "played_at": "09/06/2026 - 12:11:45"
+        },
+        {
+            "song_name": "My Biggest Fan",
+            "artists": [
+                "Kahu$h"
+            ],
+            "album": "Kiama",
+            "played_at": "09/06/2026 - 14:29:38"
+        },
+        {
+            "song_name": "Disculpa",
+            "artists": [
+                "RJ Pasin",
+                "Ndotz",
+                "Charlie Heat"
+            ],
+            "album": "The Indomitable Human Spirit (Deluxe)",
+            "played_at": "09/06/2026 - 14:27:20"
+        },
+        {
+            "song_name": "BERLIN",
+            "artists": [
+                "DIRTYXAN"
+            ],
+            "album": "BERLIN",
+            "played_at": "09/06/2026 - 14:23:20"
+        },
+        {
+            "song_name": "Fake Love",
+            "artists": [
+                "Khantrast",
+                "Thiago Sub"
+            ],
+            "album": "Fake Love",
+            "played_at": "09/06/2026 - 14:19:02"
+        },
+        {
+            "song_name": "She Bugging (Whatchu Gonna Do)",
+            "artists": [
+                "Mr Flintstone",
+                "Khantrast"
+            ],
+            "album": "She Bugging (Whatchu Gonna Do)",
+            "played_at": "09/06/2026 - 14:17:04"
         }
     ]
 }
