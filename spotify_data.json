@@ -1,38 +1,6 @@
 {
-    "total_plays": 5727,
+    "total_plays": 5731,
     "tracks": [
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "30/05/2026 - 12:54:05"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "30/05/2026 - 12:51:53"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "30/05/2026 - 12:48:58"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "30/05/2026 - 12:46:18"
-        },
         {
             "song_name": "Push It",
             "artists": [
@@ -1654,6 +1622,43 @@
             ],
             "album": "Your Eyes",
             "played_at": "09/06/2026 - 12:01:20"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "09/06/2026 - 13:22:03"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "09/06/2026 - 13:19:18"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "09/06/2026 - 13:15:41"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "09/06/2026 - 12:11:45"
         }
     ]
 }
