@@ -1,14 +1,6 @@
 {
-    "total_plays": 5726,
+    "total_plays": 5727,
     "tracks": [
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "30/05/2026 - 12:56:49"
-        },
         {
             "song_name": "What You Saying",
             "artists": [
@@ -1654,6 +1646,14 @@
             ],
             "album": "White Flag Down",
             "played_at": "09/06/2026 - 11:33:02"
+        },
+        {
+            "song_name": "Your Eyes",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "09/06/2026 - 12:01:20"
         }
     ]
 }
