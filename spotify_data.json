@@ -1,87 +1,6 @@
 {
-    "total_plays": 5747,
+    "total_plays": 5757,
     "tracks": [
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "31/05/2026 - 14:56:46"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "31/05/2026 - 15:07:02"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "31/05/2026 - 15:04:30"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "31/05/2026 - 15:02:00"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "31/05/2026 - 14:58:53"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "31/05/2026 - 15:17:32"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "31/05/2026 - 19:39:44"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "31/05/2026 - 19:36:57"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "31/05/2026 - 19:34:35"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "01/06/2026 - 12:30:23"
-        },
         {
             "song_name": "Slide",
             "artists": [
@@ -1664,6 +1583,94 @@
             ],
             "album": "Malfunction",
             "played_at": "09/06/2026 - 14:32:36"
+        },
+        {
+            "song_name": "VOLTISH 808",
+            "artists": [
+                "Jaswed",
+                "DJ Nexus8",
+                "dearukia",
+                "Scythermane"
+            ],
+            "album": "VOLTISH 808",
+            "played_at": "09/06/2026 - 15:21:50"
+        },
+        {
+            "song_name": "Faithful",
+            "artists": [
+                "Wild East Radio"
+            ],
+            "album": "Faithful",
+            "played_at": "09/06/2026 - 15:19:54"
+        },
+        {
+            "song_name": "MONEYATT",
+            "artists": [
+                "Johnny Cutt",
+                "Kap G"
+            ],
+            "album": "MONEYATT",
+            "played_at": "09/06/2026 - 15:18:00"
+        },
+        {
+            "song_name": "Macarena Bop - Remix",
+            "artists": [
+                "mikeynyc",
+                "Jahballa",
+                "Ibu DaDon",
+                "Fivio Foreign"
+            ],
+            "album": "Macarena Bop",
+            "played_at": "09/06/2026 - 15:15:41"
+        },
+        {
+            "song_name": "East Side Bop",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "09/06/2026 - 15:12:55"
+        },
+        {
+            "song_name": "NOS",
+            "artists": [
+                "Swaizy"
+            ],
+            "album": "PINK SLIPS",
+            "played_at": "09/06/2026 - 15:11:00"
+        },
+        {
+            "song_name": "18K",
+            "artists": [
+                "DeonRaps",
+                "Khantrast"
+            ],
+            "album": "EVERYTHING IS FINE",
+            "played_at": "09/06/2026 - 15:08:09"
+        },
+        {
+            "song_name": "Yes You Can",
+            "artists": [
+                "Zelgin Jackson"
+            ],
+            "album": "Yes You Can",
+            "played_at": "09/06/2026 - 15:05:51"
+        },
+        {
+            "song_name": "LaLaLaLaLa",
+            "artists": [
+                "Tony Montana"
+            ],
+            "album": "LaLaLaLaLa",
+            "played_at": "09/06/2026 - 15:04:25"
+        },
+        {
+            "song_name": "ZIP LOOP",
+            "artists": [
+                "Randy Tchik"
+            ],
+            "album": "ZIP LOOP",
+            "played_at": "09/06/2026 - 15:01:54"
         }
     ]
 }
