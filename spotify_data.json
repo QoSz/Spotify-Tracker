@@ -1,97 +1,6 @@
 {
-    "total_plays": 5736,
+    "total_plays": 5747,
     "tracks": [
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "30/05/2026 - 13:23:02"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "30/05/2026 - 13:19:02"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "30/05/2026 - 13:13:45"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "30/05/2026 - 13:10:24"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "30/05/2026 - 13:06:43"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "30/05/2026 - 13:04:56"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "30/05/2026 - 13:47:12"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "30/05/2026 - 13:43:54"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "30/05/2026 - 13:41:15"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "30/05/2026 - 13:37:55"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "30/05/2026 - 22:53:03"
-        },
         {
             "song_name": "Make Them Know",
             "artists": [
@@ -1660,6 +1569,101 @@
             ],
             "album": "She Bugging (Whatchu Gonna Do)",
             "played_at": "09/06/2026 - 14:17:04"
+        },
+        {
+            "song_name": "Lovesick",
+            "artists": [
+                "Khantrast",
+                "POODEE"
+            ],
+            "album": "Lovesick",
+            "played_at": "09/06/2026 - 14:59:44"
+        },
+        {
+            "song_name": "BODY WORK #jerseyclub",
+            "artists": [
+                "Ziahfyah",
+                "Ski Guy"
+            ],
+            "album": "The Portal",
+            "played_at": "09/06/2026 - 14:56:09"
+        },
+        {
+            "song_name": "stop being a hoe (feat. Cali Cartier)",
+            "artists": [
+                "Virgin Miri",
+                "Cali Cartier"
+            ],
+            "album": "stop being a hoe (feat. Cali Cartier)",
+            "played_at": "09/06/2026 - 14:54:06"
+        },
+        {
+            "song_name": "TUNG TUNG TUNG",
+            "artists": [
+                "damienfarron"
+            ],
+            "album": "TUNG TUNG TUNG",
+            "played_at": "09/06/2026 - 14:51:15"
+        },
+        {
+            "song_name": "GNARLY REMIX",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "GNARLY REMIX",
+            "played_at": "09/06/2026 - 14:47:22"
+        },
+        {
+            "song_name": "Battery Pack",
+            "artists": [
+                "JZAC"
+            ],
+            "album": "Battery Pack",
+            "played_at": "09/06/2026 - 14:45:17"
+        },
+        {
+            "song_name": "WASSANAME",
+            "artists": [
+                "oksurf",
+                "SWAVAY",
+                "Ben Reilly"
+            ],
+            "album": "WASSANAME",
+            "played_at": "09/06/2026 - 14:41:58"
+        },
+        {
+            "song_name": "JUNGLE 64",
+            "artists": [
+                "T-MODO",
+                "rivan"
+            ],
+            "album": "DROPSTAR UNDERGROUND",
+            "played_at": "09/06/2026 - 14:38:25"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "09/06/2026 - 14:37:04"
+        },
+        {
+            "song_name": "Clappers",
+            "artists": [
+                "DJ Chose",
+                "Waka Flocka Flame"
+            ],
+            "album": "Nostalgia 2 (Deluxe)",
+            "played_at": "09/06/2026 - 14:35:29"
+        },
+        {
+            "song_name": "Malfunction",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Malfunction",
+            "played_at": "09/06/2026 - 14:32:36"
         }
     ]
 }
