@@ -1,99 +1,6 @@
 {
-    "total_plays": 5661,
+    "total_plays": 5672,
     "tracks": [
-        {
-            "song_name": "Prioritizing",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:29:21"
-        },
-        {
-            "song_name": "Fortworth (feat. PARTYNEXTDOOR)",
-            "artists": [
-                "Drake",
-                "PARTYNEXTDOOR"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:25:28"
-        },
-        {
-            "song_name": "White Bone",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:21:36"
-        },
-        {
-            "song_name": "Gen 5",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:16:39"
-        },
-        {
-            "song_name": "Classic",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:13:01"
-        },
-        {
-            "song_name": "I'm Spent (feat. Loe Shimmy)",
-            "artists": [
-                "Drake",
-                "Loe Shimmy"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:10:02"
-        },
-        {
-            "song_name": "Hurrr Nor Thurr (feat. Sexyy Red)",
-            "artists": [
-                "Drake",
-                "Sexyy Red"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:07:37"
-        },
-        {
-            "song_name": "High Fives",
-            "artists": [
-                "Drake"
-            ],
-            "album": "HABIBTI",
-            "played_at": "29/05/2026 - 15:04:29"
-        },
-        {
-            "song_name": "SPIDER-MAN SUPERMAN",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 15:59:35"
-        },
-        {
-            "song_name": "CRYING IN CHANEL",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 15:56:11"
-        },
-        {
-            "song_name": "SOMETHING ABOUT YOU",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 15:52:52"
-        },
         {
             "song_name": "MOTH BALLS",
             "artists": [
@@ -1674,6 +1581,98 @@
             ],
             "album": "gravity",
             "played_at": "08/06/2026 - 21:08:10"
+        },
+        {
+            "song_name": "Steps",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Steps",
+            "played_at": "08/06/2026 - 22:56:55"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "08/06/2026 - 21:54:45"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "08/06/2026 - 21:51:20"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "08/06/2026 - 21:48:59"
+        },
+        {
+            "song_name": "Night Moves",
+            "artists": [
+                "Karen Harding",
+                "Mr. Belt & Wezol"
+            ],
+            "album": "Night Moves",
+            "played_at": "08/06/2026 - 21:47:12"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "08/06/2026 - 21:44:10"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "08/06/2026 - 21:41:55"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "08/06/2026 - 21:39:51"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "08/06/2026 - 21:37:27"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "08/06/2026 - 21:35:08"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "08/06/2026 - 21:32:26"
         }
     ]
 }
