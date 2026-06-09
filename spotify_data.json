@@ -1,32 +1,6 @@
 {
-    "total_plays": 5689,
+    "total_plays": 5692,
     "tracks": [
-        {
-            "song_name": "No Face",
-            "artists": [
-                "Drake"
-            ],
-            "album": "No Face",
-            "played_at": "29/05/2026 - 16:57:40"
-        },
-        {
-            "song_name": "GREEDY",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:55:22"
-        },
-        {
-            "song_name": "WHEN HE'S GONE",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:48:56"
-        },
         {
             "song_name": "GLORIOUS",
             "artists": [
@@ -1663,6 +1637,32 @@
             ],
             "album": "underneath",
             "played_at": "09/06/2026 - 09:01:30"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "09/06/2026 - 09:59:57"
+        },
+        {
+            "song_name": "This Time",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "09/06/2026 - 09:36:53"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "09/06/2026 - 09:33:19"
         }
     ]
 }
