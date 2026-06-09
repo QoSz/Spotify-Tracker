@@ -1,73 +1,6 @@
 {
-    "total_plays": 5711,
+    "total_plays": 5719,
     "tracks": [
-        {
-            "song_name": "All The Parties (feat. Chief Keef)",
-            "artists": [
-                "Drake",
-                "Chief Keef"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:25:52"
-        },
-        {
-            "song_name": "What Would Pluto Do",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:22:14"
-        },
-        {
-            "song_name": "Members Only (feat. PARTYNEXTDOOR)",
-            "artists": [
-                "Drake",
-                "PARTYNEXTDOOR"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:19:11"
-        },
-        {
-            "song_name": "Drew A Picasso",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:14:33"
-        },
-        {
-            "song_name": "Screw The World - Interlude",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:10:10"
-        },
-        {
-            "song_name": "Tried Our Best",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:08:18"
-        },
-        {
-            "song_name": "Bahamas Promises",
-            "artists": [
-                "Drake"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:04:48"
-        },
-        {
-            "song_name": "Slime You Out (feat. SZA)",
-            "artists": [
-                "Drake",
-                "SZA"
-            ],
-            "album": "For All The Dogs Scary Hours Edition",
-            "played_at": "29/05/2026 - 18:01:44"
-        },
         {
             "song_name": "Away From Home",
             "artists": [
@@ -1655,6 +1588,73 @@
             ],
             "album": "First Contact",
             "played_at": "09/06/2026 - 10:33:21"
+        },
+        {
+            "song_name": "Waiting for Love",
+            "artists": [
+                "Tudor",
+                "Embody"
+            ],
+            "album": "Waiting for Love",
+            "played_at": "09/06/2026 - 11:31:00"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "09/06/2026 - 11:28:22"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "09/06/2026 - 11:26:02"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "09/06/2026 - 11:13:55"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "09/06/2026 - 11:11:09"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "09/06/2026 - 11:08:04"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "09/06/2026 - 11:05:59"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "09/06/2026 - 11:03:33"
         }
     ]
 }
