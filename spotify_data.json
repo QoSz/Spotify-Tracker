@@ -1,40 +1,6 @@
 {
-    "total_plays": 5685,
+    "total_plays": 5689,
     "tracks": [
-        {
-            "song_name": "PIMMIE'S DILEMMA",
-            "artists": [
-                "Pimmie",
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:06:54"
-        },
-        {
-            "song_name": "SMALL TOWN FAME",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:04:56"
-        },
-        {
-            "song_name": "DEEPER",
-            "artists": [
-                "PARTYNEXTDOOR"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:02:28"
-        },
-        {
-            "song_name": "Circadian Rhythm",
-            "artists": [
-                "Drake"
-            ],
-            "album": "100 GIGS",
-            "played_at": "29/05/2026 - 16:59:47"
-        },
         {
             "song_name": "No Face",
             "artists": [
@@ -1664,6 +1630,39 @@
             ],
             "album": "That's Where I Should Be",
             "played_at": "09/06/2026 - 08:32:29"
+        },
+        {
+            "song_name": "Steps",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Steps",
+            "played_at": "09/06/2026 - 09:25:36"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "09/06/2026 - 09:22:07"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "09/06/2026 - 09:18:42"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "09/06/2026 - 09:01:30"
         }
     ]
 }
