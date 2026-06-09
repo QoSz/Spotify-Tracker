@@ -1,87 +1,6 @@
 {
-    "total_plays": 5676,
+    "total_plays": 5685,
     "tracks": [
-        {
-            "song_name": "SOMEBODY LOVES ME PT. 2",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Cash Cobain"
-            ],
-            "album": "SOMEBODY LOVES ME PT. 2",
-            "played_at": "29/05/2026 - 15:35:34"
-        },
-        {
-            "song_name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
-            "artists": [
-                "Drake",
-                "Julia Wolf",
-                "Yeat"
-            ],
-            "album": "DOG HOUSE",
-            "played_at": "29/05/2026 - 15:32:32"
-        },
-        {
-            "song_name": "DIE TRYING",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Yebba"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:31:10"
-        },
-        {
-            "song_name": "NOKIA",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:27:55"
-        },
-        {
-            "song_name": "MEET YOUR PADRE",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake",
-                "Chino Pacas"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:23:54"
-        },
-        {
-            "song_name": "LASERS",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:19:22"
-        },
-        {
-            "song_name": "RAINING IN HOUSTON",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:16:04"
-        },
-        {
-            "song_name": "GIMME A HUG",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:11:59"
-        },
-        {
-            "song_name": "BRIAN STEEL",
-            "artists": [
-                "Drake"
-            ],
-            "album": "$ome $exy $ongs 4 U",
-            "played_at": "29/05/2026 - 16:08:46"
-        },
         {
             "song_name": "PIMMIE'S DILEMMA",
             "artists": [
@@ -1671,6 +1590,80 @@
             ],
             "album": "gravity",
             "played_at": "09/06/2026 - 08:19:53"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "09/06/2026 - 08:53:35"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "09/06/2026 - 08:51:30"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "09/06/2026 - 08:49:06"
+        },
+        {
+            "song_name": "Running Back",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Running Back",
+            "played_at": "09/06/2026 - 08:46:47"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "09/06/2026 - 08:44:05"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "09/06/2026 - 08:41:14"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "09/06/2026 - 08:38:01"
+        },
+        {
+            "song_name": "I Choose You (Day)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "09/06/2026 - 08:35:57"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "09/06/2026 - 08:32:29"
         }
     ]
 }
