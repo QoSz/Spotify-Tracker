@@ -1,15 +1,6 @@
 {
-    "total_plays": 5769,
+    "total_plays": 5770,
     "tracks": [
-        {
-            "song_name": "Dreamin' About You",
-            "artists": [
-                "Josh Hunter",
-                "Lily Denning"
-            ],
-            "album": "Dreamin' About You",
-            "played_at": "01/06/2026 - 12:43:43"
-        },
         {
             "song_name": "Let Me In",
             "artists": [
@@ -1672,6 +1663,14 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "10/06/2026 - 09:02:24"
+        },
+        {
+            "song_name": "Simple",
+            "artists": [
+                "ItsArius"
+            ],
+            "album": "Simple",
+            "played_at": "10/06/2026 - 09:56:18"
         }
     ]
 }
