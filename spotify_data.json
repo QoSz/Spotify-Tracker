@@ -1,82 +1,6 @@
 {
-    "total_plays": 5758,
+    "total_plays": 5767,
     "tracks": [
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "01/06/2026 - 12:24:59"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "01/06/2026 - 12:22:15"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "01/06/2026 - 12:19:39"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "01/06/2026 - 12:17:00"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "01/06/2026 - 12:14:58"
-        },
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "01/06/2026 - 13:00:47"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "01/06/2026 - 12:58:07"
-        },
-        {
-            "song_name": "SHADES OF BLUE",
-            "artists": [
-                "John Summit",
-                "Devault",
-                "Julia Church"
-            ],
-            "album": "CTRL ESCAPE",
-            "played_at": "01/06/2026 - 12:55:35"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "01/06/2026 - 12:52:11"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1672,6 +1596,83 @@
             ],
             "album": "denk je echt?",
             "played_at": "09/06/2026 - 15:32:34"
+        },
+        {
+            "song_name": "Dreaming",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Dreaming",
+            "played_at": "10/06/2026 - 08:58:56"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "10/06/2026 - 08:55:13"
+        },
+        {
+            "song_name": "Rhythm Inside",
+            "artists": [
+                "Jonasu",
+                "Rory Hope"
+            ],
+            "album": "Rhythm Inside",
+            "played_at": "10/06/2026 - 08:51:51"
+        },
+        {
+            "song_name": "I Choose You (Day)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "10/06/2026 - 08:49:09"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "10/06/2026 - 08:45:41"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "10/06/2026 - 08:43:02"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "10/06/2026 - 08:39:24"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "10/06/2026 - 08:37:00"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "10/06/2026 - 08:34:45"
         }
     ]
 }
