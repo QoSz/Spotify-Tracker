@@ -1,96 +1,6 @@
 {
-    "total_plays": 5770,
+    "total_plays": 5781,
     "tracks": [
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "01/06/2026 - 12:41:15"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "01/06/2026 - 13:14:56"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "01/06/2026 - 13:12:15"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "01/06/2026 - 13:08:47"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "01/06/2026 - 13:06:41"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "01/06/2026 - 13:03:26"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "02/06/2026 - 16:31:00"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "02/06/2026 - 16:28:59"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "02/06/2026 - 16:26:27"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "02/06/2026 - 16:57:23"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "02/06/2026 - 16:54:40"
-        },
         {
             "song_name": "Dreaming",
             "artists": [
@@ -1671,6 +1581,96 @@
             ],
             "album": "Simple",
             "played_at": "10/06/2026 - 09:56:18"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "11/06/2026 - 09:30:17"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "11/06/2026 - 09:27:33"
+        },
+        {
+            "song_name": "Naive",
+            "artists": [
+                "Killen."
+            ],
+            "album": "Naive",
+            "played_at": "11/06/2026 - 09:23:55"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "11/06/2026 - 09:20:54"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "11/06/2026 - 09:17:38"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "11/06/2026 - 09:14:11"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "11/06/2026 - 09:11:24"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "11/06/2026 - 09:08:33"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "11/06/2026 - 09:05:53"
+        },
+        {
+            "song_name": "black tears",
+            "artists": [
+                "all things break"
+            ],
+            "album": "black tears",
+            "played_at": "11/06/2026 - 09:03:47"
+        },
+        {
+            "song_name": "Simple",
+            "artists": [
+                "ItsArius"
+            ],
+            "album": "Simple",
+            "played_at": "11/06/2026 - 09:01:42"
         }
     ]
 }
