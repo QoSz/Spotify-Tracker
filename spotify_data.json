@@ -1,14 +1,6 @@
 {
-    "total_plays": 5781,
+    "total_plays": 5782,
     "tracks": [
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Dreaming",
-            "played_at": "02/06/2026 - 16:51:45"
-        },
         {
             "song_name": "Heartbeat",
             "artists": [
@@ -1671,6 +1663,15 @@
             ],
             "album": "Simple",
             "played_at": "11/06/2026 - 09:01:42"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "11/06/2026 - 09:42:00"
         }
     ]
 }
