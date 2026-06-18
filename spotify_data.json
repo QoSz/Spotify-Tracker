@@ -1,22 +1,6 @@
 {
-    "total_plays": 5820,
+    "total_plays": 5822,
     "tracks": [
-        {
-            "song_name": "Semi-Charmed Life",
-            "artists": [
-                "Third Eye Blind"
-            ],
-            "album": "Third Eye Blind",
-            "played_at": "07/06/2026 - 16:33:01"
-        },
-        {
-            "song_name": "Hard to Beat",
-            "artists": [
-                "Hard-Fi"
-            ],
-            "album": "Stars Of CCTV",
-            "played_at": "06/06/2026 - 18:22:28"
-        },
         {
             "song_name": "When the Feeling Is Gone",
             "artists": [
@@ -1672,6 +1656,24 @@
             ],
             "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
             "played_at": "18/06/2026 - 21:00:05"
+        },
+        {
+            "song_name": "Sooraj Dooba Hain (From \"Roy\")",
+            "artists": [
+                "Arijit Singh",
+                "Aditi Singh Sharma"
+            ],
+            "album": "Groove With Arijit Singh",
+            "played_at": "18/06/2026 - 21:08:20"
+        },
+        {
+            "song_name": "Bom Diggy Diggy",
+            "artists": [
+                "Zack Knight",
+                "Jasmin Walia"
+            ],
+            "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+            "played_at": "18/06/2026 - 21:03:55"
         }
     ]
 }
