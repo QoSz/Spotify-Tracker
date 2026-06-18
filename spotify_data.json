@@ -1,14 +1,6 @@
 {
-    "total_plays": 5819,
+    "total_plays": 5820,
     "tracks": [
-        {
-            "song_name": "Best of You",
-            "artists": [
-                "Foo Fighters"
-            ],
-            "album": "In Your Honor",
-            "played_at": "07/06/2026 - 16:37:17"
-        },
         {
             "song_name": "Semi-Charmed Life",
             "artists": [
@@ -1671,6 +1663,15 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "18/06/2026 - 17:33:06"
+        },
+        {
+            "song_name": "Bom Diggy Diggy",
+            "artists": [
+                "Zack Knight",
+                "Jasmin Walia"
+            ],
+            "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+            "played_at": "18/06/2026 - 21:00:05"
         }
     ]
 }
