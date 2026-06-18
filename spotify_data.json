@@ -1,48 +1,6 @@
 {
-    "total_plays": 5786,
+    "total_plays": 5791,
     "tracks": [
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "02/06/2026 - 16:34:14"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "02/06/2026 - 17:29:37"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "02/06/2026 - 17:27:32"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "02/06/2026 - 17:24:04"
-        },
-        {
-            "song_name": "Devil In The Sun",
-            "artists": [
-                "Lucas Estrada",
-                "RUSSI"
-            ],
-            "album": "Devil In The Sun",
-            "played_at": "02/06/2026 - 17:21:32"
-        },
         {
             "song_name": "Dreamin' About You",
             "artists": [
@@ -1672,6 +1630,48 @@
             ],
             "album": "AIN'T SHIT FREE",
             "played_at": "17/06/2026 - 12:40:37"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "18/06/2026 - 13:56:44"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "18/06/2026 - 13:54:05"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "18/06/2026 - 13:51:28"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "18/06/2026 - 13:48:13"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "17/06/2026 - 14:05:08"
         }
     ]
 }
