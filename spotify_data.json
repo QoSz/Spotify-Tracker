@@ -1,46 +1,6 @@
 {
-    "total_plays": 5814,
+    "total_plays": 5819,
     "tracks": [
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "05/06/2026 - 15:25:19"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "05/06/2026 - 16:15:50"
-        },
-        {
-            "song_name": "Slide Away - Remastered",
-            "artists": [
-                "Oasis"
-            ],
-            "album": "Definitely Maybe (Remastered)",
-            "played_at": "06/06/2026 - 17:55:37"
-        },
-        {
-            "song_name": "Champagne Supernova - Remastered",
-            "artists": [
-                "Oasis"
-            ],
-            "album": "(What's The Story) Morning Glory? [Remastered]",
-            "played_at": "06/06/2026 - 18:03:09"
-        },
-        {
-            "song_name": "Everlong",
-            "artists": [
-                "Foo Fighters"
-            ],
-            "album": "The Colour And The Shape",
-            "played_at": "07/06/2026 - 16:41:27"
-        },
         {
             "song_name": "Best of You",
             "artists": [
@@ -1671,6 +1631,46 @@
             ],
             "album": "Not About Love",
             "played_at": "18/06/2026 - 17:09:33"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "18/06/2026 - 17:49:03"
+        },
+        {
+            "song_name": "gravity",
+            "artists": [
+                "all things break"
+            ],
+            "album": "gravity",
+            "played_at": "18/06/2026 - 17:43:26"
+        },
+        {
+            "song_name": "Reason",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Reason",
+            "played_at": "18/06/2026 - 17:39:35"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "18/06/2026 - 17:35:46"
+        },
+        {
+            "song_name": "Daylight",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "18/06/2026 - 17:33:06"
         }
     ]
 }
