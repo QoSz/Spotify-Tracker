@@ -1,31 +1,6 @@
 {
-    "total_plays": 5823,
+    "total_plays": 5826,
     "tracks": [
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "08/06/2026 - 08:27:33"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "08/06/2026 - 08:24:18"
-        },
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "08/06/2026 - 08:56:33"
-        },
         {
             "song_name": "Need You",
             "artists": [
@@ -1675,6 +1650,31 @@
             ],
             "album": "Dabangg 2",
             "played_at": "18/06/2026 - 22:17:35"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "19/06/2026 - 08:30:42"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/06/2026 - 08:27:28"
+        },
+        {
+            "song_name": "Bom Diggy Diggy",
+            "artists": [
+                "Zack Knight",
+                "Jasmin Walia"
+            ],
+            "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+            "played_at": "19/06/2026 - 08:25:24"
         }
     ]
 }
