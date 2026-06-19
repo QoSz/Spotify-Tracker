@@ -1,14 +1,6 @@
 {
-    "total_plays": 5842,
+    "total_plays": 5843,
     "tracks": [
-        {
-            "song_name": "Inna Fire",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "Inna Fire",
-            "played_at": "08/06/2026 - 09:33:12"
-        },
         {
             "song_name": "Naive",
             "artists": [
@@ -1674,6 +1666,14 @@
             ],
             "album": "We Run",
             "played_at": "19/06/2026 - 09:03:52"
+        },
+        {
+            "song_name": "Inna Fire",
+            "artists": [
+                "NOTSOBAD"
+            ],
+            "album": "Inna Fire",
+            "played_at": "19/06/2026 - 10:29:31"
         }
     ]
 }
