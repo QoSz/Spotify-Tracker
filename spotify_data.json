@@ -1,56 +1,6 @@
 {
-    "total_plays": 5846,
+    "total_plays": 5852,
     "tracks": [
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "08/06/2026 - 10:49:19"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "08/06/2026 - 10:46:38"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "08/06/2026 - 10:44:33"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "08/06/2026 - 10:05:12"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "08/06/2026 - 11:07:15"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "08/06/2026 - 11:03:25"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1674,6 +1624,59 @@
             ],
             "album": "Touch",
             "played_at": "19/06/2026 - 14:21:23"
+        },
+        {
+            "song_name": "Something Stronger",
+            "artists": [
+                "Rules",
+                "SHYA",
+                "Coldabank"
+            ],
+            "album": "Something Stronger",
+            "played_at": "19/06/2026 - 16:01:38"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "James Carter"
+            ],
+            "album": "Heaven",
+            "played_at": "19/06/2026 - 15:59:31"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "19/06/2026 - 15:57:26"
+        },
+        {
+            "song_name": "Movin' To The Sun",
+            "artists": [
+                "HUGEL",
+                "Imael Angel",
+                "Ultra Naté"
+            ],
+            "album": "Movin' To The Sun",
+            "played_at": "19/06/2026 - 15:54:06"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "19/06/2026 - 15:51:44"
+        },
+        {
+            "song_name": "I Keep Reaching",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "19/06/2026 - 15:48:51"
         }
     ]
 }
