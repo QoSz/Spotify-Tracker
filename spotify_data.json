@@ -1,39 +1,6 @@
 {
-    "total_plays": 5860,
+    "total_plays": 5864,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "08/06/2026 - 21:08:10"
-        },
-        {
-            "song_name": "Steps",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Steps",
-            "played_at": "08/06/2026 - 22:56:55"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "08/06/2026 - 21:54:45"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "08/06/2026 - 21:51:20"
-        },
         {
             "song_name": "Hey",
             "artists": [
@@ -1679,6 +1646,39 @@
             ],
             "album": "Called Your Name",
             "played_at": "19/06/2026 - 17:23:25"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "20/06/2026 - 12:40:44"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "20/06/2026 - 12:38:13"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "20/06/2026 - 12:35:35"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "20/06/2026 - 12:33:05"
         }
     ]
 }
