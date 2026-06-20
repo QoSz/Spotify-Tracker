@@ -1,30 +1,6 @@
 {
-    "total_plays": 5880,
+    "total_plays": 5883,
     "tracks": [
-        {
-            "song_name": "Confess",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "09/06/2026 - 08:44:05"
-        },
-        {
-            "song_name": "I Drive",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Intro",
-            "played_at": "09/06/2026 - 08:41:14"
-        },
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "09/06/2026 - 08:38:01"
-        },
         {
             "song_name": "I Choose You (Day)",
             "artists": [
@@ -1676,6 +1652,30 @@
             ],
             "album": "stay",
             "played_at": "20/06/2026 - 12:43:49"
+        },
+        {
+            "song_name": "Will I Know",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "20/06/2026 - 13:46:22"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "20/06/2026 - 13:34:17"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "20/06/2026 - 13:31:10"
         }
     ]
 }
