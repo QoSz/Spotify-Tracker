@@ -1,89 +1,6 @@
 {
-    "total_plays": 5903,
+    "total_plays": 5913,
     "tracks": [
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "09/06/2026 - 10:52:17"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "09/06/2026 - 10:49:26"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "09/06/2026 - 10:46:43"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "09/06/2026 - 10:44:04"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "09/06/2026 - 10:41:44"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "09/06/2026 - 10:38:27"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "09/06/2026 - 10:35:55"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "09/06/2026 - 10:33:21"
-        },
-        {
-            "song_name": "Waiting for Love",
-            "artists": [
-                "Tudor",
-                "Embody"
-            ],
-            "album": "Waiting for Love",
-            "played_at": "09/06/2026 - 11:31:00"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "09/06/2026 - 11:28:22"
-        },
         {
             "song_name": "Bits of Hope",
             "artists": [
@@ -1677,6 +1594,90 @@
             ],
             "album": "Shoulda Never (feat. USHER)",
             "played_at": "21/06/2026 - 11:09:35"
+        },
+        {
+            "song_name": "Steps",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Steps",
+            "played_at": "22/06/2026 - 09:30:27"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Astrality"
+            ],
+            "album": "Need You",
+            "played_at": "22/06/2026 - 09:26:59"
+        },
+        {
+            "song_name": "Movin' To The Sun",
+            "artists": [
+                "HUGEL",
+                "Imael Angel",
+                "Ultra Naté"
+            ],
+            "album": "Movin' To The Sun",
+            "played_at": "22/06/2026 - 09:24:19"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "22/06/2026 - 09:21:56"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "22/06/2026 - 09:18:36"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "22/06/2026 - 09:16:20"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "22/06/2026 - 09:14:05"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "22/06/2026 - 09:11:06"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "22/06/2026 - 09:08:21"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "22/06/2026 - 09:06:07"
         }
     ]
 }
