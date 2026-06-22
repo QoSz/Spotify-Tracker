@@ -1,73 +1,6 @@
 {
-    "total_plays": 5914,
+    "total_plays": 5922,
     "tracks": [
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "09/06/2026 - 11:13:55"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "09/06/2026 - 11:11:09"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "09/06/2026 - 11:08:04"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "09/06/2026 - 11:05:59"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "09/06/2026 - 11:03:33"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "09/06/2026 - 11:58:51"
-        },
-        {
-            "song_name": "Running Blind",
-            "artists": [
-                "NOTSOBAD",
-                "i.am.u."
-            ],
-            "album": "Running Blind",
-            "played_at": "09/06/2026 - 11:47:56"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "09/06/2026 - 11:44:47"
-        },
         {
             "song_name": "Falling into You",
             "artists": [
@@ -1677,6 +1610,73 @@
             ],
             "album": "Never Change",
             "played_at": "22/06/2026 - 09:33:43"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "22/06/2026 - 10:59:01"
+        },
+        {
+            "song_name": "Falling for the Feeling",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "22/06/2026 - 10:55:23"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "22/06/2026 - 10:52:47"
+        },
+        {
+            "song_name": "Inna Fire",
+            "artists": [
+                "NOTSOBAD"
+            ],
+            "album": "Inna Fire",
+            "played_at": "22/06/2026 - 10:50:24"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "22/06/2026 - 10:46:51"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "22/06/2026 - 10:44:46"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "22/06/2026 - 10:42:05"
+        },
+        {
+            "song_name": "Mood Song",
+            "artists": [
+                "Why U So",
+                "Lua Sola"
+            ],
+            "album": "Mood Song",
+            "played_at": "22/06/2026 - 10:19:03"
         }
     ]
 }
