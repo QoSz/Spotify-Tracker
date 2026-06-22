@@ -1,14 +1,6 @@
 {
-    "total_plays": 5924,
+    "total_plays": 5925,
     "tracks": [
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "09/06/2026 - 11:36:11"
-        },
         {
             "song_name": "White Flag Down",
             "artists": [
@@ -1677,6 +1669,14 @@
             ],
             "album": "Night Moves",
             "played_at": "22/06/2026 - 11:02:03"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "22/06/2026 - 11:16:35"
         }
     ]
 }
