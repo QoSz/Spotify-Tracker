@@ -1,23 +1,6 @@
 {
-    "total_plays": 5922,
+    "total_plays": 5924,
     "tracks": [
-        {
-            "song_name": "Falling into You",
-            "artists": [
-                "Soulflow"
-            ],
-            "album": "Deeper",
-            "played_at": "09/06/2026 - 11:41:10"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "09/06/2026 - 11:39:04"
-        },
         {
             "song_name": "Tether",
             "artists": [
@@ -1677,6 +1660,23 @@
             ],
             "album": "Mood Song",
             "played_at": "22/06/2026 - 10:19:03"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "22/06/2026 - 11:05:15"
+        },
+        {
+            "song_name": "Night Moves",
+            "artists": [
+                "Karen Harding",
+                "Mr. Belt & Wezol"
+            ],
+            "album": "Night Moves",
+            "played_at": "22/06/2026 - 11:02:03"
         }
     ]
 }
