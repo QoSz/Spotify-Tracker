@@ -1,23 +1,6 @@
 {
-    "total_plays": 5971,
+    "total_plays": 5973,
     "tracks": [
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "11/06/2026 - 09:27:33"
-        },
-        {
-            "song_name": "Naive",
-            "artists": [
-                "Killen."
-            ],
-            "album": "Naive",
-            "played_at": "11/06/2026 - 09:23:55"
-        },
         {
             "song_name": "Never Change",
             "artists": [
@@ -1668,6 +1651,23 @@
             ],
             "album": "Never Change",
             "played_at": "23/06/2026 - 19:54:06"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "23/06/2026 - 20:05:09"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "23/06/2026 - 20:02:01"
         }
     ]
 }
