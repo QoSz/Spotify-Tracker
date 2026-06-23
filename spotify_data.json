@@ -1,75 +1,6 @@
 {
-    "total_plays": 5933,
+    "total_plays": 5941,
     "tracks": [
-        {
-            "song_name": "BERLIN",
-            "artists": [
-                "DIRTYXAN"
-            ],
-            "album": "BERLIN",
-            "played_at": "09/06/2026 - 14:23:20"
-        },
-        {
-            "song_name": "Fake Love",
-            "artists": [
-                "Khantrast",
-                "Thiago Sub"
-            ],
-            "album": "Fake Love",
-            "played_at": "09/06/2026 - 14:19:02"
-        },
-        {
-            "song_name": "She Bugging (Whatchu Gonna Do)",
-            "artists": [
-                "Mr Flintstone",
-                "Khantrast"
-            ],
-            "album": "She Bugging (Whatchu Gonna Do)",
-            "played_at": "09/06/2026 - 14:17:04"
-        },
-        {
-            "song_name": "Lovesick",
-            "artists": [
-                "Khantrast",
-                "POODEE"
-            ],
-            "album": "Lovesick",
-            "played_at": "09/06/2026 - 14:59:44"
-        },
-        {
-            "song_name": "BODY WORK #jerseyclub",
-            "artists": [
-                "Ziahfyah",
-                "Ski Guy"
-            ],
-            "album": "The Portal",
-            "played_at": "09/06/2026 - 14:56:09"
-        },
-        {
-            "song_name": "stop being a hoe (feat. Cali Cartier)",
-            "artists": [
-                "Virgin Miri",
-                "Cali Cartier"
-            ],
-            "album": "stop being a hoe (feat. Cali Cartier)",
-            "played_at": "09/06/2026 - 14:54:06"
-        },
-        {
-            "song_name": "TUNG TUNG TUNG",
-            "artists": [
-                "damienfarron"
-            ],
-            "album": "TUNG TUNG TUNG",
-            "played_at": "09/06/2026 - 14:51:15"
-        },
-        {
-            "song_name": "GNARLY REMIX",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "GNARLY REMIX",
-            "played_at": "09/06/2026 - 14:47:22"
-        },
         {
             "song_name": "Battery Pack",
             "artists": [
@@ -1672,6 +1603,74 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "23/06/2026 - 09:20:28"
+        },
+        {
+            "song_name": "Reasons",
+            "artists": [
+                "London Topaz",
+                "Clearest"
+            ],
+            "album": "Reasons",
+            "played_at": "23/06/2026 - 11:31:55"
+        },
+        {
+            "song_name": "I Choose You (Day)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "23/06/2026 - 11:28:18"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "23/06/2026 - 11:24:50"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "23/06/2026 - 11:22:25"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "23/06/2026 - 11:19:40"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "23/06/2026 - 11:16:18"
+        },
+        {
+            "song_name": "Healin",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Healin",
+            "played_at": "23/06/2026 - 11:13:41"
+        },
+        {
+            "song_name": "Someone to Hold",
+            "artists": [
+                "Nu Aspect",
+                "Tudor"
+            ],
+            "album": "Someone to Hold",
+            "played_at": "23/06/2026 - 11:11:10"
         }
     ]
 }
