@@ -1,70 +1,6 @@
 {
-    "total_plays": 5995,
+    "total_plays": 6003,
     "tracks": [
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "18/06/2026 - 16:17:08"
-        },
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Dreaming",
-            "played_at": "18/06/2026 - 16:11:49"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "18/06/2026 - 16:08:06"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "18/06/2026 - 16:05:37"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "18/06/2026 - 16:03:31"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "18/06/2026 - 14:48:44"
-        },
-        {
-            "song_name": "Inna Fire",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "Inna Fire",
-            "played_at": "18/06/2026 - 16:55:59"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "18/06/2026 - 16:52:26"
-        },
         {
             "song_name": "Can't Go Back",
             "artists": [
@@ -1667,6 +1603,74 @@
             ],
             "album": "Dreamin",
             "played_at": "24/06/2026 - 09:01:20"
+        },
+        {
+            "song_name": "Velvet & Ice",
+            "artists": [
+                "Ferreck Dawn"
+            ],
+            "album": "Velvet & Ice",
+            "played_at": "24/06/2026 - 09:56:44"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "24/06/2026 - 09:53:34"
+        },
+        {
+            "song_name": "Relax My Eyes",
+            "artists": [
+                "ANOTR",
+                "Abel Balder"
+            ],
+            "album": "Relax My Eyes",
+            "played_at": "24/06/2026 - 09:50:20"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "24/06/2026 - 09:47:07"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "24/06/2026 - 09:43:55"
+        },
+        {
+            "song_name": "Weaker",
+            "artists": [
+                "Nathan C",
+                "RYVM"
+            ],
+            "album": "Weaker",
+            "played_at": "24/06/2026 - 09:40:51"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "24/06/2026 - 09:37:58"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "24/06/2026 - 09:34:49"
         }
     ]
 }
