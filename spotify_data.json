@@ -1,81 +1,6 @@
 {
-    "total_plays": 5986,
+    "total_plays": 5995,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "18/06/2026 - 13:56:44"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "18/06/2026 - 13:54:05"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "18/06/2026 - 13:51:28"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "18/06/2026 - 13:48:13"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "17/06/2026 - 14:05:08"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "18/06/2026 - 16:29:27"
-        },
-        {
-            "song_name": "dots",
-            "artists": [
-                "all things break"
-            ],
-            "album": "dots",
-            "played_at": "18/06/2026 - 16:26:47"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "18/06/2026 - 16:23:13"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "18/06/2026 - 16:19:51"
-        },
         {
             "song_name": "Slide",
             "artists": [
@@ -1668,6 +1593,80 @@
             ],
             "album": "Reason",
             "played_at": "24/06/2026 - 08:34:21"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "24/06/2026 - 09:24:11"
+        },
+        {
+            "song_name": "Downtown Light",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Downtown Light",
+            "played_at": "24/06/2026 - 09:21:47"
+        },
+        {
+            "song_name": "Don't Worry About Tomorrow",
+            "artists": [
+                "DRAY"
+            ],
+            "album": "Don't Worry About Tomorrow",
+            "played_at": "24/06/2026 - 09:19:33"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "24/06/2026 - 09:16:18"
+        },
+        {
+            "song_name": "Stay Until the Morning",
+            "artists": [
+                "Stoto"
+            ],
+            "album": "Stay Until the Morning",
+            "played_at": "24/06/2026 - 09:13:38"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "24/06/2026 - 09:10:59"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "24/06/2026 - 09:07:21"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "24/06/2026 - 09:05:15"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "24/06/2026 - 09:01:20"
         }
     ]
 }
