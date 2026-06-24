@@ -1,15 +1,6 @@
 {
-    "total_plays": 6003,
+    "total_plays": 6004,
     "tracks": [
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "18/06/2026 - 16:49:19"
-        },
         {
             "song_name": "I Choose You (Night)",
             "artists": [
@@ -1671,6 +1662,14 @@
             ],
             "album": "Called Your Name",
             "played_at": "24/06/2026 - 09:34:49"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "23/06/2026 - 14:49:15"
         }
     ]
 }
