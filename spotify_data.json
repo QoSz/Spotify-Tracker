@@ -1,97 +1,6 @@
 {
-    "total_plays": 6004,
+    "total_plays": 6015,
     "tracks": [
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "18/06/2026 - 16:46:43"
-        },
-        {
-            "song_name": "Stay Until the Morning",
-            "artists": [
-                "Stoto"
-            ],
-            "album": "Stay Until the Morning",
-            "played_at": "18/06/2026 - 16:44:38"
-        },
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "18/06/2026 - 16:41:38"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "18/06/2026 - 17:29:39"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "18/06/2026 - 17:27:07"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "18/06/2026 - 17:24:27"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "18/06/2026 - 17:20:55"
-        },
-        {
-            "song_name": "Devil In The Sun",
-            "artists": [
-                "Lucas Estrada",
-                "RUSSI"
-            ],
-            "album": "Devil In The Sun",
-            "played_at": "18/06/2026 - 17:18:23"
-        },
-        {
-            "song_name": "Not About Love",
-            "artists": [
-                "Ben Dooks"
-            ],
-            "album": "Not About Love",
-            "played_at": "18/06/2026 - 17:15:56"
-        },
-        {
-            "song_name": "Not About Love",
-            "artists": [
-                "Ben Dooks"
-            ],
-            "album": "Not About Love",
-            "played_at": "18/06/2026 - 17:09:33"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "18/06/2026 - 17:49:03"
-        },
         {
             "song_name": "gravity",
             "artists": [
@@ -1670,6 +1579,98 @@
             ],
             "album": "sweet love",
             "played_at": "23/06/2026 - 14:49:15"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "25/06/2026 - 08:54:27"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "25/06/2026 - 08:52:11"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "25/06/2026 - 08:48:43"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "25/06/2026 - 08:45:44"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "25/06/2026 - 08:42:29"
+        },
+        {
+            "song_name": "Simple",
+            "artists": [
+                "ItsArius"
+            ],
+            "album": "Simple",
+            "played_at": "25/06/2026 - 08:39:49"
+        },
+        {
+            "song_name": "fade out",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "25/06/2026 - 08:37:17"
+        },
+        {
+            "song_name": "blackout blackout",
+            "artists": [
+                "all things break"
+            ],
+            "album": "blackout blackout",
+            "played_at": "25/06/2026 - 08:35:13"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "25/06/2026 - 08:32:54"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "25/06/2026 - 08:29:17"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "24/06/2026 - 10:47:26"
         }
     ]
 }
