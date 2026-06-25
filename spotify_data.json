@@ -1,22 +1,6 @@
 {
-    "total_plays": 6017,
+    "total_plays": 6019,
     "tracks": [
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "18/06/2026 - 17:35:46"
-        },
-        {
-            "song_name": "Daylight",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "18/06/2026 - 17:33:06"
-        },
         {
             "song_name": "Bom Diggy Diggy",
             "artists": [
@@ -1671,6 +1655,23 @@
             ],
             "album": "Steps",
             "played_at": "25/06/2026 - 15:44:10"
+        },
+        {
+            "song_name": "Making Promises",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Making Promises",
+            "played_at": "25/06/2026 - 19:27:44"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "25/06/2026 - 19:25:20"
         }
     ]
 }
