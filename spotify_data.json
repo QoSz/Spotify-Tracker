@@ -1,14 +1,6 @@
 {
-    "total_plays": 6015,
+    "total_plays": 6016,
     "tracks": [
-        {
-            "song_name": "gravity",
-            "artists": [
-                "all things break"
-            ],
-            "album": "gravity",
-            "played_at": "18/06/2026 - 17:43:26"
-        },
         {
             "song_name": "Reason",
             "artists": [
@@ -1671,6 +1663,14 @@
             ],
             "album": "Bloom",
             "played_at": "24/06/2026 - 10:47:26"
+        },
+        {
+            "song_name": "Steps",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Steps",
+            "played_at": "25/06/2026 - 10:36:11"
         }
     ]
 }
