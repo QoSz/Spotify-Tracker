@@ -1,42 +1,6 @@
 {
-    "total_plays": 6019,
+    "total_plays": 6023,
     "tracks": [
-        {
-            "song_name": "Bom Diggy Diggy",
-            "artists": [
-                "Zack Knight",
-                "Jasmin Walia"
-            ],
-            "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
-            "played_at": "18/06/2026 - 21:00:05"
-        },
-        {
-            "song_name": "Sooraj Dooba Hain (From \"Roy\")",
-            "artists": [
-                "Arijit Singh",
-                "Aditi Singh Sharma"
-            ],
-            "album": "Groove With Arijit Singh",
-            "played_at": "18/06/2026 - 21:08:20"
-        },
-        {
-            "song_name": "Bom Diggy Diggy",
-            "artists": [
-                "Zack Knight",
-                "Jasmin Walia"
-            ],
-            "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
-            "played_at": "18/06/2026 - 21:03:55"
-        },
-        {
-            "song_name": "Fevicol Se",
-            "artists": [
-                "Mamta Sharma",
-                "Wajid"
-            ],
-            "album": "Dabangg 2",
-            "played_at": "18/06/2026 - 22:17:35"
-        },
         {
             "song_name": "Into You",
             "artists": [
@@ -1672,6 +1636,40 @@
             ],
             "album": "ICEMAN",
             "played_at": "25/06/2026 - 19:25:20"
+        },
+        {
+            "song_name": "Feel It",
+            "artists": [
+                "Miles Carter"
+            ],
+            "album": "Feel It",
+            "played_at": "26/06/2026 - 12:40:57"
+        },
+        {
+            "song_name": "Where Did Your Love Go",
+            "artists": [
+                "Moonshine",
+                "Sincerely Suav"
+            ],
+            "album": "Where Did Your Love Go",
+            "played_at": "26/06/2026 - 12:38:46"
+        },
+        {
+            "song_name": "Can't Be Without U",
+            "artists": [
+                "CLYROX"
+            ],
+            "album": "Can't Be Without U",
+            "played_at": "26/06/2026 - 12:35:44"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "26/06/2026 - 12:32:52"
         }
     ]
 }
