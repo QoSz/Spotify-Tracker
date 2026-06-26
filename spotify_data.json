@@ -1,22 +1,6 @@
 {
-    "total_plays": 6023,
+    "total_plays": 6025,
     "tracks": [
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "19/06/2026 - 08:30:42"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/06/2026 - 08:27:28"
-        },
         {
             "song_name": "Bom Diggy Diggy",
             "artists": [
@@ -1670,6 +1654,23 @@
             ],
             "album": "The Boy Who Played the Harp",
             "played_at": "26/06/2026 - 12:32:52"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "26/06/2026 - 19:08:34"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "26/06/2026 - 19:05:11"
         }
     ]
 }
