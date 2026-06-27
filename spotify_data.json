@@ -1,22 +1,6 @@
 {
-    "total_plays": 6029,
+    "total_plays": 6031,
     "tracks": [
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "19/06/2026 - 08:52:04"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "19/06/2026 - 08:49:58"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1671,6 +1655,22 @@
             ],
             "album": "Dreams",
             "played_at": "27/06/2026 - 10:46:47"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "27/06/2026 - 10:59:17"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "27/06/2026 - 10:57:06"
         }
     ]
 }

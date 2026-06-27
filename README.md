@@ -4,12 +4,12 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**6,029** songs listened to
+**6,031** songs listened to
 
 - **1216** unique artists
 - **1281** unique albums
 - **1622** unique songs
-- **32.1** songs per day (average)
+- **32.2** songs per day (average)
 
 ## Top Artists (All Time)
 
