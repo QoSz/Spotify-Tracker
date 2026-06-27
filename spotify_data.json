@@ -1,57 +1,6 @@
 {
-    "total_plays": 6054,
+    "total_plays": 6060,
     "tracks": [
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "19/06/2026 - 16:18:00"
-        },
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "19/06/2026 - 16:15:35"
-        },
-        {
-            "song_name": "Where We Belong",
-            "artists": [
-                "Amtrac"
-            ],
-            "album": "Where We Belong",
-            "played_at": "19/06/2026 - 16:12:51"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "19/06/2026 - 16:08:10"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "19/06/2026 - 16:05:05"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "19/06/2026 - 17:23:25"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1674,6 +1623,58 @@
             ],
             "album": "Weightless (jamesjamesjames Remix)",
             "played_at": "27/06/2026 - 15:33:02"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "27/06/2026 - 16:24:04"
+        },
+        {
+            "song_name": "ICEMAN FREESTYLE",
+            "artists": [
+                "Central Cee"
+            ],
+            "album": "ALL ROADS LEAD HOME",
+            "played_at": "27/06/2026 - 16:15:40"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "27/06/2026 - 16:12:33"
+        },
+        {
+            "song_name": "NEW LINEN 新しいリネン",
+            "artists": [
+                "SamRecks",
+                "Thiago Sub"
+            ],
+            "album": "NEW LINEN 新しいリネン",
+            "played_at": "27/06/2026 - 16:07:42"
+        },
+        {
+            "song_name": "No Weapons (feat. Jim Legxacy)",
+            "artists": [
+                "Dave",
+                "Jim Legxacy"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "27/06/2026 - 16:05:45"
+        },
+        {
+            "song_name": "Therapy",
+            "artists": [
+                "French The Kid"
+            ],
+            "album": "Can't Kill Bill",
+            "played_at": "27/06/2026 - 16:02:27"
         }
     ]
 }
