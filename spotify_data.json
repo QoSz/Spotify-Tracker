@@ -1,72 +1,6 @@
 {
-    "total_plays": 6037,
+    "total_plays": 6045,
     "tracks": [
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "19/06/2026 - 09:16:06"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "19/06/2026 - 09:13:27"
-        },
-        {
-            "song_name": "dots",
-            "artists": [
-                "all things break"
-            ],
-            "album": "dots",
-            "played_at": "19/06/2026 - 09:10:48"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "19/06/2026 - 09:07:14"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "19/06/2026 - 09:03:52"
-        },
-        {
-            "song_name": "Inna Fire",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "Inna Fire",
-            "played_at": "19/06/2026 - 10:29:31"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "19/06/2026 - 13:20:37"
-        },
-        {
-            "song_name": "Inna Fire",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "Inna Fire",
-            "played_at": "19/06/2026 - 13:20:15"
-        },
         {
             "song_name": "I Keep Reaching",
             "artists": [
@@ -1671,6 +1605,72 @@
             ],
             "album": "Dreams",
             "played_at": "27/06/2026 - 14:48:55"
+        },
+        {
+            "song_name": "All I Need",
+            "artists": [
+                "NOTSOBAD"
+            ],
+            "album": "All I Need",
+            "played_at": "27/06/2026 - 15:28:22"
+        },
+        {
+            "song_name": "Hold Out",
+            "artists": [
+                "Lithe",
+                "FRVRFRIDAY"
+            ],
+            "album": "Hold Out",
+            "played_at": "27/06/2026 - 15:25:00"
+        },
+        {
+            "song_name": "I GOT",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "While You Waited",
+            "played_at": "27/06/2026 - 15:22:58"
+        },
+        {
+            "song_name": "Crown",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Crown",
+            "played_at": "27/06/2026 - 15:20:00"
+        },
+        {
+            "song_name": "COLOGNE",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "COLOGNE",
+            "played_at": "27/06/2026 - 15:15:59"
+        },
+        {
+            "song_name": "Fire & Desire",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Views",
+            "played_at": "27/06/2026 - 15:12:38"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "27/06/2026 - 15:07:19"
+        },
+        {
+            "song_name": "LIKE THAT",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "LIKE THAT",
+            "played_at": "27/06/2026 - 15:02:54"
         }
     ]
 }
