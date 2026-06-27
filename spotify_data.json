@@ -1,15 +1,6 @@
 {
-    "total_plays": 6031,
+    "total_plays": 6032,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "19/06/2026 - 08:35:57"
-        },
         {
             "song_name": "When the Feeling Is Gone",
             "artists": [
@@ -1671,6 +1662,14 @@
             ],
             "album": "AIN'T SHIT FREE",
             "played_at": "27/06/2026 - 10:57:06"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "27/06/2026 - 11:09:26"
         }
     ]
 }
