@@ -1,31 +1,6 @@
 {
-    "total_plays": 6060,
+    "total_plays": 6063,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "20/06/2026 - 12:40:44"
-        },
-        {
-            "song_name": "Slow Down",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "20/06/2026 - 12:38:13"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "20/06/2026 - 12:35:35"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1675,6 +1650,30 @@
             ],
             "album": "Can't Kill Bill",
             "played_at": "27/06/2026 - 16:02:27"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 00:18:38"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 00:16:26"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 00:14:14"
         }
     ]
 }
