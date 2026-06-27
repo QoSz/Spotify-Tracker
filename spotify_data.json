@@ -1,47 +1,6 @@
 {
-    "total_plays": 6032,
+    "total_plays": 6037,
     "tracks": [
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "19/06/2026 - 08:33:19"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "19/06/2026 - 09:26:32"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "19/06/2026 - 09:23:26"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "19/06/2026 - 09:20:50"
-        },
-        {
-            "song_name": "Stay Until the Morning",
-            "artists": [
-                "Stoto"
-            ],
-            "album": "Stay Until the Morning",
-            "played_at": "19/06/2026 - 09:18:46"
-        },
         {
             "song_name": "Sense of Time",
             "artists": [
@@ -1670,6 +1629,48 @@
             ],
             "album": "Dreams",
             "played_at": "27/06/2026 - 11:09:26"
+        },
+        {
+            "song_name": "made for this shit",
+            "artists": [
+                "Gunna"
+            ],
+            "album": "The Last Wun",
+            "played_at": "27/06/2026 - 15:00:50"
+        },
+        {
+            "song_name": "NOW OR NEVER II",
+            "artists": [
+                "Tkandz",
+                "Lil Baby"
+            ],
+            "album": "NOW OR NEVER II",
+            "played_at": "27/06/2026 - 14:58:36"
+        },
+        {
+            "song_name": "Do Not Disturb",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "27/06/2026 - 14:55:57"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "27/06/2026 - 14:51:13"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "27/06/2026 - 14:48:55"
         }
     ]
 }
