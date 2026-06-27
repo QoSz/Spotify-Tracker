@@ -1,83 +1,6 @@
 {
-    "total_plays": 6045,
+    "total_plays": 6054,
     "tracks": [
-        {
-            "song_name": "I Keep Reaching",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "19/06/2026 - 14:21:23"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "19/06/2026 - 16:01:38"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "19/06/2026 - 15:59:31"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "19/06/2026 - 15:57:26"
-        },
-        {
-            "song_name": "Movin' To The Sun",
-            "artists": [
-                "HUGEL",
-                "Imael Angel",
-                "Ultra Naté"
-            ],
-            "album": "Movin' To The Sun",
-            "played_at": "19/06/2026 - 15:54:06"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "19/06/2026 - 15:51:44"
-        },
-        {
-            "song_name": "I Keep Reaching",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "19/06/2026 - 15:48:51"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "19/06/2026 - 16:23:50"
-        },
-        {
-            "song_name": "I Choose You (Day)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "19/06/2026 - 16:21:28"
-        },
         {
             "song_name": "Show Me",
             "artists": [
@@ -1671,6 +1594,86 @@
             ],
             "album": "LIKE THAT",
             "played_at": "27/06/2026 - 15:02:54"
+        },
+        {
+            "song_name": "WAIT FOR U (feat. Drake & Tems)",
+            "artists": [
+                "Future",
+                "Drake",
+                "Tems"
+            ],
+            "album": "I NEVER LIKED YOU",
+            "played_at": "27/06/2026 - 15:59:17"
+        },
+        {
+            "song_name": "London2Paris",
+            "artists": [
+                "Tkandz"
+            ],
+            "album": "London2Paris",
+            "played_at": "27/06/2026 - 15:56:07"
+        },
+        {
+            "song_name": "Hold Out",
+            "artists": [
+                "Lithe",
+                "FRVRFRIDAY"
+            ],
+            "album": "Hold Out",
+            "played_at": "27/06/2026 - 15:51:51"
+        },
+        {
+            "song_name": "National Treasures",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "27/06/2026 - 15:49:48"
+        },
+        {
+            "song_name": "16 Eden",
+            "artists": [
+                "Damzz"
+            ],
+            "album": "16 Eden",
+            "played_at": "27/06/2026 - 15:46:27"
+        },
+        {
+            "song_name": "Location (feat. Burna Boy)",
+            "artists": [
+                "Dave",
+                "Burna Boy"
+            ],
+            "album": "PSYCHODRAMA",
+            "played_at": "27/06/2026 - 15:43:56"
+        },
+        {
+            "song_name": "SLAUGHTER FT J HUS",
+            "artists": [
+                "Central Cee",
+                "J Hus"
+            ],
+            "album": "ALL ROADS LEAD HOME",
+            "played_at": "27/06/2026 - 15:39:55"
+        },
+        {
+            "song_name": "TRIPPIN",
+            "artists": [
+                "BUNT.",
+                "Mapei"
+            ],
+            "album": "TRIPPIN",
+            "played_at": "27/06/2026 - 15:36:08"
+        },
+        {
+            "song_name": "Weightless (jamesjamesjames Remix)",
+            "artists": [
+                "Ben Böhmer",
+                "Panama",
+                "jamesjamesjames"
+            ],
+            "album": "Weightless (jamesjamesjames Remix)",
+            "played_at": "27/06/2026 - 15:33:02"
         }
     ]
 }
