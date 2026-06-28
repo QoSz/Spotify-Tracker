@@ -1,31 +1,6 @@
 {
-    "total_plays": 6095,
+    "total_plays": 6098,
     "tracks": [
-        {
-            "song_name": "Mystical Magical",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Mystical Magical",
-            "played_at": "21/06/2026 - 11:31:43"
-        },
-        {
-            "song_name": "hate that i made you love me",
-            "artists": [
-                "Ariana Grande"
-            ],
-            "album": "hate that i made you love me",
-            "played_at": "21/06/2026 - 11:28:57"
-        },
-        {
-            "song_name": "Bring Your Love",
-            "artists": [
-                "Madonna",
-                "Sabrina Carpenter"
-            ],
-            "album": "Bring Your Love",
-            "played_at": "21/06/2026 - 11:25:39"
-        },
         {
             "song_name": "PASSENGER",
             "artists": [
@@ -1701,6 +1676,33 @@
             ],
             "album": "What You Saying",
             "played_at": "28/06/2026 - 21:12:23"
+        },
+        {
+            "song_name": "Naal Nachna",
+            "artists": [
+                "Shashwat Sachdev",
+                "Afsana Khan",
+                "Irshad Kamil",
+                "Reble"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "28/06/2026 - 21:48:27"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 21:46:04"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 21:32:14"
         }
     ]
 }
