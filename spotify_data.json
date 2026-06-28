@@ -1,63 +1,6 @@
 {
-    "total_plays": 6098,
+    "total_plays": 6105,
     "tracks": [
-        {
-            "song_name": "PASSENGER",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "PASSENGER",
-            "played_at": "21/06/2026 - 11:22:02"
-        },
-        {
-            "song_name": "Ordinary",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "Ordinary",
-            "played_at": "21/06/2026 - 11:19:22"
-        },
-        {
-            "song_name": "Love Me Not",
-            "artists": [
-                "Ravyn Lenae"
-            ],
-            "album": "Love Me Not / Love Is Blind",
-            "played_at": "21/06/2026 - 11:16:15"
-        },
-        {
-            "song_name": "Questions",
-            "artists": [
-                "Maisie Peters"
-            ],
-            "album": "Florescence",
-            "played_at": "21/06/2026 - 11:12:42"
-        },
-        {
-            "song_name": "Shoulda Never (feat. USHER)",
-            "artists": [
-                "Kehlani",
-                "USHER"
-            ],
-            "album": "Shoulda Never (feat. USHER)",
-            "played_at": "21/06/2026 - 11:09:35"
-        },
-        {
-            "song_name": "Steps",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Steps",
-            "played_at": "22/06/2026 - 09:30:27"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "22/06/2026 - 09:26:59"
-        },
         {
             "song_name": "Movin' To The Sun",
             "artists": [
@@ -1703,6 +1646,62 @@
             ],
             "album": "What You Saying",
             "played_at": "28/06/2026 - 21:32:14"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "28/06/2026 - 22:28:13"
+        },
+        {
+            "song_name": "I Drive",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Intro",
+            "played_at": "28/06/2026 - 22:25:19"
+        },
+        {
+            "song_name": "fallin",
+            "artists": [
+                "abelon"
+            ],
+            "album": "fallin",
+            "played_at": "28/06/2026 - 22:22:07"
+        },
+        {
+            "song_name": "wild rides",
+            "artists": [
+                "daylight"
+            ],
+            "album": "wild rides",
+            "played_at": "28/06/2026 - 22:18:44"
+        },
+        {
+            "song_name": "I Keep Reaching",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "28/06/2026 - 22:15:58"
+        },
+        {
+            "song_name": "Still Feel You",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Still Feel You",
+            "played_at": "28/06/2026 - 22:13:30"
+        },
+        {
+            "song_name": "Dreaming",
+            "artists": [
+                "Nu Aspect"
+            ],
+            "album": "Dreaming",
+            "played_at": "28/06/2026 - 22:10:30"
         }
     ]
 }
