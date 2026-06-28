@@ -1,14 +1,6 @@
 {
-    "total_plays": 6081,
+    "total_plays": 6082,
     "tracks": [
-        {
-            "song_name": "Don't Worry About Tomorrow",
-            "artists": [
-                "DRAY"
-            ],
-            "album": "Don't Worry About Tomorrow",
-            "played_at": "20/06/2026 - 13:34:17"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1706,6 +1698,14 @@
             ],
             "album": "Dhoom:3",
             "played_at": "28/06/2026 - 15:47:39"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "28/06/2026 - 17:21:21"
         }
     ]
 }
