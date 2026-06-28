@@ -1,153 +1,6 @@
 {
-    "total_plays": 6063,
+    "total_plays": 6081,
     "tracks": [
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "20/06/2026 - 12:33:05"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "20/06/2026 - 13:29:16"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "20/06/2026 - 13:25:45"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "20/06/2026 - 13:23:15"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "20/06/2026 - 13:19:36"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "20/06/2026 - 13:15:54"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "20/06/2026 - 13:13:22"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "20/06/2026 - 13:10:56"
-        },
-        {
-            "song_name": "Can't Go Back",
-            "artists": [
-                "Astrality",
-                "James French"
-            ],
-            "album": "Can't Go Back",
-            "played_at": "20/06/2026 - 13:05:58"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "20/06/2026 - 13:03:30"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "20/06/2026 - 13:00:43"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "20/06/2026 - 12:57:28"
-        },
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Dreaming",
-            "played_at": "20/06/2026 - 12:54:20"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "20/06/2026 - 12:50:44"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "20/06/2026 - 12:48:46"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "20/06/2026 - 12:46:25"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "20/06/2026 - 12:43:49"
-        },
-        {
-            "song_name": "Will I Know",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "20/06/2026 - 13:46:22"
-        },
         {
             "song_name": "Don't Worry About Tomorrow",
             "artists": [
@@ -1674,6 +1527,185 @@
             ],
             "album": "What You Saying",
             "played_at": "28/06/2026 - 00:14:14"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "28/06/2026 - 16:58:36"
+        },
+        {
+            "song_name": "You're Makin' Me High",
+            "artists": [
+                "DJ Katch",
+                "Amira Eldine"
+            ],
+            "album": "You're Makin' Me High",
+            "played_at": "28/06/2026 - 16:55:51"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "28/06/2026 - 16:53:04"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "28/06/2026 - 16:50:59"
+        },
+        {
+            "song_name": "Naal Nachna",
+            "artists": [
+                "Shashwat Sachdev",
+                "Afsana Khan",
+                "Irshad Kamil",
+                "Reble"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "28/06/2026 - 16:48:09"
+        },
+        {
+            "song_name": "Naal Nachna",
+            "artists": [
+                "Shashwat Sachdev",
+                "Afsana Khan",
+                "Irshad Kamil",
+                "Reble"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "28/06/2026 - 16:46:09"
+        },
+        {
+            "song_name": "Naal Nachna",
+            "artists": [
+                "Shashwat Sachdev",
+                "Afsana Khan",
+                "Irshad Kamil",
+                "Reble"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "28/06/2026 - 16:37:59"
+        },
+        {
+            "song_name": "Ainvayi Ainvayi",
+            "artists": [
+                "Salim–Sulaiman",
+                "Salim Merchant",
+                "Sunidhi Chauhan",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Band Baaja Baaraat",
+            "played_at": "28/06/2026 - 16:28:02"
+        },
+        {
+            "song_name": "The Humma Song",
+            "artists": [
+                "A.R. Rahman",
+                "Badshah",
+                "Tanishk Bagchi",
+                "Shashaa Tirupati",
+                "Jubin Nautiyal"
+            ],
+            "album": "OK Jaanu (Original Motion Picture Soundtrack)",
+            "played_at": "28/06/2026 - 16:23:34"
+        },
+        {
+            "song_name": "Zingaat",
+            "artists": [
+                "Ajay-Atul"
+            ],
+            "album": "Dhadak (Original Motion Picture Soundtrack)",
+            "played_at": "28/06/2026 - 16:20:29"
+        },
+        {
+            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "artists": [
+                "Jasmine Sandlas",
+                "Garry Sandhu",
+                "Tanishk Bagchi",
+                "Intense"
+            ],
+            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "played_at": "28/06/2026 - 16:16:43"
+        },
+        {
+            "song_name": "Lutt Le Gaya",
+            "artists": [
+                "Shashwat Sachdev",
+                "Simran Choudhary"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "28/06/2026 - 16:13:34"
+        },
+        {
+            "song_name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+            "artists": [
+                "Badshah",
+                "Neha Kakkar",
+                "Varun Dhawan"
+            ],
+            "album": "Garmi (From \"Street Dancer 3D\")",
+            "played_at": "28/06/2026 - 16:09:19"
+        },
+        {
+            "song_name": "The Disco Song",
+            "artists": [
+                "Vishal-Shekhar",
+                "Benny Dayal",
+                "Sunidhi Chauhan",
+                "Nazia Hassan"
+            ],
+            "album": "Student of the Year (Original Motion Picture Soundtrack)",
+            "played_at": "28/06/2026 - 16:06:16"
+        },
+        {
+            "song_name": "Chikni Chameli",
+            "artists": [
+                "Ajay-Atul",
+                "Shreya Ghoshal"
+            ],
+            "album": "Chikni Chameli",
+            "played_at": "28/06/2026 - 16:00:34"
+        },
+        {
+            "song_name": "Sunny Sunny",
+            "artists": [
+                "Yo Yo Honey Singh",
+                "Neha Kakkar"
+            ],
+            "album": "Yaariyan",
+            "played_at": "28/06/2026 - 15:55:30"
+        },
+        {
+            "song_name": "Chammak Challo",
+            "artists": [
+                "Vishal-Shekhar",
+                "Akon",
+                "Hamsika Iyer",
+                "Vishal Dadlani",
+                "Niranjan Iyengar"
+            ],
+            "album": "Ra-One",
+            "played_at": "28/06/2026 - 15:51:27"
+        },
+        {
+            "song_name": "Kamli",
+            "artists": [
+                "Pritam",
+                "Sunidhi Chauhan",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Dhoom:3",
+            "played_at": "28/06/2026 - 15:47:39"
         }
     ]
 }
