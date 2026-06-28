@@ -1,40 +1,6 @@
 {
-    "total_plays": 6082,
+    "total_plays": 6086,
     "tracks": [
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "20/06/2026 - 13:31:10"
-        },
-        {
-            "song_name": "I Just Might",
-            "artists": [
-                "Bruno Mars"
-            ],
-            "album": "I Just Might",
-            "played_at": "21/06/2026 - 13:11:45"
-        },
-        {
-            "song_name": "Risk It All",
-            "artists": [
-                "Bruno Mars"
-            ],
-            "album": "The Romantic",
-            "played_at": "21/06/2026 - 12:10:24"
-        },
-        {
-            "song_name": "Talk of the Town",
-            "artists": [
-                "Fred again..",
-                "Sammy Virji",
-                "Reggie"
-            ],
-            "album": "Talk of the Town",
-            "played_at": "21/06/2026 - 12:07:00"
-        },
         {
             "song_name": "Potential",
             "artists": [
@@ -1706,6 +1672,38 @@
             ],
             "album": "99 Eyes",
             "played_at": "28/06/2026 - 17:21:21"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 21:01:16"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 20:59:03"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 20:56:51"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "28/06/2026 - 20:54:39"
         }
     ]
 }
