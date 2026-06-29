@@ -1,32 +1,6 @@
 {
-    "total_plays": 6105,
+    "total_plays": 6108,
     "tracks": [
-        {
-            "song_name": "Movin' To The Sun",
-            "artists": [
-                "HUGEL",
-                "Imael Angel",
-                "Ultra Naté"
-            ],
-            "album": "Movin' To The Sun",
-            "played_at": "22/06/2026 - 09:24:19"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "22/06/2026 - 09:21:56"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "22/06/2026 - 09:18:36"
-        },
         {
             "song_name": "underneath",
             "artists": [
@@ -1702,6 +1676,30 @@
             ],
             "album": "Dreaming",
             "played_at": "28/06/2026 - 22:10:30"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Satellite Signal",
+            "played_at": "28/06/2026 - 22:36:24"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "28/06/2026 - 22:33:32"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "28/06/2026 - 22:30:56"
         }
     ]
 }
