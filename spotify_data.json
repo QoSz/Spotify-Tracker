@@ -1,15 +1,6 @@
 {
-    "total_plays": 6137,
+    "total_plays": 6138,
     "tracks": [
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "23/06/2026 - 11:19:40"
-        },
         {
             "song_name": "When the Feeling Is Gone",
             "artists": [
@@ -1695,6 +1686,14 @@
             ],
             "album": "Sofa Kings",
             "played_at": "30/06/2026 - 06:29:42"
+        },
+        {
+            "song_name": "coastline",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "coastline",
+            "played_at": "30/06/2026 - 08:50:39"
         }
     ]
 }
