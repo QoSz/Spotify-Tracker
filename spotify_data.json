@@ -1,58 +1,6 @@
 {
-    "total_plays": 6138,
+    "total_plays": 6144,
     "tracks": [
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "23/06/2026 - 11:16:18"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "23/06/2026 - 11:13:41"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "23/06/2026 - 11:11:10"
-        },
-        {
-            "song_name": "Devil In The Sun",
-            "artists": [
-                "Lucas Estrada",
-                "RUSSI"
-            ],
-            "album": "Devil In The Sun",
-            "played_at": "23/06/2026 - 12:29:59"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "23/06/2026 - 12:27:39"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "23/06/2026 - 12:25:21"
-        },
         {
             "song_name": "Reasons",
             "artists": [
@@ -1694,6 +1642,57 @@
             ],
             "album": "coastline",
             "played_at": "30/06/2026 - 08:50:39"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "30/06/2026 - 16:41:46"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "30/06/2026 - 16:28:48"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "30/06/2026 - 16:26:41"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "30/06/2026 - 16:23:28"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "30/06/2026 - 16:21:17"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "30/06/2026 - 14:39:11"
         }
     ]
 }
