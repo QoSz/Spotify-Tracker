@@ -1,30 +1,6 @@
 {
-    "total_plays": 6169,
+    "total_plays": 6172,
     "tracks": [
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "23/06/2026 - 19:56:45"
-        },
-        {
-            "song_name": "Never Change",
-            "artists": [
-                "Stevie Appleton"
-            ],
-            "album": "Never Change",
-            "played_at": "23/06/2026 - 19:54:06"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "23/06/2026 - 20:05:09"
-        },
         {
             "song_name": "Sense of Time",
             "artists": [
@@ -1686,6 +1662,31 @@
             ],
             "album": "Dreams",
             "played_at": "01/07/2026 - 14:04:27"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "01/07/2026 - 14:38:38"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "01/07/2026 - 14:35:16"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "01/07/2026 - 14:31:36"
         }
     ]
 }
