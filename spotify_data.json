@@ -1,74 +1,6 @@
 {
-    "total_plays": 6149,
+    "total_plays": 6157,
     "tracks": [
-        {
-            "song_name": "You're Makin' Me High",
-            "artists": [
-                "DJ Katch",
-                "Amira Eldine"
-            ],
-            "album": "You're Makin' Me High",
-            "played_at": "23/06/2026 - 11:48:05"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "23/06/2026 - 11:43:18"
-        },
-        {
-            "song_name": "Devil In The Sun",
-            "artists": [
-                "Lucas Estrada",
-                "RUSSI"
-            ],
-            "album": "Devil In The Sun",
-            "played_at": "23/06/2026 - 11:40:11"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "23/06/2026 - 11:37:18"
-        },
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "23/06/2026 - 11:34:00"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "23/06/2026 - 17:15:40"
-        },
-        {
-            "song_name": "dots",
-            "artists": [
-                "all things break"
-            ],
-            "album": "dots",
-            "played_at": "23/06/2026 - 17:10:03"
-        },
-        {
-            "song_name": "Will I Know",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "23/06/2026 - 17:02:58"
-        },
         {
             "song_name": "Something Stronger",
             "artists": [
@@ -1692,6 +1624,73 @@
             ],
             "album": "Silverlight",
             "played_at": "29/06/2026 - 09:55:04"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "01/07/2026 - 14:01:47"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "01/07/2026 - 13:59:42"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "01/07/2026 - 13:57:08"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "01/07/2026 - 13:54:30"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "01/07/2026 - 13:48:44"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "01/07/2026 - 13:42:07"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "01/07/2026 - 13:39:52"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "01/07/2026 - 13:36:30"
         }
     ]
 }
