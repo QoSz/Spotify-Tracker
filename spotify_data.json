@@ -1,107 +1,6 @@
 {
-    "total_plays": 6157,
+    "total_plays": 6169,
     "tracks": [
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "23/06/2026 - 16:59:48"
-        },
-        {
-            "song_name": "This Time",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "23/06/2026 - 16:57:41"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "23/06/2026 - 16:54:07"
-        },
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "23/06/2026 - 16:50:46"
-        },
-        {
-            "song_name": "Clocks",
-            "artists": [
-                "Daydream Affiliate",
-                "Reiny"
-            ],
-            "album": "Clocks",
-            "played_at": "23/06/2026 - 16:48:14"
-        },
-        {
-            "song_name": "Rhythm Inside",
-            "artists": [
-                "Jonasu",
-                "Rory Hope"
-            ],
-            "album": "Rhythm Inside",
-            "played_at": "23/06/2026 - 16:45:01"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "James Carter"
-            ],
-            "album": "Heaven",
-            "played_at": "23/06/2026 - 16:42:18"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "23/06/2026 - 16:40:13"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "23/06/2026 - 16:37:34"
-        },
-        {
-            "song_name": "Yo No Lo Sé",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Yo No Lo Sé",
-            "played_at": "23/06/2026 - 16:34:06"
-        },
-        {
-            "song_name": "Yo No Lo Sé",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Yo No Lo Sé",
-            "played_at": "23/06/2026 - 12:09:07"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "23/06/2026 - 19:59:22"
-        },
         {
             "song_name": "Need You",
             "artists": [
@@ -1691,6 +1590,102 @@
             ],
             "album": "ICEMAN",
             "played_at": "01/07/2026 - 13:36:30"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "01/07/2026 - 14:29:48"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "01/07/2026 - 14:27:47"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:25:00"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:22:48"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:20:36"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:18:23"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:16:11"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:13:59"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:11:47"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "01/07/2026 - 14:09:34"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "01/07/2026 - 14:07:22"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "01/07/2026 - 14:04:27"
         }
     ]
 }
