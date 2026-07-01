@@ -1,32 +1,6 @@
 {
-    "total_plays": 6144,
+    "total_plays": 6147,
     "tracks": [
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "23/06/2026 - 12:23:24"
-        },
-        {
-            "song_name": "I Choose You (Day)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "23/06/2026 - 12:19:54"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "23/06/2026 - 12:16:33"
-        },
         {
             "song_name": "Upside Down",
             "artists": [
@@ -1693,6 +1667,31 @@
             ],
             "album": "PRODIGY",
             "played_at": "30/06/2026 - 14:39:11"
+        },
+        {
+            "song_name": "Scream Drive Faster",
+            "artists": [
+                "LAUREL"
+            ],
+            "album": "Scream Drive Faster",
+            "played_at": "01/07/2026 - 10:23:41"
+        },
+        {
+            "song_name": "Fired Up",
+            "artists": [
+                "The Lagoons"
+            ],
+            "album": "Fired Up",
+            "played_at": "01/07/2026 - 10:19:47"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "30/06/2026 - 16:53:15"
         }
     ]
 }
