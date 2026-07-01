@@ -1,23 +1,6 @@
 {
-    "total_plays": 6147,
+    "total_plays": 6149,
     "tracks": [
-        {
-            "song_name": "Upside Down",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Upside Down",
-            "played_at": "23/06/2026 - 12:14:15"
-        },
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "23/06/2026 - 11:51:35"
-        },
         {
             "song_name": "You're Makin' Me High",
             "artists": [
@@ -1692,6 +1675,23 @@
             ],
             "album": "Don't Be Dumb",
             "played_at": "30/06/2026 - 16:53:15"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "01/07/2026 - 13:07:31"
+        },
+        {
+            "song_name": "Silverlight",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Silverlight",
+            "played_at": "29/06/2026 - 09:55:04"
         }
     ]
 }
