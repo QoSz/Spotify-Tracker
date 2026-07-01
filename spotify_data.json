@@ -1,14 +1,6 @@
 {
-    "total_plays": 6190,
+    "total_plays": 6191,
     "tracks": [
-        {
-            "song_name": "Stay Until the Morning",
-            "artists": [
-                "Stoto"
-            ],
-            "album": "Stay Until the Morning",
-            "played_at": "24/06/2026 - 09:13:38"
-        },
         {
             "song_name": "Silver Lines",
             "artists": [
@@ -1701,6 +1693,15 @@
             ],
             "album": "B.O.A.T.S. (Mixtape)",
             "played_at": "01/07/2026 - 10:35:48"
+        },
+        {
+            "song_name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+            "artists": [
+                "Kendrick Lamar",
+                "SZA"
+            ],
+            "album": "Black Panther The Album Music From And Inspired By",
+            "played_at": "01/07/2026 - 21:52:41"
         }
     ]
 }
