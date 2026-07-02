@@ -1,15 +1,6 @@
 {
-    "total_plays": 6214,
+    "total_plays": 6215,
     "tracks": [
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "24/06/2026 - 10:47:26"
-        },
         {
             "song_name": "Steps",
             "artists": [
@@ -1711,6 +1702,14 @@
             ],
             "album": "Honestly, Nevermind",
             "played_at": "02/07/2026 - 12:03:40"
+        },
+        {
+            "song_name": "Baille",
+            "artists": [
+                "ERIICE"
+            ],
+            "album": "Baille",
+            "played_at": "02/07/2026 - 13:05:48"
         }
     ]
 }
