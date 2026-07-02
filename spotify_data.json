@@ -1,14 +1,6 @@
 {
-    "total_plays": 6215,
+    "total_plays": 6216,
     "tracks": [
-        {
-            "song_name": "Steps",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Steps",
-            "played_at": "25/06/2026 - 10:36:11"
-        },
         {
             "song_name": "Steps",
             "artists": [
@@ -1710,6 +1702,14 @@
             ],
             "album": "Baille",
             "played_at": "02/07/2026 - 13:05:48"
+        },
+        {
+            "song_name": "No Role Modelz",
+            "artists": [
+                "J. Cole"
+            ],
+            "album": "2014 Forest Hills Drive",
+            "played_at": "01/07/2026 - 19:50:39"
         }
     ]
 }
