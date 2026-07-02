@@ -1,15 +1,6 @@
 {
-    "total_plays": 6197,
+    "total_plays": 6198,
     "tracks": [
-        {
-            "song_name": "Relax My Eyes",
-            "artists": [
-                "ANOTR",
-                "Abel Balder"
-            ],
-            "album": "Relax My Eyes",
-            "played_at": "24/06/2026 - 09:50:20"
-        },
         {
             "song_name": "stay",
             "artists": [
@@ -1702,6 +1693,16 @@
             ],
             "album": "Kehlani",
             "played_at": "02/07/2026 - 08:34:12"
+        },
+        {
+            "song_name": "Show Me Love (with Tyla)",
+            "artists": [
+                "WizTheMc",
+                "bees & honey",
+                "Tyla"
+            ],
+            "album": "Show Me Love (with Tyla)",
+            "played_at": "02/07/2026 - 09:43:19"
         }
     ]
 }
