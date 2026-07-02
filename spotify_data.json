@@ -1,88 +1,6 @@
 {
-    "total_plays": 6203,
+    "total_plays": 6213,
     "tracks": [
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "23/06/2026 - 14:49:15"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "25/06/2026 - 08:54:27"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "25/06/2026 - 08:52:11"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "25/06/2026 - 08:48:43"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "25/06/2026 - 08:45:44"
-        },
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "25/06/2026 - 08:42:29"
-        },
-        {
-            "song_name": "Simple",
-            "artists": [
-                "ItsArius"
-            ],
-            "album": "Simple",
-            "played_at": "25/06/2026 - 08:39:49"
-        },
-        {
-            "song_name": "fade out",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "25/06/2026 - 08:37:17"
-        },
-        {
-            "song_name": "blackout blackout",
-            "artists": [
-                "all things break"
-            ],
-            "album": "blackout blackout",
-            "played_at": "25/06/2026 - 08:35:13"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "25/06/2026 - 08:32:54"
-        },
         {
             "song_name": "Bloom",
             "artists": [
@@ -1706,6 +1624,94 @@
             ],
             "album": "Show Me Love (with Tyla)",
             "played_at": "02/07/2026 - 11:16:13"
+        },
+        {
+            "song_name": "All I Need",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "YEBO",
+            "played_at": "02/07/2026 - 11:59:25"
+        },
+        {
+            "song_name": "I Run",
+            "artists": [
+                "HAVEN.",
+                "Kaitlin Aragon"
+            ],
+            "album": "I Run",
+            "played_at": "02/07/2026 - 11:56:37"
+        },
+        {
+            "song_name": "Self Aware",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Self Aware",
+            "played_at": "02/07/2026 - 11:54:28"
+        },
+        {
+            "song_name": "Your Body",
+            "artists": [
+                "Marten Lou"
+            ],
+            "album": "Your Body",
+            "played_at": "02/07/2026 - 11:51:27"
+        },
+        {
+            "song_name": "Wish I Never Met You",
+            "artists": [
+                "Jacob Vallen",
+                "Tory Lanez"
+            ],
+            "album": "Wish I Never Met You",
+            "played_at": "02/07/2026 - 11:47:40"
+        },
+        {
+            "song_name": "Wait For You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Wait For You",
+            "played_at": "02/07/2026 - 11:44:35"
+        },
+        {
+            "song_name": "Jackie B",
+            "artists": [
+                "&friends",
+                "JOSEPH (CH)",
+                "Brent Faiyaz"
+            ],
+            "album": "Jackie B",
+            "played_at": "02/07/2026 - 11:41:46"
+        },
+        {
+            "song_name": "Feel",
+            "artists": [
+                "Avi Snow",
+                "MVCA",
+                "Zeeba"
+            ],
+            "album": "Feel",
+            "played_at": "02/07/2026 - 11:38:09"
+        },
+        {
+            "song_name": "soso",
+            "artists": [
+                "OMAH LAY"
+            ],
+            "album": "Boy Alone (Deluxe Edition)",
+            "played_at": "02/07/2026 - 11:35:21"
+        },
+        {
+            "song_name": "Game Time",
+            "artists": [
+                "Future",
+                "Tyla",
+                "FIFA Sound"
+            ],
+            "album": "Game Time (FIFA World Cup 2026™)",
+            "played_at": "02/07/2026 - 11:32:18"
         }
     ]
 }
