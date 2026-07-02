@@ -1,31 +1,6 @@
 {
-    "total_plays": 6194,
+    "total_plays": 6197,
     "tracks": [
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "24/06/2026 - 09:01:20"
-        },
-        {
-            "song_name": "Velvet & Ice",
-            "artists": [
-                "Ferreck Dawn"
-            ],
-            "album": "Velvet & Ice",
-            "played_at": "24/06/2026 - 09:56:44"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "24/06/2026 - 09:53:34"
-        },
         {
             "song_name": "Relax My Eyes",
             "artists": [
@@ -1702,6 +1677,31 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "02/07/2026 - 08:07:11"
+        },
+        {
+            "song_name": "Burning",
+            "artists": [
+                "Tems"
+            ],
+            "album": "Born in the Wild",
+            "played_at": "02/07/2026 - 08:40:29"
+        },
+        {
+            "song_name": "Nights Like This (feat. Ty Dolla $ign)",
+            "artists": [
+                "Kehlani",
+                "Ty Dolla $ign"
+            ],
+            "album": "While We Wait",
+            "played_at": "02/07/2026 - 08:37:33"
+        },
+        {
+            "song_name": "Folded",
+            "artists": [
+                "Kehlani"
+            ],
+            "album": "Kehlani",
+            "played_at": "02/07/2026 - 08:34:12"
         }
     ]
 }
