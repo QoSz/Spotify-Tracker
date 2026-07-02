@@ -1,15 +1,6 @@
 {
-    "total_plays": 6213,
+    "total_plays": 6214,
     "tracks": [
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "25/06/2026 - 08:29:17"
-        },
         {
             "song_name": "Bloom",
             "artists": [
@@ -1712,6 +1703,14 @@
             ],
             "album": "Game Time (FIFA World Cup 2026™)",
             "played_at": "02/07/2026 - 11:32:18"
+        },
+        {
+            "song_name": "Flight's Booked",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Honestly, Nevermind",
+            "played_at": "02/07/2026 - 12:03:40"
         }
     ]
 }
