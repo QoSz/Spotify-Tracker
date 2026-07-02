@@ -1,49 +1,6 @@
 {
-    "total_plays": 6198,
+    "total_plays": 6203,
     "tracks": [
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "24/06/2026 - 09:47:07"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "24/06/2026 - 09:43:55"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "24/06/2026 - 09:40:51"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "24/06/2026 - 09:37:58"
-        },
-        {
-            "song_name": "Called Your Name",
-            "artists": [
-                "Nu Aspect",
-                "Jake Neumar"
-            ],
-            "album": "Called Your Name",
-            "played_at": "24/06/2026 - 09:34:49"
-        },
         {
             "song_name": "sweet love",
             "artists": [
@@ -1703,6 +1660,52 @@
             ],
             "album": "Show Me Love (with Tyla)",
             "played_at": "02/07/2026 - 09:43:19"
+        },
+        {
+            "song_name": "At The Party",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "YEBO",
+            "played_at": "02/07/2026 - 11:28:52"
+        },
+        {
+            "song_name": "What I Need",
+            "artists": [
+                "Naarly",
+                "Sickluv",
+                "Thabza De Soul"
+            ],
+            "album": "What I Need",
+            "played_at": "02/07/2026 - 11:26:10"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "02/07/2026 - 11:22:06"
+        },
+        {
+            "song_name": "AWGAZI",
+            "artists": [
+                "Palm Monkey",
+                "RUSSI",
+                "The Palm Tree Boy"
+            ],
+            "album": "AWGAZI",
+            "played_at": "02/07/2026 - 11:19:00"
+        },
+        {
+            "song_name": "Show Me Love (with Tyla)",
+            "artists": [
+                "WizTheMc",
+                "bees & honey",
+                "Tyla"
+            ],
+            "album": "Show Me Love (with Tyla)",
+            "played_at": "02/07/2026 - 11:16:13"
         }
     ]
 }
