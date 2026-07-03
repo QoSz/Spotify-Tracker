@@ -1,15 +1,6 @@
 {
-    "total_plays": 6250,
+    "total_plays": 6251,
     "tracks": [
-        {
-            "song_name": "Location (feat. Burna Boy)",
-            "artists": [
-                "Dave",
-                "Burna Boy"
-            ],
-            "album": "PSYCHODRAMA",
-            "played_at": "27/06/2026 - 15:43:56"
-        },
         {
             "song_name": "SLAUGHTER FT J HUS",
             "artists": [
@@ -1701,6 +1692,14 @@
             ],
             "album": "What If You Fly",
             "played_at": "03/07/2026 - 10:32:59"
+        },
+        {
+            "song_name": "uWu Victory Replay",
+            "artists": [
+                "Rod Kim"
+            ],
+            "album": "Let's Play! (YouTube Audio Library Soundtrack)",
+            "played_at": "03/07/2026 - 13:49:50"
         }
     ]
 }
