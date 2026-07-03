@@ -1,107 +1,6 @@
 {
-    "total_plays": 6236,
+    "total_plays": 6248,
     "tracks": [
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "27/06/2026 - 14:48:55"
-        },
-        {
-            "song_name": "All I Need",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "All I Need",
-            "played_at": "27/06/2026 - 15:28:22"
-        },
-        {
-            "song_name": "Hold Out",
-            "artists": [
-                "Lithe",
-                "FRVRFRIDAY"
-            ],
-            "album": "Hold Out",
-            "played_at": "27/06/2026 - 15:25:00"
-        },
-        {
-            "song_name": "I GOT",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "While You Waited",
-            "played_at": "27/06/2026 - 15:22:58"
-        },
-        {
-            "song_name": "Crown",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Crown",
-            "played_at": "27/06/2026 - 15:20:00"
-        },
-        {
-            "song_name": "COLOGNE",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "COLOGNE",
-            "played_at": "27/06/2026 - 15:15:59"
-        },
-        {
-            "song_name": "Fire & Desire",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Views",
-            "played_at": "27/06/2026 - 15:12:38"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "27/06/2026 - 15:07:19"
-        },
-        {
-            "song_name": "LIKE THAT",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "LIKE THAT",
-            "played_at": "27/06/2026 - 15:02:54"
-        },
-        {
-            "song_name": "WAIT FOR U (feat. Drake & Tems)",
-            "artists": [
-                "Future",
-                "Drake",
-                "Tems"
-            ],
-            "album": "I NEVER LIKED YOU",
-            "played_at": "27/06/2026 - 15:59:17"
-        },
-        {
-            "song_name": "London2Paris",
-            "artists": [
-                "Tkandz"
-            ],
-            "album": "London2Paris",
-            "played_at": "27/06/2026 - 15:56:07"
-        },
-        {
-            "song_name": "Hold Out",
-            "artists": [
-                "Lithe",
-                "FRVRFRIDAY"
-            ],
-            "album": "Hold Out",
-            "played_at": "27/06/2026 - 15:51:51"
-        },
         {
             "song_name": "National Treasures",
             "artists": [
@@ -1705,6 +1604,103 @@
             ],
             "album": "Let Go",
             "played_at": "03/07/2026 - 08:34:59"
+        },
+        {
+            "song_name": "around",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "keep your feet",
+            "played_at": "03/07/2026 - 09:29:13"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "03/07/2026 - 09:26:31"
+        },
+        {
+            "song_name": "Light The Sky",
+            "artists": [
+                "Valentino"
+            ],
+            "album": "Light The Sky",
+            "played_at": "03/07/2026 - 09:23:52"
+        },
+        {
+            "song_name": "Haunted By You",
+            "artists": [
+                "Kisaya"
+            ],
+            "album": "Haunted By You",
+            "played_at": "03/07/2026 - 09:21:23"
+        },
+        {
+            "song_name": "Help Me Lose My Mind - Slowed Down",
+            "artists": [
+                "Gravagerz"
+            ],
+            "album": "Help Me Lose My Mind (Slowed Down)",
+            "played_at": "03/07/2026 - 09:17:54"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "03/07/2026 - 09:14:38"
+        },
+        {
+            "song_name": "Too Tense",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Too Tense",
+            "played_at": "03/07/2026 - 09:11:44"
+        },
+        {
+            "song_name": "Jealous Girl",
+            "artists": [
+                "overtones"
+            ],
+            "album": "Jealous Girl",
+            "played_at": "03/07/2026 - 09:09:39"
+        },
+        {
+            "song_name": "Hit the Ground",
+            "artists": [
+                "Texture"
+            ],
+            "album": "Hit the Ground",
+            "played_at": "03/07/2026 - 09:07:46"
+        },
+        {
+            "song_name": "Keep It Simple",
+            "artists": [
+                "Jend"
+            ],
+            "album": "Keep It Simple",
+            "played_at": "03/07/2026 - 09:05:20"
+        },
+        {
+            "song_name": "December",
+            "artists": [
+                "Driftwood."
+            ],
+            "album": "December",
+            "played_at": "03/07/2026 - 09:03:15"
+        },
+        {
+            "song_name": "Can't Help But Worry (Every Night Every Day)",
+            "artists": [
+                "Soluna"
+            ],
+            "album": "Can't Help But Worry (Every Night Every Day)",
+            "played_at": "03/07/2026 - 09:00:44"
         }
     ]
 }
