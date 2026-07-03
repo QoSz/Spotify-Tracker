@@ -1,51 +1,6 @@
 {
-    "total_plays": 6251,
+    "total_plays": 6256,
     "tracks": [
-        {
-            "song_name": "SLAUGHTER FT J HUS",
-            "artists": [
-                "Central Cee",
-                "J Hus"
-            ],
-            "album": "ALL ROADS LEAD HOME",
-            "played_at": "27/06/2026 - 15:39:55"
-        },
-        {
-            "song_name": "TRIPPIN",
-            "artists": [
-                "BUNT.",
-                "Mapei"
-            ],
-            "album": "TRIPPIN",
-            "played_at": "27/06/2026 - 15:36:08"
-        },
-        {
-            "song_name": "Weightless (jamesjamesjames Remix)",
-            "artists": [
-                "Ben Böhmer",
-                "Panama",
-                "jamesjamesjames"
-            ],
-            "album": "Weightless (jamesjamesjames Remix)",
-            "played_at": "27/06/2026 - 15:33:02"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "PRODIGY",
-            "played_at": "27/06/2026 - 16:24:04"
-        },
-        {
-            "song_name": "ICEMAN FREESTYLE",
-            "artists": [
-                "Central Cee"
-            ],
-            "album": "ALL ROADS LEAD HOME",
-            "played_at": "27/06/2026 - 16:15:40"
-        },
         {
             "song_name": "Fair Trade (with Travis Scott)",
             "artists": [
@@ -1700,6 +1655,48 @@
             ],
             "album": "Let's Play! (YouTube Audio Library Soundtrack)",
             "played_at": "03/07/2026 - 13:49:50"
+        },
+        {
+            "song_name": "She Bugging (Whatchu Gonna Do)",
+            "artists": [
+                "Mr Flintstone",
+                "Khantrast"
+            ],
+            "album": "She Bugging (Whatchu Gonna Do)",
+            "played_at": "03/07/2026 - 15:18:41"
+        },
+        {
+            "song_name": "Man of the Year",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Man of the Year",
+            "played_at": "03/07/2026 - 15:16:36"
+        },
+        {
+            "song_name": "Headlines",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Take Care (Deluxe)",
+            "played_at": "03/07/2026 - 15:11:06"
+        },
+        {
+            "song_name": "Fair Trade (with Travis Scott)",
+            "artists": [
+                "Drake",
+                "Travis Scott"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "03/07/2026 - 15:07:17"
+        },
+        {
+            "song_name": "Serve",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Serve",
+            "played_at": "03/07/2026 - 15:02:33"
         }
     ]
 }
