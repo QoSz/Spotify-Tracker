@@ -1,15 +1,6 @@
 {
-    "total_plays": 6256,
+    "total_plays": 6257,
     "tracks": [
-        {
-            "song_name": "Fair Trade (with Travis Scott)",
-            "artists": [
-                "Drake",
-                "Travis Scott"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "27/06/2026 - 16:12:33"
-        },
         {
             "song_name": "NEW LINEN 新しいリネン",
             "artists": [
@@ -1697,6 +1688,14 @@
             ],
             "album": "Serve",
             "played_at": "03/07/2026 - 15:02:33"
+        },
+        {
+            "song_name": "Impress Me",
+            "artists": [
+                "Doov"
+            ],
+            "album": "Impress Me",
+            "played_at": "03/07/2026 - 15:30:06"
         }
     ]
 }
