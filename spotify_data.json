@@ -1,14 +1,6 @@
 {
-    "total_plays": 6248,
+    "total_plays": 6249,
     "tracks": [
-        {
-            "song_name": "National Treasures",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "27/06/2026 - 15:49:48"
-        },
         {
             "song_name": "16 Eden",
             "artists": [
@@ -1701,6 +1693,14 @@
             ],
             "album": "Can't Help But Worry (Every Night Every Day)",
             "played_at": "03/07/2026 - 09:00:44"
+        },
+        {
+            "song_name": "HOT THOUGHTS (COME TO LIFE)",
+            "artists": [
+                "CHAIME"
+            ],
+            "album": "HOT THOUGHTS (COME TO LIFE)",
+            "played_at": "03/07/2026 - 09:32:01"
         }
     ]
 }
