@@ -1,80 +1,6 @@
 {
-    "total_plays": 6227,
+    "total_plays": 6236,
     "tracks": [
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "27/06/2026 - 10:48:54"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "27/06/2026 - 10:46:47"
-        },
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "27/06/2026 - 10:59:17"
-        },
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "27/06/2026 - 10:57:06"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "27/06/2026 - 11:09:26"
-        },
-        {
-            "song_name": "made for this shit",
-            "artists": [
-                "Gunna"
-            ],
-            "album": "The Last Wun",
-            "played_at": "27/06/2026 - 15:00:50"
-        },
-        {
-            "song_name": "NOW OR NEVER II",
-            "artists": [
-                "Tkandz",
-                "Lil Baby"
-            ],
-            "album": "NOW OR NEVER II",
-            "played_at": "27/06/2026 - 14:58:36"
-        },
-        {
-            "song_name": "Do Not Disturb",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "27/06/2026 - 14:55:57"
-        },
-        {
-            "song_name": "B's On The Table (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "ICEMAN",
-            "played_at": "27/06/2026 - 14:51:13"
-        },
         {
             "song_name": "Give In",
             "artists": [
@@ -1705,6 +1631,80 @@
             ],
             "album": "Yu Feel",
             "played_at": "03/07/2026 - 08:16:55"
+        },
+        {
+            "song_name": "Knock Me Off My Feet",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Knock Me Off My Feet",
+            "played_at": "03/07/2026 - 08:58:54"
+        },
+        {
+            "song_name": "Need You Now",
+            "artists": [
+                "Mickey Kojak"
+            ],
+            "album": "Need You Now",
+            "played_at": "03/07/2026 - 08:56:33"
+        },
+        {
+            "song_name": "Celebrate",
+            "artists": [
+                "PLÜM"
+            ],
+            "album": "Celebrate",
+            "played_at": "03/07/2026 - 08:53:15"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "03/07/2026 - 08:50:25"
+        },
+        {
+            "song_name": "Illuminate - Extended",
+            "artists": [
+                "Astrality",
+                "Leo Stannard"
+            ],
+            "album": "Illuminate",
+            "played_at": "03/07/2026 - 08:47:00"
+        },
+        {
+            "song_name": "FEEL THE RUSH",
+            "artists": [
+                "Valentino"
+            ],
+            "album": "FEEL THE RUSH",
+            "played_at": "03/07/2026 - 08:43:16"
+        },
+        {
+            "song_name": "Release Me",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "03/07/2026 - 08:40:17"
+        },
+        {
+            "song_name": "Feel",
+            "artists": [
+                "Crunkz",
+                "Maxomar"
+            ],
+            "album": "Feel",
+            "played_at": "03/07/2026 - 08:37:13"
+        },
+        {
+            "song_name": "Let Go",
+            "artists": [
+                "Neon Tide"
+            ],
+            "album": "Let Go",
+            "played_at": "03/07/2026 - 08:34:59"
         }
     ]
 }
