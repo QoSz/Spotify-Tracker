@@ -1,14 +1,6 @@
 {
-    "total_plays": 6249,
+    "total_plays": 6250,
     "tracks": [
-        {
-            "song_name": "16 Eden",
-            "artists": [
-                "Damzz"
-            ],
-            "album": "16 Eden",
-            "played_at": "27/06/2026 - 15:46:27"
-        },
         {
             "song_name": "Location (feat. Burna Boy)",
             "artists": [
@@ -1701,6 +1693,14 @@
             ],
             "album": "HOT THOUGHTS (COME TO LIFE)",
             "played_at": "03/07/2026 - 09:32:01"
+        },
+        {
+            "song_name": "What If You Fly",
+            "artists": [
+                "Oliver River"
+            ],
+            "album": "What If You Fly",
+            "played_at": "03/07/2026 - 10:32:59"
         }
     ]
 }
