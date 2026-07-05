@@ -1,14 +1,6 @@
 {
-    "total_plays": 6308,
+    "total_plays": 6309,
     "tracks": [
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "29/06/2026 - 14:00:51"
-        },
         {
             "song_name": "What You Saying",
             "artists": [
@@ -1716,6 +1708,17 @@
             ],
             "album": "Bharat",
             "played_at": "05/07/2026 - 16:46:11"
+        },
+        {
+            "song_name": "Sweety Tera Drama",
+            "artists": [
+                "Pawni Pandey",
+                "Shraddha Pandit",
+                "Pravesh Mallick",
+                "Dev Negi"
+            ],
+            "album": "Bareilly Ki Barfi (Original Motion Picture Soundtrack)",
+            "played_at": "05/07/2026 - 17:57:10"
         }
     ]
 }
