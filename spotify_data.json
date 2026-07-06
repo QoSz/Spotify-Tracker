@@ -1,15 +1,6 @@
 {
-    "total_plays": 6356,
+    "total_plays": 6357,
     "tracks": [
-        {
-            "song_name": "B's On The Table (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "ICEMAN",
-            "played_at": "01/07/2026 - 13:36:30"
-        },
         {
             "song_name": "Shards",
             "artists": [
@@ -1728,6 +1719,15 @@
             ],
             "album": "First Contact",
             "played_at": "06/07/2026 - 11:36:43"
+        },
+        {
+            "song_name": "Show Me",
+            "artists": [
+                "JLV",
+                "Thandi"
+            ],
+            "album": "Show Me",
+            "played_at": "06/07/2026 - 14:01:33"
         }
     ]
 }
