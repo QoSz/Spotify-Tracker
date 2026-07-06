@@ -1,72 +1,6 @@
 {
-    "total_plays": 6348,
+    "total_plays": 6356,
     "tracks": [
-        {
-            "song_name": "Silverlight",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Silverlight",
-            "played_at": "29/06/2026 - 09:55:04"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "01/07/2026 - 14:01:47"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "01/07/2026 - 13:59:42"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "01/07/2026 - 13:57:08"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "01/07/2026 - 13:54:30"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "01/07/2026 - 13:48:44"
-        },
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "01/07/2026 - 13:42:07"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "01/07/2026 - 13:39:52"
-        },
         {
             "song_name": "B's On The Table (feat. 21 Savage)",
             "artists": [
@@ -1726,6 +1660,74 @@
             ],
             "album": "Someone to Hold",
             "played_at": "06/07/2026 - 10:51:55"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "06/07/2026 - 13:59:08"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "06/07/2026 - 13:56:28"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "06/07/2026 - 13:53:49"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "06/07/2026 - 13:51:22"
+        },
+        {
+            "song_name": "Out of My Head",
+            "artists": [
+                "Jack Wins",
+                "ManyFew"
+            ],
+            "album": "Out of My Head",
+            "played_at": "06/07/2026 - 13:47:57"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "06/07/2026 - 13:45:14"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "06/07/2026 - 13:42:24"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "First Contact",
+            "played_at": "06/07/2026 - 11:36:43"
         }
     ]
 }
