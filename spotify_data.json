@@ -1,40 +1,6 @@
 {
-    "total_plays": 6344,
+    "total_plays": 6348,
     "tracks": [
-        {
-            "song_name": "Scream Drive Faster",
-            "artists": [
-                "LAUREL"
-            ],
-            "album": "Scream Drive Faster",
-            "played_at": "01/07/2026 - 10:23:41"
-        },
-        {
-            "song_name": "Fired Up",
-            "artists": [
-                "The Lagoons"
-            ],
-            "album": "Fired Up",
-            "played_at": "01/07/2026 - 10:19:47"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "30/06/2026 - 16:53:15"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "PRODIGY",
-            "played_at": "01/07/2026 - 13:07:31"
-        },
         {
             "song_name": "Silverlight",
             "artists": [
@@ -1723,6 +1689,43 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "06/07/2026 - 07:58:44"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "06/07/2026 - 11:00:26"
+        },
+        {
+            "song_name": "Movin' To The Sun",
+            "artists": [
+                "HUGEL",
+                "Imael Angel",
+                "Ultra Naté"
+            ],
+            "album": "Movin' To The Sun",
+            "played_at": "06/07/2026 - 10:56:44"
+        },
+        {
+            "song_name": "Devil In The Sun",
+            "artists": [
+                "Lucas Estrada",
+                "RUSSI"
+            ],
+            "album": "Devil In The Sun",
+            "played_at": "06/07/2026 - 10:54:22"
+        },
+        {
+            "song_name": "Someone to Hold",
+            "artists": [
+                "Nu Aspect",
+                "Tudor"
+            ],
+            "album": "Someone to Hold",
+            "played_at": "06/07/2026 - 10:51:55"
         }
     ]
 }
