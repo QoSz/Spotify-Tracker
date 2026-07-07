@@ -1,14 +1,6 @@
 {
-    "total_plays": 6381,
+    "total_plays": 6382,
     "tracks": [
-        {
-            "song_name": "Ride",
-            "artists": [
-                "Twenty One Pilots"
-            ],
-            "album": "Blurryface",
-            "played_at": "01/07/2026 - 20:17:20"
-        },
         {
             "song_name": "I Mean It (feat. Remo)",
             "artists": [
@@ -1736,6 +1728,17 @@
             ],
             "album": "Dhoom:3",
             "played_at": "07/07/2026 - 20:04:35"
+        },
+        {
+            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "artists": [
+                "Jasmine Sandlas",
+                "Garry Sandhu",
+                "Tanishk Bagchi",
+                "Intense"
+            ],
+            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "played_at": "07/07/2026 - 20:35:31"
         }
     ]
 }
