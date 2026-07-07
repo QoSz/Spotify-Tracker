@@ -1,46 +1,6 @@
 {
-    "total_plays": 6362,
+    "total_plays": 6367,
     "tracks": [
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "01/07/2026 - 14:18:23"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "01/07/2026 - 14:16:11"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "01/07/2026 - 14:13:59"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "01/07/2026 - 14:11:47"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "01/07/2026 - 14:09:34"
-        },
         {
             "song_name": "Slide",
             "artists": [
@@ -1730,6 +1690,48 @@
             ],
             "album": "under current",
             "played_at": "06/07/2026 - 14:12:09"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "07/07/2026 - 10:59:43"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "07/07/2026 - 10:57:19"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "07/07/2026 - 10:49:06"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "07/07/2026 - 10:37:12"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "07/07/2026 - 10:29:06"
         }
     ]
 }
