@@ -1,47 +1,6 @@
 {
-    "total_plays": 6367,
+    "total_plays": 6372,
     "tracks": [
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "01/07/2026 - 14:07:22"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "01/07/2026 - 14:04:27"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "01/07/2026 - 14:38:38"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "01/07/2026 - 14:35:16"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "01/07/2026 - 14:31:36"
-        },
         {
             "song_name": "Eastside (with Halsey & Khalid)",
             "artists": [
@@ -1732,6 +1691,46 @@
             ],
             "album": "PRODIGY",
             "played_at": "07/07/2026 - 10:29:06"
+        },
+        {
+            "song_name": "In Reverse",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "In Reverse",
+            "played_at": "07/07/2026 - 11:28:34"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "07/07/2026 - 11:25:54"
+        },
+        {
+            "song_name": "under current",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "under current",
+            "played_at": "07/07/2026 - 11:22:46"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "07/07/2026 - 11:09:11"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "07/07/2026 - 11:05:51"
         }
     ]
 }
