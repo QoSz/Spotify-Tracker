@@ -1,16 +1,6 @@
 {
-    "total_plays": 6372,
+    "total_plays": 6373,
     "tracks": [
-        {
-            "song_name": "Eastside (with Halsey & Khalid)",
-            "artists": [
-                "benny blanco",
-                "Halsey",
-                "Khalid"
-            ],
-            "album": "FRIENDS KEEP SECRETS",
-            "played_at": "01/07/2026 - 20:49:48"
-        },
         {
             "song_name": "Roses",
             "artists": [
@@ -1731,6 +1721,14 @@
             ],
             "album": "What You Saying",
             "played_at": "07/07/2026 - 11:05:51"
+        },
+        {
+            "song_name": "No Problemo",
+            "artists": [
+                "young Wozart"
+            ],
+            "album": "No Problemo",
+            "played_at": "07/07/2026 - 11:30:21"
         }
     ]
 }
