@@ -1,32 +1,6 @@
 {
-    "total_plays": 6383,
+    "total_plays": 6386,
     "tracks": [
-        {
-            "song_name": "Heathens",
-            "artists": [
-                "Twenty One Pilots"
-            ],
-            "album": "Heathens",
-            "played_at": "01/07/2026 - 20:09:49"
-        },
-        {
-            "song_name": "We Don't Talk Anymore (feat. Selena Gomez)",
-            "artists": [
-                "Charlie Puth",
-                "Selena Gomez"
-            ],
-            "album": "Nine Track Mind",
-            "played_at": "01/07/2026 - 20:06:33"
-        },
-        {
-            "song_name": "Hold On, We're Going Home",
-            "artists": [
-                "Drake",
-                "Majid Jordan"
-            ],
-            "album": "Nothing Was The Same (Deluxe)",
-            "played_at": "01/07/2026 - 19:39:54"
-        },
         {
             "song_name": "Have Faith",
             "artists": [
@@ -1741,6 +1715,33 @@
             ],
             "album": "Yeh Jawaani Hai Deewani",
             "played_at": "07/07/2026 - 22:29:19"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Crunkz"
+            ],
+            "album": "Need You",
+            "played_at": "08/07/2026 - 07:57:51"
+        },
+        {
+            "song_name": "Dilliwaali Girlfriend",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Sunidhi Chauhan",
+                "Kumaar"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "played_at": "08/07/2026 - 07:55:29"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "07/07/2026 - 11:40:55"
         }
     ]
 }
