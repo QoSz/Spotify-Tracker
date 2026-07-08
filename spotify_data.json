@@ -1,74 +1,6 @@
 {
-    "total_plays": 6386,
+    "total_plays": 6394,
     "tracks": [
-        {
-            "song_name": "Have Faith",
-            "artists": [
-                "Palace"
-            ],
-            "album": "So Long Forever",
-            "played_at": "01/07/2026 - 19:36:13"
-        },
-        {
-            "song_name": "B's On The Table (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "ICEMAN",
-            "played_at": "01/07/2026 - 16:18:57"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "PRODIGY",
-            "played_at": "01/07/2026 - 16:16:47"
-        },
-        {
-            "song_name": "Habits II",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "B.O.A.T.S. (Mixtape)",
-            "played_at": "01/07/2026 - 10:35:48"
-        },
-        {
-            "song_name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
-            "artists": [
-                "Kendrick Lamar",
-                "SZA"
-            ],
-            "album": "Black Panther The Album Music From And Inspired By",
-            "played_at": "01/07/2026 - 21:52:41"
-        },
-        {
-            "song_name": "Me & U",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "02/07/2026 - 08:11:23"
-        },
-        {
-            "song_name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
-            "artists": [
-                "Kendrick Lamar",
-                "SZA"
-            ],
-            "album": "Black Panther The Album Music From And Inspired By",
-            "played_at": "02/07/2026 - 08:08:10"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "02/07/2026 - 08:07:11"
-        },
         {
             "song_name": "Burning",
             "artists": [
@@ -1742,6 +1674,70 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "07/07/2026 - 11:40:55"
+        },
+        {
+            "song_name": "What If You Fly",
+            "artists": [
+                "Oliver River"
+            ],
+            "album": "What If You Fly",
+            "played_at": "08/07/2026 - 08:22:34"
+        },
+        {
+            "song_name": "Cold World",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Cold World",
+            "played_at": "08/07/2026 - 08:19:42"
+        },
+        {
+            "song_name": "Take My Hand Tonight",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "08/07/2026 - 08:17:10"
+        },
+        {
+            "song_name": "dots",
+            "artists": [
+                "all things break"
+            ],
+            "album": "dots",
+            "played_at": "08/07/2026 - 08:13:08"
+        },
+        {
+            "song_name": "Healin",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Healin",
+            "played_at": "08/07/2026 - 08:09:34"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "08/07/2026 - 08:07:03"
+        },
+        {
+            "song_name": "HOT THOUGHTS (COME TO LIFE)",
+            "artists": [
+                "CHAIME"
+            ],
+            "album": "HOT THOUGHTS (COME TO LIFE)",
+            "played_at": "08/07/2026 - 08:04:08"
+        },
+        {
+            "song_name": "Steps",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Steps",
+            "played_at": "08/07/2026 - 08:01:19"
         }
     ]
 }
