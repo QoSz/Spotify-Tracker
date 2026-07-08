@@ -1,14 +1,6 @@
 {
-    "total_plays": 6394,
+    "total_plays": 6395,
     "tracks": [
-        {
-            "song_name": "Burning",
-            "artists": [
-                "Tems"
-            ],
-            "album": "Born in the Wild",
-            "played_at": "02/07/2026 - 08:40:29"
-        },
         {
             "song_name": "Nights Like This (feat. Ty Dolla $ign)",
             "artists": [
@@ -1738,6 +1730,14 @@
             ],
             "album": "Steps",
             "played_at": "08/07/2026 - 08:01:19"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "08/07/2026 - 09:24:44"
         }
     ]
 }
