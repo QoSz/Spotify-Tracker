@@ -1,15 +1,6 @@
 {
-    "total_plays": 6382,
+    "total_plays": 6383,
     "tracks": [
-        {
-            "song_name": "I Mean It (feat. Remo)",
-            "artists": [
-                "G-Eazy",
-                "Remo the Hitmaker"
-            ],
-            "album": "These Things Happen",
-            "played_at": "01/07/2026 - 20:13:45"
-        },
         {
             "song_name": "Heathens",
             "artists": [
@@ -1739,6 +1730,17 @@
             ],
             "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
             "played_at": "07/07/2026 - 20:35:31"
+        },
+        {
+            "song_name": "Dilliwaali Girlfriend",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Sunidhi Chauhan",
+                "Kumaar"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "played_at": "07/07/2026 - 22:29:19"
         }
     ]
 }
