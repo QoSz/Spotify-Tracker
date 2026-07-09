@@ -1,64 +1,6 @@
 {
-    "total_plays": 6428,
+    "total_plays": 6435,
     "tracks": [
-        {
-            "song_name": "Need You Now",
-            "artists": [
-                "Mickey Kojak"
-            ],
-            "album": "Need You Now",
-            "played_at": "03/07/2026 - 08:56:33"
-        },
-        {
-            "song_name": "Celebrate",
-            "artists": [
-                "PLÜM"
-            ],
-            "album": "Celebrate",
-            "played_at": "03/07/2026 - 08:53:15"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "03/07/2026 - 08:50:25"
-        },
-        {
-            "song_name": "Illuminate - Extended",
-            "artists": [
-                "Astrality",
-                "Leo Stannard"
-            ],
-            "album": "Illuminate",
-            "played_at": "03/07/2026 - 08:47:00"
-        },
-        {
-            "song_name": "FEEL THE RUSH",
-            "artists": [
-                "Valentino"
-            ],
-            "album": "FEEL THE RUSH",
-            "played_at": "03/07/2026 - 08:43:16"
-        },
-        {
-            "song_name": "Release Me",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "03/07/2026 - 08:40:17"
-        },
-        {
-            "song_name": "Feel",
-            "artists": [
-                "Crunkz",
-                "Maxomar"
-            ],
-            "album": "Feel",
-            "played_at": "03/07/2026 - 08:37:13"
-        },
         {
             "song_name": "Let Go",
             "artists": [
@@ -1733,6 +1675,63 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "09/07/2026 - 08:31:59"
+        },
+        {
+            "song_name": "Haunted By You",
+            "artists": [
+                "Kisaya"
+            ],
+            "album": "Haunted By You",
+            "played_at": "09/07/2026 - 09:18:28"
+        },
+        {
+            "song_name": "Missing Me",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Missing Me",
+            "played_at": "09/07/2026 - 09:14:59"
+        },
+        {
+            "song_name": "Knock Me Off My Feet",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Knock Me Off My Feet",
+            "played_at": "09/07/2026 - 09:12:12"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "09/07/2026 - 09:09:50"
+        },
+        {
+            "song_name": "Release Me",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "09/07/2026 - 09:07:22"
+        },
+        {
+            "song_name": "Light The Sky",
+            "artists": [
+                "Valentino"
+            ],
+            "album": "Light The Sky",
+            "played_at": "09/07/2026 - 09:04:17"
+        },
+        {
+            "song_name": "Silverlight",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Silverlight",
+            "played_at": "09/07/2026 - 09:01:47"
         }
     ]
 }

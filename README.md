@@ -4,7 +4,7 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**6,428** songs listened to
+**6,435** songs listened to
 
 - **1333** unique artists
 - **1391** unique albums
@@ -14,7 +14,7 @@ Tracking my Spotify listening history.
 ## Top Artists (All Time)
 
 1. Drake (326 plays)
-2. MIND (255 plays)
+2. MIND (256 plays)
 3. Nu Aspect (209 plays)
 4. Small Town Kid (186 plays)
 5. Astrality (180 plays)
