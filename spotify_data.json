@@ -1,70 +1,6 @@
 {
-    "total_plays": 6439,
+    "total_plays": 6447,
     "tracks": [
-        {
-            "song_name": "Haunted By You",
-            "artists": [
-                "Kisaya"
-            ],
-            "album": "Haunted By You",
-            "played_at": "03/07/2026 - 09:21:23"
-        },
-        {
-            "song_name": "Help Me Lose My Mind - Slowed Down",
-            "artists": [
-                "Gravagerz"
-            ],
-            "album": "Help Me Lose My Mind (Slowed Down)",
-            "played_at": "03/07/2026 - 09:17:54"
-        },
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "03/07/2026 - 09:14:38"
-        },
-        {
-            "song_name": "Too Tense",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Too Tense",
-            "played_at": "03/07/2026 - 09:11:44"
-        },
-        {
-            "song_name": "Jealous Girl",
-            "artists": [
-                "overtones"
-            ],
-            "album": "Jealous Girl",
-            "played_at": "03/07/2026 - 09:09:39"
-        },
-        {
-            "song_name": "Hit the Ground",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Hit the Ground",
-            "played_at": "03/07/2026 - 09:07:46"
-        },
-        {
-            "song_name": "Keep It Simple",
-            "artists": [
-                "Jend"
-            ],
-            "album": "Keep It Simple",
-            "played_at": "03/07/2026 - 09:05:20"
-        },
-        {
-            "song_name": "December",
-            "artists": [
-                "Driftwood."
-            ],
-            "album": "December",
-            "played_at": "03/07/2026 - 09:03:15"
-        },
         {
             "song_name": "Can't Help But Worry (Every Night Every Day)",
             "artists": [
@@ -1734,6 +1670,79 @@
             ],
             "album": "Fix Me",
             "played_at": "09/07/2026 - 12:27:51"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "09/07/2026 - 16:38:11"
+        },
+        {
+            "song_name": "Bits of Hope",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Bits of Hope",
+            "played_at": "09/07/2026 - 16:35:31"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "09/07/2026 - 16:32:51"
+        },
+        {
+            "song_name": "What I Need",
+            "artists": [
+                "Naarly",
+                "Sickluv",
+                "Thabza De Soul"
+            ],
+            "album": "What I Need",
+            "played_at": "09/07/2026 - 16:30:14"
+        },
+        {
+            "song_name": "Where the Sun Goes Down",
+            "artists": [
+                "Badflite",
+                "RYVM"
+            ],
+            "album": "Where the Sun Goes Down",
+            "played_at": "09/07/2026 - 16:26:10"
+        },
+        {
+            "song_name": "Games",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Games",
+            "played_at": "09/07/2026 - 16:23:06"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "09/07/2026 - 16:19:45"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "09/07/2026 - 09:39:01"
         }
     ]
 }
