@@ -1,30 +1,6 @@
 {
-    "total_plays": 6447,
+    "total_plays": 6450,
     "tracks": [
-        {
-            "song_name": "Can't Help But Worry (Every Night Every Day)",
-            "artists": [
-                "Soluna"
-            ],
-            "album": "Can't Help But Worry (Every Night Every Day)",
-            "played_at": "03/07/2026 - 09:00:44"
-        },
-        {
-            "song_name": "HOT THOUGHTS (COME TO LIFE)",
-            "artists": [
-                "CHAIME"
-            ],
-            "album": "HOT THOUGHTS (COME TO LIFE)",
-            "played_at": "03/07/2026 - 09:32:01"
-        },
-        {
-            "song_name": "What If You Fly",
-            "artists": [
-                "Oliver River"
-            ],
-            "album": "What If You Fly",
-            "played_at": "03/07/2026 - 10:32:59"
-        },
         {
             "song_name": "uWu Victory Replay",
             "artists": [
@@ -1743,6 +1719,33 @@
             ],
             "album": "Fix Me",
             "played_at": "09/07/2026 - 09:39:01"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "09/07/2026 - 16:48:38"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "09/07/2026 - 16:45:10"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "09/07/2026 - 16:41:32"
         }
     ]
 }
