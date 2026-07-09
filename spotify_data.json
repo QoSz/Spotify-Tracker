@@ -1,22 +1,6 @@
 {
-    "total_plays": 6426,
+    "total_plays": 6428,
     "tracks": [
-        {
-            "song_name": "Yu Feel",
-            "artists": [
-                "Verb"
-            ],
-            "album": "Yu Feel",
-            "played_at": "03/07/2026 - 08:16:55"
-        },
-        {
-            "song_name": "Knock Me Off My Feet",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Knock Me Off My Feet",
-            "played_at": "03/07/2026 - 08:58:54"
-        },
         {
             "song_name": "Need You Now",
             "artists": [
@@ -1733,6 +1717,22 @@
             ],
             "album": "Are You Real?",
             "played_at": "09/07/2026 - 08:01:57"
+        },
+        {
+            "song_name": "99 Eyes",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "99 Eyes",
+            "played_at": "09/07/2026 - 08:50:43"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "09/07/2026 - 08:31:59"
         }
     ]
 }
