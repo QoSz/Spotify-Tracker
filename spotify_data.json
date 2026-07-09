@@ -1,15 +1,6 @@
 {
-    "total_plays": 6451,
+    "total_plays": 6452,
     "tracks": [
-        {
-            "song_name": "She Bugging (Whatchu Gonna Do)",
-            "artists": [
-                "Mr Flintstone",
-                "Khantrast"
-            ],
-            "album": "She Bugging (Whatchu Gonna Do)",
-            "played_at": "03/07/2026 - 15:18:41"
-        },
         {
             "song_name": "Man of the Year",
             "artists": [
@@ -1747,6 +1738,15 @@
             ],
             "album": "I Can't See",
             "played_at": "09/07/2026 - 17:36:47"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "09/07/2026 - 17:55:22"
         }
     ]
 }
