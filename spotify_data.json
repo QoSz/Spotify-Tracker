@@ -1,14 +1,6 @@
 {
-    "total_plays": 6452,
+    "total_plays": 6453,
     "tracks": [
-        {
-            "song_name": "Man of the Year",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Man of the Year",
-            "played_at": "03/07/2026 - 15:16:36"
-        },
         {
             "song_name": "Headlines",
             "artists": [
@@ -1747,6 +1739,15 @@
             ],
             "album": "I Can't See",
             "played_at": "09/07/2026 - 17:55:22"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "09/07/2026 - 13:04:58"
         }
     ]
 }
