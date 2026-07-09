@@ -1,14 +1,6 @@
 {
-    "total_plays": 6450,
+    "total_plays": 6451,
     "tracks": [
-        {
-            "song_name": "uWu Victory Replay",
-            "artists": [
-                "Rod Kim"
-            ],
-            "album": "Let's Play! (YouTube Audio Library Soundtrack)",
-            "played_at": "03/07/2026 - 13:49:50"
-        },
         {
             "song_name": "She Bugging (Whatchu Gonna Do)",
             "artists": [
@@ -1746,6 +1738,15 @@
             ],
             "album": "Let Me In",
             "played_at": "09/07/2026 - 16:41:32"
+        },
+        {
+            "song_name": "I Can't See",
+            "artists": [
+                "ROW",
+                "Samuel Miller"
+            ],
+            "album": "I Can't See",
+            "played_at": "09/07/2026 - 17:36:47"
         }
     ]
 }
