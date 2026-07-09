@@ -1,86 +1,6 @@
 {
-    "total_plays": 6416,
+    "total_plays": 6426,
     "tracks": [
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "03/07/2026 - 07:51:31"
-        },
-        {
-            "song_name": "Journey (Don't Let Me Go)",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Journey (Don't Let Me Go)",
-            "played_at": "03/07/2026 - 07:48:25"
-        },
-        {
-            "song_name": "feel it coming",
-            "artists": [
-                "origins"
-            ],
-            "album": "feel it coming",
-            "played_at": "03/07/2026 - 07:45:38"
-        },
-        {
-            "song_name": "Baille",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Baille",
-            "played_at": "03/07/2026 - 07:42:48"
-        },
-        {
-            "song_name": "One Spark",
-            "artists": [
-                "Paul Schulze"
-            ],
-            "album": "One Spark",
-            "played_at": "03/07/2026 - 08:32:31"
-        },
-        {
-            "song_name": "In the Air",
-            "artists": [
-                "Spoke"
-            ],
-            "album": "In the Air",
-            "played_at": "03/07/2026 - 08:29:44"
-        },
-        {
-            "song_name": "Keep On Running",
-            "artists": [
-                "Nico Saint"
-            ],
-            "album": "Keep On Running",
-            "played_at": "03/07/2026 - 08:27:04"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "03/07/2026 - 08:25:16"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Crunkz"
-            ],
-            "album": "Need You",
-            "played_at": "03/07/2026 - 08:22:09"
-        },
-        {
-            "song_name": "stay here don't go",
-            "artists": [
-                "i'm loam"
-            ],
-            "album": "stay here don't go",
-            "played_at": "03/07/2026 - 08:19:52"
-        },
         {
             "song_name": "Yu Feel",
             "artists": [
@@ -1728,6 +1648,91 @@
             ],
             "album": "Are You Real?",
             "played_at": "08/07/2026 - 20:40:50"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "09/07/2026 - 08:28:31"
+        },
+        {
+            "song_name": "Will I Know",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "09/07/2026 - 08:25:15"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "09/07/2026 - 08:22:05"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "09/07/2026 - 08:19:44"
+        },
+        {
+            "song_name": "Keep It Simple",
+            "artists": [
+                "Jend"
+            ],
+            "album": "Keep It Simple",
+            "played_at": "09/07/2026 - 08:17:04"
+        },
+        {
+            "song_name": "Cherish",
+            "artists": [
+                "Badflite"
+            ],
+            "album": "Cherish",
+            "played_at": "09/07/2026 - 08:14:59"
+        },
+        {
+            "song_name": "Feel",
+            "artists": [
+                "Avi Snow",
+                "MVCA",
+                "Zeeba"
+            ],
+            "album": "Feel",
+            "played_at": "09/07/2026 - 08:11:34"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "09/07/2026 - 08:08:46"
+        },
+        {
+            "song_name": "Make Me Feel",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "09/07/2026 - 08:05:04"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "09/07/2026 - 08:01:57"
         }
     ]
 }
