@@ -1,14 +1,6 @@
 {
-    "total_plays": 6453,
+    "total_plays": 6454,
     "tracks": [
-        {
-            "song_name": "Headlines",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Take Care (Deluxe)",
-            "played_at": "03/07/2026 - 15:11:06"
-        },
         {
             "song_name": "Fair Trade (with Travis Scott)",
             "artists": [
@@ -1748,6 +1740,16 @@
             ],
             "album": "Running",
             "played_at": "09/07/2026 - 13:04:58"
+        },
+        {
+            "song_name": "Kamli",
+            "artists": [
+                "Pritam",
+                "Sunidhi Chauhan",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Dhoom:3",
+            "played_at": "10/07/2026 - 20:17:17"
         }
     ]
 }
