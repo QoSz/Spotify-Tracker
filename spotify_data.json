@@ -1,39 +1,6 @@
 {
-    "total_plays": 6459,
+    "total_plays": 6462,
     "tracks": [
-        {
-            "song_name": "Kaun Nachdi",
-            "artists": [
-                "Guru Randhawa",
-                "Neeti Mohan",
-                "Rajat Nagpal"
-            ],
-            "album": "Sonu Ke Titu Ki Sweety",
-            "played_at": "05/07/2026 - 16:35:20"
-        },
-        {
-            "song_name": "Afghan Jalebi (Film Version)",
-            "artists": [
-                "Pritam",
-                "Akhtar Chinnal"
-            ],
-            "album": "Phantom",
-            "played_at": "05/07/2026 - 16:26:28"
-        },
-        {
-            "song_name": "Dil Chori",
-            "artists": [
-                "Yo Yo Honey Singh",
-                "Simar Kaur",
-                "Ishers",
-                "Anand Raj Anand",
-                "Singhsta",
-                "Shera",
-                "Sham Balkar"
-            ],
-            "album": "Sonu Ke Titu Ki Sweety",
-            "played_at": "05/07/2026 - 16:22:43"
-        },
         {
             "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
             "artists": [
@@ -1751,6 +1718,33 @@
             ],
             "album": "Where Nobody Knows",
             "played_at": "11/07/2026 - 10:18:29"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "11/07/2026 - 10:40:56"
+        },
+        {
+            "song_name": "stay",
+            "artists": [
+                "all things break"
+            ],
+            "album": "stay",
+            "played_at": "11/07/2026 - 10:38:20"
+        },
+        {
+            "song_name": "Desi Girl",
+            "artists": [
+                "Vishal-Shekhar",
+                "Shankar Mahadevan",
+                "Sunidhi Chauhan",
+                "Vishal Dadlani"
+            ],
+            "album": "Dostana (Original Motion Picture Soundtrack)",
+            "played_at": "11/07/2026 - 10:34:29"
         }
     ]
 }
