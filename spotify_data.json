@@ -1,44 +1,6 @@
 {
-    "total_plays": 6455,
+    "total_plays": 6459,
     "tracks": [
-        {
-            "song_name": "Serve",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Serve",
-            "played_at": "03/07/2026 - 15:02:33"
-        },
-        {
-            "song_name": "Impress Me",
-            "artists": [
-                "Doov"
-            ],
-            "album": "Impress Me",
-            "played_at": "03/07/2026 - 15:30:06"
-        },
-        {
-            "song_name": "Chammak Challo",
-            "artists": [
-                "Vishal-Shekhar",
-                "Akon",
-                "Hamsika Iyer",
-                "Vishal Dadlani",
-                "Niranjan Iyengar"
-            ],
-            "album": "Ra-One",
-            "played_at": "05/07/2026 - 16:42:04"
-        },
-        {
-            "song_name": "Muqabla (From \"Street Dancer 3D\")",
-            "artists": [
-                "Yash Narvekar",
-                "Parampara Tandon",
-                "Tanishk Bagchi"
-            ],
-            "album": "Muqabla (From \"Street Dancer 3D\")",
-            "played_at": "05/07/2026 - 16:38:16"
-        },
         {
             "song_name": "Kaun Nachdi",
             "artists": [
@@ -1750,6 +1712,45 @@
             ],
             "album": "Chikni Chameli",
             "played_at": "10/07/2026 - 21:27:11"
+        },
+        {
+            "song_name": "Tum Hi Ho Bandhu",
+            "artists": [
+                "Pritam",
+                "Neeraj Shridhar",
+                "Kavita Seth"
+            ],
+            "album": "Cocktail (Original Motion Picture Soundtrack)",
+            "played_at": "11/07/2026 - 10:29:12"
+        },
+        {
+            "song_name": "Kar Gayi Chull",
+            "artists": [
+                "Badshah",
+                "Amaal Mallik",
+                "Fazilpuria",
+                "Sukriti Kakar",
+                "Neha Kakkar"
+            ],
+            "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+            "played_at": "11/07/2026 - 10:24:16"
+        },
+        {
+            "song_name": "Never Change",
+            "artists": [
+                "Stevie Appleton"
+            ],
+            "album": "Never Change",
+            "played_at": "11/07/2026 - 10:20:55"
+        },
+        {
+            "song_name": "Where Nobody Knows",
+            "artists": [
+                "Hyzteria",
+                "Dakota"
+            ],
+            "album": "Where Nobody Knows",
+            "played_at": "11/07/2026 - 10:18:29"
         }
     ]
 }
