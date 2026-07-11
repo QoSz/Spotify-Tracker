@@ -1,15 +1,6 @@
 {
-    "total_plays": 6454,
+    "total_plays": 6455,
     "tracks": [
-        {
-            "song_name": "Fair Trade (with Travis Scott)",
-            "artists": [
-                "Drake",
-                "Travis Scott"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "03/07/2026 - 15:07:17"
-        },
         {
             "song_name": "Serve",
             "artists": [
@@ -1750,6 +1741,15 @@
             ],
             "album": "Dhoom:3",
             "played_at": "10/07/2026 - 20:17:17"
+        },
+        {
+            "song_name": "Chikni Chameli",
+            "artists": [
+                "Ajay-Atul",
+                "Shreya Ghoshal"
+            ],
+            "album": "Chikni Chameli",
+            "played_at": "10/07/2026 - 21:27:11"
         }
     ]
 }
