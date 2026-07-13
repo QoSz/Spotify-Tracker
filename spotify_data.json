@@ -1,103 +1,6 @@
 {
-    "total_plays": 6479,
+    "total_plays": 6489,
     "tracks": [
-        {
-            "song_name": "CHANEL",
-            "artists": [
-                "Tyla"
-            ],
-            "album": "CHANEL",
-            "played_at": "05/07/2026 - 12:27:32"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "05/07/2026 - 12:02:24"
-        },
-        {
-            "song_name": "Electric Feel",
-            "artists": [
-                "MGMT"
-            ],
-            "album": "Oracular Spectacular",
-            "played_at": "05/07/2026 - 11:20:32"
-        },
-        {
-            "song_name": "whoa (mind in awe)",
-            "artists": [
-                "XXXTENTACION"
-            ],
-            "album": "SKINS",
-            "played_at": "05/07/2026 - 11:06:26"
-        },
-        {
-            "song_name": "No Bad Vibes",
-            "artists": [
-                "Jazzy",
-                "KILIMANJARO"
-            ],
-            "album": "No Bad Vibes",
-            "played_at": "05/07/2026 - 11:03:55"
-        },
-        {
-            "song_name": "Show Me Love",
-            "artists": [
-                "WizTheMc",
-                "bees & honey"
-            ],
-            "album": "Show Me Love",
-            "played_at": "05/07/2026 - 11:01:20"
-        },
-        {
-            "song_name": "Dil Chori",
-            "artists": [
-                "Yo Yo Honey Singh",
-                "Simar Kaur",
-                "Ishers",
-                "Anand Raj Anand",
-                "Singhsta",
-                "Shera",
-                "Sham Balkar"
-            ],
-            "album": "Sonu Ke Titu Ki Sweety",
-            "played_at": "04/07/2026 - 21:16:56"
-        },
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "04/07/2026 - 20:15:11"
-        },
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "04/07/2026 - 19:52:21"
-        },
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "04/07/2026 - 19:05:04"
-        },
         {
             "song_name": "Lutt Le Gaya",
             "artists": [
@@ -1743,6 +1646,88 @@
             ],
             "album": "feel",
             "played_at": "13/07/2026 - 08:00:42"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "13/07/2026 - 09:01:27"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "13/07/2026 - 08:59:21"
+        },
+        {
+            "song_name": "Let Me In",
+            "artists": [
+                "London Topaz",
+                "Sophia Brown"
+            ],
+            "album": "Let Me In",
+            "played_at": "13/07/2026 - 08:56:42"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "13/07/2026 - 08:53:20"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "13/07/2026 - 08:44:44"
+        },
+        {
+            "song_name": "in my arms",
+            "artists": [
+                "abelon"
+            ],
+            "album": "in my arms",
+            "played_at": "13/07/2026 - 08:42:15"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Heaven",
+            "played_at": "13/07/2026 - 08:40:09"
+        },
+        {
+            "song_name": "the grey",
+            "artists": [
+                "kalm"
+            ],
+            "album": "i saw you",
+            "played_at": "13/07/2026 - 08:37:59"
+        },
+        {
+            "song_name": "Stay Until the Morning",
+            "artists": [
+                "Stoto"
+            ],
+            "album": "Stay Until the Morning",
+            "played_at": "13/07/2026 - 08:35:45"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Astrality"
+            ],
+            "album": "Need You",
+            "played_at": "13/07/2026 - 08:33:06"
         }
     ]
 }
