@@ -4,7 +4,7 @@ Tracking my Spotify listening history.
 
 ## Lifetime Stats
 
-**6,489** songs listened to
+**6,497** songs listened to
 
 - **1340** unique artists
 - **1397** unique albums
@@ -17,7 +17,7 @@ Tracking my Spotify listening history.
 2. MIND (261 plays)
 3. Nu Aspect (212 plays)
 4. Small Town Kid (190 plays)
-5. Astrality (183 plays)
+5. Astrality (184 plays)
 
 ## Listening Streak
 

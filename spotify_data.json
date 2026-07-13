@@ -1,74 +1,6 @@
 {
-    "total_plays": 6489,
+    "total_plays": 6497,
     "tracks": [
-        {
-            "song_name": "Lutt Le Gaya",
-            "artists": [
-                "Shashwat Sachdev",
-                "Simran Chaudhary"
-            ],
-            "album": "Dhurandhar",
-            "played_at": "04/07/2026 - 18:36:29"
-        },
-        {
-            "song_name": "Chikni Chameli",
-            "artists": [
-                "Ajay-Atul",
-                "Shreya Ghoshal"
-            ],
-            "album": "Chikni Chameli",
-            "played_at": "04/07/2026 - 18:32:15"
-        },
-        {
-            "song_name": "Kamli",
-            "artists": [
-                "Pritam",
-                "Sunidhi Chauhan",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Dhoom:3",
-            "played_at": "04/07/2026 - 18:27:11"
-        },
-        {
-            "song_name": "HITTIN MY SHOULDER",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "RED & WHITE",
-            "played_at": "04/07/2026 - 18:22:30"
-        },
-        {
-            "song_name": "16",
-            "artists": [
-                "Baby Keem"
-            ],
-            "album": "The Melodic Blue",
-            "played_at": "04/07/2026 - 18:12:31"
-        },
-        {
-            "song_name": "Did It Again",
-            "artists": [
-                "Lil Tecca"
-            ],
-            "album": "We Love You Tecca",
-            "played_at": "04/07/2026 - 18:09:55"
-        },
-        {
-            "song_name": "Way down We Go",
-            "artists": [
-                "KALEO"
-            ],
-            "album": "A/B",
-            "played_at": "04/07/2026 - 18:07:59"
-        },
-        {
-            "song_name": "Lose It All (I Don't Wanna)",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Lose It All (I Don't Wanna)",
-            "played_at": "04/07/2026 - 18:04:25"
-        },
         {
             "song_name": "LOYAL (feat. Drake)",
             "artists": [
@@ -1728,6 +1660,74 @@
             ],
             "album": "Need You",
             "played_at": "13/07/2026 - 08:33:06"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "13/07/2026 - 09:23:43"
+        },
+        {
+            "song_name": "Healin",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Healin",
+            "played_at": "13/07/2026 - 09:20:15"
+        },
+        {
+            "song_name": "Devil In The Sun",
+            "artists": [
+                "Lucas Estrada",
+                "RUSSI"
+            ],
+            "album": "Devil In The Sun",
+            "played_at": "13/07/2026 - 09:17:43"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "13/07/2026 - 09:15:16"
+        },
+        {
+            "song_name": "Dreamin' About You",
+            "artists": [
+                "Josh Hunter",
+                "Lily Denning"
+            ],
+            "album": "Dreamin' About You",
+            "played_at": "13/07/2026 - 09:12:31"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "13/07/2026 - 09:10:03"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "13/07/2026 - 09:07:09"
+        },
+        {
+            "song_name": "Can't Go Back",
+            "artists": [
+                "Astrality",
+                "James French"
+            ],
+            "album": "Can't Go Back",
+            "played_at": "13/07/2026 - 09:04:02"
         }
     ]
 }
