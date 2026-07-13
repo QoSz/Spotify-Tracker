@@ -1,14 +1,6 @@
 {
-    "total_plays": 6467,
+    "total_plays": 6468,
     "tracks": [
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "05/07/2026 - 16:03:18"
-        },
         {
             "song_name": "exes",
             "artists": [
@@ -1742,6 +1734,14 @@
             ],
             "album": "Touch",
             "played_at": "11/07/2026 - 10:51:22"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "13/07/2026 - 07:58:03"
         }
     ]
 }
