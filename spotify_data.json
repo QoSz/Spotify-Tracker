@@ -1,51 +1,6 @@
 {
-    "total_plays": 6462,
+    "total_plays": 6467,
     "tracks": [
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "05/07/2026 - 16:18:57"
-        },
-        {
-            "song_name": "Lutt Le Gaya",
-            "artists": [
-                "Shashwat Sachdev",
-                "Simran Chaudhary"
-            ],
-            "album": "Dhurandhar",
-            "played_at": "05/07/2026 - 16:15:48"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "05/07/2026 - 16:10:06"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "05/07/2026 - 16:09:09"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "05/07/2026 - 16:05:57"
-        },
         {
             "song_name": "When the Feeling Is Gone",
             "artists": [
@@ -1745,6 +1700,48 @@
             ],
             "album": "Dostana (Original Motion Picture Soundtrack)",
             "played_at": "11/07/2026 - 10:34:29"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "12/07/2026 - 12:45:16"
+        },
+        {
+            "song_name": "Called Your Name",
+            "artists": [
+                "Nu Aspect",
+                "Jake Neumar"
+            ],
+            "album": "Called Your Name",
+            "played_at": "11/07/2026 - 15:48:40"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Satellite Signal",
+            "played_at": "11/07/2026 - 15:08:43"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "11/07/2026 - 15:05:52"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "11/07/2026 - 10:51:22"
         }
     ]
 }
