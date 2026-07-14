@@ -1,74 +1,6 @@
 {
-    "total_plays": 6510,
+    "total_plays": 6518,
     "tracks": [
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "06/07/2026 - 10:45:55"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "06/07/2026 - 10:41:55"
-        },
-        {
-            "song_name": "Let Me",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "06/07/2026 - 10:39:54"
-        },
-        {
-            "song_name": "Chemicals",
-            "artists": [
-                "Thandi"
-            ],
-            "album": "Chemicals",
-            "played_at": "06/07/2026 - 10:37:29"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "06/07/2026 - 10:34:47"
-        },
-        {
-            "song_name": "Mood Song",
-            "artists": [
-                "Why U So",
-                "Lua Sola"
-            ],
-            "album": "Mood Song",
-            "played_at": "06/07/2026 - 10:31:55"
-        },
-        {
-            "song_name": "underneath",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "underneath",
-            "played_at": "06/07/2026 - 10:29:31"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "06/07/2026 - 10:27:16"
-        },
         {
             "song_name": "I Drift Out, Then Return",
             "artists": [
@@ -1713,6 +1645,74 @@
             ],
             "album": "Pull Me Under",
             "played_at": "14/07/2026 - 08:01:57"
+        },
+        {
+            "song_name": "Samaya",
+            "artists": [
+                "Space Afro",
+                "Trippynova"
+            ],
+            "album": "Samaya",
+            "played_at": "14/07/2026 - 09:27:11"
+        },
+        {
+            "song_name": "Oya Nami",
+            "artists": [
+                "Ema Feud"
+            ],
+            "album": "Oya Nami",
+            "played_at": "14/07/2026 - 09:25:12"
+        },
+        {
+            "song_name": "Dey Go",
+            "artists": [
+                "The Ironix",
+                "1da Banton",
+                "ATG Musick"
+            ],
+            "album": "Dey Go",
+            "played_at": "14/07/2026 - 09:21:57"
+        },
+        {
+            "song_name": "SOMEONE LIKE YOU",
+            "artists": [
+                "Palm Monkey"
+            ],
+            "album": "ON MY MIND",
+            "played_at": "14/07/2026 - 09:18:15"
+        },
+        {
+            "song_name": "siente el sol",
+            "artists": [
+                "hasso.wav",
+                "MEXI"
+            ],
+            "album": "siente el sol",
+            "played_at": "14/07/2026 - 09:16:02"
+        },
+        {
+            "song_name": "MAKELE",
+            "artists": [
+                "Garnic"
+            ],
+            "album": "MAKELE",
+            "played_at": "14/07/2026 - 09:13:18"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "14/07/2026 - 09:10:54"
+        },
+        {
+            "song_name": "Damages",
+            "artists": [
+                "Tems"
+            ],
+            "album": "For Broken Ears",
+            "played_at": "14/07/2026 - 09:00:26"
         }
     ]
 }
