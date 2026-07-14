@@ -1,14 +1,6 @@
 {
-    "total_plays": 6518,
+    "total_plays": 6519,
     "tracks": [
-        {
-            "song_name": "I Drift Out, Then Return",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "06/07/2026 - 10:24:36"
-        },
         {
             "song_name": "Something Real",
             "artists": [
@@ -1713,6 +1705,15 @@
             ],
             "album": "For Broken Ears",
             "played_at": "14/07/2026 - 09:00:26"
+        },
+        {
+            "song_name": "Flipping Burgers",
+            "artists": [
+                "GTO",
+                "Odd Lui"
+            ],
+            "album": "Flipping Burgers",
+            "played_at": "14/07/2026 - 10:07:13"
         }
     ]
 }
