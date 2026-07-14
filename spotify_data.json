@@ -1,40 +1,6 @@
 {
-    "total_plays": 6497,
+    "total_plays": 6501,
     "tracks": [
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "04/07/2026 - 18:02:06"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "04/07/2026 - 17:58:48"
-        },
-        {
-            "song_name": "Replay",
-            "artists": [
-                "Tems"
-            ],
-            "album": "If Orange Was A Place",
-            "played_at": "04/07/2026 - 17:55:51"
-        },
-        {
-            "song_name": "Do It Right",
-            "artists": [
-                "Don Toliver"
-            ],
-            "album": "Love Sick",
-            "played_at": "04/07/2026 - 17:52:51"
-        },
         {
             "song_name": "Teenage Fever",
             "artists": [
@@ -1728,6 +1694,38 @@
             ],
             "album": "Can't Go Back",
             "played_at": "13/07/2026 - 09:04:02"
+        },
+        {
+            "song_name": "Make Me Fall",
+            "artists": [
+                "Lyon"
+            ],
+            "album": "Make Me Fall",
+            "played_at": "14/07/2026 - 07:58:40"
+        },
+        {
+            "song_name": "Maliwa",
+            "artists": [
+                "Aureline"
+            ],
+            "album": "Maliwa",
+            "played_at": "14/07/2026 - 07:55:30"
+        },
+        {
+            "song_name": "Gbedu Life",
+            "artists": [
+                "ELIKIA"
+            ],
+            "album": "Gbedu Life",
+            "played_at": "14/07/2026 - 07:53:14"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "13/07/2026 - 09:54:06"
         }
     ]
 }
