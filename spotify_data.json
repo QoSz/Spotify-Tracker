@@ -1,97 +1,6 @@
 {
-    "total_plays": 6501,
+    "total_plays": 6510,
     "tracks": [
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "04/07/2026 - 17:49:57"
-        },
-        {
-            "song_name": "Lady Of Namek",
-            "artists": [
-                "Tory Lanez"
-            ],
-            "album": "Alone At Prom",
-            "played_at": "04/07/2026 - 17:46:17"
-        },
-        {
-            "song_name": "Dance Basanti",
-            "artists": [
-                "Sachin-Jigar",
-                "Vishal Dadlani",
-                "Anushka Manchanda"
-            ],
-            "album": "Ungli (Original Motion Picture Soundtrack)",
-            "played_at": "05/07/2026 - 16:59:54"
-        },
-        {
-            "song_name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-            "artists": [
-                "Shashwat Sachdev",
-                "Hanumankind",
-                "Jasmine Sandlas",
-                "Sudhir Yaduvanshi",
-                "Charanjit Ahuja",
-                "Muhammad Sadiq",
-                "Ranjit Kaur",
-                "Babu Singh Maan"
-            ],
-            "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-            "played_at": "05/07/2026 - 16:56:10"
-        },
-        {
-            "song_name": "Ude Dil Befikre",
-            "artists": [
-                "Vishal-Shekhar",
-                "Benny Dayal",
-                "Jaideep Sahni"
-            ],
-            "album": "Befikre",
-            "played_at": "05/07/2026 - 16:53:35"
-        },
-        {
-            "song_name": "Aankh Marey",
-            "artists": [
-                "Neha Kakkar",
-                "Mika Singh",
-                "Kumar Sanu"
-            ],
-            "album": "Simmba",
-            "played_at": "05/07/2026 - 16:49:43"
-        },
-        {
-            "song_name": "Slow Motion",
-            "artists": [
-                "Vishal-Shekhar",
-                "Shreya Ghoshal",
-                "Nakash Aziz"
-            ],
-            "album": "Bharat",
-            "played_at": "05/07/2026 - 16:46:11"
-        },
-        {
-            "song_name": "Sweety Tera Drama",
-            "artists": [
-                "Pawni Pandey",
-                "Shraddha Pandit",
-                "Pravesh Mallick",
-                "Dev Negi"
-            ],
-            "album": "Bareilly Ki Barfi (Original Motion Picture Soundtrack)",
-            "played_at": "05/07/2026 - 17:57:10"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "06/07/2026 - 10:48:11"
-        },
         {
             "song_name": "Inside Out",
             "artists": [
@@ -1726,6 +1635,84 @@
             ],
             "album": "Dreams",
             "played_at": "13/07/2026 - 09:54:06"
+        },
+        {
+            "song_name": "Onaya",
+            "artists": [
+                "ZERØ PHASE",
+                "Dos Rios",
+                "Serghmarie"
+            ],
+            "album": "Onaya",
+            "played_at": "14/07/2026 - 08:24:48"
+        },
+        {
+            "song_name": "Only Me & U",
+            "artists": [
+                "R.A.Y.A"
+            ],
+            "album": "Only Me & U",
+            "played_at": "14/07/2026 - 08:22:50"
+        },
+        {
+            "song_name": "Drown",
+            "artists": [
+                "FAVE",
+                "255"
+            ],
+            "album": "RnBling",
+            "played_at": "14/07/2026 - 08:19:50"
+        },
+        {
+            "song_name": "See You Again",
+            "artists": [
+                "RUSSI",
+                "Oceanside"
+            ],
+            "album": "See You Again",
+            "played_at": "14/07/2026 - 08:16:42"
+        },
+        {
+            "song_name": "Hey mama",
+            "artists": [
+                "HAMEX"
+            ],
+            "album": "Hey mama",
+            "played_at": "14/07/2026 - 08:13:32"
+        },
+        {
+            "song_name": "KANTE (feat. Fave)",
+            "artists": [
+                "Davido",
+                "FAVE"
+            ],
+            "album": "Timeless",
+            "played_at": "14/07/2026 - 08:10:04"
+        },
+        {
+            "song_name": "Wannan Dole Ne Soyayya",
+            "artists": [
+                "Dualbox",
+                "Aracy Carvalho"
+            ],
+            "album": "Wannan Dole Ne Soyayya",
+            "played_at": "14/07/2026 - 08:06:49"
+        },
+        {
+            "song_name": "Yayu",
+            "artists": [
+                "Amani Amara"
+            ],
+            "album": "Yayu",
+            "played_at": "14/07/2026 - 08:04:45"
+        },
+        {
+            "song_name": "Pull Me Under",
+            "artists": [
+                "Miles Carter"
+            ],
+            "album": "Pull Me Under",
+            "played_at": "14/07/2026 - 08:01:57"
         }
     ]
 }
