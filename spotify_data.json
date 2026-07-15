@@ -1,14 +1,6 @@
 {
-    "total_plays": 6541,
+    "total_plays": 6542,
     "tracks": [
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "06/07/2026 - 08:04:20"
-        },
         {
             "song_name": "i think i'm addicted",
             "artists": [
@@ -1719,6 +1711,15 @@
             ],
             "album": "What If You Fly",
             "played_at": "15/07/2026 - 09:02:27"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "15/07/2026 - 09:53:04"
         }
     ]
 }
