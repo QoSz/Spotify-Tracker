@@ -1,64 +1,6 @@
 {
-    "total_plays": 6534,
+    "total_plays": 6541,
     "tracks": [
-        {
-            "song_name": "black tears",
-            "artists": [
-                "all things break"
-            ],
-            "album": "black tears",
-            "played_at": "06/07/2026 - 09:22:40"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Falden",
-                "Fare"
-            ],
-            "album": "Tell Me",
-            "played_at": "06/07/2026 - 09:20:35"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "06/07/2026 - 09:16:58"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "06/07/2026 - 09:14:11"
-        },
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Dreaming",
-            "played_at": "06/07/2026 - 08:24:22"
-        },
-        {
-            "song_name": "Slow Down",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "06/07/2026 - 08:09:24"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "06/07/2026 - 08:06:56"
-        },
         {
             "song_name": "stay",
             "artists": [
@@ -1717,6 +1659,66 @@
             ],
             "album": "If You Had My Love",
             "played_at": "15/07/2026 - 08:32:38"
+        },
+        {
+            "song_name": "Tether",
+            "artists": [
+                "Franklin"
+            ],
+            "album": "Tether",
+            "played_at": "15/07/2026 - 09:21:10"
+        },
+        {
+            "song_name": "Heaven",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Heaven",
+            "played_at": "15/07/2026 - 09:18:02"
+        },
+        {
+            "song_name": "Someone to Hold",
+            "artists": [
+                "Nu Aspect",
+                "Tudor"
+            ],
+            "album": "Someone to Hold",
+            "played_at": "15/07/2026 - 09:15:34"
+        },
+        {
+            "song_name": "Silver Lines",
+            "artists": [
+                "Astrality",
+                "Daydream Affiliate"
+            ],
+            "album": "Silver Lines",
+            "played_at": "15/07/2026 - 09:11:50"
+        },
+        {
+            "song_name": "Mess Around (Baby Baby)",
+            "artists": [
+                "Rivo",
+                "Jaquet"
+            ],
+            "album": "Mess Around (Baby Baby)",
+            "played_at": "15/07/2026 - 09:08:12"
+        },
+        {
+            "song_name": "Ghost in My Stereo",
+            "artists": [
+                "MIND",
+                "Sam Welch"
+            ],
+            "album": "Ghost in My Stereo",
+            "played_at": "15/07/2026 - 09:04:27"
+        },
+        {
+            "song_name": "What If You Fly",
+            "artists": [
+                "Oliver River"
+            ],
+            "album": "What If You Fly",
+            "played_at": "15/07/2026 - 09:02:27"
         }
     ]
 }
