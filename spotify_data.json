@@ -1,97 +1,6 @@
 {
-    "total_plays": 6523,
+    "total_plays": 6534,
     "tracks": [
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "06/07/2026 - 10:12:03"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Heaven",
-            "played_at": "06/07/2026 - 10:10:05"
-        },
-        {
-            "song_name": "Stay Until the Morning",
-            "artists": [
-                "Stoto"
-            ],
-            "album": "Stay Until the Morning",
-            "played_at": "06/07/2026 - 10:08:02"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Astrality"
-            ],
-            "album": "Need You",
-            "played_at": "06/07/2026 - 10:05:30"
-        },
-        {
-            "song_name": "Dreaming",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Dreaming",
-            "played_at": "06/07/2026 - 10:02:50"
-        },
-        {
-            "song_name": "Something Real",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Something Real",
-            "played_at": "06/07/2026 - 09:51:38"
-        },
-        {
-            "song_name": "Inna Fire",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "Inna Fire",
-            "played_at": "06/07/2026 - 09:36:06"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "06/07/2026 - 09:32:33"
-        },
-        {
-            "song_name": "Your Eyes",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "06/07/2026 - 09:29:40"
-        },
-        {
-            "song_name": "Something Stronger",
-            "artists": [
-                "Rules",
-                "SHYA",
-                "Coldabank"
-            ],
-            "album": "Something Stronger",
-            "played_at": "06/07/2026 - 09:27:11"
-        },
-        {
-            "song_name": "That's Where I Should Be",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "That's Where I Should Be",
-            "played_at": "06/07/2026 - 09:25:03"
-        },
         {
             "song_name": "black tears",
             "artists": [
@@ -1714,6 +1623,100 @@
             ],
             "album": "Reason",
             "played_at": "15/07/2026 - 08:19:42"
+        },
+        {
+            "song_name": "Haunted By You",
+            "artists": [
+                "Kisaya"
+            ],
+            "album": "Haunted By You",
+            "played_at": "15/07/2026 - 08:59:35"
+        },
+        {
+            "song_name": "Movin' To The Sun",
+            "artists": [
+                "HUGEL",
+                "Imael Angel",
+                "Ultra Naté"
+            ],
+            "album": "Twenty One",
+            "played_at": "15/07/2026 - 08:56:06"
+        },
+        {
+            "song_name": "Playback",
+            "artists": [
+                "Daydream Affiliate"
+            ],
+            "album": "Clocks",
+            "played_at": "15/07/2026 - 08:53:44"
+        },
+        {
+            "song_name": "Release Me",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "15/07/2026 - 08:51:23"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "15/07/2026 - 08:48:18"
+        },
+        {
+            "song_name": "underneath",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "underneath",
+            "played_at": "15/07/2026 - 08:45:57"
+        },
+        {
+            "song_name": "Still Feel You",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Still Feel You",
+            "played_at": "15/07/2026 - 08:43:43"
+        },
+        {
+            "song_name": "Cherry Blossom",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Cherry Blossom",
+            "played_at": "15/07/2026 - 08:40:43"
+        },
+        {
+            "song_name": "Times Are Changing",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Times Are Changing",
+            "played_at": "15/07/2026 - 08:38:11"
+        },
+        {
+            "song_name": "Lucid Dreams",
+            "artists": [
+                "Jyye",
+                "Julia Temos"
+            ],
+            "album": "Lucid Dreams",
+            "played_at": "15/07/2026 - 08:35:32"
+        },
+        {
+            "song_name": "If You Had My Love",
+            "artists": [
+                "Paul Schulze",
+                "FŪNKENSTEIN",
+                "LEVII"
+            ],
+            "album": "If You Had My Love",
+            "played_at": "15/07/2026 - 08:32:38"
         }
     ]
 }
