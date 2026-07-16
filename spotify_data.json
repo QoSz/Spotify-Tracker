@@ -1,41 +1,6 @@
 {
-    "total_plays": 6553,
+    "total_plays": 6557,
     "tracks": [
-        {
-            "song_name": "Confess",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "06/07/2026 - 13:45:14"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "06/07/2026 - 13:42:24"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "First Contact",
-            "played_at": "06/07/2026 - 11:36:43"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "06/07/2026 - 14:01:33"
-        },
         {
             "song_name": "Bloom",
             "artists": [
@@ -1717,6 +1682,39 @@
             ],
             "album": "Midnight Zone",
             "played_at": "15/07/2026 - 13:14:16"
+        },
+        {
+            "song_name": "Glow",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "Glow",
+            "played_at": "16/07/2026 - 08:57:52"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Falden",
+                "Fare"
+            ],
+            "album": "Tell Me",
+            "played_at": "16/07/2026 - 08:55:12"
+        },
+        {
+            "song_name": "Heartbeat",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "16/07/2026 - 08:51:35"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "16/07/2026 - 08:49:07"
         }
     ]
 }
