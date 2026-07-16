@@ -1,22 +1,6 @@
 {
-    "total_plays": 6587,
+    "total_plays": 6589,
     "tracks": [
-        {
-            "song_name": "Cold World",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Cold World",
-            "played_at": "08/07/2026 - 08:19:42"
-        },
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "08/07/2026 - 08:17:10"
-        },
         {
             "song_name": "dots",
             "artists": [
@@ -1695,6 +1679,22 @@
             ],
             "album": "Bloom",
             "played_at": "16/07/2026 - 14:32:10"
+        },
+        {
+            "song_name": "Slow Down",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "16/07/2026 - 15:06:51"
+        },
+        {
+            "song_name": "Tell Me",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "16/07/2026 - 15:04:15"
         }
     ]
 }
