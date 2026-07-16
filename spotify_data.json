@@ -1,98 +1,6 @@
 {
-    "total_plays": 6557,
+    "total_plays": 6568,
     "tracks": [
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "06/07/2026 - 18:26:06"
-        },
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "06/07/2026 - 18:18:59"
-        },
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "06/07/2026 - 18:16:07"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "06/07/2026 - 18:12:37"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "06/07/2026 - 14:12:09"
-        },
-        {
-            "song_name": "AIN'T SHIT FREE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "AIN'T SHIT FREE",
-            "played_at": "07/07/2026 - 10:59:43"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "07/07/2026 - 10:57:19"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "07/07/2026 - 10:49:06"
-        },
-        {
-            "song_name": "B's On The Table (feat. 21 Savage)",
-            "artists": [
-                "Drake",
-                "21 Savage"
-            ],
-            "album": "ICEMAN",
-            "played_at": "07/07/2026 - 10:37:12"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "PRODIGY",
-            "played_at": "07/07/2026 - 10:29:06"
-        },
-        {
-            "song_name": "In Reverse",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "In Reverse",
-            "played_at": "07/07/2026 - 11:28:34"
-        },
         {
             "song_name": "Tether",
             "artists": [
@@ -1715,6 +1623,100 @@
             ],
             "album": "I Choose You",
             "played_at": "16/07/2026 - 08:49:07"
+        },
+        {
+            "song_name": "Light The Sky",
+            "artists": [
+                "Valentino"
+            ],
+            "album": "Light The Sky",
+            "played_at": "16/07/2026 - 09:31:37"
+        },
+        {
+            "song_name": "Losing You",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Losing You",
+            "played_at": "16/07/2026 - 09:29:08"
+        },
+        {
+            "song_name": "FEEL THE RUSH",
+            "artists": [
+                "Valentino"
+            ],
+            "album": "FEEL THE RUSH",
+            "played_at": "16/07/2026 - 09:26:13"
+        },
+        {
+            "song_name": "Feel",
+            "artists": [
+                "Avi Snow",
+                "MVCA",
+                "Zeeba"
+            ],
+            "album": "Feel",
+            "played_at": "16/07/2026 - 09:23:11"
+        },
+        {
+            "song_name": "Jealous Girl",
+            "artists": [
+                "overtones"
+            ],
+            "album": "Jealous Girl",
+            "played_at": "16/07/2026 - 09:20:23"
+        },
+        {
+            "song_name": "I Keep Reaching",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Touch",
+            "played_at": "16/07/2026 - 09:18:29"
+        },
+        {
+            "song_name": "What I Need",
+            "artists": [
+                "Naarly",
+                "Sickluv",
+                "Thabza De Soul"
+            ],
+            "album": "What I Need",
+            "played_at": "16/07/2026 - 09:16:01"
+        },
+        {
+            "song_name": "Infinite Love",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Infinite Love",
+            "played_at": "16/07/2026 - 09:11:57"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "16/07/2026 - 09:08:57"
+        },
+        {
+            "song_name": "Stay",
+            "artists": [
+                "Julien Fade"
+            ],
+            "album": "Stay",
+            "played_at": "16/07/2026 - 09:04:57"
+        },
+        {
+            "song_name": "Dreamin",
+            "artists": [
+                "London Topaz",
+                "ANYLIA"
+            ],
+            "album": "Dreamin",
+            "played_at": "16/07/2026 - 09:01:20"
         }
     ]
 }
