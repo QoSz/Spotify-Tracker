@@ -1,102 +1,6 @@
 {
-    "total_plays": 6542,
+    "total_plays": 6553,
     "tracks": [
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "06/07/2026 - 08:01:16"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "06/07/2026 - 07:58:44"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "06/07/2026 - 11:00:26"
-        },
-        {
-            "song_name": "Movin' To The Sun",
-            "artists": [
-                "HUGEL",
-                "Imael Angel",
-                "Ultra Naté"
-            ],
-            "album": "Movin' To The Sun",
-            "played_at": "06/07/2026 - 10:56:44"
-        },
-        {
-            "song_name": "Devil In The Sun",
-            "artists": [
-                "Lucas Estrada",
-                "RUSSI"
-            ],
-            "album": "Devil In The Sun",
-            "played_at": "06/07/2026 - 10:54:22"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "06/07/2026 - 10:51:55"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "06/07/2026 - 13:59:08"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "06/07/2026 - 13:56:28"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "06/07/2026 - 13:53:49"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "06/07/2026 - 13:51:22"
-        },
-        {
-            "song_name": "Out of My Head",
-            "artists": [
-                "Jack Wins",
-                "ManyFew"
-            ],
-            "album": "Out of My Head",
-            "played_at": "06/07/2026 - 13:47:57"
-        },
         {
             "song_name": "Confess",
             "artists": [
@@ -1720,6 +1624,99 @@
             ],
             "album": "Midnight Zone",
             "played_at": "15/07/2026 - 09:53:04"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "15/07/2026 - 17:30:50"
+        },
+        {
+            "song_name": "Sense of Time",
+            "artists": [
+                "Reiny",
+                "EZIA"
+            ],
+            "album": "Sense of Time",
+            "played_at": "15/07/2026 - 17:06:58"
+        },
+        {
+            "song_name": "Need You",
+            "artists": [
+                "Crunkz"
+            ],
+            "album": "Need You",
+            "played_at": "15/07/2026 - 17:04:18"
+        },
+        {
+            "song_name": "Too Tense",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Too Tense",
+            "played_at": "15/07/2026 - 17:02:01"
+        },
+        {
+            "song_name": "Confess",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Longer Days",
+            "played_at": "15/07/2026 - 16:59:56"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "15/07/2026 - 16:57:05"
+        },
+        {
+            "song_name": "promises",
+            "artists": [
+                "abelon"
+            ],
+            "album": "promises",
+            "played_at": "15/07/2026 - 16:52:20"
+        },
+        {
+            "song_name": "Fix Me",
+            "artists": [
+                "CAKES",
+                "Sam Harper"
+            ],
+            "album": "Fix Me",
+            "played_at": "15/07/2026 - 16:45:37"
+        },
+        {
+            "song_name": "eyes open",
+            "artists": [
+                "kalm",
+                "Aiko"
+            ],
+            "album": "cloud chaser",
+            "played_at": "15/07/2026 - 16:42:37"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "15/07/2026 - 16:33:54"
+        },
+        {
+            "song_name": "Midnight Zone",
+            "artists": [
+                "Astrality",
+                "TAPE ANGEL"
+            ],
+            "album": "Midnight Zone",
+            "played_at": "15/07/2026 - 13:14:16"
         }
     ]
 }
