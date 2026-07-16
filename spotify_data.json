@@ -1,22 +1,6 @@
 {
-    "total_plays": 6568,
+    "total_plays": 6570,
     "tracks": [
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "07/07/2026 - 11:25:54"
-        },
-        {
-            "song_name": "under current",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "under current",
-            "played_at": "07/07/2026 - 11:22:46"
-        },
         {
             "song_name": "We Run",
             "artists": [
@@ -1717,6 +1701,22 @@
             ],
             "album": "Dreamin",
             "played_at": "16/07/2026 - 09:01:20"
+        },
+        {
+            "song_name": "No Problemo",
+            "artists": [
+                "young Wozart"
+            ],
+            "album": "No Problemo",
+            "played_at": "16/07/2026 - 12:05:05"
+        },
+        {
+            "song_name": "No Problemo",
+            "artists": [
+                "young Wozart"
+            ],
+            "album": "No Problemo",
+            "played_at": "16/07/2026 - 10:01:54"
         }
     ]
 }
