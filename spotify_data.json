@@ -1,78 +1,6 @@
 {
-    "total_plays": 6589,
+    "total_plays": 6598,
     "tracks": [
-        {
-            "song_name": "dots",
-            "artists": [
-                "all things break"
-            ],
-            "album": "dots",
-            "played_at": "08/07/2026 - 08:13:08"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "08/07/2026 - 08:09:34"
-        },
-        {
-            "song_name": "Losing You",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Losing You",
-            "played_at": "08/07/2026 - 08:07:03"
-        },
-        {
-            "song_name": "HOT THOUGHTS (COME TO LIFE)",
-            "artists": [
-                "CHAIME"
-            ],
-            "album": "HOT THOUGHTS (COME TO LIFE)",
-            "played_at": "08/07/2026 - 08:04:08"
-        },
-        {
-            "song_name": "Steps",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Steps",
-            "played_at": "08/07/2026 - 08:01:19"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "08/07/2026 - 09:24:44"
-        },
-        {
-            "song_name": "Steps",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Steps",
-            "played_at": "08/07/2026 - 22:36:16"
-        },
-        {
-            "song_name": "No Problemo",
-            "artists": [
-                "young Wozart"
-            ],
-            "album": "No Problemo",
-            "played_at": "08/07/2026 - 21:34:57"
-        },
-        {
-            "song_name": "stay",
-            "artists": [
-                "all things break"
-            ],
-            "album": "stay",
-            "played_at": "08/07/2026 - 21:33:10"
-        },
         {
             "song_name": "HOT THOUGHTS (COME TO LIFE)",
             "artists": [
@@ -1695,6 +1623,78 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "16/07/2026 - 15:04:15"
+        },
+        {
+            "song_name": "can't live without you",
+            "artists": [
+                "zone"
+            ],
+            "album": "can't live without you",
+            "played_at": "16/07/2026 - 18:30:39"
+        },
+        {
+            "song_name": "Favorite Place",
+            "artists": [
+                "Ryan Reed"
+            ],
+            "album": "Favorite Place",
+            "played_at": "16/07/2026 - 18:28:18"
+        },
+        {
+            "song_name": "SeeMeNow?",
+            "artists": [
+                "AnthP"
+            ],
+            "album": "SeeMeNow?",
+            "played_at": "16/07/2026 - 18:25:42"
+        },
+        {
+            "song_name": "My All",
+            "artists": [
+                "Pascal Junior"
+            ],
+            "album": "My All",
+            "played_at": "16/07/2026 - 18:20:27"
+        },
+        {
+            "song_name": "You Got Me Singin' Like (Ayoo)",
+            "artists": [
+                "Subsurface"
+            ],
+            "album": "You Got Me Singin' Like (Ayoo)",
+            "played_at": "16/07/2026 - 18:16:26"
+        },
+        {
+            "song_name": "echoes",
+            "artists": [
+                "KAYRO"
+            ],
+            "album": "think of me",
+            "played_at": "16/07/2026 - 18:14:15"
+        },
+        {
+            "song_name": "Not About Love",
+            "artists": [
+                "Ben Dooks"
+            ],
+            "album": "Not About Love",
+            "played_at": "16/07/2026 - 18:11:20"
+        },
+        {
+            "song_name": "Your Body",
+            "artists": [
+                "Marten Lou"
+            ],
+            "album": "Your Body",
+            "played_at": "16/07/2026 - 18:07:55"
+        },
+        {
+            "song_name": "Your Body",
+            "artists": [
+                "Marten Lou"
+            ],
+            "album": "Your Body",
+            "played_at": "16/07/2026 - 15:22:50"
         }
     ]
 }
