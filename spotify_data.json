@@ -1,41 +1,6 @@
 {
-    "total_plays": 6598,
+    "total_plays": 6602,
     "tracks": [
-        {
-            "song_name": "HOT THOUGHTS (COME TO LIFE)",
-            "artists": [
-                "CHAIME"
-            ],
-            "album": "HOT THOUGHTS (COME TO LIFE)",
-            "played_at": "08/07/2026 - 21:29:59"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "08/07/2026 - 21:27:10"
-        },
-        {
-            "song_name": "Show Me",
-            "artists": [
-                "JLV",
-                "Thandi"
-            ],
-            "album": "Show Me",
-            "played_at": "08/07/2026 - 21:23:26"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "08/07/2026 - 21:21:01"
-        },
         {
             "song_name": "Light The Sky",
             "artists": [
@@ -1695,6 +1660,38 @@
             ],
             "album": "Your Body",
             "played_at": "16/07/2026 - 15:22:50"
+        },
+        {
+            "song_name": "MY MIND",
+            "artists": [
+                "COSMOS JONES"
+            ],
+            "album": "MY MIND",
+            "played_at": "16/07/2026 - 18:41:05"
+        },
+        {
+            "song_name": "IS THIS LOVE?",
+            "artists": [
+                "Palm Monkey"
+            ],
+            "album": "IS THIS LOVE?",
+            "played_at": "16/07/2026 - 18:38:25"
+        },
+        {
+            "song_name": "It's Over Now",
+            "artists": [
+                "NM"
+            ],
+            "album": "It's Over Now",
+            "played_at": "16/07/2026 - 18:35:35"
+        },
+        {
+            "song_name": "THAT HEALING",
+            "artists": [
+                "Naarly"
+            ],
+            "album": "THAT HEALING",
+            "played_at": "16/07/2026 - 18:32:52"
         }
     ]
 }
