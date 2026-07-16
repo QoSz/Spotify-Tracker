@@ -1,84 +1,6 @@
 {
-    "total_plays": 6579,
+    "total_plays": 6587,
     "tracks": [
-        {
-            "song_name": "Badtameez Dil",
-            "artists": [
-                "Pritam",
-                "Benny Dayal",
-                "Shefali Alvares",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Yeh Jawaani Hai Deewani",
-            "played_at": "07/07/2026 - 20:08:48"
-        },
-        {
-            "song_name": "Kamli",
-            "artists": [
-                "Pritam",
-                "Sunidhi Chauhan",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Dhoom:3",
-            "played_at": "07/07/2026 - 20:04:35"
-        },
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "07/07/2026 - 20:35:31"
-        },
-        {
-            "song_name": "Dilliwaali Girlfriend",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Sunidhi Chauhan",
-                "Kumaar"
-            ],
-            "album": "Yeh Jawaani Hai Deewani",
-            "played_at": "07/07/2026 - 22:29:19"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Crunkz"
-            ],
-            "album": "Need You",
-            "played_at": "08/07/2026 - 07:57:51"
-        },
-        {
-            "song_name": "Dilliwaali Girlfriend",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Sunidhi Chauhan",
-                "Kumaar"
-            ],
-            "album": "Yeh Jawaani Hai Deewani",
-            "played_at": "08/07/2026 - 07:55:29"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "07/07/2026 - 11:40:55"
-        },
-        {
-            "song_name": "What If You Fly",
-            "artists": [
-                "Oliver River"
-            ],
-            "album": "What If You Fly",
-            "played_at": "08/07/2026 - 08:22:34"
-        },
         {
             "song_name": "Cold World",
             "artists": [
@@ -1707,6 +1629,72 @@
             ],
             "album": "Running",
             "played_at": "16/07/2026 - 14:02:47"
+        },
+        {
+            "song_name": "Upside Down",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Upside Down",
+            "played_at": "16/07/2026 - 15:00:47"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "NOTSOBAD",
+                "MA:RK"
+            ],
+            "album": "Let It Go",
+            "played_at": "16/07/2026 - 14:58:02"
+        },
+        {
+            "song_name": "Knock Me Off My Feet",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Knock Me Off My Feet",
+            "played_at": "16/07/2026 - 14:54:46"
+        },
+        {
+            "song_name": "Stay Until the Morning",
+            "artists": [
+                "Stoto"
+            ],
+            "album": "Stay Until the Morning",
+            "played_at": "16/07/2026 - 14:52:25"
+        },
+        {
+            "song_name": "That's Where I Should Be",
+            "artists": [
+                "MA:RK"
+            ],
+            "album": "That's Where I Should Be",
+            "played_at": "16/07/2026 - 14:49:45"
+        },
+        {
+            "song_name": "MAKELE",
+            "artists": [
+                "Garnic"
+            ],
+            "album": "MAKELE",
+            "played_at": "16/07/2026 - 14:47:23"
+        },
+        {
+            "song_name": "say it plain",
+            "artists": [
+                "i.am.u."
+            ],
+            "album": "over time",
+            "played_at": "16/07/2026 - 14:34:37"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "Astrality",
+                "FLORES"
+            ],
+            "album": "Bloom",
+            "played_at": "16/07/2026 - 14:32:10"
         }
     ]
 }
