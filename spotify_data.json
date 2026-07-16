@@ -1,14 +1,6 @@
 {
-    "total_plays": 6570,
+    "total_plays": 6571,
     "tracks": [
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "07/07/2026 - 11:09:11"
-        },
         {
             "song_name": "What You Saying",
             "artists": [
@@ -1717,6 +1709,14 @@
             ],
             "album": "No Problemo",
             "played_at": "16/07/2026 - 10:01:54"
+        },
+        {
+            "song_name": "sweet love",
+            "artists": [
+                "origins"
+            ],
+            "album": "sweet love",
+            "played_at": "16/07/2026 - 13:29:54"
         }
     ]
 }
