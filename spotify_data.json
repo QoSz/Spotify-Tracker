@@ -1,15 +1,6 @@
 {
-    "total_plays": 6578,
+    "total_plays": 6579,
     "tracks": [
-        {
-            "song_name": "Milegi Milegi (From \"Stree\")",
-            "artists": [
-                "Mika Singh",
-                "Sachin-Jigar"
-            ],
-            "album": "Milegi Milegi (From \"Stree\")",
-            "played_at": "07/07/2026 - 20:11:21"
-        },
         {
             "song_name": "Badtameez Dil",
             "artists": [
@@ -1707,6 +1698,15 @@
             ],
             "album": "sweet love",
             "played_at": "16/07/2026 - 13:32:59"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "16/07/2026 - 14:02:47"
         }
     ]
 }
