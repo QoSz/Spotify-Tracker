@@ -1,57 +1,6 @@
 {
-    "total_plays": 6622,
+    "total_plays": 6628,
     "tracks": [
-        {
-            "song_name": "Feel",
-            "artists": [
-                "Avi Snow",
-                "MVCA",
-                "Zeeba"
-            ],
-            "album": "Feel",
-            "played_at": "09/07/2026 - 08:11:34"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "09/07/2026 - 08:08:46"
-        },
-        {
-            "song_name": "Make Me Feel",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "09/07/2026 - 08:05:04"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "09/07/2026 - 08:01:57"
-        },
-        {
-            "song_name": "99 Eyes",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "99 Eyes",
-            "played_at": "09/07/2026 - 08:50:43"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "09/07/2026 - 08:31:59"
-        },
         {
             "song_name": "Haunted By You",
             "artists": [
@@ -1692,6 +1641,78 @@
             ],
             "album": "Dostana (Original Motion Picture Soundtrack)",
             "played_at": "17/07/2026 - 17:55:24"
+        },
+        {
+            "song_name": "Badtameez Dil",
+            "artists": [
+                "Pritam",
+                "Benny Dayal",
+                "Shefali Alvares",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "played_at": "17/07/2026 - 18:27:54"
+        },
+        {
+            "song_name": "Sunny Sunny",
+            "artists": [
+                "Yo Yo Honey Singh",
+                "Neha Kakkar"
+            ],
+            "album": "Yaariyan",
+            "played_at": "17/07/2026 - 18:23:41"
+        },
+        {
+            "song_name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+            "artists": [
+                "Shashwat Sachdev",
+                "Hanumankind",
+                "Jasmine Sandlas",
+                "Sudhir Yaduvanshi",
+                "Charanjit Ahuja",
+                "Muhammad Sadiq",
+                "Ranjit Kaur",
+                "Babu Singh Maan"
+            ],
+            "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+            "played_at": "17/07/2026 - 18:19:37"
+        },
+        {
+            "song_name": "Chammak Challo",
+            "artists": [
+                "Vishal-Shekhar",
+                "Akon",
+                "Hamsika Iyer",
+                "Vishal Dadlani",
+                "Niranjan Iyengar"
+            ],
+            "album": "Ra-One",
+            "played_at": "17/07/2026 - 18:17:01"
+        },
+        {
+            "song_name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+            "artists": [
+                "Shashwat Sachdev",
+                "Jasmine Sandlas",
+                "Reble"
+            ],
+            "album": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+            "played_at": "17/07/2026 - 18:13:14"
+        },
+        {
+            "song_name": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+            "artists": [
+                "Shashwat Sachdev",
+                "Bombay Rockers",
+                "Irshad Kamil",
+                "Khan Saab",
+                "Reble",
+                "Token",
+                "Jasmine Sandlas",
+                "Sudhir Yaduvanshi"
+            ],
+            "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+            "played_at": "17/07/2026 - 18:02:53"
         }
     ]
 }
