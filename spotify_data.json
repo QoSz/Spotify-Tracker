@@ -1,22 +1,6 @@
 {
-    "total_plays": 6620,
+    "total_plays": 6622,
     "tracks": [
-        {
-            "song_name": "Keep It Simple",
-            "artists": [
-                "Jend"
-            ],
-            "album": "Keep It Simple",
-            "played_at": "09/07/2026 - 08:17:04"
-        },
-        {
-            "song_name": "Cherish",
-            "artists": [
-                "Badflite"
-            ],
-            "album": "Cherish",
-            "played_at": "09/07/2026 - 08:14:59"
-        },
         {
             "song_name": "Feel",
             "artists": [
@@ -1686,6 +1670,28 @@
             ],
             "album": "Play Hard",
             "played_at": "17/07/2026 - 12:10:32"
+        },
+        {
+            "song_name": "Nashe Si Chadh Gayi",
+            "artists": [
+                "Vishal-Shekhar",
+                "Arijit Singh",
+                "Caralisa Monteiro",
+                "Jaideep Sahni"
+            ],
+            "album": "Befikre",
+            "played_at": "17/07/2026 - 17:59:22"
+        },
+        {
+            "song_name": "Desi Girl",
+            "artists": [
+                "Vishal-Shekhar",
+                "Shankar Mahadevan",
+                "Sunidhi Chauhan",
+                "Vishal Dadlani"
+            ],
+            "album": "Dostana (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 17:55:24"
         }
     ]
 }
