@@ -1,15 +1,6 @@
 {
-    "total_plays": 6652,
+    "total_plays": 6653,
     "tracks": [
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "09/07/2026 - 13:04:58"
-        },
         {
             "song_name": "Kamli",
             "artists": [
@@ -1753,6 +1744,16 @@
             ],
             "album": "Chogada (From \"Loveyatri\")",
             "played_at": "17/07/2026 - 19:35:10"
+        },
+        {
+            "song_name": "Slow Motion",
+            "artists": [
+                "Vishal-Shekhar",
+                "Shreya Ghoshal",
+                "Nakash Aziz"
+            ],
+            "album": "Bharat",
+            "played_at": "17/07/2026 - 20:06:00"
         }
     ]
 }
