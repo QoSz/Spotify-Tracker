@@ -1,14 +1,6 @@
 {
-    "total_plays": 6602,
+    "total_plays": 6603,
     "tracks": [
-        {
-            "song_name": "Light The Sky",
-            "artists": [
-                "Valentino"
-            ],
-            "album": "Light The Sky",
-            "played_at": "08/07/2026 - 21:17:57"
-        },
         {
             "song_name": "Movin' To The Sun",
             "artists": [
@@ -1692,6 +1684,14 @@
             ],
             "album": "THAT HEALING",
             "played_at": "16/07/2026 - 18:32:52"
+        },
+        {
+            "song_name": "Potential",
+            "artists": [
+                "TRFN"
+            ],
+            "album": "Potential",
+            "played_at": "16/07/2026 - 18:51:05"
         }
     ]
 }
