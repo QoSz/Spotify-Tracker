@@ -1,78 +1,6 @@
 {
-    "total_plays": 6644,
+    "total_plays": 6652,
     "tracks": [
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "09/07/2026 - 16:23:06"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "09/07/2026 - 16:19:45"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "09/07/2026 - 09:39:01"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "09/07/2026 - 16:48:38"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Silver Lines",
-            "played_at": "09/07/2026 - 16:45:10"
-        },
-        {
-            "song_name": "Let Me In",
-            "artists": [
-                "London Topaz",
-                "Sophia Brown"
-            ],
-            "album": "Let Me In",
-            "played_at": "09/07/2026 - 16:41:32"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "09/07/2026 - 17:36:47"
-        },
-        {
-            "song_name": "I Can't See",
-            "artists": [
-                "ROW",
-                "Samuel Miller"
-            ],
-            "album": "I Can't See",
-            "played_at": "09/07/2026 - 17:55:22"
-        },
         {
             "song_name": "Running",
             "artists": [
@@ -1745,6 +1673,86 @@
             ],
             "album": "Student of the Year (Original Motion Picture Soundtrack)",
             "played_at": "17/07/2026 - 19:05:17"
+        },
+        {
+            "song_name": "Dance Basanti",
+            "artists": [
+                "Sachin-Jigar",
+                "Vishal Dadlani",
+                "Anushka Manchanda"
+            ],
+            "album": "Ungli (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 20:01:52"
+        },
+        {
+            "song_name": "Aankh Marey",
+            "artists": [
+                "Neha Kakkar",
+                "Mika Singh",
+                "Kumar Sanu"
+            ],
+            "album": "Simmba",
+            "played_at": "17/07/2026 - 19:58:08"
+        },
+        {
+            "song_name": "Kiya Kiya",
+            "artists": [
+                "Anand Raj Anand",
+                "Shweta Pandit",
+                "Anjaan Sagri"
+            ],
+            "album": "Welcome (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:54:35"
+        },
+        {
+            "song_name": "Zingaat",
+            "artists": [
+                "Ajay-Atul"
+            ],
+            "album": "Dhadak (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:49:33"
+        },
+        {
+            "song_name": "Thumkeshwari",
+            "artists": [
+                "Sachin-Jigar",
+                "Rashmeet Kaur",
+                "Ash King",
+                "Divya Kumar",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Bhediya (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:45:46"
+        },
+        {
+            "song_name": "Chikni Chameli",
+            "artists": [
+                "Ajay-Atul",
+                "Shreya Ghoshal"
+            ],
+            "album": "Chikni Chameli",
+            "played_at": "17/07/2026 - 19:43:03"
+        },
+        {
+            "song_name": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
+            "artists": [
+                "Sachin-Jigar",
+                "Rashmeet Kaur",
+                "Jigar Saraiya",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
+            "played_at": "17/07/2026 - 19:37:59"
+        },
+        {
+            "song_name": "Chogada (From \"Loveyatri\")",
+            "artists": [
+                "Darshan Raval",
+                "Asees Kaur",
+                "Lijo George-Dj Chetas"
+            ],
+            "album": "Chogada (From \"Loveyatri\")",
+            "played_at": "17/07/2026 - 19:35:10"
         }
     ]
 }
