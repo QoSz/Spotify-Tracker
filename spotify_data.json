@@ -1,39 +1,6 @@
 {
-    "total_plays": 6615,
+    "total_plays": 6619,
     "tracks": [
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "08/07/2026 - 20:40:50"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "09/07/2026 - 08:28:31"
-        },
-        {
-            "song_name": "Will I Know",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Touch",
-            "played_at": "09/07/2026 - 08:25:15"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "09/07/2026 - 08:22:05"
-        },
         {
             "song_name": "Sense of Time",
             "artists": [
@@ -1688,6 +1655,38 @@
             ],
             "album": "I Met You",
             "played_at": "17/07/2026 - 10:43:20"
+        },
+        {
+            "song_name": "Lost With You - slowed",
+            "artists": [
+                "Luca Noir"
+            ],
+            "album": "Lost With You",
+            "played_at": "17/07/2026 - 11:09:15"
+        },
+        {
+            "song_name": "When It's Over",
+            "artists": [
+                "Neon Tide"
+            ],
+            "album": "When It's Over",
+            "played_at": "17/07/2026 - 11:06:40"
+        },
+        {
+            "song_name": "A Kiss - Sped Up",
+            "artists": [
+                "Hyze"
+            ],
+            "album": "A Kiss",
+            "played_at": "17/07/2026 - 11:03:31"
+        },
+        {
+            "song_name": "Slow Heat - Sped Up",
+            "artists": [
+                "MANTOX"
+            ],
+            "album": "Slow Heat",
+            "played_at": "17/07/2026 - 11:01:11"
         }
     ]
 }
