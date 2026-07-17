@@ -1,72 +1,6 @@
 {
-    "total_plays": 6628,
+    "total_plays": 6636,
     "tracks": [
-        {
-            "song_name": "Haunted By You",
-            "artists": [
-                "Kisaya"
-            ],
-            "album": "Haunted By You",
-            "played_at": "09/07/2026 - 09:18:28"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "09/07/2026 - 09:14:59"
-        },
-        {
-            "song_name": "Knock Me Off My Feet",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Knock Me Off My Feet",
-            "played_at": "09/07/2026 - 09:12:12"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "09/07/2026 - 09:09:50"
-        },
-        {
-            "song_name": "Release Me",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "09/07/2026 - 09:07:22"
-        },
-        {
-            "song_name": "Light The Sky",
-            "artists": [
-                "Valentino"
-            ],
-            "album": "Light The Sky",
-            "played_at": "09/07/2026 - 09:04:17"
-        },
-        {
-            "song_name": "Silverlight",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Silverlight",
-            "played_at": "09/07/2026 - 09:01:47"
-        },
-        {
-            "song_name": "Let It All Work Out",
-            "artists": [
-                "Lil Wayne",
-                "Sampha"
-            ],
-            "album": "Tha Carter V",
-            "played_at": "09/07/2026 - 12:50:03"
-        },
         {
             "song_name": "Push It",
             "artists": [
@@ -1713,6 +1647,90 @@
             ],
             "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
             "played_at": "17/07/2026 - 18:02:53"
+        },
+        {
+            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "artists": [
+                "Jasmine Sandlas",
+                "Garry Sandhu",
+                "Tanishk Bagchi",
+                "Intense"
+            ],
+            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+            "played_at": "17/07/2026 - 18:59:35"
+        },
+        {
+            "song_name": "Jhoome Jo Pathaan",
+            "artists": [
+                "Vishal-Shekhar",
+                "Arijit Singh",
+                "Sukriti Kakar",
+                "Vishal Dadlani",
+                "Shekhar Ravjiani",
+                "Kumaar"
+            ],
+            "album": "Pathaan",
+            "played_at": "17/07/2026 - 18:56:26"
+        },
+        {
+            "song_name": "Naal Nachna",
+            "artists": [
+                "Shashwat Sachdev",
+                "Afsana Khan",
+                "Irshad Kamil",
+                "Reble"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "17/07/2026 - 18:52:57"
+        },
+        {
+            "song_name": "Sheila Ki Jawani",
+            "artists": [
+                "Vishal-Shekhar",
+                "Sunidhi Chauhan",
+                "Vishal Dadlani"
+            ],
+            "album": "Tees Maar Khan",
+            "played_at": "17/07/2026 - 18:50:22"
+        },
+        {
+            "song_name": "Lutt Le Gaya",
+            "artists": [
+                "Shashwat Sachdev",
+                "Simran Chaudhary"
+            ],
+            "album": "Dhurandhar",
+            "played_at": "17/07/2026 - 18:45:40"
+        },
+        {
+            "song_name": "Bom Diggy Diggy",
+            "artists": [
+                "Zack Knight",
+                "Jasmin Walia",
+                "Kumaar"
+            ],
+            "album": "Sonu Ke Titu Ki Sweety",
+            "played_at": "17/07/2026 - 18:41:26"
+        },
+        {
+            "song_name": "Tum Hi Ho Bandhu",
+            "artists": [
+                "Pritam",
+                "Neeraj Shridhar",
+                "Kavita Seth"
+            ],
+            "album": "Cocktail (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 18:37:27"
+        },
+        {
+            "song_name": "Subha Hone Na De",
+            "artists": [
+                "Pritam",
+                "Mika Singh",
+                "Shefali Alvares"
+            ],
+            "album": "Desi Boyz",
+            "played_at": "17/07/2026 - 18:32:43"
         }
     ]
 }
