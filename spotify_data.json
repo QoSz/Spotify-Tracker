@@ -1,14 +1,6 @@
 {
-    "total_plays": 6607,
+    "total_plays": 6608,
     "tracks": [
-        {
-            "song_name": "Take My Hand Tonight",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "08/07/2026 - 21:05:14"
-        },
         {
             "song_name": "stay here don't go",
             "artists": [
@@ -1689,6 +1681,14 @@
             ],
             "album": "Potential",
             "played_at": "17/07/2026 - 08:07:22"
+        },
+        {
+            "song_name": "I Met You",
+            "artists": [
+                "Ryan Reed"
+            ],
+            "album": "I Met You",
+            "played_at": "17/07/2026 - 09:17:33"
         }
     ]
 }
