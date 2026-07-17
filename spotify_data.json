@@ -1,78 +1,6 @@
 {
-    "total_plays": 6636,
+    "total_plays": 6644,
     "tracks": [
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "09/07/2026 - 12:44:54"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "09/07/2026 - 12:33:30"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "09/07/2026 - 12:27:51"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "09/07/2026 - 16:38:11"
-        },
-        {
-            "song_name": "Bits of Hope",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Bits of Hope",
-            "played_at": "09/07/2026 - 16:35:31"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "09/07/2026 - 16:32:51"
-        },
-        {
-            "song_name": "What I Need",
-            "artists": [
-                "Naarly",
-                "Sickluv",
-                "Thabza De Soul"
-            ],
-            "album": "What I Need",
-            "played_at": "09/07/2026 - 16:30:14"
-        },
-        {
-            "song_name": "Where the Sun Goes Down",
-            "artists": [
-                "Badflite",
-                "RYVM"
-            ],
-            "album": "Where the Sun Goes Down",
-            "played_at": "09/07/2026 - 16:26:10"
-        },
         {
             "song_name": "Games",
             "artists": [
@@ -1731,6 +1659,92 @@
             ],
             "album": "Desi Boyz",
             "played_at": "17/07/2026 - 18:32:43"
+        },
+        {
+            "song_name": "Kamli",
+            "artists": [
+                "Pritam",
+                "Sunidhi Chauhan",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Dhoom:3",
+            "played_at": "17/07/2026 - 19:31:00"
+        },
+        {
+            "song_name": "Kusu Kusu",
+            "artists": [
+                "Tanishk Bagchi",
+                "Zahrah S Khan",
+                "Dev Negi"
+            ],
+            "album": "Satyameva Jayate 2",
+            "played_at": "17/07/2026 - 19:27:04"
+        },
+        {
+            "song_name": "Kyun",
+            "artists": [
+                "Talwiinder",
+                "NDS"
+            ],
+            "album": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:23:48"
+        },
+        {
+            "song_name": "Kar Gayi Chull",
+            "artists": [
+                "Badshah",
+                "Amaal Mallik",
+                "Fazilpuria",
+                "Sukriti Kakar",
+                "Neha Kakkar"
+            ],
+            "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:20:14"
+        },
+        {
+            "song_name": "The Humma Song",
+            "artists": [
+                "A.R. Rahman",
+                "Badshah",
+                "Tanishk Bagchi",
+                "Shashaa Tirupati",
+                "Jubin Nautiyal"
+            ],
+            "album": "OK Jaanu (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:17:06"
+        },
+        {
+            "song_name": "Dilliwaali Girlfriend",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Sunidhi Chauhan",
+                "Kumaar"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "played_at": "17/07/2026 - 19:14:06"
+        },
+        {
+            "song_name": "Ainvayi Ainvayi",
+            "artists": [
+                "Salim–Sulaiman",
+                "Salim Merchant",
+                "Sunidhi Chauhan",
+                "Amitabh Bhattacharya"
+            ],
+            "album": "Band Baaja Baaraat",
+            "played_at": "17/07/2026 - 19:09:45"
+        },
+        {
+            "song_name": "The Disco Song",
+            "artists": [
+                "Vishal-Shekhar",
+                "Benny Dayal",
+                "Sunidhi Chauhan",
+                "Nazia Hassan"
+            ],
+            "album": "Student of the Year (Original Motion Picture Soundtrack)",
+            "played_at": "17/07/2026 - 19:05:17"
         }
     ]
 }
