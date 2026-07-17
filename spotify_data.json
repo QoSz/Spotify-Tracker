@@ -1,63 +1,6 @@
 {
-    "total_plays": 6608,
+    "total_plays": 6615,
     "tracks": [
-        {
-            "song_name": "stay here don't go",
-            "artists": [
-                "i'm loam"
-            ],
-            "album": "stay here don't go",
-            "played_at": "08/07/2026 - 21:01:12"
-        },
-        {
-            "song_name": "Healin",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Healin",
-            "played_at": "08/07/2026 - 20:58:15"
-        },
-        {
-            "song_name": "Journey (Don't Let Me Go)",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Journey (Don't Let Me Go)",
-            "played_at": "08/07/2026 - 20:55:44"
-        },
-        {
-            "song_name": "Release Me",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "08/07/2026 - 20:52:57"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "NOTSOBAD",
-                "MA:RK"
-            ],
-            "album": "Let It Go",
-            "played_at": "08/07/2026 - 20:49:53"
-        },
-        {
-            "song_name": "All I Need",
-            "artists": [
-                "NOTSOBAD"
-            ],
-            "album": "All I Need",
-            "played_at": "08/07/2026 - 20:46:37"
-        },
-        {
-            "song_name": "Hit the Ground",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Hit the Ground",
-            "played_at": "08/07/2026 - 20:43:16"
-        },
         {
             "song_name": "Are You Real?",
             "artists": [
@@ -1689,6 +1632,62 @@
             ],
             "album": "I Met You",
             "played_at": "17/07/2026 - 09:17:33"
+        },
+        {
+            "song_name": "Stay Close - Sped Up",
+            "artists": [
+                "Dessina"
+            ],
+            "album": "Stay Close",
+            "played_at": "17/07/2026 - 10:58:06"
+        },
+        {
+            "song_name": "Come Back - Sped Up",
+            "artists": [
+                "Nalys"
+            ],
+            "album": "Come Back",
+            "played_at": "17/07/2026 - 10:55:40"
+        },
+        {
+            "song_name": "Favorite Place - Slowed",
+            "artists": [
+                "Ryan Reed"
+            ],
+            "album": "Favorite Place",
+            "played_at": "17/07/2026 - 10:53:22"
+        },
+        {
+            "song_name": "Love - Slowed",
+            "artists": [
+                "Melion"
+            ],
+            "album": "Love",
+            "played_at": "17/07/2026 - 10:50:34"
+        },
+        {
+            "song_name": "Back To You",
+            "artists": [
+                "NM"
+            ],
+            "album": "Back To You",
+            "played_at": "17/07/2026 - 10:48:01"
+        },
+        {
+            "song_name": "Hearts",
+            "artists": [
+                "Zarco"
+            ],
+            "album": "Hearts",
+            "played_at": "17/07/2026 - 10:45:57"
+        },
+        {
+            "song_name": "I Met You",
+            "artists": [
+                "Ryan Reed"
+            ],
+            "album": "I Met You",
+            "played_at": "17/07/2026 - 10:43:20"
         }
     ]
 }
