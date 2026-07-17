@@ -1,15 +1,6 @@
 {
-    "total_plays": 6619,
+    "total_plays": 6620,
     "tracks": [
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "09/07/2026 - 08:19:44"
-        },
         {
             "song_name": "Keep It Simple",
             "artists": [
@@ -1687,6 +1678,14 @@
             ],
             "album": "Slow Heat",
             "played_at": "17/07/2026 - 11:01:11"
+        },
+        {
+            "song_name": "Play Hard",
+            "artists": [
+                "elsewhere."
+            ],
+            "album": "Play Hard",
+            "played_at": "17/07/2026 - 12:10:32"
         }
     ]
 }
