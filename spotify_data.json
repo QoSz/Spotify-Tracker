@@ -1,41 +1,6 @@
 {
-    "total_plays": 6603,
+    "total_plays": 6607,
     "tracks": [
-        {
-            "song_name": "Movin' To The Sun",
-            "artists": [
-                "HUGEL",
-                "Imael Angel",
-                "Ultra Naté"
-            ],
-            "album": "Twenty One",
-            "played_at": "08/07/2026 - 21:15:29"
-        },
-        {
-            "song_name": "the morning",
-            "artists": [
-                "kalm"
-            ],
-            "album": "the morning",
-            "played_at": "08/07/2026 - 21:13:06"
-        },
-        {
-            "song_name": "Missing Me",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Missing Me",
-            "played_at": "08/07/2026 - 21:10:46"
-        },
-        {
-            "song_name": "wild rides",
-            "artists": [
-                "daylight"
-            ],
-            "album": "wild rides",
-            "played_at": "08/07/2026 - 21:07:59"
-        },
         {
             "song_name": "Take My Hand Tonight",
             "artists": [
@@ -1692,6 +1657,38 @@
             ],
             "album": "Potential",
             "played_at": "16/07/2026 - 18:51:05"
+        },
+        {
+            "song_name": "Pull Me In",
+            "artists": [
+                "Medo"
+            ],
+            "album": "Pull Me In",
+            "played_at": "17/07/2026 - 08:15:29"
+        },
+        {
+            "song_name": "We Can Go",
+            "artists": [
+                "Malia"
+            ],
+            "album": "We Can Go",
+            "played_at": "17/07/2026 - 08:13:07"
+        },
+        {
+            "song_name": "Afraid of Love",
+            "artists": [
+                "TRFN"
+            ],
+            "album": "Afraid of Love",
+            "played_at": "17/07/2026 - 08:10:32"
+        },
+        {
+            "song_name": "Potential",
+            "artists": [
+                "TRFN"
+            ],
+            "album": "Potential",
+            "played_at": "17/07/2026 - 08:07:22"
         }
     ]
 }
