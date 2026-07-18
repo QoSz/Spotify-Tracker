@@ -1,16 +1,6 @@
 {
-    "total_plays": 6653,
+    "total_plays": 6654,
     "tracks": [
-        {
-            "song_name": "Kamli",
-            "artists": [
-                "Pritam",
-                "Sunidhi Chauhan",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Dhoom:3",
-            "played_at": "10/07/2026 - 20:17:17"
-        },
         {
             "song_name": "Chikni Chameli",
             "artists": [
@@ -1754,6 +1744,17 @@
             ],
             "album": "Bharat",
             "played_at": "17/07/2026 - 20:06:00"
+        },
+        {
+            "song_name": "Coca Cola (From \"Luka Chuppi\")",
+            "artists": [
+                "Tony Kakkar",
+                "Neha Kakkar",
+                "Young Desi",
+                "Tanishk Bagchi"
+            ],
+            "album": "Coca Cola (From \"Luka Chuppi\")",
+            "played_at": "17/07/2026 - 20:19:11"
         }
     ]
 }
